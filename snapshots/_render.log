@@ -1,11 +1,11 @@
 [yuseong-round-event] rendered 1328 chars CHANGED
 [seogu-yeyak] rendered 1971 chars CHANGED
-[pyoungsong] rendered 828 chars CHANGED
+[pyoungsong] rendered 828 chars same
 [djkids-musical] rendered 1618 chars CHANGED
 [djkids-notice] rendered 1023 chars CHANGED
 [dctf] rendered 1492 chars same
-[nol-family] rendered 2289 chars CHANGED
-[ticketlink-notice] rendered 1468 chars CHANGED
+[nol-family] rendered 2278 chars CHANGED
+[ticketlink-notice] RENDER ERROR rendered but too little text (0 chars)
 [oworld-notice] rendered 1067 chars same
 [baekje-schedule] rendered 1692 chars CHANGED
 [geumriver-dam] rendered 1983 chars CHANGED
@@ -13,7 +13,7 @@
 [pyeongtaek-main] rendered 7163 chars CHANGED
 [kopis-daejeon-kids] rendered 4441 chars same
 [kwater-realtime-multidam] rendered 3751 chars CHANGED
-[ticketlink-kids-cat-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/22471']' timed out after 50 seconds
 [gongjeon-kids] rendered 482 chars CHANGED
 [navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
 [katc-schedule] rendered 687 chars CHANGED
@@ -26,16 +26,11 @@
 [khs-notice] rendered 309 chars same
 [royal-khs-events] rendered 2739 chars CHANGED
 [expo-park] rendered 735 chars CHANGED
-[nol-upcoming-notice] rendered 1253 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 1248 chars CHANGED
+[nol-upcoming-notice] rendered 1203 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 1299 chars CHANGED
 [kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[ticketlink-notice-mobile] RENDER ERROR rendered but too little text (0 chars)
 [pyoungsong-performance] rendered 953 chars same
 [kopis-time-beyond-daejeon] rendered 632 chars same
 [yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
 [dsecc-programs] rendered 1943 chars CHANGED
-[seogu-exprn-list] rendered 2459 chars CHANGED
-[seogu-event-list] rendered 2459 chars CHANGED
-[seogu-edu-list] rendered 2465 chars CHANGED
-[daejeon-its-board] rendered 3573 chars CHANGED
-[zeropay-events] rendered 529 chars CHANGED
