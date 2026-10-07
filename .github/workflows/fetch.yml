@@ -1,0 +1,33 @@
+name: fetch-watched-pages
+on:
+  schedule:
+    - cron: "17,47 * * * *"
+  workflow_dispatch:
+concurrency:
+  group: fetch
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 1 }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Fetch watched pages
+        run: timeout -k 15 840 python scripts/fetch_pages.py; python scripts/parse_listings.py || echo "parse_listings failed"
+      - name: Commit fetched snapshots first
+        run: bash scripts/commit_snapshots.sh
+      - name: Install Playwright (runner's preinstalled Chrome)
+        continue-on-error: true
+        timeout-minutes: 3
+        run: pip install -q playwright
+      - name: Render JS pages
+        continue-on-error: true
+        timeout-minutes: 9
+        run: python scripts/render_pages.py 2>&1 | tee snapshots/_render.log
+      - name: Commit snapshots
+        run: bash scripts/commit_snapshots.sh

@@ -1,0 +1,37 @@
+name: deploy-worker
+on:
+  push:
+    branches: [main]
+    paths: ["worker/worker.js", ".github/workflows/deploy-worker.yml"]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Upload worker/worker.js to Cloudflare (keeps existing secrets/vars)
+        env:
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ACCOUNT_ID: b134ecb933030498cdf16b23bf70b52d
+          SCRIPT: telegram-relay
+        run: |
+          if [ -z "$CF_API_TOKEN" ]; then echo "CF_API_TOKEN secret not set"; exit 1; fi
+          cat > metadata.json <<'JSON'
+          {"main_module":"worker.js","compatibility_date":"2026-01-01","keep_bindings":["secret_text","plain_text"]}
+          JSON
+          code=$(curl -sS -o resp.json -w "%{http_code}" -X PUT \
+            "https://api.cloudflare.com/client/v4/accounts/$CF_ACCOUNT_ID/workers/scripts/$SCRIPT" \
+            -H "Authorization: Bearer $CF_API_TOKEN" \
+            -F "metadata=@metadata.json;type=application/json" \
+            -F "worker.js=@worker/worker.js;type=application/javascript+module")
+          echo "script HTTP $code"; python3 -c "import json;d=json.load(open('resp.json'));print('success:',d.get('success'));print(d.get('errors'))"
+          case "$code" in 2*) ;; *) exit 1;; esac
+          code2=$(curl -sS -o resp2.json -w "%{http_code}" -X PUT \
+            "https://api.cloudflare.com/client/v4/accounts/$CF_ACCOUNT_ID/workers/scripts/$SCRIPT/schedules" \
+            -H "Authorization: Bearer $CF_API_TOKEN" -H "Content-Type: application/json" \
+            --data '[{"cron":"*/5 * * * *"},{"cron":"2 * * * *"}]')
+          echo "schedules HTTP $code2"; python3 -c "import json;d=json.load(open('resp2.json'));print('success:',d.get('success'));print(d.get('result'));print(d.get('errors'))"
+          case "$code2" in 2*) ;; *) exit 1;; esac
