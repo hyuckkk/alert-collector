@@ -756,5 +756,21 @@
     "url": "https://mom-mom.net/travel/places/6a583bb00c06be407d755ad0",
     "note": "가족공연 판매 페이지(샌드매직쇼 사라진 모래상자) — JOB1, 클라우드 WebFetch 차단",
     "render": true
+  },
+  {
+    "id": "djstar-notice-158",
+    "url": "https://www.djstar.kr/bbs/board.php?bo_table=web_notice&wr_id=158",
+    "note": "대전시민천문대 공지 '2026년 11월 20일(금) 겨울의…'(10-02) 상세 — 행사명·대상·접수 확인용. WebFetch egress 차단. JOB10 2026-10-07 추가"
+  },
+  {
+    "id": "djstar-notice-160",
+    "url": "https://www.djstar.kr/bbs/board.php?bo_table=web_notice&wr_id=160",
+    "note": "대전시민천문대 공지 KAIST 밴드동아리 '동틀무렵'(10-03) 상세 — 천문대 공연 여부 확인용(JOB10/JOB1). JOB10 2026-10-07 추가"
+  },
+  {
+    "id": "sejong-notice-imnansu-play",
+    "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162716Tg5lA9n&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
+    "render": true,
+    "note": "세종시 공지 20126 '세종 임난수 은행나무 아래에서 즐기는 체험놀이' 참가자 모집(문화유산과, 10-06) 추정 상세 — 대상·거주지 제한·접수 확인용. WebFetch egress 차단. JOB10 2026-10-07 추가(nttId 목록 순서로 추정, 제목 불일치 시 교체)"
   }
 ]
