@@ -1,8 +1,538 @@
 {
- "updated": "2026-10-07T22:07:13+09:00",
+ "updated": "2026-10-07T22:39:56+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 971,
+ "new_this_run": 69,
  "hits": [
+  {
+   "title": "11년 만에 돌아온 ‘캪틴큐’…CU에서 보물상자로 만난다 - Daum",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpdlVQUTZkN0p4UlptUjhZY1o4VldfYkhBUV85Ym9nakY1V1YtVDFLYllxdEhBNWlVdkV2Nm5JNjFSU1Zscnc?oc=5",
+   "pub": "Fri, 02 Oct 2026 09:18:03 GMT",
+   "engine": "gnews",
+   "query": "기념주화 예약 접수",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "11년 만에 돌아온 '캪틴큐' … '보물상자'로 부활 - 뉴데일리",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43ZzVOTHBvQXgyUlZJN3E3TDYyM1B4LUhIVHpLSVR6MXIyejljYl9pWS1PTEF5b2U0Y2RKQjRtSkphWkhfdkdLWDgybndfUzMtVjhiVU5KUWdPbXJuUVRfRUlnY0RDU2IxSjlzVHV6X2ltZWR0S2pCbXlEa9IBgAFBVV95cUxQS1BmbTA1N2Rsbi0zRHJFOE1Rb2FDcXMtQkFVRVVZWjY3TVRCa181YUthTEluWlpwT093Rl95Qjl2cnExaW9zV2Vha1liVDloZ3NUWUZRQlExU1hUNUNZTTFEbUpoRmhRSTBaZ0hibXFPZUMweVp2bUFvZTUtVUxDUA?oc=5",
+   "pub": "Fri, 02 Oct 2026 04:28:25 GMT",
+   "engine": "gnews",
+   "query": "기념주화 예약 접수",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "[강민혜 기자의 Face to Face] 성창훈 한국조폐공사 사장 “해법은 AI 전환…에이전트 보안구축 역점” - 주간한국",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1aHF1Ry10YXQ0V2pIclkwTmlpbUdQOUhxSHRtbnd6TU05cmJROEJnWWhnVU1PV2lrOWdXNTJVOXNJbHFRS2RxZlJ1M2xfU3B6WnRkWWhYYjVjMHBEM2RHSDE2LTdxUm41WjNzbkhONW9XUDA10gF0QVVfeXFMUHVocXVHLXRhdDRXakhyWTBOaWltR1A5SHFIdG1ud3pNTTlyYlE4QmdZaGdVTU9XaWs5Z1c1MlU5c0lscVFLZHFmUnUzbF9TcHpadGRZaFhiNWMwcEQzZEdIMTYtN3FSbjVaM3NuSE41b1dQMDU?oc=5",
+   "pub": "Tue, 06 Oct 2026 08:34:14 GMT",
+   "engine": "gnews",
+   "query": "한국은행 기념주화",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "이야기'는 그 과정을 담은 경영에세이다. 책이 주목하는 것은 조폐공사가 오랫동안 쌓아온 보안·인증 기술이다. 화폐의 위조를 막고...성심당과의 협업이다. 2020년 선보인 '골드바빵 피낭시에'는 골드바의 형태와 이미지를 지역 제빵 브랜드에 접목했다. 2025년...",
+   "url": "http://v.daum.net/v/20261006182057306",
+   "engine": "daum_news",
+   "query": "조폐공사 골드바 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "'창립 25년' 한국조폐공사, 이달 말까지 온·오프라인 이벤트 진행 - 이투데이",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5TW9iRmlRUnlNbTZjVFlFMUxIWlo2TDUxZWtKQkIxcVV2cVVSejVlSU5KV1dsODFHNlhaeDJ4STVpVmhfcnZpazBRNzJxbVRVZGVFWA?oc=5",
+   "pub": "Tue, 06 Oct 2026 04:19:00 GMT",
+   "engine": "gnews",
+   "query": "조폐공사 골드바 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "한국조폐공사, 골드바 75번째 구매 고객에 사은품…75주년 이벤트 - 키즈맘",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsYVZnNjRpX0taNGhQUnh5TjU4RkJxNjhYQVFRSTNYbG04Q18yb2pHUUJMd1BlRnBqSW5aTWxVREpuNHhIdVBIU2s2VGM3cDBmanpiYW8wbDVOZnJYVlMzdVQ0dkFma2Zq?oc=5",
+   "pub": "Tue, 06 Oct 2026 23:31:22 GMT",
+   "engine": "gnews",
+   "query": "조폐공사 골드바 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "[대전=뉴시스]조폐공사가 창립 75주년을 맞아 고객과 함께 의미를 나누고 제품의 소장 가치를 알리기 위한 온·오프라인 이벤트를 6일...공사 제품 수집왕을 찾아라' 응모전을 열어 고객이 보유한 기념메달, 주화세트, 카드형 제품, 화폐굿즈 등의 사진과 수집...",
+   "url": "http://v.daum.net/v/20261006154705962",
+   "engine": "daum_news",
+   "query": "조폐공사 기념메달 판매",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "제공. 재판매 및 DB금지) /뉴스1 (대전=뉴스1) 박찬수 기자 = 한국조폐공사가 지폐 속 위인들을 친근한 캐릭터로 재탄생시킨 MZ세대 아이디어 기반의 '조팸스'를 선보인다. 한국조폐공사는 국민대학교 학생들의 아이디어로 탄생한 화폐 속 위인 캐릭터 '조팸스...",
+   "url": "http://v.daum.net/v/20261006085630925",
+   "engine": "daum_news",
+   "query": "조폐공사 기념메달 판매",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "완판’되며 화제를 모았다. 디아블로 메달은 현재 2차 예약판매 중이다. 공사 관계자는 “1996년 출시된 디아블로는 오랜 기간 전...여전히 즐기는 취미생활”이라고 협업의 의미를 밝혔다. 기념 메달의 본질이 기록과 보존에 있음을 고려하면 한 시대를 대표하는...",
+   "url": "http://v.daum.net/v/20261005120159157",
+   "engine": "daum_news",
+   "query": "조폐공사 기념메달 판매",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "생생히 담아내 소장 가치를 높였다. 2026.7.3 [울주군 제공. 재판매 및 DB 금지] young@yna.co.kr 선착순 3만명을 제외한 7봉 완등자는 오는 12월 중 한국조폐공사 인터넷 쇼핑몰에서 기념메달을 별도로 구매할 수 있다. young@yna.co.kr (끝) ▶제보는 카톡 okjebo",
+   "url": "http://v.daum.net/v/20261005091151537",
+   "engine": "daum_news",
+   "query": "조폐공사 기념메달 판매",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "메이드(MONEYMADE)’다. 조폐공사에서 발생하는 파쇄 은행권 부산물은 연간 약 100톤에 달한다. 과거 비용을 들여 폐기하던 부산물을...엔터테인먼트와 출시한 ‘디아블로 30주년 기념메달’은 금메달 한 개의 판매가격이 479만5000원에 달했지만 일부 제품이 판매...",
+   "url": "http://v.daum.net/v/20261001113905566",
+   "engine": "daum_news",
+   "query": "조폐공사 기념메달 판매",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "소비자 접점을 넓히고 있다. '디아블로 30주년 기념메달' 일부 제품은 판매 시작 20분 만에 품절됐고 메이플스토리 20주년 금메달과...디지털 조폐기관' 구상 해외시장 개척에도 속도를 내고 있다. 조폐공사는 기존 완제품 중심이던 수출 품목을 특수 보안잉크와 면...",
+   "url": "http://v.daum.net/v/20261001103209122",
+   "engine": "daum_news",
+   "query": "조폐공사 기념메달 판매",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "한국조폐공사, 창립 75주년 맞아 온·오프라인 고객 감사 이벤트 - 충청뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tcTIzUWJURE9ROUNic0JvN1VaY1dvVlo4SmVZSjhZVjh6ZUFWZGNtSE1IMElVY3lyY0JuRmZMQlI0eXdpWE5rdVZ2ZHJ0cUQ0Sy1IN3hqY1FsODRvWVdQQS1XdVlWOHUySzZpTQ?oc=5",
+   "pub": "Tue, 06 Oct 2026 05:04:00 GMT",
+   "engine": "gnews",
+   "query": "조폐공사 기념메달 판매",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "조폐공사, 창립 75주년 맞아 '제품 수집왕' 찾는다 - 충남일보",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVaExZZHdPV2JtQVJnSDFXWGhVU3p1SzdUcndjeG5MeUZqT1dPOW90cDlOTkdDRjBZNFZVNzg3Q1JQd2RnYi13YW1RSEtodkJ6TUZXVUdGVm1UVDlLZjFhWExSdFNDLUxhODFzdEh2d3B1V00?oc=5",
+   "pub": "Tue, 06 Oct 2026 08:04:54 GMT",
+   "engine": "gnews",
+   "query": "조폐공사 기념메달 판매",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "한국조폐공사, 창립 75주년 맞아 온·오프라인 고객 이벤트 - 더퍼블릭",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yTUlpbks0ZUxQakl0cEFlU21YTjVEOVl0dDkwek00endZVVUwei1TeHY5N2l4d2JWY2JrcUJpN3pvVW1WLU4wckx2bVJIWlYxSVh5NmFJRkZqVU9jUDdfOG5FVTYxS1NaQ1NoTXo4d9IBb0FVX3lxTE5yTUlpbks0ZUxQakl0cEFlU21YTjVEOVl0dDkwek00endZVVUwei1TeHY5N2l4d2JWY2JrcUJpN3pvVW1WLU4wckx2bVJIWlYxSVh5NmFJRkZqVU9jUDdfOG5FVTYxS1NaQ1NoTXo4dw?oc=5",
+   "pub": "Tue, 06 Oct 2026 09:27:57 GMT",
+   "engine": "gnews",
+   "query": "조폐공사 기념메달 판매",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "조폐공사, 31일까지 온·오프라인 고객 이벤트 진행 - 핀포인트뉴스",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KN1VZUWlZc2VmaXNUNTdQeTVlc0RrUUE0NXBfZVNPUld4cWl2bE9EVzh3U0hJazdEQ3VoczJ1VF85WF9ESVhNZ1pQMXBNQTQwSGxMUktoSFQ3QURkVUZXazZ0dklGOE5EckxJOUlKdEpQZ190QmMw0gF3QVVfeXFMTko3VVlRaVlzZWZpc1Q1N1B5NWVzRGtRQTQ1cF9lU09SV3hxaXZsT0RXOHdTSElrN0RDdWhzMnVUXzlYX0RJWE1nWlAxcE1BNDBIbExSS2hIVDdBRGRVRldrNnR2SUY4TkRyTEk5SUp0SlBnX3RCYzA?oc=5",
+   "pub": "Tue, 06 Oct 2026 07:35:56 GMT",
+   "engine": "gnews",
+   "query": "조폐공사 기념메달 판매",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "조폐공사, 창립 75주년 맞아 온·오프라인 고객 이벤트 진행 - 글로컬타임스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QNlY4VlVKcC1UTUtwaUYtdmMxaUNyNEpfODFhWWNBZENOa3Q4LUdERXhDdUxfM3NZaTNRRVpUSnk4RC1nN3UtU3pQYzJDSTV2M0szWkEyYmdPajNMcTZfR2dBaENZZ0kx0gFsQVVfeXFMTTdZRDZrN3I4eXVIczNCQ2t4MEV4R1YyNWFUZHJQN1Q5STJyMUw0M3FmUDhHZmtORVF3Ml9YUXpPcGNKZDBBdUIxXzN1VWFBVDlDamQwVDJCUEl4ZUNhbEthQ3QzWWIzR3V1cEZN?oc=5",
+   "pub": "Tue, 06 Oct 2026 13:50:06 GMT",
+   "engine": "gnews",
+   "query": "조폐공사 기념메달 판매",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "게임 화면의 작은 문구까지 읽는 그누보드 룰렛 정보 탐색 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFSWNiT1JySUFhcGtwOUJPNV9CclVjOFNYeWktdmpRNmxVN2NBdWFKRE4wSE56MGlqbGh6eGxsSldYYUtScnE1UEg4ekxJLVhKNXhjOFNWRGd3YUh6cmFLc3VCLUlNeGs?oc=5",
+   "pub": "Tue, 06 Oct 2026 16:34:10 GMT",
+   "engine": "gnews",
+   "query": "조폐공사 기념메달 판매",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "설명서에서 먼저 찾아야 할 도지 토토 가입코드 핵심 항목 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRWVxSUVmX3pCVVIzdHlMUzVrV1l0dlFVNUZEVmdsWWZFS0hnRWJydDBTZTk4eUtYRzhZLVFIZzJrSVk4d1g1QVNia3h4aTUtT255QmowWENuR1RLenQxOHhkMkJoaWdzRVN6aS16WDNqcmFGVm4tM05SUEZScWJnbnBDbmR5cHRacTdDZHZQNy00cVdxVkZEZ1FrYkhLTklKUGN0M3VvM3RXUm04eDFZdlBJR3RzZHh6Smt2R1o0ZVhZMW4wLW5OdFlzT2E?oc=5",
+   "pub": "Tue, 06 Oct 2026 22:05:23 GMT",
+   "engine": "gnews",
+   "query": "특판 적금 고금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "규칙을 확인할 때 도움이 되는 던파 캐릭터 슬롯 최대 화면 예시 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS09DQ2NTdzZqNzhrWmtpRGphZGVENlFNZzNTd3hqSGdfTjlXbkoxZmlBVnlzaFdXLXozZ1VzREhBUXJ5aEZBVlRTZmNoLWZnNVZ4VGh0TXBMd1RLSVgxeUJvOXh2UnEza0ZfOXg1QzJEckVQYkFfRWFkcGNIT1hjbnVyWEJPV09KdWt6b0tjaWhWT3dRQ1MtTUl1NjkxdVZLMWFiR2ZzVWVEZGdBamt1blhtZVZQY3dFS1haa0N6Yw?oc=5",
+   "pub": "Sun, 04 Oct 2026 23:31:39 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "[여의도 단신]한화투자증권·신한투자증권·KB증권·NH투자증권 - 매일신문",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RR0VvVHBOcXFqZFpCTGQ5RXN6RFU4dWM2YU91Q0dxdG02TEt2Z20ySWZEcWRtX2RTdWpXcjVWOVYyRDBkenlGd21HQnlfWk1YUm9CTEp6cXVQRTBLQzIzaHJB?oc=5",
+   "pub": "Thu, 01 Oct 2026 02:09:08 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "작은 아이콘에도 설명이 필요한 드라마 카지노 중국 인터페이스 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BZWp5OWhhdmplTVJEQ09uX1RHMVZxZFBlTEhsbTAteGtnbHVsakltM0ExRERmaGVjNGNuWlVBU05hVk1zcExoSV9WN1diRVNKanA1NGZmeERfUzByOXBEOUhNS2dodV9id1cwUndzSURhUQ?oc=5",
+   "pub": "Wed, 07 Oct 2026 00:15:48 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "NH투자증권, 첫 단기형 IMA 'N2 IMA1 1호' 사흘 만에 완판 - 한국경제",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ianZoNDNvdkVXZnkweXZlSC1VOUx6SjJPSV9uY0hqSFRWYzdJQkhQMndnaVYybWVWM1l6c2NuY2JtWlNjV21DVUxwZ09sa0ROWGZKY0FBVW9WQQ?oc=5",
+   "pub": "Thu, 01 Oct 2026 07:10:30 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "한투證, 연금 MTS를 '디지털 PB'로…조회 넘어 생애주기 관리 - 뉴스톱",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxQS1Pb2ZaZEZ0MmV5blNEZWdwelRHQ25FTkpjNm9IdXBWb21LdmpwQmtjMGV4MG52bkJtcTBxS3dISTRRSExEYy0wX1dRZmktT2NCWGRhQzdUVk9EQlI1RjVtTlN6OU8yakh5YlY0aw?oc=5",
+   "pub": "Tue, 06 Oct 2026 04:24:03 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "연금자산 ‘셀프 운용’하는 개인···증권사 모객 경쟁 포인트는 ‘MTS’ - 시사저널e",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LcFJ4ZkhVclZfWERVRVJhQWtZeHZIWWs2cXQxQ0xpTmpCOHBzd29pbFB6YUExVWdOQ0c0VGVtb2laWUNpYUZnLWlMaTBIYkozeFh4bDQ2Qmc2eV9ST3dONmZJUDRQWUlzR2dKcW5oWjh2Z9IBdkFVX3lxTE04LTQ0WGNzaE5hMnFjaFRBX1hFdnlPQktuNmMyeGp2SmVINFVSa0ZfaTJjZm0tY3ljVl94TlNDZUV0cm1seU1mNHVXaXB0dnJ6Y3ZWdUZWcTBUa1JJcXd5cVA5Z2dPQWJXa3YyaTZ0NXFHeVNwMGc?oc=5",
+   "pub": "Tue, 06 Oct 2026 04:18:00 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "KB증권, 12월 31일까지 'IRP·연금저축 순입금 이벤트 시즌4'…최대 150만 원 상품권 - 넥스트데일리",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxMkpRd0NfTUp3bnV1ZE14aS02T3pubVBhTUprOUdWM09GZTJjczBRdlVrbDBSSnd3QlBhQW54ZUhPUlZ1Y2JKdU9zbjBBQTN3ZFFyWVFDTW5SS3FSME5xRnNxTEtZVjdHeHA4RURpMNIBc0FVX3lxTFBtQnpjd1NuV3hSMTBjcWFGWGVhRm5HN3NYZnRGVW9DT2RlenhoTFgzMHJaQ1FrNWdLbkg1enNCM2Y3OU1RMDZZNUFXNWE2czFnektlMmJRLVdLYllJXzdXb2JCTk9sSVdCcGhTVHcwQjkzZFE?oc=5",
+   "pub": "Thu, 01 Oct 2026 02:37:56 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "KB증권, IRP·연금저축 '순입금 이벤트 시즌4' 실시 - 뉴스드림",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTZlVLUkthUVR1WEtBSnpxYzBNRzVCY3JybUhqZTVqVGF6WmVuVVBYVWNmcy05dXd2NkxBSTRrRFZhUkktcEVkMW5hME9BQzQyR2oyTlVkbUk3MGdWaHBfVndtNXljOUxSM0kzakl30gFuQVVfeXFMUFNmVUtSS2FRVHVYS0FKenFjME1HNUJjcnJtSGplNWpUYXpaZW5VUFhVY2ZzLTl1d3Y2TEFJNGtEVmFSSS1wRWQxbmEwT0FDNDJHajJOVWRtSTcwZ1ZocF9Wd201eWM5TFIzSTNqSXc?oc=5",
+   "pub": "Thu, 01 Oct 2026 02:29:03 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "연말정산을 준비할 때 - 톱클래스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ycHBNQnNGYU9jRTJqeExNV3RUTUR3Z0VDQ0l4VEg1eGttWXhueURPdzg4VjFBVkJSZ2RINHJWUW9yUGtaWF9CeWE5VndmTzNTWTVtc3c1WXZtcFpCN3JlNmxWRDVmT19SUmlMLdIBcEFVX3lxTFBVMFhCZy01ZEc2XzJRWFFlOWtOaDZsWEk2ekkxckZCeUdyY3kxZTZPb2VYX1Y3aEZCenk1QmhqdTRVVWZCUE5KZHRMdmkzTDJxUE9ZN0tfZ3J4OGN5QV81WmtRa19Zdkdja0ZwMUx0YWg?oc=5",
+   "pub": "Tue, 06 Oct 2026 06:39:33 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "KB증권, 연금자산 맞춤 관리 강화..IRP·연금저축 혜택 확대 - 한국정경신문",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UNGdFclYtWUtUUng0ZGVmLVprLVVMVDVFWmRIUjZiM2lFMTFSZlZwVW8yQ05xWEdYZ0VxVFNsUlJXLUlhTUk4N1E0WEFrZk03N0E?oc=5",
+   "pub": "Thu, 01 Oct 2026 00:25:06 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "\"주주환원 부족\" 지적 속에 ....증권업계, 주주환원 전략은 '온도차' - 청년일보",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IR2JCMzJfcEtYTzNkLVMzZEkxU3E1TUJjUi1CTTZsUXZGcFFLUUxHbzJnNnFkSWw4NnpGbTcyNVVHZVk1bHNPSlVyY3hHT3I3STBETXNoSmY4S2UwODA5Sk9aQUZPb00?oc=5",
+   "pub": "Mon, 05 Oct 2026 23:00:02 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "미래에셋자산운용·KB증권 'TIGER 200 ETF' 코스피200 지수 추종 ETF 중 연초 이후 수익률 1위...'2026 연금 순입금(이전) 이벤트 시즌4' 진행 - 여성소비자신문",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IbTBJMkthbEhnMGVpaHhsdlJQRWlzVVJQWGtoejIyMnBQc2dzNDBITUlnYkJySURxZ0NhbTdmZmNfc2cxekRLNVU2UXhwT3pYNGpLeHhwWnM2TmN1dHNBVm9HRQ?oc=5",
+   "pub": "Thu, 01 Oct 2026 00:17:43 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "플레이 설명에서 자주 빠뜨리는 쉬운 도박 종료 단계 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13eWpFN1VYSVEwc05CNnNkakFGX1lxTE1KZ29GM3ZRak5lWjNMdTdNbTNFUDZab1BvbXc3cTJYd0Q4SUY0WUpodG1NVjFCUVhUT3hOczhZZmlxNnJwbGdmLUJUa2FzZW5TNTJNNGl1MXF4Vjk4TnI0QW16RQ?oc=5",
+   "pub": "Tue, 06 Oct 2026 17:50:04 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "가수 겸 배우 스즈키 아이리가 모델을 맡은 일본 재무성의 개인투자용 국채 홍보 광고의 내용이다. 화사한 배경 속에서 2020년 일본...고안할 정도로 개인 투자자에게 낯선 존재였지만, 올해 일본의 국채 수익률(금리)이 빠르게 치솟으면서 개인용 국채 발행액도...",
+   "url": "http://v.daum.net/v/20261007054159188",
+   "engine": "daum_news",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "것은 아니다. NH투자증권은 퇴직연금 개인투자용 국채와 퇴직연금 전용 ELS를 더해 연금자산 운용 선택지를 넓혔다. 개인투자용 국채는 국가가 원리금 상환을 보장하는 상품으로, 만기까지 보유하면 표면금리에 가산금리를 더한 이율로 연복리 이자를 받는다. 안정성...",
+   "url": "http://v.daum.net/v/20261005140203305",
+   "engine": "daum_news",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "위해 금리를 올리더라도 중간선거를 앞두고 기준금리를 두 번 올리지는 않을 것”이라고 진단했다. 고금리로 인한 증시 급락 가능성은...증권 부스에서는 연금과 상장지수펀드(ETF), 개인투자용 국채 등 상품과 관련한 밀착 상담이 이어졌다. 미래에셋자산운용의...",
+   "url": "http://v.daum.net/v/20261003152950392",
+   "engine": "daum_news",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "퇴직연금 전용 ELS를 비롯해 ETF 약 1000종, 펀드, 채권, 리츠, 정기예금 등의 상품 라인업을 제공하고 있다. 개인투자용 국채는 만기 보유 시 표면금리에 가산금리를 더한 연복리 이자가 적용되는 상품이다. 또한 연금자산관리센터와 연금전문 PB의 컨설팅 서비스...",
+   "url": "http://v.daum.net/v/20261002145913198",
+   "engine": "daum_news",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "NH투자증권은 퇴직연금 전용 개인투자용 국채와 퇴직연금 전용 ELS 등을 도입해 연금자산 운용 선택지를 대폭 확장했다. 개인투자용 국채는 국가가 원리금 상환을 보장하는 상품으로, 만기까지 보유할 경우 표면금리에 가산금리를 더한 연복리 이자가 적용돼 은퇴...",
+   "url": "http://v.daum.net/v/20261002105256025",
+   "engine": "daum_news",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "시장으로 유입된 데다, 7~8월 한국은행이 기준금리를 연속 인상하며 국내 금리 수준이 전반적으로 높아진 점이 영향을 미친 것으로...수 있는 채권에 대한 관심이 커진 것\"이라며 \"정부가 개인투자용 국채 활성화 방안을 본격적으로 시행하면서 '퇴직연금형 개인투자...",
+   "url": "http://v.daum.net/v/20261001060217226",
+   "engine": "daum_news",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "美금리 고공행진에…서학개미, 美국채 매수세 강화 - 연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKb1VLWHBlRXkwdEZsS01Yd2dOYUxuWG5zb3NTR05wNTdCTFdobFA3ODNpVlVsVVJtOU11WGtoMm5yUW9odG9WYldpVkRmbXRZeGVTVEpQTWNRU0nSAWBBVV95cUxQOU9KX2w3QzZIc3FmM1c4b01SR3VDS1ZOMlI3UjBEUFVlYWhWYllEcWIwcF82emZ0b3FyQnNpY3lzMzljanduRUZHU291TUE0a1ljNHZiWDgtdlZROHdGSHQ?oc=5",
+   "pub": "Thu, 01 Oct 2026 00:56:43 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "금리 발작 올라탄 개미들…증시 등지고 '고금리 채권'으로 - 뉴시스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PMWlpT3VDaHNzczZBbkdRdGo3bFotVmV0NE14RGQ2elBxR3QyVzJ0Z01XbjZzMFRLSjQ3Qm5HM05CcWl4WjhySTQ2YUtnLXhQWDhLcjh1cTRhRWx3Z2FCetIBeEFVX3lxTFBNMW9oaGtQbkI1NnJsVm91OEQxMjVUaGh6bVY0LXZBWGRxdlFNNzZLMDlmTlphcjRET25td0tHR2FFTUZ4cjFvR0JhSEVyaFlaTDlsaTJWNUJVRE1ybkFyZ0FxSFFQUFFZNHhtSE5jTDViSFB2a2dFVg?oc=5",
+   "pub": "Wed, 30 Sep 2026 21:00:00 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "금리 상승이 기회다?…종합채권 ETF에 투자자들 '뭉칫돈' - 매일경제 마켓",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SM2h0aFNycThPY0c2eExUaVg3SlRqV0MtbWtmNUdVXy03Tk9PU1p0alRZd0FLSy16SFpNOURfdkhFbVdNaUVrWU8xaEZsQTFBVlE?oc=5",
+   "pub": "Thu, 01 Oct 2026 08:26:45 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "NH투자증권, 퇴직연금 DC 고객 잡는다…5년 수익률 12.57% - 더퍼스트미디어",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03M2xFcEprNEwxelAxdzFFN1ZwMEY1VHNBNU8tR0lvQ3I1MXdTQ2JIM0FOVUJ3ZFVLWm5kQS1ncHExX01zNDJTMW1iTjJDYWhFOG80TTRURkZTNEtsQkVHcGd4dGQ1VHdNM3RkV3VldDcxOFdr0gF0QVVfeXFMTTczbEVwSms0TDF6UDF3MUU3VnAwRjVUc0E1Ty1HSW9DcjUxd1NDYkgzQU5VQndkVUtabmRBLWdwcTFfTXM0MlMxbWJOMkNhaEU4bzRNNFRGRlM0S2xCRUdwZ3h0ZDVUd00zdGRXdWV0NzE4V2s?oc=5",
+   "pub": "Fri, 02 Oct 2026 10:32:28 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "마이크론엔 시큰둥, 채권엔 들썩… 미 국채 5.3%에 개미 지갑 열렸다 - 한국일보",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83bjhuazUyeEljYi1Db0JMUzVaQnh3elNWajZtNEIyLU5heVJYMWFlZEVzWUJfb1hjaGthbmJTa2V3bDFJNjZ5M2hmX3ozMEFOV0dSTVM2amdOWkc0dUljenZpN1gwYnhsRmh5clp30gFzQVVfeXFMTVYxZTc5REFLQllEeUpubnRGa1JyN1h3R0ZiWl9aTmlqVnlETHlIZDZmVm1JSkgzaVRTUlBTSzdWRjdqeU5WMkNYdC1waHV4MGxENWdtOVNfeGhTcTF6ZFJVbzNNWDBwUDVYZnhFQzhka1dqUQ?oc=5",
+   "pub": "Thu, 01 Oct 2026 08:40:00 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "게임의 분위기를 좌우하는 로투스 바카라 조작 색상과 음악 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtaGZTZVZjbjNKQXRIRmFtY2w5Zmx2Z0JDeUhDclc4eXVRc2d3c2ZwY0xGOU40dmx6REREQlV5OS1YU0F2WHM4Z2tINkxId3dQa1N3MXllZHdnaVZaa3hIVjZRcWZzQQ?oc=5",
+   "pub": "Sun, 04 Oct 2026 17:19:21 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "[자산관리와 절세] 미국 국채금리 5% 시대, 어떻게 투자해야할까? - 뷰어스",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1YTlBeWpWYllmaDZTTUV0cVpybG5iY1d2NFJNS1dmVW5DV2JydG9OVXFuSTdfeHhkVm03X3VkMDlGWXc2eFItNEM1d1BvY0VHa2ZiU0MwVlk?oc=5",
+   "pub": "Wed, 07 Oct 2026 00:34:49 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "NH證, 퇴직연금 DC형 신규가입 이벤트…네이버페이 증정 - 뉴시스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0eWNYSTkyUlQ3NmpEZnU0eXlVd1hGa1BlMkdlZWJfRVBtTENhWldjUXNJMnBraG5seVFhalQwcHRydGJDdkVGUlZUZ0pwWXRMQnBnZDhkdFJxbzREWGpXNdIBeEFVX3lxTFBjeDRxRjJiV294RGZkcENCRjVhTzlxQmdZWEdDMGVoVkNmdUc5NjlzZHFHWllsZ0hsb1dRbWVabHBNamhkb3VyQ2xleTdvNV8wcWVYNUhHb0hqNFhoSElXZ1B6UDluelNJRnQxQVRHSVd6SWJjdEpHMw?oc=5",
+   "pub": "Mon, 05 Oct 2026 05:00:00 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "美 국채금리 치솟자 채권 담는 개미…국내서도 4조 순매수 [코주부] - 서울경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DdUVYM0dUM29od3ZfcHF4dHBjUFJLU0YxS19xbDlIQ3RDWHhHUXl2VHZlXzBrampXZnppM2IyZHdVel9hZjA4d1J5Ui1rLTA1blHSAVNBVV95cUxNSG9YeE1ybG10NF9ua0NZMUwzQkx6Rkp0akJieFZYUUpPWTZnTDFwOHgxNXVlbkJvbkZmTEJfZ05XN1U3d1VNcDhaMDFJT2JMVnVNNA?oc=5",
+   "pub": "Thu, 01 Oct 2026 01:57:18 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "“삼전닉스, CAPEX 규모 믿어도 된다”…AI 투자 내년 1.2조달러 [헤럴드머니페스타2026] - Daum",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50OE81OGRfR2VRWW1DQkU1RXN3S0E5Nll5V1U4MERrZEhQeTZaRkxVUEdMZmNxaVpOR2RhQnBhWXAwUzl6RW80YnF3bVpVUkk?oc=5",
+   "pub": "Sat, 03 Oct 2026 06:29:50 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "안전자산이라 믿었는데…금 ETF, 美 국채금리 상승에 흔들 - 서울경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QNGNyTEktUXI3QTJqS1RIN0Y3QWtmSVRnWE9yQzdUUkIyZ203eFYxZ0J1bFltOS1WRTJROVJBNWFCVFNCZGQzLVY3Qk5JU2JJQkHSAVNBVV95cUxOWEIzTW1Vak5KVFRzaGhpMXZKbkZjMHBjODZvaDN4bHpPN2QzMlptVXZKdTFxS3lrUElxNmZoNDYxX3l0U1VYX1BHTnFidEM1RmRxSQ?oc=5",
+   "pub": "Wed, 07 Oct 2026 11:24:28 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "NH투자증권, 신규가입 이벤트…네이버페이 금액권 증정 - 이데일리",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaFdnNlVnVnpraHd6eWVqZ1pNLXYxWVlHQ3FNc3pCY3R4aXIzd2F6aExOWTYyUENJZmhCQU1ZMEx4cGF0a2dEVk1BWG8xMEd3TzEtQmZvZ0t0T0RqVkdLZzREYnpDb1FlSDY2cnJtc2hIVTh0UzJXQ3N1aTJRZWxkYw?oc=5",
+   "pub": "Fri, 02 Oct 2026 01:49:58 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "삼성증권, 발행어음 2차 특판 12일 출시 - 오늘경제",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04ZjF2WUd0OFZLSm9lNnlncC1LUl90RmoxUWxJaEtyRl9KdTBBN3Nael80UXdSVzRiTFAwWDJtekpWMEZqd3hsTTkwQjBHRGpBd2FmdXJWeVktQVF5LWFNN3luVkE4LXZCdmszTEdrdVE3Q2s?oc=5",
+   "pub": "Wed, 07 Oct 2026 02:52:01 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "는 조폐와 가족(Fams)을 합친 이름으로, 현금 사용이 줄어드는 시대에 화폐 속에 담긴 의미와 가치를 재미있게 전달하기위해 추진된 조폐공사와 국민대의 산학협력 결실이다. 이 캐릭터들은 '원니버스(Wonniverse)'라는 세계관 속에서 조폐공사의 가족이 돼 각자의...",
+   "url": "http://v.daum.net/v/20261006093215639",
+   "engine": "daum_news",
+   "query": "조폐공사 한정 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "조폐공사, '젠지' 2026 LCK 우승 기념 카드형 골드 출시 한국조폐공사는 국내 대표 e스포츠 리그인 '2026 리그 오브 레전드 챔피언스...디자인했다. 이 제품은 선수별 200장씩 5종, 총 1000장 한정수량으로 발행된다. 이 중 10%는 선수 친필 서명이 포함되며 무작위...",
+   "url": "http://v.daum.net/v/20261002112743880",
+   "engine": "daum_news",
+   "query": "조폐공사 한정 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "LCK)' 우승팀 젠지 이스포츠를 기념하는 카드형 골드 제품을 출시하고 10월 1일부터 예약 접수를 시작한다. 이번 제품은 젠지 선수들...우승팀 젠지 이스포츠를 기념하는 카드형 골드 (한국조폐공사 제공) 전체 수량의 10%에는 선수 친필 서명이 포함된다. 서명 제품...",
+   "url": "http://v.daum.net/v/20261001114456877",
+   "engine": "daum_news",
+   "query": "조폐공사 한정 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "Au 999) 0.5g으로 제작됐으며, 선수별 200장씩 총 5종, 1000장 한정 발행된다. 이 가운데 10%는 선수 친필 서명이 포함된 특별판으로...수 있도록 카드형 골드 제품으로 담아냈다\"며 \"조폐공사의 기술력과 LCK 콘텐츠가 만나 특별한 소장 경험을 제공할 수 있기를...",
+   "url": "http://v.daum.net/v/20261001104520054",
+   "engine": "daum_news",
+   "query": "조폐공사 한정 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "한국조폐공사는 2026 LCK 우승을 기념한 카드형 골드 제품을 출시하고 이달부터 예약접수를 시작한다고 1일 밝혔다. 제품은 젠지 e...적용해 한정판의 희소성을 높였다. 제품은 10월 1일부터 조폐공사 쇼핑몰에서만 구매할 수 있다. 조폐공사는 판매 수익금 일부를...",
+   "url": "http://v.daum.net/v/20261001102958964",
+   "engine": "daum_news",
+   "query": "조폐공사 한정 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "의 우승을 기념한 카드형 골드 제품을 출시하고 1일부터 예약접수를 시작한다고 밝혔다. 조폐공사에 따르면 2026 LCK 우승팀 '젠지...있도록 디자인했다. 제품은 선수별 200장씩 5종, 총 1천장 한정수량으로 발행된다. 이 중 10%는 선수 친필 서명이 포함되며 무작위...",
+   "url": "http://v.daum.net/v/20261001100915647",
+   "engine": "daum_news",
+   "query": "조폐공사 한정 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "우승팀 '젠지 이스포츠'를 기념한 카드형 골드 제품을 출시했다. (한국조폐공사 제공. 재판매 및 DB금지) /뉴스1 (대전=뉴스1) 박찬수...확인할 수 있도록 했다. 제품은 선수별 200장씩 5종, 총 1000장 한정수량으로 발행된다. 이 가운데 10%에는 선수 친필 서명이...",
+   "url": "http://v.daum.net/v/20261001095955834",
+   "engine": "daum_news",
+   "query": "조폐공사 한정 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "공식 출시하고 1일부터 예약 접수를 시작한다고 밝혔다. 이번 기념 카드형 골드 제품은 2026 LCK 정상에 오르며 최고의 기량을 선보인...기대된다. 이 제품은 조폐공사 공식 쇼핑몰을 통해서만 단독 판매되며, 조폐공사는 수익금 일부를 e스포츠 신예 육성 및 건전...",
+   "url": "http://v.daum.net/v/20261001094235756",
+   "engine": "daum_news",
+   "query": "조폐공사 한정 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "조폐공사, 2026LCK 우승팀 '젠지' 한정판 카드형 골드 출시 - Daum",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VVFVvY1RtQ1RrYTFfS21mTUhhcFpqbFI1NVc1VEVjQURoaUhjMXU2eHJYeVlDbXRKdjJQVGNOTGlVRUhjVURJSk1EWQ?oc=5",
+   "pub": "Thu, 01 Oct 2026 00:42:35 GMT",
+   "engine": "gnews",
+   "query": "조폐공사 한정 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "한국조폐공사, 젠지 e스포츠 ‘2026 LCK’ 우승 기념 카드형 골드 출시 - 충청뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jRFVHY1hWSGZhcW1rZk5BXzZqZ0VMV2lJUHFpS3VyTUZLRG5FZDdWVVlTWGswSDJQVHFaSnRIYzExZkFKX1hUOUhka0RYSDlubGtydWJkdFdZSGRkVDhxdG5UdzZib3NrZUE1Sg?oc=5",
+   "pub": "Thu, 01 Oct 2026 15:53:43 GMT",
+   "engine": "gnews",
+   "query": "조폐공사 한정 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "조폐공사, LCK 우승팀 젠지 선수 담은 ‘순금 카드’ 출시 - 충남일보",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lVFBiekE5U0lhWGtBbFRzR1JqVGRTUFBsWGMzbWUxR3JfX2k4bk1uX2VCckJEWURHa01tYWk5VU9zd0FHQ3djSThnTmpwbkdyN2JOS2dBbTUyV0cwN3Nia2ktTU5rVVZxVkYxLUR6c05YRGs?oc=5",
+   "pub": "Thu, 01 Oct 2026 08:08:32 GMT",
+   "engine": "gnews",
+   "query": "조폐공사 한정 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "조폐공사 '젠지 이스포츠' LCK 우승 기념 카드형 골드 출시 - 뉴스1",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LcXVwNVg5Yl96UW1rNHdsY0FRLWtqeTRXRUs2bUg4ek1zNXBOQjBoMEdHaDZWRmROZ3loWUFNSTdfbE5hRXMtN0xUTHFsVlJUQUJSdmtuR3Z4U3dmSDV2dQ?oc=5",
+   "pub": "Thu, 01 Oct 2026 00:57:55 GMT",
+   "engine": "gnews",
+   "query": "조폐공사 한정 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "조폐공사, ‘젠지’ 2026 LCK 우승 기념 카드형 골드 출시 - 중앙매일",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PSHdLUzdhbXJTR25YUHpLbHh5Z2p0R2ZWUUJXeWRWSDFQYk9yN0JpV21fSkdOZVhtYTgxVGJyc01TaC1pYU11bWk0bTFWWXU3dkNRbzRfQUtobzhKdFdzOUdhb21hQQ?oc=5",
+   "pub": "Thu, 01 Oct 2026 04:54:14 GMT",
+   "engine": "gnews",
+   "query": "조폐공사 한정 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "조폐공사, ‘젠지’ 2026 LCK 우승 기념 카드형 골드 출시 - 충청매일",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhN2VlR000NnNJOEwweEpucm5KcGZmN0hESmlvRGl4U2Q2c0QzUHNRS0ZqY2Y4Ym5XQmFhcVhXeURlZDhvUnViM0hPenVuS2hBQkZicXo2eDlwSW9Kc1BZUy1zSldCdi1vTmc?oc=5",
+   "pub": "Thu, 01 Oct 2026 01:05:04 GMT",
+   "engine": "gnews",
+   "query": "조폐공사 한정 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "조폐공사, '젠지' 선수 담은 LCK 우승 기념 순금카드 출시 - 핀포인트뉴스",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XVVRXaklsN3dCUDV0dDc3cTFabGFMZEJxc0I1dHNjYWxoMS1CTkdoeGtxV3ZJVEhfOEtBMnQtSHBWUHNtZUZDVlpSVDQyWFVrbWM3cng2YUFFM0xDRGFfUDI5MUtob2ZFVkQ4alVWY0lhZk3SAXdBVV95cUxQZWR0Nnp4RGctOEl2UGZXNFkzb3pmcmpSb1NhcXZoQ2llblBCaE9JRW1iSkRuQ1VySzNJX3lhY1REeUY3WlVBUzc2MlJ0b1NSVmJBMlZOU01TUXMwOEdZRHM1U2tncFpFQjN2Q2oxNkJ0SFRMTS1NWQ?oc=5",
+   "pub": "Thu, 01 Oct 2026 00:36:13 GMT",
+   "engine": "gnews",
+   "query": "조폐공사 한정 출시",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "편의점에서 11년 만에 돌아온 국산 양주 ‘캪틴큐’를 만날 수 있게 됐다. 캪틴큐 2병에 전용잔과 기념주화를 더한 ‘캪틴큐의 보물상자’ 한정 세트가 14일부터 판매된다. 2일 CU에 따르면 ‘캪틴큐의 보물상자’ 예약 발주가 진행되고 있다. 발주 기간은 8일까지...",
+   "url": "http://v.daum.net/v/20261002181803113",
+   "engine": "daum_news",
+   "query": "기념주화 한정판매",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "롤렉스 데이 저스트 슬롯 제조업 분야 클라우드 컴퓨팅의 해독하기와 트렌드 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83RjlLSFBQQ2Fkb29ZUnFMOXN0NndVeUIyZzI4ZkVSbW1WS3NlbjAyQnB5RE9IZWlHWk1Na2o3Nzg0Y2xIWFY2aGJsZ2Rxc0JfZWFkTUoyU3BYTWkxTVYwc3gzb25tUzk3bjY3MHQ5OHZWckFxR0E?oc=5",
+   "pub": "Tue, 06 Oct 2026 23:09:16 GMT",
+   "engine": "gnews",
+   "query": "기념주화 한정판매",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "보너스 구매와 자연 진입 조건, 피지소프트 슬롯 규칙 비교 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTktPQ0NobVpTc1I1WngtbVJRbTdnSlREMDBuRFJPZGUxcGhzdXBuOUVNTWl4WlAyOWxDeHcyUTd4RVJDMmtqcHJieDc2SjI4cjBsN1dCdFR1WTBnSFo5R1JDTEoycFVxZ2tzM1hWNVpoSEhrLUFtYzM1WkdiajU2MzJwYnJSckNnc3NadmJrdXRXX1lTcDg2V0ZiaTY3dkJ0NktWd3BUR25BMi1vZXctazNBYldPLTYwdmVvQS1hWlliZ2dVTnExSQ?oc=5",
+   "pub": "Sun, 04 Oct 2026 22:24:19 GMT",
+   "engine": "gnews",
+   "query": "기념주화 한정판매",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
   {
    "title": "최근 생일이나 기념일에 모바일상품권을 주고받는 문화가 완전히 자리 잡았습니다. 하지만 정작 내 주변에 사용처가 없거나, 당장 필요한 물건이 아닐 경우 유효기간만 지나가게 되는... \"모바일상품권은 발행일로부터 일정 시간이 지나면 환불이 까다로워질 수 있으므로, 사용 계획이 없다면 즉시 현금화하여 가치를 보존하는 것이 현명합니다.\" - 금융 자산 관리 전문가",
    "url": "https://blog.naver.com/shapehcq/224434561943",
@@ -6556,492 +7086,38 @@
    "engine": "naver_blog",
    "query": "기념주화 한정판매",
    "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "여기는 이 지역 한정 기념품들을 팔고 있어 간단한 물품들을 사기게 좋았답니다. 삿포루는 유기농이 발달하여 어다가나 유제품들이 있고 기본적으로 맛이 있어요^^ 특이하게 이 곳은 바로 쌀을 압축해서 판매하고 있더라고요. 이런 건 또 그냥 지나칠 수 없죠. 무조건 하나를 구매해 봅니다^^ 일본에 여러 번 와봤지만 사실 밥이 특별히 맛있다는 생각은 그다지 해보지.",
-   "url": "https://blog.naver.com/a7074815/224434537511",
-   "engine": "naver_blog",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "치필링 300만 마리 판매 돌파 이벤트 이번에 눈길을 끈 건 바로 치필링 300만 마리 판매 돌파 이벤트예요. 멕시카나 앱에서는 10월 한정으로 전 메뉴 주문 시 치필링 반마리를 무료로 증정하는 이벤트를 진행한다고 해요. 치킨 주문하면서 치필링까지 함께 맛볼 수 있다니 치즈 좋아하는 분들에게는 꽤 반가운 이벤트죠. 다만 이벤트는 10월 한정이고, 주문 방법",
-   "url": "https://blog.naver.com/ksyksyk/224434532898",
-   "engine": "naver_blog",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "이번 열라면 팝콘은 2026년 10월 2일부터 11월 말까지 한정 판매됩니다. 전국 롯데시네마 80여 개 주요 상영관에서 판매될 예정이며, 한정 수량으로 운영됩니다. 즉, 궁금하다면 너무 여유... 열라면 출시 30주년을 기념해 기획된 협업이라니 열라면을 좋아하는 저에겐 반가운 이벤트입니다 :) 열라면 팝콘 콤보 이벤트도 있어요. 신메뉴 출시와 함께 이벤트",
-   "url": "https://blog.naver.com/mercurykm/224434529996",
-   "engine": "naver_blog",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "면세점은 주세 및 관세 면제 혜택 덕분에 일반 판매점보다 저렴하게 구매할 수 있는 매력적인 채널입니다. 하지만 면세점마다 가격이 다르고, 프로모션이나 할인 행사 유무에 따라... 다양한 시각으로 풀어보는 구매 이유 일반 사용자 관점: \"평소에 마시기에는 부담스러운 가격이지만, 면세점에서 저렴하게 구매할 수 있어서 특별한 날을 기념하기 위해 구매했어요....",
-   "url": "https://think-tank.tistory.com/1031",
-   "engine": "naver_blog",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "예를 들어 현재 공식 홈페이지에는 도라에몽 한정 굿즈 패키지, 부산 아쿠아리움 단독 입장권, 아쿠아리움과 다른 콘텐츠를 묶은 패키지 등이 판매되고 있습니다. 따라서 여행... 주차 할인권은 매표소 또는 기념품점에서 받을 수 있습니다. 주말에는 주차를 특히 조심하세요 해운대는 부산에서도 관광객이 많이 몰리는 지역입니다. 아쿠아리움 공식 안내에서도... 새 창",
-   "url": "https://blog.naver.com/tendus305/224433547740",
-   "engine": "naver_blog",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "어떤 사람들은 스타벅스에 가서 그 나라 한정 머그컵이나 텀블러를 모으기도 하고, 어떤 사람들은 그 나라의 유명한 기념품을 찾아다니기도 하지만.... 그런데 나는 그런 거 말고... 맥도날드 구경하기. 좋아합니다 ㅋㅋㅋㅋ 왜냐하면 맥도날드는 나라별로, 또 계절별로 꽤 재미있는 프로모션을 많이 하기 때문이다. 특히 내가 좋아하는 애플파이! 나라에 따라... 새",
-   "url": "https://blog.naver.com/babejude/224434520418",
-   "engine": "naver_blog",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "하지만 계절을 꽃 여름으로 한정할 필요는 없어요. 블루를 좋아하는 분이라면 계절과 상관없이 책상니아 선반 등에 두고 포인트 장식으로 활용하ㅣ 좋습니다. 모루 소재라서 더... 그래서 생일 테이블이나 기념일 사진을 찍는 공간에 꽃다발 하나만 놓아도 화면이 심심하지 않습니다. 화이트는 배경과 자연스럽게 어우러지고 블루와 퍼플은 색상 포인트가 되어줘요.... 새",
-   "url": "https://blog.naver.com/hje0045123/224409691474",
-   "engine": "naver_blog",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "따라서 일본 골프공 쇼핑을 할 때는 단순히 가격만 비교하기보다 국내에서 판매되는 가격과 함께 비교하는 것이 좋습니다. 특히 일본에서만 볼 수 있는 디자인이나 한정 제품이라면 가격 차이보다 여행 기념품이라는 의미까지 생각해볼 수 있습니다. ⛳️ 가성비 골프공을 찾는다면 혼마 D1 골프를 시작한 지 얼마 되지 않았거나 라운딩에서 공을 자주 잃어버리는... 새 ",
-   "url": "https://blog.naver.com/vpvpdpdjvkt04/224434508483",
-   "engine": "naver_blog",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "양도·판매·교환·나눔게시판 제외 하루 5개까지 가능 ⊙ 신인호랑이 1일 게시글 2회로 제한 ⊙ 신인호랑이 기사공유 게시글금지.... 근데 준비한 품목은 많은데 자금은 한정적이라,,, 수요가 있는 굿즈를 만들어보고자 여쭙니다!! 갖고 싶은 물품에 투표해주시면!!! 참고해서 다음 나눔을 준비해보겠습니당 후보 2 국대즈 롱슬리브입니다!! 아시안게임 금메달 기념해",
-   "url": "https://cafe.naver.com/kiawin/1502686?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtpYXdpbiIsImFydGljbGVJZCI6MTUwMjY4NiwiaXNzdWVkQXQiOjE3OTEzNzg5MDE2ODh9.PH-BgNqMcDVX0IRaPmnzM2FLjA-ygEeq8g-ewuDGHWw&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "출시를 기념하여 옛 우체국 공간에서 영감을 받은 GINZA SIX 콘셉트 스토어와 다쿠혼에서 영감을 받은 후로시키, 스미 종이 파우치 등 다양한 소품들이 제공되어 촉각적인 감성을 더욱 확장합니다. 메종 마르지엘라 REPLICA “Letter Never Sent”는 100ml 용량으로 2026년 10월 1일 출시되며, 가격은 31,900엔(약 203달러)입니",
-   "url": "https://cafe.naver.com/jpnstory/4402396?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImpwbnN0b3J5IiwiYXJ0aWNsZUlkIjo0NDAyMzk2LCJpc3N1ZWRBdCI6MTc5MTM3ODkwMTY4OH0.O1eDlAZsNX4LBnGKDDSNMcVrlxHDvxpEDi9EnrtT4cQ&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "상품 정보 더보기 〉 상품 정보 포켓몬 카드 게임 30주년 기념 한정판 박스세트(퓨처리스틱) 375,000원 시세조회 결제 혜택 N 페이코 1% 즉시할인(최대 2만원) KB국민카드 12개월 5.5% 특별 할부 수수료 결제 혜택 받기 〉 상품 상태 새상품, 구성품 없음 거래 방법 택배거래 거래 희망지역 - 판매자 정보 allealle 상품 더보기 〉 채팅하기",
-   "url": "https://cafe.naver.com/joonggonara/1136229753?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM2MjI5NzUzLCJpc3N1ZWRBdCI6MTc5MTM3ODkwMTY4OH0.qV0wS1nfkULS-rh-WIFC-3hErIeD7B2V3joN6uEuioE&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "상품 정보 더보기 〉 상품 정보 포켓몬 카드 게임 30주년 기념 한정판 박스세트 375,000원 시세조회 결제 혜택 N 페이코 1% 즉시할인(최대 2만원) KB국민카드 12개월 5.5% 특별 할부 수수료 결제 혜택 받기 〉 상품 상태 새상품, 구성품 없음 거래 방법 택배거래 거래 희망지역 - 판매자 정보 allealle 상품 더보기 〉 채팅하기 구매하기 상",
-   "url": "https://cafe.naver.com/joonggonara/1136229636?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM2MjI5NjM2LCJpc3N1ZWRBdCI6MTc5MTM3ODkwMTY4OH0.Ux2gXFpcR4unze37uxOELOuahwKmKSAOiwO84FgN7vE&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "대한민국 최초 YDP-166 런칭 기념 공동구매 이번 행사는 대한민국 최초로 진행되는 야마하 YDP-166 런칭 기념 공동구매입니다. 특히 이번 추가 협의를 통해 ① 최종 가격 10만원 추가 인하 ② 블랙·로즈우드 추가 배정 ③ 총 14대 한정 진행 ④ 구매 회원 전원 사은품 증정 ⑤ 10월 16일부터 우선 출고 및 설치 배송 까지 회원분들을 위한 혜택을 ",
-   "url": "https://cafe.naver.com/dpuersgroup/264971?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRwdWVyc2dyb3VwIiwiYXJ0aWNsZUlkIjoyNjQ5NzEsImlzc3VlZEF0IjoxNzkxMzc4OTAxNjg4fQ.KU80CXK_DndhzQbvcafDQDYhCYe-6GCgqRkDo4veRlA&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "기다려주신 여러분께 감사드리며 업데이트 기념 쿠폰을 안내드립니다. ■ 업데이트 기념 쿠폰 ▶ 쿠폰 코드: UPDATED2140 ▶ 보상: 다이아 500만 개 ━━━━━━━━━━━━━━━━━━━━ 1. 수련장 최대 5,000만-100 확장 ▶ 수련장 최대 진행 구간을 1,000만-100에서 5,000만-100까지 확장했습니다. ▶ 상위 구간으로 진행할수록 타",
-   "url": "https://cafe.naver.com/archerstickmanrpg/2837?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFyY2hlcnN0aWNrbWFucnBnIiwiYXJ0aWNsZUlkIjoyODM3LCJpc3N1ZWRBdCI6MTc5MTM3ODkwMTY4OH0.95JhfK-SGBdWQtOeyY7Wgy_RX1wvJgKBBQ13xohzXqQ&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "세븐일레븐에서 10월 7일부터 판매된 한국 이웃나라의 미식가 （隣の国のグルメイト）미친 맛집 컵라면 ! 넷플릭스에서본... 추천호텔 기념일 커플여행 추천호텔 토마무 리조트 완벽가이드 아사히카와 추천호텔 도야 노노카제 리조트 후기 아칸 츠루가 호텔 후기... 스타벅스 한정품 홋카이도 1월 관광가이드 홋카이도 2월 관광가이드 홋카이도 5월 관광가이드 홋카이도 6",
-   "url": "https://cafe.naver.com/ilgiilhui/11538?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImlsZ2lpbGh1aSIsImFydGljbGVJZCI6MTE1MzgsImlzc3VlZEF0IjoxNzkxMzc4OTAxNjg4fQ.7a3WsfwmeqeTcAAhOlUBEtJxEkTvh8cTFq1FIrgXJZU&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "대전 엑스포 기념주화 1온스 .은화 상태 아주 좋아요 .분양가: 119,000 2번..2005년 아펙 기념주화 20.7g,, 3개 .은화는 한개 아주 좋아요, 한개는 좋아요. 한개는 좀 떨어져요 .분양가: 252,000 3번..올림픽 5천원 기념주화 1/2온스, 3개 .은화상태 2개는 좋아요 , 1개는 쪼끔 안개현상 있어요 .분양가: 178,000원 4번.",
-   "url": "https://cafe.naver.com/dodohi0607/1267171?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjcxNzEsImlzc3VlZEF0IjoxNzkxMzc4OTAxNjg4fQ.4srpCdG_qMZ3vFMwLZapqlmYwBIbsK-JlEqJrQzdFgI&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "트레이드 안내 티켓·굿즈️ Ringo Jam Café 추첨 판매 접수 진행 중 (10월 8일까지) 「Ringo Jam Café」 추첨 판매 접수가 10월 8일(목)까지 매일 13:00~23:59 진행됩니다. 당첨 발표는 10월... 공식 News Apple Music 오늘의 소식 Spotify 한정 『POPS』 릴리스 기념 【Liner Voice 】 Ep.",
-   "url": "https://cafe.naver.com/mrsgreenapple/5207?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1yc2dyZWVuYXBwbGUiLCJhcnRpY2xlSWQiOjUyMDcsImlzc3VlZEF0IjoxNzkxMzc4OTAxNjg5fQ.5NXKccdP_hCJgWSD_wKyjZMegFZ1eNBVIdHKMHohhZk&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "40주년 기념 프레그먼트 콜라보 퍼스트 : 360,000 원 1. MG 자쿠 워리어 라이브 콘서트 Ver : 39,000 원 2. MG 더블오 잔라이저 : 80,000 원 3. MG 앗가이 : 55,000 원 4. RG 아카츠키 & 107정비반 보강 파츠 : 75,000 원 5. RG 웡건담 제로 : 40,000 원 6. 프반한정 FM 건담... 묶음은 개",
-   "url": "https://cafe.naver.com/freeemaket/484022?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZyZWVlbWFrZXQiLCJhcnRpY2xlSWQiOjQ4NDAyMiwiaXNzdWVkQXQiOjE3OTEzNzg5MDE2ODl9.wVCgqm93R_B97gIwmTZcj5sKPjTTbvxHNZY5TsxUOro&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "상품 정보 더보기 〉 상품 정보 포켓몬카드 30주년 기념 한정판 일판 박스세트 265,000원 시세조회 결제 혜택 N 페이코 1% 즉시할인(최대 2만원) KB국민카드 12개월 5.5% 특별 할부 수수료 결제 혜택 받기 〉 상품 상태 중고, 구성품 없음 거래 방법 문앞택배 거래 희망지역 - 판매자 정보 명랑한진드기자갈 상품 더보기 〉 채팅하기 구매하기 상품 ",
-   "url": "https://cafe.naver.com/joonggonara/1136226880?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM2MjI2ODgwLCJpc3N1ZWRBdCI6MTc5MTM3ODkwMTY4OX0.SEWZa_udOpTmxPyl1lxzS-gBw87dZpa634KoaJGBEKk&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "그니까 스테인리스 잔 1개 기념주화 1개 보물상자 컨셉 패키지가 19,800원이라는 말이지? 카카오 채널 (공지 및 행사콜 정보, 필수 추가!) https://pf.kakao.com/_xoshgn 행사 및 탁송 공지방 (밴드에 행사일정 올라오면 알람나가요!) https://open.kakao.com/o/phTvZdbi 전국 탁송 대리 카톡소통방 https:",
-   "url": "https://cafe.naver.com/driverinside/317?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRyaXZlcmluc2lkZSIsImFydGljbGVJZCI6MzE3LCJpc3N1ZWRBdCI6MTc5MTM3ODkwMTY4OX0.fO2bD-eszO51nah6tUStFSEncj_niT3CHK5PHw_Lj1k&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "상품 정보 더보기 〉 상품 정보 (택배가능) 세븐나이츠 리버스 콜라보 카페 한정 특전 기념 테두리 + 500 루비 미사용 새상품 5,000원 시세조회 결제 혜택 N 페이코 1% 즉시할인(최대 2만원) KB국민카드 12개월 5.5% 특별 할부 수수료 결제 혜택 받기 〉 상품 상태 새상품, 구성품 전체 거래 방법 직거래 거래 희망지역 잠실3동 판매자 정보 멍멍",
-   "url": "https://cafe.naver.com/joonggonara/1136224916?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM2MjI0OTE2LCJpc3N1ZWRBdCI6MTc5MTM3ODkwMTY4OX0.0JuPpUXvfl7jAaFoqTDVgZij21qpyUKbqP6LsUlV-YY&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "행사 내용을 자세히 더 알아볼까요 ⬇️ 이벤트 정보 ⬇️ 가구톡세상 평택점 오픈 기념 200일 특별할인전 ✅ 기간 - 10월 1일 ~ 31일 - 한정 상품/ 소진 시 조기종영 ✅ 혜택 - 진열상품 추가 10% 할인 - 사은품 증정! ✅ 행사 품목 소파 · 침대 · 매트리스 · 식탁 · 수납장 등 가구톡세상 평택점은 특별 할인전 외에도 다양한 특장점들이 있습",
-   "url": "https://cafe.naver.com/fo2b/1554844?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZvMmIiLCJhcnRpY2xlSWQiOjE1NTQ4NDQsImlzc3VlZEF0IjoxNzkxMzc4OTAxNjg5fQ.MX595TYzJZSRaxXu-Amz4haao4zXnYL0or3T5dNG9UE&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "5% 특별 할부 수수료 결제 혜택 받기 〉 상품 상태 새상품, 구성품 전체 거래 방법 문앞택배 거래 희망지역 - 판매자 정보 중고나라#10136493 상품 더보기 〉 채팅하기 구매하기 상품 상세 ■ 발매 30주년 기념 ■ 미국 어퍼덱 사의 5000장 한정 발매 NBA 카드입니다 농구 황제 마이클 조던과 앤퍼니 하더웨이의 멋진 모습이 담겨있어요 소중한 추억을",
-   "url": "https://cafe.naver.com/joonggonara/1136224706?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM2MjI0NzA2LCJpc3N1ZWRBdCI6MTc5MTM3ODkwMTY4OX0.GZyvm2qMXVf0Atxt5XKW4pjQ9SB6UHf0kOm0ANBWKFo&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "1) <에오스 블랙> EP.4 업데이트 기념 사전 예약 이벤트 쿠폰 2) <에오스 블랙> EP.4 기념 신화 이벤트 쿠폰 14. 아래의 이벤트가 종료됩니다. 1) 영롱한 성물 장신구 강화 확률 2배 이벤트 2) 패밀리어 태초 등급 진화 성공 확률 2배 이벤트 15. 일부 상품의 판매 기간이 연장됩니다. 1) 신화 증표 확률 UP 패키지(귀속) 2) 소울 웨",
-   "url": "https://cafe.naver.com/eosblackmobile/57422?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVvc2JsYWNrbW9iaWxlIiwiYXJ0aWNsZUlkIjo1NzQyMiwiaXNzdWVkQXQiOjE3OTEzNzg5MDE2ODl9.cEI2uE932JVUVYmf0g6Drmv6BeiNXKA_1QLuxzZoybU&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "▶ 1주년 기념 한정 소환 | 전지의 소원 소환 이벤트 기간: 10월 8일(목) 점검 완료 후 - 11월 4일(수) 08:59 이벤트 기간 동안, [천지의 소원 소환]을 통해 목록에 있는 SSR 영웅 2명을 소원 영웅으로 선택할 수 있습니다. 소원 설정 후 초기화할 수 없는 점 유의해 주시길 바랍니다. ※ 선택 목록: 10.8 업데이트 전까지 출시된 모든 ",
-   "url": "https://cafe.naver.com/kalpaofuniversekr/3803?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImthbHBhb2Z1bml2ZXJzZWtyIiwiYXJ0aWNsZUlkIjozODAzLCJpc3N1ZWRBdCI6MTc5MTM3ODkwMTY4OX0.TODD1Ke6gfucF-iPRhrIzo4PCpz4f_Y2oktzNe8GFrI&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "글로벌 인기 투표 1위를 차지했던 신데렐라의 한정 코스튬 '글라스 커트시'와 레이블의 한정 코스튬 '오컬티스트'가 등장하며, 노벨의 기존 할로윈 코스튬인 '디텍티브 너스'도 같은 기간 동안 캐시 상점에서 재판매됩니다. 한편, 다가오는 10월 24일 오후 7시에는 공식 유튜브 채널을 통해 4주년 기념 특별 방송이 진행됩니다. 이번 4주년은 인류의 3차 지상 ",
-   "url": "https://cafe.naver.com/pixellounge/44?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBpeGVsbG91bmdlIiwiYXJ0aWNsZUlkIjo0NCwiaXNzdWVkQXQiOjE3OTEzNzg5MDE2ODl9.U743xj1zW1CpBypfJmyStwdBlu46V_kBhIEX4UTAK_A&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "굿즈 품목 판매 가격 주요 특징 콩돌밤돌 장바구니 16,000원 캐러비너 부착형 패치 키링 24,000원 견고한 연결부 귀오미 인형 24,000원 캐릭터 봉제 인형 콩돌밤돌 수건 16,000원 세로형 디자인 무료로 배포되는 소장용 무 모양 한정 전단지는 재고가 소진될 수 있으니 빠르게 확인하는 것이 좋습니다. 방문객을 위한 체험 공간 및 유의사항 매장 곳곳",
-   "url": "https://cafe.naver.com/zzangbusan/40802?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Inp6YW5nYnVzYW4iLCJhcnRpY2xlSWQiOjQwODAyLCJpc3N1ZWRBdCI6MTc5MTM3ODkwMTY4OX0.hkaGI4_wWaqe0EqHi21nIQPmCplz43teaN1MehRx-q8&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "2005년에 문을 연 킬호만의 첫 연산표기 코어라인인 락사이드11 (Rockside 11) 출시를 기념해 유럽 투어 이후 동아시아 투어가 진행됩니다. 이번 투어는 창립자의 셋째 아들인 피터 윌스(Peter Wills)가... 그리고 킬호만 증류소 샵에서 파는 제품들을 공수하여 킬호만 증류소 샵보다 더 저렴한 가격에 판매하고 다양한 제품을 팝업 한정 특가로 ",
-   "url": "https://cafe.naver.com/whiskycognac/944960?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndoaXNreWNvZ25hYyIsImFydGljbGVJZCI6OTQ0OTYwLCJpc3N1ZWRBdCI6MTc5MTM3ODkwMTY4OX0.lbbY49a-bJsLGJi6l3oZMJvflWp3VkFfxWfcWSXeayQ&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "◆쌍십절 기념 신비 상점 기간: 2026년 10월 10일(토) 00:00 ~ 2026년 10월 11일(일) 23:59 신비 상점 기간 한정 오픈! 전당 농구공 상자와 전당 선수 특훈 카드 등을 할인 가격으로 구매하세요! *위에 있는 이벤트 정보를 참고하시고 인게임과 틀린 경우 인게임 내용을 기준으로 하시길 바랍니다. 감사합니다",
-   "url": "https://cafe.naver.com/slamdunkmobile/400190?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNsYW1kdW5rbW9iaWxlIiwiYXJ0aWNsZUlkIjo0MDAxOTAsImlzc3VlZEF0IjoxNzkxMzc4OTAxNjg5fQ.O8IK0FQ4FuRrn64W4QmpXUeOa1kISLgm11GCg1jShT8&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "본품 구매 시 증정하는 수집형 소품(스티커·씰), 별도 판매하는 대표 상품, 일정 횟수 이상 구매 고객 대상 한정 경품으로 라인업을 나누면 객단가와 재구매율을 동시에 노릴 수 있다. 또 협업 소재(치즈)... 세종대왕을 모티프로 한 조훈민, 신사임당을 재해석한 조다임, 이순신 장군을 본뜬 조순식으로 구성되며, 각각 굿즈·전시 담당 문화사업 총괄, 화폐 디자",
-   "url": "https://cafe.naver.com/codebintl/3738?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNvZGViaW50bCIsImFydGljbGVJZCI6MzczOCwiaXNzdWVkQXQiOjE3OTEzNzg5MDE2ODl9.2C4SKKmDzX1Dn-W_zCx-TrTPHBkTk-lZCFSDjt83PPc&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "함께 판매함 처럼 ‘차이를 느낄 근거’가 있으면 가격 말고, 가치를 비교할 가치가 생김. [가격부터 깎기] X [왜 이 가격인지 보여주기] O 그리고 할인에도 이유가 있어야 함. 그냥, “오늘부터 20% 할인!” 하면 손님 입장에서는 “왜 갑자기?”가 될 수 있습니다 차라리, → 오픈 1주년 감사 이벤트 → 평일 2~5시 한정 → 신메뉴 출시 기념 → 첫 ",
-   "url": "https://cafe.naver.com/sex2282/64007?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNleDIyODIiLCJhcnRpY2xlSWQiOjY0MDA3LCJpc3N1ZWRBdCI6MTc5MTM3ODkwMTY4OX0.UMy8DsyJLjdthNDjY6V-en63N9qOCumaqL3JZnGGsuw&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "5% 특별 할부 수수료 결제 혜택 받기 〉 상품 상태 새상품, 구성품 전체 거래 방법 택배거래 거래 희망지역 - 판매자 정보 yoda다yoda 상품 더보기 〉 채팅하기 구매하기 상품 상세 일판 원피스 카드 게임 4주년 기념 부스터 팩 OP-17 세계 최강의 전사 미개봉 새제품 1박스 판매해요 (???)???? 서치 박스 걱정 X 일마존 당첨 박스입니다! 배",
-   "url": "https://cafe.naver.com/joonggonara/1136217733?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM2MjE3NzMzLCJpc3N1ZWRBdCI6MTc5MTM3ODkwMTY4OX0.GQLPm2R_LDGYq4okdB-trRYX-FsCmzWDaL9L4Kr-k_s&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "3 장 이미지 더보기 〉 상품 정보 시그니엘 호텔 숙박권 판매합니다 1,000,000원 시세조회 결제 혜택 N 페이코 1% 즉시할인(최대 2만원)... 홈페이지 한정 특가 대비 주중/주말 7% 할인 제공 * 패키지 상품 제외, 시그니엘 예약실 통해 사전 유선 예약에 한하여 제공 ? 레스토랑 특전 · 시그니엘 서울 - STAY 식음업장 이용 시 기념일 경우 ",
-   "url": "https://cafe.naver.com/joonggonara/1136217602?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM2MjE3NjAyLCJpc3N1ZWRBdCI6MTc5MTM3ODkwMTY4OX0.p42VSRAipIBlJgzS9OzRY9KYnzsgd6K6lUW-HyFWW2c&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "베타 물고기 NGC 69 등급 앞면 부분금도금 , 뒷면 전체금도금 중량 25g 순도 99.9 실물보면 정말이뻐요 오랫동안 소장한던 아이입니다 2000개 한정판 은화 앞뒤 이상없음 분양가 21만 --> 20만 택배비 4000원 2. 골드판다 발행 35주년 기념 팬더 프루프 은화 순도 99.9 15g 초판 NGC PF 70등급 분양가 15만 --> 14.5만 ",
-   "url": "https://cafe.naver.com/dodohi0607/1267098?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjcwOTgsImlzc3VlZEF0IjoxNzkxMzc4OTAxNjg5fQ.j0QJvpSooSDFwzmQ6gufAZ9Mz3aipVwbLhr74GYIn-0&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "캠페인 한정 캐릭터 (귀요미, 등) | 지 : 지원 부대 캐릭터 (고양이 도령, 등) | 플 : 플래티넘 조각 | 스 : 스탭 업 <판매> [10월 9일 ~ 26일] 콜라보레이션 기념 팩 [10월 16일 ~ 21일] 응원 세일! 고양이 통조림 팩 [0;31m[10월 16일 ~ 11월 8일] [1;38m투쟁 본능 대회, 레드엔젤 대회 <아이템> [10월 9일",
-   "url": "https://cafe.naver.com/thebattlecats121114/989?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRoZWJhdHRsZWNhdHMxMjExMTQiLCJhcnRpY2xlSWQiOjk4OSwiaXNzdWVkQXQiOjE3OTEzNzg5MDE2ODl9.dDBcPePSpnhoC-liWWK4n_bDtp9z7jD_4zzCg8bsjaM&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "와일드 터키 디스틸링 컴퍼니에서 45주년을 맞이하는 에디 러셀의 기념으로 출시된 캠프 넬슨 D는, 일관된 위스키 제조 기본 원칙을 유지하더라도 숙성 환경이 최종 증류주에 지대한 영향을 미친다는... 러셀스 리저브 싱글 릭하우스 캠프 넬슨 D가 미국 내 일부 소매점과 와일드 터키 증류소 방문자 센터에서 한정 기간 동안 750ml 병당 권장 소비자가 300달러",
-   "url": "https://cafe.naver.com/whiskycognac/944932?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndoaXNreWNvZ25hYyIsImFydGljbGVJZCI6OTQ0OTMyLCJpc3N1ZWRBdCI6MTc5MTM3ODkwMTY4OX0.Q9NpqzFakmXgYoFFiyekkFVao8IPNkwT0wacwaOOeCQ&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "상품 정보 더보기 〉 상품 정보 트릭컬 3주년 주화 (우이, 비비) 50,000원 시세조회 결제 혜택 N 페이코 1% 즉시할인(최대 2만원) KB국민카드 12개월 5.5% 특별 할부 수수료 결제 혜택 받기 〉 상품 상태 새상품, 구성품 없음 거래 방법 문앞택배 거래 희망지역 - 판매자 정보 행복한일이없을까 상품 더보기 〉 채팅하기 구매하기 상품 상세 트릭컬",
-   "url": "https://cafe.naver.com/joonggonara/1136216215?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM2MjE2MjE1LCJpc3N1ZWRBdCI6MTc5MTM3ODkwMTY4OX0.dyi7aSSO1a4JSheHZexwc7PiXic1gc4Lx7PbCH0yNlw&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "메이커스 마크(Maker's Mark)는 오늘 전 세계 최고급 오크의 영향을 기념하는 새로운 글로벌 여행 소매 전용 시리즈인 월드 우드 컬렉션(World Wood... 이번 한정판 제품은 오늘부터 뉴욕(JFK), 런던(LHR), 이스탄불(SAW), 퍼스(PER), 벵갈루루(BLR)의 아볼타 매장에서 권장 소비자가격 84.99달러에 판매될 예정입니다. 게시판",
-   "url": "https://cafe.naver.com/whiskycognac/944923?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndoaXNreWNvZ25hYyIsImFydGljbGVJZCI6OTQ0OTIzLCJpc3N1ZWRBdCI6MTc5MTM3ODkwMTY4OX0.Y79VNDdfsEAq5-oY5qYEwXy9036c40rwYRH8dY68j6c&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%ed%95%9c%ec%a0%95%ed%8c%90%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "한게임 포커 여자 모델 기억 기술과 비밀 풀기: 분석, 평가 및 최적화 - Calgary Roughnecks",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUJGV21oSzVoWHgyb1duX0tnWi1VOHowb3ZwVDd1NUFtSC1FeWtWWS02QkVpZ21ScGU4c2ptcnBnNWloLUhQNlQyUFRabnJpcjVaeGRBb2loMFM2b3dJdllWLW13WVlSazdCa0x1VW04YnRmLUp6UFlKRHBSMkZzRA?oc=5",
-   "pub": "Thu, 01 Oct 2026 13:39:53 GMT",
-   "engine": "gnews",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "영문 버튼이 낯선 분을 위한 프라이빗블록체인 조작 번역 - Calgary Roughnecks",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XcWtEdHJHT0JSLTc1bDNaWWFGZm1hZHZUaTRqVjRWbnhURVIwUFBzQ0FTa0hseC1malUzLTEzbVZfSUlmTmF0VnlvaUl1eGVUMUdYb3JSN2FWcUliTHdNT2F6SU5Wdzd6OWNWWkVFUQ?oc=5",
-   "pub": "Tue, 06 Oct 2026 11:46:15 GMT",
-   "engine": "gnews",
-   "query": "기념주화 한정판매",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "학생회 구성, 성전 건립 계획 수립 12. 17. 성모상(8척) 봉헌식 (후에 훼손) 12. 말.. 신자수 701명, 영세자수 27명, 예비자수 100명 1953년 06. 29. 샤보 신부 서거 (향년 67세) 07. 00. 4대 본당... 성당 건립 계획 수립(설계 : 청년회 회장 장덕수) 12. 00. \"용산 본당 4H 클럽\"구성 12. 00. 임시 성",
-   "url": "https://cafe.naver.com/yongsanch/646?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InlvbmdzYW5jaCIsImFydGljbGVJZCI6NjQ2LCJpc3N1ZWRBdCI6MTc5MTM3NTE4OTY5OX0.m-RNigCCp3qThUiLNpiqehdjKle9L0BFJoXclm2l7DY&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "세종대왕을 모티프로 한 조훈민, 신사임당을 재해석한 조다임, 이순신 장군을 본뜬 조순식으로 구성되며, 각각 굿즈·전시 담당 문화사업 총괄, 화폐 디자이너, 주화 조각가라는 설정으로 조폐공사의 실제... 조계종은 이번 행사를 계기로 불교를 시민이 문화예술을 즐기고 소통하는 열린 문화공간으로 확장해 나갈 계획이다. 인사이트 붓쯔 팝업은 굿즈가 '행사 주제 안에",
-   "url": "https://cafe.naver.com/codebintl/3738?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNvZGViaW50bCIsImFydGljbGVJZCI6MzczOCwiaXNzdWVkQXQiOjE3OTEzNzUxODk2OTl9.nbzdloXSNT1BXMpMsi8x4SpRea45_qbNQHFm-22nBW4&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "골드판다 발행 35주년 기념 팬더 프루프 은화 순도 99.9 15g 초판 NGC PF 70등급 분양가 15만 --> 14.5만 택배비 4000원 3. 2018년 호주 웻지이글 초판 NGC 70등급 1온스 순도 99.99 분양가 17만 --> 16.5만 택배비 4000원 4. 소말리아 코끼리 태극기 프리비 1온스 순도 99.9 PCGS 69 등급 분양가 17",
-   "url": "https://cafe.naver.com/dodohi0607/1267098?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjcwOTgsImlzc3VlZEF0IjoxNzkxMzc1MTg5Njk5fQ.hOG2cYpkrUCvrSEQWbDl9tiXAHup4pjPY7c6MXispiE&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "사진 순서별 구성 안내 사진 1번~3번: 2018 평창 동계올림픽 기념주화 은화 7종 세트 (2차분) 가격 40만원 구성: 5,000원 은화 7종 풀세트 + 케이스 + 보증서/안내서 발행 당시 정가 43만 4천 원 제품이며, 겉상자까지 깨끗하게 보관 중입니다. 가지고있는 제품중 겉상자 안상태 제일 양호합니다 사진 4번~6번: 1988 서울 올림픽 제3차 기",
-   "url": "https://cafe.naver.com/joonggonara/1136215090?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM2MjE1MDkwLCJpc3N1ZWRBdCI6MTc5MTM3NTE4OTY5OX0.U27JbOw9lQrnSkt0sp8mqbRTYm6ICGRBHjlMaGo7tkA&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "소품이나 기념 선물, 수집용으로 인기가 높습니다. 분양가:8만5천원 택배비:4천원우체국 3번 이탈리아에서 출시된 '미화 모자이크 시리즈(Mythic Mosaic Series)'의 유니콘 1온스 구리 메달(Unicorn Mythic Mosaic 2026 1 oz Copper Round)의 공식 전용 소형 박스 패키지입니다. 소재: 1온스 999 순구리 (1 ",
-   "url": "https://cafe.naver.com/dodohi0607/1267069?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjcwNjksImlzc3VlZEF0IjoxNzkxMzc1MTg5Njk5fQ.0vBbG9aBKFrlVBesdM9ucsp68_JDyXlkliRLyUzIRBQ&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "읽어주셔서 감사합니다. 아래는 다른 페이지 중 하나입니다. 대동은전에 관련한 내용도 있으니 찾아보시면 좋을 것 같습니다. 책은 독립기념관 소장품 검색에서 자유롭게 열람하실 수 있습니다. *정정합니다. 위에 써진 내용은 여러 교차검증이 필요한 내용이니 그냥 참고용으로 읽어주시면 감사하겠습니다.",
-   "url": "https://cafe.naver.com/ilovemoderncoins/958?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imlsb3ZlbW9kZXJuY29pbnMiLCJhcnRpY2xlSWQiOjk1OCwiaXNzdWVkQXQiOjE3OTEzNzUxODk2OTl9.ACyuWBgOoQZat4U7CcwuaEynOML2EbTPqOAPBetSeAE&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "임용시험 계획 공고(6) - 학예연구 분야 상주시 2026년 10월 20일, 시각 미기재 한국전통문화대학교 공무직 근로자... 공고 제목은 제37호이지만 본문에는 제36집·6월 발행 안내가 남아 있어, 투고 대상 호수와 발간 시점은 확인이 필요합니다. 전시·행사... 프랑스어로 소개하는 ‘종묘’, 한국어로 소개하는 ‘생드니대성...에 따르면 궁능유적본부와 ",
-   "url": "https://cafe.naver.com/archaeology/20277?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFyY2hhZW9sb2d5IiwiYXJ0aWNsZUlkIjoyMDI3NywiaXNzdWVkQXQiOjE3OTEzNzUxODk2OTl9.f9NODApY1COeWm6TbC7Wh4KnqoBqZawbQT0d8iLonXY&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "루거우차오 사건(노구교 사건, 문화어: 로구교 사건) 혹은 7·7 사변(七七事变)은 1937년 7월 7일에 베이징 서남쪽 방향 루거우차오(루거우 다리, 중국어 간체자: 卢沟桥, 정체자: 盧溝橋, 병음: Lúgōuqiáo)에서 일본군의 자작극으로 벌어진 발포 사건으로, 중일 전쟁의 발단이 되었다. 이 사건을 계기로 일본 제국과 중화민국은 전쟁 상태로 돌입, ",
-   "url": "https://cafe.naver.com/mannapray/656?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hbm5hcHJheSIsImFydGljbGVJZCI6NjU2LCJpc3N1ZWRBdCI6MTc5MTM3NTE4OTY5OX0.5WJNPp2uXhf-KUku2I4Yxt8cShVf4IThFg-oph15KsE&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "[1][2] ※ 「시인투데이」는 2025년 보도에서 폐간 결정과 향후 복간 추진 계획이 함께 안내되었습니다. 이 보고서에서는 당시의 활동 기록으로... 문학상·신인문학상 시상, 출판기념 행사, 영상문학 관련 시상과 회원 교류를 함께 진행하며 창립 이후 5년의 활동을 돌아보았습니다. [10][20] ③ 시샘학당 작품집 『시샘하는 말』 ● 발행: 한국문예미디어",
-   "url": "https://cafe.naver.com/dicapoem/58612?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpY2Fwb2VtIiwiYXJ0aWNsZUlkIjo1ODYxMiwiaXNzdWVkQXQiOjE3OTEzNzUxODk2OTl9.yFeTlnpDgMKcVg-z-y7qGPecYPvvguSGnLC_NEcaxb0&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "제3조 (을의 역할 및 지원 사항) 공식 명칭 및 권한 부여: 을은 갑을 본 대회의 '공식 메인 파트너 및 독점 미디어 스폰서'로 지정한다. 인증서 및 트로피 공동 발행: 본 대회에서 배출되는 모든 수상자 및 참가자들의 이력에 갑의 협회 인증 마크 및 디지털 자격 연동권을 공동 부여한다. 글로벌 진출권 보장: 갑의 아카데미 수료생 및 가맹 샵 원장들에게 국",
-   "url": "https://cafe.naver.com/hsd114/17?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhzZDExNCIsImFydGljbGVJZCI6MTcsImlzc3VlZEF0IjoxNzkxMzc1MTg5Njk5fQ.zxZucy5TdqErx0Yrrwf7iQNNpZoPakBOQ_5pB0t-XFo&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "2023년 중국에서 발행된 한국 근대전 닷량(5 Yang) 공식 기념 은메달입니다. • 발행국 및 연도: 중국, 2023년 • 재질 및 중량: 순은 (99.9%) / 60g • 앞면 중앙에는 근대 조선 은화의 상징인 두 마리의 용... 2023년 중국 발행 ‘대조선 개국 501년 닷량 99.9순은 은메달(60g)’의 발행량은 총 88개입니다. 주화: 슬랩깨",
-   "url": "https://cafe.naver.com/dodohi0607/1266903?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjY5MDMsImlzc3VlZEF0IjoxNzkxMzc1MTg5Njk5fQ.Cc3FZ23W-KsTLDVHb5aHBUEvtil3qrJ-vxMqaGVRLpc&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "오스트리아 25실링 기념 은화 5점 1956년 모차르트 1961년 부르겐란트 1966년 페르디난트 라이문트 1967년 마리아 테레지아 1969년 페터 로제거 오스트리아의 역사·문화·인물을 기념해 발행된 25실링 기념 은화 5종입니다. 각 13g / 순도 80% 지름 약 30.5mm / 두께 약 2.1mm 총 중량 65g / 총 순은중량 52g입니다. 현재 ",
-   "url": "https://cafe.naver.com/dodohi0607/1266839?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjY4MzksImlzc3VlZEF0IjoxNzkxMzc1MTg5Njk5fQ.Oj3faRR0X6hCFIHcl33BNycGnTCxXpCbbupJC8pxUO8&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "서독 5마르크 기념 은화 5점 1969년 게르하르트 메르카토르 1974년 임마누엘 칸트 1975년 알베르트 슈바이처 1976년 그림멜스하우젠 1978년 구스타프 슈트레제만 서독에서 역사적 인물과 기념주제를 소재로 발행한 5마르크 기념 은화 5종입니다. 각 11.2g / 순도 62.5% 지름 약 29mm / 두께 약 2.07mm 총 중량 56g / 총 순은중",
-   "url": "https://cafe.naver.com/dodohi0607/1266837?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjY4MzcsImlzc3VlZEF0IjoxNzkxMzc1MTg5Njk5fQ.9lM97qn7ynpQhXehBK6dQ1pyxc5xyxLjo6MvK2-ssJ4&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "이듬해 기념사업회도 발족되었습니다. 이러한 육영수 여사의 탄생 100주년을 맞아 금·은메달이 발행되었습니다. 메달의 앞면에는 목련을 배경으로 육영수 여사의 초상과 박정희 대통령의 서체로 ‘육영수 여사 탄생 100주년 기념’이라 새겼으며 뒷면에는 육영재단 로고와 육영수 여사의 친필 휘호를 새겼습니다. 2025년/銀 99.9%/31.1g/40mm/프루프 한정수",
-   "url": "https://cafe.naver.com/dodohi0607/1266808?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjY4MDgsImlzc3VlZEF0IjoxNzkxMzc1MTg5Njk5fQ.sZgtBJrEHJHRKYmRXCyvWvfKBfmHQgAHup_a_oEbaps&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "마감10월6일 오후10시10분 낙찰시 운영진10%기부 시작가:20만원 즉구가:26만원 증가폭:1천원단위인정 택배비:4천원우체국 2022 FIFA 카타르 월드컵 본선 진출국들을 테마로 발행된 '0유로 기념 지폐(0 Euro Souvenir Banknote)' 시리즈입니다. 시리즈 구성: 통상 월드컵 본선에 진출한 32개국 국가별 버전이 1세트로 구성되어 컬렉",
-   "url": "https://cafe.naver.com/dodohi0607/1266685?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjY2ODUsImlzc3VlZEF0IjoxNzkxMzc1MTg5Njk5fQ.NeFRBQAj9ie-xyoVxoIBnJ6FF2RO-D1FNtsqw59XjJI&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "우정사업본부는 김구를 기리는 기념우표도 발행했습니다. 기념우표에는 ‘나는 우리나라가 세계에서 가장 아름다운 나라가 되기를 원한다’라는 백범일지 ‘나의 소원’ 문장을 인쇄했습니다. 보훈부에서는 인기 강사를 불러서 김구 강연을 하고 서울 광화문광장을 김구를 기리는 행사 공간으로 운영했습니다. 민간에서도 김구 이름을 딴 걷기 행사, 김구를 기리는 전시회가 계속 ",
-   "url": "https://cafe.naver.com/silentmay/2559?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNpbGVudG1heSIsImFydGljbGVJZCI6MjU1OSwiaXNzdWVkQXQiOjE3OTEzNzUxODk2OTl9.WpiXuUs_AHS5B6VPVNQaB8qWKu37usoP71BUIrfof6c&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "3mm / 인쇄처: Bureau of Engraving and Printing 인쇄 기간: 1932-33년 앞면도안: 링컨 뒷면도안: 링컨기념관 수집일자:2026년 9월 8일 ---------------------------------------------------------------------------------------------- 대공황이 최절",
-   "url": "https://cafe.naver.com/antimaker/269220?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFudGltYWtlciIsImFydGljbGVJZCI6MjY5MjIwLCJpc3N1ZWRBdCI6MTc5MTM3NTE4OTY5OX0.pC8ewXnbl37-j-puISnHbhI5UO4x8kGhleaTuqIwE8E&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "골드판다 발행 35주년 기념 팬더 프루프 은화 순도 99.9 15g 초판 NGC PF 70등급 분양가 15만 택배비 4000원 4. 2018년 호주 웻지이글 초판 NGC 70등급 1온스 순도 99.99 분양가 17만 택배비 4000원 5. 소말리아 코끼리 태극기 프리비 1온스 순도 99.9 PCGS 69 등급 분양가 17만 택배비 4000원 6. 2003년",
-   "url": "https://cafe.naver.com/dodohi0607/1266642?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjY2NDIsImlzc3VlZEF0IjoxNzkxMzc1MTg5Njk5fQ.1ZvMY7cwxXx6f0h-2-pPYlZ8CE_9sFwYUPQijjQpY_A&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "2026년 반세기, 즉 미국 건국 250주년을 기념하여, 미국 조폐국은 우리 국가를 기념하는 다섯 개의 새로운 분기를 발행할 예정입니다. 2026년 시리즈의 4번째 쿼터인 미국 헌법 쿼터를 가장 먼저 받은 사람들 중 하나가 될 것입니다. 독립기념관에서는 독립 선언문과 미국 헌법이 모두 작성되고 토론되며 서명되었습니다. 단 1년 동안만 미국 조폐국은 특별 주",
-   "url": "https://cafe.naver.com/dodohi0607/1266583?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjY1ODMsImlzc3VlZEF0IjoxNzkxMzc1MTg5Njk5fQ.PrbZQhSDSCQre9T-JZwT4VPV2GW6QQ1lKDSD7zbUayE&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "955인치) • 테두리: 톱니 모양 (Reeded) 2번 2008년 미국 조폐국(US Mint) 50주 정부 기념 쿼터 은화 프루프 세트(50 State Quarters Silver Proof Set)의 사양(Specifications) 안내 카드입니다. 주요 사양 정보 • 발행 연도: 2008년 • 구성 주화: 오클라호마, 뉴멕시코, 애리조나, 알래스카,",
-   "url": "https://cafe.naver.com/dodohi0607/1266566?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjY1NjYsImlzc3VlZEF0IjoxNzkxMzc1MTg5Njk5fQ.FlTn8G2PzgajuMXBbkndIkPHJXUCVeuiloAUxNRBBPU&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "KZ-4.카자흐스탄 2025 500텡게 2600원 (8) KZ-5.카자흐스탄 2024 1000텡게 4800원 (9) TJ-1.타지키스탄 2025 소모니발행... 부탄 2016년 왕자탄생 기념 1000눌트럼 27800원 (8) NP-10.네팔 1루피 1500원 (4) ID-1.인도네시아 3장 일괄 1100원 ID-2.... 카자흐스탄 독립25주년 10000텡",
-   "url": "https://cafe.naver.com/antimaker/269209?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFudGltYWtlciIsImFydGljbGVJZCI6MjY5MjA5LCJpc3N1ZWRBdCI6MTc5MTM3NTE4OTY5OX0.jDCWKocNd8xd-u7_2Le9p2zaVBnUtoQ6_r4ag3UDDHE&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "대한민국의 주춧돌을 놓은 역사의 거인박정희대통령기념재단 공식 발행 최초의 메달 대한민국 제5~9대 대통령을 역임한 박정희 대통령 (1917~1979)은 국내외 무수한 격랑을 헤쳐가며 국민과 함께, 그리고 국민을 위해 오늘날 대한민국의 초석을 놓았던 역사의 거인입니다. 이러한 박정희 대통령의 발자취를 기리고 그 업적을 널리 알리고자 박정희대통령기념재단에서 재",
-   "url": "https://cafe.naver.com/dodohi0607/1266469?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjY0NjksImlzc3VlZEF0IjoxNzkxMzc1MTg5Njk5fQ.QcsLDB5oZnQOBCqm1j68cYh7BzDt3tPtJkd6wPYiDHg&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "• 발행 연도: 1993년 • 액면가: 1,000원 • 소재: 황동 (구리 92%, 알루미늄 2%, 니켈 6% 합금) • 도안: 대전엑스포 마스코트인 '꿈돌이'와 로켓, 우주 디자인 법정화폐 (여분2개있습니다) 분양가:개당1만원 택배비:4천원우체국 4번 다이애나 왕세자비(Diana, Princess of Wales)를 추모하기 위해 발행된 '포트레이트 오브",
-   "url": "https://cafe.naver.com/dodohi0607/1266446?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjY0NDYsImlzc3VlZEF0IjoxNzkxMzc1MTg5Njk5fQ.auzjslBfVGdtGH77oX6Gn2I46tX6ZnXMUSPzfJXqk10&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "특징:프루프색채 깨끗합니다 분양가:12만5천원 택배비:4천원우체국 2번 2011년(헤세이 23년) 지방자치법 시행 60주년을 기념하여 발행한 시가현(滋賀県) 1000엔 컬러 프루프 은화 세트입니다. • 발행 연도: 2011년 (헤세이 23년) • 기념 주제: 일본 지방자치법 시행 60주년 (47개 도도부현 시리즈 중 시가현) • 소재 및 규격: 순은 99.",
-   "url": "https://cafe.naver.com/dodohi0607/1266436?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjY0MzYsImlzc3VlZEF0IjoxNzkxMzc1MTg5Njk5fQ.iQ9ya14f5IYZ-_vKZgrYfEC7rZEIelmEltPozid1RR0&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "가격과 상자 안에 들어가는 물품, 기념주화의 종류가 궁금하셨다면 먼저 이 부분부터 보셔야 해요. 순은 주화가 무조건 들어가는 상품은 아닙니다.주화는 무작위 구성이라서 예약 전에 조건을 알아두는... 특히 한정 수량 상품인 만큼 표시 여부만 보고 바로 방문하기보다는 해당 지점의 배정과 입고 계획을 물어보는 편이 낫겠어요. 캡틴큐를 위스키로 생각하면 안 되는 ",
-   "url": "https://cafe.naver.com/urisports/10399?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVyaXNwb3J0cyIsImFydGljbGVJZCI6MTAzOTksImlzc3VlZEF0IjoxNzkxMzc1MTg5Njk5fQ._brY6-5E04V04zZPkQCK-AiaG4oCVAH1FV9cN6rcfj8&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "1941년 나치독일 아연주화 10페니히 'A'(베른린 발행) ㅡ 7,000 40.1969년 동독 건국 20주년 5마르크 ㅡ 4,500 41. 1969년 동독 건국 20주년 5마르크 ㅡ 5,500 42. 1971년 동독일 브란덴부르크문 기념주화 5마르크 ㅡ 5,000 43. 1972년 동독일 마이센시 기념주화 5마르크 ㅡ 5,500 44. 1974년 동독일 ",
-   "url": "https://cafe.naver.com/dodohi0607/1266329?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjYzMjksImlzc3VlZEF0IjoxNzkxMzc1MTg5NzAwfQ.flxYb8Fa-k_CyVBNqOMQeejB_1CgNU-zXgHOBSeDTMg&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "제16대 노무현 대통령 기념 우표첩(정보통신부 발행) 경매합니다. 마지막 여분입니다 시작가 98,000원에 시작합니다. 상태는 사진으로 대신합니다.(상태 좋습니다) 시작가: 98,000원 증폭가: 2000원 즉구가: 130,000원 배송비: 택배 4000원 연락처 010-****-**** 계좌: 신한은행 *** **** ***** 김종현 마감시간: 2026",
-   "url": "https://cafe.naver.com/dodohi0607/1266280?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjYyODAsImlzc3VlZEF0IjoxNzkxMzc1MTg5NzAwfQ.2jvUJhBVYMH3R9rUnfS-lPy1BS-wMHD5oPd8B6-9o9M&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "5% 특별 할부 수수료 결제 혜택 받기 〉 상품 상태 중고, 구성품 없음 거래 방법 택배거래 거래 희망지역 - 판매자 정보 솔리라스 상품 더보기 〉 채팅하기 구매하기 상품 상세 2006년 병술년(개띠 해)을 기념하여 발행된 피지(FIJI) 50센트 컬러 기념주화 판매합니다. 세계적으로 유명한 호주 조폐국(Royal Australian Mint)에서 정식 제",
-   "url": "https://cafe.naver.com/joonggonara/1136096051?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM2MDk2MDUxLCJpc3N1ZWRBdCI6MTc5MTM3NTE4OTcwMH0.up8w9tzxaUF_fgDVnvzYkou8lWeySP1t8xqvt0Fdv10&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
-  },
-  {
-   "title": "제조는 어디인지 표기없음 1) The Republic of Ghana Tatto 1, 1 Ghana Sadi Proof Coin - 타이거 : 130,000원 , NGC 70등급 8개중 1개 2) The Republic of Ghana Tatto 2, 1 Ghana Sadi Proof Coin - 드래곤 : 130,000원, NGC 70등급 7개중 1개 오",
-   "url": "https://cafe.naver.com/dodohi0607/1266228?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZG9oaTA2MDciLCJhcnRpY2xlSWQiOjEyNjYyMjgsImlzc3VlZEF0IjoxNzkxMzc1MTg5NzAwfQ.ttoOvM7yVr0tzbNt2wH_BWArj2YZjQwkceS63zAWeXI&q=%ea%b8%b0%eb%85%90%ec%a3%bc%ed%99%94%20%eb%b0%9c%ed%96%89%20%ea%b3%84%ed%9a%8d&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "기념주화 발행 계획",
-   "first_seen": "2026-10-07T21:07:13+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "naver_blog '기념주화 발행 계획': HTTP Error 403: Forbidden",
+  "naver_news '기념주화 발행 계획': HTTP Error 403: Forbidden",
+  "naver_cafe '기념주화 발행 계획': HTTP Error 403: Forbidden",
+  "naver_blog '기념주화 예약 접수': HTTP Error 403: Forbidden",
+  "naver_news '기념주화 예약 접수': HTTP Error 403: Forbidden",
+  "naver_cafe '기념주화 예약 접수': HTTP Error 403: Forbidden",
+  "naver_blog '한국은행 기념주화': HTTP Error 403: Forbidden",
+  "naver_news '한국은행 기념주화': HTTP Error 403: Forbidden",
+  "naver_cafe '한국은행 기념주화': HTTP Error 403: Forbidden",
+  "naver_blog '조폐공사 골드바 출시': HTTP Error 403: Forbidden",
+  "naver_news '조폐공사 골드바 출시': HTTP Error 403: Forbidden",
+  "naver_cafe '조폐공사 골드바 출시': HTTP Error 403: Forbidden",
+  "naver_blog '조폐공사 기념메달 판매': HTTP Error 403: Forbidden",
+  "naver_news '조폐공사 기념메달 판매': HTTP Error 403: Forbidden",
+  "naver_cafe '조폐공사 기념메달 판매': HTTP Error 403: Forbidden",
+  "naver_blog '조폐공사 한정판 금화': HTTP Error 403: Forbidden",
+  "naver_news '조폐공사 한정판 금화': HTTP Error 403: Forbidden",
+  "naver_cafe '조폐공사 한정판 금화': HTTP Error 403: Forbidden",
+  "naver_blog '현용주화 세트 판매': HTTP Error 403: Forbidden",
+  "naver_news '현용주화 세트 판매': HTTP Error 403: Forbidden",
+  "naver_cafe '현용주화 세트 판매': HTTP Error 403: Forbidden",
+  "naver_blog '프루프 주화 세트': HTTP Error 403: Forbidden",
+  "naver_news '프루프 주화 세트': HTTP Error 403: Forbidden",
+  "naver_cafe '프루프 주화 세트': HTTP Error 403: Forbidden",
+  "naver_blog '기념은행권 발행': HTTP Error 403: Forbidden",
+  "naver_news '기념은행권 발행': HTTP Error 403: Forbidden",
+  "naver_cafe '기념은행권 발행': HTTP Error 403: Forbidden",
+  "naver_blog '연결형 은행권 판매': HTTP Error 403: Forbidden",
+  "naver_news '연결형 은행권 판매': HTTP Error 403: Forbidden",
+  "naver_cafe '연결형 은행권 판매': HTTP Error 403: Forbidden"
+ ]
 }

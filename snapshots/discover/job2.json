@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-07T22:07:13+09:00",
+ "updated": "2026-10-07T22:39:56+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 71,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "금산세계인삼축제 100만 명 방문 예상…충남도, 인파·교통·응급대응 점검 - 뉴스파고",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5yc2Ftc2p5NEVpM0lsMlBhSURUM3ItN2o5TEIzQmJOaG1YMTFyeXRVdEZ6MVljWE5lNUtXRDlPR3Rab21y?oc=5",
+   "pub": "Wed, 07 Oct 2026 07:14:00 GMT",
+   "engine": "gnews",
+   "query": "충남대 축제",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
   {
    "title": "이번 11월 최대 규모의 축제 — 제3회 예천 회룡포&판테온배 이번 기사를 읽는 파크골퍼라면 이 부분을 가장 유심히 볼 필요가 있다. 10월 7일 현재 실제 참가 신청 기회가 남아 있는 대표적인 11월 전국대회가 예천 회룡포&판테온배이기 때문이다. 대한파크골프협회 공식 홈페이지 기준 신청 마감은 10월 8일, 상세 요강상 정확한 마감시각은 10월 8일 오후",
    "url": "https://blog.naver.com/dreamcometrue114/224434510043",
@@ -7083,14 +7091,38 @@
    "engine": "naver_cafe",
    "query": "대전 대학축제 라인업",
    "first_seen": "2026-10-03T08:44:55+09:00"
-  },
-  {
-   "title": "이제 가을 축제 시즌 시작이네요 천안 종합운동장에서 오늘부터 흥타령축제 개막하는데 가수 라인업이 심상치가 않더라구요 오늘 7시부터 열리는 개막식에는 이승기... 있습니다 #목천#풍세면#광덕면#북면#성남면#수신면#병천#동면#중앙#문성#원성#봉명#일봉#신방#청룡#신안#성환#성거#직산#입장#성정#쌍용#백석#불당#부성#아산#진천#증평#세종#대전...",
-   "url": "https://cafe.naver.com/no1cheonan/4337951?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5vMWNoZW9uYW4iLCJhcnRpY2xlSWQiOjQzMzc5NTEsImlzc3VlZEF0IjoxNzkwOTg0NzQ5MTg0fQ.TFpcMi1UDYOv6hxVLBKZs0R8A71R5NOdUNYuH6gVDTM&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 대학축제 라인업",
-   "first_seen": "2026-10-03T08:44:55+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "naver_blog 'KAIST 축제': HTTP Error 403: Forbidden",
+  "naver_news 'KAIST 축제': HTTP Error 403: Forbidden",
+  "naver_cafe 'KAIST 축제': HTTP Error 403: Forbidden",
+  "naver_blog '카이스트 공연 동아리': HTTP Error 403: Forbidden",
+  "naver_news '카이스트 공연 동아리': HTTP Error 403: Forbidden",
+  "naver_cafe '카이스트 공연 동아리': HTTP Error 403: Forbidden",
+  "naver_blog 'KAIST 루나틱': HTTP Error 403: Forbidden",
+  "naver_news 'KAIST 루나틱': HTTP Error 403: Forbidden",
+  "naver_cafe 'KAIST 루나틱': HTTP Error 403: Forbidden",
+  "naver_blog '충남대 축제': HTTP Error 403: Forbidden",
+  "naver_news '충남대 축제': HTTP Error 403: Forbidden",
+  "naver_cafe '충남대 축제': HTTP Error 403: Forbidden",
+  "naver_blog '충남대 공연': HTTP Error 403: Forbidden",
+  "naver_news '충남대 공연': HTTP Error 403: Forbidden",
+  "naver_cafe '충남대 공연': HTTP Error 403: Forbidden",
+  "naver_blog '목원대 공연': HTTP Error 403: Forbidden",
+  "naver_news '목원대 공연': HTTP Error 403: Forbidden",
+  "naver_cafe '목원대 공연': HTTP Error 403: Forbidden",
+  "naver_blog '목원대 연주회': HTTP Error 403: Forbidden",
+  "naver_news '목원대 연주회': HTTP Error 403: Forbidden",
+  "naver_cafe '목원대 연주회': HTTP Error 403: Forbidden",
+  "naver_blog '한밭대 축제': HTTP Error 403: Forbidden",
+  "naver_news '한밭대 축제': HTTP Error 403: Forbidden",
+  "naver_cafe '한밭대 축제': HTTP Error 403: Forbidden",
+  "naver_blog '한밭대 공연': HTTP Error 403: Forbidden",
+  "naver_news '한밭대 공연': HTTP Error 403: Forbidden",
+  "naver_cafe '한밭대 공연': HTTP Error 403: Forbidden",
+  "naver_blog '백마대동제': HTTP Error 403: Forbidden",
+  "naver_news '백마대동제': HTTP Error 403: Forbidden",
+  "naver_cafe '백마대동제': HTTP Error 403: Forbidden"
+ ]
 }

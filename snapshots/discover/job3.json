@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-07T22:07:13+09:00",
+ "updated": "2026-10-07T22:39:56+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 98,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "노래는 콘서트 장 가는 길에 급하게 연습했음 미안해요 근데 진짜 거의 탑 3? 공연 끝나고 매일들어요 진짜 Make me forget 아.. 좋은 노래 또 나옴 하… ㅠㅠㅠㅠㅠㅠ 그냥 들어봐 이 38살 아저씨 몸은 또 왤케 좋으셔 수아언니가 박효신 좋아하는 기분이 이런건가? Make me forget 이 노래 너무 좋아서 영상이 세개나 됨 어뜨켘ㅋㅋ you",
@@ -7079,5 +7079,36 @@
    "first_seen": "2026-10-03T11:39:03+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "naver_blog '박효신 콘서트': HTTP Error 403: Forbidden",
+  "naver_news '박효신 콘서트': HTTP Error 403: Forbidden",
+  "naver_cafe '박효신 콘서트': HTTP Error 403: Forbidden",
+  "naver_blog '박효신 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '박효신 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '박효신 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_blog '이해원 소프라노': HTTP Error 403: Forbidden",
+  "naver_news '이해원 소프라노': HTTP Error 403: Forbidden",
+  "naver_cafe '이해원 소프라노': HTTP Error 403: Forbidden",
+  "naver_blog '이해원 공연': HTTP Error 403: Forbidden",
+  "naver_news '이해원 공연': HTTP Error 403: Forbidden",
+  "naver_cafe '이해원 공연': HTTP Error 403: Forbidden",
+  "naver_blog '브랜든 최 공연': HTTP Error 403: Forbidden",
+  "naver_news '브랜든 최 공연': HTTP Error 403: Forbidden",
+  "naver_cafe '브랜든 최 공연': HTTP Error 403: Forbidden",
+  "naver_blog 'Brandon Choi 테너': HTTP Error 403: Forbidden",
+  "naver_news 'Brandon Choi 테너': HTTP Error 403: Forbidden",
+  "naver_cafe 'Brandon Choi 테너': HTTP Error 403: Forbidden",
+  "naver_blog '송소희 콘서트': HTTP Error 403: Forbidden",
+  "naver_news '송소희 콘서트': HTTP Error 403: Forbidden",
+  "naver_cafe '송소희 콘서트': HTTP Error 403: Forbidden",
+  "naver_blog '송소희 공연': HTTP Error 403: Forbidden",
+  "naver_news '송소희 공연': HTTP Error 403: Forbidden",
+  "naver_cafe '송소희 공연': HTTP Error 403: Forbidden",
+  "naver_blog '이적 콘서트': HTTP Error 403: Forbidden",
+  "naver_news '이적 콘서트': HTTP Error 403: Forbidden",
+  "naver_cafe '이적 콘서트': HTTP Error 403: Forbidden",
+  "naver_blog '이적 공연': HTTP Error 403: Forbidden",
+  "naver_news '이적 공연': HTTP Error 403: Forbidden",
+  "naver_cafe '이적 공연': HTTP Error 403: Forbidden"
+ ]
 }

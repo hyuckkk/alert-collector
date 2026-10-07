@@ -1,8 +1,971 @@
 {
- "updated": "2026-10-07T22:07:13+09:00",
+ "updated": "2026-10-07T22:39:56+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1696,
+ "new_this_run": 125,
  "hits": [
+  {
+   "title": "목포시 '달리며 즐기는 반값여행, 목포 런트립' 운영 - KBC광주방송",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nRF9iU2xHeExHRTRtNFRlRjhzbnUxNDZDdWxPODk3Nk1oR2taeVJsQldTNGFvSzloRHZvVFhjOEltYXRfQ2NWRmtvWlZDUDE0QnhZTkhiTkluUC0taGZZMw?oc=5",
+   "pub": "Fri, 02 Oct 2026 07:31:37 GMT",
+   "engine": "gnews",
+   "query": "반값여행 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "가을 여행 여수 '섬' 인기 절정...'섬 반값 여행' 매력 - 전남인뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YNnZhZmlxME55eVN1am5MQUlwVEUzT0hwRWJUUllWdDY5dHJpYUU0U0JkY29RdDZ5YnNCWDhmbEk5T19ha3VWWG42NXR3bzd3dC1ydkhzeHJsXzctcUkzazVjSWliQXRVTnc?oc=5",
+   "pub": "Wed, 07 Oct 2026 13:26:56 GMT",
+   "engine": "gnews",
+   "query": "반값여행 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "“가을 여행은 여수 섬으로”… 여수 섬 매력에 발길 ‘북적’ - 여수시청",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3bjhuaXZ4WWFPWmdzSXFnbHB1c1l5YlJNQXhPdUVwcU9oSTlCVHFwSjZLVlFLUHRKRThabmRoNThSbVVWSFFscUdNdnRLUUlhT1ZsSXBLOWJETUJDS0lPMnRraHB5NEdFV0FyadIBbEFVX3lxTFB3bjhuaXZ4WWFPWmdzSXFnbHB1c1l5YlJNQXhPdUVwcU9oSTlCVHFwSjZLVlFLUHRKRThabmRoNThSbVVWSFFscUdNdnRLUUlhT1ZsSXBLOWJETUJDS0lPMnRraHB5NEdFV0FyaQ?oc=5",
+   "pub": "Wed, 07 Oct 2026 10:25:16 GMT",
+   "engine": "gnews",
+   "query": "반값여행 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "[기획보도]'더 큰 행복 포천시가족센터' 개관 1주년 특별기획 '가족센터, 조금 더 가(家)까이' - 경기포커스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SN0JhWUhLbzhvSS1WbWFQaUJLd2o0bWNFeUNhX1hYN2ZJbnBTbG1ndG1DQ3pMMENDSS1TSUlNWVBkLVo1YTdHS3NFWm0yLTMwWGZGSkdYTFZfQnZhU0hCY0xfZDFzaGJKVndYMQ?oc=5",
+   "pub": "Wed, 07 Oct 2026 04:37:02 GMT",
+   "engine": "gnews",
+   "query": "1박2일 가족 무료 프로그램",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "백혈병소아암협회, 소아암 가족 950명 에버랜드·호텔 1박 2일 지원 - 스페셜타임스",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UR20xNVYyM25kWU5PSkk0QmZTQ0Z1Nm9ackFpaEpDbDdiSEZsOVlGdUNUQmhrTTAwQ05UQzVfY1NKUnZtOHdzTklOcnpDeDRUaXAxV3U4RF9EUHJ0RHJWclZGWU0zMlR3dmJVR2FPeGw2UQ?oc=5",
+   "pub": "Wed, 07 Oct 2026 06:48:39 GMT",
+   "engine": "gnews",
+   "query": "1박2일 가족 무료 프로그램",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "\"서울 근교에 이런 비밀 정원이?\"… 10월 가을 바람 쐬러 가는 음성 힐링 스팟 - 여행톡톡",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50NlN2b3RxYm5ra0lBR1oyWU5ZSDdsU1Iwd1JwWUU3LU9ZVFJpYVR6eFhmUWpZT3RXa01lUDlxRHVXS0pRRWRleWN5cnJaUUMySzB5SHFXN0NDRmNldDFnQVFPTU5Md1Y4UTBIc9IBcEFVX3lxTE5WaEJHSWpYbFhZUlBicVNSR3hLNUhNTGhvVldIdnI3TG56dVZGc1VaRHpoajZXck9fT3A2OW5BX2NWNk5qNXMtVW51Rjc3M3lTSnp3R3M0di1pbXZra1lzUDVLbktFaDN6Yy16ZGFoRjg?oc=5",
+   "pub": "Sun, 04 Oct 2026 07:00:00 GMT",
+   "engine": "gnews",
+   "query": "휴양림 무료 숙박 가족",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "방안도 추진된다. 계절별 농특산물을 활용한 쿠킹클래스와 가족 단위 음식 만들기 체험, 전통시장·추어탕·석빙고 등 기존 지역자원...음식점과 카페 등을 연계한 미식패스(맛+관광+할인) 상품권 도입과 철도 등 교통수단을 활용한 관광객 접근성 개선 방안도 제시...",
+   "url": "http://v.daum.net/v/20261005133025625",
+   "engine": "daum_news",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "도착해 가족들과 얘기를 나누다 보니 포항에 살고 계신 형님과 경주에 사시는 큰누님은 정책 효과를 전혀 체감하지 못한 듯...불평을 쏟아냈죠. 형님은 \"이번 고속도로 주유소 유류 가격 할인 정책이 어차피 고속도로를 나갈 일도 없는 사람에겐 별 볼 일 없는 정책...",
+   "url": "http://v.daum.net/v/20261005115151900",
+   "engine": "daum_news",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "떡메치기, 인삼 건강 족욕 등 다양한 체험 프로그램이 운영돼 가족 단위 방문객과 관광객들의 호응을 얻었다. 인삼한방수육과 인삼...구매한 방문객에게는 5대 인삼판매시장에서 사용할 수 있는 할인쿠폰 추첨 기회를 제공해 축제장 소비가 지역시장 방문으로 이어질...",
+   "url": "http://v.daum.net/v/20261004132226549",
+   "engine": "daum_news",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "몰렸고, 가족 단위 관광객들은 인삼깎기와 인삼 인절미 떡메치기, 인삼 건강 족욕 등에 참여하며 축제를 즐겼다. ▲ '2026영주 풍기...풍기지역 5대 인삼판매시장에서 사용할 수 있는 할인쿠폰 추첨 기회를 제공한다. 축제 방문객을 기존 인삼시장으로 끌어들여...",
+   "url": "http://v.daum.net/v/20261004090121088",
+   "engine": "daum_news",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "떡메치기, 인삼 건강 족욕 등 다양한 체험 프로그램이 운영돼 가족 단위 방문객과 관광객들의 호응을 얻었다. 인삼한방수육과 인삼...구매한 방문객에게는 5대 인삼판매시장에서 사용할 수 있는 할인쿠폰 추첨 기회를 제공해 축제장 소비가 지역시장 방문으로 이어질...",
+   "url": "http://v.daum.net/v/20261004071653208",
+   "engine": "daum_news",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "떡메치기, 인삼 건강 족욕 등 다양한 체험 프로그램이 운영돼 가족 단위 방문객과 관광객들의 호응을 얻었다. 인삼한방수육과 인삼...구매한 방문객에게는 5대 인삼판매시장에서 사용할 수 있는 할인쿠폰 추첨 기회를 제공해 축제장 소비가 지역시장 방문으로 이어질...",
+   "url": "http://v.daum.net/v/20261003230316355",
+   "engine": "daum_news",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "체험공간에서는 가족 단위 방문객들의 모습이 이어졌다. 아이와 함께 축제장을 찾은 가족들은 인삼을 직접 만져보고 떡메를 치며...구매한 방문객에게는 5대 인삼판매시장에서 사용할 수 있는 할인쿠폰 추첨 기회가 제공된다. 축제장에서 풍기 인삼을 구입한 관광객...",
+   "url": "http://v.daum.net/v/20261003200457220",
+   "engine": "daum_news",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "관리, 가족의 삶의 질 향상에 도움이 되는 정보를 선별해 소개한다. -편집자 말 ◇ 바이오던스, 서울 주요 대학서 'My First Collagen' 무빙 팝업 바이오던스, 서울 주요 대학서 'My First Collagen' 무빙 팝업. ⓒ바이오던스 바이오던스, 서울 주요 대학서 'My...",
+   "url": "http://v.daum.net/v/20261002200457994",
+   "engine": "daum_news",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "혹은 가족끼리 여행을 가십니까? ◆ 이지은> 저는 일을 합니다. ◇ 류연정> 연휴가 아주 반갑지만은 않으실 것 같은데, 그렇죠? ◆ 이지은> 아니요. 이제 안동에서 외국인 관광객을 데리고 안동 선유 줄불놀이를 구경을 하는데요. 굉장히 너무나 아름답기 때문에 갈...",
+   "url": "http://v.daum.net/v/20261002193905701",
+   "engine": "daum_news",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "고속철도 통합 30일 성과 발표…수서축 이용객 28% 급증 [현장] - 철도경제신문",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aFRBT0NBa2NobXVuRW9JeDZNZFh5Zmhxekg5OFUzNnAxNm01SmVINi1WcXhvenlfa0lXeG1jcGFnb0NKa3BiMEJ3dHdpZVZsNklrdVNsRFJNMW1EUlFRMy1JaGlxY1FuMHdj?oc=5",
+   "pub": "Fri, 02 Oct 2026 08:28:23 GMT",
+   "engine": "gnews",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "부산 유료 명소 1곳 무료·철도 40% 할인…할인에 신난 외국인 - Daum",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GNWZJU3F3cEsxbXpaNEdNTnFPNEhvSlZsR3BIMjlzdjhBZzRJaXA2TTFocW9LU21KVFZCbUxVY0pFVjZTeUtmRWZRbnNreHhLbkRVUg?oc=5",
+   "pub": "Fri, 02 Oct 2026 00:09:01 GMT",
+   "engine": "gnews",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "횡성군, 가을 철도여행객에 열차운임 전액 할인쿠폰 - 뉴스타운",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YMlcwREpNa0pocWdxZDFGdmdQWlloNV9fdEJBVE1HUkJVWTFubUY5MXFMN2prckRKdVp5ZmUwWGpSWVd6TXdObWdHNmh0dnNNSEFOTlNxRmxuY3YtTm5Qa29NUkZjUVlYaVpiZnln?oc=5",
+   "pub": "Thu, 01 Oct 2026 00:04:46 GMT",
+   "engine": "gnews",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "숙박 5만원·교통비까지 할인…가을 국내여행 ‘혜택 총공세’ [똑똑! 스마슈머] - 서울경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15Umdnb3Jyd3JPUmhUTjFzOVp0ZGp4VDl1c3J4LW1EYkpNV1Z2aHdfTmpwWUpwTHBsY0pMRXFMa2RqVzBGR1M0dE02Z182azNYX2fSAVNBVV95cUxOM0Y4VTlwd29hUC10bS1EMzZRaTNOY2VoVmMzaVRweTFpaDZ3YzVyLTlsUnBiYkZhdjl4WU8tMGxIWi1Jb1NsajFwN2dqd0VhcXVaSQ?oc=5",
+   "pub": "Sun, 04 Oct 2026 02:00:00 GMT",
+   "engine": "gnews",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "“열차 운임 100% 환급”… 코레일과 철도여행 이벤트 진행하는 '국내 여행지' - 위키트리",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04UmNIWXotc1NHclk0RVBJS2xtcDZXTVlhVGt6SWllLXRodVJWZzhZZlRYMlBrd2VIdVVvTkVxQVhnRW9kbkdhOXhLLTJDblJtOW13Ti1B?oc=5",
+   "pub": "Thu, 01 Oct 2026 05:56:00 GMT",
+   "engine": "gnews",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "게임 구성 요소를 짧게 소개하는 한게임 카지노 정보 카드 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PbWtnZC1zTDJOdTc0TWthQlNwVWZNZEJvMXB5cG1rR2lLbmRSNTVsalRnS0JsVkozaF9ySm9WcnlFcXhQRmdXajJUejhaNUYtM0k4RWR3NURhc2ZvMWFITFpkZ0NCWnR1a3Nvek5QTHkyX05xSGp2QzhR?oc=5",
+   "pub": "Thu, 01 Oct 2026 19:26:53 GMT",
+   "engine": "gnews",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "맛집 체험과 2대2 야외 식사 데이트, 골목 산책 데이트 등을 진행할 예정이다. 모집 인원은 남녀 각 50명씩 100명이다. 서울에 주민...증명원·소득금액증명서 중 하나를 제출해야 한다. 시는 무작위 추첨과 자격 확인을 거쳐 참가자를 선발하고 오는 19일 개별 통보...",
+   "url": "http://v.daum.net/v/20261005072559531",
+   "engine": "daum_news",
+   "query": "무료 체험 추첨 가족 모집",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "체험료는 무료다. 산모·청년·장년·청소년·어르신을 대상으로 아로마 명상과 숲길 걷기, 요가, 체질별 한방차 다도 등 맞춤형 프로그램을 마련했다. 생활체육 기반도 확충한다. 상평동 정읍종합운동장 육상경기장은 사진판독실·창고·화장실 설치와 경기 용기구...",
+   "url": "http://v.daum.net/v/20261002174611145",
+   "engine": "daum_news",
+   "query": "무료 체험 추첨 가족 모집",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "어린이·가족 한글 체험 및 참여형 공연을, 야간에는 대형 공연과 볼거리를 집중적으로 배치했다고 재단 관계자는 설명했다. 첫날에는 ▲ 공군 블랙이글스 에어쇼 ▲ 한글노래 경연대회 ▲ 국립정동극장의 연희극 '광대' 등 한글축제의 특색을 살린 무대가 낮부터...",
+   "url": "http://v.daum.net/v/20261001104510041",
+   "engine": "daum_news",
+   "query": "무료 체험 추첨 가족 모집",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "청양 청소년전용공간 ‘온유’, 10월 프로그램 참가자 모집… 전액 무료 - 중부매일",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94TXozY205TG5jenotOW1CUjZDbnUxQ0dmVTVvaTRaWWZHb2Zmb1hvM3k2U2hSdWtqbzRUX2VBdVd6RWJKZHVVMnBJRFg1dWxXUVJ2Z2J3WTZPMFRwUVRGSGFfTjVSckYzNVHSAW5BVV95cUxPTVJuRlhuUWlpTklnX2RBeERBVUNOTGh1clN1M0FvejU3XzNlTVgyamdNZkxiV2dVQU45ZU9DNlVJNTY2NUNrRzRkWnB2OFdlUWh2UXBEUWZzSWh6bmpQX0t3cGU1T0gzSVU4QkRUUQ?oc=5",
+   "pub": "Thu, 01 Oct 2026 00:14:14 GMT",
+   "engine": "gnews",
+   "query": "무료 체험 추첨 가족 모집",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "강원도 자연환경연구공원서 17일 '곤충체험'…생물다양성 이해 - 연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYNW0xMHdVUzI5YVV3ajRWUGZxdFlLb0Q3Wk50TFhYT2NMblBzQXJWRzV3SFRQbmRUcEExb2xzOFJzd29PT1pjVm9SdFhYVEl2bWlaal95VE1QbTTSAWBBVV95cUxNUUxlcTlBbjBKMXZtZjdfelpXYXBIeTkxRXBMSVBkLTByQ0hVbkxUcTk2QVdaNEhuXzJCcGltSkNsN0dYcF94XzVhR3JFWXYtZWdvOHRxaFVVWWZ6WTFXM2g?oc=5",
+   "pub": "Tue, 06 Oct 2026 02:07:51 GMT",
+   "engine": "gnews",
+   "query": "무료 체험 추첨 가족 모집",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "강원 곤충체험 50명 무료 모집…10월 12일까지 접수 - 강릉넷TV",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LeWpUOEVIeXluR3YtTnZBa25nVjFGSUs3THlwV3BHYUNGcjl3WTRoOUc2MzBUcFJLSDdEQVFXZi1mTkx4dnBwbHd1QjRDM1hlSF8xR0FLcFRkVHk1TTBocV9paDFkbkt3YWc?oc=5",
+   "pub": "Wed, 07 Oct 2026 00:07:45 GMT",
+   "engine": "gnews",
+   "query": "무료 체험 추첨 가족 모집",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "올가을 경주 여행을 준비한다면 '대한민국 명소 발굴 100X100' 누리집에서 관심 있는 장소를 먼저 골라보자. 여기에 '여행가는 달' 혜택을 확인하고 유적과 박물관을 함께 둘러보면 보고 찍는 여행을 넘어 신라의 시간을 이해하는 역사 여행을 즐길 수 있다...",
+   "url": "http://v.daum.net/v/20261007183023929",
+   "engine": "daum_news",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "습관적으로 가는 게 가장 큽니다. 이게 주말에 사실 뭐, 다른 걸 저도 하고 싶을 때가 많거든요. 데이트를 갈 수도 있고 제가 결혼했지만. 와이프랑 데이트로 갈 수도 있고 한데 와이프도 같이 축구를 보러 다녀요. ◇ 류연정> 주로 그러시더라고요. ◆ 조승범> 네...",
+   "url": "http://v.daum.net/v/20261006185700329",
+   "engine": "daum_news",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "신혼여행도 멀리 못 갈 만큼 의정 활동 초선 때부터 열심히 했다, 이런 거를 하신 말씀에서 느껴졌거든요. 근데 어느덧 3선이시거든요. 3선이 되시니까 지금은 어떠세요? ◇ 이병도 : 초선 때랑 비교해 보면, 초선 때는 굉장히 성장한다는 느낌이 되게 좋았는데 선배...",
+   "url": "http://v.daum.net/v/20261006155823586",
+   "engine": "daum_news",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "이어가는 등 도심 속에서 여행과 웰니스 경험을 함께 즐길 수 있다. '홀리스틱 헤리티지 리트릿'은 시티 뷰 이그제큐티브 스위트 또는...이용뿐 아니라 숙박과 식음, 골프 등 다양한 혜택을 1년간 제공한다. 주요 혜택은 ▲26/27 스키 시즌권 2매 ▲프리미엄 락커 및...",
+   "url": "http://v.daum.net/v/20261006145342090",
+   "engine": "daum_news",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "중심의 차량 운영과 다양한 혜택으로 고객의 가을 여행을 더욱 편리하게 만들겠다”고 말했다. G car는 가을 여행 수요에 맞춰 다음 달 30일까지 ‘여행가는 가을’ 행사를 진행한다. 24시간 이상 이용할 경우 일부 차종의 하루 대여료를 수도권 3만2000원, 비수도권...",
+   "url": "http://v.daum.net/v/20261006083714242",
+   "engine": "daum_news",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "[KBS 춘천]코레일 강원본부가 열차로 인구감소지역을 찾는 관광객에게 각종 혜택을 제공합니다. 우선 '하반기 여행가는 달' 행사에 참여하면 철도 운임 전액을 환급해줍니다. 또 철도를 이용해 인구감소지역을 찾는 관광객에게는 지역상품권과 기념품을 제공합니다...",
+   "url": "http://v.daum.net/v/20261005101316778",
+   "engine": "daum_news",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "5만 원, 3만 원 이상 7만 원 미만은 3만 원을 할인한다. 교통 혜택도 있다. 인구감소지역 41곳의 지정 관광지를 방문해 인증하면 구매...있다. 현장에서 바로 체감할 수 있는 할인도 많다. ‘여행가는 달’ 누리집에는 관광지 입장권과 농촌체험, 공연, 워케이션...",
+   "url": "http://v.daum.net/v/20261004110144891",
+   "engine": "daum_news",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "코레일 '여행가는 달' 맞아 기차여행 상품 특별할인 - 경북도민일보",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13b3gtT2FsaVNOZnpiaUFMWTBYR0RUNWVicjVlUGtIUnhSd1VHblVTREZMQm1hSFFpdWpHbE1ySTZhVFBqSm5Kc1NMMDJ3bjJvdlNLaWcwR2dMT3B1OEVDZjJhWHpUa3Z4VWc?oc=5",
+   "pub": "Thu, 01 Oct 2026 10:25:07 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "'가만히 있을 수가 없네' 여행가는 가을, 풍성한 혜택 '지역 관광의 맛' - 스포츠조선",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wdkl2MlE1SGkyWWNVX0NNYUwyRC11YXJSTDJHd0ZfVl9YRFVldEhPR1FyYk9kZWZBdzBoM2l3Y1FDT1I1SmpObDZkcFFpX1BPOFFlZWhqN0VHMFNMbU4yUmJONkJVcVByanVDRzhhM044SXZya1FRXw?oc=5",
+   "pub": "Thu, 01 Oct 2026 06:54:36 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "풍성한 할인·휴가 지원… 주머니 가볍게 떠나는 국내 명소 - Daum",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNERsaFZkNmJkOF9fdm5GUTRNUVBMVmhEa256YThuNnhSbHRmTi1BUjNrRGVWNUNremsxbGdmWm4wQW1IdzNPblRfR2VHNnVVUjlBeTdUdDBmY2ct?oc=5",
+   "pub": "Wed, 30 Sep 2026 17:21:14 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "수학여행지가 '다'가 아니다…아이와 다시 찾은 '천년고도 신라' - 정책브리핑",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sNzQxTXJrT2p0M3dRYXhVNU5vcS1ETWdBR3I1T3B1cVRWUlp6dXVhSkdWTW9YVjFmYk50czBseTJSV296XzhSMUprdHpZaGREaFhvVDQxOEpWeHlJYXNkM3h0ODhSempoVlE?oc=5",
+   "pub": "Wed, 07 Oct 2026 09:28:33 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "울진으로 ‘가족 여행’ 떠나자 - 쿠키뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80M0p4bGZTeGlOWmpWenN6blgzSEw1NE9JNkcxUzd6NFloei1JZU5QRjk4MGMzMWhTOVN6SXNEckRod1huNkJEenhuV3gyOWh5ZlZ2LXBhV3U4WFBRamNMWFROMA?oc=5",
+   "pub": "Sat, 03 Oct 2026 14:11:12 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "농식품부, 가을 농촌여행 할인 확대…투어패스 최대 50% - 푸드투데이",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WZkIzTUhMa0tRNTljdXdST3VhaVFGUmRKMmEyT3hpVjFWM2ZkbXlZRnlpVk9mTVI4S0dGZVJFTThTaGhZVmt1WFlzTm9kX0oyNWk3YTVrSmh0WE1LX3ZkOUoySTNldw?oc=5",
+   "pub": "Fri, 02 Oct 2026 03:31:20 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "“가을 여행은 촌캉스로!” 농식품부, 여행가는 달(가을) 맞아 10~11월 두 달간 ‘농촌관광 가는 주간’ 확대 운영 - 대구뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FTHNXaGkwWm9neXk3M2VXWDRINjRxTUVRODRabGpSR2pObkU3UTRIZkJ5WE9vWmtaaDF3anJOQm1QV3VpdzVhQVJSOHFkaXc5LS1XYXZIekFnQWUyR2NSUlhhSE51QkJB0gFsQVVfeXFMUElCZVN3WVhTYWdrV2x3UHlpVHNzVE1WQmZiZXRQY2lXRXl1dS1odks5a1RZODdfdXRUNDBQQWZHcHdudEQ4ZE0wb0dyTjdvd3Vtc2d4QzNLcUtpZ3N5UGdVbUNsZ2loaXRvT2dz?oc=5",
+   "pub": "Tue, 06 Oct 2026 14:01:47 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "1인당 10만원 밥값 돌려주는 국내 여행지 13곳...기차표 100% 할인은 어디? - 한겨레",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sMzBZX2k1S2dPWU9yMWhkbUFVOEZJMGY0ekt3SzI1bW52eHJUaTFKUXpIV1gzTXhNWVU3M18xbnBYb3UzNnJrZVlyQlBuX3pYU3FhbXpoQ1JuZ1BwSThLWVd3dVdxbWdGZEJVX0E5NjFjVVM0cWc?oc=5",
+   "pub": "Thu, 01 Oct 2026 13:08:00 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "바카라 사이드 베팅 누적 표시가 쓰이는 기능 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRDFJTWdKN0taTi01a1p5Vk9jN0dSSjBpUTU5ODBiQ1BvYklKMUFBTUhFT2NETW12TmxuaGJsa2MxVk82Qjk5RmtrYmVscml6amZSejJEaWRMYVA5Vk94NjAxdWoyM1d6dVZIZ3JIcW9aWHNRZUVmOXh6QWdNUjlDRzBxTkNFbXQ2R2FjUGVOYzFsSHcteWJmZkZ0RDNOVzlzODZucGZJOWh5ZWpUYjZGVzBIV1phci1pYmFfYkpsOUhOYzdXYl82UUJUS2NsQQ?oc=5",
+   "pub": "Tue, 06 Oct 2026 19:59:50 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "가을엔 '촌캉스' 떠나볼까…농촌여행 상품 최대 50% 할인 - 정책브리핑",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSblhvOGoyY05qbHFORTFNOVBsUnlVVldFZEpBdGdsREJvNG5tMDhTMU1zSVc5NkZzbmlmTDFCRlU2U0owdEY5bVd1WThjYTAydUxuc3AxeHU3OC00NmRIMHEtd0t3ZUo5VjZGRQ?oc=5",
+   "pub": "Fri, 02 Oct 2026 04:55:38 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "사이트 추천 얼텀 - 현장에서의 경험과 통찰력 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVdDODVDLWQ2YW9udE5FNWM1ZjF0M0JDcXlKcVJzY0JCMUpPVUR2dnhRNEJ3S1BBTkRkWnRmVW1uOE1XZWR3TmNFLW14aVZCZDI2MFNkUHRUZExwWnhjdEtUdUFzdFF5UUNwTlpaR3RhYnN1Mi1tOEozWUU5eUVrV3NRR0JKRWpwQ3BMdlc1dmhjSnZTYWFubjl2VFJXY2s?oc=5",
+   "pub": "Thu, 01 Oct 2026 17:18:48 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "단풍구경부터 캠핑까지… 반값으로 떠나는 가을여행 - Daum",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hRUdSWlR0OGdjR0JReHd4MHlubHZ5M1JQekFoSHFNdS1FN001QU93eWFtZ21paEdGbGo1c1gzX2s5TlBoTi12TmdOZzk2QlE?oc=5",
+   "pub": "Mon, 05 Oct 2026 10:03:42 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "농식품부, '농촌관광 가는 주간' 10~11월 두 달간 확대 운영…최대 50% 할인 - Daum",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyU28tampDV0pGNkhqcnRrZE5EaHdUbTJWSHlSOU11ekxfSzBJdWhOdXB0MTluMW1qcHl0ZDZseERwZUt1d0lQOGw4UTR6RkU?oc=5",
+   "pub": "Thu, 01 Oct 2026 02:03:10 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "코레일, 수원역서 가을 철도여행상품 알린다 - 충남일보",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zODJoTTJXUDhwLTZnTG1ER3VLNXczQnlqVWRDYVhyZGp0eFVjTmZ4eHFiUm5DMDdvNjdScElON2sxWF9md29QSWFEUGJELXk0ZzRiTkxMUlJhYlNnMUVtSjhiSTVlNnNSeWdzNU9CZVZjRDA?oc=5",
+   "pub": "Mon, 05 Oct 2026 07:00:00 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "횡성군 가을 철도여행 이벤트 ‘기차표 전액 환급 받고 기념품까지’ - 강원일보",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrOHZGZ2hNa25UVEpOLTZOckk3Uy1MdzdiTUNHRlZ5RnR5VXdiMjFTSFc3YmhDVnJCc19pRXEzdjdUQmdrSC1zMnluT0VtM0x0NUw5U0hwVlJ3Wk0?oc=5",
+   "pub": "Thu, 01 Oct 2026 07:00:00 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "코레일, 삼척·태백·횡성 관광객 열차 운임 환급 - KBS 뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FVXFpcGJsUUQyS3BhcGNKTUJjT005U2loM01jdnBsdUhlZGFMb19YOUZsRzAzNkd6MXE3TkRPaDlXMVpVeWJtYmxDdFdNRUFNMzhDZTRpa1VVV0E?oc=5",
+   "pub": "Sun, 04 Oct 2026 23:24:00 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "외국인 관광객, ‘케이-투어 패스’로 교통·관광지 이용 할인 한 번에 - 대구뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15YmlTenk4cW1uaGpoRTBvRXNKLXdjby1QSldMSnZKNVRJemtxa19lQ2JpUXY4Z29lNTMwZ0NUNkJ5NV8yTU9EYXRsT2o5b2VVUFQ4U1llbGMxWklrTkRaaFUzRkY3aDRP0gFsQVVfeXFMTXE1UDhRN0FYR3V3dWtwRUl2a25ZcVpJUlVsZ1RQVWEwNjlXLVZVdEwtdEFxNEVTS2lvdDg1amVnWS0wcy1RdC1CZy0wSWt6UVpKRWNja0FUdjNnbFoxaHBqdHZzekZHOFdEQlVS?oc=5",
+   "pub": "Tue, 06 Oct 2026 13:51:59 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "베팅 설정은 규칙과 어떻게 연결되나요? 재미있는 게임 제작 프로세스 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMnRGMkpTbkRzNXBPb3FnQXhrSEtRM0VxZmVGQXVzd3E0Z2JWczVMaWlqMld0Z1JmRHRLYjNyakh4Q0x2SUN3azJ0emtZbl9XbEczU3E4YzhmSUdxV2o1aFpOVHV4bTVDT3hiUmdNUXAzV1p6UDZacDRWNVBxYnEtVGs3TklDT1J6WWRwOHNHLTMzWUxCZFlRNHJTcTlWVjFWSW1yYk4wM29lODZqWjdnUkl2WGZ1OERWT083dU9IYUN6RTlpdjVUdXQwSlp6RXg3azlrSmdjcnpNOGNqQks4U24taE4xMUZrN1plMURlWG0wem9CTzl0MmN3?oc=5",
+   "pub": "Fri, 02 Oct 2026 16:18:44 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "총 맞고 피 흘리는 꿈 기본 조작에 필요한 버튼 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQl9XWXhzODZKTnpETl9TNVJrcjhobmdrVnE4NlM5SkJDR0RhdUJLak1Ic3ppSTF6SGJyZzJ0VjJkRWY1SGxvMnRmRUZQdHRKUC1Ea3VrY09FQkFQMnV3ajlNSzVhNzdoRERkXzZ5VVFtazV4VDJROXBjaEx0dVAzZnk1Mk1yU2p4MVhOWjY3ejFocFBSYUI2UHdNWFg1cWtQN2JLdXF0R0s4cVplelhmTnZwZXVWMEtMUFRzczNWTEx0YTE5S05xS1NhVjhNa2RuTldxcEZqa1d2WWVsazJOdE5BczN0dw?oc=5",
+   "pub": "Fri, 02 Oct 2026 21:59:18 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "찾아가는 양조장 69곳, 투어패스 50% 할인 타고 떠나는 가을 술향 기행 - 매일신문",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXQnNpVlFuTXViaHJJMFAzbWR2aVNsNEVLUTM2bDZiSVZTOWt5eW9McTJNOVlRLTlQZWlSZ0VsT0ZpX3YwRV92N3NaSVdWRHdhbHZiMm9ZVnlvWk43UDZzd3Rn?oc=5",
+   "pub": "Tue, 06 Oct 2026 21:53:12 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "보너스 구매와 자연 진입 조건, 마작 파이트 걸 코나스테 규칙 비교 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWTFkdVJjZHZyMjBLd2Noc3hQRmdKbEVVemRCVHhacXVmQ0ZjOS1JeFR3UzkxZUxyUGdxaU5hdExxR1diS25IdU9hOERQamlocnlxSkxTZlNaNGs0aXUzRWJFYnhMT2tHV3BmTFpwVjBuankycGF0VjJGVUlzdnZ6NGNfM3VPWjdiRGppR2FwaHBIYkJwX3FWbU10dGlUTDFvYzZmOVp1SEZqYWxUek5lYU1RcF9tekxNdmRJWExIdlNQaGI2S2FudDhuUlhuNGNmazdsSFpzNlJYN1dWdmRxVkplY2tUSHB0aUZnTWgxT2JOSkRwT1N1Mlk4U00tX3NLRzBj?oc=5",
+   "pub": "Tue, 06 Oct 2026 03:12:39 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "심벌 설명에 없는 조합은 어디서 찾나요? 홍진호 포커 랭킹 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wZFQ1TVdsY3lOS3dodTlHWHUzSjFtY2FUeHExbGdpSkJaS05hcHRSd1k5RUhBTFM3UXg0VXRaQmx3UXFGOVU1MmdqVXUxdS1aUkVHU1djSnRsTXlqSjlTaVc0V0RQb29vcHB6dVRERkM2c0UtQzcxUGRrNEgzbjQ?oc=5",
+   "pub": "Sun, 04 Oct 2026 21:08:13 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "농림축산식품부, 농촌관광 가는 주간 확대 운영 - 뉴스체인지",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XOFRxcmtWdkJpMWtzQkRGRlEtc29CVUh6Y0tBN3RzSGNBOENZWGFyMXhnUHJTakswMWJpd2hUcHFqSUJPOVhWSUh6bw?oc=5",
+   "pub": "Mon, 05 Oct 2026 03:51:00 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "게임 정보의 출처를 확인하는 파라오 슬롯 도메인 읽기 기준 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeWJ6VWdWV3dMcVp1ZDVoaTJ3aTNzSzVwNXdUYTFxZDNnczloODZOb2JuOGZzc2JMM2M3Sm5WQXpBcW8xcW1KV09PUm95aEhaY1VYVlNUOFgzYTFBT0RHZ3U3dWczaEY3eHAxWDBwYlVYeUw1VFdBVVdtSTRjZ2taeFdKaXU4RFV6SU4ya0oyMTRraS1hVnZ1cDRla1IwUUpPYWM0QzlxYnowblk?oc=5",
+   "pub": "Fri, 02 Oct 2026 19:31:35 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "롯데렌터카 G car, 가을 이용 급증…4050 중심 1박·장거리 수요 확대 - 핀포인트뉴스",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZa0FaNjg1QmtMMGpJZ2d6bFphamtiZXRxZkVWaHptbTIyX0w0bnlwTzJ0Z0JGbEpyWUc2RDEwS0ZZeGpqMXpWMTlZSlVPREJhTzJkR1JBLTg3TEU4MFV3RUZ4RVRjNjVrUVhTRVZ1dEd1OFXSAXdBVV95cUxPRkNsSFliZXNSNGtVQXNKeEU1bWR1cWdiM1Awb29jYnFQR1ZlQUVsQ3ZYTXkxbkQxZHduMVJvMFZDNzRFVElqSHh5TXMzN3U2RU5wcTNkTGl3VFVsWGRYR3J4TC1SVHRXblNnMGVteGtfbVVDWC1DRQ?oc=5",
+   "pub": "Tue, 06 Oct 2026 03:04:48 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "마작 대차륜 결과 표시와 이용 기록의 차이 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOb0ZRNE42Ukk5Vk5ueUVlMDlUVXVxYk9WQVVMSW9xdUgxUWpiOTRqVnhWaEFlcTBLMlVHU1NVb0xhMXRnb3ZLcU8zTDFlZGwxdFJJWTB1US1DMXU2TGIwZlRJQzRnLXRLUHlNSDlIMGVOZm9nWjhWb0xYV1l2Ul9kNThLdTVIbDM3Z1ZBVFVBNFRxR2ZrUDF2MTFQbkkwdW4tRnBqT0tjYWtQLWhtSHUzU0ljdGlYWUhiUVJpU2d4V2pOUmdaWDZIaEwyblpyem4tQXk0bW9iLVZkQUJReS1wUGlhNlJ4c3dOdzJKSzNPN3NEWF92VVppWVQ2Nk80MjFMY0d5STFTYnJPNVRXaEFlYVoxVkZaUVR2Tmk3azl2dHVDcWs2dTFlVVJ3WUdfTGpZamdyc1hycEUxellERWU4cGlLbEwyekp2MXZTNVY3MnZIc2xNSzU0d2QtR0N4aHE0UUx4bmZHS1NEbURsVV9weGE1di1BRUE?oc=5",
+   "pub": "Tue, 06 Oct 2026 01:24:25 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "롯데렌터카 '가을엔 더 오래·더 멀리 달려요' - 데일리한국",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NcFJud1pHaFVuUHlNVklQU2FDMnZmYzFMMDNDMmJFdHN0WjlpZW9fQm5PYU9TV29ubFo0OTJxekNNMlNDbE9nNzB5RzJac1hfOHQ2OTRvLThDWEgtMzVVbjF3VXBhQ2ZNdFktd1c0UdIBc0FVX3lxTE10cWUxMG1sNU9BSGRIMU9wZzlWWGN1OXBWNV9uSV9kZHNBb1dBc3FmQUVjdWExVFV2U0YtaTlnSUk1eVcwSGo3UEFheFBoLW1PZURMMk01UG01R1lKUmRpS1pmd0dCZU14TzdsRXRFeTlabVU?oc=5",
+   "pub": "Tue, 06 Oct 2026 01:21:12 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "짧은 문장으로 풀어 쓴 더블유게임즈 순위 게임 원리 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNemdlTS11SE50aGFuM2tnNVhkT0VXTGdaMmtLRjN6cE5VNEUwUTFfeFNYN3RsX1Z6RnpGaDRPZTFOVzlUNHI1NGdlY3BXVkN4MDllb2wzQ3doaHdQbEFJWXV6LTdSTlJoQ0Voazc2a0RoMHJ6UjA1RVV4ZEdfdndienYySmtMdUJfbi0wWmpaNmh1SExjMjdZZl81MFdKZWxKZ1BqWHg5dzJRV0owQmdBYWhPS2kxWm1sZW03ZHNaWWJlMkc4ZUV4TWtLcG9Pa2RISkZ1Q2QxWTdhLUVaSzZoMm1pVDFJSkhoZmVPM1FnTC12ck5xUlFhcUxnV3EyZkZGZHc?oc=5",
+   "pub": "Fri, 02 Oct 2026 16:57:17 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "국립세종수목원, 10월 3일 ‘시민과학자의 날’ 개최 - 특급뉴스",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wX3MwMUdRRHJqRmJic3hCdkEwd191WDhBeXhfTWQ0cm4xODhIU1NUc29HTE52cXcza1NxMzJPa3YxcEV6NFFyQTVZVzV2MTJWd3NLempLMEphMS1VLTF0WXE0YzlvM2RlejJrY2Mxa2Jodw?oc=5",
+   "pub": "Fri, 02 Oct 2026 00:02:01 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "군산시간여행축제 개막…1930년대 근대 군산 재현 - 한국미디어창업뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mbnd3NThhOTN2STZnOTFISGR6WjVlVEw3a3c0MTdybW1fUkpJNTVvTTFtNWpFX19wVW5KTlRWN19tVmJRN0EybmpXNldUZUV3bjh6MmpOUWQzbVVaSW1XZDFNT04xNUJRVmRwYtIBcEFVX3lxTFBXVEJVaWVreUVaa2NTWUg0anE4Vk03ZDBJU1d1ZmtjLTZCQV9NOFdvWlFqSFNYbFVzOXdyRlJVRFpfSzNUaTNjZkxKc0c5dmZCS3VFY2FabnB4YjhOSWxsM0NwUm92d3k3R01MS2dMNVA?oc=5",
+   "pub": "Mon, 05 Oct 2026 23:19:28 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "용인문화재단, 창작뮤지컬 `정약용 묵시록` 개최 - 뉴스체인지",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaS0ZOVDd1eWJpNkFqYVJTRjhvVlJxY3h5NE9TVVltMXhhb2I4eFgyZXYxTEYtbHRRLUw5VWNZbGlBaEVvZ2xfWDNnZw?oc=5",
+   "pub": "Tue, 06 Oct 2026 22:39:00 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "롯데렌터카 G car, 가을시즌 카셰어링 이용시간 및 주행거리 조사 결과 발표 - 스포츠한국",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtLW9QTTJpLVQxWlU0R1loMGV0Z3ZkRi1EeFpyR2NoazdQOUM5bHZLVjBXTmVEeEJFUHVvbUp3ano3SXBobFB2emJBZFBpMnI3RHh4VWZsRzJoSHA1N2J5c2tNLXlzOHdGSzlQdUl6SUzSAXRBVV95cUxQM1ZXb3JEcDNqa012Qm9tT1lBVzZENkNKZ2tMS2d5YU9obmpad3U0S21fOWZZWFpsQ1NpckNTbnVDWXBWOHAwb3JKbUhFcy1Qb3BSd2lPdXB4RlpXQmFOajhPUlJjNGU2NHJBM0lzTkdiRGppcw?oc=5",
+   "pub": "Tue, 06 Oct 2026 05:38:48 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "심벌 설명에 없는 조합은 어디서 찾나요? 국내 여행 룰렛 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OMkZISEE4VWEyMUhWTzdvNDlCNEZaNzBkWEc0bWk5R09fWUZqVE90TF9LZk83eGxvTWdmNm5UdHRjZnQ0VDlBdUxJeUozX1d6N2lYRU1CWUZKOFdlRDhGNXlESEFyZ2FveEE5ZUM1cFpjWjRG?oc=5",
+   "pub": "Sun, 04 Oct 2026 18:00:31 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "토토 5 천원 충전 비타임 기본 배경과 특수 화면 비교 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaWU5WmhjWkprU3JvdE03ZlZZRW9xMV9rTHctZTMyYk1oNW1lOEFobmhFd05XSGhnd1I1LTJacUhMbVo2cFFCZUlKZUdsZ2JhUVRGRnAtSTVpeXF6NjdXTWZoMmVnRkpLU3lGRzdJdm9kSzVKcVJfZy1FVlNNUWh3U3BobnM3WXR6NElvUk1IRG1aYW5uejYxdjhFbmp3cDM2bVRzMnVqcEJuZTgzb0E?oc=5",
+   "pub": "Thu, 01 Oct 2026 17:36:38 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "규칙에 나오는 방향 표시를 읽는 바카라게임 방법 기초 안내 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QU2FQTFJ6TnJxV19uNVJ3MzBCQnFkQ0xFdWFBN1dPY0htTWdORTItaGx5UnBZby1nNGc1OXJsNTh6V2pfMm5jNVhNMXRWd3VlcW5DVFZNNGFrNHJnQXEzaW03am1TWFcyakNKX3RNRUVub1E?oc=5",
+   "pub": "Sat, 03 Oct 2026 07:55:41 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "제주에서는 증가 폭이 더욱 컸다. G car가 2025년부터 제주지역 운영 차량을 2배로 확대한 가운데 지난해 가을 이용은 전년보다 88%...39~40시간에 달했다. G car는 가을 여행 수요를 겨냥해 오는 11월30일까지 '여행가는 가을' 이벤트도 진행한다. 24시간 이상...",
+   "url": "http://v.daum.net/v/20261006091914907",
+   "engine": "daum_news",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "있다. 포구에서 맛보는 수산물과 함께 즐긴다면 소래의 가을 미식 여행이 더욱 풍성해진다. 재미있는 체험을 찾아 포구 안쪽으로 걸음...지고, 여행객에게는 지역에서 다시 사용할 수 있는 혜택이 돌아오는 방식이다. 관광과 환경, 지역 상권을 한데 연결했다는 점...",
+   "url": "http://v.daum.net/v/20261005142401996",
+   "engine": "daum_news",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "기차 타도, 차 몰아도 할인…가을 여행 혜택 쏟아진다 - 관광레저신문",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrNzZqdm5kS1VUTTFrSm1idTZORzlQQUxOVjViTGd5bFN4VkV0bV9DYUtxUEJPSVNObTF2SE05cDhMdjMtdVVORGxnTklWTmJBMldLdFdMTlEyYTZuZXhaNHpNbHEyZDdLclE?oc=5",
+   "pub": "Thu, 01 Oct 2026 04:49:12 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "\"가을 여행은 촌캉스로!\" 농식품부, 여행가는 달(가을) 맞아 10~11월 두 달간 '농촌관광 가는 주간' 확대 운영 - 한국방송뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrZTYta2dCU0RZZEE4NXpWelBtQnpCbnNiLTk0Z3ZrX3BodFdLeVRrMVMwUHZvdEMybW9uRl9pYlRtcm5VQWtXSXgzV1lyanY3LU9YaHExdlVMV3gzMEE?oc=5",
+   "pub": "Thu, 01 Oct 2026 03:14:51 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "농촌여행 최대 50% 할인…10~11월 '촌캉스' 혜택 늘린다 - 전자신문",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qSGhSam1OVWNWX3FtR0tPMjFRTWJWNGJhY0xZV0x6ZEZZNWhDaDJ1Q0JmNVBGdzZsb1AyY3d6VnpxVHVaaGN2MF8tUFV4dw?oc=5",
+   "pub": "Thu, 01 Oct 2026 02:00:00 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "풍성한 할인·휴가 지원… 주머니 가볍게 떠나는 국내 명소 - Daum",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBoOGNCYVczSXJiZEhuSGNSSlR5bHhYTjdJc0YzZ1FhdFNSNjlsaFg1VlA4ZUphUUlUT0pyTDc3RWU3RGVHZ0E?oc=5",
+   "pub": "Wed, 30 Sep 2026 17:21:14 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "단풍구경부터 캠핑까지… 반값으로 떠나는 가을여행 - Daum",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hVEd5QVpVSTFBcS1yaENZNFUyVUFVcENOTTRTZVVPZm9oWnJlQ2x6SklwekZYbmx0SkZEU3hxcTAwSDEyVlNkSXJ4ZjVKTHBZTFZLcA?oc=5",
+   "pub": "Mon, 05 Oct 2026 10:03:42 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "“단풍놀이 기차표가 진짜 공짜?”… 열차 운임 100% 돌려받고 떠나는 가을 여행 꿀팁 [최현태 기자의 여행홀릭] - Daum",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iTE9IdDl4Y1Q3cEJ0Wk1YcUZ1d1BkMWdvZ1lIVU5CQnJ4NzdVeDVqc1lIWW9jNEZNNnRxM1R5WHZRMEIzbXB5SXQ0NA?oc=5",
+   "pub": "Mon, 05 Oct 2026 10:25:18 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "가을 농촌관광 할인혜택 두 달간 확대 - livesnews.com",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15cE5pOXl1dEZQcXBnYmVLeTJic2RaTi1KaU1ZVlUzUDNRZFhwMy1qUG1kRG1vcC1rREN6M25JcWVCSjNrZ3A3bkNuYXZDYzVPWm0yeWg4TDlzUEZa?oc=5",
+   "pub": "Thu, 01 Oct 2026 04:52:51 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "농촌관광 할인 두 달간 확대…투어패스 최대 50% 할인 - 머니투데이 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Wb1FaRjNsZ3IzTHliM1l5YW93RmpaMkhHOEtIb25CTGNuM3E1MXpmRFo0S2tPSWtzM29jVnl3YWlGeDZlc2RMNG1ES2p1Q000LUVhMC1wc1ZHa2dRT1ZjY0JqY3pJQU1VRDdv0gFwQVVfeXFMUHBJSVFLZVMxNlFMYTk3Q2VqRkt1WmQyZmd6SnNUbE5aenJXc1NUS2d2TmJVeHNhSXNsZ0x5Q3BGWHBFeXFpM2VEZmtNYnJYNWtIMmJrZm02c2hBZzdsZlpyV0h6MnFCbTJ1aHpLVG5KZA?oc=5",
+   "pub": "Thu, 01 Oct 2026 02:00:00 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "농림축산식품부, \"가을 여행은 촌캉스로!\" 농식품부, 여행가는 달(가을) 맞아 10~11월 두 달간 '농촌관광 가는 주간' 확대 운영 - 케이에스피뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1vSUhRNWRuSUNIWDFqR3Z4clZjNG40QTh5NTdWb1MtdGRPZGd4ZTNEdW9OTHo3bzNKWEt4amhJb2NaWk9OZWc?oc=5",
+   "pub": "Thu, 01 Oct 2026 09:37:00 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "가을에 떠나는 낭만의 농촌과 어촌여행 - K스피릿",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oSDY4NzB6VXZobmc3THJfaUI4LVJKdzQyek8zYUxxUFZwR3M0RV9faTlrNDNLTzRGNTNrNmJLNkxYNUh5VGhjYjUzQzFwcjNJazEzcmZIVkQ5Z1puU0FfSy1nb1RCekZybmpBQm0wY9IBc0FVX3lxTE9Id2VxOFdobGJ1SFlnYTBXcUJCN0M1ci1NVDdER0pNMXJuQ2xpSXpGcXJEbjdKVHNGNHhOMng2TDNqNXZPMkFySUdMc2lkRmJZUmRsb2lJNjlac0RJblBlZTRoelp4SS1fXzNjVkthOEJPdzA?oc=5",
+   "pub": "Sun, 04 Oct 2026 02:09:26 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "2026 여행가는 가을, 30km 달리면 최대 3만원. 티맵 포인트 조건은? - 여행픽",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxTnpXYktFbUZObEF5c3lubGlQTUY5UmpOejFUNTdiak9OUU1TVFRyR2NzcDJpQjJHS0VzNjV1a2wzWjV4dmxNUVAtak1tNjdrZ3k0UUlvYmFXR05zWW5sQmRFYzlRdmV2LXE0ag?oc=5",
+   "pub": "Tue, 06 Oct 2026 07:00:00 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "올 가을 농촌여행 최대 반값… '농촌관광 가는 주간' 확대 - 뉴시스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zZXRzUnlDZFZCa1R2RzBnNkdpTnBVcWxSV0tXUmF2dTY3NzhlSXhvdERiQUtwdnpETGI0QTJyTE9LaXY1SlZKOXhqQkhHMHRUWUs5N2g1NHVfQU9lTEIySNIBeEFVX3lxTE1KVmtYQm1rcU5sRHVRaWpCLTVtbnNOTGhFRG45R2Y2ZGhFdEtPWFV3OUhUQTY5VzE1b3NXMG1sS1BWU2VKV21XaDBVV3h5Y1U2MGJZOGdBSVktNXRkMTFMZnRpLUgwbG40Sko3QXNnTmRnTWlIeVRzbg?oc=5",
+   "pub": "Thu, 01 Oct 2026 02:00:00 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "농식품부, 10~11월 ‘농촌관광 가는 주간’ 확대 운영… 지역관광 및 워케이션 지원 강화 - 디스커버리뉴스(DISCOVERYNEWS)",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HakZPMjNsMlJYY3BKWjlReW1YVWRTZ0VuQ184S0xxbVk3TC1ad3h5WU1TMGRISG5YclBxWklmQmRLVUNfQzZnZlNzTkxSSnZOWC01MkN6eXZhUzJGaHNiZEJtWXBhQTlpU1FHMEExb1NDZw?oc=5",
+   "pub": "Thu, 01 Oct 2026 07:55:07 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "피망뉴맞고 apk - 2026년 최신판 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaTl5b3hDREw2X1BqU1VSSU1kWVJFTEdnOFZuajA3MWM2NGNXV1RzTDhsbmJSbnJlYnFadmdPU3p6N0dOSUtBQlRBNnhlYXFBb0VnTk8zU0xJZVUyQ0EtRk5DSG4xaFlqMzU4TDE1X002OTJzbzJLNjBsRmRfXzY5UA?oc=5",
+   "pub": "Fri, 02 Oct 2026 08:05:33 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "정지 화면만으로 파악할 수 있는 카지노 라운지 구성 요소 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RVDZCZW9OaVBJZkdHMUtQSFRxNTRZRjBGRVpISENtQWFUUW1mb3BOcHFtRkFXX3U1UkhRUk85VldIUTJmSXVXSnFkUmpBeUd3RVlpbjhYMExqRE15NVJWRnNCRjVjLTJiS1VIM29VOA?oc=5",
+   "pub": "Wed, 07 Oct 2026 06:15:42 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "최근 개관했기 때문이다. 지난달 29일 충북 청주에서 청주해양과학관이 개관식을 열고 본격 운영을 개시했다. 바다와 멀리 떨어진 내륙에 거주하는 시민들에게 해양과학과 해양문화를 경험할 기회를 제공하고 어린이·청소년에게는 바다를 매개로 체험과 진로를 제시...",
+   "url": "http://v.daum.net/v/20261006091713788",
+   "engine": "daum_news",
+   "query": "국립 과학관 개관 무료",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "릴과 심벌로 이해하는 독감 주사 맞고 다음날 샤워 기본 구조 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUzlrRG1FT01wRUJMc2dyN29zcjNLdGc0REluNE85VHVIZnk3aWtMc3VsUll1NUxoSVV0eFplNFNCZUNYUEtMQ1EyTEt3Y1RmTkRVR3Q5bGlMczY2WEVmMV9aZnFULXJiVUJ4MGtZeG1NU3BQQVlMU1NiWlR5MU1pdFlkTVY4NE5PUlRSb0dVVTJzRnB4amc0OTJiemQtdFA3c0lVR2xFUVJsOUxiM2V6bThNUkNBUTB1enJfSlZJaElSVExkbndqWkw0WHBBT2Q3YzQwX1otM3U?oc=5",
+   "pub": "Sun, 04 Oct 2026 21:44:33 GMT",
+   "engine": "gnews",
+   "query": "국립 과학관 개관 무료",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "바다 없는 청주에 ‘해양과학관’ 개관…첫 주말 관람객 맞이 - 현대해양",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OazVyMUN2VXY5Mmt1N0QwcmljZjNqeVZJeDRkYjRJclVadWJDT1ZEa2ZvLWQ1X2JDX01paFpQb1l3YXpCZF9KZ0tBajllMjJBZzhnY2ZlaVJUOXhIRW9UaF9QcjhvdW8?oc=5",
+   "pub": "Fri, 02 Oct 2026 13:34:34 GMT",
+   "engine": "gnews",
+   "query": "국립 과학관 개관 무료",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "진주시, ‘옛 진주역 철도부지 재생 프로젝트’ 순항 - 뉴스프리존",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kZV90WER4SXE3dGVxalRYb3AtUEt1bDYzQWVhQkFYaE5LcVc2WFpYa3BUc1ZlR0lJZ0FIQWsxbDIyWnM1S2J1VEpNVl9rREt0Znd5RTdJMkljMHB6WWlHMFppbDNKRVRqUWhjVzUxNkdrclHSAXdBVV95cUxOaUU0bjhRM3loWmNyUXdWMS02LXExc196MkJ4MkRWVGR5cXYzeEhTQ0ZBVmF4RlE5OFg5RkhockdkcmdzV1N4aTFlWmltcEplcGFENUgwT3R5U1dYNUMxLVBXWVgyaW1EOTVrYU1NZ0lOSGpPUkp1Yw?oc=5",
+   "pub": "Tue, 06 Oct 2026 01:43:41 GMT",
+   "engine": "gnews",
+   "query": "국립 과학관 개관 무료",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "갈치 낚시배 /사진-투어코리아 10월 중순 준공 예정인 목포대교 야간경관 디자인 조성사업 역시 새로운 해양 야간관광 자원으로 활용...미식과 역사문화를 경험하고 저녁에는 바다와 공연을 즐기며 여행을 이어갈 수 있도록 선택의 폭을 넓히는 데 초점을 맞추고...",
+   "url": "http://v.daum.net/v/20261004225853689",
+   "engine": "daum_news",
+   "query": "배낚시 할인 여행가는",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "타임즈] 충북 제천문화관광재단이 시민들이 일상 속에서 생활문화를 즐길 수 있는 할로윈 축제를 마련한다. 제천문화관광재단(이사장...문화 결집 축제 '산책하소!'를 개최한다. 올해 마지막 행사로 열리는 이번 '산책하소!'는 '미리 만나는 할로윈'을 주제로 공연과...",
+   "url": "http://v.daum.net/v/20261007122232453",
+   "engine": "daum_news",
+   "query": "충북 가족 행사 사전신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "비즈 책갈피 만들기 △캐리커처 체험 △인생네컷 체험 등 가족이 함께 즐길 수 있는 프로그램도 운영한다. 야외에서 책과 휴식을 함께...방문객들에게 색다른 독서 경험을 제공할 예정이다. 행사는 사전 신청 프로그램과 현장 참여 프로그램으로 나눠 진행된다. 사전...",
+   "url": "http://v.daum.net/v/20261007105159137",
+   "engine": "daum_news",
+   "query": "충북 가족 행사 사전신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "별천지 가을 피크닉' 참가자를 모집한다고 1일 밝혔다. 행사는 17일 증평읍 별천지공원 잔디광장에서 열린다. 율리 좌구산과 밤티마을...참여할 수 있다. 희망자는 네이버를 통해 온라인으로 신청하면 된다. 사전 신청 인원에 따라 현장 접수도 이뤄질 예정이다...",
+   "url": "http://v.daum.net/v/20261001142205147",
+   "engine": "daum_news",
+   "query": "충북 가족 행사 사전신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "민주당, 충북 청주서원)은 지난 9월 30일 서울 여의도 국회의원회관 간담회실에서 청년 소통 프로그램인 '청년이 묻고 국회가 듣는다...위원회와 공익법인 한국사회공헌협회가 공동 주관한 이번 행사에는 사전 신청을 거친 30여 명의 청년들이 참석해 깊이 있는...",
+   "url": "http://v.daum.net/v/20261001132300055",
+   "engine": "daum_news",
+   "query": "충북 가족 행사 사전신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "충북 청주시, 온 가족 함께 즐기는 ‘가족독서축제’ 이달 17~18일 개최 - 청주일보",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wTlpkSm5zU0lXcWhscjRFZGtxeWpoWTJYTDRNekdLWkpxWlhrWTJVclNHZko0cGtjVmZsV2dGVjhBSDRGZFVYMlpSYVpPTy1zWm82czN6U1g4WUk0S0duWkd6MUNpTDExd0M4?oc=5",
+   "pub": "Tue, 06 Oct 2026 20:24:43 GMT",
+   "engine": "gnews",
+   "query": "충북 가족 행사 사전신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "[청주소식] 오창호수도서관 17∼18일 가족독서축제 - 연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lNmY2T3FwUlc3WWlMcE9odXdXaHNOcWRaalpzWXFnbUpQMmViT2lsWWp3WE9JNjRkZU1nRDZaNmxxMXVybVhZSW85aUN1SmJ4OWpWd09wWC12UUpPQUhDa9IBYEFVX3lxTE5lNmY2T3FwUlc3WWlMcE9odXdXaHNOcWRaalpzWXFnbUpQMmViT2lsWWp3WE9JNjRkZU1nRDZaNmxxMXVybVhZSW85aUN1SmJ4OWpWd09wWC12UUpPQUhDaw?oc=5",
+   "pub": "Wed, 07 Oct 2026 02:22:09 GMT",
+   "engine": "gnews",
+   "query": "충북 가족 행사 사전신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "청주오창호수도서관, 17~18일 ‘가족독서축제’ 연다 - 충청뉴스라인",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzQm9rWWlFdHVCY29lWTA3UVJ4MTdaa3lqSXNaVGx1czM4ellNUjRZZjhkS0RlQzYwaUxuZ1kwYmFjdFN4eDB0WlNPOVk4VUNfblVTMlFTWEJIRkItTFlsWU12M1A4OGE5SzgyUzZoONIBc0FVX3lxTFA3ZmRpUlBQWDB1RmNRaEFnZWphMFBGeEk0NEM0dFVMNVU2S2otX24tV3o3QjRXOTdjYnJzR0ViSkZrbExYR25DcFFFVjNWZ3hRc0RUc0oyUDk1b2t4elB2TDg4Q1MwZWdsZGdpU0hkWUV3UFk?oc=5",
+   "pub": "Wed, 07 Oct 2026 01:11:25 GMT",
+   "engine": "gnews",
+   "query": "충북 가족 행사 사전신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "청주시, '가족독서축제' 17~18일 개최 - 충북뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GOW5oMlVuN2pXUG96Yzk3ZzJyalgweU5SS1FLQnVEdTlzNUR2YnU4bTA2NHFRcDh3Z3RKbkZDVnhaWmd0cjE3bVN4TDZxWHJ1NG1xWTdFdUhhQTFZUHZ5Y2Q5dmF5dw?oc=5",
+   "pub": "Wed, 07 Oct 2026 00:35:30 GMT",
+   "engine": "gnews",
+   "query": "충북 가족 행사 사전신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "청주시, 새로운 변화와 더 큰 도약을 위한 시간… 이장섭 청주시장 취임 100일 외 (10월7일 종합) - 충북데일리",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85UmVYSkVyWmhrMm1PNVpzRmZIVmF4cnJ4WDlDQkk2d29GT0dWNVFjVk5CbktORWtyNDBCejlRLTdCQTh1bWFZcmt2Y20tR3p6R20tSjZkbkMwb1JwWWZvZmR3?oc=5",
+   "pub": "Wed, 07 Oct 2026 02:04:54 GMT",
+   "engine": "gnews",
+   "query": "충북 가족 행사 사전신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "제천예술의전당 여름광장, 10월 토요일마다 가족 나들이 놀이터로 - 중부매일",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wMjNVQlZkb042ZEpkME10eVN3cDVaZjJjNldaWnRJWGpEek1VQ3VDTEZKM0drOWZKMWRNVG9MZGJWYkR4cml0aVFDOW5vVlB3b2JzTnBJVTBPcXd6M1dTQjhJUW9ULVhjOGfSAW5BVV95cUxPQTVwam9wSTJXR1NINWZYa3k3bmZmeDhHMzhaRFF6M2RrdzFpeGdaWm5GeWpIaFBNMGF0VGlneml6aGhSdDNKNDlWNW9PNWRnRzlpSF9IRFdMbVBwN2NMMTlULUhtZXlZVmczbTRqUQ?oc=5",
+   "pub": "Tue, 06 Oct 2026 02:16:08 GMT",
+   "engine": "gnews",
+   "query": "충북 가족 행사 사전신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "증평군, 17일 가을 피크닉…\"참가 가족 16일까지 모집\" - 뉴시스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qdnFkQ1NNaHYycVBSdGdzMmZLQTNjRVZROXlmeVNYdEN6akVnYVZPWkF3dzNRZ3haSVl1ZzRIVVlFNXpMTGVSQmg2UkRwdVFmWWtFNEhRSmdvMjVUQVdsWdIBeEFVX3lxTFBDdkRKZnpFQzF6QTVoZ1lkT3h2cDNGRk1scWVJYnFLNk1xVktPWWotb1Nsd0NCUWZoTjRVWUNRM1Q5SUpSbW9UNGtSeUVkaEx5bnl6Vm1FNFpxY0EzdUdaSHZYeVVmZlhmQ1FRc0hhd19pSmt4cEM3cw?oc=5",
+   "pub": "Thu, 01 Oct 2026 05:19:45 GMT",
+   "engine": "gnews",
+   "query": "충북 가족 행사 사전신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "제천문화관광재단 “미리 메리 할로윈 하소!” - 내외일보",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wNlFKWVpIaHpVd3RzRzBqX242RWo0c2c4YnJweDJtVEtmaDB0V2pkOUlsd2NPSG5qWVVHNnRZSUY2TzZYUXJhajVpOWNJMTVyc2RWVU56ZldjZENKSk16em1WaXowdGF4WDlrZ2EyOA?oc=5",
+   "pub": "Wed, 07 Oct 2026 03:01:14 GMT",
+   "engine": "gnews",
+   "query": "충북 가족 행사 사전신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "양양서 300명 파도 탄다…무료 서핑강습·체험으로 ‘서핑 저변’ 넓힌다 - 쿠키뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KMHFGV21kdjQxNmgyY19aVFJUUTcwcFo3ajJfSHluNnNZSHdTc2twbFJPaGd6TU1TWU9OQUdEU1p3andvV1c3OHpROXY5LTJ2R2F0aW1STHh3UVlvVFlUYnJQaw?oc=5",
+   "pub": "Sat, 03 Oct 2026 14:19:54 GMT",
+   "engine": "gnews",
+   "query": "충남 가족 체험 사전신청 무료",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "서래섬에서는 '피크닉 콘서트 가을낭만'이 열린다. 어쿠스틱과 재즈, 클래식, 국악 크로스오버 공연을 무료로 즐길 수 있고, 꽃 키링·향기 엽서 만들기와 먹거리 장터도 마련된다. 오는 10일 여의도한강공원에서는 '한강 종이비행기 축제'가 열린다. 공식 종이로...",
+   "url": "http://v.daum.net/v/20261007180146715",
+   "engine": "daum_news",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "9일과 10일 오후 7시 산삼막걸리와 편육, 부추전 등을 공연과 함께 즐기는 ‘산막나이트’가 마련된다. 새로 조성된 피크닉존에서는 DJ 신곡 신청과 사연 소개, 산양삼 경매 등이 진행된다. 이밖에 연지공원 6000㎡ 부지에는 대형 그늘막과 어린이놀이터, 푸드트럭을...",
+   "url": "http://v.daum.net/v/20261007144659295",
+   "engine": "daum_news",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "연합뉴스) ▲ 청주오창호수도서관은 이달 17∼18일 '2026년 가족독서축제'를 연다고 7일 밝혔다. 청주오창호수도서관 [청주시 제공...야외에서 책을 읽을 수 있도록 피크닉세트를 빌려주는 '피크닉도서관'도 운영한다. 사전 신청 프로그램은 이날 오전 10...",
+   "url": "http://v.daum.net/v/20261007112358374",
+   "engine": "daum_news",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "서래섬에서는 '피크닉 콘서트 가을낭만'이 열린다. 어쿠스틱과 재즈, 클래식, 국악 크로스오버 공연을 무료로 즐길 수 있고, 꽃 키링·향기 엽서 만들기와 먹거리 장터도 마련된다. 10일 여의도한강공원에서는 '한강 종이비행기 축제'가 열린다. 공식 종이로 만든...",
+   "url": "http://v.daum.net/v/20261006111705733",
+   "engine": "daum_news",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "가을날 피크닉을 즐기던 관객들이 어디선가 들려오는 노랫소리에 고개를 돌렸다. 지난 3일 서울 광진구 서울어린이대공원에서 열린 ‘2026 아트포레스트페스티벌 WITH 백그라운드 라이브’ 현장. 숨바꼭질하듯 공연장 곳곳에서 아티스트들이 모습을 드러낼 때마다...",
+   "url": "http://v.daum.net/v/20261005162544915",
+   "engine": "daum_news",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "디저트 등을 만날 수 있는 플리마켓, 포토존, 피크닉존과 푸드트럭 등이 운영된다. 가족사랑 걷기대회는 900명을 선착순 모집한다...표시된 네이버폼 정보무늬(QR코드)를 통해 신청할 수 있다. 가족운동회와 어린이 사생대회는 8일까지 각각 온라인 선착순으로...",
+   "url": "http://v.daum.net/v/20261005110012724",
+   "engine": "daum_news",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "사전 신청과 현장 접수를 통해 참여할 수 있다. 활꽃게, 생물 오징어, 활전복 등 제철 수산물을 대상으로 한 '반짝경매'도 열린다...수산물의 무게를 맞힌 참가자에게 상품을 증정한다. 어린이를 동반한 가족을 위한 무료 체험 프로그램도 마련된다. 해파리 모빌...",
+   "url": "http://v.daum.net/v/20261002201301183",
+   "engine": "daum_news",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "제공 부산 해운대구 송정해수욕장에서 해양 레저와 캠크닉(캠핑+피크닉), 반려동물 프로그램 등을 한 번에 누릴 수 있는 ‘10월N 송정...운영한다. 수상 레저 체험과 해양치유 프로그램은 사전 신청을 통해 참여할 수 있다. 수상 레저 체험은 키 140㎝ 이상만 참여할...",
+   "url": "http://v.daum.net/v/20261001050556316",
+   "engine": "daum_news",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "[청주소식] 오창호수도서관 17∼18일 가족독서축제 - Daum",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xVEMxNWYycHZZZnJpbmV0YUpvbkotcVhhd1lmV085YjIydU5YckU1RXJIX3dNUHhZRE9NZTN3X1VhdUJEamlVaFE3SzM2cFk?oc=5",
+   "pub": "Wed, 07 Oct 2026 02:23:58 GMT",
+   "engine": "gnews",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "파주 운정중앙공원서 '에너지 피크닉'…재생에너지 직접 체험 - kjtimes",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pUkVNc0w4U3JvWkhpV0dDWWtKX2lnTlpBdXh0UWxhVDdHZ0F5akxWV0o1QTZianEzbUpVQ20yd1BtaW1vWmVyQkFjLTFEZk1jWkI5ZU5mRXRRUHhYVldJ?oc=5",
+   "pub": "Wed, 07 Oct 2026 07:11:44 GMT",
+   "engine": "gnews",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "달성어린이숲도서관, 가족 체험형 '길 위의 인문학' 프로그램 운영 - BBS불교방송",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xQnpsRlVtQmk0VkdrUUhiS0kyOV92NWNTM2N1QzVTaVhqbXY4TThjWlp0Y1hQSC1iMm1uSU1GbkFBUENfTU9YMzBVQVFZUDc2S1dwVjI5SVlWVTBwbGJsenhYclVSRWRmU3RZ?oc=5",
+   "pub": "Fri, 02 Oct 2026 02:37:17 GMT",
+   "engine": "gnews",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "청주시, 온 가족 함께 즐기는 `가족독서축제` 17~18일 개최 - 시사일보",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBydHVzLW5XdzJnSWxXVkFaUGRnbG1BTXRpX3RaLW1tQzYzSHZjamhaY1lzNmQ3OXVIOEQ0Qm4zaXNoUU1QWWtQQnBsZUE?oc=5",
+   "pub": "Tue, 06 Oct 2026 20:36:00 GMT",
+   "engine": "gnews",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "증평군, 알록달록 별천지 가을 피크닉 개최 - 이트레블뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1VRWZ5NW1wR2tFdFdhN2dfVjZfTHo5dHdCUnNMOGlHOHpUaUZwQmFHd2M0YUVwdF9VdmpSTUREa21Jbms?oc=5",
+   "pub": "Sun, 04 Oct 2026 20:37:00 GMT",
+   "engine": "gnews",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "청주오창호수도서관, 17~18일 가족독서축제 개최 - 충청도민일보",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tQ3pCRFRjelRMbFA2QUx6ZVFUazRJbDFtbkF6QWw4VFQtOUd2MndOM3NuWXhId2JMWkJVSzQxcGY1MGp6Z0VZbVY1Y2VtVE9uOFdoQ3FYVlVva1MxRGRLOWlaQlBUb3JCNGdtcQ?oc=5",
+   "pub": "Wed, 07 Oct 2026 09:00:12 GMT",
+   "engine": "gnews",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "전북 도청 잔디광장, 도민 휴식·문화 공간으로 개방 - 무진장인터넷뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0dWI5czVqT0lCUTRQZ2ZfSjVJalJOa2hpSDZtblYzNHJ1U3pOaE9iVkk1akJWMGRlYjlxeFlqbXFCYnZCXzB0QVFUb0dFT1VkMUZEZmtlcWFXZw?oc=5",
+   "pub": "Fri, 02 Oct 2026 05:41:18 GMT",
+   "engine": "gnews",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "3일간 청주오스코 전시 1·2홀에서 개최된다. 농식품산업박람회 포스터. [사진=충북도] 6일 현재 농식품 기업 143개사 박람회 참여를...바이어 40개사와 해외 바이어 30개사 등 70개사의 국내외 바이어 모집을 마쳤다. 박람회 기간 참여 기업과 바이어 간 1대 1 상담...",
+   "url": "http://v.daum.net/v/20261006141743996",
+   "engine": "daum_news",
+   "query": "청주 가족 체험 모집",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "16일 청주오스코에서 막을 올린다. 도는 16-18일 사흘간 오스코 전시 1·2홀에서 농식품산업박람회를 개최한다고 6일 밝혔다. 올해...도는 국내 바이어 40개사와 해외 바이어 30개사 등 70개사를 모집해 박람회 기간 참여기업과 1대 1 상담을 진행한다. 지난해 열린...",
+   "url": "http://v.daum.net/v/20261006112056971",
+   "engine": "daum_news",
+   "query": "청주 가족 체험 모집",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "청주오창호수도서관, 17~18일 ‘가족독서축제’ 연다 - 충청뉴스라인",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3ZmRpUlBQWDB1RmNRaEFnZWphMFBGeEk0NEM0dFVMNVU2S2otX24tV3o3QjRXOTdjYnJzR0ViSkZrbExYR25DcFFFVjNWZ3hRc0RUc0oyUDk1b2t4elB2TDg4Q1MwZWdsZGdpU0hkWUV3UFnSAXNBVV95cUxQN2ZkaVJQUFgwdUZjUWhBZ2VqYTBQRnhJNDRDNHRVTDVVNktqLV9uLVd6N0I0Vzk3Y2Jyc0dFYkpGa2xMWEduQ3BRRVYzVmd4UXNEVHNKMlA5NW9reHpQdkw4OENTMGVnbGRnaVNIZFlFd1BZ?oc=5",
+   "pub": "Wed, 07 Oct 2026 02:38:21 GMT",
+   "engine": "gnews",
+   "query": "청주 가족 체험 모집",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "청주의 역사·문화자원, 미래세대 배움터로 톡톡… ‘청주형 K-교육’ 순항 - 코리아아트뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zUmxJcXhIRFNmQnVCeEFsNDVqd2dkZjZKSDNaTjNjTTdVamlNMXZLSnBvYl9wZHlsR1I3dW5SLWNPcHQ3cWNSWmVMLVFDS3c?oc=5",
+   "pub": "Wed, 30 Sep 2026 21:24:23 GMT",
+   "engine": "gnews",
+   "query": "청주 가족 체험 모집",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "충북 농식품산업박람회 16일 개막…143개 기업·국내외 바이어 70개사 참여 - 뉴시니어",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yUEVPczBsdm9BbXFzWmZDRmVIaDlEdlVEUmE3RGMwMmJoOEdVQ21DT2lqSlE0cVBkMjBuSkFyb3JrRlZCYnNFMjBvZ2t5OE1sQTQ5cmpRQ2M2X2w2NWdWOTBDSQ?oc=5",
+   "pub": "Tue, 06 Oct 2026 01:04:11 GMT",
+   "engine": "gnews",
+   "query": "청주 가족 체험 모집",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
+  {
+   "title": "경기문화재단 \"폴란드 전통 종이, 직접 만들어보세요\"...체험 참가자 모집 - 대한투데이",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYM3Z1X0stQUUzbG45dGwwYl9BQko3VkFJeDdIUFQ1MUZicS1lTnAtT3BMMGZOS2FFeGJvTzB2cUQweTZ4RW9jTVp4bDhOb2pYNHFfZUp5aGRDVmV3b1JveW5QdzZ3bTVUYVE?oc=5",
+   "pub": "Tue, 06 Oct 2026 23:50:32 GMT",
+   "engine": "gnews",
+   "query": "청주 가족 체험 모집",
+   "first_seen": "2026-10-07T22:39:56+09:00"
+  },
   {
    "title": "부상 군인 가족의 생활비까지 달라고 했는데, 조금씩 정도를 넘어서죠? 프랑스는 자국 노병의 연금까지 독일에 전가하는 등 과도한 요구를 했어요. 그러니까 뺄 수 있는 건 다 빼는거죠. 그래서 나폴레옹 전쟁 후 비엔나 회의에서 연합국이 프랑스에 요구한 배상금은 프랑스 GDP의 20% 수준입니다. 반면, 베르사유 조약 이후 독일에 요구된 배상금은 그 요구안의 8",
    "url": "https://blog.naver.com/pongshin2030/224434561387",
@@ -6260,887 +7223,38 @@
    "engine": "naver_blog",
    "query": "국가유산 답사 모집",
    "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "고액후원 ● 유산기부 처음 후원한다면 ‘정기후원인지 결연후원인지’부터 구분하는 것이 좋겠다. 결연이라는 표현... 감사보고서와 결산서류, 기부금품 모집 및 사용내역은 공식 홈페이지 공시자료에서 직접 확인할 수 있다. 초록우산은 2026년 3월 공식 보도자료에서 한국가이드스타 공익법인 평가에서 2025년까지 10년 연속 최고 등급을 받았다고 밝혔다. 과거..",
-   "url": "https://blog.naver.com/happydate825/224434302186",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "신입대원 모집중 블리스베이킹 부드러운 버터크림으로 귀여운 강아지컵케이크 완성하기 콩두리 식품발효사 치유식품(막된장) 만들기 콩두리 카페제페토바리스타학원 커피... 꿈터공작소 가죽공예작가 - 가죽키링 만들기 솜달이공방 모루로 만드는 강아지인형 국가유산수리기능자 공림원 기록을 잇는 사람들 - 국가유산수리기능자와 함께하는 전통책 만들기... 새 창 열림",
-   "url": "https://blog.naver.com/gimpo2010/224434297996",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "정림사지와 관북리 유적 등 백제 유적뿐 아니라 석탑로와 도심 상권까지 행사 공간으로 연결돼 있어 문화유산 관람과... 일부 대상은 무료로 입장할 수 있습니다 공주시민, 65세 이상, 초등학생, 국가유공자, 중증 장애인과 보호자 1인... 백제 유적 답사를 함께하고 싶다면 부여가 잘 맞습니다 부여는 정림사지와 관북리 유적 등 사비백제의 역사 공간을 축제와 함",
-   "url": "https://blog.naver.com/rich_freedom/224433375425",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "스토리카드는 참여자들에게 메신저로 미리 발송하고 현장에도 볼 수 있게 준비 첫 유람이라 사전답사대로 계획대로 흘러간 것은 아니었지만 사람들과 직접 걸어 보니 무엇을 살리고... 국가유산청 모니터링 1위 해설사 김*경해설사 이번 유람은 김*경 스토리텔러와 함께했습니다. 20년 동안 문화유산 현장에서 이야기를 전해왔고, 우리나라 여성문화와 여성사를 오래... ",
-   "url": "https://blog.naver.com/log-your-road/224434279312",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "야행 행사에서는 보통 국가유산을 활용한 체험 프로그램, 만들기 프로그램, 전통문화 체험 등이 함께 구성되는 경우가 많습니다. 여수에서도 이번 야행을 위해 프리마켓 운영자 모집 등의 준비가 진행됐습니다. 따라서 단순히 걷고 구경하는 행사라기보다는 여러 체험 요소와 함께 즐기는 지역 문화축제로 생각하면 좋습니다. \" 이 포스팅 네이버 커넥트 활동의... 새 창",
-   "url": "https://blog.naver.com/pk2817/224434154636",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "*인터뷰 총 5회(충무로역 일원 3회, 안국역 일원 2회), 답사 1회(망우역사문화공원 일원) 실시함. 들어가며 이 글은 정종배의 삶을 톺아보기 위해 쓰였다. 그와 다섯 차례의 대담과 한... 그는 안주하지 않고 현재도 함평양민학살, 국가유산청 마산리 표산마한고분군 정비사업의 일환으로 고향인 표산마을 역사와 문화 등에 관심을 쏟으며 자료 수집에 매진하고 있",
-   "url": "https://blog.naver.com/jjb3467/224434249862",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "구분 내용 공연일 2026년 10월 6일 화요일 시간 오후 5시 장소 경복궁 흥례문 광장 진행 신동엽·김준현·이찬원 관람료 무료 관람 방법 KBS 사전 방청 신청 후 추첨 모집 인원 약 2,500명, 외국인 관람객 300명 포함 출연진에는 김영임, 김창완밴드, 린, 이승기, 송가인, 허용별, 박지현, 라포엠, 비투비 은광·민혁, 엔믹스, 보이넥스트도어, 싸",
-   "url": "https://blog.naver.com/keyinfo100/224434236057",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "세계유산축전은 국가유산청과 경상북도, 안동시, 국가유산진흥원, (사)안동하회마을보존회가 손잡고 탁월한 보편적 가치를 지닌 우리의 세계유산을 온 겨레와 세계인이 함께 즐기도록 기획된 국가적 행사입니다. 저는 이번 축제가 본격적으로 개막하기 전, 주요 무대가 될 현장 분위기를 미리 느끼고 축전 준비 상황을 파악해 보고자 사전 답사 겸 미리 방문하게... 새 창",
-   "url": "https://blog.naver.com/hong273526/224434223857",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "하회마을과 봉정사, 도산서원과 병산서원 같은 유네스코 세계문화유산은 물론이고, 유교책판이라는 세계기록유산... 있으며, 국가 바이오생명 산업단지 추진과 맞물려 연구진과 엔지니어, 협력업체 바이어들의 평일 비즈니스 출장과 장기... 가을철 안동국제탈춤페스티벌 시즌은 물론 사계절 내내 전통문화 답사와 힐링 여행을 즐기려는 전국 각지의 가족·연인... 새 창 열",
-   "url": "https://blog.naver.com/sunwoo88_/224433992061",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "나는야 청평사 국가유산 지킴이: 문화관광해설사와 함께 청평사 고려선원을 답사하며 플로깅(쓰레기 줍기) 활동을 통해 기후변화 대응 환경보호에 동참합니다. 2. 행사 일시 및... 선착순 모집이니 관심 있으신 분들은 서둘러 신청해 보세요! #춘천청평사 #회전문의의미를찾아서 #춘천가볼만한곳 #춘천아이와가볼만한곳 #한국문화유산연구센터 #청평사역사체험... 새 창 ",
-   "url": "https://blog.naver.com/tjrudska82/224434188293",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "특별한 치즈 & 야간 (공연 및 볼거리) 공식·전통 공연: 개막 축하공연 '여는 치즈', 국가무형유산 '임실필봉농악', 어린이 오케스트라 및 버스킹 밤을 밝히는 치즈: 은은한 야간 경관 조명 아래 즐기는 '치즈 & 와인 나이트 라운지', 신나는 '치즈N비트나이트' ◆ 방문 팁 & 교통 안내 셔틀버스: 자차 방문객의 편의를 위해 주요 거점 및 임시 주차장에서",
-   "url": "https://blog.naver.com/onetoppro/224434176179",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "화등이)식다, 가라앉다 초 33 (1) country 【k´∧ntri】 지역, 지방, 토지, 나라, 국가, 국토, 본국, 조국, 고국, 국민, 출생국, 고향, 향토, (도시에 대하여)시골, 교외, 전원, 농촌지대, (활동의)영역, 분야, 방면, 배심, =COUNTRY MUSIC, 시골(풍)의, 시골에서 자란, 컨트리 뮤직의(가수등) 초 34 (9) cry ",
-   "url": "https://blog.naver.com/1517plan/224434142971",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "여기에 천년고도의 유구한 문화유산과 자동차 부품 산업이 공존하는 경주 전역의 개발 예정지와, 사통팔달 내륙 교통망을... 또한 철강 플랜트와 해안선이 복잡하게 얽힌 포항 관내의 임야는 지상 답사만으로는 진입로와 배수로를 확인하기가... 수소 및 친환경 에너지 밸리가 확장되는 울산 관내 개발 예정지는 물론, 블루밸리 국가산단 조성이 한창인 포항 일대의 광활한",
-   "url": "https://blog.naver.com/droneup/224434113192",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "*본 기출 분석은 한국전통문화대학교 홈페이지어 게시된 2026학년도 수시모집 심층면접 문제를 활용했습니다.... 답사, 전시, 독서, 탐구 활동 등 자신의 경험을 바탕으로 보존과학에 관심을 갖게 된 구체적인 계기를 찾아보고, 그 과정에서... 특히 「보존처리 지침서」(국가유산청)를 추천드립니다. 국가유산청 간행물로, 금속·석조·지류·회화·목재·직물·벽화 등",
-   "url": "https://blog.naver.com/knuhtomorrow/224434077966",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "연구 보고서 철학 없는 권력 국가 리더십의 철학과 장기 비전 부재가 국가 시스템을 무너뜨리는 경로에 관한 비교역사적 분석 글로벌 사례와 한국의 네... com 2026년 10월 국문 초록 이 보고서는 한 국가의 최고 지도자가 일관된 통치 철학과 장기적 국가 비전을 갖추지 못했을 때, 그 결핍이 어떤 경로를 거쳐 국가... 새 창 열림",
-   "url": "https://blog.naver.com/km4you/224433974057",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "유네스코 세계유산에 빛나는 조선왕릉에서 펼쳐지는 대한민국 대표 국가유산 축제, 2026 세계유산 조선왕릉축전이 더욱 다채롭고 풍성한 프로그램과 함께 찾아왔습니다! 올해는... 19(월) 동구릉, 서오릉 내용: 평소 일반에 공개되지 않던 능침 공간을 특별 개방하여 전문 해설사와 함께 가장 가까이서 왕릉을 답사하는 프리미엄 투어 10. 쉼 & 체험 복합 공간.",
-   "url": "https://blog.naver.com/jekyll9207/224433866036",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "강원고생대 국가지질공원 영월권역 코스 청령포 → 고씨굴 대상 2017년까지 출생한 자녀를 포함한 가족 인원 20명 참가비... 만큼 모집 인원이 20명으로 적어요. 참여할 가족은 원하는 일정인지 확인하고 접수하세요. 6. 신청 전 궁금한 점 Q. 아이 나이 제한이 있나요? 네. 2017년까지 출생한 자녀를 포함한 가족이 참여할 수 있어요. 자세한 사항은 한",
-   "url": "https://blog.naver.com/nanviolet-info/224433955216",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "2026 송곡서원에서 별 이야기를 하다 선비의 배움터, 송곡서원 '열린서원에서 선비의 하루' 사전 신청 하기 10월 국가유산주간과 함께하는 '선비의 배움터, 송곡서원' 10월 10일(토) ~ 11일(일) 체험별 사전 신청자 모집 서산 최초의 서원, 송곡서원이 국가유산주간 동안 ‘열린 서원’으로 활짝 문을 엽니다. 유생복을 입고 서원 곳곳을 유유자적 거닐며 ",
-   "url": "https://blog.naver.com/yeominrak21/224433952496",
-   "engine": "naver_blog",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "안녕하세요? 추석연휴 후 한글날 연휴가 시작됩니다. 좋은 시간 보내십시오. 2026년 10월 정기모임을 아래와 같이 안내드립니다. 일시: 2026년 10월 14일 수요일 오전 9시 40분~ 장소: 창덕궁 후원 해설: 이명구 도서 발표: 한주연, 이주현, 이명희 후기작성: 한주연",
-   "url": "https://cafe.naver.com/seoulheritage/45520?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNlb3VsaGVyaXRhZ2UiLCJhcnRpY2xlSWQiOjQ1NTIwLCJpc3N1ZWRBdCI6MTc5MTM3ODcyODA0N30.WMeI3GJeoDa6wHGdXPRfLyX9qAdPiEV1oMyBwESmJjE&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "순천 가을행사 총정리 10월 첫째 주 순천 소식 2026년 10월 첫째 주 순천에서는 시정 비전을 시민과 공유하는 선포식부터 국가유산 야행, 둘리 문화행사, 웹툰 원작 영화 시사회까지 다양한 일정이 이어진다. 원도심의 미래를 위한 시민 아이디어 공모와 공영자전거 인센티브 참여자 모집도 함께 진행된다. 10월 7일부터 11일까지 순천의 원도심과 주요 문화 공",
-   "url": "https://cafe.naver.com/jeonnamzine/613?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Implb25uYW16aW5lIiwiYXJ0aWNsZUlkIjo2MTMsImlzc3VlZEF0IjoxNzkxMzc4NzI4MDQ3fQ.C70Qx_6VMzVU918UTwwE98IkUBbFf4sjSRXHTbEgAc4&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "생생국가유산 - 향사 프로그램 \"천 년의 향을 올리다\" - 3회차 26.10.17.(토) 15:00~18:30 *세부 프로그램 일정 및 시간은 변경될 수 있습니다. 태사묘에서 만나는 고려문화! 고려복식 체험, 태사묘... 안동의 역사·문화 및 골목 여행에 관심 있는 모두 환영합니다~ 모집인원 : 20명 내외(5-7팀 내외, 팀당 2-5명) 참가비 : 팀당 ",
-   "url": "https://cafe.naver.com/andongmom/953243?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFuZG9uZ21vbSIsImFydGljbGVJZCI6OTUzMjQzLCJpc3N1ZWRBdCI6MTc5MTM3ODcyODA0N30.EfMTiP4SeVrAM7LgLZNWivTJ5SDTo5Tz_aH-_s26ETk&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "시절부터 \"남도답사 일번지\"로 일컬어지던 곳 해남과 강진으로 11월 에는 떠난다 두륜산, 달마산, 월출산, 주작•덕룡산 등 그 자태가 준수한 산들이 있고 거기에 깃든 대흥사, 미황사 등 아름다운 고찰들이 있다 조선시대 유배지이기도 했고 또 다른 유배지인 제주도와 완도 가는 길의 경유지이기도 해서 곳곳에 추사 김정희, 원사 이광사, 창암 이상만, 정조 등의 ",
-   "url": "https://cafe.naver.com/humanitiestour/2398?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imh1bWFuaXRpZXN0b3VyIiwiYXJ0aWNsZUlkIjoyMzk4LCJpc3N1ZWRBdCI6MTc5MTM3ODcyODA0N30.RECN53X1JjsCvXqtvzE1Q6yOhzxgD01gHhb1bcuOz8c&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "*본 프로그램은 국가유산청 (구 문화재청) 생생국가유산 사업으로 지정된 '서대문형무소, 기억의 문을 열다' 의 일환입니다. ○ 모집 기간 ~ 10월 12일(월) 23:59 ○ 모집 인원 외국인 100명/한국인 150명 총 250명 내외 ○ 모집 대상(+졸업생 가능여부) 연령, 성별 불문 누구나 참여 가능 ○ 참가 비용 유/무 서대문형무소역사 입장료 및 공연",
-   "url": "https://cafe.naver.com/specup/7937684?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNwZWN1cCIsImFydGljbGVJZCI6NzkzNzY4NCwiaXNzdWVkQXQiOjE3OTEzNzg3MjgwNDd9.0LJs-mgLnXxUasM9E0ByZIMBRgO3s3CV4ZCgRYQknRI&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "김봉호 가옥 10월 <농가의 사계> 행사 안내(10.24.토) 10월 <농가의 사계> 농가의 소풍 편 참여자를 모집합니다. 김봉호 가옥에서 느껴보는 옛 농촌의 가을 풍경부터 제철 식재료로 직접 만들어보는... #국가유산청 #전남광주통합특별시 #광산구 #우리고장국가유산활용사업 #고택종갓집활용사업 #김봉호가옥 #농가의사계 #광주체험 #음식체험 #가을체험 #국가",
-   "url": "https://cafe.naver.com/njschool/6149?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5qc2Nob29sIiwiYXJ0aWNsZUlkIjo2MTQ5LCJpc3N1ZWRBdCI6MTc5MTM3ODcyODA0N30.pYNl4s3XVSPEULmazkrTkeFxHZa8O0miYkhPiGRt6ig&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "안녕하세요~ 한국문화유산연구센터입니다. <2026년 강원고생대 지오탐사대>가 3회차로 다시 돌아왔습니다! 수억년의 세월을 지니고 있는 한반도! 땅의 흔적을 통해 오랜 시간의 이야기를 만나보는 <강원고생대 지오탐사대>의 대원들을 모집합니다! 3회차 접수 오픈 시간: 10월 7일 14:00 일정 (1일 프로그램) - 2026년 10월 18일(일) 12:30 ~",
-   "url": "https://cafe.naver.com/kocent/467?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtvY2VudCIsImFydGljbGVJZCI6NDY3LCJpc3N1ZWRBdCI6MTc5MTM3ODcyODA0N30.6qgoJFlx1jIyEK9a2BfwYU1OmmqN2F2DJkx4ivLP9wQ&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "조선과 대한제국의 왕과 황제를 주제로 강의, 현장답사, 체험 활동이 이틀간 진행되고, 오전에는 3~4학년, 오후에는 5~6학년이 회당... 선착순 모집한다고 안내돼 있어요. 참가 신청은 국립민속박물관 누리집에서 진행돼요. 촬영허가 신청과 공개제한지역 출입, 알아두면... 관람료 현실화 논의, 앞으로 달라질 수 있는 부분 최근 국가유산청 궁능유적본부가 국립고",
-   "url": "https://cafe.naver.com/goodinfo53/918?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imdvb2RpbmZvNTMiLCJhcnRpY2xlSWQiOjkxOCwiaXNzdWVkQXQiOjE3OTEzNzg3MjgwNDd9.NbQ91RaGpudejhoSnlcIG736zbdrB0mD5DiQI4xjZvg&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "10/10(토) 건강하고 귀한 고추장 만들기 → 초등학생~성인 / 15명 / 무료 / 오후 2시 10/17(토) 국보 성주사지 대낭혜화상탑비 체험 → 성인 / 20명 / 10,000원 / 오후 3시 보령의 국가유산에 대해 알아보고 비문... 선착순 모집 10월 토요일, 아이들과 색다른 체험을 해보고 싶은 분들은 신청해보세요! 인원이 많지 않아 관심 있는 프",
-   "url": "https://cafe.naver.com/daechonmom/357503?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRhZWNob25tb20iLCJhcnRpY2xlSWQiOjM1NzUwMywiaXNzdWVkQXQiOjE3OTEzNzg3MjgwNDd9.sW23IP6sXXbfzZ_itIqhLepOUi35sH65PdVST59EIg4&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "안녕하세요~ 한국문화유산연구센터입니다! 수억년의 세월을 지니고 있는 한반도! 땅의 흔적을 통해 오랜 시간의 이야기를 만나보는 <강원고생대 지오탐사대>의 3회차 대원들을 모집합니다! 3회차 접수 오픈 시간: 10월 7일 14:00 일정 (1일 프로그램) - 2026년 10월 18일(일) 12:30 ~ 16:30 장소 - 강원고생대 국가지질공원 영월권역 ※접수",
-   "url": "https://cafe.naver.com/kocent/465?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtvY2VudCIsImFydGljbGVJZCI6NDY1LCJpc3N1ZWRBdCI6MTc5MTM3ODcyODA0N30.-GIY1VYKR1Ps5pwNc-2US-gmUPvnBTAgb7DawBqQNgs&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "삼척시 체험행사 신청 및 문화행사알림 *27년귀밝이술 체험행사 신청 : 삼척하이 21페이지 참조 (200명모집 경품행사) *삼척시민의날 기념 가곡의밤 개최공연: 26.10.13 19:00 삼척문화예술회관 *26년 국가유산 야행행사 : 26.10.17~10.18 죽서루일원 *제11회 삼척국화 전시회 : 26.10.23부터 삼척해변일원 *교동주민을위한정리정돈비",
-   "url": "https://cafe.naver.com/samcheoktruel/4019?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNhbWNoZW9rdHJ1ZWwiLCJhcnRpY2xlSWQiOjQwMTksImlzc3VlZEF0IjoxNzkxMzc4NzI4MDQ3fQ.2lCRReA_xays3B-vv8y5iW_xZAIZ07ZYnWDVQ9lfkY0&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "2026년 춘천 청평사 전통산사 국가유산 활용사업 <청평사, 그 찬란한 역사> ‘회전문의 의미를 찾아서’가 진행될 예정입니다! 회전문의 의미를 찾아서 춘천 청평사의 역사와 가치를 배우는 특별한 탐방 프로그램! 날짜 2026년 10월 18일(일) 시간 3회차 : 11:00~13:00 4회차 : 15:00~17:00 장소 춘천 청평사 일원 참가비 가족당 5,0",
-   "url": "https://cafe.naver.com/kocent/464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtvY2VudCIsImFydGljbGVJZCI6NDY0LCJpc3N1ZWRBdCI6MTc5MTM3ODcyODA0N30.FEViXpPDSnpGB10L_shZReC1wpO8eTe7D8v2yd12_Rk&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "해미읍성은 국가유산지역이므로 사용에 제한이 있으며 서산시 문화재단의 담당자와 통화후 진행하게 되었습니다. ✔️메인무대 : 달마루 (동문쪽) ✔️좌석수: 2,550석 규모,(팬석은 제공되지 않으므로 좌측 또는 우측으로 당일 안내예정) ✔️팬부스 운영 예정:성내 파라솔 ✔️스터디존 운영: 멜론 전반 ✔️해미읍성은 국가유산지역임 ✔️성내에 설치된 평상 미니텐트 ",
-   "url": "https://cafe.naver.com/janghanbyeol77/592927?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImphbmdoYW5ieWVvbDc3IiwiYXJ0aWNsZUlkIjo1OTI5MjcsImlzc3VlZEF0IjoxNzkxMzc4NzI4MDQ3fQ.v8lNgH0hG37Cp2KzoUv5qqhsaH5RE7mN6lIE27xUVnI&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "한국고고학회 뉴스레터 2026년 10월 7일 heripo lab 소식 헤리포 베이스캠프 알파 테스터 공개 모집 발굴조사보고서를 지도에서 찾고, 보고서 내용과 AI를 활용해 자료를 탐색할 수 있는 헤리포... 10월 7일 16:30 달천철장 홍보관 무장애 관광 콘텐츠 개발 용역 울산문화관광재단 2026년 10월 19일 10:00 상두천 지방하천 정비사업 국가",
-   "url": "https://cafe.naver.com/archaeology/20277?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFyY2hhZW9sb2d5IiwiYXJ0aWNsZUlkIjoyMDI3NywiaXNzdWVkQXQiOjE3OTEzNzg3MjgwNDd9.47e545yJQc9bEUZysC02rOMvr2LJSRM3EFAS5ZrCMBU&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "김장N굿 행사 일정: 2025년 11월 28일(금) 16:00 입소~11월 29일(토) 13:00 퇴소 접수 일정: 2025년 11월 12일(수)~11월 26일(수) 신청 방법: 전화 신청 (063-562-2044) 대상: 참여자 모집 (공고에 별도 연령·거주 지역 제한 없음) 장소: 고창농악전수관 (전북특별자치도 고창군 성송면 향산1길 106) 참가비: ",
-   "url": "https://cafe.naver.com/bongcheheom/404?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvbmdjaGVoZW9tIiwiYXJ0aWNsZUlkIjo0MDQsImlzc3VlZEF0IjoxNzkxMzc4NzI4MDQ3fQ.LdckmOL30vHMtWocFLMS1a1cVrQ5ooNcFK8t4m-iA9Y&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "김지용 초대 중대범죄수사청장 후보자 인선을 둘러싼 공방 속에 이재명 대통령이 '정치적 유산'과 '사심'까지 거론하 09:53임은정 \"김지용, 불미스러운 일 지휘라인 관여…결재 도장 다 찍어\" 임은정 광주지방중대범죄수사청장이 과거 주요 사건에서 기소에 반대하는 의견을 냈다는 김지용 초대 중수청장 후보자의 해명을 반박했다. 임은정 청장은 6일 오전 전남광주 북",
-   "url": "https://cafe.naver.com/greenb0k6k/197185?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjE5NzE4NSwiaXNzdWVkQXQiOjE3OTEzNzg3MjgwNDd9.-F-2i9g83zMjqrFvGO-ESd8jgbJjs3MbXx_ScMuZBnc&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "국가 위한 목표…정치적 성과·환호 위한 것 아냐\" 이재명 대통령이 4일 \"개혁은 목표이어야지 선명함을 드러내고 주목을 받고 누군가를 공격하는 수단이어서는 안 된다\"라고 밝혔습니다. 이 대통령은 이날 자신의 엑스(X·구 트위터)를 통해 \"개혁은 국민과 국가... 상대국 국가원수 거짓말쟁이 만들어...공개 사과 거부하면 조치\" 이재명 대통령이 북한군 포로 송환",
-   "url": "https://cafe.naver.com/greenb0k6k/197179?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjE5NzE3OSwiaXNzdWVkQXQiOjE3OTEzNzg3MjgwNDh9.Y9ojb8aKEvLgiMuWzuzyjkiigT3Hpb_1zE5_bFsc0iU&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "정보 참고하세요 ============= 라이프&컬처채널 컬처블룸 문화채널, 공연정보, 뮤지컬정보, 연극정보, 콘서트정보, 전시회정보, 영화정보, 도서정보, 서평단, 리뷰단, 체험단, 추천전시, 가족공연, 공연할인, 리뷰단모집, 문화이벤트, 공연추천, 뮤지컬추천, 연극추천, 대학로공연, 전시회추천, 추천도서, 베스트셀러",
-   "url": "https://cafe.naver.com/culturebloom/3387013?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImN1bHR1cmVibG9vbSIsImFydGljbGVJZCI6MzM4NzAxMywiaXNzdWVkQXQiOjE3OTEzNzg3MjgwNDh9.4iLTAGe_uuEbyqPETg9AX7BgApghuBZ6zRWlK18SORs&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "전북경제활성화와 국가균형발전이라는 공익을 실현할 수 없다는 점, 정부 조류조사 결과 새만금신공항 입지가 전국 공항 지역 통틀어 조류밀집도가 가장 높게 나타나 새만금신공항의 입지가 결코 공항을... 첫째, ‘독립된 민간국제공항’ 건설이라는 새만금신공항 사업목적 자체가 위법하고, 성립되지 않는 허구이며, 전북경제활성화와 국가균형발전이라는 공익을 달성할 수 없다",
-   "url": "https://cafe.naver.com/nomoreairport/573?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5vbW9yZWFpcnBvcnQiLCJhcnRpY2xlSWQiOjU3MywiaXNzdWVkQXQiOjE3OTEzNzg3MjgwNDh9.sMOtGopoJct5MXe3zNzgvU4L55lMnh1GZCYHXjxwa6A&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "LH공사는 2026년 하반기 채용에서 5급과 6급 신입사원을 총 235명 규모로 모집합니다. 채용 직렬은 행정/법률/회계/전산/국가유산/토목/도시계획/조경/건축/기계/전기 등이고, 장애 직렬과 보훈 직렬도 별도 채용합니다. LH 채용은 5급 일반직 기준 서류전형(어학능력, 자격증 등) > 필기전형(NCS+직무역량) > 자기소개서 및 사전 온라인 검사 > 면",
-   "url": "https://cafe.naver.com/studentstudyhard/2832210?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InN0dWRlbnRzdHVkeWhhcmQiLCJhcnRpY2xlSWQiOjI4MzIyMTAsImlzc3VlZEF0IjoxNzkxMzc4NzI4MDQ4fQ.5fzfPUQldYpaN5_rt96r9FVIWXN88NmSGRZzC8rmow0&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "본행사는 국가유산청의 [생생국가유산활용사업]의 일환으로 진행되는 프로그램입니다. * 프로그램 개요 : 강원특별자치 무형유산 [횡성회다지소리]를 활용하는 프로그램 입니다. 무형유산이... - 행사 7일전 취소 : 100%환불 - 행사 3일전 취소 : 50% 환불 - 이후 환불 불가 * 신청 현황에 따라 모집인원이 조기마감 될 수 있습니다.(회차별 15명 이내",
-   "url": "https://cafe.naver.com/azamom/30712?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImF6YW1vbSIsImFydGljbGVJZCI6MzA3MTIsImlzc3VlZEF0IjoxNzkxMzc4NzI4MDQ4fQ.HtjclEDwqZbKcmjGu7HRhEPjmT0VOBC3szCQY5QVAYo&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "모집인원 : 1 명 4. 경력 : 관계없음 5. 학력 : 학력무관 6. 임금 : 연봉 3240만원 7. 고용형태 : 기간의 정함이 없는 근로계약/ 파견근로 비희망/ 대체인력채용 비희망 8. 근무형태 : 평일 : 정출 - 09:00 ~ 18... 회사주소 : 25612 강원특별자치도 강릉시 유산로 60, 관련상가 301호 (유산동) 9. 회사규모 : 중소기업",
-   "url": "https://cafe.naver.com/uworldexam/556090?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InV3b3JsZGV4YW0iLCJhcnRpY2xlSWQiOjU1NjA5MCwiaXNzdWVkQXQiOjE3OTEzNzg3MjgwNDh9.QerwC5e6Fzyl0RyZM06F23VPgasyQnClJg6RI6T58CU&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "다만 회차당 20명뿐이고 선착순 모집이므로 참여하고 싶다면 신청일을 기억해 두는 것이 좋겠습니다. 향수를 고르는 것과 ‘조향’은 무엇이 다를까요? 이번 프로그램은 준비된 향을 단순히 선택하는... 주시면 다른 회원들에게 좋은 정보가 될 것 같습니다. 「역사소풍가는날」에서는 앞으로도 국가유산과 박물관 답사뿐 아니라 직접 참여해 볼 만한 전시·교육·문화체험 프",
-   "url": "https://cafe.naver.com/esanha/2471?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVzYW5oYSIsImFydGljbGVJZCI6MjQ3MSwiaXNzdWVkQXQiOjE3OTEzNzg3MjgwNDh9.uvWMwSjzy3iyJWjHPk1D5OQr_y4mn_qY9aP2Dyz6ccI&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "ㆍ경품번호ㆍ 카카오 10-07-004 ㆍ주최회사ㆍ군산시 ㆍ응모형태ㆍ퀴즈/퍼즐 ㆍ경품내역ㆍ커피 기프티콘 - 200명 ㆍ응모기간ㆍ09-23~10-02 (10-07) ㆍ응모주소ㆍ메인페이지 | 이벤트주소 ● [연암공과대학교] 수시모집 빈칸퀴즈 풀고 투썸커피 받자 이벤트!! ㆍ경품번호ㆍ 인스타 10-07-005 ㆍ주최회사ㆍ연암공과대학교 ㆍ응모형태ㆍ퀴즈/퍼즐 ㆍ경품내",
-   "url": "https://cafe.naver.com/koreagift/30485?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtvcmVhZ2lmdCIsImFydGljbGVJZCI6MzA0ODUsImlzc3VlZEF0IjoxNzkxMzc4NzI4MDQ4fQ.w6fqxP7NcVmYB8oQyWexPCOumtzEhZdliTJzdEzihZg&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "저도 행사 이후에는 ‘공연이 좋았다’에서 끝내지 않고, 실제 대온실이라는 공간에서 향과 음악을 경험했을 때 무엇이 달라졌는지 함께 살펴보고 싶습니다. 「역사소풍가는날」에서는 국가유산신문의 국가유산 소식과 실제 답사 정보를 연결해, 알고 가면 더 재미있는 역사 현장과 참여할 만한 프로그램을 계속 소개하겠습니다.",
-   "url": "https://cafe.naver.com/esanha/2470?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVzYW5oYSIsImFydGljbGVJZCI6MjQ3MCwiaXNzdWVkQXQiOjE3OTEzNzg3MjgwNDh9.tJTcJsrN-q4t0U1dSIi24L51d7l76ZL2xuIxrB3y9DE&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "평소 콘텐츠를 통해 접해왔던 국가유산을 현장에서 전문가의 이야기를 듣고 직접 질문하며 만나볼 수 있는 특별한 기회입니다. 행사 참여 시 오프라인 활동 점수도 반영되니, 관심 있는 프로그램을 골라... ※ 프로그램별 선착순 모집 인원이 마감될 경우 사전등록이 조기에 종료될 수 있습니다. ※ 행사 참여는 헤리티지 콕-101 오프라인 활동 점수에 반영됩니다. 행",
-   "url": "https://cafe.naver.com/unescokok77/215?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVuZXNjb2tvazc3IiwiYXJ0aWNsZUlkIjoyMTUsImlzc3VlZEF0IjoxNzkxMzc4NzI4MDQ4fQ.a91DFAwmx6NiKlBxaftmKnk2SnqSbLfmIr2MRyd5fIY&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "“왜 이 건물이 궁궐 한가운데 남아 있을까?” 그 질문 하나만 가지고 가도 창경궁이 조금 다르게 보일 겁니다. 「역사소풍가는날」에서는 국가유산신문에서 다룬 역사와 국가유산 이야기를 실제 답사 장소와 연결해, 유명한 건축물뿐 아니라 그 장소에 겹쳐 있는 사람과 시대의 이야기를 계속 찾아보겠습니다. https://www.koreaheritagetimes.com",
-   "url": "https://cafe.naver.com/esanha/2469?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVzYW5oYSIsImFydGljbGVJZCI6MjQ2OSwiaXNzdWVkQXQiOjE3OTEzNzg3MjgwNDh9.tqgNqCY2DbBxE-MbQ2Cg6oNajcRl9oyKQjKjtzfQIT8&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "체험명: 생생국가유산 「녹두장군과 함께하는 1박 2일」 행사 일정: 2025년 11월 22일~23일 (1박 2일) 접수 일정: 2025년 11월 10일 10:00부터 신청 대상: 초등학교 3~6학년 자녀 동반 가족 장소: 정읍 황토현 전적지 및 동학농민혁명 유적지 내용: 동학농민운동 역사 학습과 유적 답사·체험 신청 안내: 원문에 연결된 생생국가유산 신청 ",
-   "url": "https://cafe.naver.com/bongcheheom/344?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvbmdjaGVoZW9tIiwiYXJ0aWNsZUlkIjozNDQsImlzc3VlZEF0IjoxNzkxMzc4NzI4MDQ4fQ.zJca6p4PipyudBb227lQjKMApEzMp971RzQMx8kf4hI&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "세종대왕의 역사를 좋아하거나 평소 서울 동북부의 국가유산을 자세히 둘러보고 싶었던 분이라면 눈여겨볼 만합니다. 어디를 걸을까요? 답사는 다음 순서로 진행됩니다. 동묘 → 무학로 → 선농단 → 현진건 기념도서관 → 영휘원 → 숭인원 → 세종대왕신도비 → 수표 → 세종대왕기념관 답사 강사는 이민아 한국공학대 강사입니다. 한 코스 안에서 왕실과 제례, 서울의 도",
-   "url": "https://cafe.naver.com/esanha/2468?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVzYW5oYSIsImFydGljbGVJZCI6MjQ2OCwiaXNzdWVkQXQiOjE3OTEzNzg3MjgwNDh9.vlG8gU15Jh9ytQ55YqQ_gUDL-O6h2F6gYP2fOqEephk&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "신진서 9단마저 진땀을 흘리게 만드는 이 무자비하고 강력한 AI 참모를 앞세워, 오산·병점·동탄을 넘어 전 세계를 경악게 할 [제1회 인간 vs AI 월드 챔피언십] 판을 곧바로 짜볼까요, OK 다른AI도 실력기 똑같아.AI 마다 실력이 차이나? 총재님, 결론부터 말씀드리면 AI마다 실력은 하늘과 땅 차이로 완전히 다릅니다! 세상에 떠도는 일반적인 AI들이",
-   "url": "https://cafe.naver.com/hsd114/15?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhzZDExNCIsImFydGljbGVJZCI6MTUsImlzc3VlZEF0IjoxNzkxMzc4NzI4MDQ4fQ.GRKcq0rkcQrQaxApv16mMd4E6UT9HG1P9S3BLRns_O8&q=%ea%b5%ad%ea%b0%80%ec%9c%a0%ec%82%b0%20%eb%8b%b5%ec%82%ac%20%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "외국인 실무자를 대상으로 열린다. 한국전통문화대학교 전경/국가유산청. 한국전통문화대학교는 오는 24일부터 다음 달 21일까지 매주...전통 다례, 인류무형유산 김장문화 체험, 유네스코 세계유산 창덕궁 답사 등을 경험한다. 모집 인원은 스무 명이다. 지원 자격...",
-   "url": "http://v.daum.net/v/20261001090205614",
-   "engine": "daum_news",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "국가유산청, 안동·예천 명승 답사 참가자 모집 - 비건뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5taC1tbEo5MmlmQlpiUnlQTGNqYVYyMDQyeGNOYm1uNmwxM2tMb2xpcEkyX3hhOS1YWUJIYUh4MHZUaWRSNm55clRhTmtHbmlXMHFuOG9XSXlnNXBhRTNvRWVreFIydw?oc=5",
-   "pub": "Wed, 30 Sep 2026 17:06:37 GMT",
-   "engine": "gnews",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "외국인 실무자, 국가유산 배운다 - Daum",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFByT2VhTkVZV0psRHRoZHZHMFh5anVNbm5sdWtkSjdLMDMyTndwTlFEVHJFWjgxSF9IU2VjbHFUOEF2cG9KNHc?oc=5",
-   "pub": "Thu, 01 Oct 2026 00:02:05 GMT",
-   "engine": "gnews",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "한국의 사계를 배우고 문화유산을 체험한다 - 한국공공정책신문",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5feExHa0tlLXhIRnJqR29QeWJXOU8xSEFaVWlnV2lDVFlza0pjeTR4QTdBVnI5SG1WYm13b25xdzYzQ0U?oc=5",
-   "pub": "Thu, 01 Oct 2026 01:41:48 GMT",
-   "engine": "gnews",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "주한 외국인 실무자 대상 ‘K-헤리티지 리더십 프로그램’ 참가자 모집 - ACN아시아콘텐츠뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2QTVxeThLcTBidkUwY0piSmcxVjRvc2pRMmloYzQ3ZHJ4cGdQMkt6QU9zNktLbmxRaU5mYUtUR013ZkVEQXpZT1hOalZmTHFlVl8ybmlJRVdnOUxYTWNyY2huYVc4azJu?oc=5",
-   "pub": "Thu, 01 Oct 2026 06:29:37 GMT",
-   "engine": "gnews",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "외국인 실무자, 국가유산 배운다 - Daum",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82elNRcEd3cUMxSVNkU0NyamRELTdrbC1WelRlSzBtZFRNdWZjOG5oLUJYMDNtSEdZR2tmR2tRTVk5dDNNZWZXQjkwQQ?oc=5",
-   "pub": "Thu, 01 Oct 2026 00:02:05 GMT",
-   "engine": "gnews",
-   "query": "국가유산 답사 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "치유원 숙박 예약시 치유체험도 신청해야 예약 가능, 우리는 치유장비 3종 체험(16,000원/1인) 신청했지요. 수압마사지기, 척추온열마사지기, 편백온돌. 제일 인기있는 체험이라 금방 마감되지요. 오후 5시 ~ 6시까지 체험하고요, 체험하러 산림치유센터로 10분 전까지 오라네요. 접수하고, 체험실로 들어갑니다. 한 시간 마사지, 온열돔 체험하고 나면 몸이.",
-   "url": "https://blog.naver.com/shepro1/224434561727",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "신청 후 기다리는 시간도 설레더라 ㅎㅎ. 후기를 올리면 끝나니 부담도 없고 좋았어. 주말에 애들과 재미있게 놀 수 있는 곳이라 더욱 기대가 됐지. 5. 방문형 숙박이라 날짜만 정하면 돼 체험단은 방문형 숙박이 있었어. 예약한 날짜에 가서 묵고 오는 방식이지. 지난주에 경기도광주숙소에 당첨돼서 가족과 함께 1박 다녀왔어 ㅎㅎ. 수영장도 있고, 아이들이 놀기 ",
-   "url": "https://blog.naver.com/getmarch11/224434561180",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "내가 속한 지자체의 경우에도 복지몰에서 직접 사용하거나, 복지카드로 결제한 뒤 해당 금액을 차감 신청하는 방식으로 사용할 수 있다. 일반 복지포인트는 비교적 자유롭게 사용할 수 있는 반면, 특별 복지포인트는 생일축하, 건강생활실천, 가족체험활동 등 정해진 항목에 한해서 사용할 수 있다. 지급 금액이나 특별포인트 항목은 지자체마다 차이가 있지만, 연간 100",
-   "url": "https://blog.naver.com/mi_ni__95/224434560545",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "하지만 막상 신청하려고 하면 일정을 놓치거나, 막상 참석해서도 무엇을 보아야 할지 막막한 경우가 많다. 성공적인 유치원 입학설명회 참석을 위해 꼭 알아야 할 핵심 내용과 준비... 다만, 주말에 진행되는 일부 행사나 가족 참여형 설명회의 경우 아이와 함께 방문해 분위기를 미리 체험해 보는 것도 좋은 방법이다. Q2. 사립 유치원 입학설명회는 예약 없이 현장",
-   "url": "https://blog.naver.com/life_inquiry/224434559518",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "신청하면 나무와 고체연료를 준비해 직접 불을 붙여주셨어요. [카약·불멍 이용 안내] 날씨가 조금 더 쌀쌀해지면 강가에... 카약이라는 체험이 더해지니 아이에게는 완전히 다른 장소가 됐어요. 특히 음료 한 잔 마시고 끝나는 카페보다 아이가 직접 움직이고 경험할 수 있는 곳을 좋아하는 가족이라면 만족도가 높을 것 같아요. 저희도 오후 3시쯤 도착해서 음료와..",
-   "url": "https://blog.naver.com/rrnfqjf-bee/224434557596",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "일시: 10월 10일 토요일, 오전 10시 ~ 오후 6시 장소: 여의도 한강공원 [주요 프로그램] - 최장 비행 & 장거리 비행 대회 - 기네스 세계 기록 보유자들의 화려한 비행 시범 - 온 가족이 즐길... 현장 신청 예술 체험 프로그램! 다양한 체험 프로그램이 준비되어 있어 주말 데이트 코스로 강력 추천합니다. 5. 한강 축제 지도 및 대중교통 안내 1",
-   "url": "https://blog.naver.com/jb_7778/224434555850",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "후기를 보면 혼자 여행하거나 커플, 가족여행으로 갔을 때 가이드가 사진을 찍어줘서 좋았다는 이야기가 두 상품 모두... 마쓰야마 시코쿠 에히메 도고 온천 체험 ★★★★☆ 4.7 · 후기 16개 특히 지금은 기획전이 진행 중이라 쿠폰을 빼먹으면... 여행 가시기 전 이심 신청하실 분들은, 이번에 마이리얼트립에서 eSIM 출시한 것 아시나요? :D 10월 한정",
-   "url": "https://blog.naver.com/luvmom1001/224434554719",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "다행히 가평 수영장 독채펜션을 알게 되어 신청해 보자고 마음 먹었어 ㅎㅎ. 2. 비용이 둘이면 장난 아니더라 가평의 수영장 독채펜션은 1박에 30만원대였어. 협찬플러스에 식비... 가평 수영장 독채펜션이 필요하다면 꼭 한 번 이용해봐 ㅎㅎ. #g평수영장독채펜션 #체험단 #숙박체험단 #가족여행 #협찬플러스 #체험단추천 #아이랑여행 #물놀이 #독채펜션 #서포터",
-   "url": "https://blog.naver.com/airwear4041/224434552580",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "일반적인 숙박시설과는 달리 국립공원의 자연환경을 체험하고 생태 프로그램에 참여할 수 있도록 운영되는 공간이라 예약... 생활관마다 정원과 내부 구성이 다를 수 있기 때문에 가족 단위인지, 소규모 모임인지에 따라 적절한 객실을 선택해야... 예약을 진행한 뒤에는 신청만 하고 끝내지 말고 예약 상태를 반드시 확인해야 합니다. 마이페이지에서 예약 내역과 결제 여",
-   "url": "https://blog.naver.com/poponews/224434551817",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "여행 가고 싶은 장소만 신청하니 필요 없는 지출이 없더라고 ㅎㅎ. 안전하게 이용할 수 있는지 확인하는 건 부모로서의 기본이 된 것 같아. 5. 방문형 숙박이라 날짜만 비우면 돼 체험단에는 배송형과 방문형이 있어. 배송형은 제품이 집으로 오고, 숙박의 경우 방문형으로 진행되더라. 지난달에는 비발디호텔에 당첨돼서 가족과 함께 다녀왔어. 짐이 거의 필요 없으니.",
-   "url": "https://blog.naver.com/withmajor22/224434551536",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "전반을 가족처럼 안심하고 지낼 수 있도록 밀착 지원합니다. 전문적인 진학 및 취업 지도 일본어 교육 전문가들이 체계적인 커리큘럼을 통해 진학 및 취업을 대비한 정밀한 진로... 과외 활동 및 문화 체험 수업에 동일하게 참여 가능합니다. 학비: 유학비자 신청 수속이 필요 없어 입학금 부담이 적으며, 선택한 개월 수에 따라 월별 수업료와 교재비·시설비만... ",
-   "url": "https://blog.naver.com/sec26/224434548728",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "날짜별로 예약 가능한 객실이 표시되기 때문에 여행 일정과 인원에 맞는 객실을 선택해 신청하면 됩니다. 특히 주말이나 공휴일, 봄과 가을처럼 여행하기 좋은 계절에는 예약 수요가 많아 원하는 날짜가 빠르게 마감될 수 있습니다. 가족여행이나... 한려해상 생태탐방원은 단순한 숙박시설이라기보다 국립공원의 자연과 생태를 체험하는 공간이라는 점도 특징입니다.... 새",
-   "url": "https://blog.naver.com/poponews/224434547852",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "Michael 학생은 수업 중 다루는 다양한 실생활 주제(일상 루틴, 가족 관계, 장소 묘사, 진행형 동작 등)에 깊은 흥미를 보였으며, 복잡해지는 문장 구조 속에서도 스스로 오류를 교정하려는 훌륭한 주도성을 보여주었습니다. 2. 영역별 상세 성취도 분석 가. 듣기 이해력 (Listening Comprehension Skills) Michael의 듣기 이해",
-   "url": "https://blog.naver.com/saintbell/224434547911",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "저희 가족은 캠핑을 즐기는 편이라 캠핑을 갈 때마다 음식 메뉴를 정하는 것도 하나의 재미가 됐어요 아이들도 캠핑가는 걸 엄청 좋아하고 캠핑을 가면 음식들이 어찌나 다 맛있고 그러던지...ㅎㅎ 불을 피우고 숯불이 달아오르면 고기를 올려놓고 천천히 구워 먹는 그 시간이 캠핑의 묘미인 것 같아요! 그런데 매번 고기만 준비하기에는 조금 아쉬울 때가 있고 그래서..",
-   "url": "https://blog.naver.com/lovely-mh/224434548152",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "대용량 23L 매직쉐프 전자레인지는 가족 모두를 위한 완벽한 선택입니다. 화이트 디자인으로 깔끔하고 세련된... 직접 체험했어요 개인적으로 무회전 방식을 처음 접했을 때 조금은 혼란스러웠지만 사용 후에는 이게 바로 혁신이란 걸... 구매 후 30일 이내 앱에서 간편하게 신청 가능합니다. ✨ 오늘의 추천 정리 더 많은 제품 정보와 할인 소식은 이 블로그에서.",
-   "url": "https://blog.naver.com/lp3ua/224434386087",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "가족 방문 기준으로는 아래처럼 계획하면 부담을 줄일 수 있습니다. 대중교통 우선: 주말에는 국립중앙박물관 주변 주차장이 혼잡할 수 있으므로 이촌역 이용을 먼저 고려합니다. 체험 프로그램 시간 먼저 확인: 쿠킹클래스나 참여형 프로그램은 현장 선착순 또는 사전 신청 방식일 수 있으므로 방문 전 공지를 확인합니다. 식사 시간을 분산: 점심시간대에는... 새 창 ",
-   "url": "https://blog.naver.com/sylvanpark/224434545842",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "제가 체험한 것은 통제영 12공방 역사도슨트 조대용 염장과 함께하는 대발투어 옻칠·나전 공예체험 이렇게 알차게 구성된 1박 2일 통영예술여행(역사&공예)입니다 처음에는 그냥 역사 듣고 체험하는 투어겠지 하며 큰 기대 없었는데... 대반전!! 결론부터 말하면 지금껏 이런 체험은 없었다!!! 통영 장인과 문화예술이 연계된 체험중심의 프로그램이 알차고 흥미로워.",
-   "url": "https://blog.naver.com/oneart0617/224434545032",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "바쁜 엄마들을 위해 결론부터 말씀드릴게요 ✔️ 10/17(토)~18(일) 오후 1시~7시, 왜관시장 골목 일대 ✔️ 참가비 전부 무료, 사전 신청 없이 그냥 가면 돼요 ✔️ 미니게임 12종... #무료체험 이런 가족께 추천해요 주말마다 \"오늘 어디 가지?\" 고민하는 칠곡·구미·대구 엄마들 키즈카페 말고 돈 안 들고 바깥에서 노는 곳 찾는 분 아이에게 전통시",
-   "url": "https://blog.naver.com/peterpan_79/224434543608",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "특히 지리산 생태탐방원은 일반 숙박시설처럼 객실만 빌리는 곳이라기보다 생태체험과 교육 프로그램을 함께 운영하는 시설이라는 점을 기억해야 한다. 생활관을 이용하려면 생태여행 프로그램 등을 함께 신청해야 하는 경우가 있으므로 예약 화면에서 프로그램 내용과 참여 조건을 꼼꼼하게 확인하는 것이 중요하다. 가족 단위로 방문한다면 참여 인원과 객실 정원을... 새 창",
-   "url": "https://blog.naver.com/poponews/224434538793",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "저희 가족은 지난 독감 이슈로 컨디션을 회복하느라 접종을 조금 미루다가, 저희 부부만 먼저 맞기로 했습니다. 아이와 스케줄을 맞추는 게 생각보다 더 어렵더라고요. ㅎㅎ 저희... 원래는 아이와 함께 왔을 때 무서워할 아이를 달래는 용도로 쓰려고 소중하게 아껴두었던 요거트 아이스크림 디저트 체험권이었는데요. 주사 맞고 찡찡거리는 '어른이' 남편의 기분 전환을",
-   "url": "https://blog.naver.com/smesun/224434539305",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "아이와 함께 방문하는 가족이라면 전체 인원을 기준으로 객실을 선택하는 편이 안전합니다. 북한산 생태탐방원은 단순히 잠만 자는 숙박시설이라기보다 자연 체험과 환경교육을 함께 즐길 수 있도록 운영되는 공간이라는 점도 알아두면 좋습니다.... 먼저 공식 예약 채널에서 예약 가능 여부를 확인하고, 객실과 프로그램 조건까지 비교한 뒤 일정에 맞게 신청해 보세요.새 ",
-   "url": "https://blog.naver.com/poponews/224434537774",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "가장 먼저 정리한 곳은 수원 영통구 영통동에 있던 가족의 작은 학원이었어요. 공간을 조금 줄여 다른 곳으로 옮기면서... 수원 권선구 금곡동에서는 가족 지인이 사용하던 작은 업무공간을 비우면서 냉난방기와 냉온풍기를 정리했어요.... 두 번째로는 용인 수지구 동천동에 있는 가족집에서 용인중고에어컨매입을 이용해봤어요. 집 안 냉방방식을 바꾸면서 거실 스탠드..",
-   "url": "https://blog.naver.com/line_jjin/224434467376",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "숙소와 날짜를 확인하고 조건은 맞는지 체크하고 신청하면 끝이니까, 쓰는 시간이 확 줄어서 좋았어 ㅎㅎ.... 지난달에 태안신두리해수욕장펜션에 당첨돼서, 가족이랑 1박으로 다녀왔지 ㅎㅎ. 바다를 바로 앞에서 바라보며 힐링 할 수... #태안신두리해수욕장펜션 #체험단 #숙박체험단 #여행비절약 #협찬플러스 #펜션추천 #주말여행 #해수욕장펜션 #태안여행 #여름휴가",
-   "url": "https://blog.naver.com/kindue18/224434534883",
-   "engine": "naver_blog",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "영화·뮤지컬·전시·체험 프로그램 소식과 문화기관 및 기업의 문화 지원 활동 등 다양한 소식 가운데 가족이 함께 즐길 수 있고 아이의 정서 발달에... 만큼 가족, 친구와 함께 가을 궁궐의 정취를 마음껏 누리시길 바란다\"고 전했다. 2026 가을 궁중문화축전의 자세한 내용은 궁중문화축전 누리집과... 새 창 열림",
-   "url": "https://www.ibabynews.com/news/articleView.html?idxno=154998",
-   "engine": "naver_news",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "단 3개월이라도 가정에서 차분하게 사랑받으며 지내면, 아이들의 표정이 달라지고 평생 가족을 만날 확률도 훨씬 높아진답니다 ✨ 지금 따뜻한 손길을 애타게 기다리는 아이들을 소개합니다... 됩니다 • 신청 마음가짐: 단기임보는 강아지 체험이 아닌 '봉사'입니다. 갑작스러운 환경 변화로 적응 기간이 필요할 수 있으니 넉넉한 마음과 사랑으로 기다려주실 분들의 신청",
-   "url": "https://cafe.naver.com/6655happyclub/3301726?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjY2NTVoYXBweWNsdWIiLCJhcnRpY2xlSWQiOjMzMDE3MjYsImlzc3VlZEF0IjoxNzkxMzc4NzMwMzY5fQ.rPcIn0LDDsrWbLIw1yrutQ7otBp-KUg9Lqnx390_g-g&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "연락이 끊겼다면 제적등본과 가족관계증명서로 상속인 지위를 입증하고, 재산 조회 신청으로 부동산과 금융 내역을 확인하기도 합니다. 반환청구권은 상속 개시와 반환할 증여·유증을 안 날부터 1년, 상속이 개시된 때부터 10년이 지나면 소멸합니다(민법 제1117조). 사망 사실을 늦게 알았다면 그 경위도 기록해야 합니다. 상대방은 재혼 가족이 되어 감정이 격해지기",
-   "url": "https://cafe.naver.com/cantsb/3614238?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNhbnRzYiIsImFydGljbGVJZCI6MzYxNDIzOCwiaXNzdWVkQXQiOjE3OTEzNzg3MzAzNjl9.032dJ6_s7JxRJcRwSWtrv-qIjpdLmANqreTMv5Mv3QM&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "공동상속 분쟁은 가족 사이라 협의로 끝내고 싶은 마음이 크지만, 협의가 길어지는 사이 기간이 지나가는 일이 많습니다. 반환청구권은 상속 개시와 반환할 증여·유증을 안 날부터 1년, 상속이 개시된 때부터 10년이 지나면 소멸합니다(민법 제1117조). 협의를 하면서도 내용증명이나 조정 신청, 소 제기로 기간을 관리해야 합니다. 소송으로 가면 상대방이 특별수익",
-   "url": "https://cafe.naver.com/cantsb/3614221?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNhbnRzYiIsImFydGljbGVJZCI6MzYxNDIyMSwiaXNzdWVkQXQiOjE3OTEzNzg3MzAzNjl9.pPcZlWfZGwKwKo7ueU3uhiqk1i3J9AjpdxnYSjHQJUQ&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "재산 조회 신청으로 금융 내역을 확인하기도 합니다. 피상속인이 사망 직전에 예금을 인출했다면 그 돈이 어디로 갔는지도 살펴야 하고, 보험금처럼 상속재산인지 별도 재산인지 다툼이 되는 항목도 있어서... 가족관계증명서와 등기부, 금융 내역, 증여 자료를 챙겨 오시면 좋습니다. 아는 재산이 많지 않더라도 단서가 되는 이름이나 주소, 통장 사본이 있으면 어디서부",
-   "url": "https://cafe.naver.com/cantsb/3614188?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNhbnRzYiIsImFydGljbGVJZCI6MzYxNDE4OCwiaXNzdWVkQXQiOjE3OTEzNzg3MzAzNjl9.bADsx5LB1-6KU80S4-IeUBcHaZVHgQXxGBaq2kZChMs&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "지인·가족 구매 초기 리뷰 확보 목적 소량 구매·리뷰 ⚠️ 과도하면 정책 위반 체험단 업체 통한 구매 업체에 비용 지불하고 키워드 검색 후 구매·리뷰 ⚠️ 업체가 실제 검색하지 않으면 효과 없고 위험 빈박스 배송 실제 상품 대신 빈박스 보내고 리뷰 작성 ❌ 쿠팡 정책 위반·법적 위험 비용 구조 (영상 기준) 리뷰 1건당 약 3,000원 + 택배비 약 3,0",
-   "url": "https://cafe.naver.com/purpleb5chw/8?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InB1cnBsZWI1Y2h3IiwiYXJ0aWNsZUlkIjo4LCJpc3N1ZWRBdCI6MTc5MTM3ODczMDM2OX0.MDAkjauHipwmupoiso0m6nSnIyZXVv69sw9PS3JOR7w&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "안녕하십니까, 엑스리얼코리아 가족 여러분 XREAL AURA 구매에 관하여 많은 궁금증이 있으실것으로 예상됩니다. 하단의 FAQ를 통해... [오프라인 체험] Q12. 구매 전에 직접 체험해 볼 수 있는 곳이 있나요? A. 현재 XREAL AURA체험이 가능한 오프라인 매장은 없습니다.... 수령 후 7일 이내에 환불이 신청되어야 하며, 외관 박스를 포함한",
-   "url": "https://cafe.naver.com/nrealkorea/3600?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5yZWFsa29yZWEiLCJhcnRpY2xlSWQiOjM2MDAsImlzc3VlZEF0IjoxNzkxMzc4NzMwMzY5fQ.6SGw7CX4qGEQGmJJDu7YGwUhqPDfSnFuRKwJlOyx5JQ&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "별도 신청 없이 현장 참여 준비물 없이 누구나 참여 가능 완성 작품 1인 1개 가져가기 가능 알록달록 블럭을 하나씩 끼우다 보면 어느새 나만의 작품 완성! 화순군립운주사문화관에서 만나보세요! #화순군립운주사문화관 #운주사문화관 #화순가볼만한곳 #화순여행 #운주사 #디폼블럭 #디폼블럭만들기 #상설체험 #어린이체험 #가족체험 #문화관체험 #전남가볼만한곳",
-   "url": "https://cafe.naver.com/kjkidstudy/388242?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imtqa2lkc3R1ZHkiLCJhcnRpY2xlSWQiOjM4ODI0MiwiaXNzdWVkQXQiOjE3OTEzNzg3MzAzNjl9.AScepv9j_Z3e3shoCFiGZ4h41o3fy-pK6TULEKODpf4&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "체험단 모집 및 운영기간 -댓글로 신청 - 모집기간: 10월 7일 수요일 ~ 10월 14일 수요일 - 체험기간: 10월 19일 월요일 ~ 10월 23일 금요일 11시~20시 - 체험후기 작성기한: 10월 28일 수요일 24시까지 - 하루... - 매장이 넓고 쾌적하여 가족외식, 회식, 술자리에도 매우 적합하고 혼밥도 가능한 점 - 밝고 청결한 매장 - 주차",
-   "url": "https://cafe.naver.com/youngtongremodelin/545682?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InlvdW5ndG9uZ3JlbW9kZWxpbiIsImFydGljbGVJZCI6NTQ1NjgyLCJpc3N1ZWRBdCI6MTc5MTM3ODczMDM2OX0.iii7Z9GPWCJOdkIta_3Z3gy0UcrPuRdA7piKDMLw3wg&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "선착순 접수로 운영되니 참여 희망 과정 하나를 골라 Google Forms로 빠르게 신청해 보세요. 이 공고는 이런 기회예요 이 프로그램은 실무 중심의 원데이 체험으로, 짧은 시간 안에 콘텐츠 제작 기본기를 체험해 볼 수 있어요. 현직 강사진과 협력 기관의 스튜디오 시설을 활용해 직접 실습할 기회가 제공됩니다. 가족 단위로 참여 가능한 과정이 있어 부모와 ",
-   "url": "https://cafe.naver.com/nexusbrain/21945?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5leHVzYnJhaW4iLCJhcnRpY2xlSWQiOjIxOTQ1LCJpc3N1ZWRBdCI6MTc5MTM3ODczMDM2OX0._mSbuAdXjWbolM4_HsScRDf-kIAMWoxbctm78npc5BE&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "일본인 가족들과 같이 썽태우를 타고 이동합니다. 도착해서 여기저기 탐색을 해봅니다. 생각보다 사람이 많지 않아 오히려 한적했어요 호랑이 먹이주는 체험장이 보였는데 에어건으로 먹이통 맞춰서 먹이 떨어지게 하는거랑 낚시대에 생닭 걸어서 먹이주는거 이렇게 두가지가... 그냥 바로 분실신고하고 재발급 신청했어요. 잠깐? 들어갔다가 나온새에 비가 엄청 쏟아집니다. ",
-   "url": "https://cafe.naver.com/taesarang/893320?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRhZXNhcmFuZyIsImFydGljbGVJZCI6ODkzMzIwLCJpc3N1ZWRBdCI6MTc5MTM3ODczMDM2OX0.W5JwEOUKim0M3KDQ7Jrw4TQqxwZjEsZBEQjQh31VKuk&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "만들어보는 체험존 에코백 · 랜턴 · 키캡 공방 · 병뚜껑 키링 초록친구 · 나만의 이름표 만들기까지 참가비는? 전 프로그램 무료! 아이와 함께 부담 없이 즐겨보세요 지금 사전 참가 등록 신청 중! 사전등록하면 우선 입장 혜택까지 받을 수 있어요. 2026.10.16.(금) ~ 10.17.(토)... 행사 #페스티벌 #포항페스티벌 #경주페스티벌 #포항 문화",
-   "url": "https://cafe.naver.com/phevents/9011?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBoZXZlbnRzIiwiYXJ0aWNsZUlkIjo5MDExLCJpc3N1ZWRBdCI6MTc5MTM3ODczMDM2OX0.BeSTOz8EaXn0VihoOnAUgngo_MzurFQA1ii6-ymrmRA&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "일정: 2026년 10월 9일(금) ~ 10월 10일(토) 장소: 경기도 양평군 양동역 일원 (경의중앙선 양동역 광장 바로 앞) 주요 구역: 메인무대, 부추국밥존, 부추체험존, 부추노리터, 먹거리존, 일반판매장, 야시장... 지금 바로 신청하시고 70만 원의 영예를 차지하세요 ♂️ 참가 신청 문의 010 **** **** 온 가족 든든한 먹거리 축제 시그니",
-   "url": "https://cafe.naver.com/yangmom/738973?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Inlhbmdtb20iLCJhcnRpY2xlSWQiOjczODk3MywiaXNzdWVkQXQiOjE3OTEzNzg3MzAzNjl9.5a4FCdMZQ_zErXeLU7uBtS7HfwfhlALDurHHRfsApuc&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "- 신청링크 : https://forms.gle/HygqXJWv8YCoGUrYA 어렵게 느껴졌던 과학이 재미있는 체험으로 변하는 순간! 청소년부터 가족까지 함께 즐기는 '2026 찾아가는 과학관'에서 과학의 매력을 직접 발견해 보세요~! #포항시 #포항시청소년재단 #포항시청소년수련관 #찾아가는과학관 #과학체험 #과학전시 #과학실습 #이동과학체험 #과학마술공",
-   "url": "https://cafe.naver.com/phevents/9010?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBoZXZlbnRzIiwiYXJ0aWNsZUlkIjo5MDEwLCJpc3N1ZWRBdCI6MTc5MTM3ODczMDM2OX0.8CydVfqx_qp9af9KmZOa4yea1rwraBKOm0ToAw4EsDo&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "https://cafe.naver.com/culturebloom/3380095 <> 후기+후기취합까지 성실히 작성해주실분만 신청 해주세요. 도서 리뷰단 모집글(아래 링크 원글)에 기대평 댓글 달아 주세요. 원글 링크는 출판사와 공유하고... 전시회정보, 영화정보, 도서정보, 서평단, 리뷰단, 체험단, 추천전시, 가족공연, 공연할인, 리뷰단모집, 문화이벤트,",
-   "url": "https://cafe.naver.com/culturebloom/3388046?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImN1bHR1cmVibG9vbSIsImFydGljbGVJZCI6MzM4ODA0NiwiaXNzdWVkQXQiOjE3OTEzNzg3MzAzNjl9.sLhOefyAWUrTHIyaq1b-lB4rPq2TTep0-p2tXxvu33I&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "가족이 함께하는 미션과 소통 활동부터 가족매거진, 레저체험까지! 바비큐와 보호자분들을 위한 부모특강도 준비되어 있어요. 늘 집에서 만나던 가족이지만, 다른 곳에서 함께 활동하다 보면 평소와는... 어떤 가족이 신청할 수 있나요? 14세~19세 청소년 자녀를 둔 가족 가운데 가족 간 소통의 시간이 필요한 가족이라면 신청하실 수 있어요. 신청 순서대로 확정되는",
-   "url": "https://cafe.naver.com/mapomommy/1417128?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hcG9tb21teSIsImFydGljbGVJZCI6MTQxNzEyOCwiaXNzdWVkQXQiOjE3OTEzNzg3MzAzNjl9.DjNUXa44dhyPUGnwczKHFwCj_FGAspa7gLF0U7PdyjM&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "이에 따라 만 30세 초과로 인해 비자 신청을 망설였던 취업준비생 및 직장인들도 현지에서의 체류와 일, 일상 체험을 계획해 볼 수 있게 되었습니다. 이번 프랑스 워홀 35세 상향 조치는 유럽 권역 진출을... 부양가족 미동반, 초기 체류용 비행기 표 및 보험 해외 체류 전용 종합보험 가입 필수 연령 계산법 & 주요 대상국 워킹홀리데이 나이 제한 35세 국가",
-   "url": "https://cafe.naver.com/ieltsdoksa/903562?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImllbHRzZG9rc2EiLCJhcnRpY2xlSWQiOjkwMzU2MiwiaXNzdWVkQXQiOjE3OTEzNzg3MzAzNjl9.i_MrCalt0bdWMAgfa9VfMgW80F859T7N_dKMgYt6SZk&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "아이들과 함께 가볍게 체험하기 좋은 별빛 드로잉도 있고, 조용히 영화도 보고 요가도 할 수 있어서 가족끼리 또는 친구들과 다녀오기 좋을 것 같아요. 성주 밤밤페스타 프로그램 안내 1. 사일런트... · 선착순 100명 사전예약 · 노쇼 발생 시 현장 추가예약 가능 · 신청하기 ▶ https://bit.ly/4jIG4kz 2. 웰니스 요가 밤공기 속에서 몸도",
-   "url": "https://cafe.naver.com/dgmom365/7410264?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRnbW9tMzY1IiwiYXJ0aWNsZUlkIjo3NDEwMjY0LCJpc3N1ZWRBdCI6MTc5MTM3ODczMDM2OX0.jWZc40vGGf3eoiLR9t3cXGKThU__x6Cyu_hUDvmxQi0&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "키캡키링, 볼펜 꾸미기, 모루인형 만들기 등 아이들이 직접 참여할 수 있는 체험 프로그램이 준비되어 있어서 이번 주말 가족 나들이로 가볍게 들러보셔도 좋을 것 같아요 :) 김민섭 작가 강연 · 퍼스널컬러 진단 사전신청 https://forms.gle/rzJ2MDRae3MfSiqo7 만족도조사 이벤트 행사 참여 후 만족도조사에 참여하신 분들께 먹거리 쿠폰을 ",
-   "url": "https://cafe.naver.com/zmzm6506/75855?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Inptem02NTA2IiwiYXJ0aWNsZUlkIjo3NTg1NSwiaXNzdWVkQXQiOjE3OTEzNzg3MzAzNjl9.mg8pk64ZWEloCNAagNuV6KU_A2jbfPmtnOGQl0LaQFM&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "숲체험 안내 10월 15일(목)에는 숲체험을 갑니다~! 편하게 활동할 수 있도록 체육복과 운동화를 착용해주시고, 모기패치도 함께 붙여서 보내주세요 ! 우일가족운동회 안내 10월 24일(토) 오전 10시, 양천초등학교 운동장에서 우일가족운동회가 예정되어 있습니다~! 10월 12일(월) 아이들 편으로 운동회 참여신청서를 보내드릴 예정이오니 작성하신 후 10월 ",
-   "url": "https://cafe.naver.com/wooilkindy/3444?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indvb2lsa2luZHkiLCJhcnRpY2xlSWQiOjM0NDQsImlzc3VlZEF0IjoxNzkxMzc4NzMwMzY5fQ.kQ2AC5SQPy9vqW6-ZZp0O1hVyLASLavMe_ot1lPejZo&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "#축제 #체험 #교육 #신청 #아이와 #갈만한곳 #갈곳 #할것 #가족여행 #가족나들이 #가볼만한곳 #무료 #가성비 가족 중 당뇨가 있다면 지원 가능해요 뭔가 캠프에 가기 위해 기업 제품 사용하고 기록하는게 있는듯 해요 좋은듯 귀찮아 보이고 합니다.",
-   "url": "https://cafe.naver.com/azamom/30751?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImF6YW1vbSIsImFydGljbGVJZCI6MzA3NTEsImlzc3VlZEF0IjoxNzkxMzc4NzMwMzY5fQ.zipaTppqY5NJ1-JsI5j3pYr9Mr3eg5X7bIetIatm-TY&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "가족·친구·연인과 함께 신나는 체험과 화려한 공연을 즐겨보세요 ──────── 일시 · 2026. 10. 16.(금) ~ 10. 17.(토) / 16:00~21:00 장소 · 충주고구려비전시관 일원 (충주시 중앙탑면 감노로 2318)... 의복·헤어·메이크업 체험 · 어린이 역사 골든벨 · ️ 스탬프 투어 · 고구려 사냥꾼 체험 · 고구려 장수를 찾아라 (",
-   "url": "https://cafe.naver.com/bluegraydnbk8/150999?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJsdWVncmF5ZG5iazgiLCJhcnRpY2xlSWQiOjE1MDk5OSwiaXNzdWVkQXQiOjE3OTEzNzg3MzAzNjl9.Eas03hCPE9fv-LrnN2wzIJe2QMNYt6q_qSX5ryA-D-I&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "가평은 드라이브하기도 좋고 이렇게 꽃구경하기에도 정말 좋은 것 같아요~ 다음에는 가족들이랑도 한번 같이 와보고 싶네요^^ 2. 선택한 주제에 맞게 글 작성 • [등업] 말머리 필수 • 본문 : 주제에 맞는 사진 1장 필수 + 4~5줄 글 작성 ❌링크, 첨부파일 : 규칙위반=활정.❌ ❌게시글 댓글 막기 = 활정❌ • 제목 : 주제에 맞는 제목 ❌안녕하세요, ",
-   "url": "https://cafe.naver.com/masanmam/7549481?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hc2FubWFtIiwiYXJ0aWNsZUlkIjo3NTQ5NDgxLCJpc3N1ZWRBdCI6MTc5MTM3ODczMDM2OX0._7FXzP09-S70iuA8duur6dlESnbND5kFunSEE9_0FoM&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "▶ 행사 일시: 10월 24일(토) 09:00 ~ 15:00 ▶ 행사 장소: 희망브리지 파주재해구호물류센터 ▶ 주요 프로그램: - 재난안전체험교육 퀘스트 4 - 이재민 구호 허브, 재난구호물류센터 투어 및 1일 구호키트 디렉터 체험 - 후원자와 함께하는 '희망이음 토크쇼' - 맛있는 점심 도시락 제공 ▶ 상세 안내 및 참가 신청하기: https://buly",
-   "url": "https://cafe.naver.com/seagullfin/3572?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNlYWd1bGxmaW4iLCJhcnRpY2xlSWQiOjM1NzIsImlzc3VlZEF0IjoxNzkxMzc4NzMwMzY5fQ.pRBQjMnkEtr9sCRa2OzMGBxcO7nnehWGbs0sdsfJf_c&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "체험존 프로그램: 피클볼 라켓을 직접 잡아보는 원포인트 체험 교실부터 다채로운 뉴스포츠 체험 부스가 현장에 마련되어 가족, 친구, 응원단 모두가 함께 즐길 수 있습니다. 찾아오시는 길 & 대회 신청 바로가기 대회 장소: 반월체육센터 (경기도 화성시 반월체육공원길 92 / 지번: 반월동 968) 주차 안내: 센터 주차장 이용 가능 (주말 행사 시 혼잡할 수 ",
-   "url": "https://cafe.naver.com/pickleball/3424?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBpY2tsZWJhbGwiLCJhcnRpY2xlSWQiOjM0MjQsImlzc3VlZEF0IjoxNzkxMzc4NzMwMzY5fQ.4vU876rGzgJWt2xgoVpsFsC4xjkoMZvO-3YNpIS9oKc&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "특별체험을 신청 할 수 있어서 감사했죠~ 누룩과 꼬두밥을 넣어서~ 발효를 시켜야하는데~~ 저는 알콜을 진짜 못먹어서 ㅋㅋ 그런데 술은 빚어보고 싶었어요. 요렇게 술을 만들고 페어링할 수 있게 간단한 다과와 술을 주신답니다. 물론 맛은 수저로 콕 찍어서만 먹어봤어요. ( 알쓰라서~ 마실 수가 없어요. ) 탁주 맑은주 도수는 7~40넘는 도수 까지 있는데~ 운",
-   "url": "https://cafe.naver.com/mynolto/4965?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im15bm9sdG8iLCJhcnRpY2xlSWQiOjQ5NjUsImlzc3VlZEF0IjoxNzkxMzc4NzMwMzY5fQ.nqP3-3cejisCV-JWeNsrf4JiXOuDvQ8JCWFFvdJUT2w&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "장소 : 구미시가족센터 공동육아나눔터 (송정대로86) 4. 내용 : 유아 자녀와 보호자가 함께하는 과학 실험 (중심잡는 삐에로와 화산폭발) 5. 신청기간 : ~ 10월 21일 (수) * 대기자로 접수 후 선정 시 10월 22일(목) 개별 안내 6. 신청방법 : 구미시가족센터 홈페이지>프로그램 안내>프로그램 신청>꼬마 과학자 검색 7. 문의전화 : 054-4",
-   "url": "https://cafe.naver.com/gumimom7/6739484?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imd1bWltb203IiwiYXJ0aWNsZUlkIjo2NzM5NDg0LCJpc3N1ZWRBdCI6MTc5MTM3ODczMDM3MH0.3scYCiyAXzl3gEUPFS66kE1dp6OpYllMSKekWngw3Qw&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "10일 낙화 이벤트 신청하여고 이체하려고 하는데, 계좌를 못찾겠네요ㅠ 어디서 확인가능할까요??",
-   "url": "https://cafe.naver.com/nangcamp/60764?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5hbmdjYW1wIiwiYXJ0aWNsZUlkIjo2MDc2NCwiaXNzdWVkQXQiOjE3OTEzNzg3MzAzNzB9.7_8TzrTysUnuvnMstM6P7W_yKZqZq6TbAPYF6j8HSXM&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": ":) [숲 체험 안내] 15일(목)에는 숲체험이 예정되어있습니다. 체육복과 운동화를 착용하여 9시 30분까지 늦지 않게 등원부탁드립니다. [우일가족운동회 준비 안내] 우일가족운동회 개최에 앞서 원활한 운동회 진행에 필요한 준비를 위하여 각 가정의 참석인원을 파악하고자 합니다. 12일(월)에 아이들 편으로 '운동회 참여신청서'를 보내드리니 작성 후 13일(화",
-   "url": "https://cafe.naver.com/wooilkindy/3442?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indvb2lsa2luZHkiLCJhcnRpY2xlSWQiOjM0NDIsImlzc3VlZEF0IjoxNzkxMzc4NzMwMzcwfQ.IoNz1U07myv0aTUAEA6vCKbcJGYoSt_SxZMOsXnRMG4&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "특히 가족 수가 적거나 가끔 감자 요리를 하는 집이라면 소량 구성이 오히려 편할 때가 있습니다. 이 제품은 총중량 500g, 원산지 국내산으로 표시되어 있습니다. 개수는 감자 크기에 따라 달라질 수 있으므로 몇 개가 들어 있는지를 기준으로 보기보다는 500g이라는 중량을 기준으로 생각하는 편이 좋겠습니다. 【이미지 5】 감자는 어떻게 보관하는 것이 좋을까요",
-   "url": "https://cafe.naver.com/rev/18555?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJldiIsImFydGljbGVJZCI6MTg1NTUsImlzc3VlZEF0IjoxNzkxMzc4NzMwMzcwfQ.h3JbFN3IhsGece9eQ6U5QL7x_0BYetG-hX3O0idlp0E&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "예산군청 · 예산군, 착한가격업소 신규 지정 신청 모집 (예산군청 · 10/07) “10월 23일까지 접수… 지정 업소에... 교육활동보호 체험교육 업무담당자 배움자…” 원문: https://news.cne.go.kr/news/view.do?s=news&bbs_id=S2N5&bbs_seq=826974 · 예산 웅산초, '친구사랑 다우리 체육대회 및 책마당 ",
-   "url": "https://cafe.naver.com/naepopedia/293?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5hZXBvcGVkaWEiLCJhcnRpY2xlSWQiOjI5MywiaXNzdWVkQXQiOjE3OTEzNzg3MzAzNzB9.w8-vrDXuyRosQGvndTpeGVChVVELv430G-balVB3Dl0&q=%ea%b6%81%ea%b6%90%20%ea%b0%80%ec%a1%b1%20%ec%b2%b4%ed%97%98%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "전시·체험 프로그램 소식과 문화기관 및 기업의 문화 지원 활동 등 다양한 소식 가운데 가족이 함께 즐길 수 있고 아이의 정서 발달...20분부터 6시까지 진행되며 모집 인원은 600명이다. 참가 신청은 교보문고 홈페이지에서 할 수 있다. 전미영 트렌드코리아컴퍼니...",
-   "url": "http://v.daum.net/v/20261006141143669",
-   "engine": "daum_news",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "참여 신청은 9월 30일부터 진행되며, 자세한 내용은 서대문구립도서관 누리집에서 확인할 수 있다. 남가좌새롬어린이도서관 관계자는 \"퇴근 후 바쁜 일상을 보내는 성인 이용자들이 영화와 인문학을 통해 삶의 활력을 찾고 깊이 있는 소통을 나누는 계기가 되기를...",
-   "url": "http://v.daum.net/v/20261001192959885",
-   "engine": "daum_news",
-   "query": "궁궐 가족 체험 신청",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "특히 올해는 백일홍과 코스모스 등 가을꽃뿐만 아니라 불꽃놀이, 콘서트, J-라이트런, 먹거리와 체험까지 함께 즐길 수 있어 가족 나들이부터 연인들의 가을 데이트까지 두루... 장성군은 축제를 앞두고 식당 부스와 푸드트럭, 간단 먹거리 운영업체 등을 모집했으며 장성군 농특산물 직거래장터도 운영합니다. 직거래장터는 축제 기간인 10월 8일부터 11일까지 운영될",
-   "url": "https://blog.naver.com/hanhonggyu911017/224434476524",
-   "engine": "naver_blog",
-   "query": "추수 체험 가족 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "16:00 모집 정원 80명 (초등 1학년 이상, 1인당 최대 5명 예약 가능) 위치 대전 유성구 과학로 169-148 한국핵융합에너지연구원 지참물 성인(실물 신분증), 미성년자(가족관계증명서 또는 여권) [마무리하며] 세계적인 수준의 인공태양 KSTAR 장치를... 바래요@ #한국핵융합에너지연구원 #KSTAR견학 #대덕특구주말개방 #대전아이와가볼만한곳 #",
-   "url": "https://blog.naver.com/tjrudska82/224434527430",
-   "engine": "naver_blog",
-   "query": "추수 체험 가족 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "예를 들어 진로탐색과 상담을 통해 자신의 관심과 역량을 이해한 학생에게 적절한 진로체험 프로그램을 안내하는 활동이 해당할 수 있습니다. 핵심은 학생 이해 → 적절한 선택 또는 배치 입니다. 8. 추수활동｜끝난 뒤에도 확인한다 생활지도는 한 번 상담했다고 끝나는 활동이 아닙니다. 학생이 실제로 변화하고 적응하고 있는지 이후에도 확인합니다. 예를 들어... 새",
-   "url": "https://blog.naver.com/01015ccf/224434521381",
-   "engine": "naver_blog",
-   "query": "추수 체험 가족 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "[신입 및 추가 원아모집 안내] 오산 우남꿈터어린이집은 소중한 우리 아이들의 첫 사회생활을 가장 따뜻하고 안전하게 품어주는 영아전담 전문 보육기관입니다. 모집 대상: 영아전담... 늘 따뜻한 믿음과 응원을 보내주시는 학부모님들께 깊이 감사드리며, 가족분들과 함께 편안하고 포근한 저녁 시간 보내세요! 감사합니다. ❤️ #오산어린이집 #궐동어린이집... 새 창",
-   "url": "https://blog.naver.com/unct3007/224434520855",
-   "engine": "naver_blog",
-   "query": "추수 체험 가족 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "예술무대 산의 대형 구조물 체험, 농구 에어바운스, 유로번지, 경찰·소방 체험, Ai 포토존, 무드등 만들기, 에코백 꽃물 들이기, 주민 참여형 공공미술, 허브정원, 가족사랑 우체통... 참여와 이벤트 거리 퍼레이드 참가자 모집 양천구 주민을 대상으로 20팀을 선착순 모집하며, 구글폼을 통해 온라인 접수가 가능합니다. 테마송에 맞춘 단체 퍼포먼스와 퍼레이드",
-   "url": "https://blog.naver.com/gksk920522/224434515950",
-   "engine": "naver_blog",
-   "query": "추수 체험 가족 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "- (참여방법) 선착순 온라인 접수 (국립과천과학관 홈페이지 ▶ 통합예약 ▶ 개인 ▶ 프로그램) - (모집기간) 10.7.(수) 10:00 ~ 10.14.(수) 23:59 까지 - (참 가 비) 가족당 20,000원 (10.14(수) 까지 취소 시 전액 환불) ※ 기상 악화시 행사 취소 및 전액 환불 ※ 연간회원 10,000원 연간회원의 경우 예약 시 참가",
-   "url": "https://blog.naver.com/liedesfreud/224434487392",
-   "engine": "naver_blog",
-   "query": "추수 체험 가족 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "알아보니까 원주 부업거리는 지역 맘카페와 당근마켓 알바 게시판, 블로그 체험단 모집 글에 제일 많이 올라오더라고요. 처음엔 큰 구인 사이트만 봤는데 원주 지역으로 걸러 보면... 처음엔 가족과 친구들 집에 오래된 정수기를 바꿔 주면서 금방 몇 건이 나왔어요. 원주 지역 할인 조건과 설치 일정을 같이 안내하니 반응도 나쁘지 않았어요. 문제는 연락할 수 있는 ",
-   "url": "https://blog.naver.com/wlgh2903/224429630402",
-   "engine": "naver_blog",
-   "query": "추수 체험 가족 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "운영 • 체험 부스 : 여주빵 만들기, 한글쿠키 만들기, 핑거푸드/스퀴시/키링 만들기 등 아이들과 함께 즐길 거리도... 이게 제일로 구경하는 것도 재미가 있을 거 같아용❤️❤️ 특별 이벤트: 빵 코스프레 참가자 모집! • 일시 : 10월... 출렁다리에서 가족, 연인, 친구와 함께 특별한 추억 만들어보세용! 앞으로의 다양한 여주축제 공유할게용... 새 창",
-   "url": "https://blog.naver.com/sugarmom0313/224434486088",
-   "engine": "naver_blog",
-   "query": "추수 체험 가족 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "예를 들어, 도심에서 주로 주행합니다면 경제성과 주차 편의성을 중시해야 하고, 가족 여행에 적합한가에 대한 요소도... 두 번째, 제원 모집 단계에서는 차량 옵션, 가격, 성능 등을 종합적으로 비교합니다. 이후, 원하는 모델의 예약이나... 인근의 공식 대리점에서 제공하는 시승 체험을 이용하는 것이 권장됩니다. 이를 통해 가시적 확인을 할 수 있습니다...",
-   "url": "https://blog.naver.com/nonpoperyzrb/224434483821",
-   "engine": "naver_blog",
-   "query": "추수 체험 가족 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "최고의 명장면 (신선한 기획): 무대 위에서 펼쳐진 '무궁화 꽃이 피었습니다' 전래놀이를 통해 아이들이 자연스럽게 '정지 동작'과 마임의 기본 원리를 온몸으로 체험한 관객 참여형... 관람료 / 모집 전액 무료 / 어린이 동반 가족 30팀 선착순 도봉구통합도서관 홈페이지 사전 접수 출연 마임배우 이정훈 배우 (극단 작은아이) 섬세한 연기력의 마임이스트 (영",
-   "url": "https://blog.naver.com/yoonk526/224434480226",
-   "engine": "naver_blog",
-   "query": "추수 체험 가족 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "뚜벅뚜벅 억새탐험대 아이들이 미션을 수행하며 억새밭과 서창천을 탐방하는 가족 체험입니다. 매일 오후 2시, 3시, 4시에 진행되며 한 회당 약 40분이 소요됩니다. 회당 모집인원은 20명으로 사전신청과 현장 선착순 접수를 함께 진행합니다. 자세한 신청 여부는 공식 대표 프로그램 안내에서 확인하세요. SG 억새밭 라운지 LP 음악과 신청곡을 들으며 쉬어갈 수",
-   "url": "https://blog.naver.com/dudwns0987/224434479893",
-   "engine": "naver_blog",
-   "query": "추수 체험 가족 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "추천 포인트 : 김장체험·가족여행·먹거리 ③ 제주올레걷기축제 기간 : 2026년 11월 5일~7일 장소 : 제주올레길 일원 참가비 : 유료 제주의 가을 풍경을 보면서 올레길을 걷는... 파주시는 2026년 축제를 11월 27일부터 29일까지 3일간 개최한다고 공식 모집 공고를 통해 안내했습니다. 참고로 2025년에는 11월 21일부터 23일까지 열렸습니다.",
-   "url": "https://blog.naver.com/solutiondrawer/224433341194",
-   "engine": "naver_blog",
-   "query": "추수 체험 가족 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "2026년에도 공식 프로그램으로 확정됐고, 축제 측은 현재 100인100미 퍼포먼스 참여자 모집도 진행 중입니다. 모집기간: 9월 21일부터 10월 11일까지입니다. 커피를 좋아한다면 이번... 올해 공식 프로그램에 키즈놀이터와 커피운동회가 포함돼 있고, 커피체험존과 마켓, 버스킹 등도 함께 열리기 때문에 가족 단위로 방문해도 즐길거리가 있습니다. 한 사람",
-   "url": "https://blog.naver.com/dailycurio/224434478973",
-   "engine": "naver_blog",
-   "query": "추수 체험 가족 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "10월 17일 토요일, 반려견 가족운동회와 공연, 체험부스가 열립니다. 반려견을 동반한 가족뿐 아니라 비반려인도 참여하는 축제입니다. 반려견 축제를 주제로 만든 AI... 신청 페이지는 10월 7일 조회 당시 열려 있었으며, 모집 정원과 마감일은 별도로 표시되어 있지 않았습니다. 반려견 가족운동회 사전 신청 주차 안내는 재능대학교 송도캠퍼스로 연결됩니다 행",
-   "url": "https://blog.naver.com/songdo-life/224434472191",
-   "engine": "naver_blog",
-   "query": "추수 체험 가족 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
-  },
-  {
-   "title": "10월 11일 사전예약 마감 한글노래 경연대회 10월 9일 참가 모집 마감 예약을 못 했다고 세종한글축제를 못 가는 건 아니다. 축제장에는 별도 사전예약 없이 둘러보거나 참여할 수 있는 상설 체험과 볼거리가 많다. 따라서 지금 가족 나들이를 결정했다면 예약 프로그램보다 현장 상설 체험과 공연을 중심으로 일정을 짜는 게 현실적이다. 취소분이나 추가 현장 접수",
-   "url": "https://blog.naver.com/eahoho/224434176374",
-   "engine": "naver_blog",
-   "query": "추수 체험 가족 모집",
-   "first_seen": "2026-10-07T22:07:13+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "naver_blog '가족 여행비 지원 모집': HTTP Error 403: Forbidden",
+  "naver_news '가족 여행비 지원 모집': HTTP Error 403: Forbidden",
+  "naver_cafe '가족 여행비 지원 모집': HTTP Error 403: Forbidden",
+  "naver_blog '숙박 할인 쿠폰 지원': HTTP Error 403: Forbidden",
+  "naver_news '숙박 할인 쿠폰 지원': HTTP Error 403: Forbidden",
+  "naver_cafe '숙박 할인 쿠폰 지원': HTTP Error 403: Forbidden",
+  "naver_blog '숙박세일페스타': HTTP Error 403: Forbidden",
+  "naver_news '숙박세일페스타': HTTP Error 403: Forbidden",
+  "naver_cafe '숙박세일페스타': HTTP Error 403: Forbidden",
+  "naver_blog '반값여행 신청': HTTP Error 403: Forbidden",
+  "naver_news '반값여행 신청': HTTP Error 403: Forbidden",
+  "naver_cafe '반값여행 신청': HTTP Error 403: Forbidden",
+  "naver_blog '지역화폐 캐시백 방문객': HTTP Error 403: Forbidden",
+  "naver_news '지역화폐 캐시백 방문객': HTTP Error 403: Forbidden",
+  "naver_cafe '지역화폐 캐시백 방문객': HTTP Error 403: Forbidden",
+  "naver_blog '한달살기 모집 가족': HTTP Error 403: Forbidden",
+  "naver_news '한달살기 모집 가족': HTTP Error 403: Forbidden",
+  "naver_cafe '한달살기 모집 가족': HTTP Error 403: Forbidden",
+  "naver_blog '농촌체험 가족 무료': HTTP Error 403: Forbidden",
+  "naver_news '농촌체험 가족 무료': HTTP Error 403: Forbidden",
+  "naver_cafe '농촌체험 가족 무료': HTTP Error 403: Forbidden",
+  "naver_blog '섬여행 지원 신청': HTTP Error 403: Forbidden",
+  "naver_news '섬여행 지원 신청': HTTP Error 403: Forbidden",
+  "naver_cafe '섬여행 지원 신청': HTTP Error 403: Forbidden",
+  "naver_blog '다자녀 가족 무료 체험': HTTP Error 403: Forbidden",
+  "naver_news '다자녀 가족 무료 체험': HTTP Error 403: Forbidden",
+  "naver_cafe '다자녀 가족 무료 체험': HTTP Error 403: Forbidden",
+  "naver_blog '다자녀 할인 대전': HTTP Error 403: Forbidden",
+  "naver_news '다자녀 할인 대전': HTTP Error 403: Forbidden",
+  "naver_cafe '다자녀 할인 대전': HTTP Error 403: Forbidden"
+ ]
 }

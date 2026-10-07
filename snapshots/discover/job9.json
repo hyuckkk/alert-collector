@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T22:07:13+09:00",
+ "updated": "2026-10-07T22:39:56+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -73,14 +73,17 @@
    "engine": "naver_blog",
    "query": "대청댐 수문",
    "first_seen": "2026-10-01T19:08:06+09:00"
-  },
-  {
-   "title": "대청호에 모였다가 대청댐을 통해 방류된 물은 다시 한번 조정지댐을 거쳐 대전과 세종, 충남의 대지를 적시고 바다로 흘러간다. 유유히 흐르는 강물을 바라보며 느긋하게 '물멍'을 즐기고, 도심 속 답답함을 잊고 평화롭고 한적한 분위기를 맘껏 누린다. 용호동에 위치한 해든학교는 공립 특수학교다. 대전해든학교 바로 옆에 위치한 대형 한옥 카페 두두당은, 대청호와.",
-   "url": "https://blog.naver.com/msmapark100/224426448919",
-   "engine": "naver_blog",
-   "query": "대청댐 방류",
-   "first_seen": "2026-09-30T22:38:01+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "naver_blog '대청댐 방류': HTTP Error 403: Forbidden",
+  "naver_news '대청댐 방류': HTTP Error 403: Forbidden",
+  "naver_cafe '대청댐 방류': HTTP Error 403: Forbidden",
+  "naver_blog '대청댐 수문': HTTP Error 403: Forbidden",
+  "naver_news '대청댐 수문': HTTP Error 403: Forbidden",
+  "naver_cafe '대청댐 수문': HTTP Error 403: Forbidden",
+  "naver_blog '대청댐 홍수조절': HTTP Error 403: Forbidden",
+  "naver_news '대청댐 홍수조절': HTTP Error 403: Forbidden",
+  "naver_cafe '대청댐 홍수조절': HTTP Error 403: Forbidden"
+ ]
 }
