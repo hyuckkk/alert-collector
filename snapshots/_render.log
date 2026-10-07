@@ -1,14 +1,11 @@
-[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
-
+[yuseong-round-event] rendered 1326 chars CHANGED
 [seogu-yeyak] rendered 1971 chars CHANGED
 [pyoungsong] rendered 824 chars same
 [djkids-musical] rendered 1618 chars CHANGED
 [djkids-notice] rendered 1023 chars CHANGED
 [dctf] rendered 1492 chars same
-[nol-family] rendered 2282 chars CHANGED
-[ticketlink-notice] RENDER ERROR rendered but too little text (0 chars)
+[nol-family] rendered 2287 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
 [oworld-notice] rendered 1067 chars same
 [baekje-schedule] rendered 1692 chars CHANGED
 [geumriver-dam] rendered 1983 chars CHANGED
@@ -16,7 +13,7 @@ Call log:
 [pyeongtaek-main] rendered 7162 chars CHANGED
 [kopis-daejeon-kids] rendered 4441 chars same
 [kwater-realtime-multidam] rendered 3752 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 2081 chars CHANGED
+[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.14/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/22471']' timed out after 50 seconds
 [gongjeon-kids] rendered 482 chars CHANGED
 [navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
 [katc-schedule] rendered 688 chars CHANGED
@@ -30,7 +27,7 @@ Call log:
 
 [science-reservation] rendered 1436 chars CHANGED
 [khs-notice] rendered 309 chars same
-[royal-khs-events] rendered 2739 chars same
+[royal-khs-events] rendered 2739 chars CHANGED
 [expo-park] rendered 762 chars CHANGED
-[nol-upcoming-notice] rendered 1187 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 1305 chars CHANGED
+[nol-upcoming-notice] rendered 1281 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 1269 chars CHANGED
