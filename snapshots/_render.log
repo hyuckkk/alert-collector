@@ -1,11 +1,14 @@
-[yuseong-round-event] rendered 1328 chars CHANGED
+[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
+
 [seogu-yeyak] rendered 1971 chars CHANGED
-[pyoungsong] rendered 824 chars CHANGED
+[pyoungsong] rendered 824 chars same
 [djkids-musical] rendered 1618 chars CHANGED
 [djkids-notice] rendered 1023 chars CHANGED
 [dctf] RENDER ERROR rendered but too little text (0 chars)
-[nol-family] rendered 2275 chars CHANGED
-[ticketlink-notice] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/help/notice']' timed out after 50 seconds
+[nol-family] rendered 2283 chars CHANGED
+[ticketlink-notice] RENDER ERROR rendered but too little text (0 chars)
 [oworld-notice] rendered 1067 chars same
 [baekje-schedule] rendered 1692 chars CHANGED
 [geumriver-dam] rendered 1983 chars CHANGED
@@ -13,22 +16,27 @@
 [pyeongtaek-main] rendered 7163 chars CHANGED
 [kopis-daejeon-kids] rendered 4441 chars same
 [kwater-realtime-multidam] rendered 3753 chars CHANGED
-[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.ticketlink.co.kr/product/22471", waiting until "domcontentloaded"
-
+[ticketlink-kids-cat-daejeon] rendered 2542 chars CHANGED
 [gongjeon-kids] rendered 482 chars CHANGED
-[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
-[katc-schedule] rendered 687 chars CHANGED
-[mnd-main] rendered 3349 chars same
+[navy-visit-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000", waiting until "domcontentloaded"
+
+[katc-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.katc.mil.kr/katc/guide/schedule.jsp", waiting until "domcontentloaded"
+
 [fsale-main] rendered 357 chars same
 [fsale-onnuri] rendered 361 chars same
 [gcfct-schedule] rendered 372 chars CHANGED
-[mokwon-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.mokwon.ac.kr/kr/html/sub03/030102.html", waiting until "domcontentloaded"
-
+[mokwon-events] rendered 948 chars CHANGED
 [science-reservation] rendered 1436 chars CHANGED
 [khs-notice] rendered 309 chars same
 [royal-khs-events] rendered 2739 chars CHANGED
 [expo-park] rendered 735 chars CHANGED
+[nol-upcoming-notice] rendered 1187 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 1154 chars CHANGED
+[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
+[ticketlink-notice-mobile] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[pyoungsong-performance] rendered 953 chars same
+[kopis-time-beyond-daejeon] rendered 632 chars same
