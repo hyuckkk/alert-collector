@@ -1,34 +1,41 @@
-[yuseong-round-event] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.14/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do']' timed out after 50 seconds
-[seogu-yeyak] rendered 1971 chars CHANGED
-[pyoungsong] rendered 824 chars CHANGED
+[yuseong-round-event] rendered 1328 chars CHANGED
+[seogu-yeyak] rendered 1971 chars same
+[pyoungsong] RENDER ERROR rendered but too little text (19 chars)
 [djkids-musical] rendered 1618 chars CHANGED
 [djkids-notice] rendered 1023 chars CHANGED
 [dctf] RENDER ERROR rendered but too little text (0 chars)
-[nol-family] rendered 2275 chars CHANGED
-[ticketlink-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.ticketlink.co.kr/help/notice", waiting until "domcontentloaded"
-
+[nol-family] rendered 2285 chars CHANGED
+[ticketlink-notice] RENDER ERROR rendered but too little text (0 chars)
 [oworld-notice] rendered 1067 chars same
-[baekje-schedule] rendered 1692 chars CHANGED
+[baekje-schedule] rendered 1692 chars same
 [geumriver-dam] rendered 1983 chars CHANGED
-[woosongart-schedule] rendered 590 chars CHANGED
+[woosongart-schedule] rendered 590 chars same
 [pyeongtaek-main] rendered 7163 chars CHANGED
 [kopis-daejeon-kids] rendered 4441 chars same
 [kwater-realtime-multidam] rendered 3751 chars CHANGED
-[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.14/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/22471']' timed out after 50 seconds
-[gongjeon-kids] rendered 482 chars CHANGED
+[ticketlink-kids-cat-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[gongjeon-kids] rendered 482 chars same
 [navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
 [katc-schedule] rendered 687 chars CHANGED
 [mnd-main] rendered 3349 chars same
-[fsale-main] rendered 357 chars same
-[fsale-onnuri] rendered 361 chars same
+[fsale-main] RENDER ERROR rendered but too little text (19 chars)
+[fsale-onnuri] RENDER ERROR rendered but too little text (19 chars)
 [gcfct-schedule] rendered 371 chars CHANGED
 [mokwon-events] rendered 948 chars CHANGED
-[science-reservation] rendered 1436 chars CHANGED
+[science-reservation] rendered 1436 chars same
 [khs-notice] rendered 309 chars same
-[royal-khs-events] rendered 2739 chars same
+[royal-khs-events] rendered 2739 chars CHANGED
 [expo-park] rendered 735 chars CHANGED
-[nol-upcoming-notice] rendered 1248 chars CHANGED
+[nol-upcoming-notice] rendered 1255 chars CHANGED
 [nol-notice-kotgumeong-daejeon] rendered 1245 chars CHANGED
 [kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
+[ticketlink-notice-mobile] RENDER ERROR rendered but too little text (31 chars)
+[pyoungsong-performance] RENDER ERROR rendered but too little text (19 chars)
+[kopis-time-beyond-daejeon] rendered 632 chars same
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[dsecc-programs] rendered 1943 chars CHANGED
+[seogu-exprn-list] rendered 2459 chars CHANGED
+[seogu-event-list] rendered 2459 chars CHANGED
+[seogu-edu-list] rendered 2465 chars CHANGED
+[daejeon-its-board] rendered 3573 chars CHANGED
+[zeropay-events] rendered 525 chars CHANGED
