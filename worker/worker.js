@@ -19,7 +19,7 @@
 const CATS = ["show", "sale", "military", "fireworks", "dam", "invest"];
 const BOT_LABEL = { show: "Show", sale: "Sale", military: "Military experience", fireworks: "Fireworks", dam: "Dam", invest: "Invest" };
 const ORIGIN = "https://telegram-relay.jinhyuck77-b13.workers.dev";
-const BUILD = "2026-10-07-sender-v2";
+const BUILD = "2026-10-07-sender-v3";
 // Free plan: 50 subrequests per invocation. Every GitHub/Telegram call is counted; optional work stops
 // early so that the claim commit (4) and the result commit (8 per attempt) always fit.
 let SUB = 0;
@@ -487,17 +487,31 @@ async function ensureWebhooks(env) {
   }
 }
 
+// GitHub's own schedule for the public collector repo proved unreliable (nothing ran 16:00-21:00 on 10/7),
+// so this Worker starts collection itself by committing a tick file; the workflows run on push of that path.
+const COLLECTOR = "hyuckkk/alert-collector";
+async function tickCollector(env, which) {
+  const url = `https://api.github.com/repos/${COLLECTOR}/contents/ticks/${which}`;
+  const h = { authorization: `Bearer ${env.GH_TOKEN}`, accept: "application/vnd.github+json", "user-agent": "telegram-relay-worker", "content-type": "application/json" };
+  const cur = await fetch(url, { headers: h });
+  const sha = cur.ok ? (await cur.json()).sha : undefined;
+  const r = await fetch(url, { method: "PUT", headers: h, body: JSON.stringify({ message: `tick ${which}`, content: btoa(nowIso() + "\n"), sha }) });
+  return { which, status: r.status };
+}
+let lastTick = null;
 let lastStatus = null;
 export default {
   async scheduled(event, env, ctx) {
     ctx.waitUntil((async () => {
       if (event.cron === "2 * * * *") { SUB = 0; await ensureWebhooks(env); return; } // hourly, own invocation
+      if (event.cron === "17,47 * * * *") { lastTick = await tickCollector(env, "fetch").catch((e) => ({ error: String(e) })); return; }
+      if (event.cron === "7 * * * *") { lastTick = await tickCollector(env, "discover").catch((e) => ({ error: String(e) })); return; }
       try { lastStatus = await run(env); } catch (e) { lastStatus = { build: BUILD, at: nowIso(), error: String(e && e.message).slice(0, 200) }; }
     })());
   },
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
-    if (url.pathname === "/health") return new Response(JSON.stringify({ ok: true, build: BUILD, last: lastStatus }), { headers: { "content-type": "application/json" } });
+    if (url.pathname === "/health") return new Response(JSON.stringify({ ok: true, build: BUILD, last: lastStatus, tick: lastTick }), { headers: { "content-type": "application/json" } });
     if (url.pathname === "/run" && url.searchParams.get("key") === env.HOOK_SECRET) {
       const r = await run(env).catch((e) => ({ error: String(e && e.message) })); lastStatus = r;
       return new Response(JSON.stringify(r, null, 2), { headers: { "content-type": "application/json" } });

@@ -32,6 +32,6 @@ jobs:
           code2=$(curl -sS -o resp2.json -w "%{http_code}" -X PUT \
             "https://api.cloudflare.com/client/v4/accounts/$CF_ACCOUNT_ID/workers/scripts/$SCRIPT/schedules" \
             -H "Authorization: Bearer $CF_API_TOKEN" -H "Content-Type: application/json" \
-            --data '[{"cron":"*/5 * * * *"},{"cron":"2 * * * *"}]')
+            --data '[{"cron":"*/5 * * * *"},{"cron":"2 * * * *"},{"cron":"7 * * * *"},{"cron":"17,47 * * * *"}]')
           echo "schedules HTTP $code2"; python3 -c "import json;d=json.load(open('resp2.json'));print('success:',d.get('success'));print(d.get('result'));print(d.get('errors'))"
           case "$code2" in 2*) ;; *) exit 1;; esac

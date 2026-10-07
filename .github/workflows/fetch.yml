@@ -4,7 +4,7 @@ on:
     - cron: "17,47 * * * *"
   push:
     branches: [main]
-    paths: ["watch/urls.json"]
+    paths: ["watch/urls.json", "ticks/fetch"]
   workflow_dispatch:
 concurrency:
   group: fetch
