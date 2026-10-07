@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-08T06:07:12+09:00",
+ "updated": "2026-10-08T07:07:13+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "* 1979년 10월 8일 – 대한민국 첫 관개용 '대청다목적댐' 물막이 공사 완료 * 금강 수계의 대청댐 본체 공사가 막바지에 다다르며 수문 설치 및 물막이 작업이 완료되어 대전·충청 지역의 용수 공급과 홍수 조절에 기여하게 되었습니다. * 1997년 10월 8일 – 남북 경의선 도로·철도 연결을 위한 실무 접촉 논의 * 남북 간 경제 협력과 교류를 위한",
@@ -89,5 +89,15 @@
    "first_seen": "2026-10-01T19:08:06+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "naver_blog '대청댐 방류': HTTP Error 403: Forbidden",
+  "naver_news '대청댐 방류': HTTP Error 403: Forbidden",
+  "naver_cafe '대청댐 방류': HTTP Error 403: Forbidden",
+  "naver_blog '대청댐 수문': HTTP Error 403: Forbidden",
+  "naver_news '대청댐 수문': HTTP Error 403: Forbidden",
+  "naver_cafe '대청댐 수문': HTTP Error 403: Forbidden",
+  "naver_blog '대청댐 홍수조절': HTTP Error 403: Forbidden",
+  "naver_news '대청댐 홍수조절': HTTP Error 403: Forbidden",
+  "naver_cafe '대청댐 홍수조절': HTTP Error 403: Forbidden"
+ ]
 }
