@@ -744,5 +744,17 @@
     "url": "https://m.woorisavingsbank.com/product/deposite/view.do?prdSn=325",
     "render": true,
     "note": "JOB13: 우리금융저축은행 상품 상세(TOK7 적금 추정) — 기본·우대금리·판매한도 확인용, WebFetch robots 타임아웃. 2026-10-05 추가"
+  },
+  {
+    "id": "mommom-sandmagic-a",
+    "url": "https://mom-mom.net/travel/places/6a6fff6990947ad2c40e40da",
+    "note": "가족공연 판매 페이지(샌드매직쇼 사라진 모래상자, 대전/부산 회차) — JOB1, 클라우드 WebFetch 차단",
+    "render": true
+  },
+  {
+    "id": "mommom-sandmagic-b",
+    "url": "https://mom-mom.net/travel/places/6a583bb00c06be407d755ad0",
+    "note": "가족공연 판매 페이지(샌드매직쇼 사라진 모래상자) — JOB1, 클라우드 WebFetch 차단",
+    "render": true
   }
 ]
