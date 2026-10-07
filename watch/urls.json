@@ -1,815 +1,815 @@
 [
-  {
-    "id": "yuseong-anytime-event",
-    "url": "https://www.yuseong.go.kr/prog/anytmevt/kor/sub03_18_01/list.do",
-    "note": "유성구청 예약 > 수시 행사접수창구 (라떼파파 등 가족 프로그램 접수)"
-  },
-  {
-    "id": "yuseong-anytime-edu",
-    "url": "https://www.yuseong.go.kr/prog/anytmedc/kor/sub03_19_01/list.do",
-    "note": "유성구청 예약 > 수시 교육접수창구"
-  },
-  {
-    "id": "yuseong-round-event",
-    "url": "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do",
-    "note": "유성구청 예약 > 회차 행사접수창구",
-    "render": true
-  },
-  {
-    "id": "yuseong-playground",
-    "url": "https://www.yuseong.go.kr/prog/plygrnd/kor/sub03_25_01/list.do",
-    "note": "유성구청 예약 > 놀이 관련 접수(확인용)"
-  },
-  {
-    "id": "seogu-yeyak",
-    "url": "https://www.seogu.go.kr/yeyak/index.do",
-    "note": "대전 서구 통합예약",
-    "render": true
-  },
-  {
-    "id": "seogu-event",
-    "url": "https://www.seogu.go.kr/prog/event/kor/sub03_10/list.do",
-    "note": "대전 서구 행사 게시판"
-  },
-  {
-    "id": "daejeon-okr",
-    "url": "https://www.daejeon.go.kr/okr2019/index.do",
-    "note": "대전시 OK예약서비스 메인"
-  },
-  {
-    "id": "sejong-main",
-    "url": "https://www.sejong.go.kr/kor.do",
-    "note": "세종시청 — 도달성 확인(재시도)"
-  },
-  {
-    "id": "djac-performance",
-    "url": "https://www.daejeon.go.kr/djac/performanceList.do?menuSeq=6709",
-    "note": "대전예술의전당 공연 목록 (JOB1·2)"
-  },
-  {
-    "id": "djac-performance-p2",
-    "url": "https://www.daejeon.go.kr/djac/performanceList.do?menuSeq=6709&pageIndex=2",
-    "note": "대전예술의전당 월간 공연 목록 2페이지 (JOB1·2)"
-  },
-  {
-    "id": "djac-musical-search",
-    "url": "https://www.daejeon.go.kr/djac/performanceList.do?menuSeq=6709&pageIndex=1&searchCondition=4669&searchKeyword=%EB%AE%A4%EC%A7%80%EC%BB%AC",
-    "note": "대전예술의전당 공연 검색 '뮤지컬' (JOB1) — 월간 목록 스냅샷은 1페이지(이번 달)만 잡혀 이후 달 가족뮤지컬 누락 우려, WebFetch는 robots로 차단"
-  },
-  {
-    "id": "kmusic-performance",
-    "url": "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceList.do?menuSeq=6400",
-    "note": "대전시립연정국악원 공연 목록 (JOB1)"
-  },
-  {
-    "id": "pyoungsong",
-    "url": "http://www.pyoungsong.com/",
-    "note": "평송청소년문화센터 (JOB1·2)",
-    "render": true
-  },
-  {
-    "id": "woosongart",
-    "url": "https://woosongart.wsu.ac.kr/",
-    "note": "우송예술회관 (JOB1)"
-  },
-  {
-    "id": "djkids-musical",
-    "url": "https://www.djkids.or.kr/sub.do?key=m2008167894158",
-    "note": "대전어린이회관 어린이뮤지컬 (JOB1)",
-    "render": true
-  },
-  {
-    "id": "djkids-notice",
-    "url": "https://www.djkids.or.kr/bbs/list.do?key=m2008167895194",
-    "note": "대전어린이회관 공지 (JOB1) — 메뉴만 수집돼 JS 렌더로 전환(10/7)",
-    "render": true
-  },
-  {
-    "id": "dctf",
-    "url": "https://www.dcaf.or.kr/",
-    "note": "대전문화재단 (JOB1·2) — dctf.kr DNS 실패 143회로 공식 도메인 dcaf.or.kr로 교체(10/2 JOB1)",
-    "render": true
-  },
-  {
-    "id": "nol-family",
-    "url": "https://nol.yanolja.com/ticket/genre/family",
-    "note": "NOL 가족/어린이 장르 (JOB1)",
-    "render": true
-  },
-  {
-    "id": "ticketlink-notice",
-    "url": "https://www.ticketlink.co.kr/help/notice",
-    "note": "티켓링크 티켓오픈 공지 (JOB1·3)",
-    "render": true
-  },
-  {
-    "id": "yes24-notice",
-    "url": "https://ticket.yes24.com/Notice",
-    "note": "YES24 티켓오픈 공지 (JOB1·3)"
-  },
-  {
-    "id": "oworld-notice",
-    "url": "https://www.oworld.kr/",
-    "note": "대전오월드 메인/공지 (JOB4)"
-  },
-  {
-    "id": "baekje-schedule",
-    "url": "https://gongju.baekje.org/schedule",
-    "note": "백제문화제 일정 (JOB4)",
-    "render": true
-  },
-  {
-    "id": "gcfct-announcement",
-    "url": "https://www.gcfct.org/announcement",
-    "note": "계룡시문화관광재단 공지 (JOB4·6)"
-  },
-  {
-    "id": "kwater-daecheong-notice",
-    "url": "https://www.kwater.or.kr/water/sub01/sub05/20060557/notiList.do?s_mid=1357&s_officecode=10750012&s_flag=1&brdId=KO27",
-    "note": "K-water 대청댐 공지 (JOB9)"
-  },
-  {
-    "id": "geumriver-dam",
-    "url": "https://www.geumriver.go.kr/html/sumun/dm_cnf.jsp",
-    "note": "금강홍수통제소 댐 방류 (JOB9)",
-    "render": true
-  },
-  {
-    "id": "daejeon-safety",
-    "url": "https://www.daejeon.go.kr/saf/index.do",
-    "note": "대전시 재난안전 (JOB9)"
-  },
-  {
-    "id": "woosongart-woogiyuni",
-    "url": "https://woosongart.wsu.ac.kr/proc/art_detail.jsp?id=443",
-    "note": "우송예술회관 우기유니 챌린지쇼 상세 (JOB1, 티켓오픈·가격 확인용)"
-  },
-  {
-    "id": "djkids-oct-peter-wolf",
-    "url": "https://www.djkids.or.kr/bbs/view.do?key=m2008167895194&bbsId=10707",
-    "note": "대전어린이회관 10월작품 피터와 늑대 게시글 (JOB1, 기간·휴연 확인용)"
-  },
-  {
-    "id": "woosongart-schedule",
-    "url": "https://woosongart.wsu.ac.kr/proc/artcalendar.jsp",
-    "note": "우송예술회관 공연일정 캘린더 (JOB1)",
-    "render": true
-  },
-  {
-    "id": "geumriver-dam-now",
-    "url": "https://www.geumriver.go.kr/html/sumun/dm_now.jsp",
-    "note": "금강홍수통제소 댐 실시간 현황(대청댐 수위·방류량, JOB9) — WebFetch 승인대기 반복 실패로 추가"
-  },
-  {
-    "id": "pyeongtaek-main",
-    "url": "https://www.pyeongtaek.go.kr/",
-    "note": "평택시청 메인 — 평택해양페스티벌(10/31 해군2함대 함정공개·항해체험) 신청 안내 감시 (JOB5) ※ 메인·메뉴 페이지라 신청 공고 감지 불가 — 목록 페이지(pyeongtaek-news-board 등)로 보완 (JOB11 2026-09-29)",
-    "render": true
-  },
-  {
-    "id": "kopis-daejeon-kids",
-    "url": "https://www.kopis.or.kr/por/db/pblprfr/pblprfr.do?menuId=MNU_00020",
-    "note": "KOPIS 공연DB 검색 목록(JOB1). 기존 pblprfrList.do 주소가 404로 213회 연속 실패 → 대전 소극장 아동공연(조이마루아트홀 〈소가 된 게으름뱅이〉 10/1 KOPIS 등록) 누락 원인. JOB11 2026-10-03 교체, JS 렌더",
-    "render": true
-  },
-  {
-    "id": "kaist-culture",
-    "url": "https://www.kaist.ac.kr/kr/html/campus/053501.html",
-    "note": "KAIST 문화행사 게시판 (JOB2) — WebFetch robots 차단"
-  },
-  {
-    "id": "cnu-student-notice",
-    "url": "https://cnustudent.cnu.ac.kr/cnustudent/notice/notice.do",
-    "note": "충남대 총학생회 공지 (JOB2 백마대동제) — WebFetch robots 차단"
-  },
-  {
-    "id": "hanbat-notice",
-    "url": "https://www.hanbat.ac.kr/prog/bbs/kor/sub06_0301/list.do",
-    "note": "국립한밭대 공지 (JOB2) — WebFetch 승인대기 실패"
-  },
-  {
-    "id": "kwater-realtime-multidam",
-    "url": "https://www.water.or.kr/kor/realtime/sumun/index.do?mode=vers&menuId=13_91_93_96",
-    "note": "K-water 물정보포털 다목적댐 관리현황(대청댐 수위·방류량, JOB9) — WebFetch로는 수치가 비어 추가",
-    "render": true
-  },
-  {
-    "id": "flood-dam-branch",
-    "url": "https://n.flood.go.kr/observation/dam/branchList.do",
-    "note": "홍수정보시스템 댐 지점 현황(대청댐 수위·방류량, JOB9) — WebFetch robots 시간초과로 추가"
-  },
-  {
-    "id": "ticketlink-kids-cat-daejeon",
-    "url": "https://www.ticketlink.co.kr/product/22471",
-    "note": "티켓링크 뮤지컬 <어린이 캣> - 대전 상품 (JOB1, 일정 미확인 → 스냅샷으로 확인)"
-  },
-  {
-    "id": "gongjeon-kids",
-    "url": "https://gongjeon.kr/product/list.html?cate_no=28",
-    "note": "대전공연전시 어린이/가족 카테고리(JS 렌더, 이전 URL 404 fail_streak 22로 교체, JOB1 2026-09-30)",
-    "render": true
-  },
-  {
-    "id": "navy-visit-notice",
-    "url": "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000",
-    "note": "해군 견학/면회 공지 (JOB5, WebFetch robots timeout 반복) | 2026-10-03 JOB5: 본문 39자 반복(213회) → render true",
-    "render": true
-  },
-  {
-    "id": "katc-schedule",
-    "url": "https://www.katc.mil.kr/katc/guide/schedule.jsp",
-    "note": "육군훈련소 행사일정 (JOB5, WebFetch 실패 반복)",
-    "render": true
-  },
-  {
-    "id": "mnd-main",
-    "url": "https://www.mnd.go.kr/",
-    "note": "국방부 메인 뉴스 (JOB5, WebFetch 실패)"
-  },
-  {
-    "id": "fsale-main",
-    "url": "https://fsale.kr/",
-    "note": "대한민국 수산대전 공식 (JOB8) — WebFetch 본문 미추출"
-  },
-  {
-    "id": "fsale-onnuri",
-    "url": "https://fsale.kr/onnuri1",
-    "note": "수산대전 전통시장 온누리상품권 환급행사 페이지 (JOB8)"
-  },
-  {
-    "id": "gcfct-schedule",
-    "url": "https://www.gcfct.org/festive_schedule",
-    "note": "계룡군문화축제 행사 일정표 (JOB6, WebFetch 승인대기로 실패)",
-    "render": true
-  },
-  {
-    "id": "gcfct-shuttle",
-    "url": "https://www.gcfct.org/shuttle",
-    "note": "계룡군문화축제 셔틀버스 안내 (JOB6)"
-  },
-  {
-    "id": "gcfct-parking",
-    "url": "https://www.gcfct.org/how_to_come",
-    "note": "계룡군문화축제 오시는길·주차장 (JOB6)"
-  },
-  {
-    "id": "gcfct-performance",
-    "url": "https://www.gcfct.org/performance",
-    "note": "계룡군문화축제 공연·체험 (JOB6)"
-  },
-  {
-    "id": "cnu-events-board",
-    "url": "https://plus.cnu.ac.kr/_prog/_board/?code=sub010714&site_dvs_cd=kr&menu_dvs_cd=0712",
-    "note": "충남대 백마광장 > 세미나 및 행사 게시판 (JOB2) — WebFetch robots 타임아웃"
-  },
-  {
-    "id": "mokwon-events",
-    "url": "https://www.mokwon.ac.kr/kr/html/sub03/030102.html",
-    "note": "목원대 행사일정 (JOB2)",
-    "render": true
-  },
-  {
-    "id": "dsa-family-farm",
-    "url": "https://www.dsa.or.kr/apply.html?html=apply%2Fnongchon1.html",
-    "note": "대산농촌재단 가족사랑 농촌체험 모집 현황 (JOB7, WebFetch robots 실패)"
-  },
-  {
-    "id": "visitkorea-tour50",
-    "url": "https://korean.visitkorea.or.kr/dgtourcard/tour50.do",
-    "note": "대한민국 반값여행 지자체별 현황판 (JOB7)"
-  },
-  {
-    "id": "science-schedule",
-    "url": "https://www.science.go.kr/mps/getSchdulCal.do",
-    "note": "국립중앙과학관 행사·공연 일정 (JOB10·JOB1) — 2026-09-29 첫 스냅샷 대기(JOB10 우선)"
-  },
-  {
-    "id": "science-reservation",
-    "url": "https://rsvn.science.go.kr/nsm/evtrsvn/evtrsvnList",
-    "note": "국립중앙과학관 공연·행사 예약 목록 (JOB10·JOB1) — 2026-09-29 첫 스냅샷 대기(JOB10 우선)",
-    "render": true
-  },
-  {
-    "id": "khs-notice",
-    "url": "https://www.khs.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1008&mn=NS_01_02_01",
-    "note": "국가유산청 공지사항 (JOB7: 답사·체험 모집) — 2026-09-30 JOB7: 일반 수집 HTTP 500 49회 연속, render 전환",
-    "render": true
-  },
-  {
-    "id": "royal-khs-events",
-    "url": "https://royal.khs.go.kr/",
-    "note": "궁능유적본부 행사마당 (JOB7·JOB10: 가족 체험) — 2026-09-29 첫 스냅샷 대기(JOB10 우선) — 2026-09-30 21:45 JOB7: 일반 수집 0자, render 전환",
-    "render": true
-  },
-  {
-    "id": "djstar",
-    "url": "https://www.djstar.kr/",
-    "note": "대전시민천문대 (JOB10) — 2026-09-29 첫 스냅샷 대기(JOB10 우선)"
-  },
-  {
-    "id": "hanbat-arboretum",
-    "url": "https://www.daejeon.go.kr/gar/index.do",
-    "note": "한밭수목원 (JOB10) — 2026-09-29 첫 스냅샷 대기(JOB10 우선)"
-  },
-  {
-    "id": "daejeon-museum-art",
-    "url": "https://www.daejeon.go.kr/dma/index.do",
-    "note": "대전시립미술관 (JOB10) — 2026-09-29 첫 스냅샷 대기(JOB10 우선)"
-  },
-  {
-    "id": "expo-park",
-    "url": "https://www.expopark.kr/",
-    "note": "엑스포과학공원 (JOB10·JOB4) — 2026-09-29 첫 스냅샷 대기(JOB10 우선) ※ 현재 URL은 제천한방엑스포공원으로 수집됨(대전 엑스포과학공원 아님) — URL 교체 필요",
-    "render": true
-  },
-  {
-    "id": "nol-upcoming-notice",
-    "url": "https://tickets.interpark.com/contents/notice",
-    "note": "NOL 티켓오픈 예정 목록(JOB1/JOB3). 클라우드 WebFetch는 robots/승인 문제로 못 읽음",
-    "render": true
-  },
-  {
-    "id": "nol-notice-kotgumeong-daejeon",
-    "url": "https://tickets.interpark.com/contents/notice/detail/12758",
-    "note": "2026 뮤지컬 콧구멍을 후비면 - 대전 오픈예정 공지(JOB1 확인용) — 일반 수집 시 NOL 오픈예정 목록으로 바뀌어 저장됨, WebFetch 승인 대기 반복 → render 전환(2026-10-01 JOB1)",
-    "render": true
-  },
-  {
-    "id": "kma-hydro-dam",
-    "url": "http://hydro.kma.go.kr/obsStat/obsDamData.do",
-    "note": "기상청 수문기상 댐 저수율 표(대청댐 수위·저수율·유입·방류 수치, JOB9) — 클라우드 WebFetch robots/timeout으로 미열람"
-  },
-  {
-    "id": "yangju-notice",
-    "url": "https://www.yangju.go.kr/www/selectBbsNttList.do?key=203&bbsNo=14",
-    "note": "양주시 행사소식 — 드론봇 페스티벌 헬기 탑승 공고·접수 링크 감시 (JOB5, WebFetch robots 차단)"
-  },
-  {
-    "id": "ticketlink-notice-63712",
-    "url": "https://www.ticketlink.co.kr/help/notice/63712",
-    "note": "티켓링크 '뮤지컬 - 대전 티켓오픈 안내'(공지 63712, 작품명 미확인) — JOB1 확인용, 클라우드 WebFetch 승인대기 반복"
-  },
-  {
-    "id": "ticketlink-notice-60127",
-    "url": "https://www.ticketlink.co.kr/help/notice/60127",
-    "note": "티켓링크 '가족뮤지컬 - 대전 티켓오픈 안내'(공지 60127, 작품명·연도 미확인) — JOB1 확인용, WebFetch 승인대기"
-  },
-  {
-    "id": "ticketlink-notice-mobile",
-    "url": "https://m.ticketlink.co.kr/help/notice",
-    "note": "티켓링크 모바일 티켓오픈 공지 목록(JOB1·3). PC판 스냅샷은 JS 렌더링으로 본문 없음 — 모바일판 시도"
-  },
-  {
-    "id": "pyoungsong-performance",
-    "url": "https://pyoungsong.com/%EA%B3%B5%EC%97%B0%EC%95%88%EB%82%B4/",
-    "note": "평송청소년문화센터 공연안내 페이지(JOB1·2). 메인 스냅샷은 본문 0자 — 하위 페이지 시도",
-    "render": true
-  },
-  {
-    "id": "kopis-time-beyond-daejeon",
-    "url": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF271894",
-    "note": "JOB1 후보: KOPIS '시간을 넘어서 [대전]' 상세(장르·기간·연령 미확인, 승인 대기로 미열람)"
-  },
-  {
-    "id": "yes24-search-daejeon",
-    "url": "https://ticket.yes24.com/New/Search/Search.aspx?Query=%EB%8C%80%EC%A0%84",
-    "note": "JOB1: YES24 '대전' 검색 결과(대전 아동/가족 공연 발견용, 승인 대기로 미열람)"
-  },
-  {
-    "id": "yangju-eminwon-list",
-    "url": "https://www.yangju.go.kr/www/selectEminwonList.do?key=4075",
-    "note": "양주시 고시공고 목록 — 체험자 모집 공고·네이버폼 링크가 보도보다 먼저/정확히 올라오는 곳 (JOB5)"
-  },
-  {
-    "id": "yangju-eminwon-67958",
-    "url": "https://www.yangju.go.kr/www/selectEminwonView.do?key=4075&not_ancmt_mgt_no=67958",
-    "note": "양주시 공고 제2026-2155호 수리온 헬기 탑승 모집 원문 (신청 링크 확인용, JOB5)"
-  },
-  {
-    "id": "dsecc-programs",
-    "url": "https://dsecc.djsch.kr/djsecc/lm/appl/lectList.do?mi=1115",
-    "note": "대전학생교육문화원 강좌·행사 접수 목록 — 무료 어린이 공연(매직쇼 등) 선착순 접수 (JOB1)",
-    "render": true
-  },
-  {
-    "id": "seogu-exprn-list",
-    "url": "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub03_01/list.do",
-    "note": "서구 통합예약 체험/견학 목록(JS 렌더) — 아빠·가족 체험 (JOB10)",
-    "render": true
-  },
-  {
-    "id": "seogu-event-list",
-    "url": "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub02_01/list.do",
-    "render": true,
-    "note": "서구 통합예약 행사/공연 목록 (JOB10)"
-  },
-  {
-    "id": "seogu-edu-list",
-    "url": "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub01_02/list.do",
-    "render": true,
-    "note": "서구 통합예약 교육 프로그램 목록 (JOB10)"
-  },
-  {
-    "id": "daejeon-its-board",
-    "url": "https://www.daejeon.go.kr/its/ItsdjNormalboardList.do?boardGubun=itsdj01",
-    "render": true,
-    "note": "대전시 '잇츠대전' 소식 게시판 — 구·기관 가족 프로그램 소식 (JOB10·JOB7)"
-  },
-  {
-    "id": "zeropay-events",
-    "url": "https://www.zeropay.or.kr/UI_MP_004_04_01.act",
-    "render": true,
-    "note": "제로페이 행사 목록 — 수산대전상품권·지역상품권 이벤트 (JOB8)"
-  },
-  {
-    "id": "chuncheon-festival-news",
-    "url": "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295",
-    "render": true,
-    "note": "춘천시 행사소식 목록 — 춘천지구전투 전승행사(K-밀리터리 페스티벌) 헬기 탑승 사전모집 공고 확인용 (JOB5)"
-  },
-  {
-    "id": "chuncheon-festival-news-459539",
-    "url": "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=459539&flag=view",
-    "render": true,
-    "note": "춘천시 행사소식 — 춘천지구전투 전승행사 관련 게시물(WebFetch robots 차단) (JOB5)"
-  },
-  {
-    "id": "galleria-timeworld-culture",
-    "url": "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture",
-    "render": true,
-    "note": "갤러리아 타임월드 문화센터 강좌·공연 목록 — 백화점 가족뮤지컬(예: 정글북) 확인용 (JOB1). WebFetch robots 차단"
-  },
-  {
-    "id": "chuncheon-festival-news-464131",
-    "url": "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view",
-    "render": true,
-    "note": "춘천시 행사소식 — K-밀리터리 페스티벌:춘천대첩(10/9~11) 관련 게시물, 헬기 탑승 사전모집 확인용(WebFetch robots 차단) (JOB5)"
-  },
-  {
-    "id": "pyeongtaek-news-board",
-    "url": "https://www.pyeongtaek.go.kr/pyeongtaek/board/post/list.do?mid=0401010000&bcIdx=41",
-    "render": true,
-    "note": "평택시 알림마당 게시판 목록(bcIdx=41) — 해양페스티벌 항해체험 사전신청(지난 회차: 구글폼, 행사 약 1주 전 5일간, 100명) 같은 시 주관 군 체험 모집 공지 감시 (JOB5, JOB11 대조 보정)"
-  },
-  {
-    "id": "pyeongtaek-festival-alrimi",
-    "url": "https://www.pyeongtaek.go.kr/alrimi/festival/list.do?mid=0101000000",
-    "render": true,
-    "note": "평택행사 알리미 축제 목록 — 평택해양페스티벌 등 시 축제 세부 안내 (JOB5)"
-  },
-  {
-    "id": "pyeongtaek-gosi",
-    "url": "https://www.pyeongtaek.go.kr/pyeongtaek/saeol/gosi/list.do?mid=0401020100",
-    "render": true,
-    "note": "평택시 고시공고 목록 — 체험자 모집 공고 (JOB5)"
-  },
-  {
-    "id": "pt-story-blog-rss",
-    "url": "https://rss.blog.naver.com/pt_story.xml",
-    "note": "평택시 공식 블로그 RSS — 지난 회차 항해체험 신청(구글폼 링크)이 여기 먼저 게시됨 (JOB5)"
-  },
-  {
-    "id": "hanbat-library-culture",
-    "url": "https://www.daejeon.go.kr/hanbatlibrary/cultureEventListView.do?menuSeq=6234",
-    "note": "한밭도서관 문화행사 목록(토요문화광장 등 가족 공연·체험 상세 확인용, OK예약 goDtl 상세는 스냅샷 불가) — JOB10",
-    "render": true
-  },
-  {
-    "id": "cnu-accessio-board",
-    "url": "https://cnustudent.cnu.ac.kr/cnustudent/accessio.do?mode=list&article.offset=0&articleLimit=10",
-    "note": "충남대 총학생회 대동제(ACCESSIO) 게시판 — 일정·라인업·외부인 입장 공지 (JOB2)"
-  },
-  {
-    "id": "cnu-press-news",
-    "url": "https://press.cnu.ac.kr/news/articleList.html?view_type=sm",
-    "note": "충대신문 최신기사 — 대동제·동아리 공연 사전 보도 (JOB2)"
-  },
-  {
-    "id": "hanbat-notice-board",
-    "url": "https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000050/list.do?mno=sub07_01",
-    "note": "한밭대 공지 게시판(백련제 버스 안내 등 게시, 기존 hanbat-notice 404 대체) (JOB2)"
-  },
-  {
-    "id": "nol-search-kotgumeong",
-    "url": "https://nol.yanolja.com/ticket/search?keyword=%EC%BD%A7%EA%B5%AC%EB%A9%8D%EC%9D%84%20%ED%9B%84%EB%B9%84%EB%A9%B4",
-    "note": "NOL 검색 '콧구멍을 후비면'(대전 회차 확인용, JOB1)",
-    "render": true
-  },
-  {
-    "id": "chuncheon-festival-news-465019",
-    "url": "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view",
-    "render": true,
-    "note": "춘천시 행사소식 2026-09-30 '제76주년 K-밀리터리 페스티벌: 춘천대첩' 본문 — 헬기·전술차량 탑승 사전신청 여부 확인용(WebFetch 승인 대기) (JOB5)"
-  },
-  {
-    "id": "pyoungsong-event-nunkkot",
-    "url": "https://pyoungsong.com/event/i%ea%b8%b0%ed%9a%8d-21/",
-    "note": "평송 공연목록 '눈꽃공연'(10/3 표기) 상세 — JOB1, 클라우드 WebFetch 승인대기",
-    "render": true
-  },
-  {
-    "id": "pyoungsong-event-piglets",
-    "url": "https://pyoungsong.com/event/i%ea%b8%b0%ed%9a%8d-22/",
-    "note": "평송 공연목록 '아기돼지 삼형제' 상세 — JOB1, WebFetch 승인대기",
-    "render": true
-  },
-  {
-    "id": "pyoungsong-event-sandmagic",
-    "url": "https://pyoungsong.com/event/%eb%b8%94%eb%a3%a8%ec%95%84%ed%8a%b8%ec%bb%b4%ed%8d%bc%eb%8b%88-4/",
-    "note": "평송 공연목록 '2026 신비한 샌드매직쇼' 상세 — JOB1, WebFetch 승인대기",
-    "render": true
-  },
-  {
-    "id": "pyoungsong-event-stonesoup",
-    "url": "https://pyoungsong.com/event/%ed%96%89%eb%b3%b5%ed%95%9c%ea%b5%90%ec%9c%a1/",
-    "note": "평송 공연목록 '돌맹이수프' 상세 — JOB1, WebFetch 승인대기",
-    "render": true
-  },
-  {
-    "id": "donghae-dhdmo-program",
-    "url": "https://dhdmo.com/program-event/program.php",
-    "render": true,
-    "note": "동해관광플랫폼 프로그램 목록 — JOB5 '동해바다 열기구 탑승체험' 신청 확인용(WebFetch robots 차단)"
-  },
-  {
-    "id": "pohang-phtour-notice",
-    "url": "https://news.google.com/rss/search?q=%ED%8F%AC%ED%95%AD+%ED%95%B4%EB%B3%91%EB%8C%80%EB%AC%B8%ED%99%94%EC%B6%95%EC%A0%9C&hl=ko&gl=KR&ceid=KR:ko",
-    "render": false,
-    "note": "JOB5 포항 해병대문화축제(2025년 11/15~16, 헬기·장갑차 탑승 체험) 공지 게시판 — 2025년 공지가 11월 초 여기 게시됨, 2026 회차 탑승 신청 방식 감시(WebFetch 차단) | 2026-09-30 17:40 JOB5: 기존 list URL 404(fail 2) → 2025 공지 view URL과 같은 파라미터(search_type·viewPage)로 교체 | 2026-10-03 JOB5: 교체 URL도 404(161회) → 대한민국 구석구석 축제 상세(포항 해병대 문화축제)로 교체 | 2026-10-07 JOB5: 축제 상세도 404(166회) → 구글뉴스(한국) RSS 검색 목록으로 교체(2026 11/14~15 회차 탑승·사전신청 보도 감시)"
-  },
-  {
-    "id": "daejeon-familycenter-programs",
-    "url": "https://daejeon.familynet.or.kr/center/lay1/program/S295T322C451/recruitReceipt/list.do",
-    "render": true,
-    "note": "대전광역시가족센터 프로그램신청 목록 (가족 프로그램 네이버폼 접수 공지) — JOB10, WebFetch 400"
-  },
-  {
-    "id": "daejeon-okr-edu",
-    "url": "https://www.daejeon.go.kr/okr2019/OkrFactoryInfo.do?menuSeq=8201",
-    "render": true,
-    "note": "대전시 OK예약 교육 목록(시립미술관 주말교육 등, goDtl menu 8201) — JOB10 2026-09-30 추가, 상세 확인용"
-  },
-  {
-    "id": "daejeon-okr-hanbatlib",
-    "url": "https://www.daejeon.go.kr/okr2019/eduRsvtList.do?menuSeq=8101&keyword=%ED%95%9C%EB%B0%AD%EB%8F%84%EC%84%9C%EA%B4%80&searchType=01",
-    "render": true,
-    "note": "대전 OK예약 교육(8101) 한밭도서관 검색 목록 — 꼬꼬마 인형극·샌드아트·과학 놀이터 등 대상·정원·접수시각 확인용 (JOB10 2026-10-01 추가, WebFetch 승인 대기)"
-  },
-  {
-    "id": "kau-news-list",
-    "url": "https://kaunews.kau.ac.kr/pages/news.php",
-    "note": "한국항공대 교내뉴스 목록 — 활주로축제(2024 수리온 헬기·열기구 탑승, 2025 11/7~8 열기구) 2026 개최·사전신청 공지 감시 (JOB5 2026-10-01 추가)"
-  },
-  {
-    "id": "science-edu-reservation",
-    "url": "https://rsvn.science.go.kr/nsm/edcarsvn/edcarsvnList",
-    "note": "국립중앙과학관 교육예약 목록 (JOB10: 탄동천 탐사 등 기타교육·자연탐사 접수 전환) — 2026-10-01 JOB10 추가, WebFetch 승인 대기",
-    "render": true
-  },
-  {
-    "id": "sejong-notice",
-    "url": "https://www.sejong.go.kr/bbs/R0071/list.do",
-    "note": "세종시청 공지사항 목록 후보 (JOB10: '행복도시 그린 패밀리' 등 가족 프로그램 모집) — 2026-10-01 JOB10 추가, 게시판 정체 미확인",
-    "render": true
-  },
-  {
-    "id": "sejong-notice-greenfamily",
-    "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162462Sv4bN0t&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
-    "note": "세종시 환경정책과 '지구를 지키는 우리 가족, 행복도시 그린 패밀리' 참여가족 모집 상세 — JOB10 2026-10-01 추가(대상·거주지·접수 확인용, WebFetch 승인 대기)",
-    "render": true
-  },
-  {
-    "id": "sejong-notice-birdwatch",
-    "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162468Pr1hI2w&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
-    "note": "세종 직장맘지원센터 '도시에서 만나는 새(아이와 함께하는 도심 속 탐조)' 상세 — JOB10 2026-10-01 추가(자격 확인용)",
-    "render": true
-  },
-  {
-    "id": "yangyang-cafe-balloon-15331",
-    "url": "https://cafe.naver.com/yangyangbbakdok/15331",
-    "render": true,
-    "note": "네이버카페 '동해바다 열기구 탑승체험 프로그램 신청 안내' — 주최·대상(거주지)·나이·신청폼 확인용, WebFetch 승인 대기 (JOB5 2026-10-01)"
-  },
-  {
-    "id": "komsco-shop-medal",
-    "url": "https://www.koreamint.com/goods/category.do?cate=2204",
-    "note": "조폐공사 쇼핑몰 기념메달 목록 (JOB13 신규 한정 메달)",
-    "render": true
-  },
-  {
-    "id": "komsco-shop-coin",
-    "url": "https://www.koreamint.com/goods/category.do?cate=2003",
-    "note": "조폐공사 쇼핑몰 기념주화 목록 (JOB13)",
-    "render": true
-  },
-  {
-    "id": "komsco-shop-bar",
-    "url": "https://www.koreamint.com/goods/category.do?cate=2053",
-    "note": "조폐공사 쇼핑몰 골드바·실버바 목록 (JOB13)",
-    "render": true
-  },
-  {
-    "id": "komsco-shop-card",
-    "url": "https://www.koreamint.com/goods/category.do?cate=2201",
-    "note": "조폐공사 쇼핑몰 카드형 제품 전체 목록(별자리 시리즈 등 신규 카드형 골드·가격 확인용, JOB13)",
-    "render": true
-  },
-  {
-    "id": "komsco-shop-currency-set",
-    "url": "https://www.koreamint.com/goods/category.do?cate=1970",
-    "note": "조폐공사 쇼핑몰 현용주화세트 (JOB13)",
-    "render": true
-  },
-  {
-    "id": "cnu-jsh-schedule",
-    "url": "https://jsh.cnu.ac.kr/segio/jsh/html/event_month_schedule.php?shell=%2Findex.shell%3A313&htype=J",
-    "render": true,
-    "note": "충남대 정심화국제문화회관 월간 공연일정 (JOB2 — 학과·동아리 정기공연이 먼저 올라옴, WebFetch robots 타임아웃)"
-  },
-  {
-    "id": "bok-commemorative-coin-news",
-    "url": "https://www.bok.or.kr/portal/bbs/B0000502/list.do?menuNo=201265",
-    "render": true,
-    "note": "JOB13 한국은행 기념주화 발행·예약 공지 목록 (WebFetch 시 메뉴만 보임)"
-  },
-  {
-    "id": "daejeon-cafe-100papa-40250",
-    "url": "https://cafe.naver.com/100papa/40250",
-    "render": true,
-    "note": "네이버카페 100papa '한밭공동육아나눔터 과학 ON! 호기심 ON!'(대전가족센터, 네이버폼 naver.me/F4WggqeN, 무료) — 일시·대상·정원·접수 시작일 확인용, WebFetch 승인 대기 (JOB10 2026-10-02)"
-  },
-  {
-    "id": "sejong-notice-hangeulday-book",
-    "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162560Oq5rL3g&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
-    "render": true,
-    "note": "세종시 공지 20104 '세종책문화센터 2026 한글날 기념 행사 홍보 안내'(시립도서관, 10-02) 추정 상세 — 어린이·가족 사전신청 프로그램 유무·거주지 제한 확인용. WebFetch robots 차단. JOB10 2026-10-02 추가(nttId 목록 순서로 추정, 제목 불일치 시 교체)"
-  },
-  {
-    "id": "nol-notice-10111",
-    "url": "https://tickets.interpark.com/contents/notice/detail/10111",
-    "render": true,
-    "note": "JOB3 NOL 티켓오픈 공지(이해원 관련 단서) — WebFetch robots 차단"
-  },
-  {
-    "id": "naver-entertain-018-0006379428",
-    "url": "https://m.entertain.naver.com/article/018/0006379428",
-    "render": true,
-    "note": "JOB3 discover '이적 공연' 단서(이데일리 연예) — WebFetch 차단"
-  },
-  {
-    "id": "melon-artist-songsohee",
-    "url": "https://ticket.melon.com/artist/index.htm?artistId=672059",
-    "render": true,
-    "note": "JOB3 멜론티켓 송소희 아티스트 공연 목록"
-  },
-  {
-    "id": "interpark-artist-leejuck",
-    "url": "https://tickets.interpark.com/play/artist/%EC%9D%B4%EC%A0%81-fpReS7n6kOgadqNS",
-    "render": true,
-    "note": "JOB3 NOL/인터파크 이적 아티스트 공연 목록"
-  },
-  {
-    "id": "yctf-show",
-    "url": "https://yctf.kr/show",
-    "render": true,
-    "note": "JOB3 예천문화관광재단 공연목록(송소희 모던민요 개최 이력) — WebFetch 403"
-  },
-  {
-    "id": "sejong-notice-science-concert",
-    "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162593Pe6zJ5z&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
-    "render": true,
-    "note": "세종시 공지 20112 '세종과학콘서트 개최 안내'(미래산업과, 10-02) 추정 상세 — 10/24 국립세종수목원, 참가 대상 '세종 시민 누구나' 문구의 거주지 제한 여부·신청 링크 확인용. WebFetch robots 차단. JOB10 2026-10-02 추가(nttId 목록 순서로 추정, 제목 불일치 시 교체)"
-  },
-  {
-    "id": "sejong-notice-science-jiphyeonjeon",
-    "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162590Al4sT4g&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
-    "render": true,
-    "note": "세종시 공지 20110 '2026 세종과학집현전 행사 개최 안내'(미래산업과, 10-02) 추정 상세 — 어린이·가족 사전신청 프로그램·거주지 제한 확인용. WebFetch robots 차단. JOB10 2026-10-02 추가(nttId 목록 순서로 추정, 제목 불일치 시 교체)"
-  },
-  {
-    "id": "sejong-notice-hangeul-firefly",
-    "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162574Xt2aV7e&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
-    "render": true,
-    "note": "세종시 공지 20108 '「2026 한글 반딧불이 집현전」 개최 안내(10.10.)'(한글문화도시과, 10-02) 추정 상세 — 사전신청·대상·거주지 제한 확인용. WebFetch robots 차단. JOB10 2026-10-02 추가(nttId 목록 순서로 추정, 제목 불일치 시 교체)"
-  },
-  {
-    "id": "yangyang-cafe-balloon-15331-m",
-    "url": "https://m.cafe.naver.com/ca-fe/web/cafes/29992457/articles/15331",
-    "render": true,
-    "note": "JOB5 동해바다 열기구 탑승체험 신청 안내 — 데스크톱 카페는 iframe이라 본문 미수집, 모바일 본문 (2026-10-02 추가)"
-  },
-  {
-    "id": "yangyang-cafe-balloon-15331-api",
-    "url": "https://article.cafe.naver.com/gw/v3/cafes/29992457/articles/15331?useCafeId=true",
-    "note": "JOB5 동해바다 열기구 — 카페 글 JSON API 본문 (2026-10-02 추가)"
-  },
-  {
-    "id": "hanbat-gongdong-science-form",
-    "url": "https://naver.me/F4WggqeN",
-    "render": true,
-    "note": "JOB10 한밭공동육아나눔터 '과학 ON! 호기심 ON!' 신청 네이버폼 — 일시·대상·정원 확인용 (WebFetch 도메인 차단, 2026-10-02 추가)"
-  },
-  {
-    "id": "daejeon-cafe-dodam-2801968",
-    "url": "https://cafe.naver.com/dodamdadam1004/2801968",
-    "render": true,
-    "note": "JOB10 도담도담 대전맘 카페 한밭공동육아나눔터 승화전사 굿즈 체험 홍보글 (WebFetch 차단, 2026-10-02 추가)"
-  },
-  {
-    "id": "cnu-jsh-schedule-178",
-    "url": "https://jsh.cnu.ac.kr/segio/jsh/html/event_month_schedule.php?shell=/index.shell:178",
-    "render": true,
-    "note": "충남대 정심화국제문화회관 월간 공연일정 대체 URL (기존 shell:313은 66회 연속 0자, JOB2 2026-10-03 추가)"
-  },
-  {
-    "id": "dmzforest-main",
-    "url": "https://www.dmzforest.com/",
-    "render": true,
-    "note": "파주 민통선 DMZ숲 개인 방문 회차 공지(오픈위크·침묵산책 등) — 군사통제구역 특별출입 유형(JOB5). JOB11 2026-10-03 추가"
-  },
-  {
-    "id": "sejong-notice-dance-free",
-    "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162627Cn4vS8e&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
-    "render": true,
-    "note": "세종시 공지 20119 '전문 무용수와 함께하는 초·중학생 현대무용 무료체험 참여자 모집'(문화예술과, 10-03) 상세 — 대상(초등 학년)·거주지 제한·정원·신청 확인용. WebFetch robots 차단. JOB10 2026-10-03 추가(links.json 순서로 nttId 매칭)"
-  },
-  {
-    "id": "sejong-notice-family-magic-play",
-    "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162626Dx2zU0j&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
-    "render": true,
-    "note": "세종시 공지 20118 '[세종 가족공연] 마술과 연극이 만나다, 초연신작 공연 소식'(문화예술과, 10-03) 상세 — 일시·장소·관람연령·가격·예매 오픈 확인용. WebFetch robots 차단. JOB10 2026-10-03 추가"
-  },
-  {
-    "id": "melon-christmas-carol-212575",
-    "url": "https://ticket.melon.com/performance/index.htm?prodId=212575",
-    "render": true,
-    "note": "JOB1: 멜론 '크리스마스 캐럴' 상품(대전 가족공연 검색에 노출, WebFetch 423) — 지역·일정·오픈 확인용"
-  },
-  {
-    "id": "woorisb-tok7-product",
-    "url": "https://m.woorisavingsbank.com/product/deposite/view.do?prdSn=325",
-    "render": true,
-    "note": "JOB13: 우리금융저축은행 상품 상세(TOK7 적금 추정) — 기본·우대금리·판매한도 확인용, WebFetch robots 타임아웃. 2026-10-05 추가"
-  },
-  {
-    "id": "mommom-sandmagic-a",
-    "url": "https://mom-mom.net/travel/places/6a6fff6990947ad2c40e40da",
-    "note": "가족공연 판매 페이지(샌드매직쇼 사라진 모래상자, 대전/부산 회차) — JOB1, 클라우드 WebFetch 차단",
-    "render": true
-  },
-  {
-    "id": "mommom-sandmagic-b",
-    "url": "https://mom-mom.net/travel/places/6a583bb00c06be407d755ad0",
-    "note": "가족공연 판매 페이지(샌드매직쇼 사라진 모래상자) — JOB1, 클라우드 WebFetch 차단",
-    "render": true
-  },
-  {
-    "id": "djstar-notice-158",
-    "url": "https://www.djstar.kr/bbs/board.php?bo_table=web_notice&wr_id=158",
-    "note": "대전시민천문대 공지 '2026년 11월 20일(금) 겨울의…'(10-02) 상세 — 행사명·대상·접수 확인용. WebFetch egress 차단. JOB10 2026-10-07 추가"
-  },
-  {
-    "id": "djstar-notice-160",
-    "url": "https://www.djstar.kr/bbs/board.php?bo_table=web_notice&wr_id=160",
-    "note": "대전시민천문대 공지 KAIST 밴드동아리 '동틀무렵'(10-03) 상세 — 천문대 공연 여부 확인용(JOB10/JOB1). JOB10 2026-10-07 추가"
-  },
-  {
-    "id": "sejong-notice-imnansu-play",
-    "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162716Tg5lA9n&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
-    "render": true,
-    "note": "세종시 공지 20126 '세종 임난수 은행나무 아래에서 즐기는 체험놀이' 참가자 모집(문화유산과, 10-06) 추정 상세 — 대상·거주지 제한·접수 확인용. WebFetch egress 차단. JOB10 2026-10-07 추가(nttId 목록 순서로 추정, 제목 불일치 시 교체)"
-  },
-  {
-    "id": "daejonilbo-2305720",
-    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2305720",
-    "note": "대전일보 성북동 숲길 걷기대회(10/31 유성구 성북동) 기사 — 주최·참가비·접수·가족 대상 확인용. WebFetch egress 차단. JOB10 2026-10-08 추가"
-  },
-  {
-    "id": "icheon-ricefestival-schedule",
-    "url": "https://www.ricefestival.or.kr/program/program.php?sp=schedule",
-    "render": true,
-    "note": "이천쌀문화축제 일정표 — 육군항공사령부 10/17 부대개방 헬기 탑승 대상·신청방식 확인용. WebFetch egress 차단. JOB5 2026-10-08 추가"
-  },
-  {
-    "id": "newstong-14731763",
-    "url": "https://www.newstong.co.kr/view3.aspx?seq=14731763",
-    "note": "육군항공사령부 10/17 이천 부대개방 보도 원문 — 대상·신청방식 확인용. WebFetch egress 차단. JOB5 2026-10-08 추가"
-  },
-  {
-    "id": "nol-product-kongsuni-daejeon",
-    "url": "https://nol.yanolja.com/ticket/products/26007853",
-    "note": "NOL '엉뚱발랄 콩순이 슈퍼콘서트 - 대전' 상품 페이지(일정·공연장 확인용, JOB1)",
-    "render": true
-  },
-  {
-    "id": "daejeon-drh-fireworks-autumn-2026",
-    "url": "https://www.daejeon.go.kr/drh/board/boardNormalView.do?boardId=normal_0167&menuSeq=1547&pageIndex=1&ntatcSeq=1523773918",
-    "note": "JOB4 대전시 2026 불꽃 가을축제 시간표·교통통제 안내"
-  },
-  {
-    "id": "andong-halftour",
-    "url": "https://andonghalftour.kr/",
-    "render": true,
-    "note": "JOB7 안동 반값여행 누리집 (차수별 모집 공지)"
-  }
+ {
+  "id": "yuseong-anytime-event",
+  "url": "https://www.yuseong.go.kr/prog/anytmevt/kor/sub03_18_01/list.do",
+  "note": "유성구청 예약 > 수시 행사접수창구 (라떼파파 등 가족 프로그램 접수)"
+ },
+ {
+  "id": "yuseong-anytime-edu",
+  "url": "https://www.yuseong.go.kr/prog/anytmedc/kor/sub03_19_01/list.do",
+  "note": "유성구청 예약 > 수시 교육접수창구"
+ },
+ {
+  "id": "yuseong-round-event",
+  "url": "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do",
+  "note": "유성구청 예약 > 회차 행사접수창구",
+  "render": true
+ },
+ {
+  "id": "yuseong-playground",
+  "url": "https://www.yuseong.go.kr/prog/plygrnd/kor/sub03_25_01/list.do",
+  "note": "유성구청 예약 > 놀이 관련 접수(확인용)"
+ },
+ {
+  "id": "seogu-yeyak",
+  "url": "https://www.seogu.go.kr/yeyak/index.do",
+  "note": "대전 서구 통합예약",
+  "render": true
+ },
+ {
+  "id": "seogu-event",
+  "url": "https://www.seogu.go.kr/prog/event/kor/sub03_10/list.do",
+  "note": "대전 서구 행사 게시판"
+ },
+ {
+  "id": "daejeon-okr",
+  "url": "https://www.daejeon.go.kr/okr2019/index.do",
+  "note": "대전시 OK예약서비스 메인"
+ },
+ {
+  "id": "sejong-main",
+  "url": "https://www.sejong.go.kr/kor.do",
+  "note": "세종시청 — 도달성 확인(재시도)"
+ },
+ {
+  "id": "djac-performance",
+  "url": "https://www.daejeon.go.kr/djac/performanceList.do?menuSeq=6709",
+  "note": "대전예술의전당 공연 목록 (JOB1·2)"
+ },
+ {
+  "id": "djac-performance-p2",
+  "url": "https://www.daejeon.go.kr/djac/performanceList.do?menuSeq=6709&pageIndex=2",
+  "note": "대전예술의전당 월간 공연 목록 2페이지 (JOB1·2)"
+ },
+ {
+  "id": "djac-musical-search",
+  "url": "https://www.daejeon.go.kr/djac/performanceList.do?menuSeq=6709&pageIndex=1&searchCondition=4669&searchKeyword=%EB%AE%A4%EC%A7%80%EC%BB%AC",
+  "note": "대전예술의전당 공연 검색 '뮤지컬' (JOB1) — 월간 목록 스냅샷은 1페이지(이번 달)만 잡혀 이후 달 가족뮤지컬 누락 우려, WebFetch는 robots로 차단"
+ },
+ {
+  "id": "kmusic-performance",
+  "url": "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceList.do?menuSeq=6400",
+  "note": "대전시립연정국악원 공연 목록 (JOB1)"
+ },
+ {
+  "id": "pyoungsong",
+  "url": "http://www.pyoungsong.com/",
+  "note": "평송청소년문화센터 (JOB1·2)",
+  "render": true
+ },
+ {
+  "id": "woosongart",
+  "url": "https://woosongart.wsu.ac.kr/",
+  "note": "우송예술회관 (JOB1)"
+ },
+ {
+  "id": "djkids-musical",
+  "url": "https://www.djkids.or.kr/sub.do?key=m2008167894158",
+  "note": "대전어린이회관 어린이뮤지컬 (JOB1)",
+  "render": true
+ },
+ {
+  "id": "djkids-notice",
+  "url": "https://www.djkids.or.kr/bbs/list.do?key=m2008167895194",
+  "note": "대전어린이회관 공지 (JOB1) — 메뉴만 수집돼 JS 렌더로 전환(10/7)",
+  "render": true
+ },
+ {
+  "id": "dctf",
+  "url": "https://www.dcaf.or.kr/",
+  "note": "대전문화재단 (JOB1·2) — dctf.kr DNS 실패 143회로 공식 도메인 dcaf.or.kr로 교체(10/2 JOB1)",
+  "render": true
+ },
+ {
+  "id": "nol-family",
+  "url": "https://nol.yanolja.com/ticket/genre/family",
+  "note": "NOL 가족/어린이 장르 (JOB1)",
+  "render": true
+ },
+ {
+  "id": "ticketlink-notice",
+  "url": "https://www.ticketlink.co.kr/help/notice",
+  "note": "티켓링크 티켓오픈 공지 (JOB1·3)",
+  "render": true
+ },
+ {
+  "id": "yes24-notice",
+  "url": "https://ticket.yes24.com/Notice",
+  "note": "YES24 티켓오픈 공지 (JOB1·3)"
+ },
+ {
+  "id": "oworld-notice",
+  "url": "https://www.oworld.kr/",
+  "note": "대전오월드 메인/공지 (JOB4)"
+ },
+ {
+  "id": "baekje-schedule",
+  "url": "https://gongju.baekje.org/schedule",
+  "note": "백제문화제 일정 (JOB4)",
+  "render": true
+ },
+ {
+  "id": "gcfct-announcement",
+  "url": "https://www.gcfct.org/announcement",
+  "note": "계룡시문화관광재단 공지 (JOB4·6)"
+ },
+ {
+  "id": "kwater-daecheong-notice",
+  "url": "https://www.kwater.or.kr/water/sub01/sub05/20060557/notiList.do?s_mid=1357&s_officecode=10750012&s_flag=1&brdId=KO27",
+  "note": "K-water 대청댐 공지 (JOB9)"
+ },
+ {
+  "id": "geumriver-dam",
+  "url": "https://www.geumriver.go.kr/html/sumun/dm_cnf.jsp",
+  "note": "금강홍수통제소 댐 방류 (JOB9)",
+  "render": true
+ },
+ {
+  "id": "daejeon-safety",
+  "url": "https://www.daejeon.go.kr/saf/index.do",
+  "note": "대전시 재난안전 (JOB9)"
+ },
+ {
+  "id": "woosongart-woogiyuni",
+  "url": "https://woosongart.wsu.ac.kr/proc/art_detail.jsp?id=443",
+  "note": "우송예술회관 우기유니 챌린지쇼 상세 (JOB1, 티켓오픈·가격 확인용)"
+ },
+ {
+  "id": "djkids-oct-peter-wolf",
+  "url": "https://www.djkids.or.kr/bbs/view.do?key=m2008167895194&bbsId=10707",
+  "note": "대전어린이회관 10월작품 피터와 늑대 게시글 (JOB1, 기간·휴연 확인용)"
+ },
+ {
+  "id": "woosongart-schedule",
+  "url": "https://woosongart.wsu.ac.kr/proc/artcalendar.jsp",
+  "note": "우송예술회관 공연일정 캘린더 (JOB1)",
+  "render": true
+ },
+ {
+  "id": "geumriver-dam-now",
+  "url": "https://www.geumriver.go.kr/html/sumun/dm_now.jsp",
+  "note": "금강홍수통제소 댐 실시간 현황(대청댐 수위·방류량, JOB9) — WebFetch 승인대기 반복 실패로 추가"
+ },
+ {
+  "id": "pyeongtaek-main",
+  "url": "https://www.pyeongtaek.go.kr/",
+  "note": "평택시청 메인 — 평택해양페스티벌(10/31 해군2함대 함정공개·항해체험) 신청 안내 감시 (JOB5) ※ 메인·메뉴 페이지라 신청 공고 감지 불가 — 목록 페이지(pyeongtaek-news-board 등)로 보완 (JOB11 2026-09-29)",
+  "render": true
+ },
+ {
+  "id": "kopis-daejeon-kids",
+  "url": "https://www.kopis.or.kr/por/db/pblprfr/pblprfr.do?menuId=MNU_00020",
+  "note": "KOPIS 공연DB 검색 목록(JOB1). 기존 pblprfrList.do 주소가 404로 213회 연속 실패 → 대전 소극장 아동공연(조이마루아트홀 〈소가 된 게으름뱅이〉 10/1 KOPIS 등록) 누락 원인. JOB11 2026-10-03 교체, JS 렌더",
+  "render": true
+ },
+ {
+  "id": "kaist-culture",
+  "url": "https://www.kaist.ac.kr/kr/html/campus/053501.html",
+  "note": "KAIST 문화행사 게시판 (JOB2) — WebFetch robots 차단"
+ },
+ {
+  "id": "cnu-student-notice",
+  "url": "https://cnustudent.cnu.ac.kr/cnustudent/notice/notice.do",
+  "note": "충남대 총학생회 공지 (JOB2 백마대동제) — WebFetch robots 차단"
+ },
+ {
+  "id": "hanbat-notice",
+  "url": "https://www.hanbat.ac.kr/prog/bbs/kor/sub06_0301/list.do",
+  "note": "국립한밭대 공지 (JOB2) — WebFetch 승인대기 실패"
+ },
+ {
+  "id": "kwater-realtime-multidam",
+  "url": "https://www.water.or.kr/kor/realtime/sumun/index.do?mode=vers&menuId=13_91_93_96",
+  "note": "K-water 물정보포털 다목적댐 관리현황(대청댐 수위·방류량, JOB9) — WebFetch로는 수치가 비어 추가",
+  "render": true
+ },
+ {
+  "id": "flood-dam-branch",
+  "url": "https://n.flood.go.kr/observation/dam/branchList.do",
+  "note": "홍수정보시스템 댐 지점 현황(대청댐 수위·방류량, JOB9) — WebFetch robots 시간초과로 추가"
+ },
+ {
+  "id": "ticketlink-kids-cat-daejeon",
+  "url": "https://www.ticketlink.co.kr/product/22471",
+  "note": "티켓링크 뮤지컬 <어린이 캣> - 대전 상품 (JOB1, 일정 미확인 → 스냅샷으로 확인)"
+ },
+ {
+  "id": "gongjeon-kids",
+  "url": "https://gongjeon.kr/product/list.html?cate_no=28",
+  "note": "대전공연전시 어린이/가족 카테고리(JS 렌더, 이전 URL 404 fail_streak 22로 교체, JOB1 2026-09-30)",
+  "render": true
+ },
+ {
+  "id": "navy-visit-notice",
+  "url": "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000",
+  "note": "해군 견학/면회 공지 (JOB5, WebFetch robots timeout 반복) | 2026-10-03 JOB5: 본문 39자 반복(213회) → render true",
+  "render": true
+ },
+ {
+  "id": "katc-schedule",
+  "url": "https://www.katc.mil.kr/katc/guide/schedule.jsp",
+  "note": "육군훈련소 행사일정 (JOB5, WebFetch 실패 반복)",
+  "render": true
+ },
+ {
+  "id": "mnd-main",
+  "url": "https://www.mnd.go.kr/",
+  "note": "국방부 메인 뉴스 (JOB5, WebFetch 실패)"
+ },
+ {
+  "id": "fsale-main",
+  "url": "https://fsale.kr/",
+  "note": "대한민국 수산대전 공식 (JOB8) — WebFetch 본문 미추출"
+ },
+ {
+  "id": "fsale-onnuri",
+  "url": "https://fsale.kr/onnuri1",
+  "note": "수산대전 전통시장 온누리상품권 환급행사 페이지 (JOB8)"
+ },
+ {
+  "id": "gcfct-schedule",
+  "url": "https://www.gcfct.org/festive_schedule",
+  "note": "계룡군문화축제 행사 일정표 (JOB6, WebFetch 승인대기로 실패)",
+  "render": true
+ },
+ {
+  "id": "gcfct-shuttle",
+  "url": "https://www.gcfct.org/shuttle",
+  "note": "계룡군문화축제 셔틀버스 안내 (JOB6)"
+ },
+ {
+  "id": "gcfct-parking",
+  "url": "https://www.gcfct.org/how_to_come",
+  "note": "계룡군문화축제 오시는길·주차장 (JOB6)"
+ },
+ {
+  "id": "gcfct-performance",
+  "url": "https://www.gcfct.org/performance",
+  "note": "계룡군문화축제 공연·체험 (JOB6)"
+ },
+ {
+  "id": "cnu-events-board",
+  "url": "https://plus.cnu.ac.kr/_prog/_board/?code=sub010714&site_dvs_cd=kr&menu_dvs_cd=0712",
+  "note": "충남대 백마광장 > 세미나 및 행사 게시판 (JOB2) — WebFetch robots 타임아웃"
+ },
+ {
+  "id": "mokwon-events",
+  "url": "https://www.mokwon.ac.kr/kr/html/sub03/030102.html",
+  "note": "목원대 행사일정 (JOB2)",
+  "render": true
+ },
+ {
+  "id": "dsa-family-farm",
+  "url": "https://www.dsa.or.kr/apply.html?html=apply%2Fnongchon1.html",
+  "note": "대산농촌재단 가족사랑 농촌체험 모집 현황 (JOB7, WebFetch robots 실패)"
+ },
+ {
+  "id": "visitkorea-tour50",
+  "url": "https://korean.visitkorea.or.kr/dgtourcard/tour50.do",
+  "note": "대한민국 반값여행 지자체별 현황판 (JOB7)"
+ },
+ {
+  "id": "science-schedule",
+  "url": "https://www.science.go.kr/mps/getSchdulCal.do",
+  "note": "국립중앙과학관 행사·공연 일정 (JOB10·JOB1) — 2026-09-29 첫 스냅샷 대기(JOB10 우선)"
+ },
+ {
+  "id": "science-reservation",
+  "url": "https://rsvn.science.go.kr/nsm/evtrsvn/evtrsvnList",
+  "note": "국립중앙과학관 공연·행사 예약 목록 (JOB10·JOB1) — 2026-09-29 첫 스냅샷 대기(JOB10 우선)",
+  "render": true
+ },
+ {
+  "id": "khs-notice",
+  "url": "https://www.khs.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1008&mn=NS_01_02_01",
+  "note": "국가유산청 공지사항 (JOB7: 답사·체험 모집) — 2026-09-30 JOB7: 일반 수집 HTTP 500 49회 연속, render 전환",
+  "render": true
+ },
+ {
+  "id": "royal-khs-events",
+  "url": "https://royal.khs.go.kr/",
+  "note": "궁능유적본부 행사마당 (JOB7·JOB10: 가족 체험) — 2026-09-29 첫 스냅샷 대기(JOB10 우선) — 2026-09-30 21:45 JOB7: 일반 수집 0자, render 전환",
+  "render": true
+ },
+ {
+  "id": "djstar",
+  "url": "https://www.djstar.kr/",
+  "note": "대전시민천문대 (JOB10) — 2026-09-29 첫 스냅샷 대기(JOB10 우선)"
+ },
+ {
+  "id": "hanbat-arboretum",
+  "url": "https://www.daejeon.go.kr/gar/index.do",
+  "note": "한밭수목원 (JOB10) — 2026-09-29 첫 스냅샷 대기(JOB10 우선)"
+ },
+ {
+  "id": "daejeon-museum-art",
+  "url": "https://www.daejeon.go.kr/dma/index.do",
+  "note": "대전시립미술관 (JOB10) — 2026-09-29 첫 스냅샷 대기(JOB10 우선)"
+ },
+ {
+  "id": "expo-park",
+  "url": "https://www.expopark.kr/",
+  "note": "엑스포과학공원 (JOB10·JOB4) — 2026-09-29 첫 스냅샷 대기(JOB10 우선) ※ 현재 URL은 제천한방엑스포공원으로 수집됨(대전 엑스포과학공원 아님) — URL 교체 필요",
+  "render": true
+ },
+ {
+  "id": "nol-upcoming-notice",
+  "url": "https://tickets.interpark.com/contents/notice",
+  "note": "NOL 티켓오픈 예정 목록(JOB1/JOB3). 클라우드 WebFetch는 robots/승인 문제로 못 읽음",
+  "render": true
+ },
+ {
+  "id": "nol-notice-kotgumeong-daejeon",
+  "url": "https://tickets.interpark.com/contents/notice/detail/12758",
+  "note": "2026 뮤지컬 콧구멍을 후비면 - 대전 오픈예정 공지(JOB1 확인용) — 일반 수집 시 NOL 오픈예정 목록으로 바뀌어 저장됨, WebFetch 승인 대기 반복 → render 전환(2026-10-01 JOB1)",
+  "render": true
+ },
+ {
+  "id": "kma-hydro-dam",
+  "url": "http://hydro.kma.go.kr/obsStat/obsDamData.do",
+  "note": "기상청 수문기상 댐 저수율 표(대청댐 수위·저수율·유입·방류 수치, JOB9) — 클라우드 WebFetch robots/timeout으로 미열람"
+ },
+ {
+  "id": "yangju-notice",
+  "url": "https://www.yangju.go.kr/www/selectBbsNttList.do?key=203&bbsNo=14",
+  "note": "양주시 행사소식 — 드론봇 페스티벌 헬기 탑승 공고·접수 링크 감시 (JOB5, WebFetch robots 차단)"
+ },
+ {
+  "id": "ticketlink-notice-63712",
+  "url": "https://www.ticketlink.co.kr/help/notice/63712",
+  "note": "티켓링크 '뮤지컬 - 대전 티켓오픈 안내'(공지 63712, 작품명 미확인) — JOB1 확인용, 클라우드 WebFetch 승인대기 반복"
+ },
+ {
+  "id": "ticketlink-notice-60127",
+  "url": "https://www.ticketlink.co.kr/help/notice/60127",
+  "note": "티켓링크 '가족뮤지컬 - 대전 티켓오픈 안내'(공지 60127, 작품명·연도 미확인) — JOB1 확인용, WebFetch 승인대기"
+ },
+ {
+  "id": "ticketlink-notice-mobile",
+  "url": "https://m.ticketlink.co.kr/help/notice",
+  "note": "티켓링크 모바일 티켓오픈 공지 목록(JOB1·3). PC판 스냅샷은 JS 렌더링으로 본문 없음 — 모바일판 시도"
+ },
+ {
+  "id": "pyoungsong-performance",
+  "url": "https://pyoungsong.com/%EA%B3%B5%EC%97%B0%EC%95%88%EB%82%B4/",
+  "note": "평송청소년문화센터 공연안내 페이지(JOB1·2). 메인 스냅샷은 본문 0자 — 하위 페이지 시도",
+  "render": true
+ },
+ {
+  "id": "kopis-time-beyond-daejeon",
+  "url": "https://www.kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF271894",
+  "note": "JOB1 후보: KOPIS '시간을 넘어서 [대전]' 상세(장르·기간·연령 미확인, 승인 대기로 미열람)"
+ },
+ {
+  "id": "yes24-search-daejeon",
+  "url": "https://ticket.yes24.com/New/Search/Search.aspx?Query=%EB%8C%80%EC%A0%84",
+  "note": "JOB1: YES24 '대전' 검색 결과(대전 아동/가족 공연 발견용, 승인 대기로 미열람)"
+ },
+ {
+  "id": "yangju-eminwon-list",
+  "url": "https://www.yangju.go.kr/www/selectEminwonList.do?key=4075",
+  "note": "양주시 고시공고 목록 — 체험자 모집 공고·네이버폼 링크가 보도보다 먼저/정확히 올라오는 곳 (JOB5)"
+ },
+ {
+  "id": "yangju-eminwon-67958",
+  "url": "https://www.yangju.go.kr/www/selectEminwonView.do?key=4075&not_ancmt_mgt_no=67958",
+  "note": "양주시 공고 제2026-2155호 수리온 헬기 탑승 모집 원문 (신청 링크 확인용, JOB5)"
+ },
+ {
+  "id": "dsecc-programs",
+  "url": "https://dsecc.djsch.kr/djsecc/lm/appl/lectList.do?mi=1115",
+  "note": "대전학생교육문화원 강좌·행사 접수 목록 — 무료 어린이 공연(매직쇼 등) 선착순 접수 (JOB1)",
+  "render": true
+ },
+ {
+  "id": "seogu-exprn-list",
+  "url": "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub03_01/list.do",
+  "note": "서구 통합예약 체험/견학 목록(JS 렌더) — 아빠·가족 체험 (JOB10)",
+  "render": true
+ },
+ {
+  "id": "seogu-event-list",
+  "url": "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub02_01/list.do",
+  "render": true,
+  "note": "서구 통합예약 행사/공연 목록 (JOB10)"
+ },
+ {
+  "id": "seogu-edu-list",
+  "url": "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub01_02/list.do",
+  "render": true,
+  "note": "서구 통합예약 교육 프로그램 목록 (JOB10)"
+ },
+ {
+  "id": "daejeon-its-board",
+  "url": "https://www.daejeon.go.kr/its/ItsdjNormalboardList.do?boardGubun=itsdj01",
+  "render": true,
+  "note": "대전시 '잇츠대전' 소식 게시판 — 구·기관 가족 프로그램 소식 (JOB10·JOB7)"
+ },
+ {
+  "id": "zeropay-events",
+  "url": "https://www.zeropay.or.kr/UI_MP_004_04_01.act",
+  "render": true,
+  "note": "제로페이 행사 목록 — 수산대전상품권·지역상품권 이벤트 (JOB8)"
+ },
+ {
+  "id": "chuncheon-festival-news",
+  "url": "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295",
+  "render": true,
+  "note": "춘천시 행사소식 목록 — 춘천지구전투 전승행사(K-밀리터리 페스티벌) 헬기 탑승 사전모집 공고 확인용 (JOB5)"
+ },
+ {
+  "id": "chuncheon-festival-news-459539",
+  "url": "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=459539&flag=view",
+  "render": true,
+  "note": "춘천시 행사소식 — 춘천지구전투 전승행사 관련 게시물(WebFetch robots 차단) (JOB5)"
+ },
+ {
+  "id": "galleria-timeworld-culture",
+  "url": "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture",
+  "render": true,
+  "note": "갤러리아 타임월드 문화센터 강좌·공연 목록 — 백화점 가족뮤지컬(예: 정글북) 확인용 (JOB1). WebFetch robots 차단"
+ },
+ {
+  "id": "chuncheon-festival-news-464131",
+  "url": "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view",
+  "render": true,
+  "note": "춘천시 행사소식 — K-밀리터리 페스티벌:춘천대첩(10/9~11) 관련 게시물, 헬기 탑승 사전모집 확인용(WebFetch robots 차단) (JOB5)"
+ },
+ {
+  "id": "pyeongtaek-news-board",
+  "url": "https://www.pyeongtaek.go.kr/pyeongtaek/board/post/list.do?mid=0401010000&bcIdx=41",
+  "render": true,
+  "note": "평택시 알림마당 게시판 목록(bcIdx=41) — 해양페스티벌 항해체험 사전신청(지난 회차: 구글폼, 행사 약 1주 전 5일간, 100명) 같은 시 주관 군 체험 모집 공지 감시 (JOB5, JOB11 대조 보정)"
+ },
+ {
+  "id": "pyeongtaek-festival-alrimi",
+  "url": "https://www.pyeongtaek.go.kr/alrimi/festival/list.do?mid=0101000000",
+  "render": true,
+  "note": "평택행사 알리미 축제 목록 — 평택해양페스티벌 등 시 축제 세부 안내 (JOB5)"
+ },
+ {
+  "id": "pyeongtaek-gosi",
+  "url": "https://www.pyeongtaek.go.kr/pyeongtaek/saeol/gosi/list.do?mid=0401020100",
+  "render": true,
+  "note": "평택시 고시공고 목록 — 체험자 모집 공고 (JOB5)"
+ },
+ {
+  "id": "pt-story-blog-rss",
+  "url": "https://rss.blog.naver.com/pt_story.xml",
+  "note": "평택시 공식 블로그 RSS — 지난 회차 항해체험 신청(구글폼 링크)이 여기 먼저 게시됨 (JOB5)"
+ },
+ {
+  "id": "hanbat-library-culture",
+  "url": "https://www.daejeon.go.kr/hanbatlibrary/cultureEventListView.do?menuSeq=6234",
+  "note": "한밭도서관 문화행사 목록(토요문화광장 등 가족 공연·체험 상세 확인용, OK예약 goDtl 상세는 스냅샷 불가) — JOB10",
+  "render": true
+ },
+ {
+  "id": "cnu-accessio-board",
+  "url": "https://cnustudent.cnu.ac.kr/cnustudent/accessio.do?mode=list&article.offset=0&articleLimit=10",
+  "note": "충남대 총학생회 대동제(ACCESSIO) 게시판 — 일정·라인업·외부인 입장 공지 (JOB2)"
+ },
+ {
+  "id": "cnu-press-news",
+  "url": "https://press.cnu.ac.kr/news/articleList.html?view_type=sm",
+  "note": "충대신문 최신기사 — 대동제·동아리 공연 사전 보도 (JOB2)"
+ },
+ {
+  "id": "hanbat-notice-board",
+  "url": "https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000050/list.do?mno=sub07_01",
+  "note": "한밭대 공지 게시판(백련제 버스 안내 등 게시, 기존 hanbat-notice 404 대체) (JOB2)"
+ },
+ {
+  "id": "nol-search-kotgumeong",
+  "url": "https://nol.yanolja.com/ticket/search?keyword=%EC%BD%A7%EA%B5%AC%EB%A9%8D%EC%9D%84%20%ED%9B%84%EB%B9%84%EB%A9%B4",
+  "note": "NOL 검색 '콧구멍을 후비면'(대전 회차 확인용, JOB1)",
+  "render": true
+ },
+ {
+  "id": "chuncheon-festival-news-465019",
+  "url": "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view",
+  "render": true,
+  "note": "춘천시 행사소식 2026-09-30 '제76주년 K-밀리터리 페스티벌: 춘천대첩' 본문 — 헬기·전술차량 탑승 사전신청 여부 확인용(WebFetch 승인 대기) (JOB5)"
+ },
+ {
+  "id": "pyoungsong-event-nunkkot",
+  "url": "https://pyoungsong.com/event/i%ea%b8%b0%ed%9a%8d-21/",
+  "note": "평송 공연목록 '눈꽃공연'(10/3 표기) 상세 — JOB1, 클라우드 WebFetch 승인대기",
+  "render": true
+ },
+ {
+  "id": "pyoungsong-event-piglets",
+  "url": "https://pyoungsong.com/event/i%ea%b8%b0%ed%9a%8d-22/",
+  "note": "평송 공연목록 '아기돼지 삼형제' 상세 — JOB1, WebFetch 승인대기",
+  "render": true
+ },
+ {
+  "id": "pyoungsong-event-sandmagic",
+  "url": "https://pyoungsong.com/event/%eb%b8%94%eb%a3%a8%ec%95%84%ed%8a%b8%ec%bb%b4%ed%8d%bc%eb%8b%88-4/",
+  "note": "평송 공연목록 '2026 신비한 샌드매직쇼' 상세 — JOB1, WebFetch 승인대기",
+  "render": true
+ },
+ {
+  "id": "pyoungsong-event-stonesoup",
+  "url": "https://pyoungsong.com/event/%ed%96%89%eb%b3%b5%ed%95%9c%ea%b5%90%ec%9c%a1/",
+  "note": "평송 공연목록 '돌맹이수프' 상세 — JOB1, WebFetch 승인대기",
+  "render": true
+ },
+ {
+  "id": "donghae-dhdmo-program",
+  "url": "https://dhdmo.com/program-event/program.php",
+  "render": true,
+  "note": "동해관광플랫폼 프로그램 목록 — JOB5 '동해바다 열기구 탑승체험' 신청 확인용(WebFetch robots 차단)"
+ },
+ {
+  "id": "pohang-phtour-notice",
+  "url": "https://news.google.com/rss/search?q=%ED%8F%AC%ED%95%AD+%ED%95%B4%EB%B3%91%EB%8C%80%EB%AC%B8%ED%99%94%EC%B6%95%EC%A0%9C&hl=ko&gl=KR&ceid=KR:ko",
+  "render": false,
+  "note": "JOB5 포항 해병대문화축제(2025년 11/15~16, 헬기·장갑차 탑승 체험) 공지 게시판 — 2025년 공지가 11월 초 여기 게시됨, 2026 회차 탑승 신청 방식 감시(WebFetch 차단) | 2026-09-30 17:40 JOB5: 기존 list URL 404(fail 2) → 2025 공지 view URL과 같은 파라미터(search_type·viewPage)로 교체 | 2026-10-03 JOB5: 교체 URL도 404(161회) → 대한민국 구석구석 축제 상세(포항 해병대 문화축제)로 교체 | 2026-10-07 JOB5: 축제 상세도 404(166회) → 구글뉴스(한국) RSS 검색 목록으로 교체(2026 11/14~15 회차 탑승·사전신청 보도 감시)"
+ },
+ {
+  "id": "daejeon-familycenter-programs",
+  "url": "https://daejeon.familynet.or.kr/center/lay1/program/S295T322C451/recruitReceipt/list.do",
+  "render": true,
+  "note": "대전광역시가족센터 프로그램신청 목록 (가족 프로그램 네이버폼 접수 공지) — JOB10, WebFetch 400"
+ },
+ {
+  "id": "daejeon-okr-edu",
+  "url": "https://www.daejeon.go.kr/okr2019/OkrFactoryInfo.do?menuSeq=8201",
+  "render": true,
+  "note": "대전시 OK예약 교육 목록(시립미술관 주말교육 등, goDtl menu 8201) — JOB10 2026-09-30 추가, 상세 확인용"
+ },
+ {
+  "id": "daejeon-okr-hanbatlib",
+  "url": "https://www.daejeon.go.kr/okr2019/eduRsvtList.do?menuSeq=8101&keyword=%ED%95%9C%EB%B0%AD%EB%8F%84%EC%84%9C%EA%B4%80&searchType=01",
+  "render": true,
+  "note": "대전 OK예약 교육(8101) 한밭도서관 검색 목록 — 꼬꼬마 인형극·샌드아트·과학 놀이터 등 대상·정원·접수시각 확인용 (JOB10 2026-10-01 추가, WebFetch 승인 대기)"
+ },
+ {
+  "id": "kau-news-list",
+  "url": "https://kaunews.kau.ac.kr/pages/news.php",
+  "note": "한국항공대 교내뉴스 목록 — 활주로축제(2024 수리온 헬기·열기구 탑승, 2025 11/7~8 열기구) 2026 개최·사전신청 공지 감시 (JOB5 2026-10-01 추가)"
+ },
+ {
+  "id": "science-edu-reservation",
+  "url": "https://rsvn.science.go.kr/nsm/edcarsvn/edcarsvnList",
+  "note": "국립중앙과학관 교육예약 목록 (JOB10: 탄동천 탐사 등 기타교육·자연탐사 접수 전환) — 2026-10-01 JOB10 추가, WebFetch 승인 대기",
+  "render": true
+ },
+ {
+  "id": "sejong-notice",
+  "url": "https://www.sejong.go.kr/bbs/R0071/list.do",
+  "note": "세종시청 공지사항 목록 후보 (JOB10: '행복도시 그린 패밀리' 등 가족 프로그램 모집) — 2026-10-01 JOB10 추가, 게시판 정체 미확인",
+  "render": true
+ },
+ {
+  "id": "sejong-notice-greenfamily",
+  "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162462Sv4bN0t&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
+  "note": "세종시 환경정책과 '지구를 지키는 우리 가족, 행복도시 그린 패밀리' 참여가족 모집 상세 — JOB10 2026-10-01 추가(대상·거주지·접수 확인용, WebFetch 승인 대기)",
+  "render": true
+ },
+ {
+  "id": "sejong-notice-birdwatch",
+  "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162468Pr1hI2w&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
+  "note": "세종 직장맘지원센터 '도시에서 만나는 새(아이와 함께하는 도심 속 탐조)' 상세 — JOB10 2026-10-01 추가(자격 확인용)",
+  "render": true
+ },
+ {
+  "id": "yangyang-cafe-balloon-15331",
+  "url": "https://cafe.naver.com/yangyangbbakdok/15331",
+  "render": true,
+  "note": "네이버카페 '동해바다 열기구 탑승체험 프로그램 신청 안내' — 주최·대상(거주지)·나이·신청폼 확인용, WebFetch 승인 대기 (JOB5 2026-10-01)"
+ },
+ {
+  "id": "komsco-shop-medal",
+  "url": "https://www.koreamint.com/goods/category.do?cate=2204",
+  "note": "조폐공사 쇼핑몰 기념메달 목록 (JOB13 신규 한정 메달)",
+  "render": true
+ },
+ {
+  "id": "komsco-shop-coin",
+  "url": "https://www.koreamint.com/goods/category.do?cate=2003",
+  "note": "조폐공사 쇼핑몰 기념주화 목록 (JOB13)",
+  "render": true
+ },
+ {
+  "id": "komsco-shop-bar",
+  "url": "https://www.koreamint.com/goods/category.do?cate=2053",
+  "note": "조폐공사 쇼핑몰 골드바·실버바 목록 (JOB13)",
+  "render": true
+ },
+ {
+  "id": "komsco-shop-card",
+  "url": "https://www.koreamint.com/goods/category.do?cate=2201",
+  "note": "조폐공사 쇼핑몰 카드형 제품 전체 목록(별자리 시리즈 등 신규 카드형 골드·가격 확인용, JOB13)",
+  "render": true
+ },
+ {
+  "id": "komsco-shop-currency-set",
+  "url": "https://www.koreamint.com/goods/category.do?cate=1970",
+  "note": "조폐공사 쇼핑몰 현용주화세트 (JOB13)",
+  "render": true
+ },
+ {
+  "id": "cnu-jsh-schedule",
+  "url": "https://jsh.cnu.ac.kr/segio/jsh/html/event_month_schedule.php?shell=%2Findex.shell%3A313&htype=J",
+  "render": true,
+  "note": "충남대 정심화국제문화회관 월간 공연일정 (JOB2 — 학과·동아리 정기공연이 먼저 올라옴, WebFetch robots 타임아웃)"
+ },
+ {
+  "id": "bok-commemorative-coin-news",
+  "url": "https://www.bok.or.kr/portal/bbs/B0000502/list.do?menuNo=201265",
+  "render": true,
+  "note": "JOB13 한국은행 기념주화 발행·예약 공지 목록 (WebFetch 시 메뉴만 보임)"
+ },
+ {
+  "id": "daejeon-cafe-100papa-40250",
+  "url": "https://cafe.naver.com/100papa/40250",
+  "render": true,
+  "note": "네이버카페 100papa '한밭공동육아나눔터 과학 ON! 호기심 ON!'(대전가족센터, 네이버폼 naver.me/F4WggqeN, 무료) — 일시·대상·정원·접수 시작일 확인용, WebFetch 승인 대기 (JOB10 2026-10-02)"
+ },
+ {
+  "id": "sejong-notice-hangeulday-book",
+  "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162560Oq5rL3g&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
+  "render": true,
+  "note": "세종시 공지 20104 '세종책문화센터 2026 한글날 기념 행사 홍보 안내'(시립도서관, 10-02) 추정 상세 — 어린이·가족 사전신청 프로그램 유무·거주지 제한 확인용. WebFetch robots 차단. JOB10 2026-10-02 추가(nttId 목록 순서로 추정, 제목 불일치 시 교체)"
+ },
+ {
+  "id": "nol-notice-10111",
+  "url": "https://tickets.interpark.com/contents/notice/detail/10111",
+  "render": true,
+  "note": "JOB3 NOL 티켓오픈 공지(이해원 관련 단서) — WebFetch robots 차단"
+ },
+ {
+  "id": "naver-entertain-018-0006379428",
+  "url": "https://m.entertain.naver.com/article/018/0006379428",
+  "render": true,
+  "note": "JOB3 discover '이적 공연' 단서(이데일리 연예) — WebFetch 차단"
+ },
+ {
+  "id": "melon-artist-songsohee",
+  "url": "https://ticket.melon.com/artist/index.htm?artistId=672059",
+  "render": true,
+  "note": "JOB3 멜론티켓 송소희 아티스트 공연 목록"
+ },
+ {
+  "id": "interpark-artist-leejuck",
+  "url": "https://tickets.interpark.com/play/artist/%EC%9D%B4%EC%A0%81-fpReS7n6kOgadqNS",
+  "render": true,
+  "note": "JOB3 NOL/인터파크 이적 아티스트 공연 목록"
+ },
+ {
+  "id": "yctf-show",
+  "url": "https://yctf.kr/show",
+  "render": true,
+  "note": "JOB3 예천문화관광재단 공연목록(송소희 모던민요 개최 이력) — WebFetch 403"
+ },
+ {
+  "id": "sejong-notice-science-concert",
+  "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162593Pe6zJ5z&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
+  "render": true,
+  "note": "세종시 공지 20112 '세종과학콘서트 개최 안내'(미래산업과, 10-02) 추정 상세 — 10/24 국립세종수목원, 참가 대상 '세종 시민 누구나' 문구의 거주지 제한 여부·신청 링크 확인용. WebFetch robots 차단. JOB10 2026-10-02 추가(nttId 목록 순서로 추정, 제목 불일치 시 교체)"
+ },
+ {
+  "id": "sejong-notice-science-jiphyeonjeon",
+  "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162590Al4sT4g&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
+  "render": true,
+  "note": "세종시 공지 20110 '2026 세종과학집현전 행사 개최 안내'(미래산업과, 10-02) 추정 상세 — 어린이·가족 사전신청 프로그램·거주지 제한 확인용. WebFetch robots 차단. JOB10 2026-10-02 추가(nttId 목록 순서로 추정, 제목 불일치 시 교체)"
+ },
+ {
+  "id": "sejong-notice-hangeul-firefly",
+  "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162574Xt2aV7e&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
+  "render": true,
+  "note": "세종시 공지 20108 '「2026 한글 반딧불이 집현전」 개최 안내(10.10.)'(한글문화도시과, 10-02) 추정 상세 — 사전신청·대상·거주지 제한 확인용. WebFetch robots 차단. JOB10 2026-10-02 추가(nttId 목록 순서로 추정, 제목 불일치 시 교체)"
+ },
+ {
+  "id": "yangyang-cafe-balloon-15331-m",
+  "url": "https://m.cafe.naver.com/ca-fe/web/cafes/29992457/articles/15331",
+  "render": true,
+  "note": "JOB5 동해바다 열기구 탑승체험 신청 안내 — 데스크톱 카페는 iframe이라 본문 미수집, 모바일 본문 (2026-10-02 추가)"
+ },
+ {
+  "id": "yangyang-cafe-balloon-15331-api",
+  "url": "https://article.cafe.naver.com/gw/v3/cafes/29992457/articles/15331?useCafeId=true",
+  "note": "JOB5 동해바다 열기구 — 카페 글 JSON API 본문 (2026-10-02 추가)"
+ },
+ {
+  "id": "hanbat-gongdong-science-form",
+  "url": "https://naver.me/F4WggqeN",
+  "render": true,
+  "note": "JOB10 한밭공동육아나눔터 '과학 ON! 호기심 ON!' 신청 네이버폼 — 일시·대상·정원 확인용 (WebFetch 도메인 차단, 2026-10-02 추가)"
+ },
+ {
+  "id": "daejeon-cafe-dodam-2801968",
+  "url": "https://cafe.naver.com/dodamdadam1004/2801968",
+  "render": true,
+  "note": "JOB10 도담도담 대전맘 카페 한밭공동육아나눔터 승화전사 굿즈 체험 홍보글 (WebFetch 차단, 2026-10-02 추가)"
+ },
+ {
+  "id": "cnu-jsh-schedule-178",
+  "url": "https://jsh.cnu.ac.kr/segio/jsh/html/event_month_schedule.php?shell=/index.shell:178",
+  "render": true,
+  "note": "충남대 정심화국제문화회관 월간 공연일정 대체 URL (기존 shell:313은 66회 연속 0자, JOB2 2026-10-03 추가)"
+ },
+ {
+  "id": "dmzforest-main",
+  "url": "https://www.dmzforest.com/",
+  "render": true,
+  "note": "파주 민통선 DMZ숲 개인 방문 회차 공지(오픈위크·침묵산책 등) — 군사통제구역 특별출입 유형(JOB5). JOB11 2026-10-03 추가"
+ },
+ {
+  "id": "sejong-notice-dance-free",
+  "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162627Cn4vS8e&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
+  "render": true,
+  "note": "세종시 공지 20119 '전문 무용수와 함께하는 초·중학생 현대무용 무료체험 참여자 모집'(문화예술과, 10-03) 상세 — 대상(초등 학년)·거주지 제한·정원·신청 확인용. WebFetch robots 차단. JOB10 2026-10-03 추가(links.json 순서로 nttId 매칭)"
+ },
+ {
+  "id": "sejong-notice-family-magic-play",
+  "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162626Dx2zU0j&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
+  "render": true,
+  "note": "세종시 공지 20118 '[세종 가족공연] 마술과 연극이 만나다, 초연신작 공연 소식'(문화예술과, 10-03) 상세 — 일시·장소·관람연령·가격·예매 오픈 확인용. WebFetch robots 차단. JOB10 2026-10-03 추가"
+ },
+ {
+  "id": "melon-christmas-carol-212575",
+  "url": "https://ticket.melon.com/performance/index.htm?prodId=212575",
+  "render": true,
+  "note": "JOB1: 멜론 '크리스마스 캐럴' 상품(대전 가족공연 검색에 노출, WebFetch 423) — 지역·일정·오픈 확인용"
+ },
+ {
+  "id": "woorisb-tok7-product",
+  "url": "https://m.woorisavingsbank.com/product/deposite/view.do?prdSn=325",
+  "render": true,
+  "note": "JOB13: 우리금융저축은행 상품 상세(TOK7 적금 추정) — 기본·우대금리·판매한도 확인용, WebFetch robots 타임아웃. 2026-10-05 추가"
+ },
+ {
+  "id": "mommom-sandmagic-a",
+  "url": "https://mom-mom.net/travel/places/6a6fff6990947ad2c40e40da",
+  "note": "가족공연 판매 페이지(샌드매직쇼 사라진 모래상자, 대전/부산 회차) — JOB1, 클라우드 WebFetch 차단",
+  "render": true
+ },
+ {
+  "id": "mommom-sandmagic-b",
+  "url": "https://mom-mom.net/travel/places/6a583bb00c06be407d755ad0",
+  "note": "가족공연 판매 페이지(샌드매직쇼 사라진 모래상자) — JOB1, 클라우드 WebFetch 차단",
+  "render": true
+ },
+ {
+  "id": "djstar-notice-158",
+  "url": "https://www.djstar.kr/bbs/board.php?bo_table=web_notice&wr_id=158",
+  "note": "대전시민천문대 공지 '2026년 11월 20일(금) 겨울의…'(10-02) 상세 — 행사명·대상·접수 확인용. WebFetch egress 차단. JOB10 2026-10-07 추가"
+ },
+ {
+  "id": "djstar-notice-160",
+  "url": "https://www.djstar.kr/bbs/board.php?bo_table=web_notice&wr_id=160",
+  "note": "대전시민천문대 공지 KAIST 밴드동아리 '동틀무렵'(10-03) 상세 — 천문대 공연 여부 확인용(JOB10/JOB1). JOB10 2026-10-07 추가"
+ },
+ {
+  "id": "sejong-notice-imnansu-play",
+  "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000162716Tg5lA9n&mno=sub02_01&cmsNoStr=&pageIndex=1&kind=",
+  "render": true,
+  "note": "세종시 공지 20126 '세종 임난수 은행나무 아래에서 즐기는 체험놀이' 참가자 모집(문화유산과, 10-06) 추정 상세 — 대상·거주지 제한·접수 확인용. WebFetch egress 차단. JOB10 2026-10-07 추가(nttId 목록 순서로 추정, 제목 불일치 시 교체)"
+ },
+ {
+  "id": "daejonilbo-2305720",
+  "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2305720",
+  "note": "대전일보 성북동 숲길 걷기대회(10/31 유성구 성북동) 기사 — 주최·참가비·접수·가족 대상 확인용. WebFetch egress 차단. JOB10 2026-10-08 추가"
+ },
+ {
+  "id": "icheon-ricefestival-schedule",
+  "url": "https://www.ricefestival.or.kr/program/program.php?sp=schedule",
+  "render": true,
+  "note": "이천쌀문화축제 일정표 — 육군항공사령부 10/17 부대개방 헬기 탑승 대상·신청방식 확인용. WebFetch egress 차단. JOB5 2026-10-08 추가"
+ },
+ {
+  "id": "newstong-14731763",
+  "url": "https://www.newstong.co.kr/view3.aspx?seq=14731763",
+  "note": "육군항공사령부 10/17 이천 부대개방 보도 원문 — 대상·신청방식 확인용. WebFetch egress 차단. JOB5 2026-10-08 추가"
+ },
+ {
+  "id": "nol-product-kongsuni-daejeon",
+  "url": "https://nol.yanolja.com/ticket/products/26007853",
+  "note": "NOL '엉뚱발랄 콩순이 슈퍼콘서트 - 대전' 상품 페이지(일정·공연장 확인용, JOB1)",
+  "render": true
+ },
+ {
+  "id": "daejeon-drh-fireworks-autumn-2026",
+  "url": "https://www.daejeon.go.kr/drh/board/boardNormalView.do?boardId=normal_0167&menuSeq=1547&pageIndex=1&ntatcSeq=1523773918",
+  "note": "JOB4 대전시 2026 불꽃 가을축제 시간표·교통통제 안내"
+ },
+ {
+  "id": "andong-halftour",
+  "url": "https://andonghalftour.kr/",
+  "render": true,
+  "note": "JOB7 안동 반값여행 누리집 (차수별 모집 공지)"
+ }
 ]
