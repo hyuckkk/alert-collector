@@ -2,6 +2,9 @@ name: discover-korean-search
 on:
   schedule:
     - cron: "7 * * * *"
+  push:
+    branches: [main]
+    paths: ["watch/queries.json"]
   workflow_dispatch:
 concurrency:
   group: discover
