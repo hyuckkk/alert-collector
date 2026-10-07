@@ -9,8 +9,8 @@
    "event_period": "2026-10-24 ~ 2026-10-24",
    "apply_period": "2026-09-28 09:00 ~ 2026-10-05 18:00",
    "capacity": "14/14",
-   "waiting": "대기 49/99",
-   "status": "대기접수"
+   "waiting": "대기 50/99",
+   "status": "접수종료"
   },
   {
    "source": "yuseong-anytime-event",
@@ -224,7 +224,7 @@
    "selection": "선착순",
    "event_period": "2026-10-31 ~ 2026-10-31",
    "apply_period": "2026-09-22 12:00 ~ 2026-10-30 14:57",
-   "capacity": "4/10",
+   "capacity": "5/10",
    "waiting": "대기 0/2",
    "status": "접수중"
   },
@@ -249,8 +249,8 @@
    "event_period": "2026-10-17 ~ 2026-10-17",
    "apply_period": "2026-09-22 11:00 ~ 2026-10-16 14:39",
    "capacity": "7/7",
-   "waiting": "대기 2/2",
-   "status": "접수마감"
+   "waiting": "대기 1/2",
+   "status": "대기자접수중"
   },
   {
    "source": "seogu-exprn-list",
@@ -356,7 +356,7 @@
    "selection": "선착순",
    "event_period": "2026-10-17 ~ 2026-10-17",
    "apply_period": "2026-09-19 13:00 ~ 2026-10-16 23:00",
-   "capacity": "28/40",
+   "capacity": "29/40",
    "waiting": "대기 0/4",
    "status": "접수중"
   },
@@ -392,7 +392,7 @@
    "selection": "선착순",
    "event_period": "2026-10-17 ~ 2026-10-17",
    "apply_period": "2026-09-19 09:10 ~ 2026-10-16 23:00",
-   "capacity": "36/50",
+   "capacity": "35/50",
    "waiting": "대기 0/5",
    "status": "접수중"
   },
@@ -416,7 +416,7 @@
    "selection": "선착순",
    "event_period": "2026-10-31 ~ 2026-10-31",
    "apply_period": "2026-09-22 12:00 ~ 2026-10-30 14:57",
-   "capacity": "4/10",
+   "capacity": "5/10",
    "waiting": "대기 0/2",
    "status": "접수중"
   },
@@ -441,8 +441,8 @@
    "event_period": "2026-10-17 ~ 2026-10-17",
    "apply_period": "2026-09-22 11:00 ~ 2026-10-16 14:39",
    "capacity": "7/7",
-   "waiting": "대기 2/2",
-   "status": "접수마감"
+   "waiting": "대기 1/2",
+   "status": "대기자접수중"
   },
   {
    "source": "seogu-event-list",
@@ -548,7 +548,7 @@
    "selection": "선착순",
    "event_period": "2026-10-17 ~ 2026-10-17",
    "apply_period": "2026-09-19 13:00 ~ 2026-10-16 23:00",
-   "capacity": "28/40",
+   "capacity": "29/40",
    "waiting": "대기 0/4",
    "status": "접수중"
   },
@@ -584,7 +584,7 @@
    "selection": "선착순",
    "event_period": "2026-10-17 ~ 2026-10-17",
    "apply_period": "2026-09-19 09:10 ~ 2026-10-16 23:00",
-   "capacity": "36/50",
+   "capacity": "35/50",
    "waiting": "대기 0/5",
    "status": "접수중"
   },
@@ -608,7 +608,7 @@
    "selection": "선착순",
    "event_period": "2026-10-31 ~ 2026-10-31",
    "apply_period": "2026-09-22 12:00 ~ 2026-10-30 14:57",
-   "capacity": "4/10",
+   "capacity": "5/10",
    "waiting": "대기 0/2",
    "status": "접수중"
   },
@@ -633,8 +633,8 @@
    "event_period": "2026-10-17 ~ 2026-10-17",
    "apply_period": "2026-09-22 11:00 ~ 2026-10-16 14:39",
    "capacity": "7/7",
-   "waiting": "대기 2/2",
-   "status": "접수마감"
+   "waiting": "대기 1/2",
+   "status": "대기자접수중"
   },
   {
    "source": "seogu-edu-list",
@@ -740,7 +740,7 @@
    "selection": "선착순",
    "event_period": "2026-10-17 ~ 2026-10-17",
    "apply_period": "2026-09-19 13:00 ~ 2026-10-16 23:00",
-   "capacity": "28/40",
+   "capacity": "29/40",
    "waiting": "대기 0/4",
    "status": "접수중"
   },
@@ -776,7 +776,7 @@
    "selection": "선착순",
    "event_period": "2026-10-17 ~ 2026-10-17",
    "apply_period": "2026-09-19 09:10 ~ 2026-10-16 23:00",
-   "capacity": "36/50",
+   "capacity": "35/50",
    "waiting": "대기 0/5",
    "status": "접수중"
   }
