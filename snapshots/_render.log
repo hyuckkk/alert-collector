@@ -1,38 +1,50 @@
-[yuseong-round-event] rendered 1328 chars same
-[seogu-yeyak] rendered 1971 chars CHANGED
-[pyoungsong] rendered 824 chars CHANGED
-[djkids-musical] rendered 1618 chars CHANGED
-[djkids-notice] rendered 1023 chars CHANGED
-[dctf] rendered 1492 chars same
-[nol-family] rendered 2278 chars CHANGED
-[ticketlink-notice] rendered 1468 chars CHANGED
-[oworld-notice] rendered 1067 chars same
+[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
+
+[seogu-yeyak] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.seogu.go.kr/yeyak/index.do", waiting until "domcontentloaded"
+
+[pyoungsong] rendered 828 chars CHANGED
+[djkids-musical] rendered 1618 chars same
+[djkids-notice] rendered 1023 chars same
+[dctf] RENDER ERROR rendered but too little text (0 chars)
+[nol-family] rendered 2280 chars CHANGED
+[ticketlink-notice] RENDER ERROR rendered but too little text (0 chars)
 [baekje-schedule] rendered 1692 chars same
-[geumriver-dam] rendered 1983 chars CHANGED
+[geumriver-dam] rendered 1983 chars same
 [woosongart-schedule] rendered 590 chars same
-[pyeongtaek-main] rendered 7163 chars same
+[pyeongtaek-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.pyeongtaek.go.kr/", waiting until "domcontentloaded"
+
 [kopis-daejeon-kids] rendered 4441 chars same
 [kwater-realtime-multidam] rendered 3753 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 2281 chars CHANGED
 [gongjeon-kids] rendered 482 chars same
-[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
-[katc-schedule] rendered 687 chars CHANGED
-[mnd-main] rendered 3349 chars same
-[fsale-main] rendered 357 chars same
-[fsale-onnuri] rendered 361 chars same
+[navy-visit-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000", waiting until "domcontentloaded"
+
+[katc-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.katc.mil.kr/katc/guide/schedule.jsp", waiting until "domcontentloaded"
+
 [gcfct-schedule] rendered 371 chars CHANGED
 [mokwon-events] rendered 948 chars same
 [science-reservation] rendered 1436 chars same
-[khs-notice] rendered 309 chars same
-[royal-khs-events] rendered 2739 chars same
+[khs-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.khs.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1008&mn=NS_01_02_01", waiting until "domcontentloaded"
+
+[royal-khs-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://royal.khs.go.kr/", waiting until "domcontentloaded"
+
 [expo-park] rendered 735 chars CHANGED
-[nol-upcoming-notice] rendered 1229 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 1275 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] RENDER ERROR rendered but too little text (0 chars)
-[pyoungsong-performance] rendered 953 chars CHANGED
-[kopis-time-beyond-daejeon] rendered 632 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[dsecc-programs] rendered 1943 chars same
-[seogu-exprn-list] rendered 2459 chars same
-[seogu-event-list] rendered 2459 chars same
+[nol-upcoming-notice] rendered 1231 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 1233 chars CHANGED
+[kma-hydro-dam] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "http://hydro.kma.go.kr/obsStat/obsDamData.do", waiting until "domcontentloaded"
+
