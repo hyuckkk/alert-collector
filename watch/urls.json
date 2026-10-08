@@ -545,15 +545,15 @@
  },
  {
   "id": "daejeon-okr-edu",
-  "url": "https://www.daejeon.go.kr/okr2019/OkrFactoryInfo.do?menuSeq=8201",
+  "url": "https://www.daejeon.go.kr/okr2019/OkrExpList.do?menuSeq=8201",
   "render": true,
-  "note": "대전시 OK예약 교육 목록(시립미술관 주말교육 등, goDtl menu 8201) — JOB10 2026-09-30 추가, 상세 확인용"
+  "note": "대전시 OK예약 체험/교육(8201) 실제 목록 — 시립미술관 주말교육 등. 옛 URL(OkrFactoryInfo.do) 0자 186회 실패로 교체(JOB11 2026-10-08)"
  },
  {
   "id": "daejeon-okr-hanbatlib",
-  "url": "https://www.daejeon.go.kr/okr2019/eduRsvtList.do?menuSeq=8101&keyword=%ED%95%9C%EB%B0%AD%EB%8F%84%EC%84%9C%EA%B4%80&searchType=01",
+  "url": "https://www.daejeon.go.kr/okr2019/OkrEduList.do?menuSeq=8101",
   "render": true,
-  "note": "대전 OK예약 교육(8101) 한밭도서관 검색 목록 — 꼬꼬마 인형극·샌드아트·과학 놀이터 등 대상·정원·접수시각 확인용 (JOB10 2026-10-01 추가, WebFetch 승인 대기)"
+  "note": "대전시 OK예약 교육(8101) 실제 목록 — 한밭도서관 인형극·샌드아트 등. 옛 검색 URL 0자 181회 실패로 교체(JOB11 2026-10-08)"
  },
  {
   "id": "kau-news-list",
@@ -899,5 +899,17 @@
   "url": "https://www.visitisland.kr",
   "render": true,
   "note": "JOB7 섬 방문의 해 섬 여행경비 지원 신청·추가모집 공지 확인용(WebFetch egress 차단) | 2026-10-08 JOB7 추가"
+ },
+ {
+  "id": "daejeon-okr-edu-8100",
+  "url": "https://www.daejeon.go.kr/okr2019/OkrEduList.do?menuSeq=8100",
+  "render": true,
+  "note": "대전시 OK예약 교육(8100) 목록 — 공공기관 어린이 교육 접수 상태(JOB10·JOB11 2026-10-08)"
+ },
+ {
+  "id": "visitkorea-tour50-notice",
+  "url": "https://korean.visitkorea.or.kr/dgtourcard/biz/half/tourNotice.do",
+  "render": true,
+  "note": "대한민국 반값여행 공지 목록 — 지자체별 차수 공고·신청 사이트 안내(JOB7, JOB11 2026-10-08)"
  }
 ]
