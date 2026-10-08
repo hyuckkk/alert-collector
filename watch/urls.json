@@ -1108,5 +1108,11 @@
   "url": "https://www.mokwon.ac.kr/kr/html/sub06/0601.html",
   "note": "목원대 알림마당 일반공지 목록 — 총학생회 대동제(2026 '시절인연') 공지 (JOB2)",
   "render": true
+ },
+ {
+  "id": "templestay-main",
+  "url": "https://www.templestay.com",
+  "note": "템플스테이 누리집(행복 두배 템플스테이 행사 배너·예약 오픈). 세션 WebFetch 차단으로 수집 의뢰, 공지 목록 URL 확인 시 교체",
+  "render": true
  }
 ]
