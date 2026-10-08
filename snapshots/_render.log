@@ -1,19 +1,19 @@
-[nol-product-phantom-40th] rendered 4876 chars CHANGED
-[daejeontour-bread-festival] rendered 4033 chars CHANGED
+[nol-product-phantom-40th] rendered 4877 chars CHANGED
+[daejeontour-bread-festival] rendered 4936 chars CHANGED
 [visitisland-main] rendered 1010 chars CHANGED
 [daejeon-okr-edu-8100] rendered 1627 chars CHANGED
 [visitkorea-tour50-notice] rendered 616 chars CHANGED
 [mommom-place-6a7d51b7] rendered 95 chars CHANGED
 [blog-first_seogu-224428074790] rendered 3250 chars CHANGED
-[blog-dooglami-224433357728] rendered 5173 chars CHANGED
+[blog-dooglami-224433357728] rendered 5233 chars CHANGED
 [yes24-genre-children] rendered 196 chars CHANGED
 [pyoungsong-event-feed] rendered 34079 chars CHANGED
 [pyoungsong-monthly] rendered 634 chars CHANGED
 [pyoungsong-wp-event-api] rendered 208 chars CHANGED
 [pyoungsong-tribe-events-api] rendered 149537 chars CHANGED
 [pyoungsong-event-list] rendered 293 chars CHANGED
-[ticketlink-notice-65862] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[docomomokorea-main] RENDER ERROR rendered but too little text (23 chars)
+[ticketlink-notice-65862] rendered 182177 chars CHANGED
+[docomomokorea-main] rendered 293 chars CHANGED
 [pyoungsong-event-rudolph] rendered 424 chars CHANGED
 [pyoungsong-event-snowwhite] rendered 413 chars CHANGED
 [blog-namuac21-224427113169] rendered 4727 chars CHANGED
@@ -23,22 +23,27 @@
 [komsco-shop-cate2284] rendered 6883 chars CHANGED
 [mcst-culture-71983] rendered 1180 chars CHANGED
 [aircanada-korea] rendered 22724 chars CHANGED
-[science-reservation] rendered 1438 chars CHANGED
-[khs-notice] rendered 309 chars same
-[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[expo-park] rendered 727 chars CHANGED
-[nol-upcoming-notice] rendered 17656 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 17687 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://m.ticketlink.co.kr/help/notice']' timed out after 75 seconds
-[pyoungsong-performance] rendered 984 chars same
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[seogu-exprn-list] rendered 2459 chars CHANGED
-[seogu-event-list] rendered 2459 chars CHANGED
-[ticketlink-notice] rendered 165162 chars CHANGED
-[dsecc-programs] rendered 1949 chars CHANGED
-[seogu-edu-list] rendered 2465 chars CHANGED
-[daejeon-its-board] rendered 3573 chars CHANGED
-[zeropay-events] rendered 529 chars CHANGED
-[chuncheon-festival-news] rendered 866 chars CHANGED
+[aircanada-kr-so-hub] rendered 2602 chars CHANGED
+[aircanada-kr-kbcard] rendered 27039 chars CHANGED
+[aircanada-kr-moretotravel] rendered 2959 chars CHANGED
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[chuncheon-festival-news-459539] rendered 800 chars CHANGED
+[galleria-timeworld-culture] rendered 2160 chars CHANGED
+[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "
+[pyeongtaek-news-board] rendered 3295 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 6519 chars CHANGED
+[pyeongtaek-gosi] rendered 1645 chars CHANGED
+[hanbat-library-culture] rendered 2617 chars CHANGED
+[chuncheon-festival-news-465019] rendered 1113 chars CHANGED
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[melon-artist-songsohee] rendered 2082 chars CHANGED
+[melon-christmas-carol-212575] rendered 1935 chars CHANGED
+[pyoungsong-event-piglets] rendered 466 chars same
+[pyoungsong-event-sandmagic] rendered 480 chars same
+[pyoungsong-event-stonesoup] rendered 317 chars same
+[donghae-dhdmo-program] rendered 1800 chars CHANGED
+[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
+[daejeon-okr-edu] rendered 1506 chars same
