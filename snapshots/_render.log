@@ -1,11 +1,11 @@
 [yuseong-round-event] rendered 1328 chars CHANGED
 [seogu-yeyak] rendered 1971 chars CHANGED
-[pyoungsong] rendered 828 chars CHANGED
+[pyoungsong] rendered 824 chars CHANGED
 [djkids-musical] rendered 1618 chars CHANGED
 [djkids-notice] rendered 1023 chars CHANGED
 [dctf] RENDER ERROR rendered but too little text (0 chars)
-[nol-family] rendered 2260 chars CHANGED
-[ticketlink-notice] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/help/notice']' timed out after 50 seconds
+[nol-family] rendered 2299 chars CHANGED
+[ticketlink-notice] RENDER ERROR rendered but too little text (0 chars)
 [oworld-notice] rendered 1067 chars same
 [baekje-schedule] rendered 1764 chars CHANGED
 [geumriver-dam] rendered 1983 chars CHANGED
@@ -13,7 +13,7 @@
 [pyeongtaek-main] rendered 5787 chars CHANGED
 [kopis-daejeon-kids] rendered 4441 chars same
 [kwater-realtime-multidam] rendered 3754 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 2260 chars CHANGED
+[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/22471']' timed out after 50 seconds
 [gongjeon-kids] rendered 482 chars CHANGED
 [navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
 [katc-schedule] rendered 688 chars CHANGED
@@ -21,11 +21,18 @@
 [fsale-main] rendered 357 chars same
 [fsale-onnuri] rendered 361 chars same
 [gcfct-schedule] rendered 372 chars CHANGED
-[mokwon-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.mokwon.ac.kr/kr/html/sub03/030102.html", waiting until "domcontentloaded"
-
+[mokwon-events] rendered 948 chars CHANGED
 [science-reservation] rendered 1436 chars CHANGED
 [khs-notice] rendered 309 chars same
 [royal-khs-events] rendered 2739 chars same
 [expo-park] rendered 725 chars CHANGED
+[nol-upcoming-notice] rendered 1337 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 1349 chars CHANGED
+[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
+[ticketlink-notice-mobile] RENDER ERROR rendered but too little text (0 chars)
+[pyoungsong-performance] rendered 953 chars same
+[kopis-time-beyond-daejeon] rendered 632 chars same
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[dsecc-programs] rendered 1944 chars CHANGED
+[seogu-exprn-list] rendered 2459 chars CHANGED
+[seogu-event-list] rendered 2459 chars CHANGED
