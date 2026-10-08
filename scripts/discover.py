@@ -42,7 +42,8 @@ KEEP = re.compile(
     # ticket / booking pages (Naver's integrated search shows a performance box linking here)
     r"ticket\.yes24\.com/(Perf|New/Perf)|nol\.yanolja\.com/ticket/(products|places)|tickets\.interpark\.com/goods|"
     r"ticketlink\.co\.kr/(product|help/notice)|booking\.naver\.com/booking|ticket\.melon\.com/performance|"
-    r"\.kr/(bbs|board|notice|event|program|cop/bbs)|instagram\.com/p/)")
+    r"\.kr/(bbs|board|notice|event|program|cop/bbs)|instagram\.com/p/|"
+    r"cafe\.daum\.net/[^/?#]+/[^/?#]+/\d+|brunch\.co\.kr/@[^/]+/\d+|blog\.daum\.net/[^/?#]+/\d+)")
 DROP = re.compile(r"(search\.naver\.com|search\.daum\.net|help\.|policy|keep\.naver|nid\.naver|"
                   r"channel/\d+/home|javascript:)")
 
