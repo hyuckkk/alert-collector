@@ -38,6 +38,8 @@ def main() -> int:
     index = json.loads(INDEX.read_text(encoding="utf-8")) if INDEX.exists() else {}
     todo = [it for it in items
             if it.get("render") or "too little text" in (index.get(it["id"], {}).get("error") or "")]
+    # rotate: pages tried least recently first, so the time budget reaches every page over a few runs
+    todo.sort(key=lambda it: index.get(it["id"], {}).get("render_tried_at") or "")
     if not todo:
         return 0
     now = datetime.now(KST).isoformat(timespec="seconds")
@@ -51,6 +53,7 @@ def main() -> int:
             break
         wid, url = it["id"], it["url"]
         entry = index.setdefault(wid, {"url": url})
+        entry["render_tried_at"] = now
         # one short-lived process per page: a page that pops a JS dialog or crashes the browser
         # driver takes only itself down, not the whole pass
         try:

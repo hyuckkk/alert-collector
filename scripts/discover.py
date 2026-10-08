@@ -132,11 +132,38 @@ def main() -> int:
     # this job's previous hit list (last 7 days, up to 1000 entries).
     now = datetime.now(KST)
     now_s = now.isoformat(timespec="seconds")
-    tasks = [(job, q, eng, url) for job, qs in queries.items() if not job.startswith("_")
-             for q in qs for eng, url in engines(q)]
+    # Naver answers 403 once one IP sends too many searches (10/8: blocked after ~2 runs at 5 Naver
+    # tabs x all queries). Naver tabs therefore cover one third of the queries per hourly run
+    # (each query every 3 hours) and go through a single slow lane; Daum/Google cover all every run.
+    slot = now.hour % 3
+    tasks = []
+    for job, qs in queries.items():
+        if job.startswith("_"):
+            continue
+        for qi, q in enumerate(qs):
+            for eng, url in engines(q):
+                if eng.startswith("naver") and (qi % 3) != slot:
+                    continue
+                tasks.append((job, q, eng, url))
+
+    import threading
+    naver_lane = threading.Lock()
+    naver_blocked = threading.Event()
 
     def run(t):
         job, q, eng, url = t
+        if eng.startswith("naver"):
+            if naver_blocked.is_set():
+                return job, eng, [], None
+            with naver_lane:
+                try:
+                    return job, eng, search(eng, url, q), None
+                except Exception as e:  # noqa: BLE001
+                    if "403" in str(e) or "Forbidden" in str(e) or "429" in str(e):
+                        naver_blocked.set()   # stop hammering; next run tries again
+                    return job, eng, [], f"{eng} '{q}': {e}"[:200]
+                finally:
+                    time.sleep(1.5)
         try:
             return job, eng, search(eng, url, q), None
         except Exception as e:  # noqa: BLE001
