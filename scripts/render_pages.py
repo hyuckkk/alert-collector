@@ -153,6 +153,14 @@ def render_one(url: str) -> dict:
                 break
         page.wait_for_timeout(1000)
         text = page.evaluate("document.body ? document.body.innerText : ''") or ""
+        # 목록이 AJAX로 늦게 채워지면 '총 0 건'만 찍힌다(국립중앙과학관 교육예약, JOB11 2026-10-08) — 한 번 더 기다렸다 다시 읽는다.
+        if re.search(r"총\s*0\s*건|0\s*건의 게시물|조회된 (데이터|내역|결과)가 없습니다", text):
+            try:
+                page.wait_for_load_state("networkidle", timeout=8000)
+            except Exception:  # noqa: BLE001
+                pass
+            page.wait_for_timeout(6000)
+            text = page.evaluate("document.body ? document.body.innerText : ''") or ""
         links = page.evaluate("[...document.querySelectorAll('a[href]')].map(a=>a.href).slice(0,600)")
         # javascript: links hide detail pages (goDtl(123) etc.) — keep the onclick targets as hints
         onclicks = page.evaluate("[...document.querySelectorAll('[onclick]')].map(e=>(e.innerText||'').trim().slice(0,60)+' => '+e.getAttribute('onclick').slice(0,120)).slice(0,300)")

@@ -542,7 +542,7 @@
  {
   "id": "science-edu-reservation",
   "url": "https://rsvn.science.go.kr/nsm/edcarsvn/edcarsvnList",
-  "note": "국립중앙과학관 교육예약 목록 (JOB10: 탄동천 탐사 등 기타교육·자연탐사 접수 전환) — 2026-10-01 JOB10 추가, WebFetch 승인 대기",
+  "note": "국립중앙과학관 교육예약 목록 (JOB10: 탄동천 탐사 등 기타교육·자연탐사 접수 전환) — 2026-10-01 JOB10 추가, WebFetch 승인 대기 | 2026-10-08 JOB11: 렌더 결과 '전체 목록총 0 건'(메뉴만) — 목록 AJAX가 늦게 뜸, render_pages.py에 '총 0건' 재대기 추가",
   "render": true
  },
  {
@@ -1114,5 +1114,29 @@
   "url": "https://www.templestay.com",
   "note": "템플스테이 누리집(행복 두배 템플스테이 행사 배너·예약 오픈). 세션 WebFetch 차단으로 수집 의뢰, 공지 목록 URL 확인 시 교체",
   "render": true
+ },
+ {
+  "id": "hwadong-main",
+  "url": "https://www.hwadong.com/",
+  "render": true,
+  "note": "JOB13 풍산화동양행(해외 조폐국 주화 국내 판매처) 메인·신상품 — JOB11 2026-10-08 중국 기념주화 4종 대조에서 도출. 클라우드 WebFetch egress 차단"
+ },
+ {
+  "id": "gnews-hwadong-coin",
+  "url": "https://news.google.com/rss/search?q=%ED%92%8D%EC%82%B0%ED%99%94%EB%8F%99%EC%96%91%ED%96%89%20OR%20%EC%A4%91%EA%B5%AD%20%EA%B8%B0%EB%85%90%EC%A3%BC%ED%99%94%20%EA%B5%AD%EB%82%B4%20%ED%8C%90%EB%A7%A4&hl=ko&gl=KR&ceid=KR:ko",
+  "render": false,
+  "note": "JOB13 해외 기념주화 국내 판매 보도 RSS"
+ },
+ {
+  "id": "gnews-artist-ticketopen",
+  "url": "https://news.google.com/rss/search?q=%28%EC%9D%B4%EC%A0%81%20OR%20%ED%8C%A8%EB%8B%89%20OR%20%EB%B0%95%ED%9A%A8%EC%8B%A0%20OR%20%EC%86%A1%EC%86%8C%ED%9D%AC%20OR%20%EC%9D%B4%ED%95%B4%EC%9B%90%29%20%ED%8B%B0%EC%BC%93%EC%98%A4%ED%94%88&hl=ko&gl=KR&ceid=KR:ko",
+  "render": false,
+  "note": "JOB3 지정 아티스트 티켓오픈 보도 RSS — 티켓링크 공지 스냅샷이 공지 제목을 담지 못함(PC 렌더 TargetClosed, 모바일 메뉴만). JOB11 2026-10-08 패닉 앙코르 예매오픈 대조"
+ },
+ {
+  "id": "gnews-nsm-edu",
+  "url": "https://news.google.com/rss/search?q=%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EA%B3%BC%ED%95%99%EA%B4%80%20%28%EC%A3%BC%EB%A7%90%EA%B3%BC%ED%95%99%EA%B5%90%EC%8B%A4%20OR%20%EA%B5%90%EC%9C%A1%20%EC%A0%91%EC%88%98%20OR%20%EA%B3%BC%ED%95%99%EA%B5%90%EC%8B%A4%29&hl=ko&gl=KR&ceid=KR:ko",
+  "render": false,
+  "note": "JOB10 국립중앙과학관 교육 접수 보도 RSS — 교육예약 목록 렌더가 '총 0건'(목록 AJAX 미로딩). JOB11 2026-10-08 11월 주말과학교실 대조"
  }
 ]
