@@ -1,18 +1,18 @@
 [nol-product-phantom-40th] rendered 4876 chars CHANGED
-[daejeontour-bread-festival] rendered 4918 chars CHANGED
+[daejeontour-bread-festival] rendered 4033 chars CHANGED
 [visitisland-main] rendered 1010 chars CHANGED
 [daejeon-okr-edu-8100] rendered 1627 chars CHANGED
 [visitkorea-tour50-notice] rendered 616 chars CHANGED
 [mommom-place-6a7d51b7] rendered 95 chars CHANGED
 [blog-first_seogu-224428074790] rendered 3250 chars CHANGED
-[blog-dooglami-224433357728] rendered 5199 chars CHANGED
+[blog-dooglami-224433357728] rendered 5173 chars CHANGED
 [yes24-genre-children] rendered 196 chars CHANGED
 [pyoungsong-event-feed] rendered 34079 chars CHANGED
 [pyoungsong-monthly] rendered 634 chars CHANGED
 [pyoungsong-wp-event-api] rendered 208 chars CHANGED
 [pyoungsong-tribe-events-api] rendered 149537 chars CHANGED
 [pyoungsong-event-list] rendered 293 chars CHANGED
-[ticketlink-notice-65862] rendered 221599 chars CHANGED
+[ticketlink-notice-65862] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
 [docomomokorea-main] RENDER ERROR rendered but too little text (23 chars)
 [pyoungsong-event-rudolph] rendered 424 chars CHANGED
 [pyoungsong-event-snowwhite] rendered 413 chars CHANGED
@@ -23,26 +23,22 @@
 [komsco-shop-cate2284] rendered 6883 chars CHANGED
 [mcst-culture-71983] rendered 1180 chars CHANGED
 [aircanada-korea] rendered 22724 chars CHANGED
-[yuseong-round-event] rendered 1328 chars CHANGED
-[seogu-yeyak] rendered 2353 chars CHANGED
-[pyoungsong] rendered 828 chars same
-[djkids-musical] rendered 1618 chars CHANGED
-[djkids-notice] rendered 1023 chars CHANGED
-[dctf] RENDER ERROR rendered but too little text (15 chars)
-[nol-family] rendered 3668 chars CHANGED
-[oworld-notice] rendered 1786 chars same
-[baekje-schedule] rendered 1764 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[woosongart-schedule] rendered 590 chars CHANGED
-[pyeongtaek-main] rendered 26423 chars CHANGED
-[kopis-daejeon-kids] rendered 30469 chars CHANGED
-[kwater-realtime-multidam] rendered 10522 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 168143 chars CHANGED
-[gongjeon-kids] rendered 482 chars CHANGED
-[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
-[katc-schedule] rendered 688 chars CHANGED
-[mnd-main] rendered 17484 chars CHANGED
-[fsale-main] rendered 4862 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[gcfct-schedule] rendered 372 chars CHANGED
-[mokwon-events] rendered 948 chars CHANGED
+[science-reservation] rendered 1438 chars CHANGED
+[khs-notice] rendered 309 chars same
+[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[expo-park] rendered 727 chars CHANGED
+[nol-upcoming-notice] rendered 17656 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 17687 chars CHANGED
+[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
+[ticketlink-notice-mobile] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://m.ticketlink.co.kr/help/notice']' timed out after 75 seconds
+[pyoungsong-performance] rendered 984 chars same
+[kopis-time-beyond-daejeon] rendered 8087 chars same
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[seogu-exprn-list] rendered 2459 chars CHANGED
+[seogu-event-list] rendered 2459 chars CHANGED
+[ticketlink-notice] rendered 165162 chars CHANGED
+[dsecc-programs] rendered 1949 chars CHANGED
+[seogu-edu-list] rendered 2465 chars CHANGED
+[daejeon-its-board] rendered 3573 chars CHANGED
+[zeropay-events] rendered 529 chars CHANGED
+[chuncheon-festival-news] rendered 866 chars CHANGED
