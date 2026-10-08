@@ -1,11 +1,11 @@
 [yuseong-round-event] rendered 1328 chars CHANGED
 [seogu-yeyak] rendered 1971 chars CHANGED
-[pyoungsong] rendered 824 chars CHANGED
+[pyoungsong] rendered 828 chars CHANGED
 [djkids-musical] rendered 1618 chars CHANGED
 [djkids-notice] rendered 1023 chars CHANGED
-[dctf] rendered 1496 chars same
-[nol-family] rendered 2245 chars CHANGED
-[ticketlink-notice] rendered 1471 chars CHANGED
+[dctf] RENDER ERROR rendered but too little text (0 chars)
+[nol-family] rendered 2260 chars CHANGED
+[ticketlink-notice] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/help/notice']' timed out after 50 seconds
 [oworld-notice] rendered 1067 chars same
 [baekje-schedule] rendered 1764 chars CHANGED
 [geumriver-dam] rendered 1983 chars CHANGED
@@ -13,26 +13,19 @@
 [pyeongtaek-main] rendered 5787 chars CHANGED
 [kopis-daejeon-kids] rendered 4441 chars same
 [kwater-realtime-multidam] rendered 3754 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 468 chars CHANGED
+[ticketlink-kids-cat-daejeon] rendered 2260 chars CHANGED
 [gongjeon-kids] rendered 482 chars CHANGED
-[navy-visit-notice] RENDER ERROR Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000
-Call log:
-  - navigating to "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000", waiting until "domcontentloaded"
-
-[katc-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.katc.mil.kr/katc/guide/schedule.jsp", waiting until "domcontentloaded"
-
+[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
+[katc-schedule] rendered 688 chars CHANGED
 [mnd-main] rendered 3349 chars same
 [fsale-main] rendered 357 chars same
 [fsale-onnuri] rendered 361 chars same
 [gcfct-schedule] rendered 372 chars CHANGED
-[mokwon-events] rendered 948 chars CHANGED
+[mokwon-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.mokwon.ac.kr/kr/html/sub03/030102.html", waiting until "domcontentloaded"
+
 [science-reservation] rendered 1436 chars CHANGED
 [khs-notice] rendered 309 chars same
 [royal-khs-events] rendered 2739 chars same
 [expo-park] rendered 725 chars CHANGED
-[nol-upcoming-notice] rendered 1264 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 1209 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] RENDER ERROR rendered but too little text (0 chars)
