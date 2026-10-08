@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-09T02:07:59+09:00",
+ "updated": "2026-10-09T03:08:02+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 436,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "대전 동구, 신흥초 등굣길서 ‘어린이 교통안전 캠페인’ 전개 - https://www.kotn.kr/",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ITnU3RzBBRmtHSVRXbkFhb05Ub2M0X2g1YkViSk1nV19wVzFBWHNrbTNLX205WVpMNm92Q29uVG5Ecmp3ZlRzVkVMTkVORFdDY052TGJzOHBDcHdYOGlFalpnby0?oc=5",
+   "pub": "Thu, 08 Oct 2026 08:14:20 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-09T03:08:02+09:00"
+  },
   {
    "title": "서울에 집을 사고 나면 모든 게 달라질 줄 알았다. 계약서에 도장을 찍고 집 열쇠를 받아 들었을 때만 해도 그랬다. 이제 전셋집을 옮겨 다니지 않아도 되고, 집주인에게 전화가 올까 걱정하지 않아도 되고, 아이들이 학교를 옮길 일도 없을 거라고 생각했다. 그런데 막상 우리 집이 생기고 나니 또 다른 현실이 기다리고 있었다. 대출이었다. 매달 월급날이 되면 가",
    "url": "https://blog.naver.com/zzalforyou/224435839207",
@@ -21087,14 +21095,13 @@
    "engine": "naver_cafe",
    "query": "환상극장 마술공연",
    "first_seen": "2026-10-08T19:42:30+09:00"
-  },
-  {
-   "title": "한 치 앞도 알 수 없는 짜릿하고 환상적인 대모험이 시작된다! ■차례 1 침묵의 숲 제1부 델토라의 벨트 왕 ∥ 델토라의 벨트 ∥ 탈출 ∥ 대장간 ∥ 적의 공격 ∥ 영원한 친구 ∥ 반역 제2부 암흑의 지배 리프 ∥ 비밀 ∥ 결정 ∥ 조심! ∥ 웬바 ∥ 둥지 ∥ 암흑 지대 ∥ 생명의 백합 ∥ 토파즈 ■책 속으로 p21 그리고 지금, 세상의 모든 아름다움과 신",
-   "url": "https://cafe.naver.com/culturebloom/3386786?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImN1bHR1cmVibG9vbSIsImFydGljbGVJZCI6MzM4Njc4NiwiaXNzdWVkQXQiOjE3OTE0NTYyMjQ0NzN9.1vMOSMhknr1ndQZ28p8j-s2oImSatZPXA2mj5fk_OtE&q=%ed%99%98%ec%83%81%ea%b7%b9%ec%9e%a5%20%eb%a7%88%ec%88%a0%ea%b3%b5%ec%97%b0&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "환상극장 마술공연",
-   "first_seen": "2026-10-08T19:42:30+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+ ]
 }
