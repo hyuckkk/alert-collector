@@ -1,8 +1,939 @@
 {
- "updated": "2026-10-09T03:08:02+09:00",
+ "updated": "2026-10-09T03:33:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 133,
  "hits": [
+  {
+   "title": "추천 포인트: 바다 체험과 신선한 수산물 먹거리 4. 강원·대전·세종 지역 축제 3곳 ⑤ 강원 강릉 빵굽는 마을, 오죽 ● 개최 기간: 2026년 10월 9~11일 ● 장소: 강릉오죽한옥마을 ● 운영시간: 11:00~19:00 ● 입장료: 무료, 먹거리 및 일부 체험 별도 ● 추천 대상: 가족, 연인, 미식 여행객 강릉 빵굽는 마을, 오죽은 지역의 다양한 ",
+   "url": "https://blog.naver.com/expokdh/224435856018",
+   "engine": "naver_blog",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "수산대전 상품권 준비 이번에 오랜만에 맛있는 대게를 실컷 먹고 싶어서 구리농수산물도매시장에 다녀왔어요 주말 가족 식사로 고른 메뉴였는데, 마침 2026 대한민국 수산대전 상품권을 미리 충전해둔 덕분에 훨씬 알뜰하고 실속 있게 다녀올 수 있었답니다 구리수산시장에서 대게 수율도 꽉 차고 서비스까지 알차게 챙겨주셔서 정말 만족스럽게 즐긴 내돈내산 솔직 후기...",
+   "url": "https://blog.naver.com/layer02-/224435848940",
+   "engine": "naver_blog",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "※ 수산대전상품권은 사용이 불가능합니다. 둥지횟집 주차장 안내 마산어시장 방문 시 가장 걱정되는 부분 중 하나가 주차인데요. 둥지횟집을 방문하시는 고객님들을 위해 주차 공간을 안내해 드립니다. ① 둥지횟집 전용주차장 둥지횟집 간판 아래 위치 매장 방문 고객 이용 가능 ② 한백마리나 주차장 식사 고객 최대 3시간 주차 지원 ③ 금성 주차장 식사 고객 최대..",
+   "url": "https://blog.naver.com/masan_crab/224435821268",
+   "engine": "naver_blog",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "대표적으로 생고등어는 해양수산부와 이마트가 함께하는 행사 품목으로 안내되어 있으며, 신세계포인트 적립 시 30% 할인 혜택이 표시되어 있습니다. 통통하게 살 오른 국산... 이마트 수산물·육류 할인은 얼마나 될까 바다장어와 연어, 새우 등 수산물 할인폭이 크다 수산물 코너에서는 신세계포인트 적립 조건으로 최대 50% 수준의 할인이 표시된... 새 창 열림",
+   "url": "https://blog.naver.com/aquarius2606/224435793681",
+   "engine": "naver_blog",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "머리튀김도 없는데 따로 안파냐고 하니까 추가로 해주심 영통 토라수산 사장님 넘 친절하시고 감사합니다.. 배불러서 마니 남겨버려서 죄송햇음 ㅠ 자주 방문할게요.. 연구동 갓다가... 추석날 기차표 예매 넘 치열해짐 ㅠ 직행없어서 대전 경유로 가는데 2시간 떠서 카페갓더니 삼십분만에 마감 시간으로 쫓겨남.. 갈곳 없어서 바닥에 털썩 앉아서 기다림 구미오니까 또",
+   "url": "https://blog.naver.com/dmcu1686/224435788838",
+   "engine": "naver_blog",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "남촌동 수산 수산동 도림 도림동 논현 논현동 고잔 고잔동 구월1동 구월2동 구월3동 구월4동 간석1동 간석2동 간석3동 간석4동 만수1동 만수2동 만수3동 만수4동 만수5동 만수6동 장수서창동 서창2동 남촌도림 남촌도림동 논현1동 논현2동 논현고잔 논현고잔동 숭의 숭의동 용현 용현동 학익 학익동 도화 도화동 주안 주안동 관교 관교동 문학 문학동 숭의2동 숭",
+   "url": "https://cafe.naver.com/kamilsfighting/204478?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImthbWlsc2ZpZ2h0aW5nIiwiYXJ0aWNsZUlkIjoyMDQ0NzgsImlzc3VlZEF0IjoxNzkxNDg1NTMwMjQ5fQ.WTruIFjLAX8hpj0B21QMWgngac7Zk4XWiV1rE2lZoY0&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "수산물 구매내역 캡쳐해서 인증하는 이벤트중이예요~! 50명이라고 하니 참여해보세요:)",
+   "url": "https://cafe.naver.com/sogam0515/2043647?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNvZ2FtMDUxNSIsImFydGljbGVJZCI6MjA0MzY0NywiaXNzdWVkQXQiOjE3OTE0ODU1MzAyNDl9.AupNPDIk_iRBFJenXrYK7wX08cv2HUWqdAps5I8yZz4&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "■ 모든업종 게시판 이용 수칙 - 위탁셀러,수산,농산,제조,유통,자재용품,디자인,마케팅,식품제조업체,세무,법률,해썹 가입인사1개 + 댓글 5개 + 등업게시판의 명함 등록후 사용가능 ■ 구인,구직 (육가공,정육점,온라인영업,배송사원 등 모두 작성가능) - 지역별로 나누어져있으나 세부 지역 꼭 필시 명시해주세요. (명시가 안될경우 활동정지될수있습니다) 서울,인",
+   "url": "https://cafe.naver.com/1dsp7/476746?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjFkc3A3IiwiYXJ0aWNsZUlkIjo0NzY3NDYsImlzc3VlZEF0IjoxNzkxNDg1NTMwMjQ5fQ.fN04aIRqwnfyE39c-orR9hrudKZtDv4TLLdW1TwlkgY&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "국방위는 대전에서 병무청을 감사한 뒤 오후 3시 국방과학연구소를 현장점검하고, 농해수위는 부산 해양수산부 별관에서 해수부와 산하기관을 감사합니다. 12일 문체위의 영화진흥위원회·영상물등급위원회 감사에서는 6~7일 정무위·교육위·문체위로 번진 영화 '암살자(들)' 공방이 다시 나올 수 있고, 국방위 병무청 감사에서는 7일 국방부 감사에서 거론된 예술·체육요원",
+   "url": "https://cafe.naver.com/pinkbrgd1/11440?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBpbmticmdkMSIsImFydGljbGVJZCI6MTE0NDAsImlzc3VlZEF0IjoxNzkxNDg1NTMwMjQ5fQ.w6cJbuXFwkuOSGAiM2GExbwxpIHP8Gxe5qdz5B0uEK0&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "안녕하세요. 대전에서 한식집 운영중입니다. 자반고등어랑, 조림용 고등어 이렇게 사용 중인데요. 현재 납품업체가 납품이 계속 하루 이틀씩 밀려서요ㅠㅠ 대전 수산업체 소개 받을 수 있을까요?? 꼭 대전이었으면 해요 감사합니다!",
+   "url": "https://cafe.naver.com/jihosoccer123/3768051?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImppaG9zb2NjZXIxMjMiLCJhcnRpY2xlSWQiOjM3NjgwNTEsImlzc3VlZEF0IjoxNzkxNDg1NTMwMjQ5fQ.5ak-oJkYi2Khput6doHhp7Y1RHKwgq37HcY1oGcd-0o&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "빠질 수 없는 새우젓 국내산 새우젓 준비했습니다 10월 12일 순차 배송 됩니다 (수산 대전 결제 안됩니다) https://www.farmer4989.com/eoqkrtntks7850/453 > 대박수산 안지기가 직접 만든 새우젓!! 2kg 2만 5천원 김장철 앞두고 국내산 새우젓 찾는 분들 많으시죠!? 그래서 준비했습니다 국내산 새우 , 국내산 천일염으로",
+   "url": "https://cafe.naver.com/tlsxh/4219905?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRsc3hoIiwiYXJ0aWNsZUlkIjo0MjE5OTA1LCJpc3N1ZWRBdCI6MTc5MTQ4NTUzMDI1MH0.8RUscNtrnTkBQecQnwWrEzVuejC8ZA--7T73YZPnm-0&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "아침에 세면대를 사용하려고 수도를 틀었는데 물이 바로 내려가지 않고 세면대 안쪽에 잠시 머무는 현상이 계속 반복되던 현장이었습니다. 처음에는 머리카락이나 작은 이물질이 배수구 입구에 걸린 문제라고 생각해 직접 주변을 청소해보셨다고 하는데요. 하지만 며칠 지나지 않아 세면대막힘 증상이 다시 생기면서 물이 빠지는 속도도 이전보다 더욱 느려졌다고 말씀하셨어요. ",
+   "url": "https://cafe.naver.com/mymalaysia/491449?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im15bWFsYXlzaWEiLCJhcnRpY2xlSWQiOjQ5MTQ0OSwiaXNzdWVkQXQiOjE3OTE0ODU1MzAyNTB9.sOWEHKkjKZTAe29RuP7HcBYf4DO1jA-3c1Se_uAfLNg&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "세종 하수구막힘 싱크대 배수구 역류 막힌 배관 뚫음 해결을 원한다면 싱크대 물이 잘 내려가지 않는다고 해서 처음부터 큰 문제라고 생각하는 경우는 많지 않습니다. 거름망을 비우거나 배수구를 청소하면 괜찮아질 거라 생각하기 쉬운데요. 그런데 설거지를 할 때마다 물이 고이고, 어느 순간 욕실이나 세탁실 배수구까지 평소와 다른 반응을 보인다면 이야기가 달라집니다.",
+   "url": "https://cafe.naver.com/msbabys/5052033?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1zYmFieXMiLCJhcnRpY2xlSWQiOjUwNTIwMzMsImlzc3VlZEF0IjoxNzkxNDg1NTMwMjUwfQ.AlUTOrQSEim9GdfSVSHZFEZvwWW04rde7qNVXX5eEDY&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "낯선 수산물에서 ‘국민 식재료’로...다채롭게 진화하는 일상 속 연어 요리 중앙일보 드라이에이징도 낯설던 2014년 문 열었다…청담 스테이크집의 10년 중앙일보 압구정 현대 못 사고, 청담 루머에 흔들리고…강남 욕망의 두 얼굴들 노컷뉴스 26분전 '빚만 2400억원' 충북대병원, 전공의도 실습실도 부족…\"시한폭탄\" 머니투데이 31분전 “먹고 싶은 것 배불리",
+   "url": "https://cafe.naver.com/greens9ac3/12874?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuczlhYzMiLCJhcnRpY2xlSWQiOjEyODc0LCJpc3N1ZWRBdCI6MTc5MTQ4NTUzMDI1MH0.THOf9ib_i6CHSlGdbW6SPc-xFK7oZEC2yml7vXvm7ek&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "(※필자가 어제 폰에서 네이버 카페 글을 '수정' 을 눌러야 하는데 그만 실수로 '삭제'를 하고 말았다ㅠㅠ 아이쿠... 매우 중요한 게시물인데 다시 써야 되는데 눈앞이 캄캄하다 그런데 불행중 다행이라고 동일한 게시물 또 다른 창이 천만 다행으로 아직 닫히지 않은 상태라 재빨리 게시물을 캡처를 하였다 그리고 다시 카페에 접속하니 게시물은 사라지고 없다 오늘 ",
+   "url": "https://cafe.naver.com/lambsbooklife/452?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxhbWJzYm9va2xpZmUiLCJhcnRpY2xlSWQiOjQ1MiwiaXNzdWVkQXQiOjE3OTE0ODU1MzAyNTB9.OkxRaLwd9GRqrgMMWM_TE-ftf7lXjvzX_Z6KlIzzm54&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "대한민국수산대전 상품권을 할인받아 구매했지만 사용하지 못한 채 유효기간이 지나버렸다면 남은 금액을 돌려받을 수 있을까요? 수산대전 상품권은 구매 방식과 발행 조건에 따라 환불 가능 여부가 달라집니다. 특히 할인받아 구매한 상품권은 실제 결제한 금액과 상품권에 표시된 금액이 다르기 때문에 환불 기준을 정확히 확인해야 합니다. 2025년에 구매한 상품권을 아직",
+   "url": "https://cafe.naver.com/govern1004/7765?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvdmVybjEwMDQiLCJhcnRpY2xlSWQiOjc3NjUsImlzc3VlZEF0IjoxNzkxNDg1NTMwMjUwfQ.I-47KY8kTs7iDae8rm8AH6m5v8pJSv_DbZAvvsSkLNk&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "안녕하세요? (주)태울환경입니다. 명절도 지나고 .... 해야 할 일들도 많고 참 정신 없으셨죠? 저희도 돈 결제해야 할 곳은 어여 어여 해드리고.. 혹시나 빠진건 없는지 다시 한 번 체크하고.. 연휴때 작업일정도 재 점검하고 그렇게 정신없이 보내고.... 이제 연휴가 끝나고 나니 그동안 밀린 일들의 연속입니다 아무쪼록 환절지 감기 독감등 조심하세요!! 명",
+   "url": "https://cafe.naver.com/redjx5ed/277?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJlZGp4NWVkIiwiYXJ0aWNsZUlkIjoyNzcsImlzc3VlZEF0IjoxNzkxNDg1NTMwMjUwfQ.gdxubGZwDFiGyn_aM5U0wOIloNhTSG9O-jWz-J3m_bw&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "하수구뚫음 하수구역류 배수구 물넘침 막힌 배관은 어떻게 뚫을까 하수구가 막혔을 때 가장 답답한 부분은 어디가 문제인지 눈으로 확인하기 어렵다는 점인데요. 배수구에 보이는 이물질을 치워도 물이 시원하게 내려가지 않거나, 한쪽에서 물을 사용했는데 엉뚱한 곳에서 역류가 발생하는 경우도 있습니다. 저희가 하수구뚫음 작업을 할 때도 단순히 물이 고여 있는 곳만 살펴",
+   "url": "https://cafe.naver.com/gongju2008/693478?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvbmdqdTIwMDgiLCJhcnRpY2xlSWQiOjY5MzQ3OCwiaXNzdWVkQXQiOjE3OTE0ODU1MzAyNTB9.1LsUjZQdkSxyTiSvm9OxNmuvjAq1ZCAk0gRU08PN-Ms&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "어촌계수산물판장 - 학암포 해수욕장 - 신두리 식당 - 카페 포리뉴 삼봉해수욕장의 조개 해루질과 산책을 마치고 드디어 친구 가족과 접선. 학암포 인근에 폐교를 리모델링하여 만든 '컨츄리 로드 커피'에서... <여기어때 앱에도 고퀄리뷰 남겼습니다.> 저녁식사를 위해 인근에 있는 수산시장에 가서 광어회와 멍게, 해삼, 대하 등 싱싱한 해산물을 잔뜩 사왔어요. ",
+   "url": "https://cafe.naver.com/gctripholic/25605?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdjdHJpcGhvbGljIiwiYXJ0aWNsZUlkIjoyNTYwNSwiaXNzdWVkQXQiOjE3OTE0ODU1MzAyNTB9.OmnYhBJhvNUEDKzb4sTJUfTT7wKjFNXqRTm3GpL_kK8&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "수율 좋은 상품으로 선별 꼼꼼히 한 후 발송 하겠습니다 혹시라도 수율이 안좋다면 당연히 as해드리구요 다만 수율이 안좋은 경우 번거로우시더라도 수율이 적은 홍게 사진을 찍어서 보내주셔야 합니다 농라에프주문서 연지홍게 3kg 10미 내외 = 20,000원 (마리당 300g 내외) 로젠택배 4000원 별도 https://farmer4989.com/kimsunj",
+   "url": "https://cafe.naver.com/tlsxh/4219813?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRsc3hoIiwiYXJ0aWNsZUlkIjo0MjE5ODEzLCJpc3N1ZWRBdCI6MTc5MTQ4NTUzMDI1MH0.JLaUWXXP3kYJVIwFi046mMGoJXEQwq1zCT5JJ_SR5eQ&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "황강의 식당들은 장강 수계의 풍성한 수산물과 다볘산맥의 신선한 농산물, 그리고 수백 년간 이어져 온 소동파 문인 요리의 정취를 충실히 담아내어 요리마다 깊고 그윽한 풍미를 자랑했습니다. 소박한 골목 노포부터 호숫가 전통 주루까지 현지 직원분들의 정 많고 따뜻하며 푸근한 환대 덕분에 식사 내내 대접받는 행복을 누릴 수 있었습니다. 2. 추천 카페! 잔잔한 이",
+   "url": "https://cafe.naver.com/hassrd/29217?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imhhc3NyZCIsImFydGljbGVJZCI6MjkyMTcsImlzc3VlZEF0IjoxNzkxNDg1NTMwMjUwfQ.BfgqlLv3VRnYa9ti0MvJXO9Dd-_ui6c5FRyqdVe0j9U&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "배관업체 하수구 배수구 배관 뚫기 막힘 증상별 해결 같은 하수구막힘이라도 발생하는 장소와 증상에 따라 원인이 달라질 수 있습니다. 욕실에서는 물이 바닥에 고이고, 주방에서는 싱크대 배수가 느려지며, 세탁실에서는 많은 양의 물이 빠지는 순간 역류가 나타나기도 합니다. 이처럼 배수 문제는 단순히 물이 내려가지 않는 현상으로만 구분하기 어렵습니다. 배관업체에서 ",
+   "url": "https://cafe.naver.com/no1sejong/4269953?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5vMXNlam9uZyIsImFydGljbGVJZCI6NDI2OTk1MywiaXNzdWVkQXQiOjE3OTE0ODU1MzAyNTB9.f4llcx5QGVvI8nstUU5iIvLsQ_vc8-Yd_IbVhokDDgg&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "변기교체 오래된 변기 물내림 문제 재시공부터 막힘 뚫기까지 변기를 오래 사용하다 보면 예전보다 물내림이 약해지거나 한 번에 내려가지 않는 일이 생기기도 합니다. 물탱크에서 물이 계속 흐르거나 변기 아래쪽으로 물이 새는 경우도 있는데요. 이런 문제가 생기면 변기를 새것으로 바꿔야 하는지, 아니면 수리만으로 해결할 수 있는지 고민하게 됩니다. 실제로 변기 상태",
+   "url": "https://cafe.naver.com/gongju2008/693471?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvbmdqdTIwMDgiLCJhcnRpY2xlSWQiOjY5MzQ3MSwiaXNzdWVkQXQiOjE3OTE0ODU1MzAyNTB9.OSQZyzxFhf-XLxlU34_ok3gTRmAuz6Pn24PoyF7vIjg&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "[업체 고지의무사항] - 상호 오정동 일칠수산 - 연락처 010 **** **** - 주소 대전 대덕구 오정동 44-1 ------------------------------- - 성분 및 원산지 표기 - 추가 고지사항 - 유통기한 표시 -------------------------------- 해당 정보는 판매자가 작성한 것으로 모든 정보에 대한 책임은 ",
+   "url": "https://cafe.naver.com/msbabys/5051957?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1zYmFieXMiLCJhcnRpY2xlSWQiOjUwNTE5NTcsImlzc3VlZEF0IjoxNzkxNDg1NTMwMjUwfQ.PWEPs0ZUOvYRTKs4i6b5UgotE6FtrrzQrLnnJPBKxqQ&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "2026년 대전 웰컴 스테이 지원사업 참가기업 모집 연장 공고 대전창조경제혁신센터는 창업도시 대전으로 유입되는 스타트업의 조기 안착을 지원하고 참여 확대를 위해 「2026년 웰컴 스테이 지원사업」참가기업 모집 기간을 연장하오니 대전 이전(예정)인 창업기업의 많은 참여를 바랍니다.☞ 2026년 내(1~12월) 대전광역시로 주거ㆍ사무ㆍ제조 공간 이전을 희망하거",
+   "url": "https://cafe.naver.com/uworldexam/556302?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InV3b3JsZGV4YW0iLCJhcnRpY2xlSWQiOjU1NjMwMiwiaXNzdWVkQXQiOjE3OTE0ODU1MzAyNTB9.TL_zfzAJall8aNbihMpXNF0kTc279W8pPbMG_M4cgT0&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "[전남광주] 화순군 2026년 농수산 수출 특화품목 직불금 지원사업 공고 「세계무역기구협정의 이행을 위한 특별법」 제11조 , 「농업농촌 및 식품산업기본법」 제59조 및 「전라남도 중소기업 생산제품 및 농수산식품 수출 촉진에 관한 조례」 제15조에 따라 농수산물 수출 경쟁력 확보를 위한 “2026년 농수산 수출 특화품목 직불금 지원사업”을 다음과 같이 공고",
+   "url": "https://cafe.naver.com/uworldexam/556299?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InV3b3JsZGV4YW0iLCJhcnRpY2xlSWQiOjU1NjI5OSwiaXNzdWVkQXQiOjE3OTE0ODU1MzAyNTB9.AlPkWJj3kXr5p-e0x8YLMHSjPVrgqyN4jOnjp0HKZJY&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "중고거래 불가능지역 서울,인천,대구,대전,광주,수원,고양,용인,화성,성남,청주,부천,남양주, 천안,전주,안산,평택,안양,김해,파주,시흥,포항,제주시,제주도,김포,의정부,구미,세종,원주 등 부산/경남 이외의 지역 ■ 일반게시글 규정 부산맘 아이러브부산맘 1. 무통보 삭제글 - 운영진 승인없는 글 - 댓가성 후기글 - 스튜디오 백일 공구 전통돌상 성장동영상,출",
+   "url": "https://cafe.naver.com/pusanmommy/1554187?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InB1c2FubW9tbXkiLCJhcnRpY2xlSWQiOjE1NTQxODcsImlzc3VlZEF0IjoxNzkxNDg1NTMwMjUwfQ.JaWp2doxHm2O-xktPwtqIgb7m65TRO2qZY4Y9e7Urhk&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "중고거래 불가능지역 서울,인천,대구,대전,광주,수원,고양,용인,화성,성남,청주,부천,남양주, 천안,전주,안산,평택,안양,김해,파주,시흥,포항,제주시,제주도,김포,의정부,구미,세종,원주 등 부산/경남 이외의 지역 ■ 일반게시글 규정 부산맘 아이러브부산맘 1. 무통보 삭제글 - 운영진 승인없는 글 - 댓가성 후기글 - 스튜디오 백일 공구 전통돌상 성장동영상,출",
+   "url": "https://cafe.naver.com/pusanmommy/1554175?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InB1c2FubW9tbXkiLCJhcnRpY2xlSWQiOjE1NTQxNzUsImlzc3VlZEF0IjoxNzkxNDg1NTMwMjUwfQ.UrgJHxO2K9rm1FMPrNuC29rK0sYa_GsSo6PBx3pP60M&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "배관누수 누수탐지 배관수리 누수공사 물이 새는 원인부터 시공까지 안녕하세요. 배관누수와 누수탐지, 각종 배관 설비 작업을 맡고 있는 닥터뚜러뻥입니다. 천장에 누런 얼룩이 생기거나 벽지가 들뜨고, 바닥 일부가 계속 축축하다면 배관누수를 의심해 볼 필요가 있습니다. 특히 물을 사용하지 않는데도 수도계량기가 움직이거나 수도요금이 갑자기 늘었다면 배관 상태를 확인",
+   "url": "https://cafe.naver.com/gongju2008/693461?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvbmdqdTIwMDgiLCJhcnRpY2xlSWQiOjY5MzQ2MSwiaXNzdWVkQXQiOjE3OTE0ODU1MzAyNTB9.Kr2d9-za6FF6vTuzu_LL5h56lPWpAFSjpw2fKlgPknY&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "한글날 연휴 10.9(금)~10.11(일), 가 볼 만한 축제·행사 20곳 가까운 내포·홍성·예산 행사부터 충남·대전 축제까지 날짜·장소·요금을 한곳에 정리 자세한 일정·프로그램은 각 글에서 확인 ?? 가까운... 남당항 수산물 판매 · 부대프로그램: 남당항 수산물 먹거리장터, 지역 특산물 및 농수산물 판매, 남당항 해양·관광 홍보, 주말 및 연휴 문화공연",
+   "url": "https://cafe.naver.com/naepoaljiyu/257?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5hZXBvYWxqaXl1IiwiYXJ0aWNsZUlkIjoyNTcsImlzc3VlZEF0IjoxNzkxNDg1NTMwMjUwfQ.LANYRdFx8dWTmeSsWsGW1DBSF3ngFJljDGlJRyYwQ9s&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "■ 모든업종 게시판 이용 수칙 - 위탁셀러,수산,농산,제조,유통,자재용품,디자인,마케팅,식품제조업체,세무,법률,해썹 가입인사1개 + 댓글 5개 + 등업게시판의 명함 등록후 사용가능 ■ 구인,구직 (육가공,정육점,온라인영업,배송사원 등 모두 작성가능) - 지역별로 나누어져있으나 세부 지역 꼭 필시 명시해주세요. (명시가 안될경우 활동정지될수있습니다) 서울,인",
+   "url": "https://cafe.naver.com/1dsp7/476718?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjFkc3A3IiwiYXJ0aWNsZUlkIjo0NzY3MTgsImlzc3VlZEF0IjoxNzkxNDg1NTMwMjUwfQ.rGHqATd4IAcquGnOlg4uxYzhOlWyh6D90ZUPgQA7ZWg&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "픽업시간 8일(목)9일(금) 8일(목)9일(금) 09시~20시30분 비플페이 결재방법 수산대전 - 비플페이 결재 가능 합니다. (피플페이 어플로 QR 코드찍어야 인식 됩니다.) 단,픽업전 사전 결재해주시고 댓글로 결재수단 꼭, 말씀해주세요 (비플페이 결재시 목포수산으로 입금됩니다.) 입금후 꼭,꼭!! 캡쳐해서 댓글에 사진첨부해 주셔야 합니다. (캡쳐 안해주",
+   "url": "https://cafe.naver.com/mokposusan1/8726?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1va3Bvc3VzYW4xIiwiYXJ0aWNsZUlkIjo4NzI2LCJpc3N1ZWRBdCI6MTc5MTQ4NTUzMDI1MH0.HyaJY2J3USBJR_eSktY0LgxGMsWFUD9_TVduoHQiO0c&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "■ 모든업종 게시판 이용 수칙 - 위탁셀러,수산,농산,제조,유통,자재용품,디자인,마케팅,식품제조업체,세무,법률,해썹 가입인사1개 + 댓글 5개 + 등업게시판의 명함 등록후 사용가능 ■ 구인,구직 (육가공,정육점,온라인영업,배송사원 등 모두 작성가능) - 지역별로 나누어져있으나 세부 지역 꼭 필시 명시해주세요. (명시가 안될경우 활동정지될수있습니다) 서울,인",
+   "url": "https://cafe.naver.com/1dsp7/476716?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjFkc3A3IiwiYXJ0aWNsZUlkIjo0NzY3MTYsImlzc3VlZEF0IjoxNzkxNDg1NTMwMjUwfQ.jz4qGCnpEYQ4i1DZ6iwW4x9dK24R4mGixwXwDPALx0Y&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "담당자 박 찬 보 팀장 (010-****-****) ※ 정리합니다! 1. 1. ※ 집중 판매 품목 1. Kilcoy(킬코이)차돌양지ON(640) / 오로라CS(평중 22.3kg) 2. AMH(에이엠에이치)곡물진공우둔(GF, 235) / 희창(평중 22.9kg) ※ 팍스 초이스(PARKS' Choice) 1. Demkota(뎀코타)백립CH / 희창(평중 25",
+   "url": "https://cafe.naver.com/1dsp7/476711?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjFkc3A3IiwiYXJ0aWNsZUlkIjo0NzY3MTEsImlzc3VlZEF0IjoxNzkxNDg1NTMwMjUwfQ.mAH2N1dg4seMApXoZBra2qpX3TVXbkWVyQdJNj-rW4Y&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "√수산대전 등 결제 시 010 **** **** 문자로 따로 주소, 성함 주셔야 합니다. 최근 판매글을 자주 올리지 못해 죄송합니다. 가격이 저렴하고 메리트가 있을 때만 게시하고 있습니다. 자주 찾아뵙지는 못하더라도 정직한 가격으로 소개해드리겠습니다. 항상 찾아주셔서 감사합니다. √식감을 위해 가정에서 간단히 식칼로 원하는 크기로 썰어드시게끔 필렛으로...",
+   "url": "https://cafe.naver.com/tlsxh/4219520?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRsc3hoIiwiYXJ0aWNsZUlkIjo0MjE5NTIwLCJpc3N1ZWRBdCI6MTc5MTQ4NTUzMDI1MH0.lJR1XeQ5w5UgCZ7UeWqUJsZVrx9I4fBzUEMNWby9oMw&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "서로 배려하는 마음으로 예쁜 글 아 알려주실 분~~ 낙지젓이나 오징어젓 사려구용새 창 열림",
+   "url": "https://cafe.naver.com/masanmam/7548480?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hc2FubWFtIiwiYXJ0aWNsZUlkIjo3NTQ4NDgwLCJpc3N1ZWRBdCI6MTc5MTQ4NTUzMjg5NX0.7RbRdAmkdEEoW-UE97iZvF-qDJuuGm56uAlVqXjpUuY",
+   "engine": "naver_all",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "혹시 수산대전 상품권 남는분 계시나요? 있으면 구매하고싶습니다~새 창 열림",
+   "url": "https://cafe.naver.com/glove/8873908?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imdsb3ZlIiwiYXJ0aWNsZUlkIjo4ODczOTA4LCJpc3N1ZWRBdCI6MTc5MTQ4NTUzMjg5NX0.aKnDE2qbZ46jVTq2vVojX1t3KjZHuKUaAruMDijcxSw",
+   "engine": "naver_all",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "RE수산대전상품권은 안된다고 적혀있네요 디지털온누리는 되지않을까요? 현장에서 바로알수있으니 일단 시도는 해보세요새 창 열림",
+   "url": "https://cafe.naver.com/wjdrkrjqn/202531?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndqZHJrcmpxbiIsImFydGljbGVJZCI6MjAyNTMxLCJpc3N1ZWRBdCI6MTc5MTQ4NTUzMjg5NX0.TtJ9dmMzzTHjkQ5b8PVH6Vk2d3_xVGy3RpX524f4OFo",
+   "engine": "naver_all",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "#대전맛집 #노은동수산시장 #수산물시장 #대전야장 #옥상야장 #싱싱페스타 #대전가볼만한곳 #가을축제 #대전데이트 #이색데이트 #가족나들이 #대하구이 #대전회맛집 #새우구이 #월드컵경기장야경 #야경맛집 #버스킹공연 #대전핫플 #옥상달빛야장 #블로그리뷰 #맛집추천 #인스타추천 #내돈내산 # 여자친구새 창 열림",
+   "url": "https://blog.naver.com/parkhyunguk/224419193206",
+   "engine": "naver_all",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "올해 마지막 발행이 10월 첫째 주라고 되어 있어서 아마 오늘이 마지막 날 같아요. 할인율과 구매 한도는 이전과 같은 20%, 10만 원 유효기간은 올해 12월 15일까지 (읭? 말일까지 주지 왜..)새 창 열림",
+   "url": "https://cafe.naver.com/postmore/97686?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBvc3Rtb3JlIiwiYXJ0aWNsZUlkIjo5NzY4NiwiaXNzdWVkQXQiOjE3OTE0ODU1MzI4OTV9.k37vCVVePTnXuiMeNW0R-gILdPVuAAX0iKccOLQAG34",
+   "engine": "naver_all",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "처음 써보려했는데 쿠폰발급 종료된거맞나요?새 창 열림",
+   "url": "https://cafe.naver.com/tlsxh/4192140?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRsc3hoIiwiYXJ0aWNsZUlkIjo0MTkyMTQwLCJpc3N1ZWRBdCI6MTc5MTQ4NTUzMjg5NX0.sToy0erRQd1dCr4ZIfkKsj5hGbGDSlQWxegp9N2C0ao",
+   "engine": "naver_all",
+   "query": "수산대전",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "증정 이벤트! 1. 약 43g의 초경량 설계 – 모자 앞쏠림 걱정 제로 캡라이트를 모자 챙에 끼울 때 가장 신경 쓰이는 부분이 바로 무게중심입니다. 무거우면 챙이 앞으로 처져 시야를... 크레모아 캡온 80C 최저가 & 사은품 확인하기 평일 당일 발송 지원 • 네이버페이 포인트 최대 추가 적립 혜택 #크레모아 #크레모아캡온80C #헤드랜턴 #캡라이트 #모자",
+   "url": "https://blog.naver.com/jins81cm2/224435870118",
+   "engine": "naver_blog",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "강력한 3,000mm 본체 방수로 우천 시 폭우와 아침 이슬 철벽 방어 차광 및 결로 저감 효과로 쾌적한 텐트 실내 환경 유지 단 980g의 초경량 무게로 수납 및 휴대의 부담 제로 내구성... ✔️ 네이버페이 포인트 최대 적립: 멤버십 추가 적립 + 전용 카드 결제 시 쏠쏠한 포인트 혜택 ✔️ 리뷰 이벤트 진행 중: 베스트 리뷰 선정 시 N포인트 10,0",
+   "url": "https://blog.naver.com/uaahyqfps90f6mp/224435855666",
+   "engine": "naver_blog",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "특히 이번 주에는 단순 할인뿐 아니라 신세계포인트 적립, 행사카드 할인, 1+1, 2개 이상 구매 할인, 스탬프 이벤트까지... 제로 등 추가 할인 생활용품 세제·물티슈·치약·샴푸 1+1 행사 주방용품 글라스락·락앤락 최대 50% 할인 이번 주는 특히 고기와 제철 과일, 델리, 생필품을 함께 보면 장보기 효율이 좋겠습니다. 1. 가을 이마트에서 가장 먼저 ",
+   "url": "https://blog.naver.com/mmhhahaha/224435854527",
+   "engine": "naver_blog",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "서울에 집을 사고 나면 모든 게 달라질 줄 알았다. 계약서에 도장을 찍고 집 열쇠를 받아 들었을 때만 해도 그랬다. 이제 전셋집을 옮겨 다니지 않아도 되고, 집주인에게 전화가 올까 걱정하지 않아도 되고, 아이들이 학교를 옮길 일도 없을 거라고 생각했다. 그런데 막상 우리 집이 생기고 나니 또 다른 현실이 기다리고 있었다. 대출이었다. 매달 월급날이 되면 가",
+   "url": "https://blog.naver.com/zzalforyou/224435839207",
+   "engine": "naver_blog",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "입구에는 코스별 안내와 서울페이·제로페이 스티커가 붙어 있었습니다. 안으로 들어가니 탈의실로 바로 안내해 주셨습니다. 갈아입을 관리복과 개인 사물함이 준비되어 있었고, 거울 앞에는 빗과 드라이기, 물티슈 등이 놓여 있었습니다. 준비된 갈색 상하의로 갈아입으니 팔과 다리를 움직이며 관리받기에도 편한 차림이었어요. 몸 상태가 좋지 못해 얼굴 안색도 많이... ",
+   "url": "https://blog.naver.com/pretty6144/224435770822",
+   "engine": "naver_blog",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "제로페이를 비롯해 반값여행 참여 영업장이나 환급금 사용 방법 등 방문 시기에 적용되는 내용을 미리 확인하면 여행 경비도 아끼면서 조금 더 알차게 즐길 수 있겠더라고요. 다만 관련 혜택이나 사용 조건은 달라질 수 있으니 방문 전에 최신 내용을 확인해 보는 걸 추천해요. 한우만 구입하고 돌아오기 아쉽다면 주변 가볼만한곳까지 함께 둘러보면 하루 가족 나들이 코스",
+   "url": "https://cafe.naver.com/culturebloom/3389275?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImN1bHR1cmVibG9vbSIsImFydGljbGVJZCI6MzM4OTI3NSwiaXNzdWVkQXQiOjE3OTE0ODU1NDQzNDV9.LvM_VmZLVE9iPxArpL9_in1dHoyPpkxPTP1iJlA3VzQ&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "[박스개봉/변심반품][마산물류한정]LG전자 LG 코드제로 오브제컬렉션 A9S 청소기 스팀물걸레 카밍베이지 AX948BWE [ 결제정보] 삼성4%, 롯데4%, 카카오페이4%, 현대4%, KB국민3%, 신한3%, 네이버페이2... 가격오류로 취소되는 경우도 있습니다. 핫딜 알림, 키워드 설정: https://cafe.naver.com/v9850/10470 (대",
+   "url": "https://cafe.naver.com/v9850/42958?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InY5ODUwIiwiYXJ0aWNsZUlkIjo0Mjk1OCwiaXNzdWVkQXQiOjE3OTE0ODU1NDQzNDV9.imlUVe-ErvE8Ok7saGXhmSuUZeMtVb-5eneQ1bBMlqc&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "가구톡세상 평택점 인스타그램 팔로우 이벤트 안녕하세요 가구톡세상(대표 송도현)입니다 마음이 풍족해지는 계절 가을 맞아 고객님들께 받은 사랑을 나누고픈 마음을 담아 특별한 이벤트을... 결제 - 제로페이 - 지역 화폐 결제 가능 ✅ A/S 문의 - 카카오채널 바로가기 (클릭) 가구톡세상 평택점은 위 표와 같은 특징들이 있는 곳이랍니다 인스타그램 뿐만 아니라 ",
+   "url": "https://cafe.naver.com/fo2b/1554964?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZvMmIiLCJhcnRpY2xlSWQiOjE1NTQ5NjQsImlzc3VlZEF0IjoxNzkxNDg1NTQ0MzQ1fQ.sUnUtorCqBqfHSxUt8YdgEbxdvMzkvg_e5rnMOf6q1s&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "장충동가구거리 돌아다니다 지친분들이 오시면 딱일것 같은게 제로페이 10% 할인까지 쓸 수 있어서 가성비 넘치더라구요 ✔️이태리 가구 알마니 반값 특가 2층은 수입 가구들도 다수 보였는데 이태리 알마니 가구는 재고 정리 세일로 반값 이하라 깜짝 놀랐어요 게다가 코윈스 제품이나 침대 세트 300만원 이상 구매 시 무료배송 혜택도 제공돼니 만족감이 꽤 커지더라구",
+   "url": "https://cafe.naver.com/mkas1/2022177?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1rYXMxIiwiYXJ0aWNsZUlkIjoyMDIyMTc3LCJpc3N1ZWRBdCI6MTc5MTQ4NTU0NDM0NX0.Y-H2MMTGmW7HwjKUd4cTF_3yVJO2JS3Crc0sLsuxd_c&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "본인은 월드탐험을 거의 안 돌리는 상태가 됨 ㅇㅇ 챕터 11쯤에서 멈춰있고 그 이후로 안 올라간 느낌 에너지 회복 시간 길어진 이후로 템포가 확 준 게 큼 예전엔 한 챕터 끝나면 바로 다음 챕터 도전했는데 지금은 그게 옛날 얘기 같은 느낌 월드탐험보다 쿠키 키우는 게 우선이라 점점 안하게 되는 중 신규 쿠키 나오면 그쪽에 자원 다 쏟아붓고 월드탐험은 자연스",
+   "url": "https://cafe.naver.com/crkingdom/3552889?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNya2luZ2RvbSIsImFydGljbGVJZCI6MzU1Mjg4OSwiaXNzdWVkQXQiOjE3OTE0ODU1NDQzNDV9.vFCYgbzctl5NWyPSRG2UZZFSOSfN-uPvqef0zm5raoc&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "고용 분야 매장관리/보조/진열 근무 형태 정규직 - 10명 경력 경력무관 연령 / 성별 연령무관 / 성별무관 근무 요일 08:00 ~ 17:00 / 주5일근무 (로테이션근무) 급여 월급 2,177,780원 마감일 : [2026.11.11] ■ 모집부문 모집 권역 이마트에브리데이 가양역점 점포주소 서울 강서구 양천로 476 담당업무 - 상품운영 및 관리 발주",
+   "url": "https://cafe.naver.com/sellerservice/26283?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNlbGxlcnNlcnZpY2UiLCJhcnRpY2xlSWQiOjI2MjgzLCJpc3N1ZWRBdCI6MTc5MTQ4NTU0NDM0NX0.43A7kCPFK6GqcW-U2fOZBeWojvFg_2uJ93J5aJ2ASsU&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "✨김해사랑상품권 & 제로페이 사용 가능합니다 ✨ 강력한 여름 햇빛 아래에서 방학과 연휴를 마치고 온 10월! 햇빛에 노출되면서 피부에 잡티가 생겨 고민이신 분들이 많으실 거 같은데요 김해... 바라겠습니다 / 이벤트 기간: 10월 31일까지 / 모든 시술 VAT별도 이벤트 대상: 김해 밴스의원 방문 고객님 밴스의원 운영 철학 \"정직\", \"신뢰\" 모든 제품 ",
+   "url": "https://cafe.naver.com/yul2moms/348283?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Inl1bDJtb21zIiwiYXJ0aWNsZUlkIjozNDgyODMsImlzc3VlZEF0IjoxNzkxNDg1NTQ0MzQ1fQ.sfQsvsoCwob8YLevYXeeN3Jsb9UVZvOGn79XEHIqbHs&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "좋았어요 제로페이 결제 시 10% 할인이 가능하고 침대 세트, 300만 원 이상 구매 시 무료 배송 서비스까지 제공돼서 진접가구거리 입주가구 준비로 딱이였어요 ✔️10월 풍성한 리뷰 이벤트 10월 신혼입주가구 페스타 기간이라 전 품목 50% 할인이 진행 중이었고 200만~400만 원대 실속형 세트 구성도 다양해 다산동가구점에서도 이벤트를 크게 진행하더라구요",
+   "url": "https://cafe.naver.com/mkas1/2022124?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1rYXMxIiwiYXJ0aWNsZUlkIjoyMDIyMTI0LCJpc3N1ZWRBdCI6MTc5MTQ4NTU0NDM0NX0.bZZVhIR1wM5CJ-fzwACkgPOaUjSmRVZ3TFk0RXyY6es&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "송파가구단지 제로페이 사용 시 10% 할인도 가능하다고 하니 해당되는 분들은 챙겨보세요 게다가 300만원 이상 구매 시에는 무료배송 혜택도 있더라구요 이번에 송파가구단지에서 발품 팔아보길 잘했다 싶었던 이유는 정말 초특가 중에 초특가 가구점이였기 때문이에요 리뷰 이벤트를 통해 온누리상품권 또는 네이버페이까지 받을 수 있으니 여기부터 방문해보시면 좋을 것 같",
+   "url": "https://cafe.naver.com/sweetdressroom/1754767?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InN3ZWV0ZHJlc3Nyb29tIiwiYXJ0aWNsZUlkIjoxNzU0NzY3LCJpc3N1ZWRBdCI6MTc5MTQ4NTU0NDM0NX0.U3FWgEiky-9Qz23CPYfIUTYkQPWiS49_aTicDADRUQo&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "점심먹고 들어오는길에 깻잎사러 들른 장터 오이6개 1천원 국산 브로콜리 2천원 깻잎 3개묶음 1천원 ======합계 :4천원 거기다 제로페이 가능",
+   "url": "https://cafe.naver.com/sogam0515/2043408?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNvZ2FtMDUxNSIsImFydGljbGVJZCI6MjA0MzQwOCwiaXNzdWVkQXQiOjE3OTE0ODU1NDQzNDV9.xi_WvRp2n_HI4I6X8WsWN_S5PPedyuBH0Vieq0EXEls&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "^^ SNP블라인드커튼백화점은 직영공장을 운영해서, 견적, 제작, 설치, A/S까지 원스톱으로 가능해요^^ 오늘의 시공후기 속 주인공 물금 반도4차 삼성페이 │ 양산사랑카드 │ 제로페이 전부 사용 가능 견적 및... 사이즈와 종류를 알려주시면 좀 더 빠른 견적 가능합니다 :) 예시) 프라이빗 A 가로 405 콤비블라인드 가로 170 세로 145 리뷰 페이백",
+   "url": "https://cafe.naver.com/chobomamy/2716885?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNob2JvbWFteSIsImFydGljbGVJZCI6MjcxNjg4NSwiaXNzdWVkQXQiOjE3OTE0ODU1NDQzNDV9.-reGZmSCnCzjeuxyFLRpVqx9BTJbyvh9-vimss3DTRc&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "필요한 육아템들을 한곳에서 만족스럽게 구매할 수 있어서 편하고 좋아요. 온누리상품권, 제로페이까지 결제 수단으로 이용할 수 있어서 오프라인 매장 중에서는 그 어느 곳보다 저렴하게 구매할 수 있었습니다. 낱개로 인터넷구매하면 배송비때문에 비싼 경우도 많은데 더 저렴하게 살수있어서 좋네요^^ 아직 출산전인데 출산후에도 필요한 물품있을때마다 들러서 살것같아요",
+   "url": "https://cafe.naver.com/babyhauscw/496?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJhYnloYXVzY3ciLCJhcnRpY2xlSWQiOjQ5NiwiaXNzdWVkQXQiOjE3OTE0ODU1NDQzNDV9.iN5iCGnqh3lJoWE4gcgH1lOEN_dkT3PghndVWdv8kwg&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "창원베이비하우스는 온누리상품권(7% 할인)• 제로페이(10% 할인)• 백화점상품권 사용 매장으로 부산 베이비페어에서 뉴나트래블 시스템으로 가격 견적 받은것보다 훨씬 저렴하게 구매를해서 가격 혜택이 정말 압도적이었는데, 저는 제로페이로 결제 수단으로 이용해서 오프라인 매장 중에서는 그 어느 곳보다 저렴하게 구매할 수 있었습니다. 직접 물건을 확인하는 편리함과",
+   "url": "https://cafe.naver.com/babyhauscw/495?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJhYnloYXVzY3ciLCJhcnRpY2xlSWQiOjQ5NSwiaXNzdWVkQXQiOjE3OTE0ODU1NDQzNDV9.F9rRjEcJN_uCDxWyigwLs_oX1bZBnMqj5y1OWYVaLsw&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "하나로마트 사운로점 목요일 추천상품 ❣️행사카드 : NH/롯데/우리/국민/전북/카카오페이/네이버페이포인트 * 머루 3kg... 할인) ❣️정육코너❣️ ❣️신선 수산 코너❣️ *생물 고등어 1미 정상가 4,300원 할인가 3,440원(회원 할인) *생물... 코너❣️ *코카콜라,제로1.8L 정상가 3,900원 할인가 3,300원 (2개 구매 시 900원 추가",
+   "url": "https://cafe.naver.com/technomomis/204788?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRlY2hub21vbWlzIiwiYXJ0aWNsZUlkIjoyMDQ3ODgsImlzc3VlZEF0IjoxNzkxNDg1NTQ0MzQ1fQ.ure5GLySYoyOA3KCyyv_Ms4I7S5NS9IDvI_kcsBWHZk&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "케어팟 미니 제로 사무실 탁상용 신생아 아기 가습기 MS021P ▼ 44% [ 쿠폰할인] - 즉시할인 적용 -80,000원 - Carepod 알림 동의 쿠폰 적용 -10,000원 [ 최종결제가] 89,000원 ✅ 네이버페이머니 결제시 [⭐ 포인트적립] +16,730원 체감가: 72,270원 ✅ 네이버 현대카드 적립... 핫딜 알림, 키워드 설정: https",
+   "url": "https://cafe.naver.com/v9850/42905?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InY5ODUwIiwiYXJ0aWNsZUlkIjo0MjkwNSwiaXNzdWVkQXQiOjE3OTE0ODU1NDQzNDV9.Qg3hrd_kqg3em3pZKmQIukiV6eHetNrviYRNfmONe_0&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "※ 사은품 지급에 관한 내용은 꼭 스스로 상세페이지 및 라이브 방송에서 직접 수령 조건을 확인하셔야 받지 못하는 불상사를 피할 수 있습니다. 주로 리뷰나 구매시간에 대한 조건이 있습니다. ※ 본 카페는 할인 대란 정보, 최저가 추천 , 싸게파는곳 (성지), 반품 미개봉 특가, 이벤트 상품 , 선착순 쿠폰 등 핫딜관련 최신정보를 올리는 카페입니다. 가입해두시",
+   "url": "https://cafe.naver.com/coolnovo/110646?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNvb2xub3ZvIiwiYXJ0aWNsZUlkIjoxMTA2NDYsImlzc3VlZEF0IjoxNzkxNDg1NTQ0MzQ1fQ.RbSs6ZwUkncqD2yyDcrlziBkz0JL6GcgfbqmHhWE9RA&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "ㆍ경품 당첨이 되면 꼭 당첨소감 올려주세요! ㆍ오랜 경품격언; 당소는 당소를 부릅니다!! ------------------------------------------------- #경품이벤트 #경품재테크 #당첨소감 #당소 #퀴즈이벤트 #댓글응모 #선착순 #즉석당첨 #사진이벤트 #게임이벤트 #공모전 #동영상 #인스타그램 #페이스북 #유튜브이벤트 -------",
+   "url": "https://cafe.naver.com/koreagift/30531?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtvcmVhZ2lmdCIsImFydGljbGVJZCI6MzA1MzEsImlzc3VlZEF0IjoxNzkxNDg1NTQ0MzQ1fQ.LxsR8zHeKIJ9MdOI05OLc2Vao5ELYLZKF6dvYxQzUJ0&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "오해의 소지도 발생할수 있고 이벤트 당첨에서 제외.오류가 발생할수 있습니다. 입점업체 닉네임 입점 업체는 회원분들의 혼돈을 줄이기... 입점업체 게시판 댓글) 및 특정 게시판.이벤트 글. 입점업체 글에 한해 입점업체 회원 후기에서도 연락처.업체 정보 허용 및 댓글에... 전체공지(의뢰이벤트 후기) 이용 후기 는 글 작성후부터 한달 내 이용후기까지만 게재가능",
+   "url": "https://cafe.naver.com/kidsinlove/1196617?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtpZHNpbmxvdmUiLCJhcnRpY2xlSWQiOjExOTY2MTcsImlzc3VlZEF0IjoxNzkxNDg1NTQ0MzQ1fQ.WIpRBXF6xjwBeXLlc9MlPoIyFMvIkFGceVQXMlN4VNY&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "활용방안 모바일 결제 및 핀테크: 간편결제(제로페이, 네이버페이, 카카오페이 등) 및 실시간 송금 시스템의 오프라인 상점 인증 O2O(Online to Offline) 마케팅: 제품 패키지, 지면 광고, 식당 메뉴판 등에 삽입하여 웹사이트, 이벤트 페이지, SNS로 즉시 연결 물류 및 출입/티켓팅 관리: 상품 이력 추적, 항공권 및 공연 티켓의 모바일 바코",
+   "url": "https://cafe.naver.com/ictlab/409?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImljdGxhYiIsImFydGljbGVJZCI6NDA5LCJpc3N1ZWRBdCI6MTc5MTQ4NTU0NDM0NX0.J6gij65Cd59FmuQ-EHooNFIPE2Vk12YWA9gGnYgnPdA&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "결제 - 제로페이 - 지역 화폐 결제 가능 ✅ A/S 문의 - 카카오채널 바로가기 (클릭) 가구톡세상 평택점 뿐만 아니라 가구톡세상의 혜택, 이벤트, 특장점들 모두 알아볼까요 ⬇️ 가구톡세상 정보 ⬇️ 가구톡세상 특징 가구톡세상 공통 - 전국 22개 매장 - 대형 브랜드가구 편집스토어 - 100여 개 브랜드, 2,000여 제품 전시 - 소파·식탁·침대·매트",
+   "url": "https://cafe.naver.com/fo2b/1554844?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZvMmIiLCJhcnRpY2xlSWQiOjE1NTQ4NDQsImlzc3VlZEF0IjoxNzkxNDg1NTQ0MzQ1fQ.jX5SyMzT7VA89aDUXt78uib8d8-qIymoddgg6V6Hqb8&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "제로네이트 이렇게 고민중인데 이중에서 해보신분있을까요? ━━━━━━━━━━━━ 레전드 다이어트 비포애프터 모음 ZIP → https://vo.la/fuzwtfH 씨씨앙 이벤트 보러가기 → https://vo.la/mljhMQ ━━━━━━━━━━━━ 연휴 급찐살 타파! 다이어트 꿀정보 모음.zip 전자레인지 열어보니.. | 오트밀밥 대참사 ▶️ https:/",
+   "url": "https://cafe.naver.com/cantsb/3613769?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNhbnRzYiIsImFydGljbGVJZCI6MzYxMzc2OSwiaXNzdWVkQXQiOjE3OTE0ODU1NDQzNDV9.hUT5L5-u5Jfa2UNgHvVNeU_D83sCunme2qb_uxD60SU&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "외 270명 ㆍ응모기간ㆍ08-28~09-30 (10-08) ㆍ응모주소ㆍ메인페이지 | 이벤트주소 ● [한국영유아보육교육진흥..] 평가제 퀴즈 풀고 투썸커피 받아가자 이벤트!! ㆍ경품번호ㆍ 인스타 10-08-002 ㆍ주최회사ㆍ한국영유아보육교육진흥.. ㆍ응모형태ㆍ퀴즈/퍼즐 ㆍ경품내역ㆍ투썸플레이스 아.. - 200명 ㆍ응모기간ㆍ09-21~09-30 (10-08) ",
+   "url": "https://cafe.naver.com/koreagift/30504?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtvcmVhZ2lmdCIsImFydGljbGVJZCI6MzA1MDQsImlzc3VlZEF0IjoxNzkxNDg1NTQ0MzQ1fQ.7bjUsQrU9bniEsD_8iQeQwuaaQYbYqhh-RBtTZcnSes&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "돋보였어요 제로페이 결제도 되어서 10% 할인받는 꿀팁도 챙길 수 있어요 ✔️신혼부부 맞춤형 층별 전시 1층과 지하 1층에는 딱 요즘 신혼이나 입주할 때 가장 많이 찾는 인기 상품 위주로 세팅되어... 편했어요 ✔️풍족한 이벤트와 서비스 침대 세트, 300만원 이상 사면 무료배송도 되고요 영수증 리뷰로 온누리상품권도 챙기고 다른 후기 이벤트로 네이버페이 이",
+   "url": "https://cafe.naver.com/sweetdressroom/1754051?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InN3ZWV0ZHJlc3Nyb29tIiwiYXJ0aWNsZUlkIjoxNzU0MDUxLCJpc3N1ZWRBdCI6MTc5MTQ4NTU0NDM0NX0.YpOg_1GUiCUmlkbjbDJv7lnJ-3xtzknuCcwMgp863CM&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "우선, 위공카페 이벤트 당첨되신 분들 축하드립니다!! 따뜻한 커피한잔 지원할 수 있음에 감사합니다. ※ 교정수학학원은 지난여름 중계동 학원가에 고3, N수 수능전문관을, 이곳 위례에 초중고 내신전문관을 오픈했습니다. ※앞서 7월에 오픈한 \"교정수학학원- 중계\"는 고등 수학교재 베스트 셀러인 고쟁이, 너기출, 어삼쉬사, 531 프로젝트 킬러분석등의 기획총괄 ",
+   "url": "https://cafe.naver.com/do2ya/123898?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvMnlhIiwiYXJ0aWNsZUlkIjoxMjM4OTgsImlzc3VlZEF0IjoxNzkxNDg1NTQ0MzQ1fQ.V8XMtceLbBaFumcUYwaKc09aVfpO5dX_jJbLonYIJ5s&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "케어팟 미니 제로 사무실 탁상용 신생아 아기 가습기 MS021P ▼ 44% [ 쿠폰할인] - 즉시할인 적용 -80,000원 - 주방/생활/계절 5% 쿠폰 적용 -4,950원 - Carepod 알림 동의 쿠폰 적용 -10,000원 [ 최종결제가] 84,050원 ✅ 네이버페이머니 결제시 [⭐ 포인트적립] +15,887원... 핫딜 알림, 키워드 설정: http",
+   "url": "https://cafe.naver.com/v9850/42861?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InY5ODUwIiwiYXJ0aWNsZUlkIjo0Mjg2MSwiaXNzdWVkQXQiOjE3OTE0ODU1NDQzNDV9.E6KG5-3uOlCX4y-txhvVhYhamo1jdUosnQHgNyMoGMk&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "(제일 최고) ▪️계좌이체가능(기업 *** ****** ** *** 박태훈) ▪️모바일 제로페이 가능(온누리, 수산대전) ▪️지로 상품권 가능(온누리 상품권, 진주사랑상품권) (모바일 온누리 상품권은 비대면결제가 막혔습니다. 바코드 찍어야 결제 됩니다.) 남양배송 ▪️저희가 직접 배달. (평일만 가능) ▪️25,000원 이상. ▪️배송 시간 : 오후 3시 ",
+   "url": "https://cafe.naver.com/jinjululu/2743329?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imppbmp1bHVsdSIsImFydGljbGVJZCI6Mjc0MzMyOSwiaXNzdWVkQXQiOjE3OTE0ODU1NDQzNDV9._KGxeSJeHJd3cKkmouXciqyne0ybxnw-OaUzyUB63S4&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "(소진시까지) ★오픈카톡 안내★ 하단 링크를 클릭하시면 으뜸50안경 부산명지점 오픈카톡으로 채팅이 가능합니다 http://pf.kakao.com/_SWYJb/chat 으뜸50안경 부산명지점 으뜸50안경 부산명지점에서 정확한 시력검사 저렴한금액으로 편안한 안경을 만나보세요~^^ pf.kakao.com 인스타그램 http://www.instagram.com/t",
+   "url": "https://cafe.naver.com/myungjimom/1570621?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im15dW5namltb20iLCJhcnRpY2xlSWQiOjE1NzA2MjEsImlzc3VlZEF0IjoxNzkxNDg1NTQ0MzQ1fQ.cvrfsUORqW9H9DG1ZvULjD-2NnY1mccZ7vETry7YWsM&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "결국 제로페이 모바일 상품권을 이용할 때는 결제 앱 설치 → 판매 중인 상품권 확인 → 상품권 구매 → 사용 가능한 가맹점 확인 → QR 또는 바코드 결제 순서로 생각하면 됩니다. 특히 온누리상품권은 운영체계가 변경됐기 때문에 예전 사용법과 혼동하지 말고, 지역사랑상품권이나 농할·수산대전상품권 등 현재 제로페이에서 운영되는 상품권과 구분해서 이용하는 것이 ",
+   "url": "https://cafe.naver.com/jungboble/1051?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdib2JsZSIsImFydGljbGVJZCI6MTA1MSwiaXNzdWVkQXQiOjE3OTE0ODU1NDQzNDV9.yNH-Wz0YWCmpv5bOPwWTHQ2uPfba0Hi_chSLPBI88Ak&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "이젠 클릭과 결별하자~ 제로 클릭 https://webzine.securities.miraeasset.com/webzine2610/vol2610_page42.php (트렌드 인사이드) 제로 클릭 | 미래에셋증권 웹진(2026년 10월) AI가 급속도로 발전하며 많은 일을 대신하는 요즘, 이제 소비의 주도권은 '검색하는 인간'에서 '제안하는 AI'로 이동하고",
+   "url": "https://cafe.naver.com/dlxogns01/438041?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6NDM4MDQxLCJpc3N1ZWRBdCI6MTc5MTQ4NTU0NDM0NX0.J0ywY6vAFusR-N-WOe638Ru3mnuEctQOQEiXHbomajY&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "※ 사은품 지급에 관한 내용은 꼭 스스로 상세페이지 및 라이브 방송에서 직접 수령 조건을 확인하셔야 받지 못하는 불상사를 피할 수 있습니다. 주로 리뷰나 구매시간에 대한 조건이 있습니다. ※ 본 카페는 할인 대란 정보, 최저가 추천 , 싸게파는곳 (성지), 반품 미개봉 특가, 이벤트 상품 , 선착순 쿠폰 등 핫딜관련 최신정보를 올리는 카페입니다. 가입해두시",
+   "url": "https://cafe.naver.com/coolnovo/110583?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNvb2xub3ZvIiwiYXJ0aWNsZUlkIjoxMTA1ODMsImlzc3VlZEF0IjoxNzkxNDg1NTQ0MzQ1fQ.gKko4a5QmzBWlQH7HbqmIhxmcEMh1wgZ85v6EFaB-30&q=%ec%a0%9c%eb%a1%9c%ed%8e%98%ec%9d%b4%20%ec%88%98%ec%82%b0%20%ec%9d%b4%eb%b2%a4%ed%8a%b8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "웹 게시글 둘러봐도 수산대전 상품권 판매를 개시한 정보만 있지, 이벤트 관련해선 안 보이는 것 같아서요. 제가 찾지 못한 것일수도 있지만 ^_^;; https://fsale.kr/ ▲▲▲▲▲▲▲▲ 2025 대한민국 수산대전 홈페이지 https://fsale.kr/zero1... 제로페이 모바일 상품권 앱에서 구매하실 수 있습니다. 사용 가능한 점포는 링크 ",
+   "url": "https://cafe.naver.com/wjdrkrjqn/87295?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndqZHJrcmpxbiIsImFydGljbGVJZCI6ODcyOTUsImlzc3VlZEF0IjoxNzkxNDg1NTQ3MTM3fQ.sj31kSHHD9JuhmTlpfL215esSCqCTR9t7Gn6Dn1ynCU",
+   "engine": "naver_all",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "경쟁자가 많아 소문 안내고싶지만~ ㅎ 내일 2차 판매예정이네요 앞전 12일 알람까지 맞춰가며 대기했지만 대기만하다 소진으로 실패~ ㅡㅡㅋ 디지털온누리는 10퍼이지만 수산대전상품권은 한도가 줄었지만 20퍼 할인~ #제로페이 #수산대전상품권새 창 열림",
+   "url": "https://cafe.naver.com/bablove/103240?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJhYmxvdmUiLCJhcnRpY2xlSWQiOjEwMzI0MCwiaXNzdWVkQXQiOjE3OTE0ODU1NDcxMzd9.LWHJTU3I0-O6LKNIe4kWp7EkA9TOvJIxUwEL2KEYef4",
+   "engine": "naver_all",
+   "query": "제로페이 수산 이벤트",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "자동차·가전·생활용품 할인부터 농축수산물 최대 50% 할인, 디지털 온누리상품권 10% 할인 확대, 숙박쿠폰까지 다양한 혜택이 준비되고 있는데요. 어떤 혜택이 예정돼 있고, 행사... 온라인 쇼핑몰과 오프라인 매장, 전통시장, 지역 상권 등에서 다양한 행사가 진행될 예정입니다. 다만 참여업체마다 할인 기간과 조건이 다를 수 있다는 점은 기억해 두세요. 자동",
+   "url": "https://blog.naver.com/iy2802/224435222983",
+   "engine": "naver_blog",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "수원농수산물시장은 수산부류와 청과부류 모두 주차요금이 동일하더라구요. 최초 1시간은 무료이고, 이후에는 10분당 200원이에요. 하루 종일 주차해도 1일 최대 6,000원이라 차량으로... 게다가 온누리상품권 환급도 받아서 개이둑 대하철에 생새우가 생각나시는 분들이라면 수원농수산물시장도 방문 후보로 살펴보셔도 좋을 것 같아요 ! 저처럼 생새우회도 먹고 싶고",
+   "url": "https://blog.naver.com/gpwls_s2/224435871059",
+   "engine": "naver_blog",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "단풍 산행 후 들러볼 만한 병풍산 주변 전통시장 병풍산 인근에는 정겨운 전통시장이 가까이 있어 단풍 산행을 마친 뒤 푸근한 먹거리를 맛보고 장을 보는 코스로 연계하기 좋습니다. 황룡시장 (약 10.5km): 4일장 · 4일·9일 장 · 주요 품목 농산물, 축산물, 수산물 · 시장 주차장 있음 비아5일시장 (약 12.6km): 상설장 · 1일·6일 장 · 주",
+   "url": "https://blog.naver.com/dailycare_master/224435869429",
+   "engine": "naver_blog",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "특히 부모님과 함께 부산을 찾거나 가족 단위로 여행하는 경우에는 돈카츠나 젊은 감성의 식당보다 이런 전통적인 고기집이 더 잘 맞을 수 있습니다. 불꽃축제 전 가족끼리 저녁을... 수족관 가득 싱싱한 활어를 구경하고, 상인들과 이야기를 나누며 먹고 싶은 횟감을 고르는 과정 자체가 부산의 활기찬 수산시장을 경험하는 재미이기도 합니다. 광안리 앞바다에서... 새",
+   "url": "https://blog.naver.com/thistimehere_travel/224435867265",
+   "engine": "naver_blog",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "고창전통시장 (약 5.0km): 상설장·3일장 · 3일·8일 장 · 주요 품목 농산물, 축산물, 수산물 · 시장 주차장 있음 사거리시장 (약 6.2km): 상설장 · 1일·6일 장 · 주요 품목 농산물, 축산물, 수산물 · 시장 주차장 있음 ──────────────────────────────────────── 6. 백제가요에 등장하는 방장산 가을 나들이",
+   "url": "https://blog.naver.com/dailycare_master/224435851575",
+   "engine": "naver_blog",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "단풍 구경 후 들르기 좋은 무등산 근처 전통시장 무등산에서 멀지 않은 곳에 전통시장이 있어, 단풍 구경을 마치고 따뜻한 먹거리와 장보기를 함께 즐기는 코스로 묶기 좋습니다. 산수시장 (약 5.3km): 상설장 · 매일 열림 · 주요 품목 농산물, 축산물, 수산물 남광주해뜨는시장 (약 6.0km): 상설장 · 매일 열림 · 주요 품목 농산물, 축산물, 수산물",
+   "url": "https://blog.naver.com/dailycare_master/224435838088",
+   "engine": "naver_blog",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "오징어볶음의 유래와 인기 오징어볶음은 한국의 전통적인 요리 중 하나로, 주로 밥과 함께 제공됩니다. 다양한 양념이 어우러져 풍미가 깊고, 오징어의 탱탱한 식감이 매력적인 요리입니다. 다음은 오징어볶음의 인기 원인입니다: 풍부한 해산물의 맛: 신선한 오징어는 그 자체로도 맛이 좋지만, 다양한 양념과 조합될 때 더욱 풍미가... 새 창 열림",
+   "url": "https://upbitin.tistory.com/195",
+   "engine": "naver_blog",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "단풍 나들이 길에 들르기 편한 백양사 주변 전통시장 백양사에서 가깝게 이동할 수 있는 위치에 전통시장이 자리해, 단풍 구경을 다 한 뒤 푸짐한 정통 먹거리와 시장 구경을 한 번에 즐기기 훌륭합니다. 사거리시장 (약 6.9km): 상설장 · 1일·6일 장 · 주요 품목 농산물, 축산물, 수산물 · 시장 주차장 있음 샘고을시장 (약 13.9km): 상설장 · ",
+   "url": "https://blog.naver.com/dailycare_master/224435804469",
+   "engine": "naver_blog",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "강아지를 데리고 횟집을 방문하기보다는 포장을 해서 숙소에서 편하게 저녁을 해결하기 위해서 주문진 수산시장에 있는 횟집에서 회포장을 했는데요. 주무진쪽으로 이동을 해서... 주문진 전통시장은 5일장이 열리는데요 1, 6으로 끝나는 날이 장날이더라구요. 매달 1, 6, 11, 16, 21, 26, 31일이 주문진 전통시장의 장날이 되니까 참고하시고 방문하시면 ",
+   "url": "https://blog.naver.com/omlonj/224435801709",
+   "engine": "naver_blog",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "여수 수산시장 → 낭만포차 거리 3일 차 순천만습지 → 순천만국가정원 → 전통시장 → 귀가 여수·순천 여행 포인트 여수 밤바다와 해상케이블카는 커플·부부 여행에 잘 어울림... 군산 수산시장 → 귀가 추천 이유 한옥마을에서 한복 체험과 전통문화 체험 가능 전주비빔밥, 콩나물국밥, 군산 짬뽕 등 먹거리 풍성 아이와 함께 사진 찍고 걷기 좋은 관광지가 많음 강",
+   "url": "https://blog.naver.com/kissbkl/224435793593",
+   "engine": "naver_blog",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "농축수산물의 시장 호황과 특별한 수요를 유발하는 '특수(特需)'는 크게 명절, 계절 및 특정 시즌, 기념일 및 가정 행사, 대형 이벤트 및 정책적 요인의 4가지 카테고리로 분류할 수 있습니다. 농축수산물은 신선도, 저장성, 문화적 제례 관습에 영향을 강하게 받기 때문에 각 시기별로 집중되는 품목에 뚜렷한 차이가 납니다. 빠짐없이 정리한 분류 체계는 다음과 ",
+   "url": "https://cafe.naver.com/purpleb5chw/14?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InB1cnBsZWI1Y2h3IiwiYXJ0aWNsZUlkIjoxNCwiaXNzdWVkQXQiOjE3OTE0ODU1NTg1MTN9.4njgLf-z-jfNgGLUM4EeR980D3BhnALuu_cQsrYiKko&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "이재명 정부 #이재명 SNS 보내기 1건 7월 18일 6건 7월 19일 7건 7월 20일 5건 7월 21일 7건 7월 22일 11건 7월 23일 5건 7월 24일 4건 7월 25일 4건 7월 26일 4건 7월 27일 3건 7월 28일 6건 7월 29일 5건 7월 30일 2건 7월 31일 4건 8월 1일 3건 8월 2일 13건 8월 3일 7건 8월 4일 12",
+   "url": "https://cafe.naver.com/greenb0k6k/197375?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjE5NzM3NSwiaXNzdWVkQXQiOjE3OTE0ODU1NTg1MTN9._rt8jgtA6tJgf63ZcDBC5XKsr0xJ0LyZ3QCJ7UjDLHs&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "상가홍보 시흥배곧 룸있는 전통일식 호스시 배곧 아브뉴프랑에서 배곧 새롬2차 2층으로이전 점심특정식 1인~28,000원과 점심특선 초밥~15,000원 풀코스A~ 1인당60,000 풀코스B~ 1인당48,000 풀코스C... 당일 수산시장에서 공급하며 신선한활어를 숙성하여 B코스부터는 참다랑어밎 계절생선 공급하고있습니다 스끼다시밎 해산물 매운탕과 알밥으로 푸짐하",
+   "url": "https://cafe.naver.com/lovesiheunggunja/471091?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxvdmVzaWhldW5nZ3VuamEiLCJhcnRpY2xlSWQiOjQ3MTA5MSwiaXNzdWVkQXQiOjE3OTE0ODU1NTg1MTN9.CCqE5m2xgxaREFXyrffrWqdTULNJOBDuSZg9raxPpqw&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "정부와 지자체는 물가 부담을 줄이기 위해 할인 지원이나 환급 행사를 진행하기도 합니다. [1, 2, 3] 찾으시는 농축수산물이 있다면 말씀해 주세요: 구하고자 하는 특정 품목 (예: 채소, 과일, 육류, 해산물 등) 구매 목적 (온라인 주문, 전통시장 할인 정보, 가격 동향 등) 알맞은 정보를 찾아드리겠습니다. 전체 내용을 통합·정리하고, 검증 프레임워크를",
+   "url": "https://cafe.naver.com/purpleb5chw/12?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InB1cnBsZWI1Y2h3IiwiYXJ0aWNsZUlkIjoxMiwiaXNzdWVkQXQiOjE3OTE0ODU1NTg1MTN9.1yonnHFVZNcrVtJUvGt7egL8BTk_QQWtbewq2AoPJbs&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "농·축·수산물 등 특정 품목만 해당하는 것이 아니라 전통시장 안에서 구매한 모든 품목이 대상입니다. 다만 모든 시장에서 자동으로 환급되는 것은 아니며, 행사에 참여하는 전통시장에서 구매해야 합니다. 또한 같은 시장에서 구매한 영수증만 합산할 수 있으므로 여러 시장에서 장을 본 영수증을 하나로 합쳐 환급받는 것은 불가능합니다. 3만원 이상 구매하면 5천원, ",
+   "url": "https://cafe.naver.com/dailyeconomyinfo/104?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRhaWx5ZWNvbm9teWluZm8iLCJhcnRpY2xlSWQiOjEwNCwiaXNzdWVkQXQiOjE3OTE0ODU1NTg1MTN9.9rqd1oKDjJbTSmNyfdjD-IB7zE0rIcFy1XU_gGJKhpQ&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "안녕하세요 소래포구 전통어시장 1층 109호 별수산입니다. 오늘 경매에서 모처럼 나온 몽당 숫꽃게 3kg 특가 소식 전해드렸는데요! 몽당 숫꽃게 3kg 딱 1분 ✔ 다리 떨어짐 있음 ✔ 몸통 살 위주로 드시기... 그리고 아직 오늘 별수산에는 싱싱한 숫꽃게 맛 좋은 암꽃게 활새우 상합·참소라 등 제철 수산물 좋은 물건들이 준비되어 있습니다. 한글날 연휴에 ",
+   "url": "https://cafe.naver.com/tlsxh/4219888?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRsc3hoIiwiYXJ0aWNsZUlkIjo0MjE5ODg4LCJpc3N1ZWRBdCI6MTc5MTQ4NTU1ODUxM30.t-MAP93wC0D4p9YYbHkivGIFKcOmf3Vmu5tmeKvmu9g&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "활기찬 로컬 시장 분위기 속에서 가성비 뛰어나고 든든하게 아침 식사를 즐기기에 더없이 훌륭한 곳이었습니다. 위강 주루 (渔港酒楼... 보타산 사찰 채식관 (普陀山素斋馆 - 푸퉈산 보제선사 인근) 관음보살 도량인 보타산 경내에서 오랜 전통의 불교 채식 요리를 정갈하게... 저우산의 식당들은 동해 바다에서 건져 올린 신선도 최상의 수산물과 저장성 해안 고유의 ",
+   "url": "https://cafe.naver.com/hassrd/29226?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imhhc3NyZCIsImFydGljbGVJZCI6MjkyMjYsImlzc3VlZEF0IjoxNzkxNDg1NTU4NTEzfQ.MMCnFE-D0KfwyyVSEMwr7Cnw__5_LPGZlam0fgYJznw&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "모집 기간: ~ 2026년 10월 31일까지 모집 대상: 전주시내 음식점, 학원, 카페, 생활편의시설, 문화시설 등 참여 혜택: 전주시 우수 할인가게 지정, 언론·SNS 및 시장상인회 연계 집중 홍보 지원 신청 방법... (한옥마을): 전통 매듭체험, 상품 구매 10,000원 이상 결제 시 할인 (현금 10%, 카드 5%) 자연건강 힐링센터 (한옥마을): ",
+   "url": "https://cafe.naver.com/ijeonju/76287?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImlqZW9uanUiLCJhcnRpY2xlSWQiOjc2Mjg3LCJpc3N1ZWRBdCI6MTc5MTQ4NTU1ODUxNH0.93dENdBaImCjsVabZm6FTd-HY_JDKMyy4VJ_-nsMqR0&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "행사기간 10.12.(월) ~ 10.21.(수) 행사장소 대구지역 전통시장 77개소 환급 혜택 ✔ 3만 원 이상 구매 → 온누리상품권 5천 원권 ✔ 5만 원 이상 구매 → 온누리상품권 1만 원권 ✔ 1인 1일 1회 환급 농축수산물뿐 아니라 전통시장 내 모든 구매 품목이 대상이며, 행사 기간 중 같은 시장에서 구매한 영수증은 합산할 수 있습니다. 카드 영수증",
+   "url": "https://cafe.naver.com/daegumam2003/440914?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRhZWd1bWFtMjAwMyIsImFydGljbGVJZCI6NDQwOTE0LCJpc3N1ZWRBdCI6MTc5MTQ4NTU1ODUxNH0.XGRwIHQRgK_0gGU_Jvh-mTormorzKsvRcDBTjKqaFyk&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "SSAL 신문 스크랩 ( 4주차) 날짜 2026/10/08 신문사명 농민신문 제목 정부가 독과점 부추기나…“농산물 할인지원, 이마트 쏠림 심화” 기사 요약 정부가 장바구니 물가 안정을 위해 투입하는 농축수산물... 슈퍼마켓, 전통시장, 중소 유통사의 가격 경쟁력이 치명적인 타격을 입는다. 농가 수취가격 및 협상력 저하: 유통 대기업의 시장 지배력이 비대해질",
+   "url": "https://cafe.naver.com/ssaleconomics/980?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNzYWxlY29ub21pY3MiLCJhcnRpY2xlSWQiOjk4MCwiaXNzdWVkQXQiOjE3OTE0ODU1NTg1MTR9.ulOoUeGabtFbnonXemeY18AgdR9FPO8oUtLtEPflSZc&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "쌀국수와 전통 요리 안주를 선보이는 '낮에는 식사, 밤에는 술자리'가 가능한 레트로 감성의 대표 한식 주점 프랜차이즈입니다. 남녀노소 호불호 없는 메뉴와 복고풍의 편안한 주막 분위기를 결합하여 오랜 기간 외식 시장에서 안정적으로 롱런하고 있습니다. 1. 브랜드... 계약이행보증금 (약 200만 ~ 300만 원): 물류 대금 및 가맹 계약 이행 담보금으로, ",
+   "url": "https://cafe.naver.com/s2helen/26962?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InMyaGVsZW4iLCJhcnRpY2xlSWQiOjI2OTYyLCJpc3N1ZWRBdCI6MTc5MTQ4NTU1ODUxNH0.LjaLMvOU0y5fFFKklPiFvpd2Xo8Au4v3hv6os4Qq4Qg&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "** 유월드 채용 사이트가 새롭게 오픈하였습니다. ** ** 아래의 사이트로 오시면 더 많은 정보와 서비스를 보실 수 있습니다. ^^ ** [ 유월드 채용 사이트 바로가기 ] [ 경영 분야 지원사업 안내 ] 1. [경북] 2026년 2차 가상융합상생협력지원센터 참여기업 모집 공고 경북지역 가상융합ㆍ디지털콘텐츠 기업대상으로 사업전반에서 발생하는 애로사항 해결",
+   "url": "https://cafe.naver.com/uworldexam/556302?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InV3b3JsZGV4YW0iLCJhcnRpY2xlSWQiOjU1NjMwMiwiaXNzdWVkQXQiOjE3OTE0ODU1NTg1MTR9.L9QMe9nMzW7D5pgwijzQtlV6wg9W_AYBItVcYAzNSTg&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "신입회원 자동등업 = 게시글3개 + 댓글10개 + 좋아요10개 구포시장 매일장터입니다 여기는 늘 사람 많은듯하네요 갈치 대합 뿔소라 전어 다양하고요 햇사과 아리수 만원 귤은 5천원이네요... 무통보 삭제글 - 운영진 승인없는 글 - 댓가성 후기글 - 스튜디오 백일 공구 전통돌상 성장동영상,출산선물,젖병소독기,신생아선물,임산부선물 2. 각종 댓가성 이벤트 후",
+   "url": "https://cafe.naver.com/pusanmommy/1554187?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InB1c2FubW9tbXkiLCJhcnRpY2xlSWQiOjE1NTQxODcsImlzc3VlZEF0IjoxNzkxNDg1NTU4NTE0fQ.K5CzsW_qxI40E0au2xlHhgK-rWxlBKUCkPtr-9C7mk4&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "노량진 수산시장 — 신선한 해산물의 천국 노량진 수산시장은 신선한 해산물을 찾는 이들에게는 필수 방문지입니다. 다양한 해산물과 수산물들이 저렴한 가격에 판매되고 있어, 많은 사람들이 찾는... #노량진8구역아크로리버스카이 #노량진수산시장해산물 #숭의여고교육프로그램 #성남고등학교전통 #대방공원산책로 #노량진8구역주거단지 #아크로리버스카이입주일정 #노량진수산시",
+   "url": "https://cafe.naver.com/investcore/1353?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImludmVzdGNvcmUiLCJhcnRpY2xlSWQiOjEzNTMsImlzc3VlZEF0IjoxNzkxNDg1NTU4NTE0fQ.9vvgOJxv7BPpI-hJEAlX_HI7X8HNEbOrE8Otjw3y1vk&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "제물포구는 광고 대상에 따라 생활권을 나눠보세요 제물포구 현수막 지정게시대는 주요 도로와 교차로, 주거지역 진입로, 전통시장, 상업지역 주변 등 여러 장소에 설치되어 있습니다. 지역마다 유동인구의... 음식점, 수산물 관련 업체, 관광 및 지역 매장 광고를 진행할 때 주변 게시대를 살펴볼 수 있어요. 신흥동·도원동 생활권은 주거지역과 주요 도로가 함께 형성",
+   "url": "https://cafe.naver.com/nungil/105?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im51bmdpbCIsImFydGljbGVJZCI6MTA1LCJpc3N1ZWRBdCI6MTc5MTQ4NTU1ODUxNH0.ElRB9Yr5KKp_qTrQVzKrvLVK-NzinduSggdVT90NzGk&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "15%) ✅ 시장 요약 프랑스 재정 불안과 9월 FOMC 의사록의 연내 추가 인상 가능성 시사로 미 10년물 금리가 한때 5.36%까지 치솟았으나, 10년물 국채 입찰 흥행과 AI 실적 기대감이 밑받침하며 낙폭을... · 전력/유틸리티: AI 에이전트 확산에 따른 전력 소매시장 재편 기대감으로 NRG 에너지가 +4.84%, 비스트라 에너지가 +3.88% 상",
+   "url": "https://cafe.naver.com/todaybigboss/6468?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRvZGF5YmlnYm9zcyIsImFydGljbGVJZCI6NjQ2OCwiaXNzdWVkQXQiOjE3OTE0ODU1NTg1MTR9.3NW_SPhDh0QNJDOx_rOcYc--jSqtvx3QLEakdle7xJE&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "2026 온누리 상생페이백 사용 방법 사용처 환급금 조회하기 2026년 현재 ‘상생페이백’ 신규 신청은 종료된 상태입니다. 2025년 9~12월 소비증가분을 대상으로 한 사업으로, 최종 지급은 2026년 1월에... 사용처 (디지털 온누리상품권 가맹점) 가능: 전국 전통시장, 상점가, 골목상권 내 식당·카페·미용실·정육점·동네마트·약국·학원 등 (약 13~",
+   "url": "https://cafe.naver.com/taeyeon7989/497160?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRhZXllb243OTg5IiwiYXJ0aWNsZUlkIjo0OTcxNjAsImlzc3VlZEF0IjoxNzkxNDg1NTU4NTE0fQ.hQXa6NYL5rtgtmrOj2-2xfw3B_9keZ1g2I5u501Qg2c&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "안녕하세요~ 오늘 우리 고딩이 시험이 끝나는 날이네요 고생한 아이에게 좋아하는 새우찜을 해즐 생각인데 아마도 하교시간이 11-12시 사이 일꺼 같아요~ 10시쯤 가면 활새우를 구매할수 있을까요? 혹시 오전에 수산물 구매하신 맘님 계실까봐 질문드립니다 날씨가 다한 계양산 입니다 요즈 등산 하기 너무 좋은 날씨네요",
+   "url": "https://cafe.naver.com/gyeyanggulife/464162?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imd5ZXlhbmdndWxpZmUiLCJhcnRpY2xlSWQiOjQ2NDE2MiwiaXNzdWVkQXQiOjE3OTE0ODU1NTg1MTR9.cFr-7W0ob4tn8_xVGberouYk7olc2jBoxRXtDLWfhws&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "규모의 전통 시장인 프리보즈 안에서 상인들이 직접 요리해 주는 신선한 해산물 바비큐 코너예요. 매콤하게 볶아낸 '흑해 새우 찜'과 '생선 튀김 플래터'가 유명합니다. 시장의 활기찬 에너지 속에서 투박하지만 신선함이 폭발하는 해산물을 맛보며 오데사 서민들의 진정한 미식 문화를 체감할 수 있었습니다. 오데사의 식당들은 흑해 청정 어장에서 건져 올린 싱싱한 수산",
+   "url": "https://cafe.naver.com/hassrd/29154?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imhhc3NyZCIsImFydGljbGVJZCI6MjkxNTQsImlzc3VlZEF0IjoxNzkxNDg1NTU4NTE0fQ.u6J9tZ1vCzOdzAZEYSc1666KUXYuM-iXdbR9SHnzbP4&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "이재명 정부 #이재명#대통령#정부 SNS 보내기 1건 7월 5일 2건 7월 6일 4건 7월 7일 5건 7월 8일 1건 7월 9일 4건 7월 10일 3건 7월 11일 2건 7월 12일 5건 7월 13일 12건 7월 14일 3건 7월 15일 7건 7월 16일 1건 7월 17일 1건 7월 18일 3건 7월 19일 2건 7월 20일 2건 7월 21일 4건 7월 2",
+   "url": "https://cafe.naver.com/greenb0k6k/197279?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjE5NzI3OSwiaXNzdWVkQXQiOjE3OTE0ODU1NTg1MTR9.uQJV6PLQhsaRDRbAgVdt8_g1Vcv4yEAd2SXjpMnG2PI&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "세화오일장은 우리가 흔히 떠올리는 관광시장과 분위기가 조금 다릅니다. 채소, 과일, 수산물, 생활용품, 옷, 먹거리까지 정말 ‘장을 보러 나온 사람들’이 섞여 있습니다. 유리도 방송에서 장을 보고 옷 구경까지 했는데요. 특히 제주 전통 의복인 갈옷을 입어보는 장면에서 꽤 큰 웃음이 나왔죠. 여기서 가장 중요한 여행 팁. 세화오일장은 매일 열리지 않습니다. ",
+   "url": "https://cafe.naver.com/sillimom/107?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNpbGxpbW9tIiwiYXJ0aWNsZUlkIjoxMDcsImlzc3VlZEF0IjoxNzkxNDg1NTU4NTE0fQ.wmYjxqRHeTHreAQ4bPffvw_LEudGea177DmfGrK8y8E&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "6%) + 리뷰비 → 비용 부담 큼 빈박스: 상품값 절약되지만 정책 위험 감수 ✅ 신선팜온 안전 상위노출 전략 1단계: 기본 — 공급가 경쟁력 확보 복수 공급처 확보 → 가격 비교·품절 시 대체 선순환 온라인도매시장·산지직접 문의로 중간마진 축소 시즌 선예약 → 가격 안정화·물량 확보 2단계: SEO 기본 최적화 (정석) [키워드 공식] 제목 = [브랜드/",
+   "url": "https://cafe.naver.com/purpleb5chw/8?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InB1cnBsZWI1Y2h3IiwiYXJ0aWNsZUlkIjo4LCJpc3N1ZWRBdCI6MTc5MTQ4NTU1ODUxNH0.HYz_iROFgejarsLlyKr8fTU3ggiMGhUKAg8S17n8Ls8&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "‘파시’는 바다에서 잡은 수산물을 배와 상인들이 모여 거래하던 시장을 뜻합니다. 축제장에서 그 시절 항구의 북적이는 분위기를 느껴보세요. 대표 콘텐츠 가운데 하나는 전통 파시입니다. 만선의 기쁨을 나누고 수산물 경매가 이어지던 모습을 재현해, 항구에서 사람과 물건이 오가던 풍경을 흥미롭게 보여줍니다. 어선이 들어오는 모습을 연출한 ‘파시, 만선이다!’와 현",
+   "url": "https://cafe.naver.com/mathaeng/1199?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hdGhhZW5nIiwiYXJ0aWNsZUlkIjoxMTk5LCJpc3N1ZWRBdCI6MTc5MTQ4NTU1ODUxNH0.ZbyrKg8BI9A7fYCi3_bnHj9Ao8E6HEnWndmJ2MpmzBg&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "구매 영수증도 꼭 챙기시고요! 상품권 소진되면 일찍 마감된다고 하니, 가시려는 시장이 참여하는 곳인지랑 환급 안내 먼저 확인해 보세요. 자세한 내용은 이미지 같이 올려둘게요~ 그리고 10~11월에는 골목페스티벌, 10월에는 대구전통시장 가을축제도 열린대요!!! 가까운 곳 일정 확인해서 가족과 구경 다녀오셔도 좋겠어요~",
+   "url": "https://cafe.naver.com/dgmom365/7410215?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRnbW9tMzY1IiwiYXJ0aWNsZUlkIjo3NDEwMjE1LCJpc3N1ZWRBdCI6MTc5MTQ4NTU1ODUxNH0.GSOaNGeUwYp-TUS9quiAF0bKDibSNwVvL-gIxkzgSoY&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "바이 삿 츠룩 노포 (Phsar Kandal 인근 아침 식당) 칸달 시장 골목에서 매일 아침 출근길 현지인들로 만석을 이루는 캄보디아 전통 아침 식사 전문점이에요. 코코넛 밀크와 마늘에 재워 숯불에 구운... 프놈펜의 식당들은 메콩강의 풍요로운 수산물과 세계적인 깜뽯 생후추, 그리고 오랜 세월 전수된 크메르 전통 허브 레시피를 정직하게 담아내어 요리마다 깊",
+   "url": "https://cafe.naver.com/hassrd/29113?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imhhc3NyZCIsImFydGljbGVJZCI6MjkxMTMsImlzc3VlZEF0IjoxNzkxNDg1NTU4NTE0fQ.9Qw89FsRk3tdNIba3G0wY6pZMKCYMJzBOD0Qvxk0H1c&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "상궁전 구 소쇄원간장게장은 간장게장을 중심으로 전통 한식의 매력을 보여주고, 아바이어시장 속초본점은 홍게찜을 중심으로 푸짐한 해산물 한 상을 선보입니다. 밥과 함께 제대로 한식을 먹고 싶다면 게장... 다만 수산물은 시기와 수급 상황에 따라 크기나 가격, 실제 제공 구성이 달라질 수 있으므로 방문 당시 메뉴를 확인하는 것이 정확합니다. ───────────",
+   "url": "https://cafe.naver.com/rentdoctor/2538?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJlbnRkb2N0b3IiLCJhcnRpY2xlSWQiOjI1MzgsImlzc3VlZEF0IjoxNzkxNDg1NTU4NTE0fQ.B3cAlh9FIy2U1b2kppmFQ4EGs140KmrwXUKiQ2d4b_Q&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "안녕하세요~ 소래포구 전통어시장 1층 109호 별수산입니다. 내일 발송분 주문받습니다! 이번 주는 한글날 연휴로 인해 목요일이 마지막 발송일입니다. 목요일 오후 6시 전 주문 → 목요일 당일 발송... 주문서당 1회 [함께 주문 가능한 수산물 안내] 강추!!!![급냉] 손질 절단꽃게 실중량 1kg ------- 25,000원 (손질전 약 2kg 상당, 암수",
+   "url": "https://cafe.naver.com/tlsxh/4218726?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRsc3hoIiwiYXJ0aWNsZUlkIjo0MjE4NzI2LCJpc3N1ZWRBdCI6MTc5MTQ4NTU1ODUxNH0.tOJs2DQxfWel7UX5YaFlf8pSvQE-9h0qoQQhuc1oWbs&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "온나노에키 나카유쿠이 시장은 온나손에 있는 온나 마을 농산물 판매 센터입니다. 9월 말에 푸른동굴 옆 마에다비치앞 숙소에서 5박을... 안쪽으로는 관광상품과 전통과자, 베이커리도 있고 뱀술과 전통주 매장도 있습니다. 관광상품은 돈키보다 비쌉니다. 하지만 이... 특유의 풀향과 꿀비슷한 향이 나는데 호불호 있을 듯), 수산물코너에서 된장소스에 무쳐먹는 회3종",
+   "url": "https://cafe.naver.com/okinawago/612761?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im9raW5hd2FnbyIsImFydGljbGVJZCI6NjEyNzYxLCJpc3N1ZWRBdCI6MTc5MTQ4NTU1ODUxNH0.d4vKb6d7BPDCabTau9Zn4BXIZRS62MCmE_hNL3YErzk&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "페티예의 식당들은 지중해 청정 바다의 싱싱한 수산물과 비옥한 토양에서 자란 올리브, 그리고 오랜 세월 다듬어진 아나톨리아 전통 향신료를 정직하게 담아내어 요리마다 깊고 풍성한 풍미를 자랑했습니다. 소박한 어시장 식당부터 마리나 뷰 레스토랑까지 현지 직원분들의 정 많고 따뜻하며 유쾌한 환대 덕분에 식사 내내 대접받는 행복을 누릴 수 있었습니다. 2. 추천 카",
+   "url": "https://cafe.naver.com/hassrd/29074?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imhhc3NyZCIsImFydGljbGVJZCI6MjkwNzQsImlzc3VlZEF0IjoxNzkxNDg1NTU4NTE0fQ.BdifMtCDbTyXCfQxY0vA6eH5suYUGiksCqRDXNdgFpk&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "** 유월드 채용 사이트가 새롭게 오픈하였습니다. ** ** 아래의 사이트로 오시면 더 많은 정보와 서비스를 보실 수 있습니다. ^^ ** [ 유월드 채용 사이트 바로가기 ] [ 경영 분야 지원사업 안내 ] 1. [경북] 정보보호 맞춤형 패키지 지원사업 참여기업 모집 공고 포항테크노파크는 정보보호 기업 제품 및 서비스 사업화 지원을 위한 맞춤형 패키지 지원",
+   "url": "https://cafe.naver.com/uworldexam/556171?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InV3b3JsZGV4YW0iLCJhcnRpY2xlSWQiOjU1NjE3MSwiaXNzdWVkQXQiOjE3OTE0ODU1NTg1MTR9.d44vIWb3Q6QY__e_7bqK6MuB9AFeBQ0BVbBloe2L0xU&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "오늘 16일 부터 20일 까지 전통시장에서 국내산 농축수산물을 사면 금액에 따라 온누리상품권(지류)준다는 글을 보고 가봤어요. 중간 중간 우역곡절이ㅜㅜ 있었으나 결론적으로 잘 처리해서 34,000원 구입하고1만원권 받아왔어요. 참여 시장과 참여 가게와 해당 품목이 있으니 잘 알아보고 가야겠더라구요. 예산 소진되면 중간에 종료된다고 하니 참고하세요~새 창 열",
+   "url": "https://cafe.naver.com/kyungmammo/6615083?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imt5dW5nbWFtbW8iLCJhcnRpY2xlSWQiOjY2MTUwODMsImlzc3VlZEF0IjoxNzkxNDg1NTYxNTU3fQ.EyFZGBKaVbunX9xV8enDXmBRjmt-DWTTU5GgNGpW3OE",
+   "engine": "naver_all",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "대구 전통시장에서 온누리상품권 환급 행사를 하고 있대요! 대구 전통시장에서 국산 농축수산물을 사면 구매 금액에 따라 일부를 온누리상품권으로 돌려주는 행사가 진행 중이라고 해요. 6만7천원 이상 구매하면 2만원을 돌려받을 수 있는데요. 서남시장 실내 고객쉼터에 별도로 마련된 해양수산부 수산물 전용 환급 부스에서도 이용객들이 순서에... 새 창 열림",
+   "url": "https://cafe.naver.com/dgmom365/7395156?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRnbW9tMzY1IiwiYXJ0aWNsZUlkIjo3Mzk1MTU2LCJpc3N1ZWRBdCI6MTc5MTQ4NTU2MTU1N30.t3ra_riXeKEWgFHqThIj_81SqJghQRe4qheNm7Q2CrM",
+   "engine": "naver_all",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "오늘부터5일간 전통시장에서 농축산물,해산물을구매하시고 결제할때 번호남기기 영수증모으기하시면 최대2만원씩4만원(온누리상품권으로주심) 환급받는제도입니다 환급받을때 중앙시장사무실로 (비아김밥근처)가야하며 5시전에가야됩니다 해양수산부 행사는 온누리로결제시 충전할때 10프로 할인 추가로되며 영수증을따로 모으지않고 휴대폰앱으로... 새 창 열림",
+   "url": "https://cafe.naver.com/anyangtalk/862248?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFueWFuZ3RhbGsiLCJhcnRpY2xlSWQiOjg2MjI0OCwiaXNzdWVkQXQiOjE3OTE0ODU1NjE1NTd9.AXejNcPszbQsP8YBeYn5bYqBNt_QCH6eaWutmxfe0SY",
+   "engine": "naver_all",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "전통시장에서 국산 수산물을 구매하면 구매금액에 따라 온누리상품권을 환급받을 수 있습니다. 기간 2026. 6. 10.(수) ~ 6. 14.(일) 환급장소 서호전통시장 고객지원센터 09:00~17:00 중앙전통시장 고객지원센터 09:00~17:00 북신전통시장 고객지원센터 10:00~18:00 환급금액 34,000원 이상 구매 시 1만 원 67,000원 이상",
+   "url": "https://cafe.naver.com/tgpia/1021228?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRncGlhIiwiYXJ0aWNsZUlkIjoxMDIxMjI4LCJpc3N1ZWRBdCI6MTc5MTQ4NTU2MTU1N30.d2TcoPhuSnKLmdLcawmGjFt0Q9pcOfvyS3m1AyjAMM0",
+   "engine": "naver_all",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "도내 9개 전통시장 (상설시장 6곳과 오일시장 3곳_제주시,서귀포시,한림)에서 국내산 수산물 사면 30%를 온누리상품권으로 환급받을 수 있대요. 1인 최대 2만원까지니까,, 67,000원 어치를 사면 완전 꿀인거 맞죠?! (67,000원의 30%가 약 2만원) 27일까지니까 아직 3일 남았네요. 전 오늘 내일 중에 동문시장 가서 육지로 생선을 보내거나, 저",
+   "url": "https://cafe.naver.com/jejumam/1187765?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImplanVtYW0iLCJhcnRpY2xlSWQiOjExODc3NjUsImlzc3VlZEF0IjoxNzkxNDg1NTYxNTU3fQ.H-TE-BV4A6C_KIGKU5NmO4OJaBf1fbrwC-x85hcgTsk",
+   "engine": "naver_all",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "☞ 2026년 내(1~12월) 대전광역시로 주거ㆍ사무ㆍ제조 공간 이전을 희망하거나 이전을 완료한 매출ㆍ고용ㆍ투자 등 일정 성장단계에 진입한 창업 7년 이내 기업※ 단, 2026년 창업도시 조성 프로젝트 자금지원 수혜기업의 경우 해당조건 면제☞ 대전광역시 소재 주거ㆍ사무ㆍ제조 공간 임대료 지원※ 자세한 지원내용 공고문 참조 [신청기간] 2026-10-06 ~",
+   "url": "https://cafe.naver.com/uworldexam/556302?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InV3b3JsZGV4YW0iLCJhcnRpY2xlSWQiOjU1NjMwMiwiaXNzdWVkQXQiOjE3OTE0ODU1NzMwODF9.sSueLyrROLwG2ga_FkvVNJxM_zIbT6Ug-iwOHXAlrxo&q=%eb%8c%80%ec%a0%84%20%ec%84%b8%ec%a2%85%20%ec%b6%a9%eb%82%a8%20%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89%20%ec%9d%bc%ec%a0%95&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "[충남] 2026년 3분기분 소상공인 사회보험료 지원사업 공고 도내 영세 소상공인의 경영부담을 완화하고 근로자의 사회보험 사각지대 해소를 위하여「소상공인 사회보험료 지원사업」을 아래와 같이 공고합니다.☞ 도내 소재 10인 미만 근로자를 고용하고 있는 소상공인 중 정부 두루누리 사회보험료 지원을 받고 있는 사업주- 2026년 3분기(7∼9月) 월 보수액 27",
+   "url": "https://cafe.naver.com/uworldexam/556171?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InV3b3JsZGV4YW0iLCJhcnRpY2xlSWQiOjU1NjE3MSwiaXNzdWVkQXQiOjE3OTE0ODU1NzMwODF9.GsjXwRRo7jzjYgl8ONjlGHoAsdnMYn9tZ-KxPuwfrNU&q=%eb%8c%80%ec%a0%84%20%ec%84%b8%ec%a2%85%20%ec%b6%a9%eb%82%a8%20%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89%20%ec%9d%bc%ec%a0%95&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "18%) · 러셀 2000: 중소형주 반발 매수세 속 강보합 ✅ 시장 요약 장기 국채금리의 고공행진과 유가 변동성에도 AI 성장 모멘텀이... 그러나 시장은 이를 경기 위축이 아닌 견조한 명목 성장 기반의 결과로 받아들이며 주가 상승 동력으로 승화시켰습니다. M&A 빅딜... 전력·하드웨어 제조사가 PLM/설계 소프트웨어를 결합해 데이터센터 및 스마트팩토리",
+   "url": "https://cafe.naver.com/todaybigboss/6451?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRvZGF5YmlnYm9zcyIsImFydGljbGVJZCI6NjQ1MSwiaXNzdWVkQXQiOjE3OTE0ODU1NzMwODF9.OvZwIN1tWxZYCl1X3m9sDJUTHXJ_NYRvOKOzH-VtmUo&q=%eb%8c%80%ec%a0%84%20%ec%84%b8%ec%a2%85%20%ec%b6%a9%eb%82%a8%20%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89%20%ec%9d%bc%ec%a0%95&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "여권 갈등 #유시민#김민석#정청래 SNS 보내기 2건 6월 17일 1건 6월 22일 1건 6월 24일 1건 6월 25일 4건 6월 27일 1건 6월 28일 4건 6월 29일 4건 6월 30일 5건 7월 1일 2건 7월 3일 2건 7월 4일 5건 7월 5일 5건 7월 6일 2건 7월 7일 8건 7월 8일 3건 7월 10일 2건 7월 11일 2건 7월 12일 ",
+   "url": "https://cafe.naver.com/greenb0k6k/197014?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjE5NzAxNCwiaXNzdWVkQXQiOjE3OTE0ODU1NzMwODF9.28u5rkHaji_eT30bs2tzZC-cr4TM385wII6Yp_P900k&q=%eb%8c%80%ec%a0%84%20%ec%84%b8%ec%a2%85%20%ec%b6%a9%eb%82%a8%20%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89%20%ec%9d%bc%ec%a0%95&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "이재명 대통령이 지난 2일 세종특별자치시에서 열린 민원혁신 사례 100이상+ 10월 2일 14:15李 “내년엔 체감할 만큼 바뀐다”... (사진=연합뉴스) 국회 행 10이상+ 10월 1일 17:54李 “새 시장 열려면 새 시스템 필요”…AI 개발·활용과 안전 역량 동시 강조 이재명... 전시작전통제권 환수를 ‘자주국방의 마침표’로 규정하고 핵추진잠수함 건조",
+   "url": "https://cafe.naver.com/greenb0k6k/197011?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjE5NzAxMSwiaXNzdWVkQXQiOjE3OTE0ODU1NzMwODF9.OzRG_wld82jrO-vUctrSk2cY90pmx78bAoGgMFy01PY&q=%eb%8c%80%ec%a0%84%20%ec%84%b8%ec%a2%85%20%ec%b6%a9%eb%82%a8%20%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89%20%ec%9d%bc%ec%a0%95&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "최근 글로벌 및 한국 경제 동향 분석 및 특징 2026년 3분기 말 현재 글로벌 금융시장과 한국 경제는 연초의 금리 인하 및 통화완화 기대가 완전히 후퇴하고, 주요국 정책금리와 시장금리가 동반 상승하는 국면에 직면해 있습니다. 미국 10년물 국채금리가 5.0%를 상회하고, 30년물 국채금리가 2002년 이후 최고치를 기록하는 등 글로벌 채권시장에서 발작적 ",
+   "url": "https://cafe.naver.com/williamzzang/83942?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndpbGxpYW16emFuZyIsImFydGljbGVJZCI6ODM5NDIsImlzc3VlZEF0IjoxNzkxNDg1NTczMDgxfQ.s9mNFTTCBp_vCLr7fEmUKiAyw7yN_DmOJzfRtNOsX0Y&q=%eb%8c%80%ec%a0%84%20%ec%84%b8%ec%a2%85%20%ec%b6%a9%eb%82%a8%20%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89%20%ec%9d%bc%ec%a0%95&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "2026년 정보통신 중소기업 발전 유공자 포상 계획 공고 과학기술정보통신부와 벤처기업협회는 국내 ICT산업 발전에 기여한 중소ㆍ벤처기업 유공자를 포상하고자 아래와 같이 「2026년 정보통신 중소기업 발전 유공자 포상」 계획을 공고하오니 많은 참여와 추천 바랍니다.☞ ICT 분야 중소ㆍ벤처기업 대표자로서 신규 일자리 창출, 신기술 개발 및 사업화, 해외시장 ",
+   "url": "https://cafe.naver.com/uworldexam/555530?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InV3b3JsZGV4YW0iLCJhcnRpY2xlSWQiOjU1NTUzMCwiaXNzdWVkQXQiOjE3OTE0ODU1NzMwODF9.cgZcAroHBsmYN1lZu9vRwipTW8No2_DsX1O0eanMNPs&q=%eb%8c%80%ec%a0%84%20%ec%84%b8%ec%a2%85%20%ec%b6%a9%eb%82%a8%20%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89%20%ec%9d%bc%ec%a0%95&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "이 대통령은 이날 엑스(X·옛 트위터)에서 \"어려움 속에서도 대미투자협상에 최선을 다했고 11:04李 대통령 \"박정희·노무현도 자주국방…전작권 환수로 마침표\" 국군의날 기념사 \"자주국방이 곧 주권\" 국군사관학교·선택적 모병제 의지 재확인 \"지뢰 사고 장병 생각에 마음 아파\" [더팩트ㅣ이헌일 기자] 이재명 대통령은 1일 \"전시작전통제권 환수로 자주국방의 마침",
+   "url": "https://cafe.naver.com/greenb0k6k/196835?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjE5NjgzNSwiaXNzdWVkQXQiOjE3OTE0ODU1NzMwODF9.e6ME2ziAsbNvDYyjYTGYTy7FHXRiyBUydaoOiX1ljZM&q=%eb%8c%80%ec%a0%84%20%ec%84%b8%ec%a2%85%20%ec%b6%a9%eb%82%a8%20%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89%20%ec%9d%bc%ec%a0%95&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "5(월), 가 볼 만한 축제·행사 13곳 가까운 내포·홍성·예산 행사부터 충남·대전 축제까지 날짜·장소·요금을 한곳에 모음 자세한 일정... 한 전통 제례·불전과 대표 공연이 있음 • 야간경관, 체험, 전시, 거리 프로그램 등 다양한 콘텐츠가 제공됨 자세히 보기 5. 공주산성시장 밤마실 야시장 (공주시) ?? 9.4(금)~10.17(토) 〔금·토요일〕 17",
+   "url": "https://cafe.naver.com/naepoaljiyu/179?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5hZXBvYWxqaXl1IiwiYXJ0aWNsZUlkIjoxNzksImlzc3VlZEF0IjoxNzkxNDg1NTczMDgxfQ.AhS3yJ2ObEbV1mcCpj31J-LongyOp8cGEn7BePw6UMo&q=%eb%8c%80%ec%a0%84%20%ec%84%b8%ec%a2%85%20%ec%b6%a9%eb%82%a8%20%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89%20%ec%9d%bc%ec%a0%95&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
+  {
+   "title": "매출실적이 일정액 이상 도달한 기업☞ 우수기업 및 유공자 수상 지원- 세종시 중소기업 육성자금 우대 지원, 세종시 국내ㆍ해외판로 지원사업 참여기업 선정 시 가점 부여, 수상기업 홍보 및 시 주요... 30.) 수출실적 1백만 불 이상 및 전년 동기 대비 수출실적이 증가한 부산 소재 기업 등☞ 부산광역시장상 포상 지원※ 자세한 지원내용 공고문 참조 [신청기간",
+   "url": "https://cafe.naver.com/uworldexam/554062?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InV3b3JsZGV4YW0iLCJhcnRpY2xlSWQiOjU1NDA2MiwiaXNzdWVkQXQiOjE3OTE0ODU1NzMwODF9.ezZQkWB5YWQWXmIFzstOvmxnGGmacZq04GDhLnRNtOg&q=%eb%8c%80%ec%a0%84%20%ec%84%b8%ec%a2%85%20%ec%b6%a9%eb%82%a8%20%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89%20%ec%9d%bc%ec%a0%95&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-10-09T03:33:47+09:00"
+  },
   {
    "title": "농축산물 할인지원 이마트에 698억원, 대형마트 지원액 40퍼센트 집중 - 한국영농신문",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3ZEhpckhEc3liS0NrQVpZRXNOenVobmZiVTY0Y0N3ZkpwcDNhdUxGQlN0TFo2V1FRUWtuREMzclFzZkQ0WU8xOGladE54ZnNBLTN6MHdZT1RlblBCcERfMmRReTYyRkVZQlgyRmR3?oc=5",
