@@ -1,11 +1,11 @@
 [yuseong-round-event] rendered 1328 chars CHANGED
 [seogu-yeyak] rendered 1971 chars CHANGED
-[pyoungsong] rendered 828 chars same
+[pyoungsong] rendered 824 chars CHANGED
 [djkids-musical] rendered 1618 chars CHANGED
 [djkids-notice] rendered 1023 chars CHANGED
-[dctf] RENDER ERROR rendered but too little text (0 chars)
-[nol-family] rendered 2280 chars CHANGED
-[ticketlink-notice] RENDER ERROR rendered but too little text (0 chars)
+[dctf] rendered 1496 chars same
+[nol-family] rendered 2245 chars CHANGED
+[ticketlink-notice] rendered 1471 chars CHANGED
 [oworld-notice] rendered 1067 chars same
 [baekje-schedule] rendered 1764 chars CHANGED
 [geumriver-dam] rendered 1983 chars CHANGED
@@ -13,9 +13,9 @@
 [pyeongtaek-main] rendered 5787 chars CHANGED
 [kopis-daejeon-kids] rendered 4441 chars same
 [kwater-realtime-multidam] rendered 3754 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 2081 chars CHANGED
+[ticketlink-kids-cat-daejeon] rendered 468 chars CHANGED
 [gongjeon-kids] rendered 482 chars CHANGED
-[navy-visit-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[navy-visit-notice] RENDER ERROR Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000
 Call log:
   - navigating to "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000", waiting until "domcontentloaded"
 
@@ -30,12 +30,9 @@ Call log:
 [mokwon-events] rendered 948 chars CHANGED
 [science-reservation] rendered 1436 chars CHANGED
 [khs-notice] rendered 309 chars same
-[royal-khs-events] rendered 2739 chars CHANGED
-[expo-park] rendered 735 chars CHANGED
-[nol-upcoming-notice] rendered 1204 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 1240 chars CHANGED
+[royal-khs-events] rendered 2739 chars same
+[expo-park] rendered 725 chars CHANGED
+[nol-upcoming-notice] rendered 1264 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 1209 chars CHANGED
 [kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://m.ticketlink.co.kr/help/notice", waiting until "domcontentloaded"
-
+[ticketlink-notice-mobile] RENDER ERROR rendered but too little text (0 chars)
