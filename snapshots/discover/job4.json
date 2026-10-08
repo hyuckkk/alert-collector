@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-08T16:07:53+09:00",
+ "updated": "2026-10-08T16:16:36+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 65,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "청주 가을여행, 지금이 딱…농업축제부터 산림박람회·세종대왕 초정까지 - 투어코리아",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXajJjM1VNcktFT1NlR2E4cWR3RDk4TE4yWlhaX1ExaE11OEwtSGhtbGlGQVQ1UEtkWUFWZHBYYWt5TjZrT3lITXBxUVFaMzNtU0hWS2hRZ21zVUN3Y2w4dmlyYTlMbnlVOUhuSDZB?oc=5",
+   "pub": "Thu, 08 Oct 2026 07:02:56 GMT",
+   "engine": "gnews",
+   "query": "청주 불꽃축제",
+   "first_seen": "2026-10-08T16:16:36+09:00"
+  },
   {
    "title": "무더운 여름 밤, 대전 오월드에서 시원한 야간 나들이를 즐겨보세요! 2026년 8월, 화려한 불꽃놀이와 함꼐 다양한 공연 및 야간 놀이시설을 즐기실 수 있습니다. 낮과는 또 다른 조명과 아름다운 야경이 더해져 가족, 연인, 친구와 함꼐 특별한 추억을 만들어 보세요!새 창 열림",
    "url": "https://www.kpi.or.kr/daejeon/enjoy_view.asp?idx=1012",
@@ -8028,6 +8036,7 @@
   "naver_blog '오월드 불꽃쇼': HTTP Error 403: Forbidden",
   "naver_news '오월드 불꽃쇼': HTTP Error 403: Forbidden",
   "naver_cafe '오월드 불꽃쇼': HTTP Error 403: Forbidden",
+  "naver_all '오월드 불꽃쇼': HTTP Error 403: Forbidden",
   "naver_web '오월드 불꽃쇼': HTTP Error 403: Forbidden",
   "naver_blog '세종 불꽃': HTTP Error 403: Forbidden",
   "naver_news '세종 불꽃': HTTP Error 403: Forbidden",
@@ -8041,9 +8050,8 @@
   "naver_web '계룡 불꽃': HTTP Error 403: Forbidden",
   "naver_blog '공주 불꽃놀이': HTTP Error 403: Forbidden",
   "naver_news '공주 불꽃놀이': HTTP Error 403: Forbidden",
+  "naver_cafe '공주 불꽃놀이': HTTP Error 403: Forbidden",
   "naver_all '공주 불꽃놀이': HTTP Error 403: Forbidden",
-  "naver_blog '청주 불꽃축제': HTTP Error 403: Forbidden",
-  "naver_news '청주 불꽃축제': HTTP Error 403: Forbidden",
-  "naver_cafe '청주 불꽃축제': HTTP Error 403: Forbidden"
+  "naver_web '공주 불꽃놀이': HTTP Error 403: Forbidden"
  ]
 }
