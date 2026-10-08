@@ -609,7 +609,7 @@
   "id": "bok-commemorative-coin-news",
   "url": "https://www.bok.or.kr/portal/bbs/B0000502/list.do?menuNo=201265",
   "render": true,
-  "note": "JOB13 한국은행 기념주화 발행·예약 공지 목록 (WebFetch 시 메뉴만 보임)"
+  "note": "JOB13 한국은행 B0000502 목록 — 10/9 현재 '콘텐츠 준비중'만 수집(1,351자), bok-press-list·gnews-bok-coin으로 보완"
  },
  {
   "id": "daejeon-cafe-100papa-40250",
@@ -1162,5 +1162,16 @@
   "url": "https://kopis.or.kr/por/db/prfplc/prfplcView.do?menuId=MNU_00021&mt10Id=FC000323",
   "render": true,
   "note": "KOPIS 공연장 상세(평송 어울림홀·소극장) 공연 목록 — 연말 가족공연 회차·시간 확인용(WebFetch egress 차단) | 2026-10-09 JOB1 추가"
+ },
+ {
+  "id": "bok-press-list",
+  "url": "https://www.bok.or.kr/portal/bbs/B0000338/list.do?menuNo=200761",
+  "render": true,
+  "note": "JOB13 한국은행 보도자료 목록 — 기념주화 발행·예약 접수 보도자료가 여기 먼저 올라옴(10/9 B0000502 수집 실패 대체)"
+ },
+ {
+  "id": "gnews-bok-coin",
+  "url": "https://news.google.com/rss/search?q=%ED%95%9C%EA%B5%AD%EC%9D%80%ED%96%89+%EA%B8%B0%EB%85%90%EC%A3%BC%ED%99%94+when:7d&hl=ko&gl=KR&ceid=KR:ko",
+  "note": "JOB13 '한국은행 기념주화' 최근 7일 구글뉴스 RSS — 한은 공지 수집 실패 대비"
  }
 ]
