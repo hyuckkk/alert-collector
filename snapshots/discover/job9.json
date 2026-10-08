@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-08T18:08:00+09:00",
+ "updated": "2026-10-08T19:07:58+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 27,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "2026-08-31무주양수발전소(하부댐)2026-08-31 01:00 ~ 09-03 18:00최대 50 이내2026-08-30금강하구둑2026-08-30 05:00 ~ 09-07 18:00최대 7600 이내2026-07-19무주양수발전소(하부댐)2026-07-19 04:00 ~ 07-22 00:00최대 50 이내2026-07-16금강하구둑2026-07-16",
@@ -278,5 +278,9 @@
    "first_seen": "2026-10-01T19:08:06+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '대청댐 방류': HTTP Error 503: Service Unavailable",
+  "gnews '대청댐 수문': HTTP Error 503: Service Unavailable",
+  "gnews '대청댐 홍수조절': HTTP Error 503: Service Unavailable"
+ ]
 }

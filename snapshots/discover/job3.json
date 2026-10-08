@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-08T18:08:00+09:00",
+ "updated": "2026-10-08T19:07:58+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 240,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "이렇게 강팀이 되었지 우승트로피도 맛보기 ㅋㅋㅋ (가짜인거알아요) 그래두 재밌잖앙♡♡♡ 개막한줄알앗는데안햇더라고 제가 갔을때 진경기는 경기라고 볼 수 없어요 이날은 아직 시범경기였던 것 그래도 나 메달 2개있는여자야ㅋㅋㅋ 어느날에는 박효신 콘서트를 다녀왔어요 !! 몸편히 가려고 버스대절했는데 너무 빨리가더라고.. 나 친구 없는데 .. 그래서 근처... 새 ",
@@ -9057,5 +9057,20 @@
    "first_seen": "2026-10-08T08:07:14+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '박효신 콘서트': HTTP Error 503: Service Unavailable",
+  "gnews '박효신 티켓오픈': HTTP Error 503: Service Unavailable",
+  "gnews '이해원 소프라노': HTTP Error 503: Service Unavailable",
+  "gnews '이해원 공연': HTTP Error 503: Service Unavailable",
+  "gnews '브랜든 최 공연': HTTP Error 503: Service Unavailable",
+  "gnews 'Brandon Choi 테너': HTTP Error 503: Service Unavailable",
+  "gnews '송소희 콘서트': HTTP Error 503: Service Unavailable",
+  "gnews '송소희 공연': HTTP Error 503: Service Unavailable",
+  "gnews '이적 콘서트': HTTP Error 503: Service Unavailable",
+  "gnews '이적 공연': HTTP Error 503: Service Unavailable",
+  "gnews '브랜든 최 협연': HTTP Error 503: Service Unavailable",
+  "gnews '브랜든 최 출연': HTTP Error 503: Service Unavailable",
+  "gnews '송소희 출연': HTTP Error 503: Service Unavailable",
+  "gnews '이적 게스트': HTTP Error 503: Service Unavailable"
+ ]
 }

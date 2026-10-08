@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-08T18:08:00+09:00",
+ "updated": "2026-10-08T19:07:58+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 122,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "대덕특구와 KAIST를 비롯한 과학기술 역량을 바탕으로 산업 현장의 AI 전환과 기업 육성, 인재 양성, 연구·실증 기반을 확충하겠다. 온통대전으로 시민의 오늘을 챙기고 AI로 대전의 내일을 준비하는 것이 임기 초반의 두 축이다. 허태정 대전시장이 지난 8월 27일 대전시청 브리핑룸에서 ‘온통대전 2.0’에 대해 설명을 하고 있다. Q. ‘우리 모두의 대전",
@@ -8107,5 +8107,21 @@
    "first_seen": "2026-10-08T01:37:26+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews 'KAIST 축제': HTTP Error 503: Service Unavailable",
+  "gnews '카이스트 공연 동아리': HTTP Error 503: Service Unavailable",
+  "gnews 'KAIST 루나틱': HTTP Error 503: Service Unavailable",
+  "gnews '충남대 축제': HTTP Error 503: Service Unavailable",
+  "gnews '충남대 공연': HTTP Error 503: Service Unavailable",
+  "gnews '목원대 공연': HTTP Error 503: Service Unavailable",
+  "gnews '목원대 연주회': HTTP Error 503: Service Unavailable",
+  "gnews '한밭대 축제': HTTP Error 503: Service Unavailable",
+  "gnews '한밭대 공연': HTTP Error 503: Service Unavailable",
+  "gnews '백마대동제': HTTP Error 503: Service Unavailable",
+  "gnews '대전 대학축제 라인업': HTTP Error 503: Service Unavailable",
+  "gnews '충남대 축제 외부인': HTTP Error 503: Service Unavailable",
+  "gnews 'KAIST 태울석림제': HTTP Error 503: Service Unavailable",
+  "gnews '한밭대 백련제': HTTP Error 503: Service Unavailable",
+  "gnews '목원대 정기공연': HTTP Error 503: Service Unavailable"
+ ]
 }

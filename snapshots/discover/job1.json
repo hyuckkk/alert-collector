@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-08T18:08:00+09:00",
+ "updated": "2026-10-08T19:07:58+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 506,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "ㅎㅎ 10월부터 11월까지 전라도 곳곳에서는 가을꽃을 만날 수 있는 꽃축제부터 아이와 함께 즐기기 좋은 어린이축제... (일) 입장료: 성인 7천원, 청소년 5천원, 어린이 3천원 구절초 새하얀 구절초가 가득 피어있는 풍경을 보고 싶다면 정읍... 11 나주 영산강정원 일원 입장료: 무료 코스모스·댑싸리·백일홍 등 가족 체험·어린이 프로그램 전남에서 가을 ",
@@ -15693,5 +15693,36 @@
    "first_seen": "2026-10-08T13:51:35+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '대전 어린이 뮤지컬': HTTP Error 503: Service Unavailable",
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "gnews '대전 가족 뮤지컬 티켓오픈': HTTP Error 503: Service Unavailable",
+  "gnews '대전 어린이 공연 무료 예약': HTTP Error 503: Service Unavailable",
+  "gnews '대전 마술쇼 가족': HTTP Error 503: Service Unavailable",
+  "gnews '대전 어린이 연극': HTTP Error 503: Service Unavailable",
+  "gnews '대전 캐릭터 공연': HTTP Error 503: Service Unavailable",
+  "gnews '평송청소년문화센터 공연': HTTP Error 503: Service Unavailable",
+  "gnews '대전예술의전당 가족': HTTP Error 503: Service Unavailable",
+  "gnews '대전어린이회관 공연': HTTP Error 503: Service Unavailable",
+  "gnews '대전 무료 공연 선착순 어린이': HTTP Error 503: Service Unavailable",
+  "gnews '국립중앙과학관 공연': HTTP Error 503: Service Unavailable",
+  "gnews '대전 백화점 어린이 뮤지컬': HTTP Error 503: Service Unavailable",
+  "gnews '타임월드 뮤지컬': HTTP Error 503: Service Unavailable",
+  "gnews '환상극장 마술공연': HTTP Error 503: Service Unavailable",
+  "gnews '대전 서커스 공연': HTTP Error 503: Service Unavailable",
+  "gnews '대전 가족 퍼포먼스 공연': HTTP Error 503: Service Unavailable",
+  "gnews '조이마루아트홀': HTTP Error 503: Service Unavailable",
+  "gnews '대전 소극장 어린이 뮤지컬': HTTP Error 503: Service Unavailable",
+  "gnews '대전 전래동화 뮤지컬': HTTP Error 503: Service Unavailable",
+  "gnews '유성 어린이 뮤지컬 네이버예약': HTTP Error 503: Service Unavailable",
+  "gnews '대전 축제 어린이 인형극': HTTP Error 503: Service Unavailable",
+  "gnews '대전 독서대전 어린이 공연': HTTP Error 503: Service Unavailable",
+  "gnews '대전 샌드매직쇼': HTTP Error 503: Service Unavailable",
+  "gnews '평송 어울림홀 어린이 공연': HTTP Error 503: Service Unavailable",
+  "gnews '대전 인형극 예매': HTTP Error 503: Service Unavailable",
+  "gnews '대전 도서관 어린이 공연 시간표': HTTP Error 503: Service Unavailable",
+  "gnews '대전 크리스마스 가족뮤지컬': HTTP Error 503: Service Unavailable"
+ ]
 }

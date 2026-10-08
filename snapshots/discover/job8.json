@@ -1,8 +1,15 @@
 {
- "updated": "2026-10-08T18:08:00+09:00",
+ "updated": "2026-10-08T19:07:58+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 260,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "최근 대전 중구가 효문화뿌리축제의 불꽃놀이를 취소한 것도 같은 맥락이다. 축제장 주변 야생동물의 서식 환경을 고려한 결정이었다. 인간을 위해 준비한 불꽃을 다른 생명을 위해 멈췄다. 이처럼 다른 생명의 존재가 인간의 감정뿐만 아니라 행동까지 바꾸는 장면...",
+   "url": "http://v.daum.net/v/20261008185743250",
+   "engine": "daum_news",
+   "query": "수산대전",
+   "first_seen": "2026-10-08T19:07:58+09:00"
+  },
   {
    "title": "18 전남 목포시 항구 문화 체험, 신선한 수산물 먹거리, 해상 무대 공연 화순 고인돌 가을꽃축제 10.16 ~ 10.25 전남 화순군 유네스코 고인돌 유적지 배경 국화 및 가을꽃 야외 전시 대한민국 국향대전 10.23 ~ 11.08 전남 함평군 대형 국화 조형물, 국화 분재 전시, 가을 생태 체험 각 축제마다 시작일과 운영 기간이 겹치거나 조금씩 달라요.",
    "url": "https://blog.naver.com/chocolateelf/224435487590",
@@ -9654,5 +9661,14 @@
    "first_seen": "2026-10-08T12:07:12+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '수산대전': HTTP Error 503: Service Unavailable",
+  "gnews '수산대전상품권': HTTP Error 503: Service Unavailable",
+  "gnews '수산물 할인 쿠폰': HTTP Error 503: Service Unavailable",
+  "gnews '제로페이 수산 이벤트': HTTP Error 503: Service Unavailable",
+  "gnews '온누리상품권 환급 행사': HTTP Error 503: Service Unavailable",
+  "gnews '온누리상품권 할인율': HTTP Error 503: Service Unavailable",
+  "gnews '전통시장 수산물 환급': HTTP Error 503: Service Unavailable",
+  "gnews '수산물 소비촉진 이벤트 응모': HTTP Error 503: Service Unavailable"
+ ]
 }
