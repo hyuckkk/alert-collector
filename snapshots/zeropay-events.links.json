@@ -20,7 +20,6 @@
 "https://www.zeropay.or.kr/UI_MP_008_01_01.act",
 "https://www.zeropay.or.kr/UI_MP_008_01_02.act",
 "https://www.zeropay.or.kr/UI_MP_005.act",
-"https://www.zeropay.or.kr/UI_MP_007_01.act",
 "javascript:_thisPage.detailPage(1006);",
 "javascript:_thisPage.detailPage(1005);",
 "javascript:_thisPage.detailPage(1002);",
@@ -35,7 +34,5 @@
 "https://on.zeropaypoint.or.kr/",
 "https://biz.zeropaypoint.or.kr/",
 "https://www.bizzeropay.com/main_0001_01_bzpay.act",
-"onclick: 로그아웃 => _logOut.logout()",
-"onclick: 전체메뉴열기 => $('#mainMenu').popup('show')",
-"onclick:  => _logOut.logout();"
+"onclick: 전체메뉴열기 => $('#mainMenu').popup('show')"
 ]
