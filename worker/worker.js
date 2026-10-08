@@ -19,7 +19,7 @@
 const CATS = ["show", "sale", "military", "fireworks", "dam", "invest"];
 const BOT_LABEL = { show: "Show", sale: "Sale", military: "Military experience", fireworks: "Fireworks", dam: "Dam", invest: "Invest" };
 const ORIGIN = "https://telegram-relay.jinhyuck77-b13.workers.dev";
-const BUILD = "2026-10-07-sender-v3";
+const BUILD = "2026-10-08-sender-v4";
 // Free plan: 50 subrequests per invocation. Every GitHub/Telegram call is counted; optional work stops
 // early so that the claim commit (4) and the result commit (8 per attempt) always fit.
 let SUB = 0;
@@ -167,6 +167,14 @@ function decide(ev, item, textHash) {
   }
   return [true, `change: ${change}`];
 }
+function gptToOutbox(q) {
+  if (!q || !q.event_id || !q.text || !q.category) return null;
+  if (q.expires_at && Date.now() > Number(q.expires_at)) return null;           // stale: drop
+  let src = null;
+  try { const ss = typeof q.sources === "string" ? q.sources : JSON.stringify(q.sources || []); const m = ss.match(/https?:\/\/[^'" ,\]]+/); src = m ? m[0] : null; } catch {}
+  return { category: q.category, text: q.text, owner_only: q.recipient === "owner", origin_id: "gpt:" + (q.id || ""),
+    items: [{ event_id: q.event_id, change_type: q.change || "NEW", title: q.title, source_url: src, raw_data: { via: "chatgpt-relay-v2" } }] };
+}
 function recipientWants(ev, item, chatId) {
   if (!ev) return true;
   const st = (ev.recipient_states || {})[String(chatId)] || "NONE";
@@ -277,7 +285,11 @@ async function run(env) {
   const repo = new Repo(env);
   const status = { build: BUILD, at: nowIso() };
   let head = await repo.head();
-  const [outbox, reactions] = await Promise.all([repo.list("outbox", head), repo.list("state/reactions", head)]);
+  const [outboxOnly, reactions, gptQueue] = await Promise.all([repo.list("outbox", head), repo.list("state/reactions", head),
+    repo.list("relay-v2/queue", head)]);
+  // ChatGPT-side alerts (the user's other assistant writes reviewed alerts to relay-v2/queue). They go through the
+  // same duplicate rules as our own outbox, so an event both systems found is sent once.
+  const outbox = outboxOnly.map((f) => ({ ...f, kind: "outbox" })).concat(gptQueue.map((f) => ({ ...f, kind: "gpt" })));
   const paused = env.SENDER_PAUSED === "1";
   if (!reactions.length && (paused || !outbox.length)) return { ...status, idle: true, paused };
 
@@ -303,10 +315,11 @@ async function run(env) {
   let skips = null;
   for (const f of (paused ? [] : outbox.slice(0, 4))) {
     if (SUB + 1 + 2 * (plan.length + 1) + replies.length + ctx.redraw.length + 20 > SUB_LIMIT) break;
-    const oid = f.name.replace(/\.json$/, "");
+    const oid = (f.kind === "gpt" ? "gpt-" : "") + f.name.replace(/\.json$/, "");
     let data;
     try { data = await repo.read(f.path, head, null); } catch { continue; } // read failed: keep file for next run
     files[f.path] = null;
+    if (f.kind === "gpt" && data) data = gptToOutbox(data);
     if (!data || typeof data !== "object") continue;
     if (sentIds.has(oid)) continue;                        // restart protection
     if (sending[oid] && !sending[oid].done) {               // claimed earlier, no record: never resend
