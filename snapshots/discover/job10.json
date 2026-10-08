@@ -1,8 +1,24 @@
 {
- "updated": "2026-10-08T19:15:03+09:00",
+ "updated": "2026-10-08T19:32:33+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "대전 서구, 9~11일 아트페스티벌 연계 자원순환의 날 기념행사 진행 - 충남일보",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fTWp6b2tBRjQyYlRaWk5rTTRtaDQ1VGpYNzdWRHg0eHVQbDJlaUoyaVdnSlVWMWo3d3V5OFZkdC1CTTJYSGoyV3poOGFiM01iRG1WZlh0V2lxVzRKVTh5Nm5DbjJsS0Y4TjU4M1kxT1B2RHM?oc=5",
+   "pub": "Mon, 05 Oct 2026 07:00:00 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-10-08T19:32:33+09:00"
+  },
+  {
+   "title": "키움증권, ‘국민성장펀드’ 2차 물량 반나절 만에 완판…120억원 추가 배정 판매 - 메가경제",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Gd3I0b2o3dEFoeC1USldrZXVvUGhWV1J4Um5tSmNQNndwd3dudGRsSWNkTG5USHlRRW1fX2R3ZlFOUG5ySlVhUUJtQi1ndTA5Nk4xLWZINGJxUkllMWZqUS10RjR6NjhpMU1JSkxqa2dkUdIBckFVX3lxTE1Gd3I0b2o3dEFoeC1USldrZXVvUGhWV1J4Um5tSmNQNndwd3dudGRsSWNkTG5USHlRRW1fX2R3ZlFOUG5ySlVhUUJtQi1ndTA5Nk4xLWZINGJxUkllMWZqUS10RjR6NjhpMU1JSkxqa2dkUQ?oc=5",
+   "pub": "Thu, 08 Oct 2026 03:26:04 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-08T19:32:33+09:00"
+  },
   {
    "title": "키움증권, ‘국민성장펀드’ 2차 물량 반나절 만에 완판…120억원 추가 배정 판매 - 메가경제",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mWm1yYTRMRllrcEp5cEltN2ZENHVzOXB3bUE2TXhkaGZKYWtvNFNsNUQ0VnFnZmxOeDJVX3ZzZGppZVVjanpZN2hodDF3Z0YtcDNwSmE0azVmMElmSnRYNDJBZ3ctcV94Y1U3Rkk5ZjB1c0F30gFyQVVfeXFMTUZ3cjRvajd0QWh4LVRKV2tldW9QaFZXUnhSbm1KY1A2d3B3d250ZGxJY2RMblRIeVFFbV9fZHdmUU5QbnJKVWFRQm1CLWd1MDk2TjEtZkg0YnFSSWUxZmpRLXRGNHo2OGkxTUlKTGprZ2RR?oc=5",
@@ -14000,36 +14016,5 @@
    "first_seen": "2026-10-08T14:07:14+09:00"
   }
  ],
- "errors": [
-  "gnews '대전 아빠 자녀 체험': HTTP Error 503: Service Unavailable",
-  "gnews '대전 아빠 참여 프로그램': HTTP Error 503: Service Unavailable",
-  "gnews '대전 가족 체험 선착순': HTTP Error 503: Service Unavailable",
-  "gnews '대전 가족 프로그램 모집': HTTP Error 503: Service Unavailable",
-  "gnews '대전 초등 자녀 가족 체험': HTTP Error 503: Service Unavailable",
-  "gnews '대전 서구 통합예약 체험': HTTP Error 503: Service Unavailable",
-  "gnews '대전 서구 가족 체험': HTTP Error 503: Service Unavailable",
-  "gnews '유성구 가족 프로그램 모집': HTTP Error 503: Service Unavailable",
-  "gnews '유성구 아빠': HTTP Error 503: Service Unavailable",
-  "gnews '대전 중구 가족 체험': HTTP Error 503: Service Unavailable",
-  "gnews '대전 동구 가족 체험': HTTP Error 503: Service Unavailable",
-  "gnews '대덕구 가족 체험': HTTP Error 503: Service Unavailable",
-  "gnews '노루벌 생태원 체험': HTTP Error 503: Service Unavailable",
-  "gnews '대전 숲체험 가족 모집': HTTP Error 503: Service Unavailable",
-  "gnews '대전 캠핑 가족 모집': HTTP Error 503: Service Unavailable",
-  "gnews '대전 목공 체험 가족': HTTP Error 503: Service Unavailable",
-  "gnews '대전 과학 체험 가족 신청': HTTP Error 503: Service Unavailable",
-  "gnews '대전 천문대 가족': HTTP Error 503: Service Unavailable",
-  "gnews '한밭수목원 체험 신청': HTTP Error 503: Service Unavailable",
-  "gnews '대전 어린이 체험 접수': HTTP Error 503: Service Unavailable",
-  "gnews '세종 가족 체험 모집': HTTP Error 503: Service Unavailable",
-  "gnews '세종 아빠 자녀 프로그램': HTTP Error 503: Service Unavailable",
-  "gnews '대전아이 캠프': HTTP Error 503: Service Unavailable",
-  "gnews '다함께돌봄 캠프 대전': HTTP Error 503: Service Unavailable",
-  "gnews '숲체원 가족 캠프': HTTP Error 503: Service Unavailable",
-  "gnews '대전 돌봄 페스티벌': HTTP Error 503: Service Unavailable",
-  "gnews '다키움': HTTP Error 503: Service Unavailable",
-  "gnews '대덕특구 주말개방': HTTP Error 503: Service Unavailable",
-  "gnews '계족산 울림축제 사전신청': HTTP Error 503: Service Unavailable",
-  "gnews '대전시립미술관 교육 접수': HTTP Error 503: Service Unavailable"
- ]
+ "errors": []
 }

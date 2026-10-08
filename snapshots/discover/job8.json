@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-08T19:15:03+09:00",
+ "updated": "2026-10-08T19:32:33+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 3,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "최근 대전 중구가 효문화뿌리축제의 불꽃놀이를 취소한 것도 같은 맥락이다. 축제장 주변 야생동물의 서식 환경을 고려한 결정이었다. 인간을 위해 준비한 불꽃을 다른 생명을 위해 멈췄다. 이처럼 다른 생명의 존재가 인간의 감정뿐만 아니라 행동까지 바꾸는 장면...",
@@ -9677,14 +9677,5 @@
    "first_seen": "2026-10-08T12:07:12+09:00"
   }
  ],
- "errors": [
-  "gnews '수산대전': HTTP Error 503: Service Unavailable",
-  "gnews '수산대전상품권': HTTP Error 503: Service Unavailable",
-  "gnews '수산물 할인 쿠폰': HTTP Error 503: Service Unavailable",
-  "gnews '제로페이 수산 이벤트': HTTP Error 503: Service Unavailable",
-  "gnews '온누리상품권 환급 행사': HTTP Error 503: Service Unavailable",
-  "gnews '온누리상품권 할인율': HTTP Error 503: Service Unavailable",
-  "gnews '전통시장 수산물 환급': HTTP Error 503: Service Unavailable",
-  "gnews '수산물 소비촉진 이벤트 응모': HTTP Error 503: Service Unavailable"
- ]
+ "errors": []
 }

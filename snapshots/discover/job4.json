@@ -1,8 +1,24 @@
 {
- "updated": "2026-10-08T19:15:03+09:00",
+ "updated": "2026-10-08T19:32:33+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 260,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "공주 백제문화제 3일 개막… “볼거리·즐길거리 많아” - 세종의소리",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GY3h5b3pWU0VWQlRGQ2JrMXo4YWtKczdueU10Zy1mU2RNU3MxaFUyNlg3cEo3VkFHVVlacXhQVGRaQ25rUFdVX2ZncTgxMmdlVHhPM1FKOTVzbGRzYW9FeGJwMWRhRzQ?oc=5",
+   "pub": "Fri, 02 Oct 2026 04:40:27 GMT",
+   "engine": "gnews",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-10-08T19:32:33+09:00"
+  },
+  {
+   "title": "최원철 공주시장 \"찬란한 웅진백제의 유산, 백제문화제 찾아 특별한 추억 만드시길\" - 세계비즈",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SR1VhY3ozcDQtMks1U21SQ2JpeU90MkdYNGRiZW9DeXdqT1B6cEhuemdpaERjdUNUc0hDdmxyU2tIZ0tjOGpWN2xKY0paRUpnY1BzNlk3d2pUNHpz?oc=5",
+   "pub": "Sun, 04 Oct 2026 23:09:44 GMT",
+   "engine": "gnews",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-10-08T19:32:33+09:00"
+  },
   {
    "title": "결국 스스로 떠났다. 한 생명을 보기 위해 사람들이 모였고, 다시 그 생명을 위해 인간의 행동을 바꿨다. 최근 대전 중구가 효문화뿌리축제의 불꽃놀이를 취소한 것도 같은 맥락이다. 축제장 주변 야생동물의 서식 환경을 고려한 결정이었다. 인간을 위해 준비한...",
    "url": "http://v.daum.net/v/20261008185743250",
@@ -11763,18 +11779,5 @@
    "first_seen": "2026-10-08T12:07:12+09:00"
   }
  ],
- "errors": [
-  "gnews '대전 불꽃놀이': HTTP Error 503: Service Unavailable",
-  "gnews '대전 불꽃쇼': HTTP Error 503: Service Unavailable",
-  "gnews '오월드 불꽃쇼': HTTP Error 503: Service Unavailable",
-  "gnews '세종 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews '계룡 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews '공주 불꽃놀이': HTTP Error 503: Service Unavailable",
-  "gnews '청주 불꽃축제': HTTP Error 503: Service Unavailable",
-  "gnews '금산 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews '옥천 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews '엑스포다리 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews '딜라잇 엑스포 브릿지': HTTP Error 503: Service Unavailable",
-  "gnews '대전 빵축제 불꽃': HTTP Error 503: Service Unavailable"
- ]
+ "errors": []
 }

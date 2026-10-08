@@ -1,8 +1,39 @@
 {
- "updated": "2026-10-08T19:15:03+09:00",
+ "updated": "2026-10-08T19:32:33+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 438,
+ "new_this_run": 4,
  "hits": [
+  {
+   "title": "광양함, 시민 대상 함정 공개행사 성황리에 마무리 - 웹이코노미",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBERWdxR3UtVkMzem1aMUhPZlVlNEVKQVp3ZThpZXFOano0RE02U0FybG5PSTNRRXAySjlRTzA1NUlPcWNxbFE0SlpIZFlLelhHS3hick9xMGNvaUJUM1dnY1VxRkhsT1BaYnhpY3hrNnZSQQ?oc=5",
+   "pub": "Thu, 08 Oct 2026 10:10:49 GMT",
+   "engine": "gnews",
+   "query": "함정 공개 행사",
+   "first_seen": "2026-10-08T19:32:33+09:00"
+  },
+  {
+   "title": "이 대통령은 지난달 29일 국무회의에서도 극초음속 미사일을 핵잠수함에 버금가는 '자주국방의 핵심 열쇠'로 지칭하며 기술 개발에...청와대가 수석대변인 브리핑을 통해 성공 사실을 전격 공개했습니다. 이를 두고 정치권에서는 DMZ 지뢰 폭발 사건 이후 야권을...",
+   "url": "http://v.daum.net/v/20261008192400789",
+   "engine": "daum_news",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-08T19:32:33+09:00"
+  },
+  {
+   "title": "합참의장 \"전작권 전환, 한미 합의만 된다면 언제든 가능\" - 연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52X1c2TTJ3ZGtkQ28yd05HbWhFYmRhSWVzYXJlcDZZRWFkZGQ3S3BsRmhJaDJaTnRCdHVqcXBiNzlxZDg3NUNPcmtCMlIya0d6N3Z3aU1tQ1E5SXhEem0yZ9IBYEFVX3lxTE52X1c2TTJ3ZGtkQ28yd05HbWhFYmRhSWVzYXJlcDZZRWFkZGQ3S3BsRmhJaDJaTnRCdHVqcXBiNzlxZDg3NUNPcmtCMlIya0d6N3Z3aU1tQ1E5SXhEem0yZw?oc=5",
+   "pub": "Thu, 08 Oct 2026 08:13:59 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-08T19:32:33+09:00"
+  },
+  {
+   "title": "의성군, 제40회 의성문화제 개최…역사·전통과 문화예술 잇는다 - 로컬세계",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSVXlLU2VGdHBiSDJxOVRNRS1rNGRLMGpsRWptNTFsWm1uZmZZSzZRM09oOVBjbVhaYTFQZkdSeFJiQWlsM0R6WmVQMENObVB6TDVxOGlKNFJmREhxTmNRYdIBWEFVX3lxTE94bWFUbkdKTTNXczlncFVJc1ozUUY4Ymg5bWRGclVORXpVSVR2Q0pZS2lkZS1nOEtUWkc2VEdKYzJCY2xLTUtGSnlvQUVsSWI1SE55WGN5UnU?oc=5",
+   "pub": "Thu, 08 Oct 2026 08:13:47 GMT",
+   "engine": "gnews",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-08T19:32:33+09:00"
+  },
   {
    "title": "신청 마감 2026년 10월 12일 월요일 오후 1시 선정 결과 발표 2026년 10월 13일 화요일 체험 일시 2026년 11월 1일 일요일 오전 11시~오후 1시 모집 인원 총 150명 네이버폼 온라인 신청 링크... 참여 전 꼭 확인할 사항 헬기 탑승은 일반적인 축제 체험과 달리 안전과 관련된 제한사항이 있어요. 만 12세 이하와 만 70세 이상은 참",
    "url": "https://blog.naver.com/dltoa0616/224434308608",
@@ -17727,12 +17758,5 @@
    "first_seen": "2026-10-08T14:07:14+09:00"
   }
  ],
- "errors": [
-  "naver_web '함대 부대개방 축제': HTTP Error 403: Forbidden",
-  "naver_blog '안보견학 함정 공개 가족': HTTP Error 403: Forbidden",
-  "naver_news '안보견학 함정 공개 가족': HTTP Error 403: Forbidden",
-  "naver_cafe '안보견학 함정 공개 가족': HTTP Error 403: Forbidden",
-  "naver_all '안보견학 함정 공개 가족': HTTP Error 403: Forbidden",
-  "naver_web '안보견학 함정 공개 가족': HTTP Error 403: Forbidden"
- ]
+ "errors": []
 }
