@@ -627,7 +627,7 @@
 "onclick: 2006.06.25. 개설 => goCafeHistory();clickcr(this, 'cia*i.history', '', '', event);return false;",
 "onclick: 카페소개 => cafeProfile();clickcr(this, 'cia*i.intro', '', '', event);return false;",
 "onclick: 카페등급\n나무4단계 => cafeRanking();clickcr(this, 'cia*i.grade', '', '', event);return false;",
-"onclick: 229,335비공개 => $('hiddenOpenMemberInfoLayer').style.display = '';",
+"onclick: 229,337비공개 => $('hiddenOpenMemberInfoLayer').style.display = '';",
 "onclick: 닫기 => hideCafeApplyLayer();",
 "onclick: 닫기 => $('hiddenOpenMemberInfoLayer').style.display = 'none';",
 "onclick: 초대 => inviteMember();clickcr(this, 'cia*i.invite', '', '', event);return false;",

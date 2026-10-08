@@ -5,62 +5,50 @@
 [daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
 [daejeon-okr-edu] rendered 1506 chars CHANGED
 [daejeon-okr-hanbatlib] rendered 1627 chars CHANGED
-[science-edu-reservation] rendered 2159 chars same
+[science-edu-reservation] rendered 2159 chars CHANGED
 [sejong-notice] rendered 2385 chars CHANGED
 [sejong-notice-greenfamily] rendered 1797 chars CHANGED
 [sejong-notice-birdwatch] rendered 1337 chars CHANGED
-[yangyang-cafe-balloon-15331] rendered 5150 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 5139 chars CHANGED
 [komsco-shop-medal] rendered 7373 chars CHANGED
 [komsco-shop-coin] rendered 6799 chars CHANGED
 [komsco-shop-bar] rendered 6839 chars CHANGED
 [komsco-shop-card] rendered 7369 chars CHANGED
 [komsco-shop-currency-set] rendered 6683 chars CHANGED
 [cnu-jsh-schedule] rendered 989 chars CHANGED
-[bok-commemorative-coin-news] rendered 718 chars same
+[bok-commemorative-coin-news] rendered 718 chars CHANGED
 [daejeon-cafe-100papa-40250] rendered 5690 chars CHANGED
 [sejong-notice-hangeulday-book] rendered 1168 chars CHANGED
-[nol-notice-10111] rendered 17593 chars CHANGED
-[naver-entertain-018-0006379428] rendered 45172 chars CHANGED
-[melon-artist-songsohee] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/artist/index.htm?artistId=672059
-Call log:
-  - navigating to "https://ticket.melon.com/artist/index.htm?artistId=672059", waiting until "domcontentloaded"
-
+[nol-notice-10111] rendered 17702 chars CHANGED
+[naver-entertain-018-0006379428] rendered 44658 chars CHANGED
 [interpark-artist-leejuck] rendered 10105 chars CHANGED
 [yctf-show] rendered 502 chars CHANGED
 [sejong-notice-science-concert] rendered 1015 chars CHANGED
 [sejong-notice-science-jiphyeonjeon] rendered 1170 chars CHANGED
 [sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31337 chars CHANGED
+[yangyang-cafe-balloon-15331-m] rendered 31565 chars CHANGED
 [hanbat-gongdong-science-form] rendered 1854 chars CHANGED
 [daejeon-cafe-dodam-2801968] rendered 8343 chars CHANGED
 [cnu-jsh-schedule-178] rendered 3467 chars CHANGED
 [dmzforest-main] rendered 6330 chars CHANGED
 [sejong-notice-dance-free] rendered 1709 chars CHANGED
 [sejong-notice-family-magic-play] rendered 1914 chars CHANGED
-[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
+[woorisb-tok7-product] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
+  - navigating to "https://m.woorisavingsbank.com/product/deposite/view.do?prdSn=325", waiting until "domcontentloaded"
 
-[woorisb-tok7-product] rendered 2797 chars CHANGED
-[mommom-sandmagic-a] rendered 2530 chars CHANGED
+[mommom-sandmagic-a] rendered 2536 chars CHANGED
 [mommom-sandmagic-b] rendered 95 chars CHANGED
 [sejong-notice-imnansu-play] rendered 867 chars CHANGED
 [icheon-ricefestival-schedule] rendered 2530 chars CHANGED
 [nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
 [andong-halftour] rendered 2486 chars CHANGED
-[kfe-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.kfe.re.kr/", waiting until "domcontentloaded"
-
-[blog-tjrudska82-224434527430] rendered 4461 chars CHANGED
+[kfe-main] rendered 5811 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4509 chars CHANGED
 [blog-dooglami-224434696671] rendered 4687 chars CHANGED
-[dsecc-programs-p2] rendered 1949 chars CHANGED
-[dsecc-programs-p3] rendered 1949 chars CHANGED
-[mommom-place-6a868bff] rendered 84 chars CHANGED
-[mommom-place-6a2b946b] rendered 84 chars CHANGED
-[mommom-place-6a2b94f5] rendered 84 chars CHANGED
-[mommom-place-6a2b9455] rendered 84 chars CHANGED
-[nol-product-phantom-40th] rendered 4875 chars CHANGED
-[daejeontour-bread-festival] rendered 4912 chars CHANGED
-[visitisland-main] rendered 1010 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1627 chars CHANGED
+[dsecc-programs-p2] rendered 1949 chars same
+[dsecc-programs-p3] rendered 1949 chars same
+[mommom-place-6a868bff] rendered 95 chars CHANGED
+[mommom-place-6a2b946b] rendered 95 chars CHANGED
+[mommom-place-6a2b94f5] rendered 95 chars CHANGED
+[mommom-place-6a2b9455] rendered 95 chars CHANGED
