@@ -1,26 +1,20 @@
-[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
-
-[seogu-yeyak] rendered 1971 chars CHANGED
+[yuseong-round-event] rendered 1328 chars CHANGED
+[seogu-yeyak] rendered 1971 chars same
 [pyoungsong] rendered 828 chars CHANGED
 [djkids-musical] rendered 1618 chars CHANGED
 [djkids-notice] rendered 1023 chars CHANGED
-[dctf] RENDER ERROR rendered but too little text (0 chars)
+[dctf] rendered 1496 chars same
 [nol-family] rendered 2288 chars CHANGED
-[ticketlink-notice] RENDER ERROR rendered but too little text (0 chars)
+[ticketlink-notice] rendered 1471 chars CHANGED
 [oworld-notice] rendered 1067 chars same
-[baekje-schedule] rendered 1764 chars CHANGED
+[baekje-schedule] rendered 1764 chars same
 [geumriver-dam] rendered 1983 chars CHANGED
-[woosongart-schedule] rendered 590 chars CHANGED
-[pyeongtaek-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.pyeongtaek.go.kr/", waiting until "domcontentloaded"
-
+[woosongart-schedule] rendered 590 chars same
+[pyeongtaek-main] rendered 5787 chars CHANGED
 [kopis-daejeon-kids] rendered 4441 chars same
 [kwater-realtime-multidam] rendered 3754 chars CHANGED
-[ticketlink-kids-cat-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[gongjeon-kids] rendered 482 chars CHANGED
+[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/22471']' timed out after 50 seconds
+[gongjeon-kids] rendered 482 chars same
 [navy-visit-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
   - navigating to "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000", waiting until "domcontentloaded"
@@ -33,10 +27,11 @@ Call log:
 [fsale-main] rendered 357 chars same
 [fsale-onnuri] rendered 361 chars same
 [gcfct-schedule] rendered 372 chars CHANGED
-[mokwon-events] rendered 948 chars CHANGED
-[science-reservation] rendered 1436 chars same
+[mokwon-events] rendered 948 chars same
+[science-reservation] rendered 1436 chars CHANGED
 [khs-notice] rendered 309 chars same
-[royal-khs-events] rendered 2739 chars same
+[royal-khs-events] rendered 2739 chars CHANGED
 [expo-park] rendered 735 chars CHANGED
-[nol-upcoming-notice] rendered 1261 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 1253 chars CHANGED
+[nol-upcoming-notice] rendered 1180 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 1178 chars CHANGED
+[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
