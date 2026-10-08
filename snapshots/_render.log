@@ -1,45 +1,55 @@
-[kwater-realtime-sumun] rendered 2303 chars CHANGED
-[ticketlink-notice-65862] rendered 279779 chars CHANGED
-[yes24-perf-60278] rendered 198 chars CHANGED
-[chuncheon-notice-announcement] rendered 3534 chars CHANGED
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[chuncheon-municipal-news] rendered 1804 chars CHANGED
-[nol-product-26012487] rendered 1827 chars CHANGED
-[gongjeon-kids] rendered 482 chars CHANGED
-[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
-[katc-schedule] rendered 687 chars CHANGED
-[fsale-main] rendered 5274 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[gcfct-schedule] rendered 371 chars CHANGED
-[science-reservation] rendered 1444 chars CHANGED
-[khs-notice] rendered 309 chars same
-[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[expo-park] rendered 725 chars CHANGED
-[nol-upcoming-notice] rendered 17572 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 17548 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] rendered 262076 chars CHANGED
-[pyoungsong-performance] rendered 984 chars same
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[dsecc-programs] rendered 1949 chars CHANGED
-[seogu-exprn-list] rendered 2459 chars CHANGED
-[seogu-event-list] rendered 2459 chars CHANGED
-[seogu-edu-list] rendered 2465 chars CHANGED
-[daejeon-its-board] rendered 3573 chars CHANGED
-[zeropay-events] rendered 529 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[blog-first_seogu-224428074790] rendered 3248 chars CHANGED
+[mcst-culture-71983] rendered 1180 chars CHANGED
+[aircanada-korea] rendered 22819 chars CHANGED
+[aircanada-kr-so-hub] rendered 2739 chars CHANGED
+[mokpo-harborfestival-main] rendered 8825 chars CHANGED
+[hanbat-library-media-friend] rendered 1154 chars CHANGED
+[blog-seogu-artfest-fringe-cvovz] rendered 5290 chars CHANGED
+[yuseong-round-event] rendered 1328 chars CHANGED
+[seogu-yeyak] rendered 2353 chars CHANGED
+[pyoungsong] rendered 828 chars same
+[djkids-musical] rendered 1618 chars CHANGED
+[djkids-notice] rendered 1023 chars CHANGED
+[dctf] rendered 1496 chars same
+[nol-family] rendered 3643 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[oworld-notice] rendered 1794 chars same
+[mokwon-events] rendered 948 chars CHANGED
+[chuncheon-festival-news] rendered 866 chars CHANGED
+[chuncheon-festival-news-459539] rendered 800 chars CHANGED
+[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
 Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
-
-[dsecc-programs-p3] rendered 1949 chars CHANGED
-[mommom-place-6a868bff] rendered 84 chars CHANGED
-[mommom-place-6a2b946b] rendered 84 chars CHANGED
-[mommom-place-6a2b94f5] rendered 95 chars CHANGED
-[mommom-place-6a2b9455] rendered 84 chars CHANGED
-[nol-product-phantom-40th] rendered 4784 chars CHANGED
-[daejeontour-bread-festival] rendered 4923 chars CHANGED
-[visitisland-main] rendered 1010 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1627 chars same
-[visitkorea-tour50-notice] rendered 616 chars CHANGED
-[mommom-place-6a7d51b7] rendered 84 chars CHANGED
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "
+[pyeongtaek-news-board] rendered 3291 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 6468 chars CHANGED
+[pyeongtaek-gosi] rendered 1635 chars CHANGED
+[hanbat-library-culture] rendered 2625 chars CHANGED
+[chuncheon-festival-news-465019] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[pyoungsong-event-piglets] rendered 466 chars same
+[pyoungsong-event-sandmagic] rendered 480 chars same
+[pyoungsong-event-stonesoup] rendered 317 chars same
+[donghae-dhdmo-program] rendered 1800 chars CHANGED
+[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
+[daejeon-okr-edu] rendered 1499 chars same
+[daejeon-okr-hanbatlib] rendered 1627 chars same
+[science-edu-reservation] rendered 2159 chars CHANGED
+[sejong-notice] rendered 2359 chars CHANGED
+[sejong-notice-greenfamily] rendered 1797 chars CHANGED
+[sejong-notice-birdwatch] rendered 1337 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 5065 chars CHANGED
+[komsco-shop-medal] rendered 7373 chars CHANGED
+[komsco-shop-coin] rendered 6799 chars CHANGED
+[komsco-shop-bar] rendered 6839 chars CHANGED
+[komsco-shop-card] rendered 7369 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
+[cnu-jsh-schedule] rendered 989 chars same
+[woorisb-tok7-product] rendered 2797 chars CHANGED
+[mommom-sandmagic-a] rendered 2534 chars CHANGED
+[mommom-sandmagic-b] rendered 95 chars CHANGED
+[blog-dooglami-224433357728] rendered 5233 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] rendered 34079 chars same
+[aircanada-kr-kbcard] rendered 27307 chars CHANGED
