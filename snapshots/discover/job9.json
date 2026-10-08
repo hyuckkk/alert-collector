@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-08T19:07:58+09:00",
+ "updated": "2026-10-08T19:15:03+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "하천수 사용허가 현황(금강홍수통제소, '... - 금강홍수통제소",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1WbUFzV0NLaHpwZlF6Z0dtWlVKWG81SHlkZFVGTGxfRzhzZ0dXSW9JVDluTkJGZXo2VlF6ZGF2R1FSdw?oc=5",
+   "pub": "Tue, 10 Jan 2017 06:33:03 GMT",
+   "engine": "gnews",
+   "query": "site:geumriver.go.kr 대청댐 방류 승인",
+   "first_seen": "2026-10-08T19:15:03+09:00"
+  },
   {
    "title": "2026-08-31무주양수발전소(하부댐)2026-08-31 01:00 ~ 09-03 18:00최대 50 이내2026-08-30금강하구둑2026-08-30 05:00 ~ 09-07 18:00최대 7600 이내2026-07-19무주양수발전소(하부댐)2026-07-19 04:00 ~ 07-22 00:00최대 50 이내2026-07-16금강하구둑2026-07-16",
    "url": "https://www.geumriver.go.kr/html/sumun/dm_cnf.jsp",
@@ -269,13 +277,6 @@
    "engine": "naver_blog",
    "query": "대청댐 홍수조절",
    "first_seen": "2026-10-02T00:22:33+09:00"
-  },
-  {
-   "title": "거대한 수문이 눈길을 끈다. 다시 찻길을 따라 걸으니 삼정마을에 도착한다. 대청댐에서 삼정마을까지는 약 5.8km. 길을 잘못 들어 두 배 넘게 걸었다. 대청호오백리길 1구간은 대청댐에서 두메마을까지 12.4km나 되지만 일부만 걸었다. 산길과 호숫길 차도가 이어지는 길이다. 오늘 참 많이 걸었다. 돌아오는 길은 삼정마을에서 버스를 탔다. 시골길에서는 대중",
-   "url": "https://blog.naver.com/hodong21/224428518280",
-   "engine": "naver_blog",
-   "query": "대청댐 수문",
-   "first_seen": "2026-10-01T19:08:06+09:00"
   }
  ],
  "errors": [
