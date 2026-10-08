@@ -38,7 +38,11 @@ UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
 KEEP = re.compile(
     r"(blog\.naver\.com/[^/?#]+/\d+|cafe\.naver\.com/[^?#]+/\d+|n\.news\.naver\.com/|v\.daum\.net/v/|"
     r"news\.google\.com/rss/articles/|/news/articleView\.html|/view/\d|/article/|\.go\.kr/|\.or\.kr/|"
-    r"modoo\.io/content/|ggzine\.com/\d+|tistory\.com/\d+|post\.naver\.com/viewer)")
+    r"modoo\.io/content/|ggzine\.com/\d+|tistory\.com/\d+|post\.naver\.com/viewer|"
+    # ticket / booking pages (Naver's integrated search shows a performance box linking here)
+    r"ticket\.yes24\.com/(Perf|New/Perf)|nol\.yanolja\.com/ticket/(products|places)|tickets\.interpark\.com/goods|"
+    r"ticketlink\.co\.kr/(product|help/notice)|booking\.naver\.com/booking|ticket\.melon\.com/performance|"
+    r"\.kr/(bbs|board|notice|event|program|cop/bbs)|instagram\.com/p/)")
 DROP = re.compile(r"(search\.naver\.com|search\.daum\.net|help\.|policy|keep\.naver|nid\.naver|"
                   r"channel/\d+/home|javascript:)")
 
@@ -51,6 +55,13 @@ def engines(q: str) -> list[tuple[str, str]]:
         ("naver_cafe", f"https://search.naver.com/search.naver?ssc=tab.cafe.all&query={e}&nso=so:dd,p:1w"),
         ("daum_news", f"https://search.daum.net/search?w=news&q={e}&sort=recency&period=w"),
         ("gnews", f"https://news.google.com/rss/search?q={e}+when:7d&hl=ko&gl=KR&ceid=KR:ko"),
+        # 2026-10-08: web documents and the integrated result page (공연·행사 정보 박스, 예매 링크),
+        # plus Daum blog/cafe — ChatGPT kept finding items that only appeared in these.
+        ("naver_all", f"https://search.naver.com/search.naver?where=nexearch&query={e}"),
+        ("naver_web", f"https://search.naver.com/search.naver?ssc=tab.web.all&query={e}"),
+        ("daum_web", f"https://search.daum.net/search?w=web&q={e}"),
+        ("daum_blog", f"https://search.daum.net/search?w=blog&q={e}&sort=recency"),
+        ("daum_cafe", f"https://search.daum.net/search?w=cafe&q={e}&sort=recency"),
     ]
 
 
@@ -135,7 +146,7 @@ def main() -> int:
 
     results: dict[str, list[dict]] = {}
     errors: dict[str, list[str]] = {}
-    with ThreadPoolExecutor(max_workers=int(os.environ.get("DISCOVER_WORKERS", "4"))) as ex:
+    with ThreadPoolExecutor(max_workers=int(os.environ.get("DISCOVER_WORKERS", "8"))) as ex:
         for job, eng, hits, err in ex.map(run, tasks):
             results.setdefault(job, []).extend(hits)
             if err:
@@ -160,7 +171,7 @@ def main() -> int:
             "updated": now_s,
             "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
             "new_this_run": len(new),
-            "hits": sorted(recent.values(), key=lambda h: h["first_seen"], reverse=True)[:1000],
+            "hits": sorted(recent.values(), key=lambda h: h["first_seen"], reverse=True)[:3000],
             "errors": errors.get(job, [])[:30],
         }, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"[{job}] {len(results.get(job, []))} results, {len(new)} new, {len(errors.get(job, []))} errors",
