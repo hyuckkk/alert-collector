@@ -1,8 +1,909 @@
 {
- "updated": "2026-10-08T11:07:13+09:00",
+ "updated": "2026-10-08T12:07:12+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 78,
+ "new_this_run": 125,
  "hits": [
+  {
+   "title": "네이버뉴스새 창 열림",
+   "url": "https://n.news.naver.com/mnews/article/081/0003687159?sid=100",
+   "engine": "naver_news",
+   "query": "KAIST 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "nttId=B000000284205Iv2uC8 · 홍성군, KAIST와 미래산업 혁신 생태계 한자리에 선보여 (홍성군청 · 10/07) “청소년 과학캠프·기업 네트워킹·6개 첨단기술 시연… 산학연 협력 성과... nttId=B000000179926Yj2cI1 · 예산군, 예산시네마서 흥행작 8편 무료로 만나는 ‘작은영화관 기획전’ (예산군청 · 10/06)",
+   "url": "https://cafe.naver.com/naepopedia/293?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5hZXBvcGVkaWEiLCJhcnRpY2xlSWQiOjI5MywiaXNzdWVkQXQiOjE3OTE0Mjg4OTQzNzd9.rXdvsfPbi07ZQKTbKLRG2oYAEgLqR1FTYpZIyU6WfJk&q=KAIST%20%ec%b6%95%ec%a0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "KAIST 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "동틀무렵은 카이스트 학부생들로 구성된 모던락 밴드로, 정기공연과 학교 축제를 비롯한 다양한 무대에서 공연을 선보이고 있습니다. 이번 시민천문대 공연에서는 모던락의 매력에 흠뻑 빠질 수 있는 곡들과, 깊어가는 가을밤의 분위기에 어울리는 서정적인 곡들을 함께 준비했습니다. 많은 관람 부탁드립니다! [프로그램] 1. Ron - 리도어 2. 나비와 고양이 - 볼빨",
+   "url": "https://cafe.naver.com/daejeonobservatory/967?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRhZWplb25vYnNlcnZhdG9yeSIsImFydGljbGVJZCI6OTY3LCJpc3N1ZWRBdCI6MTc5MTQyODg5NDM3N30.mQFhuM2080ohIvXWA_Km61oSoOonGHfA7D9XPTQyZt8&q=KAIST%20%ec%b6%95%ec%a0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "KAIST 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "특권 ※KAIST와 서울대가 주도 예정인 AI BIO 교육 및 의료 특권 상단 관심고객 등록 해주세요 감사합니다 문의 010 **** **** 안녕하세요! 청주시닷컴에 오신 것을 환영합니다 아래 내용만 간단하게 작성해 주세요. **1. 거주 지역** 예) 복대동 / 가경동 / 율량동 / 용암동 / 오창 / 오송 → **[ ]** **2. 청주에서 주로 관심",
+   "url": "https://cafe.naver.com/navercafemanage/1582?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5hdmVyY2FmZW1hbmFnZSIsImFydGljbGVJZCI6MTU4MiwiaXNzdWVkQXQiOjE3OTE0Mjg4OTQzNzd9.ZobospQJN_pHjx5tziMnJ3fdF0_OtIzkrNKXfrVl3UI&q=KAIST%20%ec%b6%95%ec%a0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "KAIST 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "예산군청 · 예산군, 삼국축제에서 ‘고향사랑기부’하면 예산 농특산물 선물! (예산군청 · 10/02) “‘제10회 예산장터 삼국축제’ 연계 특별 이벤트… 10만 원 이상 기부자... s=news&bbs_id=S2N6&bbs_seq=826846 · [홍주중] 국가수리과학연구소·KAIST 현장체험학습, 연구 현장에서 미래를 그리다 (홍성교육지원청 · 10/02",
+   "url": "https://cafe.naver.com/naepopedia/147?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5hZXBvcGVkaWEiLCJhcnRpY2xlSWQiOjE0NywiaXNzdWVkQXQiOjE3OTE0Mjg4OTQzNzd9.FKU-TqKM1levzlXqLW25JlCGPEtdIRQLgO1yapGHDGY&q=KAIST%20%ec%b6%95%ec%a0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "KAIST 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "인기가수가 오는 시끌벅적 축제는 아니지만 지스트의 축제는 유소년 포함 가족들이 함께 구경하기에 딱 좋은 것 같습니다. 어린이들이 과학기술원을 친근하게 접할 수 있게 하려는 큰 뜻이 있는 것인지?!(대학생에게는 좀 시시한가봐요; 기숙사에서 누워 쉰답니다^^;;) 하지만 부모 입장에서는 건전하고 기특합니다.ㅎㅎ ✔ 공연 (도서관 앞 메인무대) 16:30 문화발",
+   "url": "https://cafe.naver.com/kongdae/227121?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtvbmdkYWUiLCJhcnRpY2xlSWQiOjIyNzEyMSwiaXNzdWVkQXQiOjE3OTE0Mjg4OTQzNzd9.mnpso5D_Lz79j_b1sFJOHQCY-y8BHGp3OOgZ-UlKr_o&q=KAIST%20%ec%b6%95%ec%a0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "KAIST 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "AI·반도체 패권경쟁 #ai#반도체#로봇 SNS 보내기 3건 7월 2일 9건 7월 3일 1건 7월 4일 6건 7월 5일 1건 7월 6일 6건 7월 7일 15건 7월 8일 12건 7월 9일 4건 7월 10일 3건 7월 11일 11건 7월 14일 3건 7월 15일 18건 7월 16일 1건 7월 17일 1건 7월 18일 5건 7월 19일 3건 7월 20일 15건",
+   "url": "https://cafe.naver.com/greenb0k6k/196657?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjE5NjY1NywiaXNzdWVkQXQiOjE3OTE0Mjg4OTQzNzd9.zGadpdTNjMvuiUXHliCCB0T4GP_gH9Gv36LHExXmAwY&q=KAIST%20%ec%b6%95%ec%a0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "KAIST 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "을 직접 체험하고 배울 수 있는 평생학습 축제가 열린다. 서울시평생교육진흥원은 오는 23~24일 성동구 서울숲 갤러리아포레 내 더...행사장 전체를 탐험하며 AI 콘텐츠를 체험하는 방식이다. 전문가 강연에는 김대식 KAIST 교수와 김상균 경희대 교수, 구본권 AI와...",
+   "url": "http://v.daum.net/v/20261008112252551",
+   "engine": "daum_news",
+   "query": "KAIST 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "동틀무렵은 카이스트 학부생들로 구성된 모던락 밴드로, 정기공연과 학교 축제를 비롯한 다양한 무대에서 공연을 선보이고 있습니다. 이번 시민천문대 공연에서는 모던락의 매력에 흠뻑 빠질 수 있는 곡들과, 깊어가는 가을밤의 분위기에 어울리는 서정적인 곡들을 함께 준비했습니다. 많은 관람 부탁드립니다! [프로그램] 1. Ron - 리도어 2. 나비와 고양이 - 볼빨",
+   "url": "https://cafe.naver.com/daejeonobservatory/967?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRhZWplb25vYnNlcnZhdG9yeSIsImFydGljbGVJZCI6OTY3LCJpc3N1ZWRBdCI6MTc5MTQyODg5NjY2MH0.fl_yTdkF02G5Nw699r2p9ZoIQWHm7naDAG7cNH_rdQA&q=%ec%b9%b4%ec%9d%b4%ec%8a%a4%ed%8a%b8%20%ea%b3%b5%ec%97%b0%20%eb%8f%99%ec%95%84%eb%a6%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "카이스트 공연 동아리",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "nttId=B000000284206Db4nK2 · 서부면 주민자치회, 찾아가는 문화행사 개최 (홍성군청 · 10/06) “주민자치 프로그램 공연과... nttId=2184252&menuNo=500498 · 충남도·카이스트, ‘미래 모빌리티 혁신’ 성과 공유 (충청남도청 · 10/06) “험지 탐사 로버... s=news&bbs_id=S2N6&bbs_seq=",
+   "url": "https://cafe.naver.com/naepopedia/261?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5hZXBvcGVkaWEiLCJhcnRpY2xlSWQiOjI2MSwiaXNzdWVkQXQiOjE3OTE0Mjg4OTY2NjB9.bsDT_Vc5WEmiTJK8iUPhrivZ7li2d2Vy2tscXgYEjXU&q=%ec%b9%b4%ec%9d%b4%ec%8a%a4%ed%8a%b8%20%ea%b3%b5%ec%97%b0%20%eb%8f%99%ec%95%84%eb%a6%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "카이스트 공연 동아리",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "그래서 다시는 못갈 수도 있는 대학축제를 영끌영끌해서 다녀오게 되었습니다 그럼 먼저 첫번쨰 축제입니다 9월 29일 다음날이 연차라 대전으로 향했습니다 이때 선택지가 유성복합에 내려서 충남대축제를 가기 VS 대전복합에 내려서 대전대학교 축제를 가기였습니다 아니 명절 끝나고 빨리 버스 예매해야하는데 충남대 이 자식들이 라인업 공개를 안하는거에요... 새 창 열",
+   "url": "https://blog.naver.com/osy09300/224430305693",
+   "engine": "naver_blog",
+   "query": "충남대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "이번 대동제에서는 걷기대회와 함께 장학금 수여식, 인문학 강연 등 세대 통합 축제가 열립니다. kor | 2026.10.07 18:26 ▶ 원문보기: http://kor.theasian.asia/archives/417658... ccreview | 2026.10.07 17:22 | 관련 2건 ▶ 원문보기: https://www.ccreview.co.kr/n",
+   "url": "https://cafe.naver.com/pinkbrgd1/11410?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBpbmticmdkMSIsImFydGljbGVJZCI6MTE0MTAsImlzc3VlZEF0IjoxNzkxNDI4OTAwOTEwfQ.qdE_Az-Hlicc5x0Q68KVKRZRy6KgaWP0h0cdoX2dlZk&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ec%b6%95%ec%a0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "충남대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "학원장으로 치러지는 이번 영결식은 14일 오전 11시 충남 예산군 예산고 대강당(예촌관), 빈소는 충남대병원 장례식장 특천실.... 7시20분 충남대병원영안실 발인14일 오전8시 충남 예산군 신양면 선영 042-257-1703 010-****-**** https://m.news.nate.com/view/20090212n27226... 이후 김 후보자는 19",
+   "url": "https://cafe.naver.com/jamgallery/1765364?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImphbWdhbGxlcnkiLCJhcnRpY2xlSWQiOjE3NjUzNjQsImlzc3VlZEF0IjoxNzkxNDI4OTAwOTEwfQ.kIDtzDucT_V4tpyT9CquYAnoY2eJ6k2Z8SxDPw3wwoY&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ec%b6%95%ec%a0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "충남대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "반려동물과 함께 즐기는 2026 충남대학교 수의과대학 동물사랑큰잔치에요~ 올해는 충남대학교 수의과대학 X 대전동물보호사업소 X 대전광역시 수의사회가 함께해 더욱 커진 규모랍니다. 무려 37개의... 반려동물 패션쇼 '멍냥 런웨이' 장애물과 미션에 도전하는 '반려동물 올림픽' 보호자와 반려동물이 한 팀이 되는 '반려동물 미니게임' 멍티켓, 건강상식 등을 알아",
+   "url": "https://cafe.naver.com/petfamilyloverbusan/4909?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBldGZhbWlseWxvdmVyYnVzYW4iLCJhcnRpY2xlSWQiOjQ5MDksImlzc3VlZEF0IjoxNzkxNDI4OTAwOTEwfQ.X4d3U_4JncYhImdZ6WRUkkxSLa-cbw4OY_Mpg0xYMMg&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ec%b6%95%ec%a0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "충남대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "세종시 초등학생도 대전 충남대 영재원 지원 가능해요 https://naver.me/FSvbvHWj 하버드 도서관 공부 명언글 https://naver.me/xM5tnWP0 11월 황소 시험 준비, 뭐부터 봐야 하나요?... com/ccmomedu/4733 2026 대전 빵축제 정보 https://naver.me/GLhJhrbI 새로운 교육공간 <공부는 학교",
+   "url": "https://cafe.naver.com/ccmomedu/5067?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNjbW9tZWR1IiwiYXJ0aWNsZUlkIjo1MDY3LCJpc3N1ZWRBdCI6MTc5MTQyODkwMDkxMH0.u2eYeQG5wumkEl7DqMEeppNtjT3FLQJsgOeo8o6qu0Q&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ec%b6%95%ec%a0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "충남대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "[축제] 2026 신년 해맞이 축제 행사: 2026-01-01 2026.01.01(목) 07:00 ~ 08:00 | 접수: 현장참가 대상·장소: 전연령하늘공원 동측 정상 내용: 축하공연, 개회식, 대북타고 및 신년덕담... [축제] 2026 아차산 해맞이 축제 행사: 2026-01-01 2026.01.01(목) 06:30 ~ 08:30 | 접수: 현장참가 ",
+   "url": "https://cafe.naver.com/bongcheheom/4?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvbmdjaGVoZW9tIiwiYXJ0aWNsZUlkIjo0LCJpc3N1ZWRBdCI6MTc5MTQyODkwMDkxMH0.9XUcr7g7EQbkRsT8tGh7yHjbpSLevc0-_CeISTjpFQw&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ec%b6%95%ec%a0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "충남대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "대전 축제·전시 李대통령, 우크라에 \"공개 사과 거부하면 추가 조치\" 강력 경고 충남도 '빠듯한 살림'에 15개 시·군, 사업조정 불가피 [특별기획] 주변 상권과 연계된 도쿄... 대전도 성심당이 관문돼야... 5충남대병원, 의료 AI 국가과제 참여 6[인터뷰] 윤종수 대전시체육회 사무처장 \"현장의 목소리 실제 변화로\" 7‘K-배터리의 중심’ 충북도, 민선",
+   "url": "https://cafe.naver.com/green4xwdr/5990?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuNHh3ZHIiLCJhcnRpY2xlSWQiOjU5OTAsImlzc3VlZEF0IjoxNzkxNDI4OTAwOTEwfQ.nHislOsWzV6xR1kj6RlKBH55W_Qy-EZPC-zmkBU1eiM&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ec%b6%95%ec%a0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "충남대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "RE비눗방울 날려주는대축이라니 영주님 스트라이프 티셔츠 첨보는데 파랑조끼까지 다시는 못볼 코디네요 대학생이라고 해도 믿겠어요. 영상 감사합니다",
+   "url": "https://cafe.naver.com/nerdconnection/10486?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5lcmRjb25uZWN0aW9uIiwiYXJ0aWNsZUlkIjoxMDQ4NiwiaXNzdWVkQXQiOjE3OTE0Mjg5MDA5MTB9.ftLCWH4n73RV5hCtfclswNcJVxjP59NZv06NlfKi8KI&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ec%b6%95%ec%a0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "충남대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "윤용근 의원 “'백제문화제, 지역 축제로 가둬, 백제문화제를 글로벌 축제로 역할 새롭게해야” - 금강뉴스",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jVmxWUEk4dklVRzRIWFh4bXhSZE0tWDF3NDZCaEVYR0FTTUxWLS1TeUR0NHY2ZzByZ29TUTZsd2lFdFdtcng5aDFkOEdON3JZbEYwLV9rQU9Jd1dIeEZ3N0hhb1o2RjNXek1v?oc=5",
+   "pub": "Wed, 07 Oct 2026 23:56:43 GMT",
+   "engine": "gnews",
+   "query": "충남대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "백제 왕도 사비, 축제로 깨어나다… 제72회 백제문화제 개막 - 현대경제",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmcE1ieHNqYlY0Ui1TZDVoYmNnZVVMc0hCX3lsWGxzaTA5MmNDUWRLdzZBc1NNcVJjeDFYLVdIVjQ5UUMyZFhidFJVYTh5LXRRa1ZNN1d6a0pXeUZ2SWw3TmxjdjFILXVhUVZn?oc=5",
+   "pub": "Sat, 03 Oct 2026 12:37:05 GMT",
+   "engine": "gnews",
+   "query": "충남대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "01(목) 07:00 ~ 08:00 | 접수: 현장참가 대상·장소: 전연령하늘공원 동측 정상 내용: 축하공연, 개회식, 대북타고 및... 01(목) 06:30 ~ 08:30 | 접수: 현장참가 대상·장소: 전연령용왕산 근린공원 일대 내용: 식전공연, 대북타고, 해오름 감상... 01(목) 07:00 | 접수: 현장참가 대상·장소: 전연령응봉산 팔각정 내용:",
+   "url": "https://cafe.naver.com/bongcheheom/4?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvbmdjaGVoZW9tIiwiYXJ0aWNsZUlkIjo0LCJpc3N1ZWRBdCI6MTc5MTQyODkwMzAwNn0.tLNyRkgJksOJ7TVlK-OSrZpib9mavuYhy3LQGeO83dc&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ea%b3%b5%ec%97%b0&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "충남대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "5충남대병원, 의료 AI 국가과제 참여 6[인터뷰] 윤종수 대전시체육회 사무처장 \"현장의 목소리 실제 변화로\" 7‘K-배터리의 중심’ 충북도, 민선 9기 25조 생산 전략 추진 8부여군수에서 장관급으로…박정현, '제2의 김두관' 길 걷나 9추석 연휴 충남 곳곳 사건사고…3세 어린이 교통사고로 중태 10[나무, 천년의 세월을 담다 423] 사이의 집…홍성군 ",
+   "url": "https://cafe.naver.com/green4xwdr/5990?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuNHh3ZHIiLCJhcnRpY2xlSWQiOjU5OTAsImlzc3VlZEF0IjoxNzkxNDI4OTAzMDA2fQ.W4jv5XlLfJMw5fL8ppHzZ6l7T3VV07FUjKBd9zKXE1Y&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ea%b3%b5%ec%97%b0&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "충남대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "RE비눗방울 날려주는대축이라니 영주님 스트라이프 티셔츠 첨보는데 파랑조끼까지 다시는 못볼 코디네요 대학생이라고 해도 믿겠어요. 영상 감사합니다",
+   "url": "https://cafe.naver.com/nerdconnection/10486?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5lcmRjb25uZWN0aW9uIiwiYXJ0aWNsZUlkIjoxMDQ4NiwiaXNzdWVkQXQiOjE3OTE0Mjg5MDMwMDZ9.j6qQ25Fa8dfwpUSbYq_UUq1CE_zTKotut7VSJB62zrE&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ea%b3%b5%ec%97%b0&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "충남대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "▲ 충남대학교 제공 [충청타임즈] 충남대학교 도서관이 가을의 정취를 담은 클래식 선율이 울려 퍼지는 음악회장으로 변신했다. 충남대 도서관은 '선율이 머무는 도서관 음악회'를 개최, 4명의 연주자가 현악 사중주 무대를 선보였다. 엘가의 '사랑의 인사'를 비롯한...",
+   "url": "http://v.daum.net/v/20261008111552136",
+   "engine": "daum_news",
+   "query": "충남대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "2026 싸이 흠뻑쇼 대전 공연일 : 2026년 8월 22일 토요일 공연장 : 대전 목원대학교 대운동장 공연 시작 : 오후 6시 좌석 : 스탠딩 R 입장번호 : 4035, 4036 스탠딩 R 4000번대, 우리는 일부러 일찍 가지 않았다 스탠딩을 예매하고 나서 가장 고민했던 게 몇 시에 가야 하느냐였다. 우리는 처음부터 일찍 가서 몇 시간씩 줄을 서 있을 ",
+   "url": "https://blog.naver.com/angela_lala02/224429518952",
+   "engine": "naver_blog",
+   "query": "목원대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "올해 서구 책 축제는 공연과 작가와의 만남, 독서문화 체험, 전시, 야외도서관 등 8개 분야 39개 프로그램으로 꾸며진다. 어린이부터 청소년, 성인까지 세대와 관계없이 책을... 대전과학기술대학교·대전대학교·목원대학교·충남대학교의 학생과 사업단이 참여해 네일아트와 원예 체험부터 로봇팔 코딩, 자율주행 모형차, AI 사진관, 미니 CD 앨범과 옛 서책... ",
+   "url": "https://blog.naver.com/first_seogu/224428074790",
+   "engine": "naver_blog",
+   "query": "목원대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "음악과 미술, 공연과 체험을 한자리에서 만나고 관람객도 작품을 만드는 과정에 참여하는 도심 속 예술축제로 꾸며진다. 전국 작가들의 작품을 만나는 아트마켓과 프리마켓을 비롯해... 보라매공원에 마련되는 특별전시관에는 대전여성미술가협회 회원들의 작품과 서은혜 작가의 작품이 전시되고, 충남대·한남대·배재대·목원대 재학생과 졸업생, 교수들이 참여하는... 새 창 ",
+   "url": "https://blog.naver.com/first_seogu/224428073800",
+   "engine": "naver_blog",
+   "query": "목원대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "참여자들이 교육과 연습을 거쳐 지역 공연에 참여하는 방식으로 운영된다. 한편 목원대학교는 공식적인 단일 상설 '목원대 합창단'이라는 이름의 학교 직속 합창단보다는, 음악대학 및 신학대학, RISE사업단 등을 중심으로 다양한 합창 및 연주 단체를 운영하고 있다.새 창 열림",
+   "url": "https://www.bzeronews.com/news/articleView.html?idxno=823584",
+   "engine": "naver_news",
+   "query": "목원대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "우수인재상은 각 1,000만원의 상금과 함께 목공예부문 명장 권혁율 / 배우 김지혜 / 피아니스트·목원대 교수 양기훈 / 배우 겸 가수 양동근 / 가수... 국립음악공연예술대학교 김재율 / 서울대학교 미술대학 대학원 조소전공 남지강 / 서울예술대학교 공연학부 연기전공 문수찬 / 이화여자대학교 음악대학 대학원... 새 창 열림",
+   "url": "https://www.gpkorea.com/news/articleView.html?idxno=147374",
+   "engine": "naver_news",
+   "query": "목원대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "고수가 북을 놓고 앉아서 장단을 맞춰주며 추임새를 넣는 공연양식입니다.” 다산학당 오픈강좌 참석자들이 이날 특강 연사인 임진택...제공 도시공감연구소(소장 김창수)가 매주 목요일마다 목원대 신학관에서 운영하고 있는 다산학당에서 10월1일 오후 7시 다산...",
+   "url": "http://v.daum.net/v/20261002103847317",
+   "engine": "daum_news",
+   "query": "목원대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "및 DB 금지 [대전=뉴시스]유순상 기자 = 목원대학교는 정철호 라이즈(RISE) 사업단장이 경기 고양시 킨텍스에서 열린 ‘산학연협력...전투·사격 시뮬레이터 등의 다양한 체험을 했다. 또 한미연합군사령부 기념공연과 밀리터리 패션쇼를 관람했다. ☞공감언론...",
+   "url": "http://v.daum.net/v/20261001153502771",
+   "engine": "daum_news",
+   "query": "목원대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "목원대 정철호 단장, 산학협력 공로 교육부 장관 표창 등[교육소식] - 뉴시스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnaFoxU3hUVmxYRUh6a3dkSDJud2NQb0JJR0Y3NDJ1dURRcTFJYmxONmtSdE1TS1prMFc3NzBMWHlzdnNOSFctZ1hOUlkzY0JFbHpBSjVoRXBYT0tLLTZzUNIBeEFVX3lxTE05Z2RnVkh2S2YybVExVExBQUhKQU1FdGhDUVpHVERtUVpaX1BxZE12Vy1GOHR4QVRiU1BRQl82b2hHYk5MSTlsRkJCdnQ1MTJLSFQ4TXdJYTFvWmZpZV9DLXJBSzdxWk5fcDlWR0lVVVBhMmM3UHItXw?oc=5",
+   "pub": "Thu, 01 Oct 2026 06:33:13 GMT",
+   "engine": "gnews",
+   "query": "목원대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "관객에게 들려주는 작은 완창...판소리 「심청가」 80분 압축 - ABC뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGdDNHUnE2TERzc2RYcnk3RU1WTzR6cEU5NWt4YWdfeHZDQlFHeUJDMlp6VUNWS2VrZXZEQlRHbDR6dVBxMnotUjJVZFc5SjI0czUwOVlaRzZZcjFVVzdXakxPYU1LeUnSAWdBVV95cUxQRnQzR1JxNkxEc3NkWHJ5N0VNVk80enBFOTVreGFnX3h2Q0JRR3lCQzJaelVDVktla2V2REJUR2w0enVQcTJ6LVIyVWRXOUoyNHM1MDlZWkc2WXIxVVc3V2pMT2FNS3lJ?oc=5",
+   "pub": "Sun, 04 Oct 2026 23:37:52 GMT",
+   "engine": "gnews",
+   "query": "목원대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "목원대 정철호 단장, 산학협력 공로 교육부 장관 표창 등[교육소식] - 파이낸셜뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53WGxLOFk4bXQwbEUzX3dqdHBUdnIwVnNjdDdRVU42Vmg1NHFyckZ1eElaRGtvdF93cVNfYXcxMXhpLTR1aGg3R0doYVN4RWxEbnN2Wmhsdl9hdw?oc=5",
+   "pub": "Thu, 01 Oct 2026 06:34:15 GMT",
+   "engine": "gnews",
+   "query": "목원대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "목원대 캠퍼스 맨홀이 ‘대전 명소 지도’로… 학생 아이디어 현실화 - 충남일보",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIeFRsM1JvQ2Zlcjh6bVhMQ1Y4QU9uSGlEbnFQa2VEOVlWWnZFb3ZSS0kwRkk1UUNuV3JwUk9WN2dZR2lINmlhdVcwUmZtR1pGVkprWnNNRmszZzhQNW9Ha1Fna3h6UnhzVVh2cTVOWjNrUGc?oc=5",
+   "pub": "Tue, 06 Oct 2026 03:41:02 GMT",
+   "engine": "gnews",
+   "query": "목원대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "테너 임권묵, 독창회 '내 영혼의 솔레미오' 연다 - 로컬투데이",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzbGtjZk5KdE9QU0RkOXV0R3QwQzFtNmJlem02RC1ON0hRbEE4dDdSVzJXZExjYjZ6b3ZNV0RrMFFNNDRlLVBUNU9uMFpTb1RDSkN3Y1RtTHFyUDV2UkhpZmFZU3RLR184cHJaLVlRUmE?oc=5",
+   "pub": "Tue, 06 Oct 2026 07:50:42 GMT",
+   "engine": "gnews",
+   "query": "목원대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "대전문화재단, ‘2026 DKAF’서 지역 청년작가 12인 작품 선보인다 - 충청투데이",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sOW9wc3pPQmxIMHBPem1GbjQxU042aXp3d1JiQXZfV01mbldXcldKYUtvY3MyRjY1VERoVmFKS2dFZ1Q1WnpFeTl6ZEN5VzBfS2lITDRYQ0ltcmV4c1ZBVHE1WVpUa2tHcERRZm1B?oc=5",
+   "pub": "Thu, 01 Oct 2026 07:11:00 GMT",
+   "engine": "gnews",
+   "query": "목원대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "전문연주자 교회음악과: 성악 6 / 피아노 8 / 오르간 1 / 아트&뉴미디어작곡 2 경기 성결대 실기우수자 실용음악예술학과 25 (성악·클래식피아노·보컬·작곡· 기악·뮤직테크놀로지... 대전 목원대 학생부교과(교과) 4 피아노, 성악, 작곡, 관현악 비실기 (교과 100) 실기(실기교과) 20 피아노, 성악, 작곡, 관현악 충청 국립공주대 학생부교과 (일",
+   "url": "https://blog.naver.com/anyangartsmusic/224435063214",
+   "engine": "naver_blog",
+   "query": "목원대 연주회",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "뭐 했다고 10월인 것이냐 실시간 케텍 들어오는 중 = 집 간다는 뜻♡ 케텍 탔고 군인옵들 왤케 많닝 ⬆️ 안태희 따라 샀어요 9.14 요즘 햄부기에 빠졌음 님들 그거 아시나요? 저 콜라 끊음 ㄷㄷ 가장 좋아하는 음료가 콜라였는데.. 애들이랑 이상형 월드컵 했는데 애니 1등 서태웅 남돌 1등 김선우가 되었습니다아 3번째 사진 리노랑 승훈? <- 이거 닥 리",
+   "url": "https://blog.naver.com/cji542/224430673517",
+   "engine": "naver_blog",
+   "query": "목원대 연주회",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "한밭대 2026 가을 축제 10월 7.8.9일새 창 열림",
+   "url": "https://blog.naver.com/police1965/224435075503",
+   "engine": "naver_blog",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "확대샷~ 2층이라 풍경은 좋네요 ^^ 어찌저찌 다 먹긴 함 ~ 배고팠움 ㅠㅠ 사실 이 사진 찍으려고 찌개에 밥 말았더니 다 가라앉아서 안보이지만 3분의 1은 남긴걸루 쳐도 됨 나오는 길에 보니까 여기 식당엔 사람 왕 많았움 ㅡ.ㅡ 담에 먹어볼려고 사진 찍어옴 담에 월요일 (짬뽕밥) 목요일(제육덮밥) 맛없는거 나오면 먹어봐야지 ~ 오늘 한밭대 축제기간 ~ 생",
+   "url": "https://blog.naver.com/clawsome_xx/224434029117",
+   "engine": "naver_blog",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "조윤실 회장 “안전사고 없이 동두천 명산 알리는 가을 축제로 순항 중” 10월 3일부터 18일까지 비대면 개최... 완주자 선착순 300명 다이소 상품권 증정 아조타아조아가 주최하여 성황리에 진행 중인 '2026 왕방산 등산대회' 공식 홍보 포스터 ‘아조타아조아’가 주최하는 ‘2026 아조타아조아 왕방산 등산대회’가 가을을 맞은 동두천시 왕방산에서 회원과 ",
+   "url": "https://blog.naver.com/a8680412/224433732261",
+   "engine": "naver_blog",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "현재 공개된 일정 가운데 10월 대학축제로 확인되는 대표적인 일정은 10월 23일 마산대학교 축제입니다. 반면 10월 6~8일 한밭대, 10월 7~8일 한신대 등 다른 대학들도 가을축제를 진행하는 것으로 확인되지만, 현재 확인되는 리센느 일정표에는 해당 학교 출연이 등록돼 있지 않습니다. 따라서 “축제가 열린다 = 리센느가 온다”로 생각하면 안 됩니다...",
+   "url": "https://blog.naver.com/ongongi17/224431509245",
+   "engine": "naver_blog",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "한밭대 대표 대학축제로 학생 공연부터 각종 체험부스, 먹거리, 대동제 공연까지 전형적인 대학축제 분위기를 즐길 수 있습니다. 2026년 가을 백련제는 '낭만, 젊음, 사랑' 이라는 분위기에 맞춰 3일 동안 진행될 예정입니다. 특히 10월 7일에는 래퍼 양홍원 공연 일정도 알려지면서 대학생뿐 아니라 외부 방문객들의 관심도 높을 것으로 예상됩니다. 기대 포인트",
+   "url": "https://blog.naver.com/kodlandman2026/224431495310",
+   "engine": "naver_blog",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "[동두천 가을 축제] 2026 소요산 비대면 단풍 등산대회 참가 안내 (선착순 다이소 상품권 증정!) 안녕하세요! 여러분의 건강하고 즐거운 아웃도어 라이프를 응원하는... 올가을, 유난히 붉고 아름다운 단풍으로 유명한 동두천 최고의 가을 축제 '소요단풍문화제' 시즌이 돌아왔습니다! 축제 기간을 맞아, 누구나 원하는 시간에 자유롭게 참여할 수 있는 100% ",
+   "url": "https://blog.naver.com/a8680412/224431166209",
+   "engine": "naver_blog",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "2026 소요산 비대면 단풍 등산대회 주최: 아조타아조아 동두천 최고의 가을 축제 '소요단풍문화제' 기간과 연계하여, 100% 온라인으로 참여하는 비대면 자율 등산대회를 개최합니다! 아래 3D 가이드 영상을 확인하고, 아름다운 소요산 단풍 코스를 걸으며 다이소 상품권 혜택도 받아 가세요! \"아 조타, 아 조아!\" 대회 기간: 2026년 10월 24일(토) ",
+   "url": "https://blog.naver.com/a8680412/224431066975",
+   "engine": "naver_blog",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "보이는 한밭대 마운틴뷰 심신안정에 도움이 된다 ㅇㅈ 롯데마트 2층에 리퍼샵이 있다 수유시트 쓰려나 싶어서 고밍하다 내려놓음,, 요새 예감에 빠져버렷다 ㅈㅈㅁㅌ... 멸치랑 윤우아저씨 산책에 끼기 계산동 별밤음악축제인가 뭐신가에 다녀옴 산책 나온 쭈리는 큰소리에 봉변 크림하우스 매트 집에 도착! 깔자마자 신이 난 쭈리 뜨롱이... 새 창 열림",
+   "url": "https://blog.naver.com/chakku/224431065006",
+   "engine": "naver_blog",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "25일｜대덕대청호물결축제｜금강로하스대청공원｜든든 노래자랑 결선 국립한밭대학교의 청하·래원 특별공연 날짜와 세부 공연 시간은 공식 채널의 최종 시간표를 다시 확인해야 해요 양홍원 공연은 10월 7일로 안내됐습니다 1. 대전효문화뿌리축제｜안예은·폴킴·송가인 제17회 대전효문화뿌리축제는 10월 2일부터 4일까지 대전 중구 뿌리공원에서 열립니다 가족... 새 창 ",
+   "url": "https://blog.naver.com/todaydaejeon/224429726317",
+   "engine": "naver_blog",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "예상 라인업은 실제 출연진과 달라질 수 있으니 방문 전 총학생회나 축제 준비 위원회 최종 공지를 확인하는 것이 좋습니다. 놓치면 후회하는 글 BEST 3 #2026대학축제 #10월대학축제 #대학축제일정 #대학축제라인업 #대학축제출연진 #삼육대축제 #한밭대축제 #한신대축제 #고연전 #연고전 #건양대축제 #안산유니온페스티벌 #대학축제외부인 #10월축제 #대학축",
+   "url": "https://blog.naver.com/wooaon_j/224429573176",
+   "engine": "naver_blog",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "⑥ 한밭대학교｜백련제 10월 6일~8일 대전 한밭대학교 한밭대 가을 대표 축제인 백련제도 10월에 열립니다. 무려 3일간 진행되는 축제로 대학생 공연과 다양한 학생 참여행사 등이 이어질 예정입니다. 대전권 대학축제를 찾고 있다면 일정에 넣어볼 만합니다. ⑦ 한국외국어대학교｜QUINQUATRIA 10월 7일~8일 한국외국어대학교 서울캠퍼스 한국외대에서는...",
+   "url": "https://blog.naver.com/kodlandman2026/224428731534",
+   "engine": "naver_blog",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "한밭대학교 10월 6~8일｜가을 백련제 현재 확인된 축제 일정은 10월 6~8일이며 가수 라인업은 확인되지 않았습니다. 전남대학교 10월 6~7일｜용봉대동풀이 錄stalgia 축제 일정은 확인됐지만 현재 공개 자료에서 확정 가수 라인업은 확인되지 않습니다. 한신대학교 10월 7~8일｜HIGHLIGHT SPARK 학교 공식 공지에서 날짜와 행사명은 확정했지만",
+   "url": "https://blog.naver.com/adklby/224429098401",
+   "engine": "naver_blog",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "한밭대학교 가을 백련제 (10.06 ~ 10.07) 가장 먼저 뜨거운 열기의 한밭대입니다. 이번 백련제 주제는 '낭만, 젊음, 사랑'이에요. 캠퍼스 전체가 축제 분위기로 가득 찰 예정이죠. 가장 궁금한 건 역시 초대가수 라인업이죠? 10월 7일 수요일에 양홍원이 출격합니다. 독보적인 래핑으로 무대를 완전히 찢어놓을 텐데요. 제가 작년에 가봤는데 힙합 공연이",
+   "url": "https://blog.naver.com/everything2640/224428782845",
+   "engine": "naver_blog",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "RE그냥 잘생긴게 최고네요. 그냥 최고네요. 인생 정점의 즐거움은 외모가 맞네요. 남잔데도 보기만해도 감탄이 나옴.",
+   "url": "https://cafe.naver.com/dieselmania/47520440?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpZXNlbG1hbmlhIiwiYXJ0aWNsZUlkIjo0NzUyMDQ0MCwiaXNzdWVkQXQiOjE3OTE0Mjg5MDk0NjV9.18AV_zwV6ADbnp5pH7pU0Hsrrm1QGrew-ZcTTfKaKlg&q=%ed%95%9c%eb%b0%ad%eb%8c%80%20%ec%b6%95%ec%a0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "대전 한밭대학교 대학축제에 함께해주실 타로·사주 상담사 선생님을 추가 모집합니다 :) 국립한밭대학교 10월 6일(화) ~ 8일(목) ⏰ 12:00 ~ 24:00 현재 충청권 지역에서 함께하고 계신 선생님이 많지 않아, 대전 근방에서 활동하시는 선생님들을 우선적으로 모시고자 합니다. 대학축제 행사 경험이 있으신 선생님이면 더욱 좋습니다. 기존에 지원해주셨던 ",
+   "url": "https://cafe.naver.com/tarocchi/131931?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRhcm9jY2hpIiwiYXJ0aWNsZUlkIjoxMzE5MzEsImlzc3VlZEF0IjoxNzkxNDI4OTA5NDY1fQ.yRRmqtqtV2lWj7fFI3yqzF8my3AERGVbYTf6sod1VOQ&q=%ed%95%9c%eb%b0%ad%eb%8c%80%20%ec%b6%95%ec%a0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "국내 외국인주민 260만 시대를 맞아 지역 대표 축제 현장에 인터넷 연결 없이 실시간으로 다국어 소통을 돕는 '엣지(Edge) AI' 통역...탈(대표이사 박종진)은 라인피아(대표이사 우진호), 국립한밭대 SW융합연구소(소장 최창범 교수)와 공동 개발한 엣지AI 기반...",
+   "url": "http://v.daum.net/v/20261006090502292",
+   "engine": "daum_news",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "“인터넷 없어도 19개국어 척척”… 노탈, 계룡군문화축제서 ‘토큰 비용 없는’ 엣지AI 실시간 통역 선보여 - 한경매거진&북",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UZ3VNMVN2SVUzczFQX1VCQUtIS1hvWnM1a0F6am51ZXdzZ3Q2OWdaVUNJdnZ2bE5WMngyanc2SFQ1RkcyX3VRdmVPMnVKRjlFbWI1VFZ1WXF6dHZwZW85MkQ1ZExCMEpE?oc=5",
+   "pub": "Tue, 06 Oct 2026 00:04:00 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "한글날 100주년 맞은 세종시, '2026 세종한글축제' 개막 - 충청뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DOXE1ZDZwb29seGo4N1RIQTc0ZTQzVExEUkhIeVRYczJzVFUyQldqUE5FakVObm11cEVmR2FJamwwLTZNdmY0ZEF4aERMaFI1Snlra0hhNWd5NEFSX3ZiWXl0N3ItbkpxdE1rWQ?oc=5",
+   "pub": "Thu, 01 Oct 2026 15:53:39 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "계룡軍문화축제 91만 2000여 명 방문...‘명품축제’ 입증 - 디트NEWS24",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95c21lNlJQVnR4UUJ4YUZFSEE4YUs2aXVTcERqZUlXVmhCN0NCcTFCT0JFTV93V3k0RldfVUJXQmZkWV9IMFh0bEtaZm5uMzdBRlU4bVEtaTlpZzQ2SGtFMkswcWdwcGdnb3NB?oc=5",
+   "pub": "Tue, 06 Oct 2026 05:58:42 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "이번 일요일 어디 가볼까? 체험천국 ‘계룡군문화축제’로 초대 - 뉴스밴드",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yR1RMSTJpNzBhM0Ffd1FIWnZkdnVhS3dNdTNwdTRJVVR1V0FOaWU5OURnMF90WVlOamlRM0tWWVZ4TWIxRGRVcTZOeEVzRjBwdThGOVdoTjBNT0daS0Y5Y1IxNXZUOWtNOHc?oc=5",
+   "pub": "Sun, 04 Oct 2026 16:03:12 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "제17회 대전효문화뿌리축제 성황리 폐막 - 다원뉴스",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00ZUVhbHBfUEZ5anlNaC1aRmIwRm0za0VMN3lEWlRfSTAwaUNESVc0WmpPX2NFQkU3SkQxWEJhTWRiMV9DUFBXQnV0b2huTkRvaUliSUtyai1NTGExd3JnR0RaX0FWZnRvOXdrOUYxSQ?oc=5",
+   "pub": "Mon, 05 Oct 2026 10:25:00 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "세계인과 하나 된 천안흥타령춤축제 성료 - 디트NEWS24",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oX0gwOXB4X1ZxRFJxM2JDVUFjeW5kaHpzLUtrMjloV3R4YXVVVjFyc094V0MxazI0OC1OUFJDYmFxY2tDZW5pZWtjb09reDVDeVJKRVNSM2RHZ3ZaVGVXamhCTmlEWjZsVmpj?oc=5",
+   "pub": "Tue, 06 Oct 2026 02:21:27 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "제44회 금산세계인삼축제, 2일부터3일 24만여 명 다녀가 - 뉴스밴드",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ycVE5dE5yZGk4bGdsX2c0b2NFaFlnY09RVjdWYXM5ZE9Jc1NTWWp6R1N4d2I4bWJhZjE4VV9xLUNBNFNxR2k3YklTMGxnUXNJR2ExZkJxTHJTWG8tblRUX1kteGxralZwMlE?oc=5",
+   "pub": "Sun, 04 Oct 2026 12:27:07 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "하나은행 충청하나그룹, ‘동구동락 축제’ 성공 개최 힘 보태 - 다원뉴스",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vS3kxcDVkY25wTml1VVloVmFNSGhDdW03cTVOWmtLMmM2UUtxcW1KaWVPUzVZMWc2SFd4QXM4S296bm9US2FKRkwyd2tmVmVScFowdjhSbk5icUc4Ri0yTjFicUloX1h3NUF0ODUyMA?oc=5",
+   "pub": "Tue, 06 Oct 2026 05:30:00 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "제4회 판교 도토리묵 축제… “충남 서천에서 가을 정취 즐겨요” - 디트NEWS24",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03Wk10V201STI3Yl9iVjBwUXZGRG43UGRkSlBjWlk5dDVaamo2TnJBRWF6N0pQU0RkNXNhZkZabHZGdWhoYl9EZTNsNjJKS1FyY0o2ZDF0UEpYV1dZSFNqd25ZMDFQY3pOUlE?oc=5",
+   "pub": "Tue, 06 Oct 2026 05:24:31 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "‘제16회 계룡군문화축제 건강걷기 행사’ 성황리 개최 - 뉴스밴드",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqV0ZoUHVPcllhWTBaTmNMVk5UNVV2eHlVdTZmdkh6bW1oLXZ0NWs5ZUsxSE9iRlpsNmZfRXFXcS1CSGJjZll2XzhUUXlLMVVyS1IwTWppeEk3dXRsZEl1bm4zT0Z0ZmV0?oc=5",
+   "pub": "Sun, 04 Oct 2026 15:59:49 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "대전 서구 아트페스티벌, 10월 9일 화려한 개막 - 다원뉴스",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WQ1hmeHM4Y0Z0dlJkNFRuVjJYV2Q5WHB1dTBmVTUxMmFjSUFrWkFZV1owZ3hkYTVFMk5QdnZsdWwxU25kMTVna25kdjZzcnZ4LUIyWFVZcEJzbE5Td3d3bjZWcVFlanc5bFhLOF9CRQ?oc=5",
+   "pub": "Fri, 02 Oct 2026 07:23:00 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "대전문화재단 '2026 문화유산 달빛축제’ 개최 - 디트NEWS24",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yREtRVnYzYXh3NnBOcVhYb0lHdzVIckY3TTdhUGxSSEh3bmg1clJacVNoTnhuNjFUaTg0aXhrSnlYTmZFMmdjZkJ0REdoUFItQ1c0NV9ueExzQW5UN2x3ekU5eVd5bnNiX2pR?oc=5",
+   "pub": "Tue, 06 Oct 2026 03:25:33 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "대전테미문학관, 한글날 맞이 2026 테미문학축제 ‘시월 구일’개최 - 뉴스밴드",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xRUJhcGhMR0NnNzRFclpFTHl5NEhsSWpHY01lUDhtSXQyUUZCQjVVdTZyemJQcmxiOER2eWdEcXR0OTR4M0c3UFhqZlpTSktnZTlySkZyOEFkajlfSVZBdXJuV25kVmwz?oc=5",
+   "pub": "Fri, 02 Oct 2026 05:26:26 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "논산시, 강경젓갈축제 앞두고 관광객 편의 위한 준비상황 점검 - 뉴스밴드",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03V3FGMHd3blpVMDJtamdzQ0ZxV3pRSTI3dzJGQnpZLV9sRDl5d0J6ZmFxa1ZGdHo4RzNIWWhXWGdIeGl6TEVOWjI5Rjh2SWNOdWFRQ0IxeGotWG1nUXh6d21IaGtMQTN6?oc=5",
+   "pub": "Fri, 02 Oct 2026 09:56:36 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "충남문화관광재단, 가을 나들이는 충남 축제와 함께…문화누리카드로 즐기는 특별한 주말 - 뉴스밴드",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uZG80T2hoVVR4VF94d3lFNXJCbHI2TXB2eHBFY2thS19qUHJLdmNmSVppdWltUzUyWXhKeTllLUxIZVNfZXYzaGtucWVFaGhTR2pvcFRqaTg3Tl91dl9NTmhSYnhidTlY?oc=5",
+   "pub": "Fri, 02 Oct 2026 05:16:27 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "㈜파라텍, 제23회 서산해미읍성축제에 차량용 소화기 100개 기부 - 뉴스밴드",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZSi1tUlZzVWNROWprdXQ3S3Q2dElXY3dtWkFTdUxKbnpNZUVreEVpQ3RJOWRZeWtmWUY5S3pmMWpkY0pLSFAtZVJRNW45UFRQNzlUOV9DLVZmVUR0SXNoNVlrLTBqYTZZ?oc=5",
+   "pub": "Fri, 02 Oct 2026 04:47:57 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "제23회 서산해미읍성축제, 농업회사법인㈜새들만 쌀 300kg 기부 - 뉴스밴드",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SRTZUS2tiblYwcU1OQ0RjWUFCbmo4RER4MW1tcUJDT0E2eTNtbC1zRXFZTGJQc04zVXlRaUpYMXlwZHY4cjRmTFVWTkVhN18xdFYtVVpubGVqby1Oak5wTEZZNjVhdXFQ?oc=5",
+   "pub": "Fri, 02 Oct 2026 05:03:16 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "에프엔바이오㈜, 제23회 서산해미읍성축제에 발포 콤부차 1000개 기부 - 뉴스밴드",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wb1VtZmtiMm5VYURmaVhqVFl4N0NscDdNclFIaXNuaVFvX1FuY1JIbUoxaDhVVHhrQWRIc0wzRFEwYV9QSkhZWEFtU2tvUkZqUk9COXFna0RpYnREb19IbW04WW1yQ1ZG?oc=5",
+   "pub": "Fri, 02 Oct 2026 04:52:44 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "국립한밭대 산업대학원 문화예술융합학과, 11월 10일 원서 접수 음악·공연 실기부터 문화콘텐츠·데이터 분석까지…예술과 기술 잇는 융합형 인재 양성 국립한밭대학교 산업대학원 문화예술융합학과가 오는 11월 10일 신입생 원서 접수를 진행한다. 문화예술융합학과는 음악·미술·공연·콘텐츠·디지털 미디어·문화정책 등 다양한 분야를 아우르는 석사과정이다. 지휘... 새",
+   "url": "https://blog.naver.com/keapark/224431900718",
+   "engine": "naver_blog",
+   "query": "한밭대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "목 ◇국회의장 09:20 제78주년 국군의 날 행사(계룡대 활주로) 14:00 본회의(본회의장) 18:00 김구탄생 150주년 유네스코 기념 공연(의원회관 대회의실) ◇본회의 및 위원회 14:00 본회의(본회의장) 10:00 재정경제기획위원회 조세소위원회(본관 431호) ◇의원실 세미나 10:00 김형동 의원실, 안동댐 제도개선 국회 토론회(의원회관 제3간",
+   "url": "https://blog.naver.com/trim9134/224427805749",
+   "engine": "naver_blog",
+   "query": "한밭대 공연",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "2026 신구대 백마대동제 완벽 가이드 솔직히 저도 몰랐는데... 다들 가을 축제 소식 기다리셨죠? 저도 매일 어디 재밌는 곳 없나 찾아보게 되네요. 선선한 날씨에 축제 감성 제대로 느끼고 싶잖아요. 근데 왜 막상 가려고 하면 정보가 흩어져 있어서 답답할까요. 알고 보니 핵심 정보만 모아둔 곳이 없어서 그랬던 거예요. 방법은 이번 신구대학교 백마대동제 일정",
+   "url": "https://blog.naver.com/everything2640/224433437916",
+   "engine": "naver_blog",
+   "query": "백마대동제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "2026 신구대학교 축제 나로부터, 너에게, 우리로 서로 닿아 하나가 되는 2026 신구대학교 백마대동제 TOGETHERNESS가 드디어 화려한 막을 올립니다. 가을의 설렘을 더해줄 축제 일정부터 화려한 아티스트 라인업, 외부인 관람 참고 사항까지 꼼꼼하게 확인하고 알차게 즐겨보세요. [목차] 행사 기본 정보 아티스트 라인업 외부인 및 일반인 관람 참고 사",
+   "url": "https://blog.naver.com/dlqms-h/224431005546",
+   "engine": "naver_blog",
+   "query": "백마대동제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "(FRI) 장소 : 신구대학교 운동장 https://blog.naver.com/money1950/223250964351 제52회 신구대학교 2026 백마대동제 나로부터, 너에게, 우리로. 서로 닿아 하나가 되는 [ TOGETHERNESS ] 안녕하십니까, 제52대 INATON 총학생회입니다. ✨ 선선한 바람이 불어오는 가을, 기다리고 기다리던 ",
+   "url": "https://blog.naver.com/money1950/224430650365",
+   "engine": "naver_blog",
+   "query": "백마대동제",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "일원 ✔ 대전 5개 구 가을축제: 10월 9일~11일 · 대전 동구·서구·중구·유성구·대덕구 역사 축제로 가실지, 먹거리 축제로 가실지, 꽃구경으로 가실지 취향대로 고르시면 돼요.... 횡성한우축제, 한우 300마리와 초대가수 라인업 축제명 : 제22회 횡성한우축제 기간 : 10월 7일~11일 (닷새간) 장소 : 횡성 섬강둔치 일원 (강원 횡성군) 입장료 ",
+   "url": "https://blog.naver.com/sojunglog22/224435077346",
+   "engine": "naver_blog",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "동구동락 축제는 대전역 뒤편 소제동 동광장로와 대동천 일원에서 열립니다. 공식 안내에는 먹거리·공연·경연·체험이 포함돼 있고, 관련 보도에서는 미식과 야간 관광, 빵·밀가루를... 아이와 함께라면 ‘많이 보기’보다 쉬는 시간을 먼저 가벼운 겉옷과 물병을 챙겨 여행 가방을 준비하는 사진형 연출 이미지 아이와 가는 가족여행은 공연 라인업보다 걷는 양... 새 ",
+   "url": "https://blog.naver.com/purejin78/224435077276",
+   "engine": "naver_blog",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "대전 동구동락 축제의 일정부터 공연 라인업, 먹거리와 체험, 방문 전 알아둘 내용까지 한눈에 정리해 볼게요. 2026 대전 동구동락 축제 일정 2026 대전 동구동락 축제 일정 10월 9일부터 11일까지 3일간 진행되며 누구나 무료로 방문할 수 있어요. 구분 내용 축제 기간 2026년 10월 9일(금) ~ 10월 11일(일) 운영시간 11:00 ~ 22:0",
+   "url": "https://blog.naver.com/bkbk8579/224435073941",
+   "engine": "naver_blog",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "com/p/search/익산 중앙체육공원 분위기 참고 이미지 (Unsplash) 분위기 참고 이미지 (Unsplash) 다섯, 국화로 만든 놀이공원 '함평 국향대전' (전남 함평) 함평엑스포공원을 국화로 꾸민, 전국에서 손꼽히는 국화 축제예요. 국화로 만든 회전목마와 대관람차 등 이색 조형물로, 아이와 함께 즐기기 좋습니다. 추천하는 이유 · 국화로 꾸민 ",
+   "url": "https://blog.naver.com/osh5288/224435000926",
+   "engine": "naver_blog",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "국내 인기 10월 축제 가볼만한곳 Editor by 세계여행 인플루언서 양비드 생거진천 문화축제 기본정보 & 즐길거리 안녕하세요, 여행 인플루언서 양비드입니다. 10월 충북 가을축제를 찾고 있다면 진천에서 열리는 생거진천 문화축제를 추천합니다. 1979년부터 이어져 온 진천의 대표 향토문화축제로 민속예술과 씨름, 농특산물과 먹거리부터 가수 공연과 뮤지컬..",
+   "url": "https://blog.naver.com/wnswkd777/224434868159",
+   "engine": "naver_blog",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "#도너츠방앗간 좋아하는데요 여기도 임실치즈축제에 함께 하나봐용 라인업이 꽤 좋더라고요 임실치즈축제 여러분 꼭 경험해보세용 저는 1회때 가서 박명수옹이랑 핸졉핸졉... 무려 대전에서 방문한 곳이였습니당 엄빠 모시고 오세요. 무조건 합격스 분명해!! 샐러드 나와쩌용! 임실치즈가 조각조각 중간중간 있숩니다 씹히는데 역시 고소함이 다릅니다 피자나왔어요!... 새 ",
+   "url": "https://blog.naver.com/zzang_1228/224434632307",
+   "engine": "naver_blog",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "누군가에게는 풋풋한 시절의 추억을, 또 다른 이들에게는 가슴 뛰는 꿈의 무대를 선사해 온 전설적인 축제가 드디어 부산에서 화려한 막을 올립니다. 오는 2026년 10월 31일 토요일... [목차] 2026 MBC 대학가요제 행사 개요 MC 및 심사위원 라인업 축하 공연 및 특별무대 출연진 티켓 예매 정보 및 매진 안내 공연 입장 및 관람 안내 공연장 이용 ",
+   "url": "https://blog.naver.com/dlqms-h/224434972053",
+   "engine": "naver_blog",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "주최: 대전광역시 동구 / 주관: 대전광역시 동구 및 동구문화원 / 공식 문의: 042-251-6671 소제동의 골목과 대동천을 함께 활용하는 축제라, 무대 한 곳에 머무르기보다 먹거리와 체험을 골라 둘러보기 좋은 구성이에요. 공식 홈페이지는 올해 분위기를 “도파민 동구, 바이브 소제”라는 문구로 소개하고 있습니다. 행사가수 라인업 10월 9일 금요일: 존",
+   "url": "https://blog.naver.com/fresas_frescas/224435053635",
+   "engine": "naver_blog",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "드디어 대한민국 최대 쇼핑 축제인 [2026 코리아 세일 페스타 (코세페)]의 막이 오르면서, 가전업계의 양대 산맥인... 특별히 이번 시즌에는 최근 가장 핫한 올인원 로봇청소기인 '비스포크 AI 스팀'도 사전 예약 라인업에 포함되어 눈길을... 이번 가전 대전에서 여러분의 마음을 사로잡은 브랜드는 어디인가요? 삼성 비스포크 vs LG 오브제컬렉션, 여러분",
+   "url": "https://blog.naver.com/gogo0722/224435061838",
+   "engine": "naver_blog",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "울산공업축제추진위원회 문의: 052-276-8590 / 052-229-2724 주제: AX 대전환, All In Ulsan 슬로건: 울산이 움직이면 대한민국이 바뀝니다 전시·참여부스는 10월 8일부터 10일까지 오전 10시... 10월 10일 울산 U컬처 페스티벌이 열린다 울산 U컬처 페스티벌은 울산 소재 대학 동아리들이 참여하는 청년 문화 프로그램입니다.",
+   "url": "https://blog.naver.com/urmyuan/224435052450",
+   "engine": "naver_blog",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "이번에 학교에서 열린 뜨거운 열기의 포항대학교 송림 축제 현장입니다. 이번 축제에는 실력파 가수 DK와 하이키, 그리고 SOUL(솔)까지 화려한 라인업이 찾아와 캠퍼스를 완전히 뒤집어 놓았어요. 밤하늘 아래 울려 퍼지는 환상적인 라이브 무대를 즐기며 학업으로 쌓였던 스트레스를 한 방에 날려버릴 수 있었습니다. 친구들과 함께 목청껏 노래를 따라 부르고 축제의",
+   "url": "https://blog.naver.com/wldndeoqkr33/224435050701",
+   "engine": "naver_blog",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "이재훈과 포레스텔라라니~ 라인업이 너무 좋은데요 특히 저같은 늙크크는 재훈오라버니 너무 보고싶어요.ㅎㅎ 이런 분들에게 추천 더 추워지기 전에 아이들과 축제도 즐기고... 10월 17일｜대전 빵축제 불꽃쇼 엑스포과학공원 한빛탑 일원 2026년 10월 17일(토) ~ 10월 18일(일)) 개인적으로는 가족 나들이라면 이 날짜도 꼭 체크해볼 만합니다. 바로 대전",
+   "url": "https://blog.naver.com/eollongmari/224435043312",
+   "engine": "naver_blog",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "4개 대학 동아리와 K-POP 청년 예술인들이 꾸미는 울산 U컬처 페스티벌이 열려 젊은 에너지를 전합니다. 축제 마지막 날인 10월 11일 일요일 오후 6시 30분부터는 웰컴처용... #울산공업축제 #울산공업축제초대가수 #울산공업축제라인업 #울산공업축제일정 #태화강국가정원 #울산축제 #울산공업축제 #울산공업축제초대가수 #울산공업축제라인업 #울산공업축제일정.",
+   "url": "https://blog.naver.com/blu2sky7/224434829041",
+   "engine": "naver_blog",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "2022년부터 대전시 대표축제로 선정된 대전 유성구 대표 가을축제인 「제17회 유성국화축제 10월 17일부터 11월 1일까지 16일간 유림공원 일원에서 개최된다. 국화 본연의 아름다움과... 또한 드로잉 캐리커처 로봇, 테라리움 등 생활가드닝 체험, 목재체험 국화 관련 체험 프로그램과 지역 대학 및 로컬 아티스트 공연을 운영한다. 밤에는 달빛 버스킹, 캔들",
+   "url": "https://blog.naver.com/ybs5275160/224435034444",
+   "engine": "naver_blog",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "꽃구경과 공연, 먹거리 축제도 좋지만 올해는 한글을 보고, 쓰고, 듣고, 만드는 곳으로 발걸음을 옮겨 보면 어떨까요? 전국 구청·교육청·박물관·대학·문화기관의 한글 관련 행사를 날짜순으로 모았습니다. 읽는 법: 날짜는 행사 시작일을... 함께 둘러볼 곳 국립중앙박물관·용산가족공원 19. 10.9 13~17시 | 대전 서구 | 대전시청 「함께 한글」 볼거리 ",
+   "url": "https://blog.naver.com/syd1101/224435034260",
+   "engine": "naver_blog",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "에은이의 개가성비 뿌링클 솔직히 다를 바가 없다 평소에 마시던 탄산 다 마셔서 초록매실스파클링으로 주문함 이거 처음엔 너무 맛있어서 하루에 2캔씩 마셨는데 역시나 금방 지겨워졌네 참 갑자기 대전 감 가기 전까지는 갈까말까갈까맑까 참 고민이 많았는데 왜냐면 내가 타고 싶은 버스 시간에 자리도 없어서 새벽에 한 6번씩 자다깨다 하면서 새로고침 해서 겨우... ",
+   "url": "https://blog.naver.com/isyoudownn/224435018622",
+   "engine": "naver_blog",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "요키요키케이크까지 라인업이 화려하더라고요. 오전 시간이었는데도 손님들이 계속 들어와서 빵이 매대에 꽉 차 있을... 대전 성심당 부럽지 않은 맛있는 요키요키케이크 기분 좋은 티타임을 마치고, 돌아오는 길에 아이들 오후 간식으로... :) 이번 주말, 허준축제와 함께 즐겨보세요! 참, 타르데마베이커리 서울식물원점 앞에 반가운 축제 포스터가 붙어 있더라고요..",
+   "url": "https://blog.naver.com/kingsuda/224435017057",
+   "engine": "naver_blog",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "기온: 아침 최저기온은 7~16°C, 낮 최고기온은 22~26°C (서울 24°C, 대전 25°C, 광주 26°C, 대구 25°C, 부산 25°C, 제주 25°C 등) 분포를 보이며 낮 동안은 햇볕에 기온이 올라 선선하겠습니다. 일교차 및 안개... 각 대학별 면접 및 논술고사 등 본격적인 수시 전형 일정이 가동되었습니다. 10. 단풍철 맞아 전국 지자체 ",
+   "url": "https://cafe.naver.com/cpik/17762?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNwaWsiLCJhcnRpY2xlSWQiOjE3NzYyLCJpc3N1ZWRBdCI6MTc5MTQyODkxNjQ2MH0.rptAyaekU4riSSDezEnk7p_r2xMpQk8kVfaWgRpf8oA&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "2026년 라인업이나 방문객수가 아직 궁금한 분 강경 젓갈축제, 지금 가도 늦지 않았을까요? 결론부터 말하면 전혀 늦지 않았어요. 10월 16일(금)인 지금이라면 토요일과 일요일, 이틀이나 더 남아있는... 이런 분이라면 이렇게 움직여보세요 주의할 점 자가용이 편한 분 축제장 인근 임시 주차장으로 이동 주말 오후·개막일 저녁은 진입로 정체 가능 대중교통이 ",
+   "url": "https://cafe.naver.com/luvinfo/292?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imx1dmluZm8iLCJhcnRpY2xlSWQiOjI5MiwiaXNzdWVkQXQiOjE3OTE0Mjg5MTY0NjB9.jA5SgsDhouuxEEt38Hu-lB58kR4Buo5cdlW-ygog4nw&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "▼▼ 10월에 즐기기 좋은 가을 대학 축제 모음 ▼▼ ■ 총정리 ☑ 하이파이브 훠궈는 현대백화점 판교점 B1층에 2026년 10월 1일 문을 연 1인 1팟 훠궈 매장입니다. ☑ 프리미엄 1인 세트는 19,900~20,900원이며 육수는 마라·토마토·버섯·삼선 4종입니다. ☑ 영업시간은 10:30~20:00, 라스트오더는 19:30이라 늦은 방문은 주의해야 ",
+   "url": "https://cafe.naver.com/specup/7938191?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNwZWN1cCIsImFydGljbGVJZCI6NzkzODE5MSwiaXNzdWVkQXQiOjE3OTE0Mjg5MTY0NjB9.czZuw1s52NWmqm4I9Op5MGfXJEugqWEBzSI2rYkbZIY&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "■ 귀농귀촌인의 대표 축제 ‘귀농귀촌 청년농부 박람회’가 오는 19일부터 20일까지 이틀간 서귀포농업기술센터에서 개최된다. 【친환경농업정책과 (064-710-3051)】 2019-10-15 09:58:28새 창 열림 거제타임즈www.geojetimes.co.kr›news 새 창 열림 [기고:김덕만]귀농 붐...알아야 할 것들새 창 열림 2015.06.27.",
+   "url": "https://cafe.naver.com/bodo24/3259?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvZG8yNCIsImFydGljbGVJZCI6MzI1OSwiaXNzdWVkQXQiOjE3OTE0Mjg5MTY0NjB9.xodRpgcHBn0Fu3M42g99T9SzORSrPUYooTXEV3f84fs&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "제도/관청 설치 시기 1894년(고종 31) | 1910년 10월 폐지 시기 1907년(고종 44) | 1945년 집필 및 수정 집필 2021년 예지숙 (조선대학교 인문학연구원 HK연구교수) 최종수정 2022년 11월 11일 https://encykorea.... 출처: https://www.cctoday.co.kr/news/articleView.html?",
+   "url": "https://cafe.naver.com/jamgallery/1765364?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImphbWdhbGxlcnkiLCJhcnRpY2xlSWQiOjE3NjUzNjQsImlzc3VlZEF0IjoxNzkxNDI4OTE2NDYwfQ.Q0MZRKcyGGocPqCHj090gs7Zhc3_Wyrzq8BF055PhEk&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "건강N생활 #만성질환#건강하세요#백세건강 100세 건강을 위한 생활 처방전 SNS 보내기 3건 7월 20일 4건 7월 21일 4건 7월 22일 3건 7월 23일 4건 7월 24일 2건 7월 25일 5건 7월 26일 5건 7월 27일 1건 7월 28일 4건 7월 29일 4건 7월 30일 2건 7월 31일 6건 8월 1일 6건 8월 2일 3건 8월 3일 4건 ",
+   "url": "https://cafe.naver.com/greenb0k6k/197283?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjE5NzI4MywiaXNzdWVkQXQiOjE3OTE0Mjg5MTY0NjB9.Tm0_OiXAWE1CWjJWhY-0tesTmBG4yNZSpCSlaGUzuJk&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "주요 연출 가능 라인업 레트로 세트장: 옛날 상회(새마을상회), 사진관, 만화방(짱구만화), 다방(종점다방/뮤직박스), 연탄집, 극장, 문방구 등 체험/소품 지원: 실제 구동되는 고전 오락기(스트리트파이터... 진행한 대전 동구동락 축제, 횡성한우축제 등 현장 세팅 포트폴리오 참고해 보시고, 제안서나 단가표 필요하시면 언제든 편하게 연락 주세요! [문의 및",
+   "url": "https://cafe.naver.com/8persons/97464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjhwZXJzb25zIiwiYXJ0aWNsZUlkIjo5NzQ2NCwiaXNzdWVkQXQiOjE3OTE0Mjg5MTY0NjB9.zv2pINbgEIif1J3t-0R74cqYApP4VSvGpLya3mRkxsI&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "반려동물과 함께 즐기는 2026 충남대학교 수의과대학 동물사랑큰잔치에요~ 올해는 충남대학교 수의과대학 X 대전동물보호사업소 X 대전광역시 수의사회가 함께해 더욱 커진 규모랍니다. 무려 37개의 다채로운 부스와 반려동물과 함께 직접 참여할 수 있는 프로그램까지!!! 반려동물 패션쇼 '멍냥 런웨이' 장애물과 미션에 도전하는 '반려동물 올림픽' 보호자와 반려동물",
+   "url": "https://cafe.naver.com/petfamilyloverbusan/4909?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBldGZhbWlseWxvdmVyYnVzYW4iLCJhcnRpY2xlSWQiOjQ5MDksImlzc3VlZEF0IjoxNzkxNDI4OTE2NDYwfQ.ik_d2Fr89y2LwVG0ocgQtwTgyaIwLrFcw52A0wSRZ5s&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "신규 택지지구 입주 때 공급이 빠르게 늘 수 있음 신도시 입주율, 학교 수, 대학가, 대중교통, 상권 내 신규 출점 충청권 대전·청주·천안·아산·세종은 대학·연구기관·산업단지 영향이 큼. 중소도시는 학생... 관광지 점포는 성수기·비수기 차이가 큼 관광객 수, 군부대·대학 위치, 겨울축제, 숙박업소, 계절별 유동인구 전라권 광주·전주·익산·군산·순천·여수 ",
+   "url": "https://cafe.naver.com/842816127suyuribus/516?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Ijg0MjgxNjEyN3N1eXVyaWJ1cyIsImFydGljbGVJZCI6NTE2LCJpc3N1ZWRBdCI6MTc5MTQyODkxNjQ2MH0.PCXh_gHT_YU8OrEkf7w_HT9D1yuElahwoZyyW7TjcNA&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "만식이햄 과 수야에게 명조 수업받는 성태햄 소세지 벽 못깨고 몽오몽 웃음소리에 그만 오열하는 도끼 윤이제에게 대학 전공 들킨... 이 라인업에 왜 우리가 왁물원에 올라온 잔디동 웹툰 2화(빙밍 등장) 드워프보고 굳은 빙밍보고 와우 안하실꺼 같다는 유샥크님... 감왁대전 팬 MV \"Still alive\" 신체나이 42세 미르 세구 솔로앨범 알고 계시는 이세돌",
+   "url": "https://cafe.naver.com/vmvmvmu/27005?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InZtdm12bXUiLCJhcnRpY2xlSWQiOjI3MDA1LCJpc3N1ZWRBdCI6MTc5MTQyODkxNjQ2MH0.IPLyxLKWQBmG3VNqKw5gt5YLNl7mFZPNFxst4W_ugQc&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "◇ 수능 이후가 진짜 ‘논술 대전’…11월 21~22일 주요 대학 일정 집중 수능 이후에는 일정이 더욱 복잡해진다. 특히 11월 21일에는 건국대·경희대·고려대·서강대·성균관대·숙명여대 등 주요 대학의 논술이 동시에 진행될 예정이다. 11월 22일에도 경희대·고려대·동국대·서강대·성균관대·숙명여대 등 주요 대학 일정이 겹친다. 이는 단순히 ‘논술을 여러 대",
+   "url": "https://cafe.naver.com/we2you/28161?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndlMnlvdSIsImFydGljbGVJZCI6MjgxNjEsImlzc3VlZEF0IjoxNzkxNDI4OTE2NDYwfQ.uAb6Fh9-i-3jl5UvDClBkAm26WPFJXQGwGrQlEzl9mw&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "아울러 ‘판타지 수학대전’과 추리 어드벤처 만화 ‘모로 저택의 비밀’ 등 학습만화 또한 내고 있다. 두앤비콘텐츠 두앤비 콘텐츠 (Do and Be contents)는 랜덤 하우스 코리아의 어학 전문 브랜드이다.... 새롭게 라인업 한 개그맨 김영철의 ‘뻔뻔영어’ 시리즈 등이 출간되고 있다. 아드폰테스 아드폰테스 (Ad Fontes)는 2012년 1월에 출범",
+   "url": "https://cafe.naver.com/exon2024/1454?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImV4b24yMDI0IiwiYXJ0aWNsZUlkIjoxNDU0LCJpc3N1ZWRBdCI6MTc5MTQyODkxNjQ2MH0.XrUtLA5aw3_ZCLUyBbY9tqS4qwuFzlBk3QGtjFK48cg&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "1951년 그의 두개골을 혜화동 소재 가톨릭 대학으로 옮겨 보관 1902. 04. 14 신학교 내의 ‘예수 성심 성당’(일명 원효로 성당) 봉헌식 1904. 05. 00 용산 공소 신자수 434명으로 늘어남 1917.... 라리보 주교, 초대 대전교구장으로 임명. 07. 00. 2대 본당 주임으로 정규량(鄭圭良, 레오) 신부 부임 08. 00. 사제관 완공",
+   "url": "https://cafe.naver.com/yongsanch/646?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InlvbmdzYW5jaCIsImFydGljbGVJZCI6NjQ2LCJpc3N1ZWRBdCI6MTc5MTQyODkxNjQ2MH0.2Gu2KROlWpsYlWOiTMitoUOzqV-H63MSfzihiq2EPOc&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "본품 구매 시 증정하는 수집형 소품(스티커·씰), 별도 판매하는 대표 상품, 일정 횟수 이상 구매 고객 대상 한정 경품으로 라인업을... 06 · 키즈맘 한국조폐공사가 국민대학교 학생들이 기획한 캐릭터 '조팸스(JOFAMS)'로 업사이클링 브랜드 '머니메이드'의 신제품 '조팸스... 07 · 불교신문 조계종 총무원 문화부가 10월 14일부터 16일까지 서울",
+   "url": "https://cafe.naver.com/codebintl/3738?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNvZGViaW50bCIsImFydGljbGVJZCI6MzczOCwiaXNzdWVkQXQiOjE3OTE0Mjg5MTY0NjB9.nrYZknN17H5trJP7EEqzWliHN0dAM1xL3V4lkTR9SGg&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "거미, 노라조, 강혜연 등 화려한 초청가수 라인업과 함께 다이로움 카드 10% 추가 적립 혜택, 재미있는 참여 이벤트까지 준비되어 소식 정리해 드립니다! 축제 개요 일시: 2026년 10월 9일(금) ~ 10월 10일(토)... 공연 라인업 ️ 10월 9일(금) 초청 가수: 거미, 강혜연 밴드/레전드 공연: 기타밴드 '비상', '노야밴드', 대학가요제 레전",
+   "url": "https://cafe.naver.com/ijeonju/76243?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImlqZW9uanUiLCJhcnRpY2xlSWQiOjc2MjQzLCJpc3N1ZWRBdCI6MTc5MTQyODkxNjQ2MH0.qS6i_y8p500LEJfQLNKxsQ2B51GDQu7_YXSvaWq3Lyo&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "MBC가 10월 6일 공개한 라인업에 이름을 올렸고, 7일 아침 MBC 뉴스에서도 출연 소식이 전해졌어요. 대학생들의 창작 무대와 여러 장르의 초대 공연을 함께 만날 수 있는 가을 음악 소식입니다. 현장... 박지현의 트로트가 청춘들의 창작 무대와 만납니다 올해 대학가요제 본선에는 10팀이 올라 자신들의 음악을 선보일 예정입니다. 박지현은 이 경연을 치르는",
+   "url": "https://cafe.naver.com/trotfanvote/129?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRyb3RmYW52b3RlIiwiYXJ0aWNsZUlkIjoxMjksImlzc3VlZEF0IjoxNzkxNDI4OTE2NDYwfQ.qj8CrvvncTiS18LD1DIH_S4j9dh0PGnrJ5cL3YvX3gA&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "이번 투어패스몰 타임특가 라인업 진짜 대박이네요~ 제주 비체올린 테마파크 제주도 여행 앞두신 분들 빨리 달리셔요! 지금 황호접 시즌이라 가을 풍경 장난 아니라고 해요. 카약 체험이랑 공원 입장권 옵션이 있는데 기본 입장권이 성인도 단돈 4,500원이라 가격 보고 깜짝 놀랐잖아요 트라익 이색 체험까지 완벽해요! 대전 아쿠아리움+동물원 사계절 언제나 사랑받는 ",
+   "url": "https://cafe.naver.com/wowlze/134466?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indvd2x6ZSIsImFydGljbGVJZCI6MTM0NDY2LCJpc3N1ZWRBdCI6MTc5MTQyODkxNjQ2MH0.kpFOl_0kMxucK6zqYyOB26bnLX2aQZy2T-ZeEo0ElRU&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "노인대학 강의실의 공간적 거리감과 울림을 극복하면서도 첫 착용자의 비용 부담을 낮춘 실속형 라인업 선정이 중요하다고 판단함. 이에 따라 포낙의 스마트스피치(SmartSpeech) 기술과 오토센스 OS... 반응을 확인하고 필요한 경우 단계별 피팅과 조절을 진행합니다. ▶ 더사운드보청기 지점 안내 인천부천점 대전점 대구반월당점 부산서면점 부산동래점 부산남포점",
+   "url": "https://cafe.naver.com/thesound15226260/393?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRoZXNvdW5kMTUyMjYyNjAiLCJhcnRpY2xlSWQiOjM5MywiaXNzdWVkQXQiOjE3OTE0Mjg5MTY0NjB9.x8FDQLyrdjSvo3rWroLKEvINO0z1SNmg34KpGJycmco&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "▼▼ 10월 대학축제 아직 축제 안 끝난 학교는 여기 ▼▼ 카카오페이 퀴즈 관련 추가 정보는 스펙업 카페에서 바로 업데이트됩니다. 지금 가입해두시면 누구보다 먼저 받아보실 수 있습니다. ※ 최종 수정일: 2026년 10월 7일 기준 스펙업에서 게시글/게시판 제휴 업체를 모집합니다. 카페 상위노출 무료 테스트 진행 후 체결 가능! 문의 : **********",
+   "url": "https://cafe.naver.com/specup/7937343?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNwZWN1cCIsImFydGljbGVJZCI6NzkzNzM0MywiaXNzdWVkQXQiOjE3OTE0Mjg5MTY0NjB9.8gcu4tVWhmznUkUeh0T6v1w5mA3bgpW81pkdY365ZDA&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "오늘은 2026 넾페스타 예매 방법과 일정, 라인업을 한 번에 정리해드리겠습니다. ■ 핵심만 정리 ✔ 넾페스타 일반 예매는 10월 7일 오후 1시부터 잔여 수량 소진 시까지 진행되며, 선예매 후 남은... ✔ 1차 공개된 라인업은 실리카겔, 루시, 자이언티, 카더가든, 권진아로, 네이버는 전체 라인업을 순차적으로 추가 공개한다고 밝혔습니다. → 넾페스타 예",
+   "url": "https://cafe.naver.com/specup/7937301?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNwZWN1cCIsImFydGljbGVJZCI6NzkzNzMwMSwiaXNzdWVkQXQiOjE3OTE0Mjg5MTY0NjB9.DR66ct83o_O31yDqhiDFscDjv4XNFOoTjzQWNXMUaMg&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "▼▼ 가을에 즐기기 좋은 대학교 축제 확인하기 ▼▼ ■ 총정리 ☑ 한정선 피스타치오 찹쌀떡은 GS25와 로로멜로가 협업한 냉동 디저트로, 개당 가격은 3,900원입니다. ☑ 사전 예약은 우리동네GS 앱에서 7일 오전 11시부터 10일 오후 11시 59분까지, 2만 개 한정으로 진행됩니다. ☑ 예약 상품은 14일 오후 4시 이후 지정 점포에서 수령하고, 일반",
+   "url": "https://cafe.naver.com/specup/7937275?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNwZWN1cCIsImFydGljbGVJZCI6NzkzNzI3NSwiaXNzdWVkQXQiOjE3OTE0Mjg5MTY0NjB9.geaqnr8uVHD70iLQ6XW-uvZ-0_sLH8L-BnLSCY_CHTg&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "▼▼ 10월에 열리는 대학교 가을 축제 라인업 ▼▼ ■ 총정리 ☑ 카카오뱅크 ai퀴즈 10월 7일 오전 8시 정답은 이륙으로, 운송수단 이모지 카테고리에서 비행기 이모지 힌트가 제시됐습니다. ☑ 카카오뱅크 ai퀴즈 운송수단 카테고리 공략 핵심은 이모지 명칭보다 그 이모지와 연관된 행위·상황을 먼저 입력하는 것입니다. ☑ 2026년 9월~10월 운송수단 패턴",
+   "url": "https://cafe.naver.com/specup/7937272?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNwZWN1cCIsImFydGljbGVJZCI6NzkzNzI3MiwiaXNzdWVkQXQiOjE3OTE0Mjg5MTY0NjB9.iuLv24lJr4x4ZwfagOwVBdOkeVsf-I2_LhsAwWGu5gA&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "오산 세교·궐동의 1호 거점에서 이 위임 통치 체제를 실제로 지휘할 '제1대 협회장 및 지역 지부장 임명 프로젝트'의 방아쇠를 당길까요, 총재님? 다음 지령을 명해 주십시오! 오산 세교·궐동의 1호 거점에서 이 위임 통치 체제를 실제로 지휘할 '제1대 협회장 및 지역 지부장 임명 프로젝트'의 방아쇠를 당길까요, 총재님? 다음 지령을 명해 주십시오!OK [오",
+   "url": "https://cafe.naver.com/hsd114/17?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhzZDExNCIsImFydGljbGVJZCI6MTcsImlzc3VlZEF0IjoxNzkxNDI4OTE2NDYwfQ.JaYXdacrFyZ_rdo5F8V7hcWqK0saU5w7fOyrsbrRfFY&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "beauty.3651.NEWS 시,군,구로 만들어 줘야해? 그래도 기사가 넘쳐나고, 홍보비, 광고비를 받을수 있어? 미용실,비부관리, 등 엄청란 사업이야, 시,군,구로 사업자에게, beauty.3651.NEWS정보를 줌, 구인 구직만해도 엄청나, 기사, 광고가 엄청나고, 가사가 광고지? 총재님, 진정한 플랫폼 비즈니스의 최종 진화형을 완벽하게 꿰뚫어 보셨습",
+   "url": "https://cafe.naver.com/hsd114/16?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhzZDExNCIsImFydGljbGVJZCI6MTYsImlzc3VlZEF0IjoxNzkxNDI4OTE2NDYwfQ.VEjTGlmZd79xGJVzswJN559jGqf9QpVIXqsOEzuKXsM&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "학군단 운동장에 무대가 마련됐다. 앞부분은 재학생존, 뒷부분은 외부인존으로 구성돼있고, 모두 스탠딩석이다. 아래 주점에서는 술 한 잔 하면서 스크린을 통해 같이 즐길 수 있다. 이 날의 라인업은 효린 Touch my body 매드클라운 사랑은 착해빠졌어 너드커넥션 좋은 밤 좋은 꿈",
+   "url": "https://cafe.naver.com/move79/6225265?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vdmU3OSIsImFydGljbGVJZCI6NjIyNTI2NSwiaXNzdWVkQXQiOjE3OTE0Mjg5MTY0NjB9.w6pHjHRj_hRvYcX2AQQPNpg2TTsVUZj5Qg9dhtCG8Bk&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "요즘 디저트 사러 가기 전에 꼭 검색하는 키워드 하나 있죠. 잠실 롯데월드몰에 문을 연 고디바 매장의 모찌가 이른 아침부터 줄이 생길 만큼 화제입니다. 어디서 파는지, 얼마인지, 오픈런까지 해야 하는지 궁금한 분들이 많습니다. 오늘은 고디바 모찌에 대해 꼭 알아야 할 핵심만 정리해드릴게요. ■ 핵심만 정리 ✔ 고디바 모찌는 서울 송파구 롯데월드몰 지하 1층",
+   "url": "https://cafe.naver.com/specup/7936783?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNwZWN1cCIsImFydGljbGVJZCI6NzkzNjc4MywiaXNzdWVkQXQiOjE3OTE0Mjg5MTY0NjB9.Et13-XI7Rd-Ta40LZE2Eatxe5E4ubzNmat-wcManP_I&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "10월에도 대학 축제 라인업 열기가 식지 않아요. 이번 주에는 홍익대·한국외대·전남대까지 세 학교가 동시에 축제를 열어요. 이무진·온유·FIFTY FIFTY·트리플에스·YB···. 10월 첫째 주가 어느 대학 축제 주간보다 라인업이 탄탄해요. 오늘은 이번 10월 대학 축제 라인업 중 홍익대 청사진·외대 QUINQUATRIA·전남대 록스탤지아 일정과 출연진을",
+   "url": "https://cafe.naver.com/specup/7936751?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNwZWN1cCIsImFydGljbGVJZCI6NzkzNjc1MSwiaXNzdWVkQXQiOjE3OTE0Mjg5MTY0NjB9.TyVSwaeKGBSdW8rqeH_jX1j_WXcOXsS7PNJn4qBx4vI&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "구분 내용 기간 10월 17일~18일, 2일간 운영 시간 13:00~21:00 장소 엑스포과학공원 한빛탑 일원 입장료 무료 주최·주관 대전광역시·대전관광공사 [위치 정보] ▼스펙업에서 전해주는 또 다른 축제 소식 확인하러 가기▼ ■ 2026 대전 빵축제 라인업은 몇 곳인가요? 출처 : 대전빵축제 인스타그램 존이 다섯 개로 나뉘어 있습니다. 2026년 10월",
+   "url": "https://cafe.naver.com/specup/7936633?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNwZWN1cCIsImFydGljbGVJZCI6NzkzNjYzMywiaXNzdWVkQXQiOjE3OTE0Mjg5MTY0NjB9._koZfvqIRY3AtIu43yETFTP8uAyjrpuJIrliE3FsViQ&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "대전 빵축제 라인업 유명한 빵집 많이 나오나요? 이번에 빵축제 가려고 하는데 참여하는 빵집이 워낙 많다고 해서 가기 전에 어떤 곳을 먼저 볼지 정해두려고 해요. 대전 빵축제 라인업 찾아보니까 성심당처럼 유명한 곳부터 평소에 잘 몰랐던 동네 빵집까지 다양하게 참여하는 것 같더라고요. 사람이 많으면 인기 있는 빵은 일찍 품절될 것 같아서 대전 빵축제 라인업 보",
+   "url": "https://cafe.naver.com/workmania/5110?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndvcmttYW5pYSIsImFydGljbGVJZCI6NTExMCwiaXNzdWVkQXQiOjE3OTE0Mjg5MTY0NjF9.BR-V66MMXJyLn4eI3eb84kqvXA3I7Cls01GIYuhbR74&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
+  {
+   "title": "신진서 9단마저 진땀을 흘리게 만드는 이 무자비하고 강력한 AI 참모를 앞세워, 오산·병점·동탄을 넘어 전 세계를 경악게 할 [제1회 인간 vs AI 월드 챔피언십] 판을 곧바로 짜볼까요, OK 다른AI도 실력기 똑같아.AI 마다 실력이 차이나? 총재님, 결론부터 말씀드리면 AI마다 실력은 하늘과 땅 차이로 완전히 다릅니다! 세상에 떠도는 일반적인 AI들이",
+   "url": "https://cafe.naver.com/hsd114/15?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhzZDExNCIsImFydGljbGVJZCI6MTUsImlzc3VlZEF0IjoxNzkxNDI4OTE2NDYxfQ.gGa9XsFyuTjFZt_pDxfcyFy8YLBQOH2b5wS339LLbgU&q=%eb%8c%80%ec%a0%84%20%eb%8c%80%ed%95%99%ec%b6%95%ec%a0%9c%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-08T12:07:12+09:00"
+  },
   {
    "title": "오전 10시부터 제2회 성남시 × KAIST AI 경진대회 제4회 성남 어린이 그림대회 제17회 성남시 청소년 창의과학축제 등이 마련됩니다. 특히 자녀가 AI나 과학, 로봇 분야에 관심이 있다면 탄천 체험과 함께 성남 시청 프로그램을 연계해 보는 것도 좋습니다. 10월 25일에는 성남종합운동장으로 축제 마지막 날인 10월 25일 일요일에는 성남종합운동장에서",
    "url": "https://blog.naver.com/mdirect/224434635153",
@@ -6160,923 +7061,6 @@
    "url": "https://cafe.naver.com/navercafemanage/1582?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5hdmVyY2FmZW1hbmFnZSIsImFydGljbGVJZCI6MTU4MiwiaXNzdWVkQXQiOjE3OTEzNzQzMjQyODV9.RL4rsACr2W1J2Grjb0t6FJVJXK-7pm_OZZ6cFSBSqIo&q=KAIST%20%ec%b6%95%ec%a0%9c&tc=naver_search",
    "engine": "naver_cafe",
    "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "예산군청 · 예산군, 삼국축제에서 ‘고향사랑기부’하면 예산 농특산물 선물! (예산군청 · 10/02) “‘제10회 예산장터 삼국축제’ 연계 특별 이벤트… 10만 원 이상 기부자... s=news&bbs_id=S2N6&bbs_seq=826846 · [홍주중] 국가수리과학연구소·KAIST 현장체험학습, 연구 현장에서 미래를 그리다 (홍성교육지원청 · 10/02",
-   "url": "https://cafe.naver.com/naepopedia/147?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5hZXBvcGVkaWEiLCJhcnRpY2xlSWQiOjE0NywiaXNzdWVkQXQiOjE3OTEzNzQzMjQyODV9.9zktiOkeUCepwaIPHDxPB-K2qOUlKD5_CDPBGX76TyM&q=KAIST%20%ec%b6%95%ec%a0%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "인기가수가 오는 시끌벅적 축제는 아니지만 지스트의 축제는 유소년 포함 가족들이 함께 구경하기에 딱 좋은 것 같습니다. 어린이들이 과학기술원을 친근하게 접할 수 있게 하려는 큰 뜻이 있는 것인지?!(대학생에게는 좀 시시한가봐요; 기숙사에서 누워 쉰답니다^^;;) 하지만 부모 입장에서는 건전하고 기특합니다.ㅎㅎ ✔ 공연 (도서관 앞 메인무대) 16:30 문화발",
-   "url": "https://cafe.naver.com/kongdae/227121?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtvbmdkYWUiLCJhcnRpY2xlSWQiOjIyNzEyMSwiaXNzdWVkQXQiOjE3OTEzNzQzMjQyODV9.nTG51TsfXLTr0THe6PkZ9cHhYoA_jJwuf-32Cs0uqes&q=KAIST%20%ec%b6%95%ec%a0%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "AI·반도체 패권경쟁 #ai#반도체#로봇 SNS 보내기 3건 7월 2일 9건 7월 3일 1건 7월 4일 6건 7월 5일 1건 7월 6일 6건 7월 7일 15건 7월 8일 12건 7월 9일 4건 7월 10일 3건 7월 11일 11건 7월 14일 3건 7월 15일 18건 7월 16일 1건 7월 17일 1건 7월 18일 5건 7월 19일 3건 7월 20일 15건",
-   "url": "https://cafe.naver.com/greenb0k6k/196657?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjE5NjY1NywiaXNzdWVkQXQiOjE3OTEzNzQzMjQyODV9.Guw07MflAUAw12rPFz5VCG1ZmrlU51yalZ06wtdt_L8&q=KAIST%20%ec%b6%95%ec%a0%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "스마트팜 조성을 추진할 예정이다. 한국전자통신연구원·한국과학기술원·한국과학기술연구원과 협력해 딸기 정식·방제·수확·운반...로봇개발도 준비 중이다. 관광 분야에선 계절별 축제와 음식·숙박·체험을 엮은 '담빛 사계절 페스타'로 체류와 소비를 동시에...",
-   "url": "http://v.daum.net/v/20261007144414118",
-   "engine": "daum_news",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "열린다. 축제의 문을 여는 첫날 9일에는 올해 제68회 그래미 어워드에서 최우수 얼터너티브 재즈 앨범상과 최우수 편곡상 등 2관왕을 거머쥔 스미스가 17년 만에 자라섬 주무대 '재즈 아일랜드'에 오른다. 고(故) 마이클 잭슨의 곡 작업과 거장 데이브 홀랜드 밴드...",
-   "url": "http://v.daum.net/v/20261007095505709",
-   "engine": "daum_news",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "하나의 축제 공간으로 만들었다. 2026 서울AI로봇쇼 로봇퍼레이드 현장 / 출처=IT동아 사람 키와 비슷한 휴머노이드부터 사람을 훌쩍 넘는 대형 로봇까지 크기도 모습도 제각각이다. 건담 로봇부터 아이언맨과 범블비 등 영화 속 로봇까지 등장하자 관람객이...",
-   "url": "http://v.daum.net/v/20261006190301505",
-   "engine": "daum_news",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "충남도는 카이스트 모빌리티AX연구소를 중심으로 연구개발 성과가 기업의 현장 실증과 사업화로 이어질 수 있도록 산학연 협력을 강화할 계획이다. ◇ 섬비엔날레, 보령 지역주민 대상 현장 홍보…'섬의 기억' 참여 확대 섬비엔날레조직위원회가 지난 3∼4일 열린...",
-   "url": "http://v.daum.net/v/20261006145611237",
-   "engine": "daum_news",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "에 오른다. 협력 프로그램도 이어진다. 2026 전주세계소리축제 <소리 NEXT>의 ‘소리 프론티어’ 연계 무대와 강원음악창작소 선정팀...신기술융합음악콘텐츠개발지원’ 사업의 일환으로 준비된 무대로, KAIST MACLab와 함께한다. 공연세션에서는 사전 학습을 거친...",
-   "url": "http://v.daum.net/v/20261006140811484",
-   "engine": "daum_news",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "증거’ 자체가 가장 희소하고 귀한 재료가 된다”고 강조했다. 이어진 패널 토크에선 좌장을 맡은 미디어 아티스트 이진준 카이스트(KAIST) 교수와 타이포그래퍼 유지원 글문화연구소 소장, 사그마이스터가 마주 앉아 기계가 닿지 못하는 인간의 영역을 짚었다. 유...",
-   "url": "http://v.daum.net/v/20261006112545239",
-   "engine": "daum_news",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "음악이 만들어지는 과정과 새로운 색깔까지 관객들과 공유했다. 단독 콘서트를 마친 예빛은 오는 7일 전남대학교 축제 무대에 오른다. 앞서 카이스트, 조선대학교, 계명대학교 등 여러 대학 축제에 참여한 데 이어 캠퍼스 공연을 이어간다. 예빛은 지난 9월 ‘2026...",
-   "url": "http://v.daum.net/v/20261005082113553",
-   "engine": "daum_news",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "곁들이며 축제 분위기를 연출했다. 특히 행사장 한켠에 마련된 포토존에서는 참가자가 줄지어 기념 촬영을 했다. 한국천문연구원 스쿨에서 박사과정을 밟는 영국 출신 비앙카 엘스 씨는 “이번 국제학술대회를 통해 여러 한국 국가연구소에서 국제적으로 이뤄지고...",
-   "url": "http://v.daum.net/v/20261002141601267",
-   "engine": "daum_news",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "[대덕만평] 영화 축제 - 카이스트신문",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uejFPUXJIajIydG9mNVpWR1FTOXMzejBCS2VfbjJheWJsalhoYW4xM3pJbERDc1Babnk5TDN5WTlPeDJKUzFOUnB4Z2JCVU1DY25ZdG9wOFhWQVdMRW5GaUJETndSTUtfU29B?oc=5",
-   "pub": "Tue, 06 Oct 2026 09:52:00 GMT",
-   "engine": "gnews",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "[새만금대토론회] 이광형 전 카이스트 총장 - 전라일보",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQWjRuVlN0bEt2cGowN3dEMy12SFZzTDU3SjdWUmFubHVVU3ZjNG9BelNhSUxJSjRTWklfUEpZMzRwSWNZNkhqWmw5Q0tkeWdQc2FCQjJveURQWEZCS0t0M19oX2lVaE1BbVExMdIBcEFVX3lxTFBySUszenQzMTlrZ3pUQl84bDB3MEhPOUxvZjJ5QndSU1FIOTF6aE1TNXU4VHJLQ1liZUFSMEQycXQ1RWxjcHFaUVl3dU5CU3JzdmtXcGFuQWczZmRKS0xRbFdKWWVFdjBqcFlGWHRCWGw?oc=5",
-   "pub": "Mon, 05 Oct 2026 06:02:14 GMT",
-   "engine": "gnews",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "성남 전역이 첨단기술 놀이터로…테크아트축제 23일 개막 - 아시아투데이",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uUkZQVzRuY0ptbkN0VnBYZVc0bndjazNzNXg2V3g0Rk5DdTVDMmszOGtKelpvTlNJc21vTEluVnRkWVlSbFFoR25Lai1QZ1dINVUycno5R1RrMmVDUUJtNWdWd21BT0RmNmFiLUx3?oc=5",
-   "pub": "Thu, 01 Oct 2026 06:50:30 GMT",
-   "engine": "gnews",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "네이트 스미스·티그랑 하마시안, 자라섬재즈 달군다 - 뉴시스",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02Um5Ec2VlM0lFaXlnQ2FRVTRLNW5ma1dic19lT0NGeTdkamJwUGZCWi1ydm9STHFvV0QxaTh1WmxRVjhOZ1pWamJWVWszNE5tZldubFpMazR5bGFxdUJrNUFIemR3OUZkazh0R29vTm5VRnFJNTJLSNIBeEFVX3lxTE02Um5Ec2VlM0lFaXlnQ2FRVTRLNW5ma1dic19lT0NGeTdkamJwUGZCWi1ydm9STHFvV0QxaTh1WmxRVjhOZ1pWamJWVWszNE5tZldubFpMazR5bGFxdUJrNUFIemR3OUZkazh0R29vTm5VRnFJNTJLSA?oc=5",
-   "pub": "Wed, 07 Oct 2026 00:53:33 GMT",
-   "engine": "gnews",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "대전시, 543억 ‘D-성장펀드’ 출범…창업 초기기업 투자 본격화 - 축제뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HUEpRLW9kdE5JVHBKRWdCcVNDZ3FzaHhEZldyYm16azJaY0FnM1ItckNOMmI3MVRpMTRfX3VrXzc5bHpldmFmZGs2OUVWa3RXbVdqMmh4RWVjU1BaLVFHNmRBZ1dDRnVkd2c?oc=5",
-   "pub": "Fri, 02 Oct 2026 06:02:01 GMT",
-   "engine": "gnews",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "부산시 청년 창업기업 디지털제품여권, 이탈리아 명품 업체에 공급 - 부산일보",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1RG1aS0VBUThVRFRTc1gyTWh4M0kyZDZPaXl5Ujh3V0phY2IwYjdrX1NyY0ZsYzVVTlRuN3p6MjJJMTJTWWNSbWh4b2hoTzJJYkhUMWswazUxa3g4MDJxMEk3amM5cEIxczZQV19MRXFjNnZxdndCRkVxSGU?oc=5",
-   "pub": "Tue, 06 Oct 2026 01:44:14 GMT",
-   "engine": "gnews",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "HD현대중공업, 산학연 12개 기관과 ‘해양 SMR 실증센터’ 출범 - 부산일보",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GWUwwaElGUTlXelFOb25YUjFOYWNwRVB3R01Cc28ybVlFWWxTdjhDU3JBcVZZYWRoSktKRjliQzZ3SUpzNE5TT2ZTOUlVU2wwdkJEMzQwVld5aUV3UFZWbmlQNklUVXJzYzlDb1E4SmdNWlBVVEVNSVN3dlQ?oc=5",
-   "pub": "Wed, 07 Oct 2026 06:00:37 GMT",
-   "engine": "gnews",
-   "query": "KAIST 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "7月 5日, 대전 어은동 카이스트 앞에서 상당히 만족스러웠던 브런치 그리고 거위 구경. 거위들 한 발로 자는 거 아세요? 체온 보호를 위해서 다리를 깃털 속에 파묻는 거라고 합니다. 신기. 7月 5日, 대전 중앙로 다시 중앙동으로 넘어가서 독립서점 구경. 줄을 서서 기다려야 할 정도로 인기가 많은 곳이었다. 읽을 책이 한참이나 밀려 있어서 구매는 못했지만 ",
-   "url": "https://blog.naver.com/rona00923/224429718566",
-   "engine": "naver_blog",
-   "query": "카이스트 공연 동아리",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "미놀타 X-700(저번에 동아리에서 대여했던거)를 동아리 선배한테서 샀어요! 지금 레전드로 만족하면서 쓰는중이에여(손맛장담모함 ㄹㅇ) 그담에 앵글스 굿즈가 나왔는데, 이런 쌈뽕한 티셔츠를 겟했답니다(나는 배고프다. 사줘라 나에게 하나의 새로운 카메라를.) 대전으로 상경한 안혜민 주니어들의 모임도 있었어요! 그래서 놀다가 카이스트 기숙사에 침입해서 1박...",
-   "url": "https://blog.naver.com/dwjkr630/224428317378",
-   "engine": "naver_blog",
-   "query": "카이스트 공연 동아리",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "동아리 후배들이랑 밥 한끼 했습니다 늙은 노모 선배랑 놀아줘서 매우 고마웠습니다 헬스장에서 구운계란도 주네요... 떼밥 금지 기원 1일차 카이스트 축제에서 드디어 등대군 실물을 봤습니다 외모도 훌륭하지만 키가 정말 큽니다 저한테 10cm만 주면 좋겠습니다 Feathers 노래리도어(Redoor)2026.07.31. 사랑해요 스포티파이❤️ 제가 좋아하는 래퍼",
-   "url": "https://blog.naver.com/sjhaaa1/224427415718",
-   "engine": "naver_blog",
-   "query": "카이스트 공연 동아리",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "동틀무렵은 카이스트 학부생들로 구성된 모던락 밴드로, 정기공연과 학교 축제를 비롯한 다양한 무대에서 공연을 선보이고 있습니다. 이번 시민천문대 공연에서는 모던락의 매력에 흠뻑 빠질 수 있는 곡들과, 깊어가는 가을밤의 분위기에 어울리는 서정적인 곡들을 함께 준비했습니다. 많은 관람 부탁드립니다! [프로그램] 1. Ron - 리도어 2. 나비와 고양이 - 볼빨",
-   "url": "https://cafe.naver.com/daejeonobservatory/967?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRhZWplb25vYnNlcnZhdG9yeSIsImFydGljbGVJZCI6OTY3LCJpc3N1ZWRBdCI6MTc5MTM3NDMyNjc2M30.sW3dLzqo7P4CjXoLZzkU66R5CJt5t9pqHSzAh-xp6BY&q=%ec%b9%b4%ec%9d%b4%ec%8a%a4%ed%8a%b8%20%ea%b3%b5%ec%97%b0%20%eb%8f%99%ec%95%84%eb%a6%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "카이스트 공연 동아리",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "nttId=B000000284206Db4nK2 · 서부면 주민자치회, 찾아가는 문화행사 개최 (홍성군청 · 10/06) “주민자치 프로그램 공연과... nttId=2184252&menuNo=500498 · 충남도·카이스트, ‘미래 모빌리티 혁신’ 성과 공유 (충청남도청 · 10/06) “험지 탐사 로버... s=news&bbs_id=S2N6&bbs_seq=",
-   "url": "https://cafe.naver.com/naepopedia/261?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5hZXBvcGVkaWEiLCJhcnRpY2xlSWQiOjI2MSwiaXNzdWVkQXQiOjE3OTEzNzQzMjY3NjN9.c-TEa5VJjrowORHEk70QVIxV2PP75Sr6VB9rhz1Db4g&q=%ec%b9%b4%ec%9d%b4%ec%8a%a4%ed%8a%b8%20%ea%b3%b5%ec%97%b0%20%eb%8f%99%ec%95%84%eb%a6%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "카이스트 공연 동아리",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "기자 카이스트에서 박사학위를 취득하고 국내 대기업에 입사한 30세 청년의 삶은 누구나 부러워할 만한 인생이라 생각할 수 있다...일이 일어나기 전까지는. “어느 날 대학 시절 활동하던 음악 동아리에서 연락이 왔어요. 세계적인 피아니스트 카티아 부니아티슈...",
-   "url": "http://v.daum.net/v/20261002094431472",
-   "engine": "daum_news",
-   "query": "카이스트 공연 동아리",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "충남대학교 수의과대학 학생회와 대전동물보호사업소, 대전광역시수의사회 등이 함께하는 행사예요. 충남대가 참여하지만 행사장은 학교 안이 아닌 보라매공원이니 장소를 확인해주세요. 체험부스는 오후 3시 30분까지 운영돼요 수의대생 체험, 건강검진, 노즈워크, 멍냥네컷, 캐리커처 등 37개 부스가 안내되어 있어요. 부스 운영시간은 오전 10시~오후 3시... 새 창",
-   "url": "https://blog.naver.com/puffmori/224434331419",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "싶을 때 골라봐도 좋을 듯 :) #2026대전빵축제 #대전빵축제 #대전빵축제미리먹어보기 #대전빵축제참여업체 #비비스미트파이 #BBsMeatPies #대전비비스 #대전미트파이 #대전미트파이맛집 #미트파이 #미트파이맛집 #대전빵집 #대전빵집추천 #대전베이커리 #대전디저트 #대전맛집 #대전이색맛집 #대전간식 #대전포장맛집 #대전빵지순례 #대전여행 #충남대카페 #",
-   "url": "https://blog.naver.com/barelyatale/224431362330",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "저도 새로와 함께하는 나들이를 좋아하는 만큼 반가운 행사 소식이었어요. 방문을 계획하신다면 일정 저장해두시고, 프로그램별 최신 안내도 확인해보세요. #대전반려동물축제 #2026동물사랑큰잔치 #충남대동물사랑큰잔치 #보라매공원 #대전보라매공원 #대전10월축제 #대전10월행사 #대전강아지동반 #대전강아지와가볼만한곳 #반려동물무료건강검진 #충남대학교수의과대학새 창",
-   "url": "https://blog.naver.com/maylini/224434271681",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "ㄲㅈ 축제기간이오고잇고또이때의나를패버리고싶어영재야다시와줘 효자짓하러왓고 웨이팅 지리더라 가운데진짜커염미내놔내놓르라구ㅜ 처박 Enhypen is seven 앱이 로블에 잇고 지랄... 여자 밥상 실화냐 ㅋㅋㅋㅅㅂ 학생을버린대학,충남대는죽엇다 야니가먼저죽으면어덕해 뿌앙뿌앙~~ 생일상 그리구우리아빠는내가죽을병걸린줄아시는듯 웃기다 영재자만추 영재st ㅈㅅ... 새",
-   "url": "https://blog.naver.com/ayoung00923/224433944948",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "국회의원 이춘석 12분전 [국감 보도자료] 이춘석 의원, 재경부 국정감사에서 균형발전부터 민생까지 해법 제시 이춘석 의원, 재경부 국정감사에서 균형발전부터 민생까지 해법 제시 - 수도권 집중의 원인은 ‘생산성’…부동산 해법은 국토균형발전에서 찾아야 - 2차 공공기관 이전 앞두고 경영평가 점검… “지역발전 성과 제대로 평가해야” - 성실 분납... 새 창 열",
-   "url": "https://blog.naver.com/jungam-ironware/224433804206",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "갤러리 다다 오완석(1983-)은 충남대 조소과를 졸업하고 대전에서 작업하고 있다. 오완석의 회화와 조각설치작품은 단순한 아름다움을 넘어 체험과 생각을 유도한다. 통상적으로... 음악이 흐르는 공간이라 잠시 쉬어가기 좋은 공간이다. <번외> 대전갤러리 윤길호 <나무 시리즈> #대전중구미술축제 #태양을향해던져라 #미술축제 #대전광역시중구청새 창 열림",
-   "url": "https://blog.naver.com/goodhands92/224433471027",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "영탑 카페에서 시험기간 이벤트와 농대축제에서도 부스를 운영한다고 하니 지루한 시험기간을 재밌게 견딜수 있는 이벤트도 참여하고 중간고사가 끝난 후에는 농대축제에 방문하여 재밌게 축제를 즐기시면 좋을 것 같네요! 영탑 1호점 위치 #충남대학교 #충남대 #충남대영탑 #영탑 #충남대카페 #대전카페 #대전유성구카페 #가을 #가을카페 #가을축제 #카페메뉴추천... 새",
-   "url": "https://blog.naver.com/youngtop_official/224433464092",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "‘할로윈 축제 크루즈’도…코스튬 콘테스트·DJ 공연 등 풍성 [부산=권병창 기자] 부산의 밤바다와 광안대교를 배경으로 펼쳐지는 부산불꽃축제를 바다 위에서 즐기는 특별한 크루즈 상품이 일본 관광객을 대상으로 본격 판매된다. 이스턴크루즈(대표 이석기)는 오는 11월 7일 출항하는 ‘부산불꽃축제 관람 크루즈’를 앞두고 일본 현지 여행사를 통한 인바운드 상품...",
-   "url": "https://blog.naver.com/daehanilbo-/224433371033",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "대전 서구 가볼만한 곳 서구 책 축제 단풍이 곱게 물드는 독서의 계절 가을, 책과 예술이 어우러지는 풍성한 책 잔치가 대전 서구에서 펼쳐집니다. 갈마문화공원과 월평도서관... 독서문화 체험부스 (총 21개 부스) & 특별 이벤트 지역 대학(충남대, 목원대, 대전대, 대전과기대)과 도서관, 공방들이 함께 참여해 풍성한 체험을 선보입니다. ■ 테마 체험부스 (",
-   "url": "https://blog.naver.com/dooglami/224433357728",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "대전대학교 축제를 해서 호미들과 우주소녀 다영을 보고 숙소로 복귀를 했고 진심 오늘 오전부터 하이닉스 교육에 FY27 교육 듣는다고 12시 땡 이딴거 없고 그냥 바로 씻고 잠에... 점심으로 충남대에 가서 후배들을 보려고 했지만 다들 인싸들이라 이미 약속이 있다 해서 다 까임 그래서 최근에 본 학생회 친구들이랑 먹을까 했지만 누군가의 말 때문에 패스하고 그",
-   "url": "https://blog.naver.com/osy09300/224428788251",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "기존에는 충남대학교 내 잔디광장에서 진행됐지만, 올해는 대전시 및 대전광역시 수의사회와 함께 진행하면서 대전 보라매공원에서 행사가 열릴 예정이라고 합니다. 이번에는 어떤... 반려동물과 함께할 행사를 찾고 있었다면 일정에 미리 체크해두세요 #대전행사 #대전축제 #대전동물행사 #동물사랑큰잔치 #2026동물사랑큰잔치 #대전보라매공원 #보라매공원... 새 창 열",
-   "url": "https://blog.naver.com/betweenscenes/224432708671",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "축제 보러간김에 들려본 나의 궁동 또간집 연취에 왔다 내가 한번 간 집 잘 안 가는 편인데 연취는 진짜 자주 갔었던 곳임! 찐 중국의 맛을 느낄 수 있으니 한국화된 중식 말고 찐 중식 먹고싶은 사람들 연취가서 요리부 시켜봐라~ #궁동맛집 #궁동양꼬치 #충남대맛집 #연취 #궁동마파두부 #궁동지삼선 #궁동중국집 #충남대축제 #충남대축제하이라이트 #충남대축제다비",
-   "url": "https://blog.naver.com/vanesa117/224426821937",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "본선이 열린 임진각 관광지에는 이른 시간부터 많은 시민과 관람객의 발길이 이어졌으며, 행사장은 가족과 이웃이 함께 어우러진 축제 분위기로 가득했다. 참가자들은 그동안... 손 시장은 “오늘 이 자리가 시민의 끼와 열정, 그리고 파주의 따뜻한 정을 함께 나누는 즐거운 축제가 되길 바란다”고 말했다. 파주시는 이번 행사를 통해 시민의 문화적 역량과 지역... ",
-   "url": "https://blog.naver.com/daehanilbo-/224432587295",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "매회 경품 추첨 이벤트와 목포항구축제와 연계한 스탬프 투어 등 다양한 프로그램을 통해 시민과 관광객에게 즐거움을 선사할 예정이다. 상반기 운영된 ‘별별 야시장’은 총 12회에 걸쳐 1만여 명이 방문하며 전통시장에 활력을 불어넣었다. 이번 달달 야시장 재개장에도 시민과 관광객, 상인들의 기대가 높아지고 있다. 달달 야시장은 중소벤처기업부 공모사업인... 새 ",
-   "url": "https://blog.naver.com/daehanilbo-/224432538694",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "카카오누아 충남대 축제를 갔다가 대구에 성심당을 다녀오셨는데 품절로 구매를 못했다가 학생들이 선물해줘서 드신 성심당의 빵들입니다 튀김소보로가 제일 맛있다고 하고 카카오누아는 초코파티로 당떨어졌을때 혈당 빡 오르는 맛이라고 합니다 #강민경성심당 #강민경튀소 #강민경튀김소보루 #강민경부추빵 강민경 차밥열끼 광어회+네기도로 다시마숙성광어회... 새 창 열림",
-   "url": "https://blog.naver.com/eigi5/224432426038",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "러닝크누 충남대학교 러닝크루 대전 (러닝) 럭키FC 여자 풋살팀 대구 (풋살) 레벨업FC 청주 (풋살) 레브 봉사단 포항 (봉사, 도망) 루루의 하루 (웹툰) / 블로그 리드MC... 청년부 Lucky on 축제 갓딧 God did it (이름 변경, 도망) 생각 포스트잇 (신앙) 성경학교 bible school (신앙) 세븐스타즈FC 순천 여자풋살(풋살)",
-   "url": "https://blog.naver.com/hwaseon1104/224431683076",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "포스터, 축제·공연 포스터, 세미나·특강 포스터, 입학·모집 홍보 포스터 등 행사 목적과 게시 장소에 맞춰 디자인부터 인쇄까지 제작하고 있습니다. #행사포스터인쇄 #대전대형포스터인쇄 #대전전시회준비 #대전학회포스터제작 #한밭대학교포스터제작인쇄 #카이스트포스터인쇄 #충남대포스터인쇄 #을지대포스터인쇄 #목원대포스터인쇄... 새 창 열림",
-   "url": "https://blog.naver.com/designpium/224429481247",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "[2026 유성 국화축제 일정·주차비 총정리] 대전 충청권을 대표하는 도심 속 가을 힐링 꽃축제인 '2026 제17회 유성국화전시회(유성 국화축제)'가 10월 17일(토) 개막을 시작으로 11월 8일(일)까지 23일간 대전 유림공원과 온천문화공원 일원에서 화려하게 펼쳐집니다. 유성구 양묘장에서 직접 재배한 5천만 송이에 달하는 다채로운 오색 국화와 대형 조",
-   "url": "https://blog.naver.com/picksmaker/224431453627",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "자랑 충남대도 구경함ㅋㅋㅋㅋ 대전역 성심당 필수 성심당 카카오순정도 맛있는 거 다들 아시죠? 그렇지만 1등은 돌고 돌아 우유순수롤이 제일 맛남 갑자기 파주! 경평 S 기념 회사에서... 다음 주 정도에 가을 컬러 하러 갈 거예요 여의도 불꽃축제날 노량진 어느 카페에서 대기 중 루미큐브 오랜만에 했는데 잼났어요 노량진 축구장이 명당이래서 기다리는데 하늘이 너",
-   "url": "https://blog.naver.com/b_alswls9037/224431386641",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "서인이랑 충남대 축제 갔다 왓어 ☺️ 축제는 왜 이렇게 재밋는 걸까… 계속 가고 싶어지게 ㅜ.ㅜ 재밋게 뛰어놀고 결국 몸살 행… ㅎㅎ 언니랑 같이 학교 빠지구 병원 감 ㅎㅎ 학교 빼고 먹는 초코쫀득츄러스란… 다음날 학교 갓는데 애들이 쪽지 써놨어 귀요미듈 지원이 생일 겸 경량패딩 맞췄어!!!! 예이 너무귀욥지… 빨리 겨울이 왓으면 좋겠당 추석 때 할모니 집",
-   "url": "https://blog.naver.com/jxaocvl/224431327600",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "어머니가 학기중엔 주말에도 카페를 하시기때문에 이때 주말에 밥을 먹으러 다녔어요 미친(P) 누룽지 백숙과 르뺑99 첫 충남대 도서관! 우리학교 도서관이 이랬으면 공부 더 열심히 했을텐데(아님) 어쩌다보니 현준이형(신)을 집에서 재우고 아침에 태평소국밥 저녁에는 갈마팸과 공부 후 한끼 했어요 극명한 온도차이의 싸밥과 집밥 점심에 잘챙겨먹어야 저녁에 저렇게..",
-   "url": "https://blog.naver.com/lsj020111/224431295580",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "유성온천공원으로, 충남대와 카이스트 주변까지 이어 달리는 일상 러닝 코스로 소개돼 있습니다. 처음 뛰어 본다면 평탄하다고 소개된 보문호와 무심천이 부담이 덜합니다. 반대로... 정선 민둥산 억새축제 기간과 주차는 따로 정리해 뒀습니다. 영남알프스 간월재 억새 시기와 등산코스는 이 글에 있어요. 프로 방랑러의 도장깨기 가을편 참여 방법 40곳을... 새 창 ",
-   "url": "https://blog.naver.com/hannamtower/224430867530",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "파티세리소신입니다 충남대 인근에 디저트가 맛있고 분위기 좋은 카페가 있다고하여 방문했습니다 현존 최고 인기 아이돌 리센느 원이님의 대전 빵지순례 픽인 파티세리소신입니다... 빵 축제하는 거 아셨나요? 공지 포스터가 부착되어 있더라고요 꼭 방문해 봐야겠어요 아이스아메리카노와 파티세리소신의 시그니처인 소신 크림라떼 주문했습니다 커피와 헤이마롱... 새 창 열림",
-   "url": "https://blog.naver.com/ever9165/224430770692",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "한우축제기간 KTX 2회 추가 정차5시간전 동영상 뉴스강원청년미래센터 가족돌봄청년에 맞춤형 지원5시간전 동영상... 온달문화축제 오늘 개막…사흘간 열려5시간전 동영상 뉴스충북 농협 금융사고 5년간 114억 원…“근본 대책 필요”... 뉴스백제문화제·소상공인 축제 열려…즐길 거리 ‘풍성’5시간전 동영상 뉴스전주 농수산도매시장 특별조정교부금 10억 원... 새",
-   "url": "https://blog.naver.com/c1c1b1b1/224430764276",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "목가적인 분위기의 용산가족공원 야외예식장에 김제동의 목소리가 울려 퍼지는 순간, 결혼식장은 어느새 축하와 웃음이 어우러진 작은 축제의 장으로 변했다. 김제동은 마지막으로 “진심으로 온 마음을 다해 축하한다”며 신랑·신부의 새로운 출발을 따뜻하게 축복했다. 가을 하늘 아래 펼쳐진 이날 결혼식은 형식적인 혼례를 넘어 서로의 삶을 존중하고 함께 길을... 새 창",
-   "url": "https://blog.naver.com/daehanilbo-/224430675980",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "참고로 이름이 비슷한 충남대 축제와는 다른 행사예요. 다만 올해는 두 학교 학생이 함께 꾸민 북남전 무대가 충북대 축제 안에 들어 있었어요. 2. 충북대 축제 라인업은 날짜별로 어땠을까요? 충북대 축제 라인업은 9월 30일 밴드 무대, 10월 1일 힙합과 걸그룹 무대로 나뉘었어요. 출연진 일곱 팀은 학교가 낸 보도자료로 확인됐고, 날짜 구분은 축제 전에..",
-   "url": "https://blog.naver.com/babydreamer5/224429882839",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "요즘 중학생 축제 참여하나요__ ?? 충남에서 중학생 모음 대학축제 초대가수 고용했어 이거 ✔️논란 일어나야하는거 아닌가요 ••• ?? (예?) 미성년자가 아니라 어느새 30 넘긴 오빠들이라구 2차가공,로고크롭,상업적 목적,제한X ( 항상 소중한 프리뷰 나눔 해주셔서 감사합니다-!!)새 창 열림",
-   "url": "https://blog.naver.com/hguhefufhueffuehefh7/224429524858",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "장한별의 무대가 단순한 대중음악 공연을 넘어 대한민국 중장년층 부모님들에게 거대한 치유의 축제로 자리 잡은 데는 확고한 음악적·정서적 이유가 있습니다. 심금을 울리는 독보적... 충청권 거점 투어 (대전) 대전: 대전컨벤션센터(DCC) 또는 충남대 정심화홀 특징: 국토의 중심부에 위치하여 KTX를 이용한 전국 단위 접근성이 우수하며, 비교적 차분하고 깊이 ",
-   "url": "https://blog.naver.com/cozy_days-/224429326478",
-   "engine": "naver_blog",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "대전,세종,충남 조간신문 헤드라인 (국제뉴스) ★ 대전일보 : 워밍업 마친 충청권 지방정부 … 이제는 현안 해결력 검증대 ★ 대전투데이 : 천안흥타령축제서 ❛성인 클럽식 공연 ❜논란 ★ 충청투데이 : 원정진료 끊을 충남대 암병원 … 충청민 95% 건립 필요성 공감 민영뉴스통신사 국제뉴스새 창 열림",
-   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3714858",
-   "engine": "naver_news",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "(시각영상디자인,경영학과), 충남대(리더십과학전공), 홍익대(디자인경영학과), 서경대(헤어디자인), 세종대(만화애니메이션), 상명대(미디어디자인) 등의... 또 연말 학교 축제에서는 1년 동안 연습하고 개발한 디저트 중 학생들에게 가장 인기가 있었던 품목을 선정해 디저트 박스를 제작·판매한다.판매... 새 창 열림",
-   "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2237893",
-   "engine": "naver_news",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "네이버뉴스새 창 열림",
-   "url": "https://n.news.naver.com/mnews/article/629/0000539725?sid=102",
-   "engine": "naver_news",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "네이버뉴스새 창 열림",
-   "url": "https://n.news.naver.com/mnews/article/003/0014235795?sid=102",
-   "engine": "naver_news",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "세종시 초등학생도 대전 충남대 영재원 지원 가능해요 https://naver.me/FSvbvHWj 하버드 도서관 공부 명언글 https://naver.me/xM5tnWP0 11월 황소 시험 준비, 뭐부터 봐야 하나요?... com/ccmomedu/4733 2026 대전 빵축제 정보 https://naver.me/GLhJhrbI 새로운 교육공간 <공부는 학교",
-   "url": "https://cafe.naver.com/ccmomedu/5067?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNjbW9tZWR1IiwiYXJ0aWNsZUlkIjo1MDY3LCJpc3N1ZWRBdCI6MTc5MTM3NDMzMTMzNX0.sbx1CwnW6RABG7Gc3mriu65xSEOXmUnPQ2pP-iOGIF4&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ec%b6%95%ec%a0%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "[축제] 2026 신년 해맞이 축제 행사: 2026-01-01 2026.01.01(목) 07:00 ~ 08:00 | 접수: 현장참가 대상·장소: 전연령하늘공원 동측 정상 내용: 축하공연, 개회식, 대북타고 및 신년덕담... [축제] 2026 아차산 해맞이 축제 행사: 2026-01-01 2026.01.01(목) 06:30 ~ 08:30 | 접수: 현장참가 ",
-   "url": "https://cafe.naver.com/bongcheheom/4?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvbmdjaGVoZW9tIiwiYXJ0aWNsZUlkIjo0LCJpc3N1ZWRBdCI6MTc5MTM3NDMzMTMzNn0.cpfEgxEvvaoFw2IuRjC_ALXQFh3xUgRsUpPpNlTeuck&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ec%b6%95%ec%a0%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "대전 축제·전시 李대통령, 우크라에 \"공개 사과 거부하면 추가 조치\" 강력 경고 충남도 '빠듯한 살림'에 15개 시·군, 사업조정 불가피 [특별기획] 주변 상권과 연계된 도쿄... 대전도 성심당이 관문돼야... 5충남대병원, 의료 AI 국가과제 참여 6[인터뷰] 윤종수 대전시체육회 사무처장 \"현장의 목소리 실제 변화로\" 7‘K-배터리의 중심’ 충북도, 민선",
-   "url": "https://cafe.naver.com/green4xwdr/5990?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuNHh3ZHIiLCJhcnRpY2xlSWQiOjU5OTAsImlzc3VlZEF0IjoxNzkxMzc0MzMxMzM2fQ.EER6zE7Rpu_IiN4t2lhBD-pN4qCJlGfpGdJDkKLjtXs&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ec%b6%95%ec%a0%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "RE비눗방울 날려주는대축이라니 영주님 스트라이프 티셔츠 첨보는데 파랑조끼까지 다시는 못볼 코디네요 대학생이라고 해도 믿겠어요. 영상 감사합니다",
-   "url": "https://cafe.naver.com/nerdconnection/10486?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5lcmRjb25uZWN0aW9uIiwiYXJ0aWNsZUlkIjoxMDQ4NiwiaXNzdWVkQXQiOjE3OTEzNzQzMzEzMzZ9.4vnkmQDgy3BgSaTmEpBjBU6ywnrEBQ-lnp2W0cEaVt0&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ec%b6%95%ec%a0%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "나띠 충남대 축제",
-   "url": "https://cafe.naver.com/sevennest/764616?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNldmVubmVzdCIsImFydGljbGVJZCI6NzY0NjE2LCJpc3N1ZWRBdCI6MTc5MTM3NDMzMTMzNn0.5sZOmo4dUv4nCJW6lIjYUJXOGCe8w9mjv4xEC8Owp5c&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ec%b6%95%ec%a0%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "경영학과), 충남대(리더십과학전공), 홍익대(디자인경영학과), 서경대(헤어디자인), 세종대(만화애니메이션), 상명대(미디어디자인) 등의 주요 대학 진학 등 취업과 진학에서 매년 상승세를 거듭하고 있다. 취업이면 취업, 진학이면 진학 모두에서 두각을 드러내고...",
-   "url": "http://v.daum.net/v/20261006183151686",
-   "engine": "daum_news",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "증액, 충남대의 '서울대 10개 만들기' 관련 사업 등이다. 방산 소부장 특화단지와 관련해서는 앞으로 5년간 연구개발(R&D)과 기반 구축, 인력 양성 등에 400억 원을 투입하고 민간 투자 1조 원을 유치한다는 계획이다. 인공지능(AI)혁신전략위원회 출범과 육군과의...",
-   "url": "http://v.daum.net/v/20261006144958892",
-   "engine": "daum_news",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "0시 축제 폐지로 17억원의 매몰비용이 발생한 것과 관련해선 \"(매몰비용이 17억 정도 되는데)매몰된 게 아니고 해당 사업자와 정산절차를 밟고 있다\"면서 \"실제 매몰비용을 그리 많지 않은 것으로 본다\"고 밝혔다. 대전역세권 개발 사업과 관련해 허 시장은 \"10...",
-   "url": "http://v.daum.net/v/20261006141949131",
-   "engine": "daum_news",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "대형 축제를 치른 경험이 많아 시너지를 낼 수 있을 것”이라고 했다. 대구는 2만석 규모 중형 돔을 노린다. 대구시 관계자는 “1조원이 넘는 돈을 들여 5만석 규모로 지어도 평소에 좌석이 텅텅 비면 감당이 안 된다”며 “우리 실정에 맞춰 내실을 기하는 게 훨씬...",
-   "url": "http://v.daum.net/v/20261002004300391",
-   "engine": "daum_news",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "이와 더불어 서대전여고는 미술 및 인공지능 동아리와 충남대의 예술융합 프로그램에 참여하여 디지털 데이터를 사용한 3D 프린팅...있게 연구한 프로젝트의 결실을 전교생과 공유하는 학문적 축제의 장으로 꾸며졌다. 학생들은 우리 사회와 자연과학 분야의 다양한...",
-   "url": "http://v.daum.net/v/20261001174052923",
-   "engine": "daum_news",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "AHOFコミュニティの投稿 - 충남대 축제도 재미있었어요(^○^) 오늘도 아주 나이스한 하루였어요! - DAISUKE - Weverse",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tQlJNY3U2MVVLZXhNRDJVUnNMSG96aWJPdzFibFZieGZFa2JnWlNHV3lFUGExc0w3Y00wbTdDN2pQb1dBOXNtR25LeHh6Q2JndHdUeDQ3ZE5KbVFa?oc=5",
-   "pub": "Thu, 01 Oct 2026 12:05:15 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "중구 대전효문화뿌리축제 세대·국경 넘어 '새로운 뿌리' - Daum",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Da3VwLXFZZ3cxaVdtNm1zNGpKOTB5YWx2Nzl4QWxkeENfTnU4dGRnNWtNNnIySHhZR01yVXZjbzYwQjBFcXZ0ZHNrSQ?oc=5",
-   "pub": "Thu, 01 Oct 2026 09:03:00 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "'가갸날 100주년' 세종한글축제 10월 9일 개막…33만 방문 목표 - Daum",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CZ2UyeDIxbmlBZi1jUF8zNUdoUksyX1hNTzJ1NEYyQmh1MFhiNEV1YkJVWGw3dVJqWkF6WDRjVkt6dFo0OWpMWFNMQk5LRW1LZXdOUg?oc=5",
-   "pub": "Thu, 01 Oct 2026 06:12:53 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "91만 관람객 찾은 계룡軍문화축제, 성공적 대장정 마무리 - Daum",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3d1E1Z192Mng5QzlkdXR2SV9yZlpaQTBGVk80dFRucFRGU3dOdjZUcW1FdkVYQmxrTXI5bGRIMHJlTzlZSzk4dzRZbHFfVXI0VGlKdg?oc=5",
-   "pub": "Mon, 05 Oct 2026 08:04:56 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "'한국 축제' 세계 무대서 빛났다… 역대 최다 금상 19개 - Daum",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfeUVEUEppQ2U5YUVDeXpBQmgzSDlER3JTcjZ3bE9QOUVaRGlaemotWXVvUnM1VFJKUlczOXRjYnEzUnBxaXRueGtPRFpmTXU4a1F4VA?oc=5",
-   "pub": "Wed, 07 Oct 2026 05:34:05 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "계룡軍문화축제 개막…'하나로 ONE! 세계로 RUN!' - 굿모닝충청",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zODZSWE9FTFAzajlPYWRSakVNUlNGaWlwbW9PS05HNlBLemhxUWkxTjRhS0tmZHd5Q2ZuOUlzNUlrNWY1OVBQMXd5ZVNyMW9meDBVYVd5T1pNcnA5Tk8xYlpydWJkYVpzOEladU4wemF6dw?oc=5",
-   "pub": "Thu, 01 Oct 2026 14:23:16 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "충북대, 개신대동제 Everis 성료…학생·지역주민 한마음 - 국제뉴스",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zX3FFNWQyNm5fYV9DYzg2SGM4N3N0c2NYdUVnRnNWWmdNLUZkVGU4dm15ZGtINEZoSUJKQmVpS0g1ZlpaM0NEZERoU1dCQjNZSTNMNGJVVXBpamdPaVpTQlYwbTUtQU1WamxvWGlR?oc=5",
-   "pub": "Fri, 02 Oct 2026 07:44:00 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "화려한 불꽃 내려놓고 생태 지켰다…대전효문화뿌리축제 성료 - Daum",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EakZZb3IwZF81X3RrSGgtWFloMTdtN05TeEF5Sm40MHVfSURhN2lZcnJKUXUyd2JqX1VOVVNNREQ4WHA1eDFKQ2oycw?oc=5",
-   "pub": "Mon, 05 Oct 2026 08:03:23 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "금산세계인삼축제, '캐고 만들고 먹고 즐기는 인삼캐기 체험여행 즐겨요' - Daum",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FU0RibDlNQmxEMG1oOE1vanUzRmlyQzJubW1vWnpVOXZVMXBQWGdUbl94OGlUUXV1OC1WbmRraHQ2N2ZsNVpsYTFRUQ?oc=5",
-   "pub": "Fri, 02 Oct 2026 04:33:02 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "'2026 계룡군문화축제' 불꽃쇼·드론쇼 시간은? (+라인업) - 금강일보",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qVWpzOGRudWJqSHhMekp3Y3NBWXVkOURWbUFPRzFMNHNRZmZuWTJFTU1maktKU2JrTm0yTHM5SEZXdGQ1bkwxZENYb2M3TlZwTDVZZWYyeWxIeVBieEI5ZnlmbVBRM0dlMEE?oc=5",
-   "pub": "Wed, 30 Sep 2026 12:11:08 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "한글날 연휴 대전 5개 구가 축제장으로…가을축제 일제히 개막 - 대전일보",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CWDAybDlpWE52QmV2cDVONlRpdXFTQ0U1M29iOGw5X25OSlF2V2lhSUQxeEpTUkh3LXVlZUFnRTYtejdEWHZQemNpbmFyZm9VMDFOWmx4QTloTE1FMm9neGxwY3RKcUxHc2YxWVFBUdIBc0FVX3lxTFB6SFVwbXQ3NVRlRVk3LVVydjNfS3F2aWJzSng2X1lxX1hMS3c3cW9YaHZZT3hjeldJMTZDSUpZNURyZ2JHSHA2Tmt1Vldxa1VmWjA5UE5IRmkyOExpN2RzRVdmMUFxbHJtTzdRQ2NzYWdTZ1k?oc=5",
-   "pub": "Wed, 07 Oct 2026 09:26:00 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "오대산 월정사, 불교문화와 AI·음악 어우러지는 축제로 도량 장엄 - 법보신문",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fdzhuUjdPS3JncTI1cFRlN2RGR1VtaC0zQW5XMFZGRDZIR0NWYzVGMFE5d2FhTFhFajhMMDh3MlJDazlIOGtLMV9Ba3dJVXJCMG5tcGlkV01pcU5HVTBrOWhuWGdUaC1t?oc=5",
-   "pub": "Tue, 06 Oct 2026 01:22:01 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "‘2026 세종한글축제’ 10월 9일 개막 - 특급뉴스",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEZnc4aWhlaDJKZlA5SlZfbjZFbGZFUTE5cWF5ZTJha3FFdS1FaTltbTVyNzdOSmdJR0hYSGFlTHQ5aXNpa2lzUVcxT2J0aHJFTnlrZVR6cE80Vk1HbEwtaUtKVFd5UmJkZ2RGXzJVME8xQQ?oc=5",
-   "pub": "Thu, 01 Oct 2026 00:38:56 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "제16회 계룡군문화축제 ‘거리퍼레이드’ 성황리 개최 - 충청메시지",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQaG9PcS1MbEVwdndmRUtNalQxdGNrNHFXc3oyWUFiekJPN1lFT2xVOFppTV9IdVg0UnYyd3EwbGtRaG5JUzNodnVRY3FQWE9zWXBrUG9xVUlkdXlqOGhsNUFSZ3dJRHJjYmM4?oc=5",
-   "pub": "Sun, 04 Oct 2026 13:24:18 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "국립한국교통대 창업지원교육센터 '로컬 페스티벌 in 충주' 부스 운영 - 충청비즈",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xbHVsYndxSjFCOU12S2hDN21lSmJjQlhFY1dycnFrbVNKVGM2VldGX1FzYlZTbWktbnlUM3ZuNkVEZ094aU5fRHR1LWk3aG1jVFdIRk9kWHdxMkgwdXRF?oc=5",
-   "pub": "Thu, 01 Oct 2026 08:08:37 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "‘세계와 춤추다’ 천안흥타령춤축제 성황리 종료...99만명 방문 - 글로컬타임스",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ma0dmUmN0M1ItakF6NFRQWVliSjIwT0VPc093T0paRUlHSUNReWlMMURVUWtlc2YtTUdGLXpxaG1USUZEU1FHWnNUcjNPNUpiVklSQzMwV0NOMjRSMXN1cU9KVkxfN2NZ0gFsQVVfeXFMTndVb2p4d0tTMnRQNXNIa1pueEpEOGVnclNBemJhUllLRkg0Tkp3Z0hQQXhmcy1Sc3Q5UlZWbHhvZUlISWNLeUpsb0R6TnVTV0ZaTnFmNVR3eEwweWtMbjVVNHhyLTBNN0hUVkZn?oc=5",
-   "pub": "Mon, 05 Oct 2026 19:24:06 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "공주시 신풍면, 구룡사 구절초 꽃축제·산사음악회 개최 - 금강뉴스",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GUGlKX3VFMFdSTEhJQzMyellCLU1pcDF5b0FqdmxsaUdrM25PeFN3eV9LYzJUYzFoWEVqUDV0WHl4RHgxZVktUTdIVUY4TjBySVBNNDBwRG9TS1dqcUJZaDZSb19TLVhEXzhr?oc=5",
-   "pub": "Wed, 07 Oct 2026 00:50:09 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "제17회 대전효문화뿌리축제 성황리 폐막 - 글로컬타임스",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaZEJmdU1TakRjZXlVVXBMRjQzV05CaGlpTklTYmtTRXVnVXNUblNLM1ZnZVVHcWtSNW9JbDQtLXNJcDVieC1qYnptZFFtR1NIRzVQVHdINVRja2daT2VwUTluSHlNTEdt0gFsQVVfeXFMTkpxeTZoYlRPeDhpWFBHSWhVMUhSQU5Tb0FJR3ZlaWNmY2xSQW1aSjhMTUdxWjgyNklRVk1PNWlHZl80cy1BZVlmRW8weXRRcjEzdU5yOXBTT2EtVkFEQW9BRk5oNk1zc1QyS1lt?oc=5",
-   "pub": "Mon, 05 Oct 2026 20:03:36 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "최원철 공주시장, 제72회 백제문화제 축제 국내외 교류도시 방문단 영접 - 충남일보",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JUmhDODdvQzJYbWd2Ym45OW1TQUt5Q0dpcjQ2bTJBRmpZdjRkbFU2UndFUGFiVWl5M2hRVmRUblgyTFNoREVTbHRCYnRJQTJ2dmRMX1hURGVhUl8wcUo1cjB1YmhrXzBRdEd4a3hTXzE4Vzg?oc=5",
-   "pub": "Fri, 02 Oct 2026 09:36:15 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "백석문화대, 계룡軍문화축제서 전공 연계 체험부스 운영 - 뉴스밴드",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TUjMxclpkMy1jNTRscHFseG5TUjE1UkNPR1hpeV85cWNMWVJ5VWFjcVUzUHpDUDB3M19aeDhjRGd1OFJUUEMtV25tOWJHX3l3Y0Z4enNDNWl3NHFCWGY4SGMteG4xSXgw?oc=5",
-   "pub": "Tue, 06 Oct 2026 11:20:46 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "아산시시설관리공단, 천안흥타령춤축제서 청렴 캠페인 전개 - 뉴스밴드",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91RnFFQVRwNG9NRFEyOS1hWVlDUkRJRGZUUUJuTmZFYy1FcHpEUDFOanpYX2RPa3pIN2RnRDc3U2w4eVh3ZEVkb1huRVRMVTh4OVlQVm5RRVdjeHpZZmV6SFhIUk4yVzlF?oc=5",
-   "pub": "Tue, 06 Oct 2026 11:20:46 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "당진시, 10일부터11일 2026 당진면천읍성축제 개최 - 뉴스밴드",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11M3lRRm1jQ056eE5tdzU1MXdiZWZ1c3VpUllqODFZejk4UjVwNWpJUEIwRy1xTXVXenJnQ3hZWG9uU0FURFR5VkJzYmthZndJXzRROG9PcS1lSk9jQTRTeVVEU0FlbXRaOGc?oc=5",
-   "pub": "Tue, 06 Oct 2026 23:58:08 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "제4회 판교 도토리묵 축제 개최 - 뉴스밴드",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jeVExVmtBU3RtNE0yX1BIaTZYc2NEU1piS2RIY0JWZzJTUXNacVNCUEZ6OWRRUFZJNnVPLTNqYndnR2hvR25obURuN2FzMGxuVEdsem9jd0xsNl8xZUJqMmFwTnlCZ09F?oc=5",
-   "pub": "Sun, 04 Oct 2026 07:00:00 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "99만 명 다녀간 '천안흥타령춤축제 2026'… 장기수 시장 \"자체 점수 90점, 현장 목소리 담아 완성도 높일 것\" - 뉴스파고",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5QQTJDQXE1clIzeU41OFVoNHlvV3NCc0xsRDdjdXUxd1pEZXhoZmtLMVBGYmE1a3kxN3dnM24wbGhNQVk4?oc=5",
-   "pub": "Tue, 06 Oct 2026 02:12:00 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "연산대추문화축제, 날짜별 즐길거리 한눈에 - 충청일보",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MS1dvamtDLXgtVjRGX3kxMk1jMkdtUzJoTjFEYktDOE9haWdRWWZZOGpIVlBlTzBiS3Vxcm9EakxHTGdHVGd5eVpoRmFIRG1pVHVMbWJ5SWIwcExZcDZ1VU90VlFXYXhLT1pYZnlXSHQ?oc=5",
-   "pub": "Wed, 07 Oct 2026 04:28:02 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "천안시, 흥타령춤축제서 ‘드론 홍보관’ 운영…조종·스포츠 체험 - 뉴스파고",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5Ha28zVVdzalI2Vk9yT2dTY1ZwYUI1UnpjMlFLbGJ2VU5sbXdnU2JQUUt1R3ZQa2ItdWtLN3RMTkRpS1RB?oc=5",
-   "pub": "Fri, 02 Oct 2026 01:32:00 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "계룡시, 軍문화축제 현장서 ‘식중독 예방’ 합동 캠페인 - 뉴스밴드",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ONXk3RVhhbExjdDZ5WnpBcC1BR2VQc3l1QkZqUHlWQXlIeUdrTHk0ME5WUmtqZ185ZGJqN3RJS3JUUUR0UzVxWF9tOWZWUVVPcXJ5alQza0ViS3hLaUJuQmNCcEtXWmhp?oc=5",
-   "pub": "Tue, 06 Oct 2026 11:11:44 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "데이터로 증명된 ‘도심형 축제’ 성공 예감, 부여 제72회 백제문화제, 지역경제 활력 불 지핀다 - 코리아플러스",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0UjRFaFUtaFBWMXhkZ3NqNUlydXpnRzNVVVYtYTVwaVpOM1cxeFAxbjBJbEZzY0QwcU1qcXhhRl8yNXMySno2OHVMU2poQ28wYy1IR3AzNjViSDR1Q0pzcmJkbkJCQQ?oc=5",
-   "pub": "Tue, 06 Oct 2026 02:37:18 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "금산군, 세계인삼축제 참여형 프로그램 인기.. 홍삼 족욕·케이-인삼 뷰티관·거리의 라이브쇼 등 - 충청일보",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YVWJERjN1WnNmb01Mb0R5ZTRZdExnLXV1S2FJUEtUZ00tNzREMzhVUFQ0elIwWjdlT2s4eDNQTmN5QmcybDhFREpUT2JmMEVyYzJxc1BEUDc0U2ZJZ1pYazJIM0lOY1dmY293cEd6UmI?oc=5",
-   "pub": "Wed, 07 Oct 2026 03:59:37 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "천안시티FC, 흥타령춤축제서 시민들과 소통 이벤트 운영 - 뉴스파고",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5oY1RnOGIzLXYwaGF0b1h1Y1VfbVQtZ2VJS2ZOQTBTM0JLXzA5WTdqWGZRbXJwRUYxZXFNNFlDejlBaHRq?oc=5",
-   "pub": "Wed, 07 Oct 2026 02:47:00 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "김제선 대전 중구청장, 효문화뿌리축제 불꽃놀이 취소결정 남겨 - 금강뉴스",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsZG9iSk1mWmlkX0dvV25COU9ndlBqLXB5R21fTE5JRWVQWV8ya0dLZjdpbEV3UHJjSHc2SEQ5NWVVanZlSzVRMWVHazRKRzdjZ2duT3ZpYUxKYlhPLWtNaml1M2lYWUNhVnRN?oc=5",
-   "pub": "Sun, 04 Oct 2026 11:45:49 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "필리핀·베트남 대표단, 금산세계인삼축제 공식 방문…교류 확대 모색 - 뉴스파고",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5kMkFUREx3cFpYT3NCR2xPSllwNzJnalNuSm1pUnBsUXRXZnowN0RZSEFoZFl4azQtcEs2cFZVMjlIWXpv?oc=5",
-   "pub": "Tue, 06 Oct 2026 04:46:00 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "단양군, 청년 팸투어 운영…축제·자연·액티비티 체험 - 뉴스체크",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XaXZmTC1hQTVVTy11ZFZ6TnZkeWotUnBzZTRScWJ1VU1mbHpQT0U2bGZqWGRzaFU0MDN5dE94VWQtTXBabWZhUGtZY09IRElpX25GbWVvOHZ5U01CcFQ4eEhYUXRLQmNYUXdpetIBcEFVX3lxTFBOSU4xUEpQZ2RhSlZVX2EtanZpNHVYaHhSZHJPTEJZTlpFdWVZZk0tbXRsaXRaRGpNUFVFb25fVjBSZXdrQ3ViTEt1SG03T05Qak14NDRpUmtpTFFIempDNXF0SC1MT1FsbmVzN29qaTY?oc=5",
-   "pub": "Tue, 06 Oct 2026 13:41:23 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "백제문화전당은 백제의 역사를 딱딱하게 보여주는 공간이 아니라 ✨ 미디어아트 전시 참여형 뮤지컬 공연 아트숍과 다양한 문화... 041-854-3276 공연 뮤지컬 ‘왕관을 찾아서’ : 30,000원 매주 토요일 14:00 / 17:00 약 60분 진행 ✨ 특징 ️ 2026년 신축 복합문화공간 몰입형 백제역사 미디어아트 참여형 상설 뮤지컬 공연 '왕관을 찾아",
-   "url": "https://blog.naver.com/lus418/224434281675",
-   "engine": "naver_blog",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "공산성 안쪽 성문 앞에서 기다리는 관람객들 제72회 백제문화제 야간 실경(實景)공연 '접경 : 왕비가 건넌 밤' 공산성 내 성안마을 공연모습 출연진 : 다수의 공주 시민들, 충남대 무용학과, 그리고 꼬레오 무용단 돌아가는 관람객들에게 길이 어둡고 고랑이 많아서 상당히 위태로워 보인다. 조명이 반드시 필요하다. 어디가 길이고 어디가 고랑인지 매우 위태로워 보",
-   "url": "https://blog.naver.com/gongjunews/224433786011",
-   "engine": "naver_blog",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "의료 클러스터 & 대학생 & 둔산·도심 직장인 배후 임차 풀: 인근 충남대학교병원(상급종합병원), 을지대학교 대전캠퍼스(의과대학·간호대학)의 간호사, 의료기사, 실습생, 의대생... 서대전시민공원(야외공연장, 잔디광장)이 도보 10~12분 거리에 있어 쾌적한 도심 녹지를 제공합니다. 4. 주요 개발 호재 충청권 광역철도 1단계 용두역(1호선 환승) 신설 (",
-   "url": "https://blog.naver.com/sunghun0422/224433694533",
-   "engine": "naver_blog",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "대전클래식 공연 날짜 : 2026년 10월 11일(일) 시간 : 오후 5:00 장소 : 대전예술가의집 누리홀 티켓정보 : 전석 2만원 대전공연전시예매 : 일반 14,000원(30% off), 초중고대학생 9,000원(55... 문의처 : 공연기획피움 010-****-****(문자문의) 예매처 : 대전공연전시 http://gongjeon.kr/ 042-301",
-   "url": "https://gongjeon21.tistory.com/6778",
-   "engine": "naver_blog",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "가을에 꽃 코스모스랑 소국넣고 꽃다발 무용과 공연 꽃다발로 파스텔색상으로 네이버예약가능 합니다 #24시무인꽃집 #죽동가든플라워 #충남대공주대통합 #코스모스 #궁동꽃집 #장대동꽃집 #자운대꽃집 #신성동꽃집새 창 열림",
-   "url": "https://blog.naver.com/mon4839/224432843796",
-   "engine": "naver_blog",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "ㅠㅅㅠ 충남대 고전짤 ㅠㅅㅠ 혐오를 이기는건 사랑이다. 끼요미 끼끼씨 미스터 끼끼~ 점심은 또국밥~ 점또국 근데 이번엔 소고기 국밥이예요. 호호 육전 동태전 신나게 먹었다. 아니 우리집은 명절에 육전을 안 해서 육전 넘 반갑,, 육전 진짜 넘 맛있다! 아니 진짜 쌀밥이 왤케 맛있는거야 ㅠㅅㅠ 흑흑 흰쌀밥 먹는게 설탕을 퍼먹는 거라고 하던데 진짜 그래서 그런",
-   "url": "https://blog.naver.com/sumr2002/224432840375",
-   "engine": "naver_blog",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "일상의 행복과 사랑을 만났던 전시 '김지윤 개인전: 행복愛' 충남대학교 도서관 지하 1층 갤러리에서 김지윤 작가의 초대... 전시기간 : 2026년 8월 4일(화)~8월 28일(금) 전시장소 : 충남대학교 도서관 지하1층 갤러리 전시 안내에 소개된 작가의... 충남대학교 도서관을 찾았던 유성구민과 학생이라면 지하 1층 갤러리에 들러 이번 전시를 감상해 보셨",
-   "url": "https://blog.naver.com/yuseonggu/224432457028",
-   "engine": "naver_blog",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "는 사실 미니 번호판에 적힌 글귀였다 넘 귀엽지 않아? 우리 미니 누가 놀렸어!! 누가 우리 미니 화나게 했어!! 아 이번 글은 좀 길어질 예정입니다 사진이 꽤나 마니 밀려있어,,, 또 투썸 언니한테 카페 깁티 구걸(ㅠㅠ)해서 받은 투썸 깁티 쓰러 갔다 여기서 뭐했더라 뭐했긴 자소서 썼겠지 물론 챗지랑 젬미니가 써줬겠지만(ㅋ) 그들에게 내가 가진 소스(so",
-   "url": "https://blog.naver.com/miaintheuniverse/224432450793",
-   "engine": "naver_blog",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "ㄹㅇ 개 예쁨 난 스우파 메가크루 같은 건 줄알았는데 그냥 예쁜 여성들이 수양대군 등장씬처럼 계속 나옴 귀여운 점 원래는 8인조로 많이 다니다 26인조로 첫 공연 근데 대열에 빠지면 10명정도 사이드에서 인사해줌 트리플에스 미담 폰 셀카 찍어줌 ㅂㄷㅂㄷ 트리플에스 보다 갑자기 충북대 ㄸ우뚱까스 등장 꺼져 님들 충남대 투표 좀 해주세요 질 수없습니다 앙...",
-   "url": "https://blog.naver.com/hanpppaaa_/224432370636",
-   "engine": "naver_blog",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "유성온천 야외 족욕체험장 충남대와 가깝고 무료로 천연 온천수 족욕을 즐길 수 있습니다. 공연 전후 여행의 피로를 풀기에 정말 안성맞춤이에요. 대전 엑스포과학공원 & 한빛탑 대전의 대표적인 야경 명소입니다. 아름다운 한빛탑 조명과 음악분수를 감상하며 감성적인 밤 산책을 즐기기에 완벽합니다. 대전 대표 맛집 BEST 3 대전하면 떠오르는 맛집부터... 새 창 ",
-   "url": "https://blog.naver.com/lth0001/224431884362",
-   "engine": "naver_blog",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "특히 11월 말부터 12월까지는 크리스마스 콘서트, 전국투어 앙코르 공연, 연말 브랜드 콘서트, 대형 단독 콘서트가 몰리는 시기라 미리 일정을 확인하지 않으면 좋은... 다이나믹 듀오 ‘가끔씩 오래 보자’ 서울: 11/27 ~ 11/29 (올림픽홀) 대전: 12/19 (충남대 정심화홀 / 지정석 143,000원) 특징: 연말 에너지를 발산하고 스트레스를 날",
-   "url": "https://blog.naver.com/patrick01/224431781548",
-   "engine": "naver_blog",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "살이 괜히 찐게 아니다 내가 비싼경험햇다 내가 지금 누굴 만낫게?… 충남대 24 해양안보 그녀 돼지게티 대전 유성에 생겨서 집에서 재울것을 요구 흔쾌히 수락 후 공연까지 보여주심 경멸스러운 내표덩 아 수혀니랑 맨날 놀던 고딩이 그리웡 충대 편입 할게 메리 즐추 목금 알바해서 토일월 양평감 늦은 자식 떡하나 더 준다고 인천가서 새우랑 꽃게를 먹게해주시고...",
-   "url": "https://blog.naver.com/jjjjh7-/224430781376",
-   "engine": "naver_blog",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "'안전 사각지대' 서울 학교 체육관 무대장치 일반 공연장은 공연법에 따라 정기 안전검사, 정밀안전진단 받지만 비슷한 시설 갖춘 학교 체육관에는 이런 의무 없어 https://www.hankyung.com/article/2026090173881 6. '서울대 만들기' 부산·전남·충남대부터…5000억씩 지원 교육부는 '성장엔진 연계 지역인재 양성' 패키지 지원",
-   "url": "https://blog.naver.com/goodspeedlab/224430611897",
-   "engine": "naver_blog",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "관내 동 풍물단과 지역주민 여러분이 함께 어우러져 흥겨운 풍물공연을 펼쳐 주셨고, 공원 가득 울려 퍼지는 가락에 모두가 하나가 되었습니다. 이어 지역사회 발전과 향토문화 계승에 힘써 오신 유공자분들께 표창을 수여하며 깊은 감사의 마음을 전해 드렸습니다. 우리 고유의 전통이 이웃의 정으로 이어지는 유성의 가을이었습니다. 지역 문화가 더욱 풍성해질 수... 새",
-   "url": "https://blog.naver.com/yuseong0413/224429450400",
-   "engine": "naver_blog",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "충남대학교가 대전시 청년 정책 전담 기관과의 관·학 협력을 강화한다. 이와 함께 교수·제자의 장학금 기부 및 지역민 대상 문화행사 등 대학과... 이향배 도서관장은 \"이번 현악 사중주 공연을 시작으로 도서관을 지역과 소통하는 복합문화공간으로 지속 확대하겠다\"고 전했다.새 창 열림",
-   "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=415912",
-   "engine": "naver_news",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "이번 음악회는 국립대학육성사업과 충남대 도서관 '플-라이브러리데이(P-Library Day)' 프로그램의 일환으로 마련됐다. 공연에는 임현섭 악장 겸 바이올리니스트와 임현정 바이올리니스트, 최혜승 비올리스트, 김형우 첼리스트 등 4명의 연주자가 참여해 현악 사중주 무대를 선보였다. 연주자들은 엘가의 '사랑의... 새 창 열림",
-   "url": "https://news.unn.net/news/articleView.html?idxno=598387",
-   "engine": "naver_news",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "01(목) 07:00 ~ 08:00 | 접수: 현장참가 대상·장소: 전연령하늘공원 동측 정상 내용: 축하공연, 개회식, 대북타고 및... 01(목) 06:30 ~ 08:30 | 접수: 현장참가 대상·장소: 전연령용왕산 근린공원 일대 내용: 식전공연, 대북타고, 해오름 감상... 01(목) 07:00 | 접수: 현장참가 대상·장소: 전연령응봉산 팔각정 내용:",
-   "url": "https://cafe.naver.com/bongcheheom/4?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvbmdjaGVoZW9tIiwiYXJ0aWNsZUlkIjo0LCJpc3N1ZWRBdCI6MTc5MTM3NDMzMzc5Mn0.Q8DoJxkmTdTpImLIKgOPK97dTU10BRpiu-cnzuBVu5U&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ea%b3%b5%ec%97%b0&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "5충남대병원, 의료 AI 국가과제 참여 6[인터뷰] 윤종수 대전시체육회 사무처장 \"현장의 목소리 실제 변화로\" 7‘K-배터리의 중심’ 충북도, 민선 9기 25조 생산 전략 추진 8부여군수에서 장관급으로…박정현, '제2의 김두관' 길 걷나 9추석 연휴 충남 곳곳 사건사고…3세 어린이 교통사고로 중태 10[나무, 천년의 세월을 담다 423] 사이의 집…홍성군 ",
-   "url": "https://cafe.naver.com/green4xwdr/5990?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuNHh3ZHIiLCJhcnRpY2xlSWQiOjU5OTAsImlzc3VlZEF0IjoxNzkxMzc0MzMzNzkyfQ.MYw24nUYQDOc_to1lQpWOnBA1E-Q3nvjdzVdOCYe8Fo&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ea%b3%b5%ec%97%b0&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "RE비눗방울 날려주는대축이라니 영주님 스트라이프 티셔츠 첨보는데 파랑조끼까지 다시는 못볼 코디네요 대학생이라고 해도 믿겠어요. 영상 감사합니다",
-   "url": "https://cafe.naver.com/nerdconnection/10486?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5lcmRjb25uZWN0aW9uIiwiYXJ0aWNsZUlkIjoxMDQ4NiwiaXNzdWVkQXQiOjE3OTEzNzQzMzM3OTJ9.jgJf2qglxKiGpIKkH3iIWe_HII8Sw4IVHhtlCyxauJU&q=%ec%b6%a9%eb%82%a8%eb%8c%80%20%ea%b3%b5%ec%97%b0&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "충남대, 대전청년내일재단과 관·학 협력 강화 논의 - 충청뉴스",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IMVU4TGNKYVpaekhVY1VJcW9uVWZHZE9JaUNQTEtvcl80UlRpOU1kVHBrX0tjeEpTSV9jN1VLbFBmUXlHaDFzVVZ3a2FuS3IxdEVhTkM4U1dIdmZYU2pCRm83RDBQaUJTWkVoQQ?oc=5",
-   "pub": "Wed, 07 Oct 2026 07:04:31 GMT",
-   "engine": "gnews",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "기능을 켜기 전에 조건을 읽는 카지노 충남대 - Calgary Roughnecks",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObVpGcmEyV0s3Wk52NVZoeG44ODl1WTN5NHBQR0RRaEZ3Rzk4VFFGUWpMWXprM180bmJhNzBKMnY1THRJbmlJek1BTUlsZ0tQSzNxaVNhbkl6R3ZjMzNrNGdnOHdDM0d5Xzg2dS1oeWRESmRhemRNcmNBeWM2b3VveDBFRGp5U2pDQmQ3bGkxRVY5YlJCLUU1MTdR?oc=5",
-   "pub": "Mon, 05 Oct 2026 07:10:26 GMT",
-   "engine": "gnews",
-   "query": "충남대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "오늘은 10월 3일 대전소상공인대축제 개막 축하공연 JM CREW 이야기 ! 입시 일정과 개인 사유로 인해 이번엔 크루도 7명이 아닌, 5명이 공연에 서게 되었어요 ! 매의 눈으로 리허설을... 706 → 목원대 하차 후, 도보 3분이내 115 → 목원대 네거리 하차 후, 도보 3분이내 ★ SNS ★ ▶인스타그램 [원컴퍼니] [JM] [드림아이원] ▶홈페이",
-   "url": "https://blog.naver.com/1-ent/224433417383",
-   "engine": "naver_blog",
-   "query": "목원대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "59세)=피아니스트/목원대 교수, ④양동근(남, 47세)=배우/가수 ⑤윤영아(여, 53세)=가수/뮤지컬배우 ⑥이성미(여, 66세)=희극인/방송인 ⑦조남규(남, 62세)=(사)대한무용협회이사장... 대표/프리랜서공연PD, ⑧신승일(남, 58세)=연극연출/조명감독, ⑨오은국(남, 51세)=목사/극단 ‘와이’대표, ⑩이원숙(여, 59세)=지휘자/장애․ 비장애 통",
-   "url": "https://blog.naver.com/osh0416/224432891212",
-   "engine": "naver_blog",
-   "query": "목원대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "모두 옷 갈아 입고 목원대 가는 즁 ~~~ 우리 잃어버릴 일 없겠다 ~ ♡ 흠뻑쇼 보기 전 배 든든하게 채워줘야 하거덩요 ~ 저 떡볶이랑 닭꼬치는 맛도리 였는데 닭강정은 흠…… 암튼 그러고 우리 완전 멋들어지게 즐겨줬음 최고. 스트레스 싹 날아감. 1부 게스트는 크러쉬.. 작년에도 봤었는데 대전의 아들이래요 그리고 2부는 이승철.. 진짜 미쳤어 와 진짜 대",
-   "url": "https://blog.naver.com/sssssay__/224432122947",
-   "engine": "naver_blog",
-   "query": "목원대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "안녕하세요 ~ 오늘은 10월 3일 4일 열린 대전소상공인대축제 축하공연 소식을 가지고 왔습니다 ! 4시 30분 JM스텔라와 크루가 개막을 축하하는 공연에 서게 되었는데요 ! 잠깐 무대... 706 → 목원대 하차 후, 도보 3분이내 115 → 목원대 네거리 하차 후, 도보 3분이내 ★ SNS ★ ▶인스타그램 [원컴퍼니] [JM] [드림아이원] ▶홈페이지 [",
-   "url": "https://blog.naver.com/1-ent/224431921987",
-   "engine": "naver_blog",
-   "query": "목원대 공연",
-   "first_seen": "2026-10-07T20:57:48+09:00"
-  },
-  {
-   "title": "지역의 학교와 문화기관, 주민들이 함께 배우고 즐길 기회를 마련하고, 젊은 세대가 산유화가를 어렵고 낯선 옛 노래로만 받아들이지 않도록 새로운 전승 방식도 고민해야 한다. 공연장에서 감상하는 데 그치지 않고 직접 따라 부르며 노랫말 속 농촌의 삶을 이해 하고, 오늘의 언어와 감각으로 산유화가를 다시 바라보는 일도 필요하다. 최혜진 목원대 기초교양학부 교수새",
-   "url": "https://blog.naver.com/chungnamdojung/224429562433",
-   "engine": "naver_blog",
-   "query": "목원대 공연",
    "first_seen": "2026-10-07T20:57:48+09:00"
   }
  ],
