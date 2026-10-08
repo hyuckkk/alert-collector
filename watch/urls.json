@@ -145,20 +145,10 @@
     "note": "우송예술회관 우기유니 챌린지쇼 상세 (JOB1, 티켓오픈·가격 확인용)"
   },
   {
-    "id": "djkids-oct-peter-wolf",
-    "url": "https://www.djkids.or.kr/bbs/view.do?key=m2008167895194&bbsId=10707",
-    "note": "대전어린이회관 10월작품 피터와 늑대 게시글 (JOB1, 기간·휴연 확인용)"
-  },
-  {
     "id": "woosongart-schedule",
     "url": "https://woosongart.wsu.ac.kr/proc/artcalendar.jsp",
     "note": "우송예술회관 공연일정 캘린더 (JOB1)",
     "render": true
-  },
-  {
-    "id": "geumriver-dam-now",
-    "url": "https://www.geumriver.go.kr/html/sumun/dm_now.jsp",
-    "note": "금강홍수통제소 댐 실시간 현황(대청댐 수위·방류량, JOB9) — WebFetch 승인대기 반복 실패로 추가"
   },
   {
     "id": "pyeongtaek-main",
@@ -181,11 +171,6 @@
     "id": "cnu-student-notice",
     "url": "https://cnustudent.cnu.ac.kr/cnustudent/notice/notice.do",
     "note": "충남대 총학생회 공지 (JOB2 백마대동제) — WebFetch robots 차단"
-  },
-  {
-    "id": "hanbat-notice",
-    "url": "https://www.hanbat.ac.kr/prog/bbs/kor/sub06_0301/list.do",
-    "note": "국립한밭대 공지 (JOB2) — WebFetch 승인대기 실패"
   },
   {
     "id": "kwater-realtime-multidam",
@@ -488,12 +473,6 @@
     "id": "hanbat-notice-board",
     "url": "https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000050/list.do?mno=sub07_01",
     "note": "한밭대 공지 게시판(백련제 버스 안내 등 게시, 기존 hanbat-notice 404 대체) (JOB2)"
-  },
-  {
-    "id": "nol-search-kotgumeong",
-    "url": "https://nol.yanolja.com/ticket/search?keyword=%EC%BD%A7%EA%B5%AC%EB%A9%8D%EC%9D%84%20%ED%9B%84%EB%B9%84%EB%A9%B4",
-    "note": "NOL 검색 '콧구멍을 후비면'(대전 회차 확인용, JOB1)",
-    "render": true
   },
   {
     "id": "chuncheon-festival-news-465019",
@@ -961,5 +940,21 @@
     "url": "https://pyoungsong.com/n%EC%9B%94%EC%9D%98-%ED%8F%89%EC%86%A1/",
     "render": true,
     "note": "평송 'n월의 평송' 월간 일정(JOB1·2)"
+  },
+  {
+    "id": "pyoungsong-wp-event-api",
+    "url": "https://pyoungsong.com/wp-json/wp/v2/event?per_page=50&orderby=date",
+    "note": "평송 공연·행사 전체(WordPress API, 더보기 뒤 12월 공연 포함) (JOB1)"
+  },
+  {
+    "id": "pyoungsong-tribe-events-api",
+    "url": "https://pyoungsong.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-10-01",
+    "note": "평송 행사 캘린더 API(The Events Calendar) (JOB1)"
+  },
+  {
+    "id": "pyoungsong-event-list",
+    "url": "https://pyoungsong.com/event/",
+    "note": "평송 공연 목록 전체(렌더+더보기) (JOB1)",
+    "render": true
   }
 ]

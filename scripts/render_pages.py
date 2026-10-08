@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import re
 import os
 import sys
 import time
@@ -40,7 +41,7 @@ def main() -> int:
     if not todo:
         return 0
     now = datetime.now(KST).isoformat(timespec="seconds")
-    budget = float(os.environ.get("RENDER_BUDGET_S", "360"))
+    budget = float(os.environ.get("RENDER_BUDGET_S", "480"))
     t0 = time.monotonic()
     import subprocess
     ok = fail = 0
@@ -53,7 +54,7 @@ def main() -> int:
         # one short-lived process per page: a page that pops a JS dialog or crashes the browser
         # driver takes only itself down, not the whole pass
         try:
-            r = subprocess.run([sys.executable, __file__, "--one", url], capture_output=True, text=True, timeout=50)
+            r = subprocess.run([sys.executable, __file__, "--one", url], capture_output=True, text=True, timeout=75)
             res = json.loads(r.stdout.strip().splitlines()[-1]) if r.stdout.strip() else {"error": (r.stderr or "no output")[-300:]}
         except Exception as e:  # noqa: BLE001
             res = {"error": f"{type(e).__name__}: {e}"[:300]}
@@ -97,18 +98,67 @@ def render_one(url: str) -> dict:
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36"))
         page = ctx.new_page()
         page.on("dialog", lambda d: d.dismiss())
+        # Lists drawn from JSON calls (ticket sites, reservation portals): keep the JSON text too, so
+        # items that never appear as page text (or sit behind "더보기") still reach the snapshot.
+        xhr_texts: list[str] = []
+
+        def on_response(resp):
+            try:
+                ct = (resp.headers or {}).get("content-type", "")
+                if "json" not in ct or len(xhr_texts) >= 25:
+                    return
+                body = resp.text()
+                if not body or len(body) > 400000 or not any("\uac00" <= ch <= "\ud7a3" for ch in body[:20000]):
+                    return
+                strings: list[str] = []
+
+                def walk(o):
+                    if isinstance(o, dict):
+                        for v in o.values(): walk(v)
+                    elif isinstance(o, list):
+                        for v in o: walk(v)
+                    elif isinstance(o, str):
+                        v = o.strip()
+                        if 2 <= len(v) <= 300 and not v.startswith(("http", "/", "data:")):
+                            strings.append(v)
+                    elif isinstance(o, (int, float)) and not isinstance(o, bool):
+                        pass
+                walk(json.loads(body))
+                if strings:
+                    xhr_texts.append(resp.url.split("?")[0] + "\n" + " | ".join(strings)[:20000])
+            except Exception:  # noqa: BLE001
+                pass
+
+        page.on("response", on_response)
         page.goto(url, wait_until="domcontentloaded", timeout=25000)
         try:
-            page.wait_for_load_state("networkidle", timeout=8000)
+            page.wait_for_load_state("networkidle", timeout=10000)
         except Exception:  # noqa: BLE001
             pass
-        page.wait_for_timeout(1500)
+        # Expand lazy lists: scroll to the bottom and press "더보기"-type buttons a few times.
+        for _ in range(6):
+            try:
+                page.mouse.wheel(0, 20000)
+                page.wait_for_timeout(700)
+                btn = page.locator("a,button,span,div").filter(has_text=re.compile(r"^\s*(더보기|더 보기|목록 더보기|more|More|MORE)\s*\+?\s*$")).first
+                if btn.count() and btn.is_visible():
+                    btn.click(timeout=3000)
+                    page.wait_for_timeout(1500)
+                else:
+                    break
+            except Exception:  # noqa: BLE001
+                break
+        page.wait_for_timeout(1000)
         text = page.evaluate("document.body ? document.body.innerText : ''") or ""
-        links = page.evaluate("[...document.querySelectorAll('a[href]')].map(a=>a.href).slice(0,400)")
+        links = page.evaluate("[...document.querySelectorAll('a[href]')].map(a=>a.href).slice(0,600)")
+        # javascript: links hide detail pages (goDtl(123) etc.) — keep the onclick targets as hints
+        onclicks = page.evaluate("[...document.querySelectorAll('[onclick]')].map(e=>(e.innerText||'').trim().slice(0,60)+' => '+e.getAttribute('onclick').slice(0,120)).slice(0,300)")
         text = "\n".join(l.strip() for l in text.splitlines() if l.strip())
+        if xhr_texts:
+            text += "\n\n[[페이지가 불러온 데이터(JSON)]]\n" + "\n".join(xhr_texts)
         if len(text) < 80:
             return {"error": f"rendered but too little text ({len(text)} chars)"}
-        return {"text": text, "links": links}
+        return {"text": text, "links": links + [f"onclick: {o}" for o in onclicks]}
 
 
 if __name__ == "__main__":

@@ -14,7 +14,7 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 35
     steps:
       - uses: actions/checkout@v4
         with: { fetch-depth: 1 }
@@ -30,7 +30,7 @@ jobs:
         run: pip install -q playwright
       - name: Render JS pages
         continue-on-error: true
-        timeout-minutes: 9
+        timeout-minutes: 11
         run: python scripts/render_pages.py 2>&1 | tee snapshots/_render.log
       - name: Commit snapshots
         run: bash scripts/commit_snapshots.sh
