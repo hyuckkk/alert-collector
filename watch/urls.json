@@ -1294,5 +1294,25 @@
     "url": "https://www.englishegg.com/contents/EggShow/",
     "note": "THE EGG LIVE SHOW 지역별 일정 (JOB1) 대전 회차 확인",
     "render": true
+  },
+  {
+    "id": "pyoungsong-tribe-events-api-p2",
+    "url": "https://pyoungsong.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-10-01&page=2",
+    "note": "평송 행사 캘린더 API 2쪽(JOB1). 1쪽 50건이 12월 중순에서 끊겨 연말 공연이 빠짐. 이 API의 website 필드에 공식 예매 링크가 있어 상세 페이지(0자 실패) 대신 이것으로 판정 (JOB11 2026-10-09 백설공주·빨간코 루돌프 대조)"
+  },
+  {
+    "id": "djac-performance-p3",
+    "url": "https://www.daejeon.go.kr/djac/performanceList.do?menuSeq=6709&pageIndex=3",
+    "note": "대전예술의전당 공연 목록 3쪽(JOB1). 1·2쪽에 없던 11월 말 가족공연이 뒤쪽에 있음 (JOB11 2026-10-09 춤추는 발레 FESTA 대조)"
+  },
+  {
+    "id": "djac-performance-p4",
+    "url": "https://www.daejeon.go.kr/djac/performanceList.do?menuSeq=6709&pageIndex=4",
+    "note": "대전예술의전당 공연 목록 4쪽(JOB1)"
+  },
+  {
+    "id": "djac-perf-5556",
+    "url": "https://www.daejeon.go.kr/djac/performanceView.do?code=5556&menuSeq=6709",
+    "note": "대전예술의전당 '춤추는 발레 FESTA' 상세(JOB1, 연령·가격 확인용)"
   }
 ]
