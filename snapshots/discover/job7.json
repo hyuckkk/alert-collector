@@ -1,8 +1,684 @@
 {
- "updated": "2026-10-10T02:08:01+09:00",
+ "updated": "2026-10-10T04:07:59+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1646,
+ "new_this_run": 87,
  "hits": [
+  {
+   "title": "2026 여행가는 가을 열차 운임 환급과 숙박 지원 - 브런치",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fYkRJLTBOb2tWZjFpR1hCY3RqVDNkWmVudWdtc3FQclpFLS11QWpETDIyYThSWVg0WS1CdVpud0cwOS1YRE9YVm9VX3Y4bFE?oc=5",
+   "pub": "Thu, 08 Oct 2026 16:00:17 GMT",
+   "engine": "gnews",
+   "query": "숙박 할인 쿠폰 지원",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "어드벤쳐 테마파크 노원구에 있어! #딜라이브뉴스 #shorts - 딜라이브뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5NWRHX3BFNE9DcnhyUTNRV0JqOVI1MXVfYU1JMndJOEZpS2YyNks5YzNRS3l0b3BqM1FULVlhTVRIaW5heTM1UkZfZmVVRnBBZUUxcU0yMUw2MUVnOF9SRHVqMFQwQQ?oc=5",
+   "pub": "Wed, 07 Oct 2026 00:29:33 GMT",
+   "engine": "gnews",
+   "query": "숙박세일페스타",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "성남시 9일 태평공원서 첫 주민 축제 연다 - 한국글로벌뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iOWtnQl9oaGlQM2hUWEVIdlpUWERVM0lJbkJVLXdKamVDUVY3cTFsMzhFV29Sbkt2bVNaVnI4enZDRFR5Tm1iVEhqNlQ3RS1oY2I1QzRmcEJDbUtXUzhmSnVtbw?oc=5",
+   "pub": "Tue, 06 Oct 2026 23:10:20 GMT",
+   "engine": "gnews",
+   "query": "숙박세일페스타",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "가평군 노인요양시설협회, 성금 200만원 기탁 - 한국글로벌뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsOE1NUzByOU1aWG55OC1YclJQT1dkRkliMjFmUlpfbEdRZy1tTU5aRG13Z2NTRE1jT3NtQjNKWjZsdDdpclkxMktzUE1lZHljek9ITDBwd0lkdk4tNHB4bDVVbw?oc=5",
+   "pub": "Wed, 07 Oct 2026 03:30:24 GMT",
+   "engine": "gnews",
+   "query": "숙박세일페스타",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "안동 '반값여행' 12일 2차 모집…일반 50%·청년 70% 환급 - 뉴스1",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10endwVmFjTXF3RFlISFR3cThKNU83cEozaTR0LUV3ajJCYy03N3I5MTN2Z3RUakhpdlpZUnJMMzlHTFNGaU12UjN1OTZmNzFsOGFraUk4WG5ad2tFczlF?oc=5",
+   "pub": "Wed, 07 Oct 2026 00:57:22 GMT",
+   "engine": "gnews",
+   "query": "반값여행 신청",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "'1박 2일' 이용진-이기택 합류 100일…사상 초유의 촬영 취소 위기 - 네이트",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjUktTV1dNRDJnSWp6N0RhQjZaTnJqSWV5ajVTM2Y3Rk1aZWxpSEdfaDVhejZfMlJKLWdnbXBFdndLLVowdWFHSW5fWURFbDdHLXJjZlRaazdCMlFEeUtMVg?oc=5",
+   "pub": "Sat, 03 Oct 2026 23:59:00 GMT",
+   "engine": "gnews",
+   "query": "1박2일 가족 무료 프로그램",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "재미를 위한 무료 슬롯 게임 게임 안내의 기호와 범례 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb3ROZ2lXdWgxMzJRYi03UnV2NnYzM3NQUnNZcWJzak9vRktxZERTN1FBempGVTNYdlR5V05aeDQxZFhfVW1kVEZEV2pkN3dnMERLdG5WZWZ2YVc1dEpkX3p6RGdCZTBacUp6NkhsUEduNU40ckV1bERRaEV2bElfTjVhN3M4ZWlGQWg2R3JFSGY4d3J0QktKZEJDc1ZBSGpoTXlj?oc=5",
+   "pub": "Mon, 05 Oct 2026 10:19:51 GMT",
+   "engine": "gnews",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "제38회 우포 따오기와 함께하는 비사벌 문화제, 25일부터 열려 - 트래블아이",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5adk12SlJtWVJLMm5yaGkzVWJNbEZ5a1BRZzNKcnNJV2kyLVQ4dDE1ZGtVV3pYUXNHSkZOenZtZVJuUVdqX0o4NGF4OFdZYjA?oc=5",
+   "pub": "Fri, 09 Oct 2026 01:12:51 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "“단풍놀이 기차표가 진짜 공짜?”… 열차 운임 100% 돌려받고 떠나는 가을 여행 꿀팁 [최현태 기자의 여행홀릭] - Daum",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zd2ExU3BtQWlmZjNNUXB1VTFQd19ibEdtYVNpNXBXNWJMZlptOU1oNXptVXhJc3R0cmxYWklZbVA3NFlZaVVqbl8wVDJ0bFBLc2FTYg?oc=5",
+   "pub": "Mon, 05 Oct 2026 10:25:18 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "증평군, 알록달록 별천지 가을 피크닉 개최 - 이트레블뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5mbHNTNVhSbERlZVdEODFyOVN6by1iTGFNUUpVRVczb2sxdU5iSS1KTFNfQXZ1OW9TWFFvY0RWa0xlOUhp?oc=5",
+   "pub": "Sun, 04 Oct 2026 20:37:00 GMT",
+   "engine": "gnews",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "안동 반값여행 2차 모집, 10월 12일 시작 - 데일리대구경북뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jUHN1bXJjZkJGZTg0MlN1cjJ5ZVhXaVhRdGppVm4tNFk5WnNFWC0yLXl6Y1NwRHptVmlhVWNEbE1lRUxHTmtmZmxLa1MxZzduQnQ2My1YdVhNWlJyTFUxU3RFUVdHUQ?oc=5",
+   "pub": "Thu, 08 Oct 2026 00:44:51 GMT",
+   "engine": "gnews",
+   "query": "반값여행 신청접수중 선착순",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "안동 반값여행 2차 모집, 10월 12일 시작 - 경북뉴스",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tR2twTkpMUXN6NHJzdHI1bi1wMjRmYlE3Sm9GMkl5OHpkemtvSmVLYWxocld1Y1FFZHhLZGg3ZkYzVTJQUUdLZjBKQk56cHBnM3VoVDg1S2dKbkVnbEVCa2I4SEo1YjVwX1Br?oc=5",
+   "pub": "Wed, 07 Oct 2026 01:06:48 GMT",
+   "engine": "gnews",
+   "query": "반값여행 신청접수중 선착순",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "산울초등학교, 15팀 학부모·자녀 함께한 올바른 식사문화 교실 운영 - 뉴스워커",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0Z1JrZU5FVUY4cVA2REJyejNYVG1Oa0RQX0dOR09CUUUwSWxQY3hsemtXWHdCRlk3Rjc0SXlGSXZ6Q1o0a1VLdUtIdHRFUGlZSlcyeWwwbzNOTEsxWG1yQWhTaTNxY2F2b3MxbHc5anHSAXRBVV95cUxOM0hCY2ZpZlRMNXNjNXFBVl9OSXktOFhRWkxoZjV1cVNXM1VMang0MllkTzJOeTE0RWxwNDlpaEUwS010TlVKUnZ2Q2VrRnNHdlluRUlacWhRMXg5QmFtTGV2N0RQaThVa2NQdEpvR3Y4MHpHbg?oc=5",
+   "pub": "Wed, 07 Oct 2026 10:14:00 GMT",
+   "engine": "gnews",
+   "query": "대전 초등 자녀 가족 체험",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "한자리 모인 탈북민 900명 \"한국 보통사람처럼 살고 싶다\" - 네이트",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6QnhGZmVaNGlQdDE4cnF4N01feVMyVGdZSDlrS18wQXo5WV9STUlVYmdvVG55UDZndFByMFZkaFlGeWZOWnZnaXdPQXdwZGJvZkJz?oc=5",
+   "pub": "Sun, 04 Oct 2026 21:02:00 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "대전 중구, 10~11일 ‘제3회 북페스티벌’ 개최 - 아시아뉴스통신",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlZ1lXa1FQdHNrUFlXSWx6MnpnRW1BVHdySllYYmwwbnpLNmN6bFRWcWNJVlJXdGpja1VKQzBtdWZRYkw2bHRqSFpoZUFvTVk0cUVqc3pwR2lnWHZSU0xPaXJYdldqZy0zYTNyTmlUT3haT2lh?oc=5",
+   "pub": "Wed, 07 Oct 2026 09:54:42 GMT",
+   "engine": "gnews",
+   "query": "대전 중구 가족 체험",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "[현장] 대전 동구동락축제 ‘북적’… 가을밤 달군 음악·먹거리 풍성 - 천지일보",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mQnNEaXNHOVpLR1pva1czaXVfNWpFQ0lYY2JFMnNqZWt5TG54a2pvMkdQdmJmOUVfT0RZV19KOTBfVjNSVGxiRG84U2Q0cnFGMlRhZ21kV2NYQ2xMczFQV3VLUm9xUkVvTFE?oc=5",
+   "pub": "Fri, 09 Oct 2026 11:50:03 GMT",
+   "engine": "gnews",
+   "query": "대전 동구 가족 체험",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "의견과 민원이 접수됐으며 소관 부서의 검토와 현장 확인을 거쳐 처리 결과를 주민에게 안내하고 있다. 바로 해결할 수 있는 생활 불편은 신속히 조치하고 어린이공원 배수시설과 안내판 전수 점검·정비, 통학로와 체육시설을 개선하는 등 주민의 목소리를 생활 속...",
+   "url": "http://v.daum.net/v/20261008084554484",
+   "engine": "daum_news",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "내포 어린이병원은 소아응급실 등을 갖춘 30병상 규모로 건립해 2028년 개원에 차질이 없도록 추진한다. ▲6일 홍성군청을 방문한...서산시 공항과 충남혁신도시, 청양·세종을 거쳐 대전까지 연결하는 '충청내륙철도'의 제5차 국가철도망 구축계획 반영을 위해...",
+   "url": "http://v.daum.net/v/20261007043343607",
+   "engine": "daum_news",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "상담·접수하고, 처리 과정과 결과를 체계적으로 관리하기 위한 '도지사 직통 현장 민원실'을 운영해 큰 호응을 얻었다. 홍주문화회관에서 군민 600여 명이 참석한 가운데 연 군민과의 대화는 박수현 지사와 홍성군 홍보대사인 이상벽 씨가 홍성군의 발전 방향과...",
+   "url": "http://v.daum.net/v/20261006154755008",
+   "engine": "daum_news",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "내포 어린이병원은 소아응급실 등을 갖춘 30병상 규모로 건립해 2028년 개원할 계획이다. 중증·응급진료를 담당할 300병상 규모 종합...거쳐 홍주목관아와 성벽 등을 단계적으로 복원·정비하고 체험·교육, 문화예술 활동이 어우러지는 역사문화 공간으로 조성한다...",
+   "url": "http://v.daum.net/v/20261006154142686",
+   "engine": "daum_news",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "상담·접수하고, 처리 과정과 결과를 체계적으로 관리하기 위한 ‘도지사 직통 현장 민원실’을 운영해 큰 호응을 얻었다. 홍주문화회관에서 군민 600여 명이 참석한 가운데 연 군민과의 대화는 박수현 지사와 홍성군 홍보대사인 방송인 이상벽 씨가 홍성군의 발전...",
+   "url": "http://v.daum.net/v/20261006150543786",
+   "engine": "daum_news",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "내포 어린이병원은 소아응급실 등을 갖춘 30병상 규모로 건립해 2028년 개원할 예정이다. 중증·응급진료를 담당할 300병상 규모 종합...역사문화 공간으로 조성하고, 용봉산권역에는 숲속 체험시설과 전망대, 산책길 등을 확충해 내포신도시와 연계한 체류형 산림...",
+   "url": "http://v.daum.net/v/20261006145611237",
+   "engine": "daum_news",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "사항을 접수하고 처리 과정을 관리하는 ‘도지사 직통 현장민원실’도 운영됐다. 도는 수도권 공공기관 2차 이전에 대비해 기후...의료시설 확충도 추진한다. 지난 4월 착공한 내포 어린이병원은 소아응급실을 포함한 30병상 규모로 건립해 2028년 개원할 예정...",
+   "url": "http://v.daum.net/v/20261006130120409",
+   "engine": "daum_news",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "펼쳐졌다. 해양경찰청이 제공한 '대한민국 해양사진대전' 수상작 등 해양사진 12점과 해양 및 생태를 다룬 추천 도서 23권이 함께...앙금을 빚어 밤만쥬를 만들어보는 참여형 수업으로 진행됐다. 행사에 참여한 어린이들은 책 속 지식을 미각과 촉각으로 직접 체험...",
+   "url": "http://v.daum.net/v/20261005115910050",
+   "engine": "daum_news",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "새총쏘기’를 비롯해 젊은 층과 어린이들에게 인기를 끈‘ATV’, ‘디스코팡팡’, 체험형 ‘쏴봐이벌’ 게임 등이 운영되어 관람객들...대폭 확대·개편해 미식의 즐거움을 한층 더했다. 사전 접수 조기 마감을 기록하며 뜨거운 관심을 모은 ‘아궁이 쌀밥 짓기...",
+   "url": "http://v.daum.net/v/20261004160319674",
+   "engine": "daum_news",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "제천시, 어린이 자연생태 과학체험공간 조성…2028년 상반기 개관 - 신아일보",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvOE93ZmxkbGFvRFBWdmhxYnVLQzlqZGVQcnVnX19uWmlMY25pRnhkM0xpWFBKVzc4Q0tBaGxKTkhKcFRoaE5teWpMR196VC1ueE1lb29aM0NvQWRrQXA4QmYxWjdMeHNYdlBWNXV5Zkg?oc=5",
+   "pub": "Wed, 07 Oct 2026 00:35:10 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "대전 유성구의회, 대정초 학생들과 펼친 생생한 의회체험 교실 - 전국매일신문",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ucjE0YWM1VFZjRXVFcDNYemM2Mzhha25uTjdVVnBZbkY0UnRWYURFZXFUSjFEdUFOVlNKVTdOWG4tS3lyMllocFh1R1MxbmtQSl8zVVNKTHZiRkdhWlVZTXMyYWpLYW1memZ3V2dR?oc=5",
+   "pub": "Tue, 06 Oct 2026 02:59:32 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "대전시의회, 천동초 어린이들과 생활 속 의제 토론 - 비알뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWS3prcDBpdWxYRWNaTW5FVkNPTkRQZGRxNlZlQzhHVXFYbnhqX1d4eVd6b1NYbk9XUmJKcEE0ZHN1ZlkzaDl1X0YydnhhU0c1N0NWM2RPaVBnU1hMNXhuRGNzd0NBS2xEbXc?oc=5",
+   "pub": "Wed, 07 Oct 2026 12:15:42 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "백제문화제 개막…부여 시가지 축제 분위기 ‘물씬’ - 주간한국",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xY3E5UHBTOHp5d19KeXlMVDFDdU4wNGt6UGxCU1NLX0RRNVpFYi1HS1RpY0ZvSjhTYlY1a2FBWDJnZmtRSDdENDFmSVRlNGFQUFByNTFnUlNERnZWSDVlMEduSUZLV2UtY05OMnNDZGjSAXRBVV95cUxNQUJlT0t1N0hGNkMzZDgtR0FwUlQxTmMzMTZuTTZVc19pbWoyNjAtV20wUGJ5Z2FJM010THFRQ0plNnJhZGRtRzVQRmlXVUh5WWRxbndCSjg0cktPaHhRQVpZRVVPNzA0QjZmOVBqa0d6cmlTSw?oc=5",
+   "pub": "Wed, 07 Oct 2026 01:30:30 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "대전갑천초등학교, 2026년 불조심 어린이마당 최우수상 수상 - 대전시티저널",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JN1BfN3RReURnMFlaWkhZaEtrRnZWNHFKTkdreUZNVEhNXzRzMnVyRGZtUjVKZWRTUzcwSy1wWmd2R3JrLXlmTGhkbV9RaU9rckhmT0hqM2prYjFJdldMUEJzRlp3dw?oc=5",
+   "pub": "Thu, 08 Oct 2026 07:45:27 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "대전 서구, 아트페스티벌과 함께하는 ‘자원순환의 날 행사’ 개최 - 미디어투데이",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90b1ViOXBWNjZZQlVaNVhLSDdIbERNQVNHdEgybjFuajAwTUJhSFIyMUJwRXNMaUhsOTdXRUhJZS1mbkRjOVI3cWlR?oc=5",
+   "pub": "Wed, 07 Oct 2026 00:45:00 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "철도로 넓히는 아이들의 배움과 돌봄 - 충청일보",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02YlJ2LTh0VVF1OVBYbGw1VW91TGlraWE1WVZHRndseC1vdUYwanBZZkdvamhPQlppUkhaeDdfQzEzZXBaTEhkRm1lRXBMbVFjUU9OTmEzR3loc01qbTVKNVJfVUlkdXN0OURjclRoMlo?oc=5",
+   "pub": "Tue, 06 Oct 2026 05:58:45 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "제천소방서, 어린이 400여 명과 함께한 ‘119한마당’ 안전체험 행사 개최 - 신아일보",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yTGlTZk1TaUVHOEtnajdyQnBxT3c0c0l3YzA5VEJzR1lVUG94N0x2aG1TLUN3cGo2RW5UeFk3a29qSExTYVVfNnpaanhzeWdmaklucWhVZERYSXluM2g4QVhmNzVGbG1hUEtKckZGd08?oc=5",
+   "pub": "Thu, 08 Oct 2026 01:39:10 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "제17회 대전효문화뿌리축제 성황리 폐막 - 투데이플러스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fMXpJY0hzc1VoLTU3amtHb2JZZkU4OU9TVVczWEJyVVA5Y1VJQlk4VlB6VlpTN2UzUVRiQWNOMzlLa3lrMzM4eTlqVTVueG82Mm0wTEVvZ1hQeDFFc2dCNUFCcC1WR014?oc=5",
+   "pub": "Mon, 05 Oct 2026 01:32:38 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "세종한글축제, 책·교과서로 꾸민 한글마당 연다 - https://www.newsphere.kr/",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yU0l4eVZpcmhINkdMQktsdU5IWEpkTlVMbTlmTGQ3QV95X0pWeFNkN0JMcl96ODY1alZsUWlSRHhrWmFiOEtZaHJ0MWZnNWEwQ0FESzlEWlNvamFON2ZDSjU2bjREM2FY?oc=5",
+   "pub": "Thu, 08 Oct 2026 07:39:43 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "[알림] [모집]과학마술쇼부터 드론·AI 체험까지! 2026 세종과학집현전에 초대합니다! - 헬로디디",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92Ym1EejVvNDIybnZHcU40TE1Ld0R0aDc1c1oybnRjWGQ1NXJPakVOLXR3bHJsdXRYZjE1OFp0OWtldTRTd0gzRldrY1pwZkdLNDQ0NEZVMXRxcm1ScGc?oc=5",
+   "pub": "Tue, 06 Oct 2026 05:01:58 GMT",
+   "engine": "gnews",
+   "query": "세종 가족 체험 모집",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "3대 가족 함께 친 파크골프…세종시설공단 체험행사 성료 - 세종시민일보",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zbjdIcmZrUWwweEZheEkwZUFKaVJhenM1VEU2Nk10cnRmbE5MY2FzNFpKWkZPRnFrVlFSMXVacndZeVlRLVdmMTZOVDhlVVdQWmFBV0FPODdST2RkbEFsQm15RGpUcjFqNG93aTljZXp1UGM?oc=5",
+   "pub": "Wed, 07 Oct 2026 01:54:43 GMT",
+   "engine": "gnews",
+   "query": "세종 가족 체험 모집",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "[알림] [모집] 이정모 과학커뮤니케이터 강연부터 사이언스 마술쇼까지! 「2026 세종과학콘서트」 #10.23~24] - 헬로디디",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0weUZTMTRnY1FrMGdqWFdUUDA5bnFLdHhTWXZ5M1l4Mi1yNWpwT0ZIOHR3QU1EM1ZVTlVnbmdNekxOTEJxTU85QjZOU1VCalB2TXlPVEJtR3BQWHNfSVlheDE3QVNsZlg2eDRWa3BSY1E?oc=5",
+   "pub": "Tue, 06 Oct 2026 21:48:21 GMT",
+   "engine": "gnews",
+   "query": "세종 가족 체험 모집",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "놀이와 문화·예술·체육 활동을 경험할 수 있도록 했다. 아이들에게 방학은 배움이 멈추는 시간이 아니라 새로운 경험을 통해 자신을...시간이 됐다. △다름을 넘어 '우리'로, 마음마주 어울림캠프 뜨거웠던 7월 2박 3일간 국립중앙청소년수련원에서 이주배경학생과...",
+   "url": "http://v.daum.net/v/20261005145457675",
+   "engine": "daum_news",
+   "query": "대전아이 캠프",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "법문화 체험을 통해 생활 속 법과 민주주의의 의미를 배우고, 대전시민천문대에서는 천문우주과학 체험을 통해 우주에 대한 호기심을...수 있어 즐거웠다”고 말했다. 최유철 의성군수는 “이번 캠프가 아이들이 다양한 경험을 통해 자신의 꿈을 발견하고 미래를...",
+   "url": "http://v.daum.net/v/20261005085230030",
+   "engine": "daum_news",
+   "query": "대전아이 캠프",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "대선 캠프 할 때 그때 들어가게 된 거죠. ◇ 박재홍> 그랬군요. 사실 10년 동안 이 책을 쓰신 거잖아요. 그러면 사실은 10년 동안 역사와 대화를 하셔야 되는 거 있잖아요. 그림도 있으셨을 것 같고. ◆ 윤태영> 그러니까 하루 종일 글을 쓴다는 게 뭐 예를 들어서...",
+   "url": "http://v.daum.net/v/20261003091801568",
+   "engine": "daum_news",
+   "query": "대전아이 캠프",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "【횡성】국립횡성숲체원(원장:노희부)은 산림복지 전문업과 연계한 ‘우리가족 숲투(two)어’ 가족 캠프를 운영한다고 2일 밝혔다...기여할 것으로 기대된다. 노희부 원장은 “이번 가족 캠프가 숲에서 함께 활동하며 서로 소통하고 소중한 추억을 만드는 시간...",
+   "url": "http://v.daum.net/v/20261004205535799",
+   "engine": "daum_news",
+   "query": "숲체원 가족 캠프",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "김종남 신임 산림복지진흥원장 취임…“포용적 산림복지 실현” - 산림신문",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51bVhZbnFuWG5zQ2JEdHBoVzZGMS02ZHpYWVRjdlljUGlTa0FjMnVSckUzckxqOEt6cEdxRW5XZ3FIbEdjcXprTmttUHk1RHBVTkQ4bXd3?oc=5",
+   "pub": "Tue, 06 Oct 2026 06:12:35 GMT",
+   "engine": "gnews",
+   "query": "숲체원 가족 캠프",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "광장에서 2026 세계 동물보호의 날을 기념해 열린 서대문 펫 동행 페스티벌에서 반려견이 명랑운동회에 참여하기 위해 대기하고 있다...보호자의 심리적 어려움을 덜어주는 지원 프로그램이 서울·대전·경북 구미에서 운영된다. 반려동물의 노령기 돌봄부터 이별...",
+   "url": "http://v.daum.net/v/20261008110221320",
+   "engine": "daum_news",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "대전 중구, 효문화뿌리축제 현장서 안전문화 확산 캠페인 - 신아일보",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhYWdxVzYtYzBMSmdWbnA3SHlnNnh0Nm1YYUVrLWZGSGRBQXppSExhYk5PaW9ZZjlZQTY3ZXpIS1pxWTBBcEZkcmN2dDFTNU9WLVBCV1VraWhHd3VkQmk2NXlZRERjd0RUQTRyMnhyZXY?oc=5",
+   "pub": "Mon, 05 Oct 2026 01:20:10 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "대전 서구, 아트페스티벌과 함께하는 ‘자원순환의 날 행사’개최 - 미디어대전",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XVVVwaFllYk5EcUloMUtRRUJwZ0FraHo4cFBZQk1sLThpWVFTNGVZTEY2NUtVSmZIaDlrT0VveWVmRkJyam9waWhERE5KdW5HY3Ria29zVDZOMjZqUGxtaUVlOUZ1Zw?oc=5",
+   "pub": "Wed, 07 Oct 2026 01:34:43 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "대전 동구, 민·관 손잡고 ‘촘촘한 통합돌봄’ 만든다 - 한국시사경제",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13NGxZa0I5TGk4RjhHRVVEQnlENEhDUUlzcE1RWDFVX3BxTW5lMHdXSkc3Q0tKTW9nVWNWaUk1ZWZ3VjZ6azVtYzM2LURjaTBNVDR1MkpvQl9Ednh2bk5WYll1Vk5pLVl1WWc?oc=5",
+   "pub": "Wed, 07 Oct 2026 06:32:23 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "대전 동구, 코레일·우송대와 ‘초등돌봄’ 협력 맞손 - 더뉴스코리아",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9NbmMwenhjblJYcGZTZ1NKR0ItRUE5dkxGa0NVZktDeUdnUTZkLWIwM2h5RU9WNnF6SEUxcnpaS05NVm1kRThnMHpR?oc=5",
+   "pub": "Tue, 06 Oct 2026 05:07:00 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "동구, 16개 기관과 ‘촘촘한 통합돌봄’ - 충청헤럴드",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEbzR3clVNMDVtckRGUnJ3RkxmT1lzN1d4algxX2sxQjJnZkFiU3lqcFF0S0ZzVjZSZlVyTTAwYjF6cHZ4VmZXV2U4NlhpdWwyc1pYTTYzNzhwTWNQYWcwRTI2S2MxVnM?oc=5",
+   "pub": "Wed, 07 Oct 2026 20:24:06 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "오석진 대전교육 100일, 이제 ‘실행’으로…AI·돌봄·안전 변화 본격화 - 행정수도뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCdFRtNFk5ZEctdGZnT0dYTjVyNWk2dkhmNXFDNjdDd0JXbGtLdFdneklSRGlXbVhDQTJlSjJRTmZGcENVTkdtdXBkQThFUkx1aTB4TENWQ3BiMW95RmZxLVJobThRa3c?oc=5",
+   "pub": "Wed, 07 Oct 2026 23:20:11 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "제30회 샘머리백일장, 11일 대전 서구 아트페스티벌서 열린다 - 로컬투데이",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OaXRaX2RETHRjRkdrcjRzWUhxb3B1MjBySTd5b1NpSjVzRXoyV0lETU9VbVcwUWF1Qk5IMTI1VmpSQnhOS01JVlpQTEFEdy1DNkgtYngxNlRPLUhiNnlLYlhZWFg1dGtfTlhZWWZlMGE?oc=5",
+   "pub": "Thu, 08 Oct 2026 08:59:13 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "대전시, 민선 9기 77개 공약 실천계획 확정 - 경남도민뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OS20tb0ZRRFJmSEVBT2VsUW51Zm9uNEV6NzFteWFLQUs3THVfczdqaHBaNGRwN0dYZC1fcDdadlNkcXNXelFHZlpUd0tBQUJSZUVjRDhSRW1YMS1QWkpMblVIaw?oc=5",
+   "pub": "Thu, 08 Oct 2026 10:50:18 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "9월초)다. 내가 더이상 보여줄게 없다는 생각을 하고 아내와 상의하고, 구단과도 면담을 거쳤다. 평소에도 은퇴에 대한 생각을 진솔...김민성은 2007년 신인 드래프트에서 2차 2라운드(전체 13번)에 롯데의 부름을 받아 프로에 입문했다. 이후 히어로즈(현 키움)와...",
+   "url": "http://v.daum.net/v/20261009140549932",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "osen.co.kr 지난 7일 고척 한화전을 끝으로 정규시즌을 마친 키움은 10월 말 마무리 훈련을 시작한다. 하현승을 포함한 신인들도 합류...한 번 물어봐야 할 것 같다. 본인이 (투타) 두 개를 다 하고 싶어하고, 잠재력이 있다고 보면 야구인으로서 두 개를 하는...",
+   "url": "http://v.daum.net/v/20261009070812644",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "신인 드래프트 시장에서 두 구단의 지출은 180도 달라진다. 삼성이 10명의 신인에게 지급한 계약금 총액은 8억 원. 10명 다 합친 몸값이 키움 하현승의 계약금인 16억 원의 절반에 불과하다. 삼성은 1라운드에서 지명한 광주진흥고 우완 투수 김민훈에게 계약금 2억...",
+   "url": "http://v.daum.net/v/20261009070639631",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "미래에셋증권은 해당 종목들의 신용 한도를 줄이는 방식으로 키움증권과 NH투자증권 등은 신규 신용을 중단하는 방식으로 15%룰을...투자업계 관계자: (삼성전자·SK하이닉스) 두 종목은 웬만한 데는 다 포함될 것 같고, 다른 대형주나 코스닥 테마주도 들어갈 텐...",
+   "url": "http://v.daum.net/v/20261008173504499",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "팬들과 구단들의 초미의 관심사는 '외국인 선수 보유 제한 완화'다. 현재 KBO리그 규정상 구단별 외국인 선수는 최대 3명(투수 최대...각 구단은 매 시즌 극심한 전력 누수를 겪어왔다. 올 시즌 키움 히어로즈가 외인 타자 2명 체제를 가동하는 등 변칙적인 시도를...",
+   "url": "http://v.daum.net/v/20261008171202403",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "추진한다. 비전에 담긴 ‘나의 꿈’을 정책으로 구체화한 것이 첫 번째 중점 과제인 ‘뜻대로 꿈대로(大路)’다. 경북교육청은 ‘재능찾음–재능키움–꿈길이음’으로 이어지는 지원 체계를 바탕으로 AI 기반 진로·성장 플랫폼을 구축할 계획이다. 학생이 직접 세운...",
+   "url": "http://v.daum.net/v/20261008105516891",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "“숨은 강소기업 찾는다”…키움증권, 15개사 모은 ‘콥데이’ 개최 - 디지털데일리",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JTEpfSUNGVkYtX2FBSjZ5VEE2a21wRF9sRF9oSmR5YzRqaE9kV3BOZEFDTWVtc0hjME1aTjFwdmp1WU9PajFWcVZjLTFUNGZDQ2NleVAtNXM1RnlLX3Z5bXZB?oc=5",
+   "pub": "Tue, 06 Oct 2026 00:46:25 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "MLB 뿌리친 하현승, 16억원 ‘KBO 역대 신인 최고 계약금’ - 경향신문",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kRUl4QzFGSXRtNFgzc2tLbzRZblJFeGlvdU8wZjg3SjRqNXhmN2RMLUxnVmc0Nzh0MTluLURfMzlWYkJUWTZuWjlEZE5UcDR1WDdMaVhGTjdJbW41Q29z0gFfQVVfeXFMTmRFSXhDMUZJdG00WDNza0tvNFluUkV4aW91TzBmODdKNGo1eGY3ZEwtTGdWZzQ3OHQxOW4tRF8zOVZiQlRZNm5aOURkTlRwNHVYN0xpWEZON0ltbjVDb3M?oc=5",
+   "pub": "Wed, 07 Oct 2026 11:35:00 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "[AI프리뷰] 5일 대전 한화-키움전, 21경기 만의 시즌 첫 승 도전하는 키움 전준표 - 뉴스핌",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWHZIa1ByeEEyd0NMSjlLRGwtelJzWG5ILUJzeHZtSnJCalBpUEhaR3VVTnRHcEltb0VsUG5fanozVXFjb1pJVjZCTDhvamlBV3BzN3pZZGpLblJI?oc=5",
+   "pub": "Mon, 05 Oct 2026 03:03:00 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "키움증권, 스몰캡 콥데이 개최…강소기업 15개사 초청 - 서울경제TV",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wMHQ3OTNxcUJMVENIbERlb3FzamtwM3R6NWp6elZOdDBfRGR5UVhFMUNnM1E0MzlkQ3RMVUtBQ0JHVy0wYjlEeVNBeWdvbFBEU3ZsTU1XQUx4aE1VdEpTR1BZU1o?oc=5",
+   "pub": "Tue, 06 Oct 2026 00:23:25 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "키움증권, 15일 강소기업 15개사 참여 '콥데이' 개최 - 코리아리포트",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MQzh6bE9jMUVqRnNMenA2M3hseHlRR1ZKUThkd3djbEVoQ1NlcFdNcDBONG00MHJPTVJkODJzcWEwaVlfUmtzcHVqajM5azZET2ZaRmtiNUlnVGlXYW1lRFFHNjQxUVlQTndxX2g5S2U?oc=5",
+   "pub": "Tue, 06 Oct 2026 11:21:21 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "키움 히어로즈의 ‘3대 미스터리’…4년 연속 꼴찌의 괴이한 현상 [김대호의 야구생각] - 더팩트",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02bDJ1S05NSWV3ajFJUFNkdXhaZEdjc1U4TzFTN0s0cTJodFpPa19ROVh4RzJKNlM0bDdCaHoxRE5mS2l1enhRal9QSXpPMmMtNGc5ZDZnN3dGUUXSAVZBVV95cUxORHFiR1lQVHBHWWl1MW1NMThRZWFQc1JjWkRkdTBqdUlzbXZ5SFZ3RUFBNXZpaXZNWVp2WXJjYzRjMURrR0dteHlIV1RaUXJEbkk4Nl8wUQ?oc=5",
+   "pub": "Sun, 04 Oct 2026 15:00:05 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "[더밸류 브리핑] 오늘의 증권사 소식...키움증권· 유진투자증권 - 더밸류뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01NEZSWl9DSHFvSVc3aVQxelVIbjN1bk54YUV6cS02Z3JVc3Z6dzc1WElIckE2Wnl2QjZkQm1qVUw3OV8zVEt0X3hwbEFMR2tXN29UVQ?oc=5",
+   "pub": "Tue, 06 Oct 2026 07:48:27 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "키움증권, 강소기업 15곳 한자리에…중소형주 투자 기회 발굴 - PRESS9",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52WHhwaW50LXVrV1BEOGJzeGFPazFpb3VXQm83ZGMtT3gzRGY0OE9wRG40RkhKN19jTXh0Y2lzOG9NUFVBam9sM3JzWm1uMGxOTTBlVGlISkRKLWxGX1VFSmlVWV9ZUQ?oc=5",
+   "pub": "Tue, 06 Oct 2026 06:49:42 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "키움증권, 강소기업 15개사 초청 '키움 콥데이' 개최 - FETV",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oZk42dkVOLTJRYzJ3WVNObE1hd2Z1VzZPTThEcnVPV1YtNUZDbllGUHhSOVdEdDNBRnE4Y1phRVp6LWl2cHg3UURXNjRfLWJ0TkozS3J4NkFKcnFvTlZMTVBmOW5MVU5Q?oc=5",
+   "pub": "Tue, 06 Oct 2026 01:33:06 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "키움證, 강소기업 15곳 ‘콥데이’…개인투자자도 참여 - 서울경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFcllBNUJwSXIwSWhhVWJLMU9WR1VpWXdDTkFydWRHRDh0WDFoYkthMW43akNwZEs3Z2tvVzJvR0hObHZKeS12cVdCYmF1anl3b1HSAVNBVV95cUxPMnNBT2wxODRfSUdDOHJFT2daOTh2YnlVTklaUGN3bzNFaU53YWpaSmVZQWtETlo1d2JNMXQzY2pMMVktQ2FjUkFvOUFfbTliMmVoZw?oc=5",
+   "pub": "Tue, 06 Oct 2026 01:47:25 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "키움증권, 스몰캡 기업 발굴 나서…15일 ‘키움 콥데이’ 개최 - 시사캐스트",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zWVJBRTU5V01pcHBELUZlaFlSLU5keUpWUkV1U2hnT2x4b1ZHai1sMFN1YlVCUDF1MHpERUMtcE5qZkk3VEkxVnFsdUowTE9JUi1KQlAyOWVVZklLaHFQeEpvel9Hd2FK?oc=5",
+   "pub": "Tue, 06 Oct 2026 11:02:00 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "순천시, 다둥이 가정과 꿈키움 기업의 행복한 만남 개최 > 뉴스 - 더코리아",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lTTNwbm9UQ0JYVmxia0pCSVMyZEtGSHdjelhCNGR4aVY2WHNzRDljM2l6bVZMazk3Z28xQWNIZk9PdjEyT3NJYmNhTFU1ZnJYUVpuT1Fobnhib3pNR2JmRXFrbGl2MnItT3lVVnFqaUY?oc=5",
+   "pub": "Wed, 07 Oct 2026 08:24:00 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "키움증권, 15일 ‘콥데이’…강소기업 15곳 투자자와 만난다 - 이지경제",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BVnRoOHNmQllJQWZFVFR5ZlRaSlZOV0xJemZuZEI5Wi1ITDJDNk03OW9fY0xobER2ci1QUmFpNWp5ZkVHWG5HQ0ZTOW16RndSZGpJRnBLWGlVdmpET0FmUjBNNE5yNzlMdElGaHh3?oc=5",
+   "pub": "Tue, 06 Oct 2026 00:34:32 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "\"제가 히어로즈 올 수 있으면…\" 강정호, 키움 응원단상 오르려다 거절 당하더니 \"히어로즈 때문에 힘드시죠?\" - Daum",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YZGNvbmwtUHZ2T2M0Q0RoS0NxenY2YUpUZ2tvWUVVWk1LYms1VkNtdk1UY2RmWEl1aXEtM0tDQ2RfOWphWWlMZXVqeFJkYlNQSDJUaQ?oc=5",
+   "pub": "Sun, 04 Oct 2026 17:27:42 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "키움證, 국민성장펀드 120억 추가 판매…2차 물량 소진 - 서울경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52MjNXVXpiVk83eVhSNDRSUUlLYWlxd1l1Rm9HZEo0dkJUQmdpT3Y5Yy1TSWY2QlU3a3ZoV0hUTWtyQ0pzTEI1UjR4TklNdlJxMXfSAVNBVV95cUxPeXA2Y1JNM2tpN3RoSU0xRmRnRzA2ejh0Y0trUFd6OGtmTXNPU0x3Qm5KTXI0QVRkU3ZEdjhzREJreUtIUm80NXY4QjhOTllwMHlDbw?oc=5",
+   "pub": "Thu, 08 Oct 2026 05:18:24 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "현대제철 순천공장, 다둥이 꿈키움 사업 참여…8년째 양육비 지원 - 국민일보",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aLVNqNE9MNlhQUHdCYzI1Z1lydzFrWEotYUtBLTlSZTVCM0ZjTjRBN3dzY0c2c1BqVjd2MkhzMlNsdTdoVzZ6QVBIMHEyTWJ6VEVsdHRTcnoxYmlZb1Z3Rm5ZdE5uT1HSAWxBVV95cUxQX0xOeVVBVGNhdVRpN2JRQVRCcWg4SGdVZ0JGV2c3cDV0Vm9WdDMycTNVWUh5Tkd3ajJwSzJfcjBMTnFXX1dUVWFYU09oTHNleWdyUE9qNGw5NHgwXzljOGVZY0Q3dWVfanp6VUk?oc=5",
+   "pub": "Wed, 07 Oct 2026 09:58:00 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "현대제철 순천공장, 다둥이 꿈키움 사업 8년째 참여 - 쿠키뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00UDNwNHBuUkMzY0NZdVFuNlpUVzBGVWNIdFFHMzZSSmZONzMxTzFodnE1RTZZdVZjamdDdUFiazVyT0NPSk1uS2lUTnFuWTd0Y0xLcy01MVpzOTlETUJTRG8zcw?oc=5",
+   "pub": "Tue, 06 Oct 2026 23:41:57 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "키움증권이 고른 ‘숨은 강소기업’ 15곳 봤더니…AI·로봇·배터리 기술기업 한자리에 - 이코노미사이언스",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SRHVEajJiM1NTZktUa1RLMEhwVkFGNUg5c3FtWGZEY1VXM2xLUFlDb3RlZkRTbHIzQlo1clFYdmpUamZDSDUzMURwZENqZE9oQ2U1RmRndkpfYi0wR2V2UWQ2TGEwdkxaM0liRHZhaw?oc=5",
+   "pub": "Tue, 06 Oct 2026 05:58:58 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "키움증권, ‘국민성장펀드’ 2차 물량 반나절 만에 완판…120억원 추가 배정 판매 - 메가경제",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Gd3I0b2o3dEFoeC1USldrZXVvUGhWV1J4Um5tSmNQNndwd3dudGRsSWNkTG5USHlRRW1fX2R3ZlFOUG5ySlVhUUJtQi1ndTA5Nk4xLWZINGJxUkllMWZqUS10RjR6NjhpMU1JSkxqa2dkUdIBckFVX3lxTE1Gd3I0b2o3dEFoeC1USldrZXVvUGhWV1J4Um5tSmNQNndwd3dudGRsSWNkTG5USHlRRW1fX2R3ZlFOUG5ySlVhUUJtQi1ndTA5Nk4xLWZINGJxUkllMWZqUS10RjR6NjhpMU1JSkxqa2dkUQ?oc=5",
+   "pub": "Thu, 08 Oct 2026 03:26:04 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "순천시, “아이들의 꿈을 함께 키워요!” 다둥이-꿈키움기업 행복한 만남 - 뉴스라운드",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQU1VxZ19xQzJ0TFlZanNSbC1Wam81MmVmWk1NNjNtMDFyUm5ISGJLQ0hDLUIwSzdvdkNiYW1MNmhoNmdqT2RZU2pTalB2SjhoTDNmX19iT283NWx4eHhlbEJITFk3WERWSFJWQtIBcEFVX3lxTE02d2VCaVBNVkI2ck5PMmhTVXdQOGpLRzVFUGRQejNxYVRfY2hKamdwT1ZoOXhFZlBrUjJqNVhpejBGMFJQU09BYlItdWZZcDRkcHpQVklkN0NVODVOa0piOTV3VzRBTDdMSVp5YldyMzc?oc=5",
+   "pub": "Thu, 08 Oct 2026 08:28:35 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "키움, ‘9번 타자’ 트렌턴 브룩스 방출…대체 외인 케스턴 히우라 영입 - 쿠키뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmdzE5RE1TSFZjeTZ0SGwwY2JvZXhNa3NnNENOLVMtQ3dSek5kYldubExhUjY5bnFmd0FTdnRXT0RzUms0RWJySDUwbXdCeUtLUzQwbURYNzlRX3puLWNVQXphaw?oc=5",
+   "pub": "Sat, 03 Oct 2026 14:26:12 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "순천시, 다둥이 가정과 지역기업 잇는 ‘꿈키움 동행’ 이어간다 - 시사의창",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pcFlrcGhwc0hWMS1OakVxeXZnX3FOVm1zZGRuM3puWGg5ZzQ2d3FfeWJFbkRMam1felNGYUJsdGNxMERwUHdaWWhvZ21jb0FlM0diRQ?oc=5",
+   "pub": "Wed, 07 Oct 2026 13:34:09 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "오타니처럼 투타겸업? 키움의 '보물' 16억 유망주, 원하면 다 해도 된다…단 이것부터 시작 [고척 현장] - www.xportsnews.com",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kemRFTGNITVdWTFZyV0o2UnFyM0t2VmFYdDFKT3RuRV80aVZYeFpwLXB6RXc1U2pjR1pGNVRYWWhlcExCTnp5TTFBenlCRUJoeDRUXw?oc=5",
+   "pub": "Wed, 07 Oct 2026 16:03:45 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "순천시, 다둥이 가족과 꿈키움 기업의 행복한 만남 개최 - 웹이코노미",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoZHlYNnFaS3BuNEpSZnkyTGZfWGMzaUtLeEdBRlRwcmUyUUdOT1NLNXJSbE81XzJ0UnU0RFcxWmV3VjltR2VLVWdEMGdZcnNkRExVbUZJU0poS2Q5dHNYd2xaOUxZdUFmdHdTUHNZSzNxQQ?oc=5",
+   "pub": "Wed, 07 Oct 2026 10:09:05 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "2027 키움 대격변 일어나나? 외인 구성부터 고심 중…샐러리캡 최하위→투자 가능성 질문엔 \"단장님과 상의하겠다\" [MD고척] - 마이데일리",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pQzRBd0N4MTFqUzZ4cUVsUFdRbS1lbVZpbFUxQlBwWThsZlFkSktXMml6MkphNlNvdmpCN2U1SWhGM3l5enUybUY5OVh3Y09kcm5pU1l6eGpBQmlXdGlyZWF1M3kxdw?oc=5",
+   "pub": "Tue, 06 Oct 2026 07:42:00 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "의령군, 초다자녀가정 양육 부담 덜기 ‘지역사회 한뜻’ - 파이낸셜경제",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iY292MUw1VDZ1Sk91VzFaTVR2dnFLZ0thSVNjWThFeWRvUnA2NTdWQTFJdXdPRi1LM3o2ZGhBeU40WjgyQTJUcjRBWklGRFltRGEwVHctbXBWVjF5VG9yUUtTdW9OZTBEd0NtZHNLRWk?oc=5",
+   "pub": "Thu, 08 Oct 2026 06:20:27 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "“티머니 광고 찍고 싶다, 키움 돌아오고 싶다” 데이비슨의 진심…KBO 110홈런, 이런 타자 잘 없습니다 - 마이데일리",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkRnllYVZxRU5XenZVSEt6V3lYWGZGVmwxbTU3cnQ1YnUtMHR0Tm5BVlk3VllRbEJDZ1IxSEFTX1MwM050eTd2VHJkeTZCdjFWelUtdnFyLXJyMTV1NV94Zw?oc=5",
+   "pub": "Thu, 08 Oct 2026 13:00:00 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "'역대 최고액 16억' 하현승 육성 플랜, 전화 몇 통으로 끝낼 일 아니다…키움에 필요한 건 '오타니 시스템' 이식 - MHN스포츠",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GcXpYd3RVYUV4dXBXc09qcG5JNmhTMENpWFExaGNycW1aVnhGcnI5SjE0ZVhXU2REN0hzcVh6LV90ZjhXMXlJbXBnY0JmTENSTl9YNE9mcUt6REVNRXc3S3piRQ?oc=5",
+   "pub": "Thu, 08 Oct 2026 04:10:32 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
+  {
+   "title": "16억 괴물 하현승, 내년엔 1군에서 사라져라…키움이 배워야 할 사사키·오타니 육성법 - MHN스포츠",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjSFRIUW9EM2pxeTlqbWFHMS1hRExxbEppTGplbVZwcThSRVdVWFI4RnliZUVuT1g1c0FuNnNPdmF6OG9rUjktamVlQ2p3eTJlX1l0SnZkZ3dNOEdDRHRRODZoaw?oc=5",
+   "pub": "Thu, 08 Oct 2026 00:44:47 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-10T04:07:59+09:00"
+  },
   {
    "title": "투어패스에서 제공하는 추천 코스를 활용하면 동선을 짜기 편하고, 숙박 할인 프로모션과 세일 페스타도 함께 챙겨볼 만해요. 가격과 기간은 자료에 없으니 신청 전에 공식 페이지에서 확인하세요. 어디부터 갈까요 처음 가본다면 접근이 쉬운 인천대공원이나 광주 화담숲을 추천해요. 한적하게 걷고 싶다면 평일 오전의 인제 원대리 자작나무 숲이 좋아요. 시기는... 새 ",
    "url": "https://blog.naver.com/jaecheob/224436734654",
@@ -20805,615 +21481,6 @@
    "url": "https://blog.naver.com/gusul139/224430133302",
    "engine": "naver_all",
    "query": "청주 가족 체험 모집",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "안녕하세요, 헤이청주예요 10월 토요일, 아이와 어떤 경험을 해볼까요? 한글을 따라 떠나는 가족 여행부터 AI 창작과 자연·전기 과학체험까지, 청원·금빛도서관 프로그램 4가지를 모았어요. 네 프로그램 모두 9월 28일... 15팀, 총 30명을 모집합니다. 10월 31일(토) 10:00~17:00 청원도서관 → 한글사랑관 → 초정행궁 오전에는 한글과... ",
-   "url": "https://blog.naver.com/hey_cheongju/224423589657",
-   "engine": "naver_all",
-   "query": "청주 가족 체험 모집",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "2026.09.01.충북 청주시문화산업진흥재단은 오는 31일부터 ‘쉿, 우리동네 비밀 친구 청주 수호신’ 프로그램 참가자를 모집한다.이번 프로그램은 청주시와 청주문화재단, 충북도청주교육지원청이 주최·주관하는 ‘교육발전특구 시범사업’의 일환으로 진행되는 창의 예술교육이다. 프로그램은 청주의 설화와 옛이야기를 바탕으로 한 스토리텔링형 체험으로 꾸며진다.이 기간",
-   "url": "http://www.cctimes.kr/news/articleView.html?idxno=924861",
-   "engine": "naver_all",
-   "query": "청주 가족 체험 모집",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "기념 체험단 100팀을 모집합니다 황할머니갈비집은 오랜 시간 청주에서 사랑받아온 황할머니갈비는 예기치 못한 화재로 오랫동안 지켜온 매장을 떠나야 했지만, 손님들의 응원에... 가족과 함께 편안하게 방문해 황할머니갈비의 한 끼를 직접 즐겨보세요 대표 메뉴 추천 매운갈비찜 40년 전통의 비법 양념으로 완성된 매운갈비찜은 부드러운 국내산 1등급... 새 창 열림",
-   "url": "https://cafe.naver.com/cjcjmom/3491811?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNqY2ptb20iLCJhcnRpY2xlSWQiOjM0OTE4MTEsImlzc3VlZEF0IjoxNzkxNTUwNzA3NTYxfQ.YXOK6WPX3XACc78vJE0NomVSt7avoCNYIyFMkczztqs",
-   "engine": "naver_all",
-   "query": "청주 가족 체험 모집",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "2025-26년, 2년 연속 블루리본 선정! 청주 육거리 전설 '새가덕순대' 테크노직영점 50팀 모집새 창 열림",
-   "url": "https://cafe.naver.com/cjcjmom/3477576?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNqY2ptb20iLCJhcnRpY2xlSWQiOjM0Nzc1NzYsImlzc3VlZEF0IjoxNzkxNTUwNzA3NTYyfQ.YLAd1WShuz064gbVunMzrlTt9LFFOSitiRBzDrJzOds",
-   "engine": "naver_all",
-   "query": "청주 가족 체험 모집",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "머핀, 쿠키, 피자, 케이크... 7만원 베이킹 체험 무료✨ ❛파밍하우스❜ 아이랑 직접 만들고 가져가....새 창 열림",
-   "url": "https://cafe.naver.com/cjcjmom/3473956?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNqY2ptb20iLCJhcnRpY2xlSWQiOjM0NzM5NTYsImlzc3VlZEF0IjoxNzkxNTUwNzA3NTYyfQ.3Ugo0erO1EG0dyNNt9cJXeU9NYDHYG11WGnxPG2rMeo",
-   "engine": "naver_all",
-   "query": "청주 가족 체험 모집",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "네이버 플레이스 잘 만들어뒀고, 당근 비즈니스 프로필이랑 카카오채널 매장관리도 구글 비즈니스도 했습니다. 네이버 광고랑 당근 광고는 돌리고 있고, 체험단도 열심히 모집해서 조금씩 입소문은 나고 있는데 직원은 많고 아직 원하는 매출은 올라오질 않네요. 특히 점심 시간에 방문 고객이 아직 목표치에 모자랍니다. 좋은 아이디어 있으신 분 공유 좀 부탁해요!새 창 ",
-   "url": "https://cafe.naver.com/jihosoccer123/3767081?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImppaG9zb2NjZXIxMjMiLCJhcnRpY2xlSWQiOjM3NjcwODEsImlzc3VlZEF0IjoxNzkxNTUwNzA3NTYyfQ.RYZZMaBtg3Cl9bpcFaDxGcBWaoEkXRdaTDXygIQWvu8",
-   "engine": "naver_all",
-   "query": "청주 가족 체험 모집",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "2026.03.20.가족 구성원이 함께 참여하는 체험프로그램을 통해 양육친화적 환경을 조성하고자 청주시에서는 아래와 같이 '2026. 행복토요일 패밀리데이' 1차 행사 ‘패밀리 ON! 미니 운동회’참가자 모집을 하고 있으니, 관심있는 학부모님의 많은 참여 바랍니다. - 행사개요 - 가. (행 사 명)패밀리 ON! 미니 운동회 나. (일 시) 2026. 4.",
-   "url": "https://school.cbe.go.kr/cjsoro/M010301/view/5702907",
-   "engine": "naver_web",
-   "query": "청주 가족 체험 모집",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "오감만족 가족체험 마당, 매실청 담그기 체험 참가자 모집 엄마 아빠와 함께 초록빛 매실을 따보고, 만져보고, 먹어보고, 담아보는 맛있는 매실청 담그기 체험을 6월 18일 토요일에 체험 하오니 청주시 관내 초등 학생 여러분의 많은 참여 바랍니다. 1. 운영일시 : 2022. 6. 18(토), 14:00 ~ 16:00 2. 장 소 : 청주랜드관리사업소... 새",
-   "url": "https://www.cheongju.go.kr/land/selectBbsNttView.do?key=8294&bbsNo=716&nttNo=167411&integrDeptCode=",
-   "engine": "naver_web",
-   "query": "청주 가족 체험 모집",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "간병인 사용일당 vs 간병인 지원일당 한눈에 비교 구분 간병인 사용일당 (현금 지급형) 간병인 지원일당 (보험사 파견형) 보장 방식 환자/가족이 직접 간병인을 구하고 영수증 청구 시 약정된 현금(일당) 지급 보험사에 신청하면 제휴 업체를 통해 간병인을 직접 병원으로 파견 보험료 구조 주로 비갱신형 선택 가능 (보험료 변동 없음) 주로 3년/5년/10년 갱신",
-   "url": "https://blog.naver.com/sunshine6850/224436566372",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "이런 분들께 추천해요 ✅ 마나도 처음 가보는 분 ✅ 부모님, 가족과 함께 휴양 원하는 분 ✅ 일정 자유롭게 짜고 싶은 분 ✅ 쇼핑 강요 없는 패키지 원하는 분 ✅ 다이빙, 호핑투어 계획 중인 분 [ 마나도 3박 5일 패키지 여행 가능일자 확인 ]... 선택관광 가격과 코스 현지에서 따로 신청하는 선택관광이 정말 다양하게 있어요. 나인아일랜드 — 8시간 / ",
-   "url": "https://blog.naver.com/diaxbs/224436565024",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "가톨릭 신자들은 교황에게 축복을 신청하여 시행하는 제도도 있다고 한다. 부부가 해로(偕老) 하는 일은 그 가정의 행복뿐만 아니라, 국가와 사회 안정의 기조가 되기에 대단히 중요한... 대개는 가족들끼리 잔치를 조용히 치른 후에 여행을 보내드리는 형식으로도 진행되고 있는 것 같다. 그런 자녀들을 둔 부모들은 자랑스럽고 부러움을 산다. 우리 부부는 자식들을 잘",
-   "url": "https://blog.naver.com/poolbat1/224436564124",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "하하 처음 시작하자마자 신청할 걸 너무 아쉽더라고요 그래도 거의 500원이나 모여서 기분이 매우 좋습니다 티끌 모아 태산 가자!!@@ 제가 아직 부모님한테 도움을 받고 있지만 부모님이랑 같이 간 제주 여행에서 이번에 협찬을 조금 받으며... 가족을 사랑하고 가족을 챙기고 시간을 많이 보내고 행복하고 정정하게 살거라. 앞으로도 아자아자 파이팅이다!!!!! 일",
-   "url": "https://blog.naver.com/hangru09/224436559727",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "코지 윈터 슬립오버 등록 투숙객 전원 무료 조식 뷔페 (객실 당 최대 5인(성인 2인, 어린이 3인) 겨울 한정판 기념 키 팩, 기념 키 카드*, 즉석 가족 사진 1장 인화 및 증정(*기념 키... 사전등록을 신청하실 수 있습니다. 11/23(목) 오후 6시까지 사전 등록하고 BIG SALE 혜택을 먼저 만나볼 수 있다고 하는데요. 레고랜드 코리아 홈페이지",
-   "url": "https://seoulwelfare.tistory.com/622",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "운영 중단·기상 안내가 없는지 확인 5. 신청 완료 화면과 알림 확인 신청 버튼이 보이지 않는다면 무조건 오류라고 생각하기보다... 예매·신청·발급·계산·해결 가이드 ▶ 생활픽 · 여행·쇼핑 할인 정보 #에버랜드스마트줄서기 #에버랜드앱 #에버랜드이용권등록 #에버포켓 #에버랜드스마트예약 #에버랜드입장권 #에버랜드놀이기구 #에버랜드어트랙션 #에버랜드가족여행..",
-   "url": "https://blog.naver.com/lifelabstory/224436440440",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "- 엑셀 자료 정리 - 고객 문의 분류 - 반복 보고서 작성 지원 - 회의록 요약 - 신청자 명단 정리 - 업무매뉴얼 제작 예를 들어 매주 여러 엑셀 파일을 하나로 합치는 작업이 있다고 가정해보겠습니다. AI와 스프레드시트 기능을 활용해 반복작업을 줄일 수 있습니다. 고객에게는 단순히 파일을 정리해주는 것보다 다음에도 활용할 수 있는 서식이나 자동화 과정을",
-   "url": "https://blog.naver.com/gpgkikr/224436551128",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "교육 신청은 오는 920일 시청이나 2주 만에 얼굴 '반쪽'…홀쭉해진 방시혁 사진 화제 한 커뮤니티에선 방 의장이 올린 사진을 두고 보정한 것이 아니냐는 추측까지 제기됐다 사진 속... 1개, 5 2 웨딩사진 긴급보정 사진보정업체 리터칭 가족사진 팔뚝보정 투턱보정 당일보정 셀프만삭사진 결혼사진 스냅사진보정 긴급보정 24시간 최대48시간 상, 1 1 틀니 의",
-   "url": "https://upbitin.tistory.com/27",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "등) 가족 간 영문 성(Surname)을 통일해야 하는 경우 이름 음절 간 띄어쓰기 또는 하이픈(-)을 조정하려는 경우 2) 영문... 2) 전자여행허가(ESTA, eTA 등) 재신청 미국 ESTA, 캐나다 eTA 등은 기존 여권 정보와 1:1로 연동되므로 반드시 새 여권 정보로... 변경 신청이나 비자 재발급이 필수일 수 있으므로 해당국 대사관에 사전 문",
-   "url": "https://blog.naver.com/youniday-/224436549391",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "27주차 주수촬영(만삭촬영) [화성/동탄] 동탄셀프사진관 흑백기록 동탄셀프사진관, 동탄셀프스튜디오, 동탄가족사진... 신발은 어차피 돌때까지 신발 신을 일이 없을 것 같아서 저는 안사고 있었는데 시부모님께서 너무 귀여워서 여행 가서... 요 링크 타고 가서 신청하면 아래처럼 예쁜 드로잉을 받을 수 있다고 하네용 :-) 기념일 그림으로 남기기 매우 좋을듯!새",
-   "url": "https://blog.naver.com/doublejay2014/224436549304",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "동반 여행 후기 ● 평점 5.0점·후기 226개 2026년 10월 상품 화면 기준 평점 5.0점, 후기 226개예요. 80대 아버님과 70대 후반 어머님을 모시고 다녀온 가족 후기에서는 부모님의 걸음걸이에 맞춰 이동 동선을 배려해준 점이 좋은 평가를 받았어요.... 즐거운 여행 되세요! 후지산 온천 단독투어 최저가 보장·예약 확인하기 10월엔 반값 - 일본",
-   "url": "https://blog.naver.com/emetrip/224436546457",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "수영장은 입실 전날까지 사전 신청이 필요하고 현장 결제로 운영됩니다. 객실 가격에 수영장 이용료까지 전부 포함됐다고 생각하면 실제 결제금액이 달라질 수 있으니, 예약할 때는... 가족여행으로도 괜찮은 이유 객실마다 최대 인원이 달라서 커플뿐 아니라 가족이나 여럿이 가는 여행에도 선택지가 있어요. 401·402호는 기준 2인, 최대 5인, 301·302호는 ",
-   "url": "https://blog.naver.com/yimoong/224435503894",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "같은 여행을 함께 하는 일행 한 번에 묶어 제출 가능 출처: 싱가포르 출입국관리청(ICA) SG Arrival Card 안내 / 확인일 2026-10-09 가족이나 동행이 있다면 단체 제출 기능으로 한 번에 낼 수 있다고 안내합니다. 입력 항목의 세부 칸은 화면에서... 정보를 바탕으로 정리했습니다. 제도와 금액은 바뀔 수 있으니, 신청 전에 해당 기관에서",
-   "url": "https://blog.naver.com/utpala/224436541212",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "다만 신청 자격과 수령 조건을 먼저 확인해야 합니다. 가족 여권을 묶으면 배송비가 얼마나 줄까요? 개별 우편배송은 1권당 5,500원으로 안내됩니다. 묶음배송은 최대 5권 범위에서... 필요 신청 방문 접수 시 함께 요청할 수 있음 온라인 재발급은 제외 여행 준비 가족 여권 수령을 한 번에 정리하기 좋음 배송 지연과 부재 가능성 자주 묻는 질문 여권 2권이",
-   "url": "https://blog.naver.com/wangseja/224436539883",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "금액 계산, 신청 순서, 놓치면 급여가 사라지는 기한까지 차근차근 정리해 드릴게요. (사진 출처: 고용노동부 카드뉴스 「노동자도 사업주도 함께 지원받는 2026년 대한민국... 1년 전 같은 기간보다 9.5% 늘었고요. 연간으로 보면 더 뚜렷해요. 처음 급여를 받은 사람은 2021년 11만555명에서 2025년 18만4,329명으로 66.7% 늘었고, 지급",
-   "url": "https://blog.naver.com/dlwltkd1000/224436539878",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "롯데호텔김포, 쉽게 예약할 수 있는 좋은 방법 주말에 가족과 함께 가려고 했던 롯데호텔김포. 처음에는 가격 때문에 고민했어... 여행 다녀와서 사진 올리면 후기가 자동으로 채워지는 거야. 의미 있는 경험만 신청하니까 돈 낭비는 없었지. 소비 대비 결과를 보면 이만한 게 없어. 5. 다양한 객실 옵션과 여유로운 스케줄 체험단은 방문형이라 정해진 날에 가서 묵",
-   "url": "https://blog.naver.com/riverui38/224436535357",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "여름에 펜션 운영은 어떻게 한 건지 으심이 되~~~~ 취업확정백수의 삶 대공개합니다 이전 시리즈 시험 끝나자마자 4일 만에 디즈니 크루즈 타고 왔어염~ 싱가포르 여행 블로그 1편 호기롭게 올렸는데 사진 너무 많아서 고민하다가 막힘ㅎㅎㅎ 인스타 피드는 이번 달 안에 ㅎ 궁금하면 만났을 때 제 갤러리 열어드립니다 비와 전기공사기사 실기 과연 일주일 만에 가능할",
-   "url": "https://blog.naver.com/hyunzzangzzang/224436534878",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "보홀 가족여행｜모달라 리조트에서 돌조 비치 스노클링하고 모아디토몰까지 ️ 라메디 리조트에서 지내다가 모달라 리조트로 이동했다. 확실히 라메디에서 모달라로 옮겨오니... 그러다가 모달라 옆에 있는 스노클링 업체에 가서 배를 타고 나가는 스노클링도 신청했다. 이때 이용한 곳이 JNP Diving Centre였다. 모달라 주변에서 다이빙과 스노클링 등의 해양 액",
-   "url": "https://blog.naver.com/didaksrlf/224436534533",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "예시 키워드: 개인회생 신청 방법, 영어학원 선택 기준, 오사카 가족여행 추천, 온라인 마케팅 대행 Q. 네이버파워컨텐츠는 파워링크와 뭐가 다른가요? A. 파워링크는 짧은 제목과 설명으로 빠른 클릭과 문의를 유도하는 광고고, 파워컨텐츠는 콘텐츠를 통해 고객에게 정보를 제공하고 신뢰를 쌓는 광고예요. 고객이 검토 중인 단계에서는 파워컨텐츠가 더 효과적일 수.",
-   "url": "https://blog.naver.com/growth_plan/224436532008",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "가족 여행 짐을 한 번에 가족 여행에서는 캐리어 두세 개를 동시에 끌고 다니게 돼요. 이때 하나라도 가벼우면 이동이 확실히 수월해져요. 중형 하나에 가족 짐을 몰아넣는... 받은 뒤에 문제가 있으면 기한 안에 신청해야 하니 날짜를 확인해 두세요. 색상이나 크기가 생각과 다를 수 있으니, 도착하면 바로 열어 보시는 편이 마음 편해요. 구매평에서... 새 창 ",
-   "url": "https://blog.naver.com/shortswave/224435915521",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "이 글에서 알 수 있는 것 ✔ 84A~84D 타입별 분양가와 계약금 5% 금액 ✔ 해당지역·기타지역 1순위 조건과 예치금... 예치금은 신청자가 사는 지역 기준이라 경남 거주자는 200만원이면 돼요. 주택청약종합저축 예치금은 공고 당일인... 가점은 무주택기간 32점, 부양가족 35점, 통장 가입기간 17점, 합계 84점 만점이에요. 특별공급은 어떤 유형에",
-   "url": "https://blog.naver.com/with-star/224435264805",
-   "engine": "naver_blog",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "■ 오버뷰 스노쿨링 마스크 세트 물유입방지 스노클링 프리다이빙 장비 ⭐ 4.83 | 리뷰 1,770 판매가: 59,000원 할인가: 27,900원 (52% 할인) 실제 구매 후기 • 보홀 여행가서 스노쿨링하려고 샀습니다 확실히... 83 | 리뷰 1,990 판매가: 99,900원 할인가: 79,900원 (20% 할인) 실제 구매 후기 • 캠핑을 가족들과 하",
-   "url": "https://cafe.naver.com/gooditemnaver/2635?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imdvb2RpdGVtbmF2ZXIiLCJhcnRpY2xlSWQiOjI2MzUsImlzc3VlZEF0IjoxNzkxNTUwNzIwMDI4fQ.G68CJmRtNE0bBk4QJ7CXHUj-Ofpd2XYUupM3sCDWgo4&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "사전예약: https://m.site.naver.com/2hqXU (1인 최대 2개까지 신청 가능, 오늘 10/9(금) 18:00 마감) ⚠️ 예약한 회차 시작 5분이 지나도... 인천e지 5,000원 쿠폰을 받아요 영종 빵지순례 & 먹거리 영종도 로컬 디저트 판매관: 빵판다, 토모루, 마시앙말빵, 차오름 등 영종... 차겠네요 가족, 친구, 연인과 함께 ",
-   "url": "https://cafe.naver.com/warcraftgamemap/3510312?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndhcmNyYWZ0Z2FtZW1hcCIsImFydGljbGVJZCI6MzUxMDMxMiwiaXNzdWVkQXQiOjE3OTE1NTA3MjAwMjh9.KluCvNT8ojoRetqX7MIdbAZabQKpj8PnNtUEPMrSB7Y&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "(예/ 가족여행, 허니문, 친구와 함께, 단체 친목여행, 태교여행 등) ( 가족여행 5. 생각해 보신 여행 일정은 있으신가요?, 있으시면 어떤 게 있을까요? 원하시는 일정, 코스도 적어주세요~ ( 시밀란투어 6. 카페 게시글에 댓글 3개 이상 써 주실거죠? (여행 후기, 필독란 등) ( 넵 7. 자주하는 질문란은 꼭 읽어 보실거죠? ( -----------",
-   "url": "https://cafe.naver.com/momcgood/140162?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbWNnb29kIiwiYXJ0aWNsZUlkIjoxNDAxNjIsImlzc3VlZEF0IjoxNzkxNTUwNzIwMDI4fQ.o9X2aZKhv38kXyPxeq-oKJUau2D7qesMm2Lfb7ZIblU&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "미성년자와 병역 대상자는 무엇을 더 챙길까 미성년자가 신청할 때는 법정대리인의 신분증이 필요할 수 있습니다. 가족관계를 확인해야 하는 상황이라면 관련 서류를 추가로 요구받을 수 있어요. 병역 의무 대상자는 국외여행허가서가 필요한 경우가 있습니다. 대상 여부와 서류 준비가 사람마다 다를 수 있으므로 방문 전 담당 기관에 확인하는 편이 안전합니다. 기존 여권을",
-   "url": "https://cafe.naver.com/urisports/10725?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVyaXNwb3J0cyIsImFydGljbGVJZCI6MTA3MjUsImlzc3VlZEF0IjoxNzkxNTUwNzIwMDI4fQ.RZvzyJZOywPEj7AWyOIC8_nsrXmsIEzz1bN0JEA4qC8&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "자유여행과 단체패키지의 가장 큰 차이, 3. 대학생해외여행에서 중요하게 본 부분, 4. 인원이 많아질수록 달라지는 여행 준비, 5. 말레이시아를 단체여행지로 살펴본 이유, 6. 우리끼리 떠나는 맞춤 단체여행... 기업·친목·가족여행에도 활용할 수 있는 방식, 19. 상담을 통해 세부 내용을 확인하는 과정, 20. 말레이시아 단체여행을 준비하며 느낀 점 트립",
-   "url": "https://cafe.naver.com/moneymanymany/65?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbmV5bWFueW1hbnkiLCJhcnRpY2xlSWQiOjY1LCJpc3N1ZWRBdCI6MTc5MTU1MDcyMDAyOH0.yteEa5Pxip2XmOQRLMhljBzKKiv6_hWC4YgEpAMXOgI&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "(본 글은 PC로 봐주시면 편합니다) 벌써 디하클에서 4기를 진행하고 있는 강의인 만큼, 여러분께 이미 증명된 강의라고 말씀드릴 수 있습니다. 월급 외에 딱 50만 원만 더 벌자는 소박한 마음으로 온라인 부업을 시작하신 분입니다. 그 끝에 유튜브 AI 뮤직 자동화로 실버버튼과 누적 수익 1.1억 원을 달성했고, 수강생분 중에는 월 3,700만 원을 달성한 ",
-   "url": "https://cafe.naver.com/dinohighclass/428463?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpbm9oaWdoY2xhc3MiLCJhcnRpY2xlSWQiOjQyODQ2MywiaXNzdWVkQXQiOjE3OTE1NTA3MjAwMjh9._49-3ACazVUGrkDVsbUCnEhkVPmI1OCsTEECqWZb5-U&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "주변 평야 위로 솟은 산 풍경이 특징이라, 숙소 주변을 걷고 조용히 시간을 보내는 가족여행이 떠오르더라고요. 가족 인원에 따라... 다음 달 금요일·토요일·공휴일 전날 이용분은 매월 4일 오전 9시~9일 오후 6시에 주말 추첨을 신청하고, 10일 오후 4시에 결과를... 숲속의집 5인실은 58,000원과 106,000원입니다. 가을 비수기에도 금요일·토요일",
-   "url": "https://cafe.naver.com/easyinfo/860?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVhc3lpbmZvIiwiYXJ0aWNsZUlkIjo4NjAsImlzc3VlZEF0IjoxNzkxNTUwNzIwMDI4fQ.g5TrltOC9Us2gBnUVy6DNz9xvU-qk55cig80ryH0Ecg&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "룸에서 받았는데 편했고 온 가족이 만족했어요. 그리고 한국인이 카운터에 상주하셔서 편했습니다. ◇위*션빠지 우리가족은 5시간 씩이나 호핑투어를 할 자신도 없었고 춤추기도 싫었어요ㅋㅋ그래서... 새벽비행기라 쉴 공간이 필요해 신청한건데 리뷰랑 내용이 달라서 당황했었네요. ◇날씨 비수기라 걱정했는데 오히러 좋았어요. 구름이 껴서 해가 쨍하지 않아 오래 물놀이를",
-   "url": "https://cafe.naver.com/cebu100x/1775001?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNlYnUxMDB4IiwiYXJ0aWNsZUlkIjoxNzc1MDAxLCJpc3N1ZWRBdCI6MTc5MTU1MDcyMDAyOX0.DXtgb65XsXINwlkWA0WVu-4yqZX7ypu-QzdKsVjd3Bg&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "이번에 초등학생 세 자매와 함께 베트남 푸꾸옥으로 5인 가족 6박 8일 자유여행을 다녀왔어요. 푸꾸옥 여행을 준비하면서 가장 고민했던 부분은 바로 숙소 위치와 이동 동선이었어요. 남부, 중부, 북부가... 고스트 실버등급 혜택인 유심을 찾고, 바로 공항 픽업서비스 신청한 차량에 탑승해서 첫숙소인 남부 베데순부티크호텔에 도착했어요. 공항에서 대략 30분 정도",
-   "url": "https://cafe.naver.com/minecraftpe/3990204?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1pbmVjcmFmdHBlIiwiYXJ0aWNsZUlkIjozOTkwMjA0LCJpc3N1ZWRBdCI6MTc5MTU1MDcyMDAyOX0.YYX1_5eeinjPOFTUZqj5DuOk9zZ54kY40-hIFy_ZVBI&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "전문 장비 없이 가족과는 비추천 하지만 등산하시는 분은 뷰가 진짜 멋있으니 추천합니다. 명절과 여행으로 찐 살들이 싹 녹아내리는듯 합니다. 물안개 올라오는 충주호뷰는 덤이고요~~~ 월악산 꼭대기는... 충주반값여행 신청하고 숙소, 업소 영수증 청구하면 50프로는 환급해줍니다. 온라인 충주장터에서 특산물 주문하실 때 쓰면 됩니다. 충주 아니어도 반값여행 가능",
-   "url": "https://cafe.naver.com/songpalogue/472462?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNvbmdwYWxvZ3VlIiwiYXJ0aWNsZUlkIjo0NzI0NjIsImlzc3VlZEF0IjoxNzkxNTUwNzIwMDI5fQ.0LaQtt-gBoyuZ8baREY84N7j99erUizdwOB1XvaK3O0&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "진안 쪽 가을 여행을 알아보다가 운장산자연휴양림이 눈에 들어왔어요. 갈거계곡과 자연림이 어우러진 곳이라, 산속에서 하루 쉬고... 이번에는 가족 숙박을 기준으로 가격과 입실 안내부터 확인해봤어요. 운장산 자연휴양림 예약하기 1. 예약은 숲나들e에서 예약은 숲나들e에서 해요. 주말·공휴일 전날은 다음 달 이용분을 매월 4일 오전 9시부터 9일 오후 6시까지 ",
-   "url": "https://cafe.naver.com/easyinfo/857?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVhc3lpbmZvIiwiYXJ0aWNsZUlkIjo4NTcsImlzc3VlZEF0IjoxNzkxNTUwNzIwMDI5fQ.psQ4YNEd-mx6UHbCefPSWU3XQDkE2aGrrv78twH7Zz8&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "가족끼리 갈 때 참고할 예약과 가격을 적어봤어요. 변산 자연휴양림 예약하기 1. 예약 일정부터 보기 예약은 숲나들e에서 해요. 주말·공휴일 전날은 다음 달 이용분을 매월 4일 오전 9시부터 9일 오후 6시까지 추첨 신청하고, 10일 오후 4시에 결과가 나옵니다. 추첨 후 남은... 5. 빈자리와 여행 계획 원하는 날짜가 꽉 차면 숲나들e 예약대기와 취소 객",
-   "url": "https://cafe.naver.com/easyinfo/855?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVhc3lpbmZvIiwiYXJ0aWNsZUlkIjo4NTUsImlzc3VlZEF0IjoxNzkxNTUwNzIwMDI5fQ.1nlr5oF6sPx08h61x946OJ2ZIko5PZo1bDQ9o1dVz0A&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "추첨 신청하고, 10일 오후 4시에 결과가 나옵니다. 추첨 후 남은 객실은 15일 오전 9시에 선착순으로 열려요. 일반 선착순 예약은 매주 수요일 오전 9시에 6주차 월요일까지 열립니다. 여름 성수기는 별도 추첨이라 가을 일정과 구분해서 보시면 돼요. 2. 4인 가족이면 이... 늦가을 여행이라면 식사 계획을 따로 세워야겠더라고요. 매점도 없어서 장보기는 ",
-   "url": "https://cafe.naver.com/easyinfo/854?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVhc3lpbmZvIiwiYXJ0aWNsZUlkIjo4NTQsImlzc3VlZEF0IjoxNzkxNTUwNzIwMDI5fQ.2sQB56I9Zy_rEsRsHlPGyLL4OkYjpb9vO_FtrKHZnhg&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "최소 2명부터 신청 가능한 단독여행이라는 점도 가족이나 친구끼리 여행할 때 은근히 매력적인 부분이에요. 저라면 바나힐에서는 사진을 실컷 찍고 호이안에서는 맛있는 음식 먹으면서 여유롭게 걷는 코스로 즐길 것 같아요 ㅎㅎ 여행 일정이 너무 빡빡하면 돌아와서 기억나는 건 피곤함뿐인데 이렇게 관광과 휴식을 적당히 섞는 게 진짜 중요하더라고요. 다낭과 호이안을 한 ",
-   "url": "https://cafe.naver.com/uouv96/100720?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVvdXY5NiIsImFydGljbGVJZCI6MTAwNzIwLCJpc3N1ZWRBdCI6MTc5MTU1MDcyMDAyOX0.FYTnhHj0HavA6Lkh_9Uk2OUEe0Jz288GEqkbYRDflW0&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "다낭도깨비에서 정보를 많이 얻어서 이번 나트랑 여행 가면서 가입했습니다. 급으로 떠나기도 했고 동행이 나트랑 방문 해서 동행 믿고... 16.5 나왔는데 차지 없이 통과 [숙소] 3박은 포포인츠 2박은 레스참으로 예약 후기들 보면 나트랑 호텔들이 벌레이슈가 많은데 벌레 못봄 공항에서 포 포인츠 바이 쉐라톤 냐짱 까지는 트립닷컴에서 처음 항공권 결제하면 쿠폰",
-   "url": "https://cafe.naver.com/zzop/4283418?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Inp6b3AiLCJhcnRpY2xlSWQiOjQyODM0MTgsImlzc3VlZEF0IjoxNzkxNTUwNzIwMDI5fQ.2vXrwckInT_lGLWCCPLFJ2jwjkQigbjUcBVqIhnKFGI&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "16까지) 글 보기 · [홍성군] 홍성군가족센터 청년, 중장년 1인가구 로컬여행 '홍성골목맛zip, 1인가구 낭만 미식투어' (~10.20까지) 글 보기 · [충남도청] 충남육아종합지원센터 제2차 집에서도 놀(면서) 자 란다 (~10.20까지) 글 보기 · [충남도청] 충남육아종합지원센터 힐링 (11/15,16 우선신청) 배움 채우GO, 쉼 채우 GO (~",
-   "url": "https://cafe.naver.com/naepoaljiyu/269?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5hZXBvYWxqaXl1IiwiYXJ0aWNsZUlkIjoyNjksImlzc3VlZEF0IjoxNzkxNTUwNzIwMDI5fQ.ZZdIymx4Gq8Mb2ej8PxwvX1Do9bXH68FUHN5FOl5HXw&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "괌의 에메랄드빛 바다에서 즐기는 오션 액티비티, 혼자 가도, 커플로 가도, 가족 단위로 가도 모두 만족할 수 있는 구성이에요. 이번 시즌 픽으로 단연코 1위에 올리고 싶은 상품입니다. 여행을 많이... 괌 현지에서 개별로 액티비티를 신청하면 어떻게 되는지 아세요? 패러세일링, 제트스키, 스노클링 투어 등 오션 액티비티 하나하나를 따로 예약하면 1인당 최소 ",
-   "url": "https://cafe.naver.com/saint24/197638?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNhaW50MjQiLCJhcnRpY2xlSWQiOjE5NzYzOCwiaXNzdWVkQXQiOjE3OTE1NTA3MjAwMjl9.pDwbJJbIwNjQ9DsTH9HgKZQtK7uSaFzwBAHJ1XgpbBI&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "pdf [공고URL] 바로가기 5. 2026년 산업기술 정책금융 지원 유공자 포상 신청 공고 공공 및 민간 부문 연구개발(R&D) 결과물이 기업에 이전ㆍ사업화 되어 산업 전반의 기술경쟁력을 강화하고 新산업을 창출하도록 기여하는 기술사업화 분야의 산업기술 정책금융 지원 공로자에게 포상을 실시하고자 하오니 많은 참여 바랍니다.☞ 3년 이상 국내 기술보증 및 기",
-   "url": "https://cafe.naver.com/uworldexam/558191?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InV3b3JsZGV4YW0iLCJhcnRpY2xlSWQiOjU1ODE5MSwiaXNzdWVkQXQiOjE3OTE1NTA3MjAwMjl9.jKgfjrA0euKDrD7zP-61zyluH8hcSDM5v4-yYQcF5lw&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "7시 조식이 시작하자마자 시켜서 바로 조식먹고 씻고 환복하니 7시 45분 카페에서 회원님들이 막탄 선셋호핑을위해 8시에는 출발하라고 권해주셔서 라이언다이*에 막탄 드랍 8시 출발 신청해 놓았고 미리... 특별할것 없는 올려주신 코스와 스케줄 공유해주신 카페회원님들 그대로 따라한 뻔한 여행길이었지만 가족들이 모두 많이 재미있고 즐거워해서 너무 감사드립니다. ",
-   "url": "https://cafe.naver.com/cebu100x/1774953?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNlYnUxMDB4IiwiYXJ0aWNsZUlkIjoxNzc0OTUzLCJpc3N1ZWRBdCI6MTc5MTU1MDcyMDAyOX0.NpXp5-Mt1tdGGqwUazaPeA0yOTb-uM2s1DapPKvDHgY&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "(부정확) 저희 가족한테는 갈치조림이 더 인기가 많았습니다. 3. 음식 및 가게 사진 첨부 방문 후 직접 찍은 사진들을 공유해 주세요.... 언덕에 있긴 한데 뷰가 좋아요 고소동 공영주차장 전남광주통합특별시 여수시 고소동 636-4 5. 꿀점 및 후기 꿀 5개를 기준으로 점수를... qr 말고 사전에 실물 카드 신청받으셔서 (여행계획이 있으시다면) 여행 다",
-   "url": "https://cafe.naver.com/postmore/99409?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBvc3Rtb3JlIiwiYXJ0aWNsZUlkIjo5OTQwOSwiaXNzdWVkQXQiOjE3OTE1NTA3MjAwMjl9.T-oJgmi4aLAXTJ20uLSloWzcfzIAH59Zmf_-9V89yqo&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "어린이킥보드(5~6세), 큰 공굴리기 • 어르신대상: 100세 충전 박 채우기, 투호/풍선릴레이 • 성인대상: 400m계주, 줄다리기, 승부차기 • 계층혼합: 단체줄넘기, 2인 3각 럭비공 굴리기 • 어린이, 가족 등 다양한 현장참여 이벤트 종목 (행사/상품증정)... 있습니다 ──────────── 신청문의 (각 동 행정복지센터) • 중앙동: 02-215",
-   "url": "https://cafe.naver.com/bluegraydnbk8/151311?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJsdWVncmF5ZG5iazgiLCJhcnRpY2xlSWQiOjE1MTMxMSwiaXNzdWVkQXQiOjE3OTE1NTA3MjAwMjl9.BYEcmd6yrKjs00QIgyOe4UTaXRCFFqFm2XGfznD12v8&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "5. 몰리패널 공구는 추가 참여자를 모집했고, 티매트는 여전히 출고를 기다렸다. 멀티님이 상단 몰리패널 참여 의사를 확인했다.... 참석 신청자를 호명하며 별도 채팅방 입장을 요청했고, 관련 공지도 올렸다. 저녁에는 캠핑 성수기라 장소 섭외가 쉽지 않다며, 가족 등... 아티라이프님은 결혼 20주년 여행 일정 때문에 참석을 취소했다. 호야아빠님이 정모용 립",
-   "url": "https://cafe.naver.com/cyberowners/233?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImN5YmVyb3duZXJzIiwiYXJ0aWNsZUlkIjoyMzMsImlzc3VlZEF0IjoxNzkxNTUwNzIwMDI5fQ.8jP0yJMGIj8pI-gLEMwfha8savbAcDEHlZoIo0jDsl8&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "동반 가족 단위 방콕 자유여행객 모두에게 적극 추천하는 명품 숙소입니다. 차오프라야 강변에 펼쳐진 5성급 명품 럭셔리 숙소 개요 방콕 리버사이드 정취를 품은 더 페닌슐라 방콕은 독보적인... 가장 가까운 돈무앙 국제공항(DMK)에서 약 23.4km(차량 약 39분 소요), 수완나품 국제공항(BKK)에서 약 26.1km(차량 약 39분 소요) 떨어져 있으며 ",
-   "url": "https://cafe.naver.com/hangsanara/2636?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhbmdzYW5hcmEiLCJhcnRpY2xlSWQiOjI2MzYsImlzc3VlZEF0IjoxNzkxNTUwNzIwMDI5fQ.3WEjevrU34B0rJBsvMlZJB_vsGp-4QEWdpjNSmKOqNg&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "특히 3세부터 10세까지의 어린이는 기존 침대를 함께 이용할 경우 무료 숙박 정책이 적용되어 아이 동반 가족 여행 시 숙박비 부담을 크게 줄일 수 있습니다. 1박당 평균 가격이 30달러선에서 80달러선... 이른 아침 투어 시 포장 조식 신청: 호핑투어나 시골 투어로 일찍 출발해야 한다면 전날 프런트에 도시락 포장을 요청하세요. 이동 시 툭툭이 활용: 리조",
-   "url": "https://cafe.naver.com/hangsanara/2629?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhbmdzYW5hcmEiLCJhcnRpY2xlSWQiOjI2MjksImlzc3VlZEF0IjoxNzkxNTUwNzIwMDI5fQ.kADQsBSS1w3EidJyJ9Fgyqxf6w0TJHv8HTYCU2VNKOc&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "또한 프리다이빙이나 잠수 연습이 가능한 깊은 수영장, 1층 객실 내 간이 수전 싱크대, 4~5인 대가족 투숙이 가능한 대형 가족룸 및 마스터룸, 새벽 다이빙 일정을 배려한 조식 포장 서비스까지 완비되어 있어 나홀로 여행객, 커플, 가족 및 그룹 단위 보홀... 셋째는 보홀 평균 숙박가($96) 대비 1박 40~50달러 선($43부터)의 뛰어난 가성비(가격 ",
-   "url": "https://cafe.naver.com/hangsanara/2628?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhbmdzYW5hcmEiLCJhcnRpY2xlSWQiOjI2MjgsImlzc3VlZEF0IjoxNzkxNTUwNzIwMDI5fQ.EH1Ly3qxV2An6un__74uH7N7sv8KAx6zmKVuZUoWYsU&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "동반 가족 단위 보홀 자유여행객 모두에게 적극 추천하는 가성비 명품 숙소입니다. 팡라오 섬 중심 90객실 규모 4성급 가성비 숙소 핵심 개요 2023년에 준공되어 현대적인 감각과 깔끔함을 선사하는... 특히 아침 일찍 발리카삭 스노클링이나 호핑투어를 나가는 투숙객을 위해 사전에 신청할 경우 깔끔하게 포장된 테이크아웃(도시락) 조식 서비스를 제공하여 투어 전",
-   "url": "https://cafe.naver.com/hangsanara/2627?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhbmdzYW5hcmEiLCJhcnRpY2xlSWQiOjI2MjcsImlzc3VlZEF0IjoxNzkxNTUwNzIwMDI5fQ.br3NuzhBJU44olhL7uomLo8qJl4Xv3BEtUa6XqkQyfY&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "출장객, 가족 단위 나고야 자유여행객 모두에게 적극 추천하는 명품 숙소입니다. 나고야역 인근 채플 뷰를 품은 4성급 부티크 럭셔리 숙소 개요 2015년에 준공되어 지상 7층 건물 규모에 총 126개의... (체크인 시 사전 신청이 가능합니다.) 스카이뷰 라운지부터 채플과 마사지까지 알찬 부대 인프라 호텔 구내에는 고품격 휴식을 위한 다채로운 인프라가 갖추어",
-   "url": "https://cafe.naver.com/holrotrip/1306?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhvbHJvdHJpcCIsImFydGljbGVJZCI6MTMwNiwiaXNzdWVkQXQiOjE3OTE1NTA3MjAwMjl9.Qofb4a3POa6qUS80Od3m3jmkQYd4agATuoz9LrIKfUo&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "<표 4> 시기·종류별 VOC의 선박 운용 구분 ~ 1610년 1610-20년 1620-30년 1630-40년 1640-50년 1650-60년 ①귀환선 0 7 12 30 35 36 ②전함 3 11 15 8 4 1 ③쉽 60 28 8 6 5 2 ④-1야트(대·중형) 31 28 35 47 12 35 ④-2야트... 8척)이며 이 중 대략 절반(평균 5.5척)은",
-   "url": "https://cafe.naver.com/booheong/239297?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvb2hlb25nIiwiYXJ0aWNsZUlkIjoyMzkyOTcsImlzc3VlZEF0IjoxNzkxNTUwNzIwMDI5fQ.R93iSQjowEg6bS3qvX051oNZU1QfDSmuwL_4ry4u6nY&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "━━━━━━━━━━━━━━━━━━ 5. 여러 영수증을 합산할 수 있을까? ━━━━━━━━━━━━━━━━━━ 다음 사례를 참고하면 이해하기 쉽습니다. ① A매장에서 한 번에 200만 동... 한국 일반 여행자 휴대품 기본 면세한도는 1인당 미화 800달러입니다. 면세한도를 초과한 물품은 한국 세관 신고·과세 대상이 될 수 있습니다. ━━━━━━━━━━━━━━",
-   "url": "https://cafe.naver.com/warcraftgamemap/3509956?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndhcmNyYWZ0Z2FtZW1hcCIsImFydGljbGVJZCI6MzUwOTk1NiwiaXNzdWVkQXQiOjE3OTE1NTA3MjAwMjl9.YqtbHlj7O3QCHmE7Y3wgTkIh0rfz3_qp2vXpk0q_41s&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "기존 여권의 유효기간이 남아 있다면 신청할 때 함께 준비하는 편이 안전해요. 미성년자는 법정대리인 신분증과 가족관계를 확인할 수 있는 서류가 필요할 수 있습니다. 병역 의무 대상자는 국외여행허가서가 요구될 수 있으므로, 본인 상황에 따라 추가 서류를 따로 확인해야 해요. 분실한 여권이 있다면 기존 여권을 제출하는 방식이 아니라 분실 신고 절차가 먼저 진행될",
-   "url": "https://cafe.naver.com/urisports/10685?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVyaXNwb3J0cyIsImFydGljbGVJZCI6MTA2ODUsImlzc3VlZEF0IjoxNzkxNTUwNzIwMDI5fQ.S3inm2JkJdaLfOkrPmU9wEFFE84hShpNz0x9S8RxaeE&q=%eb%b0%98%ea%b0%92%ec%97%ac%ed%96%89%20%ea%b0%80%ec%a1%b1%205%ec%9d%b8%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "반값여행이라고 요즘 지자체에서 지원해주는 행사가 있지요. 전 관심도 없었는데 신청하라고 종용받아 어쩔 수 없이... 가족여행으로 신청이라 등본까지 첨부해야하고 좀 번거로웠어요. (귀찮았다는 뜻) 얼마까지 어떻게 지급되는지 알아보니... 그토록 궁금했던 정보는 여행 후 정산하기 화면으로 들어가니 5인은 '100만원 이상 소비시' 라고 조건을 적어놨네요. 이걸",
-   "url": "https://cafe.naver.com/hexenyang/68383?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhleGVueWFuZyIsImFydGljbGVJZCI6NjgzODMsImlzc3VlZEF0IjoxNzkxNTUwNzIzMjE0fQ.6prBNS8AYyScZG99MGhF-KW9ZwwV4NXiXj6TzZf2Tqs",
-   "engine": "naver_all",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "개인 1인 → 50%, 최대 10만원 청년 1인 → 70%, 최대 14만원 단체 2인 이상 → 50%, 최대 20만원 가족 3~5인 → 50%, 최대 50만원 특히 청년은 19~34세가 대상이라 해당된다면 무조건 청년으로 신청하는 게 이득!! 평창 반값여행 지원대상 청년은 여행경비 10만원 이상 사용 시 7만원, 20만원 이상 사용 시 최대 14만원까지 받",
-   "url": "https://blog.naver.com/hygj7/224424684854",
-   "engine": "naver_all",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "태안 반값여행 신청 기간이 시작됐다. 충남 태안군에서 관외 거주 여행객이 태안에서 쓴 여행 경비를 최대 50%, 청년이라면 최대 70%까지 모바일 태안사랑상품권으로 돌려주는 지원... 3~5인 50% 50만 원 청년 커플이 함께 신청하면 최대 28만 원, 가족 여행이라면 최대 50만 원까지 태안사랑상품권으로 돌아온다. 태안에서 쓸 계획이 있는 금액을 미리 ",
-   "url": "https://blog.naver.com/wisesarah72/224414344142",
-   "engine": "naver_all",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "동일 주소지에 등록된 5인 가족의 경우 최대 50만원까지 환급 혜택이 커집니다. 만 19세부터 34세 청년은 70% 환급률이 적용되어 1인 최대 14만원까지 지원받을 수 있습니다. 반값여행 신청 방법과 필수 충족 조건 가장 중요한 점은 여행을 떠나기 전 대한민국 구석구석 홈페이지에서 반드시 사전 신청을 완료해야 한다는 사실입니다. 현장에서 자동 할인이 들어",
-   "url": "https://blog.naver.com/blu2sky7/224413249231",
-   "engine": "naver_all",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "일반 1인은 최대 10만원, 청년 1인은 최대 14만원까지이며, 가족 3~5인은 최대 50만원까지 지원됩니다. 중요한 건 단순히 태안에 가서 돈을 쓴다고 자동으로 환급되는 것은 아니고 미리 사전 신청등 아래 과정이 필요합니다. 사전신청 → 승인 → 여행 → 조건에 맞는 소비 → 정산신청 → 상품권 지급 태안 반값여행 신청 기간, 2차는 언제? 제가 신청할 ",
-   "url": "https://blog.naver.com/yulee2028/224421235358",
-   "engine": "naver_all",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "2026.09.07.반값여행지가 여러곳 있었는데 친정이 충주라 겸사겸사 방문할수도 있을거 같아 제천을 선택했습니다. 6월 신청했을때 5인가족으로 서류제출해서 승인됐고, 휴가기간에 갈까말까 고민도 많이 했었지만 지금생각해보면 다녀오길 잘했다는 생각이예요. 제천 반값여행 지역마다 결제방식이나 서류제출방식이 조금씩 다른듯해요. 제천은 제천화폐 지역상품권 CHAK",
-   "url": "https://blog.naver.com/bluebear1123/224403301455",
-   "engine": "naver_all",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "1주 전기본 한도는 · 1인 여행 → 최대 10만원 · 2인 이상 → 최대 20만원 · 가족 단체 → 5인까지 최대 50만원 입니다. 청년은 별도 우대가 적용돼 환급률이 70%까지 올라가고, 1인 최대... 여행 계획이 있다면 이렇게 활용해보세요 예를 들어 가을에 가족과 인구감소지역으로 여행을 간다고 해보겠습니다. 먼저 반값여행 대상 지역인지 확인하고 사전",
-   "url": "https://blog.naver.com/shamepooh/224425674625",
-   "engine": "naver_all",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "증빙자료를 제출하고 정산을 신청하면 해당 지역에서 사용할 수 있는 지역화폐·지역사랑상품권 형태로 지급됩니다. 구분 환급 혜택 일반 개인 여행경비 50%, 최대 10만 원 2인 이상 최대 20만 원 청년 여행경비 70%, 1인 최대 14만 원 가족 단체 지자체 기준에 따라 최대 5인·50만 원 가능 [출처] 대한민국 반값여행 총정리 가을 여행비 50% 환급,",
-   "url": "https://cafe.naver.com/kanghwamm/266581?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imthbmdod2FtbSIsImFydGljbGVJZCI6MjY2NTgxLCJpc3N1ZWRBdCI6MTc5MTU1MDcyMzIxNH0.tjexRvM1al2EEQTUTjfcd9KlQV9m4rxUuQuyIR8iJWM",
-   "engine": "naver_all",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "이상 여행: 사용 금액의 50% 환급 (최대 20만 원) 청년 (만 19~34세): 환급률 20%p 상향! 70% 환급 (최대 14만 원) 가족 단체 (최대 5인)... 지역별 신청마감됨 여행 뽐뿌오네요! 가을 여행 실전꿀팁! 경험이 무섭다고 하죠! 실제로 대한민국 반값여행 혜택을 받아 알뜰하게 다녀오신 분들의 후기에서 엄선한 '진짜 실전 팁'을 추가로 공",
-   "url": "https://cafe.naver.com/mkas1/2007115?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1rYXMxIiwiYXJ0aWNsZUlkIjoyMDA3MTE1LCJpc3N1ZWRBdCI6MTc5MTU1MDcyMzIxNH0.7vFaZ8kOl8aJMNTN2SXnFWPTKODcRBmpsThwsGHdbUM",
-   "engine": "naver_all",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "하반기 반값 여행지 강원 | 화천 충남 | 서천, 태안 경북 | 안동, 영천 경남 | 거창, 고성, 밀양, 산청, 함양 전남 광주 | 영광, 완도, 장흥 ✔️ 환급금액 일반 | 사용금액의 50% 1인 최대 10만원 청년 | 사용금액의 70% 1인 최대 14만원 가족단체 | 5인까지 최대 50만원 환급 ✔️ 신청방법 1. 지자체 누리집에서 사전신청, 승인 2",
-   "url": "https://cafe.naver.com/staymore/2474?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InN0YXltb3JlIiwiYXJ0aWNsZUlkIjoyNDc0LCJpc3N1ZWRBdCI6MTc5MTU1MDcyMzIxNH0.-u0CTLzZzwEQwo73b03vou6LmvvZY3Fw8QtC8IRYZAg",
-   "engine": "naver_all",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "2026.05.17.문화체육관광부와 한국관광공사, 전국 16개 지방자치단체가 함께 운영하는 ‘지역사랑 휴가지원 사업’이 2026년 5월 가족 여행객과 청년층 관심을 끌고 있다. 인구감소지역을 여행한 뒤 사용 금액 일부를 지역화폐로 환급받을 수 있어 국내 여행과 생활비 절감을 동시에 노릴 수 있는 정책형 관광 프로그램으로 주목받고 있다.이번 반값여행 혜택은 ",
-   "url": "https://www.cwtr.co.kr/news/articleView.html?idxno=17244",
-   "engine": "naver_all",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "2026.05.06.질문 1.반값여행 가족(와이프와 저 2인 인데) 단체로 2인 신청했네요 어차피 2인 환급한도 20만원이니 단체로 2인 청구해도 별탈없이 될것같네요 제가 이해한게 맞나요? 답변자 관리자 | 답변일 2026.05.06 답변 안녕하십니까. 평창군 관광정책과입니다. 문의하신 평창군 반값여행에 대한 답변드립니다. 대표자 및 배우자 2인 신청의 경",
-   "url": "https://tour.pc.go.kr/Home/H60000/H60300/boardView?board_key=552",
-   "engine": "naver_all",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "“여행비 최대 50만원 돌려주는 반값여행” 9월 28일 신청 시작새 창 열림",
-   "url": "https://blog.naver.com/somink0710/224423763728",
-   "engine": "naver_all",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "평창 반값여행 3회차의 첫 번째 체크포인트는 9월 28일 오전 10시입니다. 일반 개인은 최대 10만원, 청년은 최대 14만원, 가족 5인은 최대 50만원까지 받을 수 있습니다. 다만 사전신청 → 승인 → 10월 여행 → 10만원 이상 인정 소비 → 지정 유료관광지 방문 → 7일 이내 정산을 모두 거쳐야 합니다. 10월 평창여행이 예정돼 있다면 숙소부터 결",
-   "url": "https://blog.naver.com/nomadist_2/224423178591",
-   "engine": "naver_all",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "반값여행기간 : 2026. 9. 3. ~ 11. 30. 9월 여행 환급금은 9월 28일 이후 순차적으로 환급처리됩니다.새 창 열림",
-   "url": "https://www.sancheong.go.kr/tour/contents.do?key=6882",
-   "engine": "naver_web",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "2026.09.01.연말까지 여행비 50% 모바일 지역화폐 환급…가족 최대 50만원 (화천=연합뉴스) 이상학 기자 = 강원 화천군을 여행하면 쓴 비용의 절반을 지역화폐로 돌려받는 반값여행이 1일 시작했다. 화천군은 이날 오전 10시부터 전용 홈페이지를 통해 반값여행 ..새 창 열림",
-   "url": "https://news.suwon.go.kr/?p=24&viewMode=view&reqIdx=202609011120518222",
-   "engine": "naver_web",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "2026.04.03.< 합리적인 가격, 천가지 즐거움「합천반값여행」 > 가. 기 간 : 2026. 4월 ~ 8월※ 예산 소진 시 조기마감 나. 대 상 : 타 지역 거주자로 사전신청이 승인된 관광객 ※ 관내 및 연접지역(의령, 창녕, 산청, 거창, 고령, 성주) 거주자 제외 다. 신청방법 : 합천반값여행 홈페이지 신청 라. 내 용 : 합천 반값여행 모바일 상",
-   "url": "https://www.hfmc.or.kr/board/view/notice/2084",
-   "engine": "naver_web",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "여행기간 : 2026.10.1.(목)~ 10.31.(토) ; ※ 사전신청 성공 및 여행을 즐겨주셨음에도 신청 서류 미비로 환급을 제대로 받지 못하는 사례가 발생하고 있습니다. 여행 전 아래의 신청방법 안내사항을 반드시 확인 부탁드립니다.새 창 열림",
-   "url": "https://www.namhae.go.kr/tour/01057/01058.web",
-   "engine": "naver_web",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "최소 소비액(여행경비) 5만원 이상신청 대표자 휴대폰의 합천반값여행상품권 사용내역만 인정신청 대표자 외의 타인 명의로 발행된 제로페이 영수증은 일절 인정되지 않으며, 반드시 신청대표자 본인 명의의 증빙서류만 제출 가능새 창 열림",
-   "url": "https://hctour.kr/bbs/content.php?co_id=expenses_info",
-   "engine": "naver_web",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "2026.08.31.함양군이 관광객의 지역 내 여행경비 일부를 모바일 상품권으로 돌려주는 ‘웰·컴 함양 반값여행’을 9월부터 11월까지 운영한다.1차 신청은 9월 3일부터 9일까지이새 창 열림",
-   "url": "http://www.mediagn.co.kr/news/articleView.html?idxno=28050",
-   "engine": "naver_web",
-   "query": "반값여행 가족 5인 신청",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "2026 국가유산 미디어아트 양산 통도사 기간2026년 9월 28일(월) ~ 10월 18일(일) 운영 시간매일 19:00 ~ 21:00 (※ 산문 도보 입장 마감 20:00) 주제\"통도, 고요에 이르다\" (희망과 마음의 고요를 찾아가는 여정) 장소경상남도 양산시 하북면 통도사로 108 (통도사 일원) 관람료무료 (사전 예약 없이 현장 자유 관람)새 창 열림",
-   "url": "https://blog.naver.com/ochs2921/224436567272",
-   "engine": "naver_blog",
-   "query": "고궁 무료관람 기간",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "행사 기간: 2026년 10월 9일(금) ~ 2026년 10월 11일(일) 행사 장소: 세종특별자치시 다솜로 216 (세종동) 세종호수공원 및 세종중앙공원 일원 주최 및 주관: 세종특별자치시 / (재)세종시문화관광재단 문의 전화: 044-850-0593 입장료: 무료 (일부 체험... 펼쳐져 관람객들의 시선을 사로잡습니다. 야간에는 수백 대의 드론이 일사불",
-   "url": "https://blog.naver.com/gibikim/224436566271",
-   "engine": "naver_blog",
-   "query": "고궁 무료관람 기간",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "전시정보 전시명: 《겸재 정선 - 조선의 눈으로 조선을 그리다》 전시기간: 2026년 9월 16일(수) ~ 12월 27일(일) 전시장소: 대구간송미술관 전시실 1·2·4·5 주소: 대구광역시 수성구... 휴관) 관람료 성인: 14,000원 어린이·청소년(7~18세): 7,000원 7세 미만 및 65세 이상: 무료 단체 20명 이상 할인 적용 전시규모: 겸재",
-   "url": "https://blog.naver.com/insightjournal/224436565831",
-   "engine": "naver_blog",
-   "query": "고궁 무료관람 기간",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "━━━━━━━━━━━━━━━━━━ 성인 입장료는 7,000원이에요 축제기간에는 평소 무료로 개방되던 정원도 유료로 운영됩니다. 성인 개인은 7,000원이고 이 가운데 4,000원은... 축제장 입장 후 관람하는 개막 축하공연으로 별도의 콘서트 티켓을 구매하는 방식은 아니에요. 10월 10일 오후 3시 잔디광장 특설무대에서 진행됩니다. Q. 주차하기 가장 편",
-   "url": "https://blog.naver.com/systemflow-doc/224436564799",
-   "engine": "naver_blog",
-   "query": "고궁 무료관람 기간",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "기간 2026.9.2 ~ 10.2 (월·화 휴무) ⏰ 관람시간 19:00 ~ 21:30 (입장 마감 20:30) 가격 3,000원 (해설 없는 자유관람) 예매 놀(NOL)티켓 단독 판매 기타 참고사항 ✔️ 1인 최대 4매, 당일 예매 불가 ✔️ 한복 착용자, 만 65세 이상, 만 6세 이하 무료입장 ✔️ 관람구역: 광화문, 흥례문, 근정전, 경회루, 사정전",
-   "url": "https://blog.naver.com/tndus13543/224436564120",
-   "engine": "naver_blog",
-   "query": "고궁 무료관람 기간",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "기간과 겹치는 이 축제에서 제가 특히 기대하는 건 야간 빛 축제예요. 유적지 곳곳에 예쁜 조명이 켜지면 정말 몽환적이고 신비로운 분위기가 나거든요. 마지막 날 저녁에는 대규모 불꽃쇼로 마무리한다고 하니 놓치면 아깝겠죠? 입장료도 무료... 덕수궁 중화전 앞에서 열리는 고궁 음악회는 분위기가 정말 로맨틱하거든요. 배재학당역사박물관 같은 곳들도 밤 10시까지.",
-   "url": "https://blog.naver.com/hjhsama/224436564402",
-   "engine": "naver_blog",
-   "query": "고궁 무료관람 기간",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "31(토), 기간 중 무휴 · 장소 : 양재천 수변문화쉼터 일대 및 밀미리다리 · 관람 : 무료 · 문의 : 02-3423-5944 (강남구) ■ 어떤 작품이 있나 올해 콘셉트는 '일상 속 예술관'입니다. 2026년 강남구 주요 전시에 참여한 작품, 신진작가상 수상자 8인의 작품, 지역 갤러리 작품 등을 산책길에 전시하고 있습니다. ■ 건축사의 눈으로 본 ",
-   "url": "https://blog.naver.com/chrisarch/224436563271",
-   "engine": "naver_blog",
-   "query": "고궁 무료관람 기간",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "정확한 행사 기간은 2026년 10월 16일(금)부터 10월 18일(일)까지이며, 사흘 동안 진행됩니다. 축제 장소는 대전광역시 동구 원도심의 중심인 '대전역 광장 및 소제동 철도문화마을 일원... 공연 관람은 전 좌석 무료로 진행되며, 밤하늘을 수놓는 화려한 야간 경관 조명과 불꽃쇼 등 풍성한 볼거리가 함께 마련됩니다. 놓칠 수 없는 핵심 프로그램 및 먹",
-   "url": "https://blog.naver.com/rlagudghks0105-/224436562711",
-   "engine": "naver_blog",
-   "query": "고궁 무료관람 기간",
    "first_seen": "2026-10-09T21:40:17+09:00"
   }
  ],
