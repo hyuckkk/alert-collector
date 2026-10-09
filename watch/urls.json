@@ -1343,5 +1343,16 @@
   "url": "https://lib.yuseong.go.kr/web/program/lectureList.do",
   "note": "유성구통합도서관 강좌·프로그램 신청 목록 (JOB10, 경로 추정 — 실패 시 links.json 기준 교체)",
   "render": true
+ },
+ {
+  "id": "blog-gotaekmusicfesta-224426168539",
+  "url": "https://blog.naver.com/PostView.naver?blogId=gotaekmusicfesta&logNo=224426168539",
+  "note": "2026 Masters & Protégés 공연 일정 글(12/10 색소폰 브랜든 최) — 장소·시각·예매 확인용 (JOB3, WebFetch 불가)",
+  "render": true
+ },
+ {
+  "id": "rss-blog-gotaekmusicfesta",
+  "url": "https://rss.blog.naver.com/gotaekmusicfesta.xml",
+  "note": "Masters & Protégés 주최 블로그 RSS — 예매 오픈 공지 감시 (JOB3)"
  }
 ]
