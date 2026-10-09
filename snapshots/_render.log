@@ -1,52 +1,71 @@
-[blog-gotaekmusicfesta-224426168539] rendered 2682 chars CHANGED
-[yuseong-cultprfr-list] rendered 634 chars CHANGED
+[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
+
 [ysfesta-main] rendered 152 chars CHANGED
-[expo-park] rendered 727 chars CHANGED
-[nol-upcoming-notice] rendered 17351 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 17372 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] rendered 241911 chars CHANGED
-[dsecc-programs-p2] rendered 1949 chars CHANGED
-[dsecc-programs-p3] rendered 1949 chars CHANGED
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 95 chars CHANGED
-[mommom-place-6a2b94f5] rendered 95 chars CHANGED
-[mommom-place-6a2b9455] rendered 95 chars CHANGED
-[nol-product-phantom-40th] rendered 4783 chars CHANGED
-[daejeontour-bread-festival] rendered 4952 chars CHANGED
-[visitisland-main] rendered 1010 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1625 chars same
-[visitkorea-tour50-notice] rendered 616 chars CHANGED
-[pyoungsong-event-rudolph] rendered 424 chars same
-[pyoungsong-event-snowwhite] rendered 413 chars same
-[blog-namuac21-224427113169] rendered 4727 chars CHANGED
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[seocheon-halftour-apply] rendered 1300 chars CHANGED
-[komsco-shop-cate2284] rendered 6883 chars CHANGED
-[ticketlink-product-65585] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[mokwon-general-notice] rendered 1620 chars CHANGED
-[templestay-main] rendered 2612 chars CHANGED
-[hwadong-main] rendered 8148 chars CHANGED
-[bok-press-list] rendered 804 chars CHANGED
-[nol-product-26001112] rendered 3666 chars CHANGED
-[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
-[dgdr-festival] rendered 203 chars CHANGED
-[pyeongtaek-main] rendered 26055 chars CHANGED
-[kopis-daejeon-kids] rendered 30525 chars same
-[kwater-realtime-multidam] rendered 10510 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 129982 chars CHANGED
-[gongjeon-kids] rendered 482 chars CHANGED
-[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
-[katc-schedule] rendered 688 chars CHANGED
-[mnd-main] rendered 17304 chars same
-[fsale-main] rendered 4871 chars CHANGED
-[mokwon-events] rendered 948 chars CHANGED
-[pyoungsong-performance] rendered 984 chars same
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[dsecc-programs] rendered 1949 chars CHANGED
-[seogu-exprn-list] rendered 2459 chars CHANGED
-[seogu-event-list] rendered 2459 chars CHANGED
-[seogu-edu-list] rendered 2465 chars CHANGED
-[daejeon-its-board] rendered 3574 chars CHANGED
-[zeropay-events] rendered 529 chars CHANGED
+[khs-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.khs.go.kr/", waiting until "domcontentloaded"
+
+[khs-eventinfo] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.khs.go.kr/eventInfo/index.do", waiting until "domcontentloaded"
+
+[mommom-place-6a7d51b7] rendered 95 chars CHANGED
+[ticketlink-notice-65862] rendered 222110 chars CHANGED
+[royal-khs-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schBcid=notice01", waiting until "domcontentloaded"
+
+[yes24-perf-60278] rendered 198 chars CHANGED
+[chuncheon-notice-announcement] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/cityhall/administrative-info/notice-info/notice-announcement/", waiting until "domcontentloaded"
+
+[chuncheon-notice-announcement-76219] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/cityhall/administrative-info/notice-info/notice-announcement/view/?notAncmtMgtNo=76219", waiting until "domcontentloaded"
+
+[chuncheon-municipal-news] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/cityhall/administrative-info/notice-info/municipal-news", waiting until "domcontentloaded"
+
+[nol-product-26012487] rendered 1439 chars CHANGED
+[kwater-realtime-sumun] rendered 2293 chars CHANGED
+[cnu-jsh-schedule-178-2026-11] rendered 5967 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 953 chars CHANGED
+[kmusic-calendar-2026-11] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceCalendarMList.do?menuSeq=5308&searchYearMonth=2026-11", waiting until "domcontentloaded"
+
+[kmusic-calendar-2026-12] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceCalendarMList.do?menuSeq=5308&searchYearMonth=2026-12", waiting until "domcontentloaded"
+
+[kmusic-calendar-year] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceCalendarYList.do?menuSeq=5309", waiting until "domcontentloaded"
+
+[blog-daedeokgu-224432911721] rendered 2610 chars CHANGED
+[blog-namuac21-224424725714] rendered 4560 chars CHANGED
+[blog-youneed4613-224436099074] rendered 3071 chars CHANGED
+[pyoungsong] rendered 828 chars CHANGED
+[djkids-musical] rendered 1618 chars CHANGED
+[djkids-notice] rendered 1023 chars CHANGED
+[dctf] rendered 1496 chars CHANGED
+[chuncheon-festival-news] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295", waiting until "domcontentloaded"
+
+[chuncheon-festival-news-459539] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=459539&flag=view", waiting until "domcontentloaded"
+
+[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
+
+[chuncheon-festival-news-464131] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "domcontentloaded"
+
