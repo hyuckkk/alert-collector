@@ -1167,7 +1167,7 @@
     "id": "bok-press-list",
     "url": "https://www.bok.or.kr/portal/bbs/B0000338/list.do?menuNo=200761",
     "render": true,
-    "note": "JOB13 한국은행 보도자료 목록 — 기념주화 발행·예약 접수 보도자료가 여기 먼저 올라옴(10/9 B0000502 수집 실패 대체)"
+    "note": "JOB13 한국은행 보도자료 목록 — 기념주화 발행·예약 접수 보도자료가 여기 먼저 올라옴(10/9 B0000502 수집 실패 대체) / 10/9 09시에도 '콘텐츠 준비중'(의사록 메뉴로 표시) — bok-press-rss로 대체 시도"
   },
   {
     "id": "gnews-bok-coin",
@@ -1221,5 +1221,15 @@
     "url": "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceCalendarYList.do?menuSeq=5309",
     "render": true,
     "note": "연정국악원 연간일정 (JOB1, JOB11 2026-10-09)"
+  },
+  {
+    "id": "bok-press-rss",
+    "url": "https://www.bok.or.kr/portal/bbs/B0000338/news.rss?menuNo=200761",
+    "note": "JOB13 한국은행 보도자료 RSS — 렌더 목록 2개(B0000502·B0000338)가 '콘텐츠 준비중'만 수집되어 대체 시도(10/9)"
+  },
+  {
+    "id": "gnews-komsco-launch",
+    "url": "https://news.google.com/rss/search?q=%EC%A1%B0%ED%8F%90%EA%B3%B5%EC%82%AC+%EC%B6%9C%EC%8B%9C+when:3d&hl=ko&gl=KR&ceid=KR:ko",
+    "note": "JOB13 '조폐공사 출시' 최근 3일 구글뉴스 RSS — 쇼핑몰 신규 상품 발표 보도 보완"
   }
 ]
