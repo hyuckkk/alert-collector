@@ -1,8 +1,29 @@
 {
- "updated": "2026-10-09T19:08:01+09:00",
+ "updated": "2026-10-09T21:40:17+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 3,
  "hits": [
+  {
+   "title": "2021.04.05.제안이유 및 주요내용 ; 제안이유 2020년 8월 남강댐ㆍ대청댐ㆍ섬진강댐ㆍ용담댐ㆍ합천댐 등 5개 댐 하류지역에서 발생한 과다방류 피해의 진상조사를 통해 구체적인 발생원인과 책임소재를 밝히고, 남강댐ㆍ대청댐ㆍ섬진강댐ㆍ용담댐ㆍ합천댐 과다방류로 인하여 피해를 입은 사람 등에 대한 피해구제 및 지원 등에 관한 사항을 규정하여 해당 피해지역의 경",
+   "url": "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_A2H1D0J3O2I5B1S3W4G7F2Y4W8A9Z5",
+   "engine": "naver_all",
+   "query": "대청댐 방류",
+   "first_seen": "2026-10-09T21:40:17+09:00"
+  },
+  {
+   "title": "저수지와 댐 운영 측면에서는 강우 예측에 따른 방류·저장 정책을 탄력적으로 운용해 홍수 위험을 최소화하고, 가뭄 대비 저수량 비축도 동시에 검토해야 합니다. 산사태·침수 등의... 1) 기상예보와 재난문자 수신을 활성화하고 평소에도 최신 정보를 확인할 것. 2) 침수 우려가 있는 가정은 중요한 물품을 상향 보관하고 비상대피로를 미리 파악할 것. 3) 농업인",
+   "url": "https://blog.naver.com/sdg5366/224436174614",
+   "engine": "naver_blog",
+   "query": "대청댐 홍수방류 재난문자",
+   "first_seen": "2026-10-09T21:40:17+09:00"
+  },
+  {
+   "title": "이번 주는 첫 번째로, 임병선 에디터가 시민언론 민들레에 기고한 「\"전두환·윤석열 내란 아냐\" 김태규 제명 촉구 너무 당연」 글을 검토 두 번째로, 강기석 에디터가 시민언론 민들레에 기고한 「‘대법관 제청 갈등’ 여론은 ‘대통령 임명권’ 존중」 글을 검토 세 번째로, 임병선 에디터가 시민언론 민들레에 기고한 「지귀연, 술자리 의혹 1년 5개월 만에 재판 업",
+   "url": "https://cafe.naver.com/williamzzang/83942?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndpbGxpYW16emFuZyIsImFydGljbGVJZCI6ODM5NDIsImlzc3VlZEF0IjoxNzkxNTUxMDE4NzczfQ._WVml906yYp49CWU-oKqdPEWuLuwpzXd6Qzo181pvmA&q=%eb%8c%80%ec%b2%ad%eb%8c%90%20%ed%99%8d%ec%88%98%eb%b0%a9%eb%a5%98%20%ec%9e%ac%eb%82%9c%eb%ac%b8%ec%9e%90&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대청댐 홍수방류 재난문자",
+   "first_seen": "2026-10-09T21:40:17+09:00"
+  },
   {
    "title": "워터저널 2026년 10월호(제267호) 목차 - 워터저널",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qb3R5SmxtUmdSMjM2dERfSnE5bjh5c0tmWlpGTE9YODdwT21UQ3o2RUJvQ1hIdTlNSHNJMHpjaDJrN3lnbTZHbzhoVW4zMmdmZTVKQ2UzLVRGVGQtdzI1Tk1BSEZaT0c4dzYtRTd0Ylc2QdIBdkFVX3lxTE5McTR6X1VQN29WbmxpM3hTckRnVW1URDZRaTdsMC0xa1M1MGp6Y1k0Q09mVVZFekFZZnF3T19WbXpSeE41TUlXVFFtYWpWUEtXRk1TSFVlWk5QMFg0TkQ0VkQ2S016eGdrbEZUd1pGMVZ2ZjhaV3c?oc=5",
@@ -903,5 +924,8 @@
    "first_seen": "2026-10-02T23:13:55+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "naver_all '대청댐 홍수방류 재난문자': HTTP Error 403: Forbidden",
+  "naver_web '대청댐 홍수방류 재난문자': HTTP Error 403: Forbidden"
+ ]
 }
