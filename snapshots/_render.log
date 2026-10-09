@@ -1,50 +1,55 @@
-[nol-product-26008375] rendered 1746 chars CHANGED
 [englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
-[sejong-notice] rendered 2360 chars CHANGED
-[sejong-notice-greenfamily] rendered 1797 chars CHANGED
-[sejong-notice-birdwatch] rendered 1337 chars CHANGED
-[yangyang-cafe-balloon-15331] rendered 5192 chars CHANGED
-[andong-halftour] rendered 2486 chars CHANGED
-[kfe-main] rendered 5811 chars CHANGED
-[blog-tjrudska82-224434527430] rendered 4463 chars CHANGED
-[blog-dooglami-224434696671] rendered 4654 chars CHANGED
-[dsecc-programs-p2] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[dsecc-programs-p2] rendered 1949 chars CHANGED
+[dsecc-programs-p3] rendered 1949 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 6133 chars CHANGED
+[mommom-place-6a868bff] rendered 95 chars CHANGED
+[mommom-place-6a2b946b] rendered 95 chars CHANGED
+[mommom-place-6a2b94f5] rendered 84 chars CHANGED
+[mommom-place-6a2b9455] rendered 95 chars CHANGED
+[nol-product-phantom-40th] rendered 4783 chars CHANGED
+[daejeontour-bread-festival] rendered 4945 chars CHANGED
+[visitisland-main] rendered 1010 chars CHANGED
+[daejeon-okr-edu-8100] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://dsecc.djsch.kr/djsecc/lm/appl/lectList.do?mi=1115&pageIndex=2", waiting until "domcontentloaded"
+  - navigating to "https://www.daejeon.go.kr/okr2019/OkrEduList.do?menuSeq=8100", waiting until "domcontentloaded"
 
-[dsecc-programs-p3] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[pyoungsong-event-rudolph] rendered 424 chars same
+[pyoungsong-event-snowwhite] rendered 413 chars same
+[blog-namuac21-224427113169] rendered 4727 chars CHANGED
+[royal-khs-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://dsecc.djsch.kr/djsecc/lm/appl/lectList.do?mi=1115&pageIndex=3", waiting until "domcontentloaded"
+  - navigating to "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schBcid=notice01", waiting until "domcontentloaded"
 
-[pyoungsong-monthly] rendered 634 chars same
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 149537 chars same
-[pyoungsong-event-list] rendered 293 chars same
-[docomomokorea-main] rendered 293 chars same
-[aircanada-kr-moretotravel] rendered 3224 chars CHANGED
-[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
-[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
-[kopis-place-pyoungsong-small] rendered 10156 chars same
-[blog-seogu-artfest-blu2sky7] rendered 6192 chars CHANGED
-[gongjeon-kids] rendered 482 chars CHANGED
-[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
-[katc-schedule] rendered 688 chars CHANGED
-[mnd-main] rendered 17392 chars CHANGED
-[fsale-main] rendered 4910 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[gcfct-schedule] rendered 372 chars CHANGED
-[science-reservation] rendered 1061 chars CHANGED
-[khs-notice] rendered 309 chars same
-[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[expo-park] rendered 725 chars CHANGED
-[nol-upcoming-notice] rendered 17401 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 17381 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[komsco-shop-medal] rendered 7373 chars CHANGED
-[komsco-shop-coin] rendered 6799 chars CHANGED
-[komsco-shop-bar] rendered 6839 chars CHANGED
-[komsco-shop-card] rendered 7368 chars CHANGED
-[komsco-shop-currency-set] rendered 6683 chars CHANGED
-[cnu-jsh-schedule] rendered 989 chars same
-[bok-commemorative-coin-news] rendered 718 chars CHANGED
+[taean-halftour-apply] rendered 3078 chars CHANGED
+[seocheon-halftour-apply] rendered 1300 chars CHANGED
+[komsco-shop-cate2284] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.koreamint.com/goods/category.do?cate=2284", waiting until "domcontentloaded"
+
+[ticketlink-product-65585] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/65585']' timed out after 75 seconds
+[mokwon-general-notice] rendered 1620 chars CHANGED
+[templestay-main] rendered 2612 chars CHANGED
+[hwadong-main] rendered 8148 chars CHANGED
+[bok-press-list] rendered 804 chars CHANGED
+[nol-product-26001112] rendered 3666 chars CHANGED
+[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
+
+[seogu-yeyak] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.seogu.go.kr/yeyak/index.do", waiting until "domcontentloaded"
+
+[pyoungsong] rendered 828 chars same
+[djkids-musical] rendered 1618 chars CHANGED
+[djkids-notice] rendered 1023 chars CHANGED
+[dctf] rendered 1496 chars same
+[nol-family] rendered 3645 chars CHANGED
+[pyoungsong-performance] rendered 984 chars same
+[kopis-time-beyond-daejeon] rendered 8087 chars same
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[dsecc-programs] rendered 1949 chars CHANGED
+[seogu-exprn-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub03_01/list.do", waiting until "domcontentloaded"
+
