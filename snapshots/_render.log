@@ -1,52 +1,45 @@
-[nol-family] rendered 3864 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[gcfct-schedule] rendered 372 chars CHANGED
-[science-reservation] rendered 1061 chars CHANGED
-[khs-notice] rendered 309 chars same
-[science-edu-reservation] rendered 2107 chars CHANGED
-[hanbat-gongdong-science-form] rendered 1854 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 7979 chars CHANGED
-[cnu-jsh-schedule-178] rendered 3293 chars CHANGED
-[dmzforest-main] rendered 6330 chars CHANGED
-[sejong-notice-dance-free] rendered 1709 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1914 chars CHANGED
-[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
+[seogu-edu-list] rendered 2465 chars CHANGED
+[daejeon-its-board] rendered 3573 chars CHANGED
+[sejong-notice] rendered 2353 chars CHANGED
+[sejong-notice-greenfamily] rendered 1797 chars CHANGED
+[sejong-notice-birdwatch] rendered 1337 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 4920 chars CHANGED
+[komsco-shop-medal] rendered 7373 chars CHANGED
+[komsco-shop-coin] rendered 6799 chars CHANGED
+[komsco-shop-bar] rendered 6839 chars CHANGED
+[komsco-shop-card] rendered 7368 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
+[cnu-jsh-schedule] rendered 989 chars same
+[bok-commemorative-coin-news] rendered 718 chars CHANGED
+[andong-halftour] rendered 2486 chars CHANGED
+[kfe-main] rendered 5811 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4489 chars CHANGED
+[blog-dooglami-224434696671] rendered 4671 chars CHANGED
+[pyoungsong-monthly] rendered 634 chars same
+[pyoungsong-wp-event-api] rendered 208 chars same
+[pyoungsong-tribe-events-api] rendered 149537 chars same
+[pyoungsong-event-list] rendered 293 chars same
+[docomomokorea-main] rendered 293 chars same
+[mcst-culture-71983] rendered 1180 chars CHANGED
+[aircanada-kr-moretotravel] rendered 3222 chars CHANGED
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[hanbat-library-media-friend] rendered 1154 chars CHANGED
+[kopis-place-pyoungsong-small] rendered 10156 chars same
+[blog-seogu-artfest-blu2sky7] rendered 6166 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[pyeongtaek-main] rendered 26047 chars CHANGED
+[kopis-daejeon-kids] rendered 30525 chars CHANGED
+[kwater-realtime-multidam] rendered 8361 chars CHANGED
+[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/22471']' timed out after 75 seconds
+[gongjeon-kids] rendered 482 chars CHANGED
+[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
+[katc-schedule] rendered 688 chars CHANGED
+[mnd-main] rendered 17304 chars CHANGED
+[fsale-main] rendered 4526 chars CHANGED
+[mokwon-events] rendered 948 chars CHANGED
+[zeropay-events] rendered 529 chars CHANGED
+[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
+  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
 
-[woorisb-tok7-product] rendered 2797 chars CHANGED
-[mommom-sandmagic-a] rendered 2534 chars CHANGED
-[mommom-sandmagic-b] rendered 95 chars CHANGED
-[sejong-notice-imnansu-play] rendered 867 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
-[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
-[blog-first_seogu-224428074790] rendered 3285 chars CHANGED
-[blog-dooglami-224433357728] rendered 5214 chars CHANGED
-[yes24-genre-children] rendered 196 chars CHANGED
-[pyoungsong-event-feed] rendered 34079 chars same
-[aircanada-korea] rendered 22908 chars CHANGED
-[aircanada-kr-so-hub] rendered 2864 chars CHANGED
-[aircanada-kr-kbcard] rendered 27163 chars CHANGED
-[mokpo-harborfestival-main] rendered 8825 chars CHANGED
-[blog-seogu-artfest-fringe-cvovz] rendered 5385 chars CHANGED
-[pyoungsong-tribe-events-api-p2] rendered 14979 chars same
-[kopis-pf297232] rendered 7859 chars same
-[yuseong-round-event] rendered 1328 chars CHANGED
-[seogu-yeyak] rendered 2353 chars CHANGED
-[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[oworld-notice] rendered 1794 chars same
-[baekje-schedule] rendered 1744 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[woosongart-schedule] rendered 590 chars CHANGED
-[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[expo-park] rendered 727 chars CHANGED
-[nol-upcoming-notice] rendered 17383 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 17387 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] rendered 242004 chars CHANGED
-[pyoungsong-performance] rendered 984 chars same
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[dsecc-programs] rendered 1949 chars CHANGED
-[seogu-exprn-list] rendered 2459 chars CHANGED
-[seogu-event-list] rendered 2459 chars CHANGED
