@@ -1,51 +1,57 @@
 [kopis-pf297232] rendered 7859 chars CHANGED
-[dsecc-programs-p2] rendered 1949 chars CHANGED
-[dsecc-programs-p3] rendered 1949 chars CHANGED
-[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[pyeongtaek-main] rendered 26047 chars CHANGED
-[visitkorea-tour50-notice] rendered 616 chars CHANGED
-[mommom-place-6a7d51b7] rendered 95 chars CHANGED
-[ticketlink-notice-65862] rendered 212397 chars CHANGED
-[yes24-perf-60278] rendered 199 chars CHANGED
-[chuncheon-notice-announcement] rendered 3540 chars CHANGED
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[chuncheon-municipal-news] rendered 1804 chars CHANGED
-[nol-product-26012487] rendered 1827 chars CHANGED
-[kwater-realtime-sumun] rendered 2304 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 5967 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 953 chars CHANGED
-[kmusic-calendar-2026-11] rendered 1355 chars CHANGED
-[kmusic-calendar-2026-12] rendered 1144 chars CHANGED
-[kmusic-calendar-year] rendered 5903 chars CHANGED
-[blog-daedeokgu-224432911721] rendered 2610 chars CHANGED
-[blog-namuac21-224424725714] rendered 4560 chars CHANGED
-[blog-youneed4613-224436099074] rendered 3148 chars CHANGED
-[kopis-daejeon-kids] rendered 30525 chars CHANGED
-[kwater-realtime-multidam] rendered 10521 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 151275 chars CHANGED
-[gongjeon-kids] rendered 482 chars CHANGED
-[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
-[katc-schedule] rendered 688 chars CHANGED
-[mnd-main] rendered 17389 chars CHANGED
-[fsale-main] rendered 4526 chars CHANGED
-[mokwon-events] rendered 948 chars CHANGED
-[chuncheon-festival-news] rendered 866 chars CHANGED
-[chuncheon-festival-news-459539] rendered 800 chars CHANGED
-[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
+[dgdr-festival] rendered 203 chars CHANGED
+[science-edu-reservation] rendered 2107 chars CHANGED
+[hanbat-gongdong-science-form] rendered 1854 chars CHANGED
+[daejeon-cafe-dodam-2801968] rendered 7979 chars CHANGED
+[cnu-jsh-schedule-178] rendered 3293 chars CHANGED
+[dmzforest-main] rendered 6330 chars CHANGED
+[sejong-notice-dance-free] rendered 1709 chars CHANGED
+[sejong-notice-family-magic-play] rendered 1914 chars CHANGED
+[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
 Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "
-[pyeongtaek-news-board] rendered 3291 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 6471 chars CHANGED
-[pyeongtaek-gosi] rendered 1635 chars CHANGED
-[hanbat-library-culture] rendered 2625 chars CHANGED
-[chuncheon-festival-news-465019] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view
+  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
+
+[woorisb-tok7-product] rendered 2797 chars same
+[mommom-sandmagic-a] rendered 2534 chars CHANGED
+[mommom-sandmagic-b] rendered 95 chars CHANGED
+[sejong-notice-imnansu-play] rendered 867 chars CHANGED
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3285 chars CHANGED
+[blog-dooglami-224433357728] rendered 5197 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] rendered 34079 chars same
+[mcst-culture-71983] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 466 chars same
-[pyoungsong-event-sandmagic] rendered 480 chars same
-[pyoungsong-event-stonesoup] rendered 317 chars same
-[donghae-dhdmo-program] rendered 1800 chars CHANGED
-[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
-[daejeon-okr-edu] rendered 1499 chars same
-[daejeon-okr-hanbatlib] rendered 1625 chars CHANGED
+  - navigating to "https://www.mcst.go.kr/site/s_culture/culture/cultureView.jsp?pSeq=71983", waiting until "domcontentloaded"
+
+[aircanada-korea] rendered 22911 chars CHANGED
+[aircanada-kr-so-hub] rendered 2867 chars CHANGED
+[aircanada-kr-kbcard] rendered 27326 chars CHANGED
+[mokpo-harborfestival-main] rendered 8825 chars CHANGED
+[hanbat-library-media-friend] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.daejeon.go.kr/hanbatlibrary/board/boardNormalView.do?boardId=normal_1020&menuSeq=6242&ntatcSeq=1522905385", waiting until "domcontentloaded"
+
+[blog-seogu-artfest-fringe-cvovz] rendered 4961 chars CHANGED
+[pyoungsong-tribe-events-api-p2] rendered 14979 chars same
+[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
+
+[seogu-yeyak] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.seogu.go.kr/yeyak/index.do", waiting until "domcontentloaded"
+
+[pyoungsong] rendered 828 chars same
+[djkids-musical] rendered 1618 chars CHANGED
+[djkids-notice] rendered 1023 chars CHANGED
+[dctf] rendered 1496 chars same
+[nol-family] rendered 3650 chars CHANGED
+[fsale-onnuri] rendered 361 chars same
+[gcfct-schedule] rendered 372 chars CHANGED
+[science-reservation] rendered 1061 chars CHANGED
+[khs-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.khs.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1008&mn=NS_01_02_01", waiting until "domcontentloaded"
+
