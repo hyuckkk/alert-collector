@@ -1191,5 +1191,35 @@
     "url": "https://www.water.or.kr/kor/realtime/sumun/index.do?mode=sumun&menuId=13_91_93_94",
     "render": true,
     "note": "K-water 물정보포털 실시간 수문현황(댐별 수위·방류, JOB9) — 다목적댐 관리현황 렌더가 빈 표('0000년') 반복이라 보조로 추가"
+  },
+  {
+    "id": "cnu-jsh-schedule-178-2026-11",
+    "url": "https://jsh.cnu.ac.kr/segio/jsh/html/event_month_schedule.php?shell=/index.shell:178&menu=&year=2026&month=11",
+    "render": true,
+    "note": "충남대 정심화홀·백마홀 11월 월간일정(학외 대관 가족공연·학생 정기공연) — 기본 URL은 당월만 보임 (JOB1/JOB2, JOB11 2026-10-09)"
+  },
+  {
+    "id": "cnu-jsh-schedule-178-2026-12",
+    "url": "https://jsh.cnu.ac.kr/segio/jsh/html/event_month_schedule.php?shell=/index.shell:178&menu=&year=2026&month=12",
+    "render": true,
+    "note": "충남대 정심화홀·백마홀 12월 월간일정 (JOB1/JOB2, JOB11 2026-10-09)"
+  },
+  {
+    "id": "kmusic-calendar-2026-11",
+    "url": "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceCalendarMList.do?menuSeq=5308&searchYearMonth=2026-11",
+    "render": true,
+    "note": "연정국악원 11월 월간일정 — 공연목록(menuSeq=6400)은 임박 공연만 보임 (JOB1, JOB11 2026-10-09)"
+  },
+  {
+    "id": "kmusic-calendar-2026-12",
+    "url": "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceCalendarMList.do?menuSeq=5308&searchYearMonth=2026-12",
+    "render": true,
+    "note": "연정국악원 12월 월간일정(12월 가족 기획공연) (JOB1, JOB11 2026-10-09)"
+  },
+  {
+    "id": "kmusic-calendar-year",
+    "url": "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceCalendarYList.do?menuSeq=5309",
+    "render": true,
+    "note": "연정국악원 연간일정 (JOB1, JOB11 2026-10-09)"
   }
 ]
