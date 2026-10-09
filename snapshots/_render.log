@@ -1,55 +1,53 @@
-[pyeongtaek-gosi] rendered 1635 chars CHANGED
-[hanbat-library-culture] rendered 2597 chars CHANGED
-[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 466 chars same
-[pyoungsong-event-sandmagic] rendered 480 chars same
-[pyoungsong-event-stonesoup] rendered 317 chars same
-[donghae-dhdmo-program] rendered 1800 chars CHANGED
-[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
-[daejeon-okr-edu] rendered 1499 chars CHANGED
-[daejeon-okr-hanbatlib] rendered 1626 chars CHANGED
-[bok-commemorative-coin-news] rendered 718 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 6106 chars CHANGED
-[sejong-notice-hangeulday-book] rendered 1168 chars CHANGED
-[nol-notice-10111] rendered 17341 chars CHANGED
-[naver-entertain-018-0006379428] rendered 45005 chars CHANGED
-[melon-artist-songsohee] rendered 2042 chars CHANGED
-[interpark-artist-leejuck] rendered 10193 chars CHANGED
-[yctf-show] rendered 502 chars CHANGED
-[sejong-notice-science-concert] rendered 1015 chars CHANGED
-[sejong-notice-science-jiphyeonjeon] rendered 1170 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31983 chars CHANGED
-[andong-halftour] rendered 2486 chars CHANGED
-[blog-tjrudska82-224434527430] rendered 4561 chars CHANGED
-[blog-dooglami-224434696671] rendered 5005 chars CHANGED
-[pyoungsong-monthly] rendered 634 chars same
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 149537 chars same
-[pyoungsong-event-list] rendered 293 chars same
-[docomomokorea-main] rendered 237 chars CHANGED
-[mcst-culture-71983] rendered 1180 chars CHANGED
-[aircanada-kr-moretotravel] rendered 3225 chars CHANGED
-[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
-[yuseong-lib-lecture-12604] rendered 1523 chars CHANGED
-[yuseong-lib-lecture-list] rendered 2334 chars CHANGED
-[pyeongtaek-main] rendered 25844 chars CHANGED
-[kopis-daejeon-kids] rendered 30525 chars CHANGED
-[kwater-realtime-multidam] rendered 2018 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 168945 chars CHANGED
-[gongjeon-kids] rendered 482 chars CHANGED
-[navy-visit-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[mnd-main] rendered 17304 chars CHANGED
+[ticketlink-notice-mobile] rendered 262076 chars CHANGED
+[pyoungsong-performance] rendered 984 chars same
+[kopis-time-beyond-daejeon] rendered 8087 chars same
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[dsecc-programs] rendered 1949 chars CHANGED
+[seogu-exprn-list] rendered 2460 chars CHANGED
+[seogu-event-list] rendered 2460 chars CHANGED
+[seogu-edu-list] rendered 2466 chars CHANGED
+[daejeon-its-board] rendered 3574 chars CHANGED
+[zeropay-events] rendered 529 chars CHANGED
+[kfe-main] rendered 6111 chars CHANGED
+[dsecc-programs-p2] rendered 1949 chars CHANGED
+[dsecc-programs-p3] rendered 1949 chars CHANGED
+[mommom-place-6a868bff] rendered 95 chars CHANGED
+[mommom-place-6a2b946b] rendered 95 chars CHANGED
+[mommom-place-6a2b94f5] rendered 95 chars CHANGED
+[mommom-place-6a2b9455] rendered 95 chars CHANGED
+[nol-product-phantom-40th] rendered 4782 chars CHANGED
+[daejeontour-bread-festival] rendered 4619 chars CHANGED
+[visitisland-main] rendered 1010 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1626 chars CHANGED
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[pyoungsong-event-rudolph] rendered 424 chars same
+[pyoungsong-event-snowwhite] rendered 413 chars same
+[blog-namuac21-224427113169] rendered 4727 chars CHANGED
+[taean-halftour-apply] rendered 3078 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[hanbat-library-media-friend] rendered 1154 chars CHANGED
+[kopis-place-pyoungsong-small] rendered 10127 chars CHANGED
+[blog-seogu-artfest-blu2sky7] rendered 6227 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[pyoungsong] rendered 828 chars same
+[djkids-musical] rendered 1618 chars CHANGED
+[djkids-notice] rendered 1023 chars CHANGED
+[dctf] rendered 1496 chars CHANGED
+[chuncheon-festival-news] rendered 866 chars CHANGED
+[chuncheon-festival-news-459539] rendered 800 chars CHANGED
+[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000", waiting until "domcontentloaded"
+  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
 
-[katc-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
 Call log:
-  - navigating to "https://www.katc.mil.kr/katc/guide/schedule.jsp", waiting until "domcontentloaded"
-
-[fsale-main] rendered 4526 chars CHANGED
-[mokwon-events] rendered 948 chars CHANGED
-[expo-park] rendered 724 chars CHANGED
-[nol-upcoming-notice] rendered 17506 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 17437 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "
+[science-edu-reservation] rendered 2107 chars CHANGED
+[sejong-notice] rendered 2305 chars CHANGED
+[mommom-place-6a7d51b7] rendered 95 chars CHANGED
+[ticketlink-notice-65862] rendered 230491 chars CHANGED
+[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[seocheon-halftour-apply] rendered 1300 chars CHANGED
+[komsco-shop-cate2284] rendered 6883 chars CHANGED
+[ticketlink-product-65585] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/65585']' timed out after 75 seconds
