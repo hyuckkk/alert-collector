@@ -1,61 +1,49 @@
-[daejeon-cafe-100papa-40250] rendered 2051 chars CHANGED
-[sejong-notice-hangeulday-book] rendered 1168 chars CHANGED
-[nol-notice-10111] rendered 17369 chars CHANGED
-[naver-entertain-018-0006379428] rendered 23953 chars CHANGED
-[melon-artist-songsohee] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/artist/index.htm?artistId=672059
+[mommom-place-6a7d51b7] rendered 95 chars CHANGED
+[ticketlink-notice-65862] rendered 219372 chars CHANGED
+[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[yes24-perf-60278] rendered 198 chars CHANGED
+[chuncheon-notice-announcement] rendered 3540 chars CHANGED
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1804 chars CHANGED
+[nol-product-26012487] rendered 1439 chars CHANGED
+[kwater-realtime-sumun] rendered 2290 chars CHANGED
+[cnu-jsh-schedule-178-2026-11] rendered 5967 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 953 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1355 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1144 chars CHANGED
+[kmusic-calendar-year] rendered 5903 chars CHANGED
+[blog-daedeokgu-224432911721] rendered 2610 chars CHANGED
+[blog-namuac21-224424725714] rendered 4560 chars CHANGED
+[blog-youneed4613-224436099074] rendered 3069 chars CHANGED
+[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://ticket.melon.com/artist/index.htm?artistId=672059", waiting until "domcontentloaded"
+  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
 
-[interpark-artist-leejuck] rendered 10193 chars CHANGED
-[yctf-show] rendered 502 chars CHANGED
-[sejong-notice-science-concert] rendered 1015 chars CHANGED
-[sejong-notice-science-jiphyeonjeon] rendered 1170 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31915 chars CHANGED
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 95 chars CHANGED
-[mommom-place-6a2b94f5] rendered 95 chars CHANGED
-[mommom-place-6a2b9455] rendered 95 chars CHANGED
-[nol-product-phantom-40th] rendered 4783 chars CHANGED
-[daejeontour-bread-festival] rendered 4571 chars CHANGED
-[visitisland-main] rendered 1010 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1625 chars same
-[pyoungsong-event-rudolph] RENDER ERROR rendered but too little text (19 chars)
-[pyoungsong-event-snowwhite] RENDER ERROR rendered but too little text (19 chars)
-[blog-namuac21-224427113169] rendered 4727 chars CHANGED
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[seocheon-halftour-apply] rendered 1300 chars CHANGED
-[komsco-shop-cate2284] rendered 6883 chars CHANGED
-[ticketlink-product-65585] rendered 150025 chars CHANGED
-[mokwon-general-notice] rendered 1620 chars CHANGED
-[templestay-main] rendered 2612 chars CHANGED
-[hwadong-main] rendered 8148 chars CHANGED
-[bok-press-list] rendered 804 chars CHANGED
-[nol-product-26001112] rendered 3666 chars CHANGED
-[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
-[dgdr-festival] rendered 203 chars CHANGED
-[pyoungsong] RENDER ERROR rendered but too little text (19 chars)
-[djkids-musical] rendered 1618 chars CHANGED
-[djkids-notice] rendered 1023 chars CHANGED
-[dctf] rendered 1496 chars CHANGED
-[chuncheon-festival-news] rendered 866 chars CHANGED
-[chuncheon-festival-news-459539] rendered 800 chars CHANGED
-[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
+[seogu-yeyak] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "
-[pyeongtaek-news-board] rendered 3291 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 6471 chars CHANGED
-[pyeongtaek-gosi] rendered 1635 chars CHANGED
-[hanbat-library-culture] rendered 2625 chars CHANGED
-[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
-[pyoungsong-event-nunkkot] RENDER ERROR rendered but too little text (19 chars)
-[pyoungsong-event-piglets] RENDER ERROR rendered but too little text (19 chars)
-[pyoungsong-event-sandmagic] RENDER ERROR rendered but too little text (19 chars)
-[pyoungsong-event-stonesoup] RENDER ERROR rendered but too little text (19 chars)
-[donghae-dhdmo-program] rendered 1800 chars CHANGED
-[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
-[daejeon-okr-edu] rendered 1499 chars same
-[daejeon-okr-hanbatlib] rendered 1625 chars same
-[dsecc-programs-p2] rendered 1949 chars CHANGED
-[dsecc-programs-p3] rendered 1949 chars CHANGED
-[visitkorea-tour50-notice] rendered 616 chars CHANGED
+  - navigating to "https://www.seogu.go.kr/yeyak/index.do", waiting until "domcontentloaded"
+
+[nol-family] rendered 3851 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[oworld-notice] rendered 1794 chars same
+[baekje-schedule] rendered 1744 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[woosongart-schedule] rendered 590 chars CHANGED
+[fsale-onnuri] rendered 361 chars same
+[gcfct-schedule] rendered 372 chars CHANGED
+[science-reservation] rendered 1061 chars CHANGED
+[khs-notice] rendered 309 chars same
+[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[expo-park] rendered 727 chars CHANGED
+[nol-upcoming-notice] rendered 17444 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 17392 chars CHANGED
+[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
+[ticketlink-notice-mobile] rendered 262076 chars CHANGED
+[pyoungsong-performance] rendered 984 chars same
+[kopis-time-beyond-daejeon] rendered 8087 chars same
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[dsecc-programs] rendered 1949 chars CHANGED
+[seogu-exprn-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub03_01/list.do", waiting until "domcontentloaded"
+
