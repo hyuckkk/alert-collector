@@ -1,8 +1,723 @@
 {
- "updated": "2026-10-09T16:08:29+09:00",
+ "updated": "2026-10-09T17:07:57+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 2061,
+ "new_this_run": 91,
  "hits": [
+  {
+   "title": "정부 지원 여가 혜택이 확대된 것으로 나타났습니다. 렌터카부터 카라반, 직업체험, 케이블카, 수목원까지 여행·레저 할인 행사가 이어지고 있습니다. 9일 한국관광공사 관계자에 따르면, 공사는 롯데렌터카를 통해 다음 달 말까지 렌터카 대여료를 60%, 보험료를...",
+   "url": "http://v.daum.net/v/20261009070300571",
+   "engine": "daum_news",
+   "query": "숙박 할인 쿠폰 지원",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "시작 전에 용어 세 가지부터 익히는 보배드림 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jbFRoRTM0aUh2S3RPckd2YUNOSy1uWThLSlpQVk1SMlNtcW5oTllHek4zdDI4bXZJUTNmb0tlYkZoVjFfTGt2WjVpMzNBMU9Uc3BSYl9vX1NhU190ZmcyVVJnWEV0bTlWTGNLVA?oc=5",
+   "pub": "Thu, 08 Oct 2026 11:10:28 GMT",
+   "engine": "gnews",
+   "query": "숙박 할인 쿠폰 지원",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "숙박세일 페스타 11월 8일까지, 2박이면 7만원 할인 - 여행픽",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXYUJWd2NRXzFrWlNlMXI2VmlrbGkwUGFhR0FfdWFtcWpsM182TWdzYm80Q3RnOW5DYlozQ1lvd0tjRUNTU1NTZlNRbjRfa3BIQVhzSDZHeFIwNEhmblBsc2tlbHpNS0dXV21XRA?oc=5",
+   "pub": "Thu, 08 Oct 2026 21:00:00 GMT",
+   "engine": "gnews",
+   "query": "숙박세일페스타",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "10월 전국 가을 꽃명소·꽃 축제 6곳 추천: 빙하기가 오기 전에 나들이 가자! 🌼 - 뉴닉",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMdTlnVTIyQm1CVHdsUWRwLXRRdzVwS05BODROU1NJZzZUZjlCMTM0LTR2SkhneDhORm5iTzRxbzJpcWNQYk84U2VlMTdFTnF1MTNYeUs2bw?oc=5",
+   "pub": "Sat, 03 Oct 2026 03:00:00 GMT",
+   "engine": "gnews",
+   "query": "숙박세일페스타",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "오는 17일 '송파구 반려동물 한마당' 개최 - 딜라이브뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZT3YzSVE2WmtjemZtVVlhV1c1MEFaRFdHWFIzeXVSOHFpRFJGTDVkSlZFcV94c1dGa25hcUlLRXFwM1lvTU9rZkVYTmV0YmUwRWg2Mi1PTWdpcklMblpXM1RVZlE3UQ?oc=5",
+   "pub": "Thu, 08 Oct 2026 09:13:48 GMT",
+   "engine": "gnews",
+   "query": "숙박세일페스타",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "어드벤쳐 테마파크 노원구에 있어! #딜라이브뉴스 #shorts - 딜라이브뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5NWRHX3BFNE9DcnhyUTNRV0JqOVI1MXVfYU1JMndJOEZpS2YyNks5YzNRS3l0b3BqM1FULVlhTVRIaW5heTM1UkZfZmVVRnBBZUUxcU0yMUw2MUVnOF9SRHVqMFQwQQ?oc=5",
+   "pub": "Wed, 07 Oct 2026 00:29:33 GMT",
+   "engine": "gnews",
+   "query": "숙박세일페스타",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "[전국레이더] 가을은 축제의 계절…먹거리·꽃에 이색 체험까지 - K-VIBE",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8ybjZUa1hBaWJibURvVXo2NDVzMTZRWloweHJMME5XODI0LXk2SWlwXzVxX3ljZ01QNElpR0Q3V1V0eHVJN0g4RHVVMVY5aVZGbHIyQmE4MGJDYlYwckZlTllYaHpnTVVBNVdPLVBR0gFuQVVfeXFMTzJuNlRrWEFpYmJtRG9VejY0NXMxNlFaWjB4ckwwTlc4MjQteTZJaXBfNXFfeWNnTVA0SWlHRDdXVXR4dUk3SDhEdVUxVjlpVkZscjJCYTgwYkNiVjByRmVOWVhoemdNVUE1V08tUFE?oc=5",
+   "pub": "Sat, 03 Oct 2026 22:00:06 GMT",
+   "engine": "gnews",
+   "query": "숙박세일페스타",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "성남시의회, 2026 성남농협 조합원 한마음 축제 참석 - 한국글로벌뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwU3VtTnFJM210bE1xNC1GbjM5Tlk3djhicUUwMHVnUktXLVdaUjFrVDdFRHdWSGx2N3RGX0xaYk83eDhsTUp0ZXk0emtYSlZTZExib1hUdGhnTXJmcC1USnhPUQ?oc=5",
+   "pub": "Wed, 07 Oct 2026 09:50:03 GMT",
+   "engine": "gnews",
+   "query": "숙박세일페스타",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "성남시의회, 2026년 성남시장기 전국장애인게이트볼대회 - 한국글로벌뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBazF3VE1sclpYZmt2QjZ6OWYxYmhUYUk0ZEZTZ1NEVDZfRXlKM0NTU1cyTmV5cGRBSjVNNk5OQzlYUVFHTnVaTzhlNWRZbWNBeElnQTVwV2E4RWZYa3FqX2NIZw?oc=5",
+   "pub": "Wed, 07 Oct 2026 09:50:04 GMT",
+   "engine": "gnews",
+   "query": "숙박세일페스타",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "수원시 영통구, 새내기 공직자 31명과 함께 힘찬 출발 - 한국글로벌뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNNFd0OWdobEpIYllQVDVYM19MSmp2V2FfUWprRFdBeXVfcE9lWjY1Tlg0a29wcmd4YXRBbFVYOG5UWC02cjVuZVpmMVZRZFJwanlTeFY1WE1hQXV0ZERvUXBUcw?oc=5",
+   "pub": "Wed, 07 Oct 2026 01:10:05 GMT",
+   "engine": "gnews",
+   "query": "숙박세일페스타",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "‘달리며 즐기는 반값여행’ 목포 런트립 실시 - 전남타임스",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRSlZrUkF3cXlKU2MwYXRCRlh0WGdYN2YtTUFvX2V2cFFOOTR6YUJrZ1VwM3g0VXNybHM5bnJoRkRndVpWUHNBdTliWElpX0loX0h6akN1NUIxT0FjNGt3aTUybG4tTjA?oc=5",
+   "pub": "Sat, 03 Oct 2026 02:33:58 GMT",
+   "engine": "gnews",
+   "query": "반값여행 신청",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "하지 못한 드래곤슬라이드도 축제 기간을 맞아 문을 열고 무료 체험을 진행하고 있습니다.\" ◀ INT ▶ 김두영 / 춘천시 \"통통통...맞춰졌습니다. ◀ INT ▶ 장신상 횡성군수 \"농촌의 어려움도 좀 달래주시고 가족이 함께 오셔서 횡성한우 맛도 보시고 재미있는 행복...",
+   "url": "http://v.daum.net/v/20261009084042627",
+   "engine": "daum_news",
+   "query": "농촌체험 가족 무료",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "메뚜기 잡고 가래떡 뽑고…성주 황금들녘 ‘들썩’ - 경상매일신문",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hRWhDUXh3ZTQ2Vm1FNnZnSlB6NVhBX3B2X2FlZG91clFMWEFlM2VJbFFSVEx3cTYzMzNIMlBiUkd0MjA5OXZuMFpucWFjUmo2ZWZ4NF8tNWtrMDRJajhv?oc=5",
+   "pub": "Wed, 07 Oct 2026 08:04:56 GMT",
+   "engine": "gnews",
+   "query": "농촌체험 가족 무료",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "백혈병소아암협회, 소아암 가족 950명 에버랜드·호텔 1박 2일 지원 - 스페셜타임스",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaZlc5ZzZrVTRjSXEtUDBuNmtmR2JHRWlGRTBNMUFydmV4WUd6ZjVwRGlPekdSTGU2eEJwQWFNSVBud01LLU9jbFBxbE8xR3lzLVN4aUROWmFWeGFmV09QalVubDd2akJtb0UxX25WMVc4Mjg?oc=5",
+   "pub": "Wed, 07 Oct 2026 06:48:39 GMT",
+   "engine": "gnews",
+   "query": "1박2일 가족 무료 프로그램",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "지원 브라우저 안내는 어디에 있나요? 렛츠런파크 서울 경마시간 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40T0RGMkx0U0hURUNjZ0VNeHpWUTVyVXZXcmY3dUtSbXRtdThublpZYy1XZWc1T1F0LVg5cnpBUTFDZC1icVNOMVZ3S0NXNmtaNDVUb0JiSnpudjd4WWFoaXVTcDcyaGIyR0UtSDl6VQ?oc=5",
+   "pub": "Wed, 07 Oct 2026 16:16:51 GMT",
+   "engine": "gnews",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "할인 혜택을 제공한다. 신성통상 지오지아 관계자는 “주우재와 침착맨의 서로 다른 개성과 관계성을 사무실이라는 공간에서 입체적으로 보여주고자 했다\"며 “각자의 방식으로 일하고 스타일을 완성하는 남성의 모습을 통해 지오지아가 추구하는 비즈니스 캐주얼을...",
+   "url": "http://v.daum.net/v/20261009100003023",
+   "engine": "daum_news",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "모양과 색으로 구분하는 바카라 ai 심벌 디자인 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEhJa0dfRm4yQnFtWkJ3MHljblNDSll2dUVsSXJjbnhsRjl4VFYxbDI4dTZ3Smo5YWYtdGJ6c1RudGtXZ1YxWU1IcmdVVmgyeVZ4UVBxUTR5MTkzMVBvUlNtUzRFdS1BbzZzU2VuR0NqTGl3MDRNRmVjN2NiT0Y2cVRlcWxSeURCeVZPSHVOTmVYOG5PcXA5amZ0OW42OGlvTFRmdmdaZW0wNEMwbUsyd0FZRG5naFZhWk1z?oc=5",
+   "pub": "Thu, 08 Oct 2026 18:45:20 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "연휴에 공짜로 논다…카라반 반값에 수목원 무료 - SBS Biz",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lREUyR090ZF94aUVqdU00U0RFX0dFMnVXUkwxaWZSSFNJZVl6cWpQVXE1UHJaY2NmQUxrZXItdzIxMzlVWjF4UjVFbVozRExEZ2t1aDZPUVjSAVhBVV95cUxOZURFMkdPdGRfeGlFanVNNFNERV9HRTJ1V1JMMWlmUkhTSWVZenFqUFVxNVByWmNjZkFMa2VyLXcyMTM5VVoxeFI1RW1aM0RMRGdrdWg2T1FY?oc=5",
+   "pub": "Thu, 08 Oct 2026 22:00:00 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "심벌 설명에 없는 조합은 어디서 찾나요? 국내여행 룰렛 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSzA4cWUtY0pKZ3hkdDJ5bUEzbE01WE9uN1gyMEZLSzQ1YlpXU29zTW13N2R5bW02T1hOY2RGaG9BTUxtN041U1BSbjh0U3VlT0E0NXdQbFJGUDZvWnhYb09obUhSd1FmZ3dGWlpmSTJ6MnNHbUVrT0Iwal9waUxPNWdHNlpKLXlyOExGUk84dWV6RDEzckVWaWJhaTZVQjdjYjRvdDJpQzgwcFhRUzZMNHpnQ0lNLVlOWHZ1ang0NWJ4dw?oc=5",
+   "pub": "Thu, 08 Oct 2026 15:43:03 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "[서울시] 여의도 벚꽃길 4년만에 완전 개방..4월 4일~9일 - 트래블아이",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DaHM3NEIxLTdNdHpHN1Npa2gzMFFNbjVDMGQ4Y0ZXME5zcDFDOFpDcmRFNFA0cUNKTWxnUlRndHJHRXFCZUMxcmVmTzgtZw?oc=5",
+   "pub": "Thu, 08 Oct 2026 00:00:00 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "순천만 잔디밭은 거대한 캔버스...“꼬마 예술가 98명의 우주가 떴다” - 트래블아이",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OeVI1dEVXa3VNeFNoRWJoQjRDaG12U2lxTlo4a2xWWFVtZDUzWWxDQlJqVy1ybElWb1ZUbW43SHlybWhhelEtSkZjSVlXYkk?oc=5",
+   "pub": "Wed, 07 Oct 2026 18:30:51 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "[호텔] 음성으로 객실 내 조명, 커튼, 온도 설정 가능해져 - 트래블아이",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BakRoOVBGakozWFVUTGhaX01CTjVRaUE2aUduRzNWcTBoX2pWZ1NvWWYtVmRrRy1oNEFab2dEVE5mSnpLVk5Kb2cyWExGZw?oc=5",
+   "pub": "Thu, 08 Oct 2026 15:16:46 GMT",
+   "engine": "gnews",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "카지노 소정 야동 : 실용적인 팁과 전략 - 스텝 바이 스텝 가이드 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vdDZMQzctdGZ1NTZ3QzFPd3AyNy0ybkJXX0FOZUwwcHp1V0F4aGhnNHNjWUtQbHNQM0RmZE1qazFiclhuc3pRRU5DMlE0YjBhT1RPVm1kUUwzSHBkM3hNd0dnczZ5MzQzVHpWTzlB?oc=5",
+   "pub": "Thu, 08 Oct 2026 08:30:39 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "10만 원대로 즐기는 '1박 2일' 농촌 여행…농촌관광벨트 상품 출시 - 한국방송뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BVEFEOG5ZdTV6aktIdUNxZjVibHllZWI0WkowNHZ2NktXcjZReWc5R1AzUGUtWFRuQTJuZVFrdk5PUUp1VkVrTzBvdzNFTlVrdmNxWjh0UmM2bHc?oc=5",
+   "pub": "Thu, 08 Oct 2026 08:59:00 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "규칙과 연출을 나눠서 읽는 카지노 양상수 설명 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWktXa0xkZFBZa2hjVVZ3b0FhNHpscV9veElQQVdDcmhRUzdsTjdCUDgxZ1g0VW1mdWJjYnJzcGhtX2VUdW9iYmlfNnRhNkU0cTRLd0F3TERHTWFiUlFKSGJuckV6dVZtZUM1QXRpUnJXdGNBM1hoSjg3MkF6OWRudl82Z2E0eS1SQm5GbVppaV9uX0Z6dklyTUNhcl95bGdXNEZnMEpOMEl4NTNIZlZCeEVMelowYW9lUlphcFV0WE9mcDk3YTY0bVlOOWFnS1pDa192X25HZjlfQWt2Qm9yUFZvNUdmTUJ4NXBFUnU4a3NXczE1dGtsSzB3?oc=5",
+   "pub": "Wed, 07 Oct 2026 02:38:01 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "농식품부, 농촌을 잇고 지역에 활력을 더하다 농촌관광벨트 기반 특화 여행상품 시범 운영 - 뉴스다",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yQW5RRnVaa2hKZXNhZFFFZ0pQOGc3OW1CUzdDZ1FxeThFbi0yYnpxZnNmZm90bXh0bHdvOEk2UGVoYXVpRGJYY0pPdmJsMV9aMWxXczBBbkxZX3djNXVv?oc=5",
+   "pub": "Thu, 08 Oct 2026 09:10:37 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "농식품부, 농촌을 잇고 지역에 활력을 더하다 농촌관광벨트 기반 특화 여행상품 시범 운영 - 경기in",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oS3RwQVEtVl9CNG1ZVXRXYTVGQkNBa0dYMUVKeWVqdllYVGY0MXpseUFudXUybmJxTjFSSUl4TEQ4MEgtUjJCR2Z3akhDSTFv?oc=5",
+   "pub": "Thu, 08 Oct 2026 08:42:00 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "생각합니다. 국립청주해양과학관 제공 ◇ 김종현> 개관 전부터 관심이 뜨거웠습니다. 개관하고 일주일이 넘었는데 지난 사흘간 휴일에만 3만 명이 넘게 몰렸다구요? ◆ 남기헌> 그렇습니다. 저는 깜짝 놀랐습니다. 개관 첫날에는 오전 9시 30분에 개관을 앞두고 저희...",
+   "url": "http://v.daum.net/v/20261009164800598",
+   "engine": "daum_news",
+   "query": "국립 과학관 개관 무료",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "규칙 읽기에 익숙해지는 카지노 포스터 입문 노트 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TMmswb0FrbzdwWXpLSzQ4YWl1X01XTU8zQkdHUWRycmp2TTZnXzhfZWQwVDJUVUpUZzdQZno5VEpoUFF6Yi11WFJiUGU3VTZWdTVkRndBT3ZSNWh0ZER5a2l1MG5tak1NZDFhRFhSTi1ZSWxOLWJtaFBOWQ?oc=5",
+   "pub": "Thu, 08 Oct 2026 14:02:55 GMT",
+   "engine": "gnews",
+   "query": "국립 과학관 개관 무료",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "기획됐다. 행사는 20주년 기념식을 비롯해 작가와의 만남, 야외도서관, 공연, 체험 등 온 가족이 함께 즐길 수 있는 다채로운 프로그램으로 진행된다. 기념식에서는 20주년 기념영상 상영을 시작으로 마술·무용 퍼포먼스, 약속선언, 관객 참여형 카드섹션 등이...",
+   "url": "http://v.daum.net/v/20261009120525183",
+   "engine": "daum_news",
+   "query": "충북 가족 행사 사전신청",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "‘작가에게 묻고 문장 옮겨 쓰고’… 충북교육도서관 오는 24~25일 북페스티벌 개최 - 중부매일",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NX2pWVnU3TlpzZXdvZDlyQWRneEhQZENic3A0YWtxeEZDRXBwM1JJdHhjLTVpUlpxM0JnekhnYzYzYUlhcFZ6a3ZNRGRXTldpaFVOV1hrSzF2bDZTc0VMQW5nS0ozdkpsVld2N2ln0gFuQVVfeXFMTU1falZWdTdOWnNld29kOXJBZGd4SFBkQ2JzcDRha3F4RkNFcHAzUkl0eGMtNWlSWnEzQmd6SGdjNjNhSWFwVnprdk1EZFdOV2loVU5XWGtLMXZsNlNzRUxBbmdLSjN2SmxWV3Y3aWc?oc=5",
+   "pub": "Thu, 08 Oct 2026 06:51:31 GMT",
+   "engine": "gnews",
+   "query": "충북 가족 행사 사전신청",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "‘2026 길 위의 인문학’ 수강생 모집...달성어린이숲도서관 누리집에서 선착순 접수 중 - 푸른신문",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NSHVUU0Y5VjFsREhCYVBvWGliYkF5c0VMeFVqOEE2V0RLWVV1RFFsYW13SWhEMUI0MWZ2TjdEcmZURmtvcEZRRU9sREsyeExkbXZrRDBsRmcyNE5veUFj?oc=5",
+   "pub": "Thu, 08 Oct 2026 06:10:16 GMT",
+   "engine": "gnews",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "완주문화관광재단 삼례에서 즐기는 가을 피크닉… 스테이삼례 브런치페스타 24일 개최 - 시사일보",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fbzExV09MOS14dFB5amhmbmtWM2hGVnB3aFZFWHM5NDBHM3pZcVJPRkx4UExCZGlvbEZoYmdBR0FRVjcyRnBQMUhYTXQ?oc=5",
+   "pub": "Thu, 08 Oct 2026 01:47:00 GMT",
+   "engine": "gnews",
+   "query": "어린이 가족 피크닉 신청",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "궁궐·왕릉 관람료 인상 계획 연기될듯…\"서비스 개선 먼저\" - 연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xQU9SWnFUcGwtY19OZ3Nhb0pVeFZnVGJyMzUwcW9YeUhtYmdlaUFGR2FDdk50UHZFZHktYVNZblczcmJ5RVF6Ui1PQ0xtcGRBckhzMFJfS0NVd2RnNC04c9IBYEFVX3lxTE1xQU9SWnFUcGwtY19OZ3Nhb0pVeFZnVGJyMzUwcW9YeUhtYmdlaUFGR2FDdk50UHZFZHktYVNZblczcmJ5RVF6Ui1PQ0xtcGRBckhzMFJfS0NVd2RnNC04cw?oc=5",
+   "pub": "Thu, 08 Oct 2026 06:26:20 GMT",
+   "engine": "gnews",
+   "query": "궁궐 무료개방",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "커피값보다 싼 궁궐 입장료…“관람객 느는데 수입은 역주행” [국감 2026] - 헤럴드경제",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlU1pPM3QwTVBCN2doLWZ3alhVY2Y3UDFLNE5YcE1iUE43aDVsT1pVbnB2ajRweHpzd0dESXgzQU5QcWVYdUdzYVc4MjRyWnRqRWtMWkV3?oc=5",
+   "pub": "Thu, 08 Oct 2026 08:39:17 GMT",
+   "engine": "gnews",
+   "query": "고궁 무료관람 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "50유로 무료 무보증 카지노 창의적 종사자를 위한 갈등 해결 이성적 사고 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPckNXVFlZN21DMk15RTJOcWNvRDBsY2FxeVJHTHVWSjYxTjFUbDVMWFF5MG1kZUV2V2FxVmYtbFBNT2tWZHUyVTdGNkxkNTVkX2hlSHlQcEk5SmpUMVJTeU5Lc3p6cEU0ak12clFMcEx3NzN2clFnS2p5NHpCZUlKQ3JRLTBvWC1hS2E1TUVlNzNTb3g2TVNrakZZeWhrVUVHWjJn?oc=5",
+   "pub": "Wed, 07 Oct 2026 07:17:46 GMT",
+   "engine": "gnews",
+   "query": "고궁 무료관람 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "과거 국가산업 발전을 위해 헌신한 광부들의 넋을 기리는 위령문화전을 시작으로 기념사 및 감사패 수여, 축하공연, 박물관 투어 순...끌어올리던 권양기실을 개조한 이색 카페, 갱차 탑승 체험, 산업유산과 현대미술을 결합한 기획전시 등의 콘텐츠를 경험할 수...",
+   "url": "http://v.daum.net/v/20261008080218276",
+   "engine": "daum_news",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "개조한 카페, 갱차 탑승 체험 등을 만날 수 있다. 탄광 산업유산과 현대미술을 접목한 기획전시도 마련돼 과거 탄광의 흔적을 단순...개관을 기념해 10월 한 달 동안 모든 관람객에게 박물관을 무료 개방한다. M650 개관에 맞춰 이날부터 10일까지 박물관과 사북...",
+   "url": "http://v.daum.net/v/20261007180102671",
+   "engine": "daum_news",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "수 있으며, 권양기실을 개조한 이색 카페, 갱차 탑승 체험, 산업유산과 현대미술을 결합한 기획전시 등의 콘텐츠를 경험할 수 있다...랜드는 이번 개관을 기념해 10월 한 달간 박물관 전관을 무료로 개방한다. 박물관 개관에 맞춰 7일부터 10일까지 나흘간 M650...",
+   "url": "http://v.daum.net/v/20261007173606315",
+   "engine": "daum_news",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "같은 기간보다 10.7% 늘었다. 국가유산청은 3월 말 광화문 일대에서 열린 그룹 방탄소년단(BTS) 공연이 관람객 증가에 영향을 줬다고...지난해 전체 궁·능 관람객 가운데 경복궁 비중은 38.7%였다. 무료 개방된 지난달 추석 연휴 나흘간(24∼27일)에는 이 비중이...",
+   "url": "http://v.daum.net/v/20261005164155254",
+   "engine": "daum_news",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "세계인이 걷는 조선의 ‘경복궁’…10명 중 4명은 외국인 [한강로 사진관] - 세계일보",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YcXBxdWVCb2FnRjdMV2F1SzVLVGk5b3BINzlJX0h2bnZCR2wzRG04ZlExLVVmMExpUHNsRHRWMGRFaDlCNUthdXBkT290Q1NFNlhkUUhGckjSAVRBVV95cUxNMmZOYkxIcTVVaUZxcGJmVmYxbm9Ed3NEYTdYdjRhMkJMS3hObkRpbW1xRW5QVHJ5cnl3RS1Xd1ByZUlJRGtWcDFFWng5TUZzYTZ1OWo?oc=5",
+   "pub": "Mon, 05 Oct 2026 07:40:04 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "궁궐·왕릉 관람료 인상 내년 1월 계획 연기 - 공감신문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0YkNxQVNYVzdNaGE4ZmhfZjFwTmo0NnRRaTAwSi1SamFxY29aWFp6V3JzQjJYa3RGWGFCSjBXN203bkRPMUhLVmhZdjRrUTNaQTdxWk45c095bHdPTXJpSzF2VzN5Wklv?oc=5",
+   "pub": "Thu, 08 Oct 2026 07:05:18 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "국가유산채널, 유튜브 구독자 200만 돌파…글로벌 K-헤리티지 플랫폼 도약 - Daum",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fbUF2N0lNZjRPeXdGc1liaF8xdk9aMGJrdDhRUmlBZEI4bHpUYWZsdlkzLW5wZlh6SXNkSDZZQmlnNmkyblM5TVhkYw?oc=5",
+   "pub": "Sat, 03 Oct 2026 00:16:56 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "대체공휴일 5일 궁·능 개방…6일 전체 휴관 - 비건뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zdVBfVjd0TXhORFFIU3dKWmoyM1doaVFvZGNwLVlfcTIyV2lhdDZIVnZKbFdCdUhLcmNzNHVvTHJvbnZISnVfbjNhUEFkRVlfemVwNm11WU1DSjZHSjk4dTRqamhLZw?oc=5",
+   "pub": "Sat, 03 Oct 2026 16:44:49 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "\"50년간 닫혀 있던 성벽길 10월부터 열리네요\"... 왕복 1시간 30분 걸리는 무료 트레킹 코스 - 아던트뉴스",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYR2ZDRkw4Nk5fTS1DaWEtWjJCUkNJSUtJV0dQdU1majI5YWlFLVgteTNPVldENzRNanFmeC1kWEVtUVdfSy1IMVRwS3FESW9oVWxRRkZOblJFM0htSC1weXlYMGg4Q0d2cU5BUV9LUdIBc0FVX3lxTE5NakcxMktfb29vOERVU1lwa2c2TWswMVdzV0Y5UkFLZE13ZXFzVXZLU0NzMklvV1FUUEJENGk5ZTA0UGo0VXpnRGZEVzExa1JFWF9neUtsWDA5d1BsWDhKX1FMOHFFU0ZOU25FV1Z6eHFCLUE?oc=5",
+   "pub": "Sun, 04 Oct 2026 11:00:00 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "궁·능 관람객 1,781만 명…관람지원인력 1인당 14만 명, 관리체계 개선 시급 - 프레시안",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91a1hWNXFSTkdqUGtKTTdzX3MwM2QxVkpzd3VzamNyNW9PbG5lbzR5NVNPVVBaOF9BcVJOQ2hMbmVjQ1VSUHZDbkhSc1pQS1BTd29UX0pFN3BRX3RkZGZRblhHOUkzMDBJWUJ3?oc=5",
+   "pub": "Thu, 08 Oct 2026 08:17:15 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "10월, 어디로 떠날까. 경기도 가을축제 가볼 만한 곳 - 군포시민신문",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBSelU0MkRQYjBQeGlEbndlYm5QaEJtRnZVQ3o5cEdicmJxZjEwdW94MVpTcE9FV1RhRjAzN3NVcFp5N0U?oc=5",
+   "pub": "Wed, 07 Oct 2026 11:22:00 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "여수시, 국가유산 야행 기간 ‘이순신 로드’ 선보인다 - 이트레블뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1JTTNobWJhM28yQnVBWEtRTXMwY3FFN3RjSjgyWF90MmJHUzRHajdVQTBiTVdUVWozMW5ZQ3o5Z0VueFRC?oc=5",
+   "pub": "Tue, 06 Oct 2026 19:13:00 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "보너스 화면에서 나가도 되나요? 일본 경마 생중계 도움말 확인 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBdFFzc1JiS3RhSXZ3OW8yRnM3ZXhnRjRDb1B4VFQ4dFhRRld6bEl6ZUo4Zi1JMHZKS3BhdXhCNV8zX1VJS0NoTXBRUGREOUhSdUZySEs4dGp6cGhST1lpamxTcEdmaXYwUkR6UW1ydFE?oc=5",
+   "pub": "Wed, 07 Oct 2026 04:37:55 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "테마만 보고 선택하기 전에 읽는 영화 속 마작 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOczNTTDk5R1BRc003b1NCN3dndkEwWGlHRnNhNGZqTkR2SkRuMzUtNElYY1Z3bTVBWFQxRTM3UlNPZnhHOW1EYkdzN0c4QnBVMXFSaVJLbXg1VkxTWXlBUE1KbC03ajlDTHRjZDJvTjBFQTQ3eUZJcWdwd1N6OWlkWFRHdWpMbzU4OExlN19MeXNwdzZsNHE1dlR3?oc=5",
+   "pub": "Thu, 08 Oct 2026 09:46:38 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "인천개항장 국가유산 야행 3일간 무료…18시부터 열리는 ‘8야’와 예약 체크 - 여행픽",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wU3hETXhnLXFGNUxpWlZDRExQVE01VDAybTNkZkxhSXB2MDdwRlpwYk5UazIzQmhtczJMbjlTZWsxQjdwSF9vbkotXzRXRTJLM2ZGWU1hOUwwcVhITGxubTNWVnJFY19YQlJXcw?oc=5",
+   "pub": "Thu, 08 Oct 2026 03:00:00 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "\"10월부터 딱 두 달간 가을 숲길 개방하네요\"... 단돈 1,000원으로 누리는 1.33km 산책로 - 아던트뉴스",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HTGhXRURMRVBDTFhPbTI0aU9hY2VFWU04Tm0zWHppbUZIUWcwU3F6Q196UmMtSmdMZDl6SDZDQ2pKNGJwclhRcnpOcDAtdWQzcnpCYTQ0YTEwcE43VzMxVmxsaENyMnBBNkMtWW9XNNIBc0FVX3lxTE5GSEUxT1Qzd0pIWjVZMV81SjlJb0Z0YnJxNzZFcklkN2dwd09KR2Vha2V6RDc5ZTA1T3prVGtRbUlLZjZCbTZkbjlVRVhZMEp1dkc0NVdudlI3eEo4MWFlYXg2X2ZlV2E3c0o0cy05U0xGRVk?oc=5",
+   "pub": "Mon, 05 Oct 2026 11:00:00 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "제주의 맛과 흥이 한자리에, 제9회 제주광어 대축제 열린다 - 이트레블뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5qTlRSN1lmZDRMWnV6S0VfNlNtX1VOVFdRUF93clFzdU5pODU1VWFTX1dWcU9teG9VR3BwbWRUdzBUbnZN?oc=5",
+   "pub": "Tue, 06 Oct 2026 20:24:00 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "고궁 앞마당이 예식장으로… 293쌍 몰린 '무료 결혼식', 뭐길래? - 금강일보",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtbzRIcDRuOEFSTzBnQTJueGV3cWJET0E0c0pGYnAyVGNLb3dKMEt1V2dEbGdZQU5ndkt2RWQyc18xenNiLVBfZXlUXzdBVFZNTFh3SG53QTFGSXN5MFYyM1JGdUF4Z0lD?oc=5",
+   "pub": "Thu, 08 Oct 2026 06:40:27 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "여수 국가유산 야행서 ‘이순신 로드’…3㎞ 역사길 걷는다 - 작은뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDMXZzWEoxMTMtaW1XbVJldm02dWhtbkpudjV2NGh5ZFBMdWEtYWJ0TFZUUVp0M05zZGRJVFJuZkVfUEhXZklQR1h3R2xoTTUyczUyZGFyYjZ2VHBpZ1ZoR0pyd09Edko5ZzdPVg?oc=5",
+   "pub": "Tue, 06 Oct 2026 07:28:09 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "군산의 가을, 짬뽕의 새로운 맛에 빠지다, ‘2026 군산짬뽕페스티벌’ 개최 - 이트레블뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9qSWd1UGZQQWRQQXFZZUpxUnVqUzJjT00wNVliWjM2RVFMc1BOSFhhSnMtUG5NbjdING15V045ZDlCWVlr?oc=5",
+   "pub": "Wed, 07 Oct 2026 20:06:00 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "여수시, 국가유산 야행 기간 ‘이순신 로드’ 시범 운영 - 웹이코노미",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HQlF2OTg5dVRPTmVRdTloUWpMUFAwbEpCdkFfQ3M0NEY5amxzWmlITm5VU2hYeGQySVJLdkw4N0JyM3M1SzYwTXhKa1VlTzRlZWF5UzZBWUpXbHQ3TjZGa3dnUWNCZ2JlS3NHZWEyZU44UQ?oc=5",
+   "pub": "Tue, 06 Oct 2026 05:20:27 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "경주엑스포 달굴 아리랑의 밤, 전석 무료 개방 : 문화 - 재경일보",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsUVotWk10Q0V1bHdrSm40aUpGQmxzOGY0MFBnbUY5bG9OZHZCVncxcmRWMHBVdFlrYmxkb0YzMG9IQnNYb3MySy1XNA?oc=5",
+   "pub": "Tue, 06 Oct 2026 01:27:00 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "[나들이 가GO이슈] '펼쳐지는 하늘' 시월 둘째 주 - 이슈에디코",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aUS1kcXZkUTk5QnNWNC1Qc25lTVJFS0lQV0ZraXpBcnJCVzJZSUlmSmo0ajIwODBYRVMyamZHaWVhbTZybnkyVG9vTF9ELWNNaVc0QlBXTGxjNFVGeU43TVdYbXJUUQ?oc=5",
+   "pub": "Mon, 05 Oct 2026 03:14:47 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "반값으로 떠나는 가을🍂 뚜벅뚜벅 '안동' 여행기 - Naver Blog",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjF4QmdZVUdyWjNRWllDX3E5Rl8xUEhPOE4zY2JxZU10ZjdTdzJEYjFwNDlzZEUwZGM3Q2I5TmtSTzhQQUY5VHAtaXczRXpJMmhDM3g0TTZiTEh1ZVVGMWFvZEVTMDk0YTRRSTlmTllfTUZGbEJGS3FLRFk0eGQtRQ?oc=5",
+   "pub": "Thu, 08 Oct 2026 03:53:18 GMT",
+   "engine": "gnews",
+   "query": "반값여행 3차 신청",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "“가을 여행은 여수 섬으로”… 여수 섬 매력에 발길 ‘북적’ - 대동N뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DMnF4YUVDaWNsbmFNd1Z5SEdlc1JvZFRCYWZ4dXM2NlMwa0RLRmFHelR4d2gtNkpLOWJjdEE2VjBaS0RBVnFVU3F5bWNPUTRPLUFWYVBVbW5GenJBOWRvQW14aENqOVk?oc=5",
+   "pub": "Wed, 07 Oct 2026 02:42:49 GMT",
+   "engine": "gnews",
+   "query": "반값여행 3차 신청",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "오감만족 횡성한우축제, 고향사랑기부 혜택…한우·루지 등 제공 - 연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CX1ozRTNDUXVQamp2Umc5cDR3WWZndkhwTjg2X3F6NDdlLTVPLWRWZTMxYXd6R28wV2kzbzhPZjNrYUJyRGdsVjdrQUZmY1dmQTY3MThRVnJxZWfSAWBBVV95cUxQV1pla1A1ZTlvR3FUTnE5ZzJ3YmFRVWoyUFhtRlFZalA3M3FPM2xsVmRsb29TRGFBcnBEakdHZGJpLWhRNkpabUJENGFmZXVXMTdoRmlidDBFUVBTOXZxdkk?oc=5",
+   "pub": "Fri, 02 Oct 2026 23:00:08 GMT",
+   "engine": "gnews",
+   "query": "반값여행 3차 신청",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "안동 반값여행 2차 참여자 모집 12일 시작 - 웹이코노미",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4c1BsQW5Xa21iaHZlblNfY1MyUXJtZUNScEpxRlFmNVhROURxNjlIc3BORHFjOXE5SFotNTZ5elhzbk5YSFZ4LTkybkoyVDZOaEdvUmNldjNsYTFkYlZxTUs0RmhQUGpaR1dBR0pyU1hIZw?oc=5",
+   "pub": "Wed, 07 Oct 2026 01:44:19 GMT",
+   "engine": "gnews",
+   "query": "반값여행 3차 신청",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "“가을 여행은 여수 섬으로”…여수 섬 매력에 푹 빠져 - 여수신문",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLRElIOUV2d05lUTNJQTh1SENJM2MyUGRGLWFodVBSVE1qSWxNd29oc05WWnZfWEdaYmdqT0g3bWNDRWN5aEtYZXVvQW1KQ3NQM3BQdDFwTHhTMF9Ga2w3elpZRl9qYUk?oc=5",
+   "pub": "Wed, 07 Oct 2026 08:41:20 GMT",
+   "engine": "gnews",
+   "query": "반값여행 3차 신청",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "10만원을 환급받는 셈이다. 다만 지원 금액과 환급률은 지역별 신청 유형과 조건에 따라 달라진다. 6일 한국관광공사 '대한민국 반값여행' 안내에 따르면 세 지역은 지난달 28일 오전 10시부터 해당 차수의 사전 신청을 받고 있다. 선착순 접수로 예산이 소진되면...",
+   "url": "http://v.daum.net/v/20261006150704859",
+   "engine": "daum_news",
+   "query": "반값여행 차수 11월 신청",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "대전평생학습관, ‘아빠 우리 만나유’ 10월 프로그램 ‘과일찹쌀떡 만들기’ 운영 - 뉴스밴드",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eVA1cDROaW54YjVvcGhkY2VXeFc1bFE3V1pnY0hjc1pLVHpPbjVVdDdLNEh1aWwxOTFDMmtkUmxkN0NVUTZPblRheC1fZnhzRWJXcEl4bjc2RFRDRkdJcG1LNjFqLUdhQmc?oc=5",
+   "pub": "Fri, 02 Oct 2026 14:32:43 GMT",
+   "engine": "gnews",
+   "query": "대전 아빠 참여 프로그램",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "자연의 맛과 향을 담다, 가족과 함께하는 친환경 요리 - 굿뉴스365",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nMXNFRDdzQjZWZGRuRTROc2VTSUdBVW1SYVg3VWVoQXVFZ1dzMExRaUZHUWRVWGRUZ1I0bjRPTFNoTWdBVXQ2T1VKODh3ZDhqZ09kM0RnM1JMVDU1dEc4bmdpVlduOHJqalgtMVdKdURjSENSYnc?oc=5",
+   "pub": "Tue, 06 Oct 2026 00:05:00 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 프로그램 모집",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "계룡시, 재가암환자 힐링 프로그램 운영 - 대전시티저널",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fNll6TGQtVVVXbzFEbFU1SjJsLUhPbVlIUEdxMlZjZzhzamVfZ3pIYzlSb09WNjluMEpGd2lRYVRiUTM5LUpPd1dvaWkxWkt6R0VLaXlIZzBhc3NGbmhtUjI2Uy1pZw?oc=5",
+   "pub": "Tue, 06 Oct 2026 07:52:44 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 프로그램 모집",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "대전 중구, 문해 어울림 한마당 행사 성료 - 충남일보",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3d0RjNUgwUFdkb3lmaVFjQXVNM3p5R3daUUpzZ2l5NlhkbXFtSEVpNjh1VjlWeWhpZGM1eWhwei1zWk5EZEdMaTM5ZFpUXzQ0TnBSeE1kODI1ZGJEekFVLThZZWFqN1kwREhWWFBoaWFGZU0?oc=5",
+   "pub": "Tue, 06 Oct 2026 07:00:00 GMT",
+   "engine": "gnews",
+   "query": "대전 중구 가족 체험",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "대전 중구, '제3회 북페스티벌' 10일 ~ 11일 개최 - K-Classic News",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5YUFZRldNaGNsQ2I5WDFKVGM4S3JxM0JuS0JhN2Y3V25YTElYdTZGVy1zTlh4RGNKLXdxZzdZS2NoOVk1Vm5qYkMzSUh2V3dXWWlMY1RfX3IxV3plT1J4R21KME5IZw?oc=5",
+   "pub": "Wed, 07 Oct 2026 03:30:07 GMT",
+   "engine": "gnews",
+   "query": "대전 중구 가족 체험",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "박용갑의원, 환자와 가족 울리는 간병비 연 10조 원 시대.. 국가 책임 강화 시급 - 대전시티저널",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fNGV6R053bEhlNHF3Skx4WnhhRGdXd3UyaENiSkRVM0F3bzhxVnZZZDRIQ2lLSE5lR2FqVTdzSGFsRXl4WkQxMXhYOFhBZEt0VjZOZTlLNkhscGp4SnJZM2lBV0VpUQ?oc=5",
+   "pub": "Thu, 08 Oct 2026 08:31:59 GMT",
+   "engine": "gnews",
+   "query": "대전 중구 가족 체험",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "2026 대한민국 산림박람회, 16~18일 청주생명누리공원서 개최 - 글로컬타임스",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SYjdTZzBNeGMtVWxkX0s4b0R6UEhSZ2hBM1Bqd2lHcGI2TU9JLWRPMGkxZ0VkeUJRZFZiTUdkeWIwTHAwVkVzVE03bTN1TzB0ZEpUTnh0cktmdEJOR2puYS1KcWUxRHVhMVHSAWxBVV95cUxPUWdoc2cxR1o2ZG9ST2Z4V1FSREl0UjhwcUx1NkRNZFdWamtVZTFMRFdtVFQ5QjVHNzI2NnpaUzZNUnItOXFHR0NKR2JETU55Ykhualo4RjdxWnl5U096Y2JnQ19NUEhsNTRNUWE?oc=5",
+   "pub": "Tue, 06 Oct 2026 09:15:23 GMT",
+   "engine": "gnews",
+   "query": "대전 중구 가족 체험",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "대전 동구·사회혁신센터, 주민자치회 역량 강화 맞손 - 충남일보",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EUk9hMXpTNHVLdzZySWoyeW1QNmJnMnA1eWhMX1Z3d1NEczFQY2lCUWgwV1lraUZPRWdkWGFWVElPdFRPN2YtLU9PS3RtQ2xxZFBhaGU1anc3aFZiTlJlbVM1dVRqNzZjTzQ2dlluU3EzM0E?oc=5",
+   "pub": "Thu, 08 Oct 2026 08:14:08 GMT",
+   "engine": "gnews",
+   "query": "대전 동구 가족 체험",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "세대 잇는 금강파크골프장의 가족 운동회 - 충청일보",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CRGhqNVpJdVdCelR1QzRJdHNRYUpDTlIxeHNWckNHV1Ryd2FISzhtcV9oaU5IZlBFa0xzSnZTTnZBdmpvTGFua2hxQkZGRjlIdjFsTFhPbEJjMDRrTXJrcldRSFloX05jakFJV2NGdXU?oc=5",
+   "pub": "Tue, 06 Oct 2026 06:16:20 GMT",
+   "engine": "gnews",
+   "query": "대전 동구 가족 체험",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "대전천동초 학생들, 대전시의회서 '주 1회 숙제 없는 날 운영' 토론 - 보도자료 | 기사 - 더팩트",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOZ3IzWFNwb2tRLXlBSDNKSExiZUZNTC1nUTBHREdPSktWYVZUX2xDWXREVjhkX2d2TzY3QzFYaTdiMFRCS0ZncVZqTnMtSkF4RWF6MDJhbGZSWjRBd1Rz?oc=5",
+   "pub": "Thu, 08 Oct 2026 02:15:55 GMT",
+   "engine": "gnews",
+   "query": "대전 동구 가족 체험",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "“주말마다 이렇게 들썩인다니?”… 가족과 함께하는 자연 체험 명소 - 네이트뷰",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3MXdGaFdzdnpzVVN1MmJIa2dzQVc0bU1ZQlB3dlN6NkxmOUFXcVA4MFVZd1N2UzZ6UEZMWC1zRTZfSGZFWW1BUWVqU2t4cmpoU2Vtb2ROZUvSAVhBVV95cUxQNzF3RmhXc3Z6c1VTdTJiSGtnc0FXNG1NWUJQd3ZTejZMZjlBV3FQODBVWXdTdlM2elBGTFgtc0U2X0hmRVltQVFlalNreHJqaFNlbW9kTmVL?oc=5",
+   "pub": "Tue, 06 Oct 2026 23:09:00 GMT",
+   "engine": "gnews",
+   "query": "대전 목공 체험 가족",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "대전서부소방서, 어린이 대상 소방안전문화 체험교실 운영 - FPN-소방방재신문",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5DUXcwOXcyaFc1azZEajE2cmNfcHI4WFpuTDZsdGhDUmZhMVhKMVYwSGNJUXhQWGtEOWhBQ2hodHNRd0stbHc?oc=5",
+   "pub": "Wed, 07 Oct 2026 08:00:00 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "대전평생교육진흥원, 온라인 배움 현장체험으로…11월 19일까지 모집 - 타임뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zWDJxV1ZSaE1IeVpBc0pXZGRkVXdSU3ViY1B0ell0SzJSLVdhOTE4RGpPMnNINVRYTDZSaWV0YjdDRm45bGhfa1lGcEdyNHcxSmNVQg?oc=5",
+   "pub": "Fri, 09 Oct 2026 00:52:17 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "[현장] “한글로 놀고, 전통문화 배우고”… 대전시청 광장에 펼쳐진 한글날 축제 - 천지일보",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nUmVUN2treWZjOFpRb1hRc0dRWXFLeXVoN01WRm9EZktFYUh3RkdtYTQxNkU2a3pudmZRSnJDYzlFRk9wSk91amNqUnMzTlpDVHFwRXNqRGxrT3VtbHNHbzdsMlFGT2QyNlE?oc=5",
+   "pub": "Fri, 09 Oct 2026 04:32:41 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "아산시의 이색 박물관 체험...‘관람객’이 ‘전시기획자’ 된다 - 뉴스프리존",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9feVhtTFFwZHhpZUhZbktQRk5kYkdESURQdzRaeXowSVBvY0RFNUY3QlB5TVVjTEhxUHl1eVdMallsMmhrVmI1d2ROeWYyWFBOQ282dGEwWm9nVk9mX29pM1BZMDNXbnBVbmxidnZuYWdDWFXSAXdBVV95cUxNdlJ6d0VuRDdYa25yYUdndm5YUTBJZjNrTGhmVGs2Q3ZJcFFSd1dZWDc5UF9zY2d2UFQ5UHVYdzlrekJVQ3RNWnJmSnlQVUVGaEVwalZsTFd4R00zZ2ZnMVBTZW5lUkVIcXpuakQtNFQyYTFVbEk4SQ?oc=5",
+   "pub": "Thu, 08 Oct 2026 07:12:44 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "국립춘천숲체원, 신북119안전센터와 합동 소방훈련 - 산림신문",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HSWNORkRzNlE5aHhPbUxnTGNhQm1RMTVjRTRoMkI1ajdUVmJTVjJvRFZMazVrX1NRa0FoaTdib0tjU3U0UXdBLVljd0l4VlZHU0tEXzN3?oc=5",
+   "pub": "Tue, 06 Oct 2026 07:48:48 GMT",
+   "engine": "gnews",
+   "query": "숲체원 가족 캠프",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "펫로스 증후군 치유 및 생애말기 돌봄… 농식품부, 양육단계별 지원체계 구축 - 야호펫",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeXM3Y043N1ZjV3ZoYVluRGVkNl9Pb3lVcXc1eEYxYkk5SXJjWHJWazlvWUYtaHYwZGZDQm52RVc5Y0hPcS1mamQzeGNrLXZDRXNIWFJjUjVWVW5OaVdja1pHN3IwNEp4ZjF1WTgzaGt1VWZHSGdCM3dUZnZqaG9fWnFRenFVaWpjaXNXcEttVWpYU1Jr?oc=5",
+   "pub": "Thu, 08 Oct 2026 13:53:00 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "KIA 네일이 23일 서울 고척스카이돔에서 열린 2026 KBO리그 키움전에 선발 등판해 역투하고 있다. 사진 | KIA 타이거즈 이 감독은...2승1패를 하더라도 마지막 광주 경기까지 준비해야 한다. LG가 다 이기면 우리도 3연승을 해도 최종전까지 가는 상황”이라고 설명...",
+   "url": "http://v.daum.net/v/20261009132235297",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "2026.08.11/ 11일 고척돔에서 열린 키움과 LG의 주중 3연전 첫 번째 경기. 선발 투구하고 있는 키움 안우진. 고척=송정헌 기자songs...수술을 받고 복귀 첫해를 보낸 선배들에게 많이 물어봤더니 다들 '어깨나 팔꿈치가 아니라 이두근이나 주변 근육 피로도가 오는...",
+   "url": "http://v.daum.net/v/20261009101636336",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "지난 6일 고척 키움 히어로즈전에서 200안타와 201안타를 연거푸 기록하면서 서건창과 레이예스의 뒤를 이었다. (대구=뉴스1) 공정식...수는 없다. 최원준은 최근 6경기 연속 멀티히트를 기록 중이다. 최근 10게임 타율은 무려 0.511(47타수 24안타)다. 물론...",
+   "url": "http://v.daum.net/v/20261009080213219",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "현대제철 순천공장, 다둥이부터 취약가구까지 ‘지역 상생’ - 여성신문",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vUDZHMFFWTFRlREl2bklzQklCRnNtb0VEQ2dZcWFhTEdyQmE5cXZIbUFPa2JFTzlyTWQ1ZHZPb2t0dEljOWwycnlFNVh3SE9wMU5ZdFhVWktHRkRsSDRtUXBFVklHTGZ5R0VPMWJzbmZWMUnSAXNBVV95cUxNb1A2RzBRVkxUZURJdm5Jc0JJQkZzbW9FRENnWXFhYUxHckJhOXF2SG1BT2tiRU85ck1kNWR2T29rdHRJYzlsMnJ5RTVYd0hPcDFOWXRYVVpLR0ZEbEg0bVFwRVZJR0xmeUdFTzFic25mVjFJ?oc=5",
+   "pub": "Thu, 08 Oct 2026 03:24:31 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "키움증권, 강소기업 15곳 초청 ‘콥데이’…개인투자자 참여 가능 - 인사이트코리아",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hZnJnNzZNSXBxNzJSS3pSaC1sQnhPTXVRLVBoNkNlQ1JxOGdGWHJ4TU5HelBTNXhBOTZFVTFNX2dVMkxoaHhzQlVtQUlQQnBNWkotT2cyWWNyOC1wWm9uU0lTQW1aeG43WVdwUXVzVzBVcUnSAXdBVV95cUxOVnJ3cFJJOVJYYzVHSVdfdm1TYWhvUGx5OEpzSERWTXNiRFV3SkRfNDFfdGVZeW9fQTZEOGVFSG0yVGRTdWpIbjhhWFVVb2kwUkhBQ0tJWHhCdDctc0FyQlI5cE1zdGxxeEs4TGNXcGxHMjNMZHM5QQ?oc=5",
+   "pub": "Tue, 06 Oct 2026 03:16:17 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "\"제가 히어로즈 올 수 있으면…\" 강정호, 키움 응원단상 오르려다 거절 당하더니 \"히어로즈 때문에 힘드시죠?\" - Daum",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kTEQtbGFEaWtlcjQ4MHNDcXVBRWNEOG1sUDRYakFJc2RtRkhNLS1kb3BhQ1NQQks0b3dlVWc1elRxcHgxV2ZwZGJGaVlaTUdIWjhxZA?oc=5",
+   "pub": "Sun, 04 Oct 2026 17:27:42 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "키움증권, 강소기업 15곳 초청 ‘키움 콥데이’ 마련해 - 이뉴스투데이",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pN2VNYXNyS0N2Y21td0U0V2wzbE9oR1JWcF9HNmlObjFBMUMxbjl5VThJZU9VYU5HN2dEeE9vR1BNSmZvcnJrc2loUkwxOUxBZHp5Ny1QOVpKM09KZUt4ZkpaNVR5dldVVDdZTmpzaVHSAXRBVV95cUxOYmp0aXZwa0k5NFg1UkJycUdMdnhyRXFWQkJTekVtT3A4b29MNFdBSnlLaTVybVVoZmpWQXByem9GcWNBakJsSXVkUG9LSWFSTHlSQVJQMEgtRTFOYUpud1VJQ0VmUW9qSkZucmJSdXo0ekVwZw?oc=5",
+   "pub": "Tue, 06 Oct 2026 01:13:41 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "[이코노 브리핑] 키움증권, 한글날 기념 발행어음 특판 외 - 세계일보",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RNmdkSDRveWZTbzFQZTZ3V09lT1RaeENqTUl3SzdRM1FsUVZ5enhBYlY4OThDdkRyRm9HMXJPWTB6NUVnTWdDTnFiSFVhMGlDTmlqWkt0U3jSAVRBVV95cUxNeU9nY0dPUVdhQlNWVVhvYXN4VDcyWHc1ODJxbG9BcDBCTDZTcnBSYS1ZYmFFd0E5ci1pekVySy1OOEhMNGJRX1VCQVN3Q3kySUh4NUU?oc=5",
+   "pub": "Thu, 08 Oct 2026 20:00:00 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
+  {
+   "title": "의령군, 다둥이 가정 양육 부담 덜기 힘 보태 - 이뉴스투데이",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vVDh5U2ZIYlBGSnA2dTFjMFJQZWQ0UXhwbGRGVFpuc0FGM1ZyMWVpb0hlbEdxWkZUeWU2QlFGa1BZMkNuRWViWHpUV3hFYzQ5VWt0amp6TnVHelhnNFhFLWtQX0lCaTF6aENTYWVGaEdEcWts0gF0QVVfeXFMTW9UOHlTZkhiUEZKcDZ1MWMwUlBlZDRReHBsZEZUWm5zQUYzVnIxZWlvSGVsR3FaRlR5ZTZCUUZrUFkyQ25FZWJYelRXeEVjNDlVa3RqanpOdUd6WGc0WEUta1BfSUJpMXpoQ1NhZUZoR0Rxa2w?oc=5",
+   "pub": "Thu, 08 Oct 2026 09:08:06 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-09T17:07:57+09:00"
+  },
   {
    "title": "경북 안동시가 지역 관광 활성화를 위해 여행비의 최대 70%까지 모바일 안동사랑상품권으로 환급해 주는 ‘안동 반값여행’ 2차...일부를 모바일 안동사랑상품권으로 환급하는 관광지원 사업이다. 지난 1차 모집에는 6715명이 신청해 접수 시작 5시간 만에 조기 마감...",
    "url": "http://v.daum.net/v/20261007084432440",
@@ -20741,649 +21456,6 @@
    "url": "https://cafe.naver.com/buildityourself/5870?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJ1aWxkaXR5b3Vyc2VsZiIsImFydGljbGVJZCI6NTg3MCwiaXNzdWVkQXQiOjE3OTE1MjM2MDQzNTJ9.QZLT3jHN8bZ66Adj7lNpsSeXHAyDQMQWoVZte3aTvWE",
    "engine": "naver_all",
    "query": "반값여행 신청접수중 선착순",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "1주 전태안 반값여행 2차 신청은 10월 1일 10시 20분에 선착순 마감됐고, 3차는 11월 2일 10시에 열려요. 승인되면 쓴 경비의 50%, 청년은 70%를 태안사랑상품권으로 돌려받아요.새 창 열림",
-   "url": "https://awoo.or.kr/issues/taean-half-price-travel-round2-chak-prep/",
-   "engine": "naver_web",
-   "query": "반값여행 신청접수중 선착순",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "2026.09.11.관광객의 여행 부담을 덜고 지역에 머무는 생활 인구를 늘리기 위해 오는 12월까지 ‘2026 갯벌愛 무안 반값여행’... 사전 신청은 오는 14일부터 예산 소진 때까지 선착순 접수한다. 참여자는 승인 문자를 받은 뒤 여행을 진행하고, 여행... 늘리고 여행 중 소비와 무안사랑상품권을 통한 재소비가 지역 상권에 활력을 더할 수 있도록 추진",
-   "url": "https://www.airportal.go.kr/news/eventNewsDetail.do?num=105100",
-   "engine": "naver_web",
-   "query": "반값여행 신청접수중 선착순",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "2026.06.26.중인 '영월형 반값여행'의 7월 여행 사전 신청이 조기 마감되면서 높은 관심을 입증했다. 영월 청령포 [영월군 제공. 재판매 및 DB 금지] 24일 군에 따르면 지난 23일 오전 10시부터 선착순으로 진행된 3회차 사전 신청이 불과 16분 만에 마감됐다.... 영월군은 지난 4월부터 6월 여행까지 누적 사전 신청 2천625건에 6천169",
-   "url": "https://www.airportal.go.kr/news/eventNewsDetail.do?num=104387",
-   "engine": "naver_web",
-   "query": "반값여행 신청접수중 선착순",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "산청 · 여행일정 : 9.03~9.30 신청마감 : 9.06 23:59 · 여행기간 : 10.01~10.31 신청접수 : 9.21 10시~장흥 · 여행기간 : 10.12~11.02 신청접수 : 9.28 10시~제천 · 여행일정 : 7.01~8.31 신청마감 : 6.16 10:50 · 여행일정 : 10.07~11.10 신청접수 : 10.07 ~새 창 열림",
-   "url": "https://korean.visitkorea.or.kr/dgtourcard/tour50.do",
-   "engine": "naver_web",
-   "query": "반값여행 신청접수중 선착순",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "3주 전【평창】평창군은 가을 관광객 유치와 지역 내 소비 활성화를 위해 추진 중인 ‘2026 지역사랑 휴가지원사업(반값여행)’ 3회차 사전신청을 오는 28일부터 선착순 접수한다고 밝혔다. ‘지역사랑 휴가지원사업’은 타 지역 관광객의 평창 방문을 유도하고 지역 내 관광소비를 촉새 창 열림",
-   "url": "https://www.kwnews.co.kr/article/20260921500767",
-   "engine": "naver_web",
-   "query": "반값여행 신청접수중 선착순",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "3주 전사전 신청은 오는 28일 오전 10시부터 평창군 반값여행 홈페이지에서 선착순으로 받는다. 모집 규모는 약 2천명이며 1·2회차 사업비 집행 상황에 따라 달라질 수 있다. 선정된... 관광정책과장은 21일 \"반값여행을 통해 많은 관광객이 평창의 가을을 즐기고 지역 곳곳을 여행하길 바란다\"고 말했다. *****@yna.co.kr 평창군, 가을 '반값여행",
-   "url": "https://news.suwon.go.kr/?p=24&viewMode=view&reqIdx=202609211128362228",
-   "engine": "naver_web",
-   "query": "반값여행 신청접수중 선착순",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "카테고리 : 여행, 아이랑, 반값여행 ; 목포에서 즐기는 특별한 1박2일 여행! 자유롭게 목포를 여행하고, 행사기간 중 사용한 금액의 50%를 환급 받아가세요~! * 1인당 최대지원금은 1팀당 최대지원금일수도 있으며, 상황에 따라 여러형태로 변하기때문에 본문 혹은 공고문에서 여행지원금 항목을 디테일하게 체크하시기 바랍니다.새 창 열림",
-   "url": "https://www.monthler.kr/programs/357417901344428032",
-   "engine": "naver_web",
-   "query": "반값여행 신청접수중 선착순",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "사전신청 하기새 창 열림",
-   "url": "https://geochangtour.kr/bbs/apply_date.php",
-   "engine": "naver_web",
-   "query": "반값여행 신청접수중 선착순",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "거창군은 오는 10일 오전 10시부터 거창반값여행 누리집에서 거창반값여행 4차 사전신청 접수를 시작한다고 밝혔다. 이번 4차 사전신청은 7월 14일부터 8월 31일까지 여행기간에 해당하는 관광객을 대상으로 추진되며, 마지막 사전신청인 만큼 신청 인원에 따른 선착순 마감이 아닌 경비 신청순으로 해당 예산 소진 시 마감될 예정이다. 거창반값여행은 사전신청 후 ",
-   "url": "https://www.geochang.go.kr/00445/00452.web?amode=view&news_epct_no=36953",
-   "engine": "naver_web",
-   "query": "반값여행 신청접수중 선착순",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "서울시청 하늘전망대 오르는 길 2 서울시청 서소문청사 1동에 위치한 하늘전망대는 누구나 무료로 이용할 수 있는 도심 속... 이곳은 2013년에 처음 시민들에게 개방된 이후 꾸준히 사랑받아온 장소다. 복잡한 절차 없이 방문할 수 있어 퇴근길에... 고즈넉한 궁궐의 기와지붕과 현대적인 고층 빌딩이 대비를 이루는 모습은 서울에서만 느낄 수 있는 독특한 풍경이다",
-   "url": "https://blog.naver.com/kuedam/224434657479",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "현재 대릉원은 입장료가 전면 무료로 개방되어 있어서 언제든 편하게 정문이나 후문을 통해 드나들 수 있게 되었더라고요. 관람 시간은 오전 9시부터 밤 10시까지로 여유로운 편인데... 잔잔한 수면 위로 완벽하게 대칭을 이루며 비치는 궁궐의 모습은 마치 다른 차원의 세계를 들여다보는 듯한 신비로운 느낌을 주더라고요. 어둠이 짙어질수록 조명의 빛이 더욱... 새",
-   "url": "https://blog.naver.com/tripup/224436151990",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "* 검소하나 누추하지 않고, 화려하나 사치스럽지 않다 경희궁 관람 관람시간: 오전 9:00~오후 6:00 입장마감: 오후 5:30 관람요금: 무료 월요일이 공휴일이나 대체공휴일과 겹치는 경우 정상 개방 경희궁은 서울의 5대궁궐중의 하나이고 서쪽에 있는 서궐이다. 경희궁에는 크게 숭정전, 자정전, 태령전등이 있고 입구에 들어서면 숭정문을 만나고 숭정문을 통과",
-   "url": "https://blog.naver.com/nusnos1/224436148330",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "특히 공휴일에는 궁궐이 무료로 개방되는지 궁금할 수 있습니다. 하지만 한글날이라고 해서 서울의 모든 궁궐이 자동으로 무료가 되는 것은 아닙니다. 2026년에는 10월 7일부터 11일까지 궁중문화축전이 열리고, 한글날인 9일에도 주요 궁궐을 정상 관람할 수 있습니다. 다만 일반관람과 무료관람 대상, 특별행사 예약은 구분해야 합니다. 2026년 10월 9일은 ",
-   "url": "https://blog.naver.com/readlea/224434959657",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "10월 9일 정상 개방 관람시간 09:00~18:00 입장 마감 17:00 성인 일반요금 3,000원 경복궁 자체를 보고 싶다면 오후 5시 전에 방문하는 방법이 있습니다. 3. 대신 갈 만한 곳 BEST 3 첫 번째... 도심에서 궁궐과 한글날 분위기를 즐길 방법이 모두 사라진 것은 아닙니다. ❓ 자주 묻는 질문 Q. 한복을 입으면 경복궁에 무료입장할 수 ",
-   "url": "https://blog.naver.com/mylife0521/224436105199",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "한글날이 법정공휴일이라고 해서 모든 궁궐이 무조건 무료로 개방되는 것은 아닙니다. 고궁에는 일반 관람요금과 별도의 무료입장 대상 기준이 있습니다. ✅ 경복궁 일반 관람료 성인 일반 관람료: 3,000원 만 24세 이하 내국인: 무료 만 65세 이상 내국인: 무료 규정에 맞는 한복 착용자: 무료 ✅ 창경궁 일반 관람료 성인 일반 관람료: 1,000원 만 24",
-   "url": "https://blog.naver.com/tolly76/224435694464",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "무료관람 대상이라면 필요한 신분증이나 증빙자료를 챙기는 것이 좋습니다. 창경궁 야경은 어디가 가장 좋을까? 창경궁은 단순히 건물만 보는 것보다 궁궐과 연못, 나무, 조명이 어우러지는 공간을 천천히 걷는 것이 매력입니다. 야간에는 특히... 대온실은 야간이라고 해서 항상 내부까지 자유롭게 개방되는 것은 아닙니다. 공식 안내에 따르면 대온실 내부는 식물... ",
-   "url": "https://blog.naver.com/jjung15pb/224435306082",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "상시 개방 / 남한산성 행궁: 11월 동절기 09:00 ~ 17:00 (입장 마감 16:30 / 매주 월요일 휴궁) 이용 요금 남한산성 성곽길 및 탐방로 전 구역 입장료 완전 무료 (남한산성 행궁: 어른 2,000원, 청소년 1,000원) 주차 시설 산성 로터리 중심 중앙주차장... 고즈넉한 궁궐 늦단풍 감상 15:40 1코스 서문 방면 트레킹 시작: 북문",
-   "url": "https://blog.naver.com/chadang1/224434586179",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "다만 북신문 이용 가능 여부와 개방 시간은 관람일 및 운영 상황에 따라 달라질 수 있으니, 방문 전 공식 안내를 꼭 확인해 주세요. 이번 한글날 연휴 꼭 가야 할 서울 궁궐 여행 2026 가을 궁중문화축전 : 창경궁 둘러보기 가을 서울 가볼만한 곳... 사전 예약한 사람들 대상으로는 한복도 무료로 빌려주시는 것 같았습니다! 그리고 춘당지도 정말 아름다우니 ",
-   "url": "https://blog.naver.com/sgm04257/224436011039",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "경복궁은 조선의 대표적인 궁궐로, 아이와 함께 옛 건축물을 살펴보고 우리 역사에 관해 이야기하기 좋은 장소예요. 2026년 한글날에도 정상 개방하며 10월 관람시간은 오전 9시부터... 축제는 무료로 관람할 수 있는 공간이 있지만 일부 공연이나 체험은 유료 또는 사전예약으로 운영돼요. 프로그램별 시간도 다르니 방문 전 공식 일정을 확인하는 게 좋아요. 한글",
-   "url": "https://blog.naver.com/narae3170/224435997340",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "봄과 가을 한정된 시즌에만 하루 3,000명 한정으로 개방되는 야간 관람권은 오픈 즉시 매진되므로 사전 예매 일정을 꼼꼼히 체크해야 합니다. 만약 야간 티켓을 구하지 못했다면 한복을 착용하고 주간에 방문하면 사전 예약 없이도 무료입장이 가능합니다. 동쪽의 창덕궁은 유네스코 세계문화유산으로 지정된 궁궐로, 자연 지형을 완벽히 살린 왕실 비밀의 정원인 후원..",
-   "url": "https://blog.naver.com/tripdify/224408162081",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "덕수궁 입장료는 성인 기준 1,000원 그러나 제가 방문했던 수요일은 문화가 있는 날, 매주 수요일은 문화가 있는 날로 지정되어 덕수궁을 무료 개방합니다. 현재 덕수궁은 궁중 문화 축전이 열리고 있고, 궁중 문화 축전은 10월 7일부터 10월 11일까지 열리는 궁중 문화 축전은 매년 봄, 가을 대한민국 서울의 5대 궁궐(경복궁, 창덕궁, 덕수궁, 창경궁, ",
-   "url": "https://blog.naver.com/oskin671022/224435985736",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "특히 10월은 대온실 내부도 야간개방 대상에 포함돼 있어 낮과는 다른 분위기의 대온실을 볼 수 있어 반가웠습니다. 대온실은 1909년에 건립된 우리나라 최초의 서양식 온실이라는... 정규 해설은 무료이고 약 1시간 정도 진행됩니다. Q. 창경궁 안에서 음식이나 음료를 먹어도 되나요? 궁궐 내부에서는 음식물을 먹을 수 없습니다. 산책하면서 간단한 간식을 먹는",
-   "url": "https://blog.naver.com/hakueiii/224435807606",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "근정전, 경회루, 향원정으로 이어지는 궁궐 건축의 정수 감상 한복 착용 시 입장료 무료 혜택과 이색 기념사진 촬영 봄·가을 야간 특별 관람을 통해 즐기는 은은한 궁궐 야경... 상층부에 위치한 서울스카이 전망대에 오르면 날씨가 맑은 날 서해 바다까지 시야에 들어오는 압도적인 개방감을 맛볼 수 있습니다. 바닥이 투명한 유리로 마감되어 발아래를 내려다보는...",
-   "url": "https://blog.naver.com/najimaki-/224428111819",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "경복궁 무료개방은 언제인가요? A. 코리아 그랜드 페스티벌 기간인 10월 29일부터 11월 15일까지입니다. 화요일 휴궁일은 문을 닫습니다. Q. 궁궐 관람객은 얼마나 되나요? A. 지난해 4대궁과 종묘, 조선왕릉 관람객은 1,781만 4,848명으로 역대 가장 많았고, 그중 약 24%가 외국인이었습니다. 경복궁 입장료는 당분간 지금 요금 그대로라, 지금 ",
-   "url": "https://blog.naver.com/entpicknews/224435960382",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "경복궁은 월요일에 쉬는 다른 궁궐들과 요일이 다릅니다. 2026년 10~11월 특별 운영 공지 한글날이면 누구나 무료인가요? 확인한 공지에서 10월 9일은 ‘정상 개방’으로 안내합니다. 모든 사람의 관람료를 면제하는 날짜로 안내한 것은 아니에요. 낮 일반 관람의 개인요금은 내국인 만 25~64세 3,000원입니다. 만 24세 이하·만 65세 이상 내국인: ",
-   "url": "https://blog.naver.com/ajb06282/224435959057",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "31 10월 30일 18:00~22:00 10월 31일 14:00~22:00 장소 덕수궁길·정동길·정동 일대 주요 내용 야간개방·공연·투어·체험·아트마켓 입장 기본 행사 관람 무료 개막식 10월 30일 19:00 예정 개막... 가을밤 궁궐에서 음악을 듣는다는 것만으로도 정동야행다운 프로그램이다. 덕수궁은 전통 궁궐 건축과 서양식 근대건축이 함께 있는 공간",
-   "url": "https://blog.naver.com/today_use/224433223391",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "✔ 광화문광장 한글날 시민행사 — 10월 9일 오전 11시부터 오후 4시까지 진행 ✔ 경복궁 — 한글날 정상 개방, 일반 관람료 적용 ✔ 궁중문화축전 — 10월 7일부터 11일까지 개최, 궁궐별 관람료 및 프로그램 조건 확인 ✔ 한복 착용 등 고궁 무료 관람 대상 — 해당 궁궐의 공식 기준 확인 공휴일이라고 무조건 무료입장하는 것은 아니니 출발 전 확인하면",
-   "url": "https://blog.naver.com/jeeny630703/224435921135",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "입장료 무료 서울갤러리 일반 관람 예약 불필요 지하철 1·2호선 시청역 이번에 소개하는 행사는 모두 같은 행사가 아니라 서울시청 일대에서 각각 진행되는 프로그램이에요. 특히... 피카츄 행사 기본정보 항목 내용 행사명 2026 피카츄의 가을 소풍 행사 기간 9월 18일~10월 11일 장소 서울시청 지하 서울갤러리 입장료 무료 주요 콘텐츠 Pokémon GO",
-   "url": "https://blog.naver.com/dltlsgo0870/224435883446",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "기본 정보 입장료 : 무료 주차 : 가능 화장실 : 있음 대중교통 : 여주역에서 915번 버스 이용 가능 버스는 하루 5회 정도라... 입장료와 주차비도 무료로 안내돼 있어 부담이 적습니다. 왜 상대적으로 덜 붐빌까? 파주 관광객 상당수가 임진각... 기본 정보 입장료 : 무료 주차 : 무료 내비게이션은 ‘율곡수목원 주차장’ 문산역에서 92번 버스 → 율곡",
-   "url": "https://blog.naver.com/jungpine123/224435868101",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "무료개방되었던 작년과 달리 이번엔 1천원 티켓+자율자석제로 각 회차당 400명 한정으로 바뀌었더라고요. 아쉽게도 티켓오픈 후 30분만에 전석 매진되었다고 합니다... 창경궁... 이 그림이 나오면 끝입니다~ 제법 퀄리티도 높고, 궁궐에 전통 음악과 함께 보여주는 미디어아트이다보니 외국인분들께서도 함께 보시면 더 좋겠단 생각이 들었어요^^ 마무리 낮에 봐도.",
-   "url": "https://blog.naver.com/ko_jaeeun/224435846977",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "음 무료 국악 공연도 하나보다. 다음 주 토요일 (10월 17일)에 야광명월이라는 이름으로 공연을 하나보다. 광고문 보니 와우 기대됨... 이건 정말 아주 잘 한거다 진짜 여튼 저 터널 위를 지난다 그러면 궁궐담장길 입장로! 좌는 종묘, 우는 창덕궁 창경궁 권역 (아마 창경궁과 창덕궁도 이어져있을 것이다.) 산책길 아주 훌륭해 20시 까지 개방이라는 데 밤",
-   "url": "https://blog.naver.com/vender3000/224435764263",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "입장료 무료이고 이곳은 인도가 갖춰져 있어서 편안하게 다닐 수 있고 예쁜 단풍길이 있어서 천천히 걸으면서 사진 담아가기 좋은 곳입니다. 가을 인생샷은 이곳에서 ~~~ ● 주소: 전남 장성군 북하면 백양로 1239 ● 운영 : 연중 무휴, 상시개방... 이곳은 옛날 궁궐에 만들어 놓은 연못처럼 가운데 작은 섬도 있고 나무가 심어져 있어요. 고풍서러운 분위기와",
-   "url": "https://blog.naver.com/wnvh97531/224435761415",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "정림사지 오층석탑｜부여 여행의 대표 역사 유적 정림사지 오층석탑 기본정보 주소 : 충남 부여군 부여읍 정림로 83 ⏰ 이용시간 정림사지 오층석탑 : 상시 개방 정림사지박물관 하절기(3~10월) : 09:00~18:00 정림사지박물관 동절기(11~2월) : 09:00~17:00 휴무 오층석탑 : 연중무휴 정림사지박물관 : 매주 월요일, 1월 1일, 설날·추석",
-   "url": "https://blog.naver.com/new7652/224435732724",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "개방기간 매년 10월1일-10월31일 (한달간 무료개방) 방문꿀팁이라면 네비게이션에 '홍천 은행나무숲'을 검색하고 가면 입구 도로변에 임시 주차공간이 마련되어있습니다. 오전 10시... 사전 예매에 실패하셨다면 평일 아침 9시 궁궐 입장 시간에 맞춰서 매표소에 방문하시면 현장에서 잔여 수량을 구매하실수있습니다. 가을 단풍은 시기를 놓치면 순식간에 낙엽이 되",
-   "url": "https://blog.naver.com/didi_1/224435732083",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "바닷바람을 맞으며 즐기는 포구 축제, 한글을 놀이로 만나는 문화축제, 밤을 밝히는 유등과 궁궐 행사까지 선택지도... 축제 입장은 무료로 안내돼 있지만 식사와 체험까지 모두 무료라는 뜻은 아닙니다. 체험 접수 방식과 비용, 공연 시간은... (1단계 개방) 주차장 93면 공사비 - 대관시설 중앙공원 일원 재원 - 체육시설 체육시설 13개종(축구장, 야구장,",
-   "url": "https://blog.naver.com/knskim59/224435725542",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "① 4대궁 무료개방 일정 - 무료개방 기간: 2026년 10월 29일(목)~11월 15일(일) - 대상: 경복궁, 창덕궁, 창경궁, 덕수궁, 종묘, 조선왕릉 - 입장료: 무료 - 제외: 정기 휴궁일, 창덕궁 후원 특별관람 등 ② 4대궁별 정기 휴궁일 무료개방 기간이라도 궁궐마다 쉬는 날이 다르기 때문에 방문 전 확인이 필요합니다. ※ 조선왕릉은 능별 휴관일",
-   "url": "https://blog.naver.com/skystar0902/224435724505",
-   "engine": "naver_blog",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "-운현궁은 담당이 수 리가 되고 대문이 4개인 사실상의 궁궐이었는데 이후 일부가 제외되었는데, 고종이 태어난 곳은 부지에서 제외되어 삼성에서 사갔다가 현재는 종로서방소 임시청사부지. 운현궁에는... 현재 무료개방하는 곳이니 가보실만 합니다. 2. 금강산도 식후경 가기전에 익선동에서 이것저것 먹고 갔습니다. 대원군대감께 죄송한 일식음식이네요 3. 김동인의 소",
-   "url": "https://cafe.naver.com/compactcamping/75673?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNvbXBhY3RjYW1waW5nIiwiYXJ0aWNsZUlkIjo3NTY3MywiaXNzdWVkQXQiOjE3OTE1MjM1OTkyOTJ9.c8SeZMCtUpvs-glCrF3YHvkOmfWRP_ULhKV8v8AI3AQ&q=%ea%b6%81%ea%b6%90%20%eb%ac%b4%eb%a3%8c%ea%b0%9c%eb%b0%a9&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "11.(일) 시간: 10:00 ~ 21:00 (궁궐별 개방 시간 상이) 비용: 궁궐 입장료(1,000원~3,000원, 한복 착용 시 무료입장 가능 / 일부 사전예약 프로그램 유료) 서울의 5대 궁궐에서 가을의 정취와 함께 조선 왕실의 품격 있는 문화를 오감으로 체험하는 도심 축제입니다. 고궁을 무대로 전통 궁중무용, 판소리, 퓨전 국악 공연 등이 야외에서 ",
-   "url": "https://cafe.naver.com/maniafarm/2721?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hbmlhZmFybSIsImFydGljbGVJZCI6MjcyMSwiaXNzdWVkQXQiOjE3OTE1MjM1OTkyOTJ9.IIWZr22skkcmm12o35gg6JEeBc3h5sthzhaAFbbO_zQ&q=%ea%b6%81%ea%b6%90%20%eb%ac%b4%eb%a3%8c%ea%b0%9c%eb%b0%a9&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "일정, 무료입장 조건 총정리 2026년 경복궁 야간개장은 고즈넉한 궁궐의 밤 풍경을 만끽할 수 있는 특별한 기회를 제공합니다. 2026년 하반기 경복궁 야간개장은 9월 2일부터 10월 2일까지 진행되며, 티켓은... 야간 개방 구역은 광화문, 흥례문, 근정전, 경회루, 사정전, 강녕전, 교태전, 아미산 일대입니다. 일부 날짜에는 수정전에서 국립국악원 연주자",
-   "url": "https://cafe.naver.com/freehomeworker/238?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZyZWVob21ld29ya2VyIiwiYXJ0aWNsZUlkIjoyMzgsImlzc3VlZEF0IjoxNzkxNTIzNTk5MjkyfQ.8kZ4EGZPYcxNeHcbKaaDXboYBmR2nd5FUM1e--_uuiQ&q=%ea%b6%81%ea%b6%90%20%eb%ac%b4%eb%a3%8c%ea%b0%9c%eb%b0%a9&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "RE9월말에 갔을때 외국인분들이 90%였는데 이번 기회에 내국인분들도 예쁜 가을의 궁 많이들 구경하고 오시면 좋겠어요",
-   "url": "https://cafe.naver.com/dieselmania/47525428?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpZXNlbG1hbmlhIiwiYXJ0aWNsZUlkIjo0NzUyNTQyOCwiaXNzdWVkQXQiOjE3OTE1MjM1OTkyOTJ9.Wroo2kTl6nk_EvDZmzdwYUGPEUYBJHvNvSs-O9g-6_Y&q=%ea%b6%81%ea%b6%90%20%eb%ac%b4%eb%a3%8c%ea%b0%9c%eb%b0%a9&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "15.(일) 무료개방 (*휴궁일 제외) - 경복궁, 칠궁 휴궁: 매주 화요일 정규 휴궁일 - 관람시간: 10월 - 09:00~18:00 (입장마감 17:00) 11월 - 09:00~17:00 (입장마감 16:00) - 경복궁·칠궁 해설 : 2026.10.3.(토), 10.5.(월)... 궁궐 건물 안에서 즐기는 야간 문화 행사라는 점에서 다른 야외 축제와 ",
-   "url": "https://cafe.naver.com/dlxogns01/437376?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6NDM3Mzc2LCJpc3N1ZWRBdCI6MTc5MTUyMzU5OTI5Mn0.s2VBxHV3wzeX3TBlR6ZSgw-du155Bf1lPB4gSO0UvSo&q=%ea%b6%81%ea%b6%90%20%eb%ac%b4%eb%a3%8c%ea%b0%9c%eb%b0%a9&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "정보 출처는 키즈 뮤지엄님 인스타링크에서 가져왔어요. 나들이 하기 좋은 계절에 궁궐 무료개방까지 더해지니 행복한 고민이네요 전시일정도 챙기고 더불어 궁궐 방문까지 가을단풍보러 궁궐 나들이 다녀와도 좋을듯 합니다. 날이 아직 더워서 그런지 무료개방 기간에 단풍이 늦어진다고 하는데 운치있는 풍경을 만나보면 좋겠습니다. 연휴기간 건강하게 잘 보내세요 \" \" \"",
-   "url": "https://cafe.naver.com/100sehealth/6954?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjEwMHNlaGVhbHRoIiwiYXJ0aWNsZUlkIjo2OTU0LCJpc3N1ZWRBdCI6MTc5MTUyMzU5OTI5Mn0.0GRqjEe3SBmzD5y4WuvVlH1KZB2DjFC7o_XOKhFrj7k&q=%ea%b6%81%ea%b6%90%20%eb%ac%b4%eb%a3%8c%ea%b0%9c%eb%b0%a9&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "지난 추석연휴에 서울에 있는 경복궁, 창덕궁, 덕수궁, 창경궁(4대궁), 종묘, 조선왕릉 전체를 무료개방한다는 소식을 접해듣고 구경을 갔었어요. 원래 서울은 복잡하고 집에서 한시간 이상 대중교통으로 이동해야되서 거의 가지 않는데, 어차피 집에만 있으면 가족 모두 뭐하고 있을지 뻔히 보여서!!!!! 일단 집에서 끄집어내자는 생각이 제일 컸구요, 늦은 오후에 ",
-   "url": "https://cafe.naver.com/momsolleh/921861?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbXNvbGxlaCIsImFydGljbGVJZCI6OTIxODYxLCJpc3N1ZWRBdCI6MTc5MTUyMzU5OTI5Mn0.9Lw7cc3OkOF9GYK6XB1fVhc3eLBRRBGO8be3yHIEzT4&q=%ea%b6%81%ea%b6%90%20%eb%ac%b4%eb%a3%8c%ea%b0%9c%eb%b0%a9&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "방문 후기에는 무료 또는 다른 금액으로 적힌 정보도 있지만, 공식 관광 안내 기준 요금은 아래와 같습니다. 차량 구분 1일 정액요금... 등 개방 여부 확인 문화재 관람 구룡사 현장 안내 준수 문의 033-740-9900 방송처럼 가볍게 둘러보려면 황장목숲길과 구룡사 중심으로... 황장목은 목질이 단단해 조선시대 궁궐이나 왕실 관련 건축 등에 사용됐으며, ",
-   "url": "https://cafe.naver.com/infocheatkey/394?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImluZm9jaGVhdGtleSIsImFydGljbGVJZCI6Mzk0LCJpc3N1ZWRBdCI6MTc5MTUyMzU5OTI5Mn0.-fMpEC2dS0gOqvKx2bNLGiWBBZHMpwD-E0dBRGq0VZI&q=%ea%b6%81%ea%b6%90%20%eb%ac%b4%eb%a3%8c%ea%b0%9c%eb%b0%a9&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "경복궁과 덕수궁을 비롯해 서울의 주요 궁궐들과 청계천, 광화문광장까지 전부 걸어서 다닐 수 있는 거리에 있어서 서울의 역사와... 조식을 무료로 제공하고 있어요. 아침 7시부터 10시 또는 11시까지 여유롭게 이용할 수 있는 콘티넨탈 스타일의 간편 조식이 준비되어 있어서... 이 호텔의 또 다른 매력 포인트는 바로 24시간 동안 자유롭게 개방되는 넓고 쾌적",
-   "url": "https://cafe.naver.com/jawhan/67975?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imphd2hhbiIsImFydGljbGVJZCI6Njc5NzUsImlzc3VlZEF0IjoxNzkxNTIzNTk5MjkyfQ.8nBZWBes5Xn9ZkjF2N0ESOSzy5e7f7__avqKEbvbgak&q=%ea%b6%81%ea%b6%90%20%eb%ac%b4%eb%a3%8c%ea%b0%9c%eb%b0%a9&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "다만 휴궁일에는 무료개방이 적용되지 않으므로 방문 전에 날짜를 확인하는 것이 좋습니다. 또한 10월 7일부터 11일까지는 궁중문화축전이 열릴 예정이라 경복궁을 비롯한 주요 궁궐에서 다양한 프로그램이 진행됩니다. 10월 경복궁 방문 전에 확인할 것 10월에는 공휴일과 행사 기간이 있어 평소와 관람 일정이 달라질 수 있습니다. ✔ 경복궁 10월 관람시간 : 0",
-   "url": "https://cafe.naver.com/whiteinsu/83?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndoaXRlaW5zdSIsImFydGljbGVJZCI6ODMsImlzc3VlZEF0IjoxNzkxNTIzNTk5MjkyfQ.Lh5KoUbIbrHN9fvz0dGj75cDxafdSdwuqpLGSrHnbQE&q=%ea%b6%81%ea%b6%90%20%eb%ac%b4%eb%a3%8c%ea%b0%9c%eb%b0%a9&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "전시·교육·문화행사 가을 궁중문화축전, 예약 없이 즐길 수 있는 궁궐의 다양한 프로그램(260930)은 10월 7일-11일 4대궁과 종묘에서 열리며, 사전예약 없이 참여하는 현장 프로그램도 운영합니다.... 창덕궁 후원의 작은 서재, 선향재에서 즐기는 고궁독서는 10월 7일-18일 10:30-16:30에 선향재 내부를 개방하며, 이용은 무료지만 창덕궁 입장",
-   "url": "https://cafe.naver.com/archaeology/20273?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFyY2hhZW9sb2d5IiwiYXJ0aWNsZUlkIjoyMDI3MywiaXNzdWVkQXQiOjE3OTE1MjM1OTkyOTJ9.90ACuxcWEkxrgE--Sxc7q8WGMHM_kYIXpoFZTyPcKK8&q=%ea%b6%81%ea%b6%90%20%eb%ac%b4%eb%a3%8c%ea%b0%9c%eb%b0%a9&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "제도 정비, 환경 개선이 필요하다\"고 말했다. '추석 연휴' 무료 개방한 경복궁 (서울=연합뉴스) 김주형 기자 = 추석 연휴 첫날인 24일...것이 조금 더 적절하지 않은가 판단하고 있다\"도 덧붙였다. 궁궐과 왕릉 관람료는 2005년 인상된 이후 20년 넘게 유지되고 있다...",
-   "url": "http://v.daum.net/v/20261008152800515",
-   "engine": "daum_news",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "'추석 연휴' 무료 개방한 경복궁 [연합뉴스 자료] 정부가 예고했던 다음달 궁궐·왕릉 관람료 인상 기준 발표와 내년 1월 관람료 인상 시행 일정을 '미정'으로 변경한 것으로 확인됐습니다. 국가유산청 관계자는 최근 관람료 인상안 발표와 시행 시점을 모두 '미정...",
-   "url": "http://v.daum.net/v/20261008100459124",
-   "engine": "daum_news",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "되지만, 고궁박물관에 또 하나의 미래 이벤트이자 대한민국의 궁궐을 세계에 자랑할 수 있는 새로운 이벤트”라고 말했다. 타넬 셉...사업이다. 국립고궁박물관 앞 은행나무 쉼터를 혼례 장소로 무료 개방하고 혼인 비용 일부를 지원한다. 허민 국가유산청장이 2...",
-   "url": "http://v.daum.net/v/20261002215544808",
-   "engine": "daum_news",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "장소로 무료 개방하고, 혼인 비용 일부를 지원하는 사업이다. 김대현 국립고궁박물관 기획운영과 사무관은 \"역사적으로 왕의 말과 수레를 관리하는 '내사복'이 있던 자리\"라며 \"'고결'은 기존의 문화유산 활용사업과 지자체 등의 공공웨딩사업을 혼합한 사업\"이라...",
-   "url": "http://v.daum.net/v/20261002171908121",
-   "engine": "daum_news",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "궁궐·왕릉 관람료 인상 계획 연기될듯…\"서비스 개선 먼저\" - 연합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPX0xlalFDa2Fmak8yZ2FuekhHRGE3OHFSQkxqMWhSNkxRTkRrUnRjbk0yNURZZWpCZGhKY2hLejVESjBjRVh4MGpodlBPcmJBaGZ4S2MzckZKeHPSAWBBVV95cUxNcUFPUlpxVHBsLWNfTmdzYW9KVXhWZ1RicjM1MHFvWHlIbWJnZWlBRkdhQ3ZOdFB2RWR5LWFTWW5XM3JieUVRelItT0NMbXBkQXJIczBSX0tDVXdkZzQtOHM?oc=5",
-   "pub": "Thu, 08 Oct 2026 06:26:20 GMT",
-   "engine": "gnews",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "첫 화면에서 길을 잃지 않는 파이썬 러시안 룰렛 메뉴 안내 - Calgary Roughnecks",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lSFNkYklMLUFrVHlDWUhBUjAyM2IwYmRnUnE1emdielJpR0pCbUZUQU1rc3NfOF9WOXlma0taR05MUFFidVVpLXNSZFdkLUc0bHUwdEZwcFVVQXRSTGdUenVreC12MmFyTk5xMmZidzVRZ2V6bmlJ?oc=5",
-   "pub": "Sun, 04 Oct 2026 12:00:13 GMT",
-   "engine": "gnews",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "수요일 밤, 궁궐이 여행지가 된다…무료 개방 창경궁에서 만난 ‘도심 속 밤 산책’ - 서울미디어뉴스",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZOFJjaW9JaHRSRDZqT3JiZUlDVDdQMkNOZXZiSElNZ3JkeGN6VFpmc21tNVRqdWhVWVRoamhFbXQyM041b1ZLYXp1Q3R3V0g2ZklCWF8tc3psUkRoaFM2X3hFRVhBT1pONDBCWUNjLWpmZ9IBdkFVX3lxTE1Sb2tsT3VsNFdfUFRISlVfWDdDbGg3cnR2VXVnTm5ROS1ENnRYLUNDWl94b1lXbWN0WktYclJ4RkJkOS1mejJkN2M4ZXJsVW9JNTJ0NWU2MFp5LWw2QlpBeTk3OWd2b2dqbWJXNGRnelV4eHV0eGc?oc=5",
-   "pub": "Wed, 07 Oct 2026 09:15:00 GMT",
-   "engine": "gnews",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "가을 궁궐 나들이, 무료관람부터 야간 프로그램까지 - 뉴스N연합",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiRUc3V0RBeDN1ZjlYODlPdVowZWhtSDZja2F6aWxHVHYxOW9FdWE1dFZhQlNrdTFYZ3BINGgwNG9TblVoclNhLXdB?oc=5",
-   "pub": "Sat, 03 Oct 2026 11:57:00 GMT",
-   "engine": "gnews",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "무더웠던 여름, '문화요일'로 시원하게 보냈어요 - 정책브리핑",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BMUMyTk1oX2lhc2txekdtOWhCSmhMbldYRVNYeW5RWlMtSlV0alFMOWs2NHJ5WGZyME1xODFWZFNQNUl1NEdLamQwRkIyYktNUHFnUmI3UHg0NnNfTkFkS3BQd2pCQXYteV9MRno3SFFZZw?oc=5",
-   "pub": "Wed, 07 Oct 2026 05:54:09 GMT",
-   "engine": "gnews",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "[문화소식] 향과 선율로 만나는 유리 온실…창경궁서 '작은 음악회' - 연합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tUDFCSkRYSG1vVmd2d1VBb0drTkNkQ3hPZ05hc05aMlJTei1sTTd4cEVxVTVySFJfUWZ3OUVwcTRjMDB3MkFLYzRKQUNKSnd1aXJqZkZ3NUEzQTUxeFlYQdIBYEFVX3lxTE1tUDFCSkRYSG1vVmd2d1VBb0drTkNkQ3hPZ05hc05aMlJTei1sTTd4cEVxVTVySFJfUWZ3OUVwcTRjMDB3MkFLYzRKQUNKSnd1aXJqZkZ3NUEzQTUxeFlYQQ?oc=5",
-   "pub": "Tue, 06 Oct 2026 00:00:03 GMT",
-   "engine": "gnews",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "2026.05.28.궁능유적본부, 덕수궁은 8월부터, 창덕궁 · 창경궁 · 종묘도 10월부터 매주 수요일 무료개방 확대 국가유산청 궁능유적본부는 정부의 ‘문화가 있는 날’* 정책 확대에 발맞추어, 국민의 국가유산 향유 기회를 넓히고자 궁능 무료개방을 단계적으로 확대 시행한다. * 매달 마지막 수요일에서 ‘매주 수요일’로 확대(4.1.~) 현재 궁능유적본부는",
-   "url": "https://royal.khs.go.kr/ROYAL/contents/R402000000.do?schM=view&id=20260528103040963660",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "지금 뜨는 2026 추석 이슈 총정리 ^^ 1️⃣ 추석 연휴 궁·능 무료개방 9월 24~27일 4대궁·종묘·조선왕릉이 무료 개방됩니다. 경복궁 수문장 교대의식 등도 별도 예약 없이 관람할 수 있어 추석 나들이로 좋아요. 2️⃣ 추석 장보기 할인 정부가 추석 성수품 18만3천 톤을 공급하고 주요 농축수산물에 최대 50% 할인 지원을 추진중~ 대형마트·중소형마",
-   "url": "https://blog.naver.com/namhj2007/224416690196",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "특히 이번에는 궁궐 무료개방뿐 아니라 전통놀이와 만들기, 공연까지 무료로 즐길 수 있는 곳이 있어서 아이 성향에 맞춰 골라보면 좋을 것 같아요. 저처럼 “추석연휴 하루는 어디 가지?” 고민하고 있었다면 날짜부터 정하고 그날 운영하는 곳을 골라보세요. 단, 체험행사는 재료가 소진되거나 현장 상황에 따라 일정이 달라질 수 있으니 출발 전 공식 홈페이지에서...",
-   "url": "https://blog.naver.com/alice_hako/224420862433",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "RE9월말에 갔을때 외국인분들이 90%였는데 이번 기회에 내국인분들도 예쁜 가을의 궁 많이들 구경하고 오시면 좋겠어요새 창 열림",
-   "url": "https://cafe.naver.com/dieselmania/47525428?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpZXNlbG1hbmlhIiwiYXJ0aWNsZUlkIjo0NzUyNTQyOCwiaXNzdWVkQXQiOjE3OTE1MjM2MTc5Nzl9.qr-s5VyPqk0yVoytL0JxzMs7C9o-PV4vIVn_0rQSQ20",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "와서 무료 관람하기 위해 돌아서요 돈덕전이 초기에는 수시 개방이라 쉬기 좋았는데 이제는 전시회 아니면 닫아놓아 아쉽네요 덕수궁 현대 미술관에 가지 못한 아쉬움을 서울시립미술관에 와서 달래요 한번 봤는데 평일에 관람객이 많네오 서소문 전망대에 가봅니다 그러나 엘리베이터 줄이 수십명인데요 이제 여기도 오픈런 해야하나봐요 문화가 있는 수요일 결제 금액... 새 ",
-   "url": "https://cafe.naver.com/loyaltylife/357132?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNTcxMzIsImlzc3VlZEF0IjoxNzkxNTIzNjE3OTc5fQ.nHsoUp93CoDxMPWVCNhWiJ-mq-i2fi0nHxfT6JGrIPI",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "2026 추석 궁궐 무료개방 가을 경복궁을 배경으로 ‘9월 24일~27일 / 4대궁·종묘·조선왕릉 무료’가 한눈에 들어오는 대표이미지 추석 궁궐 무료개방 어디까지 들어갈 수 있을까? 무료개방 대상은 생각보다 넓다. ✔ 경복궁 ✔ 창덕궁 ✔ 덕수궁 ✔ 창경궁 ✔ 종묘 ✔ 조선왕릉 서울 4대궁뿐 아니라 종묘와 전국의 조선왕릉까지 무료개방 대상에 포함된다. 기간",
-   "url": "https://blog.naver.com/well-table/224421518623",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "추석 연휴 4대궁·종묘·조선왕릉 무료개방 추석 연휴 서울에서 가장 부담 없이 즐길 수 있는 나들이 장소 중 하나가 궁궐입니다. 국가유산청은 9월 24일부터 27일까지 경복궁·창덕궁·덕수궁·창경궁 등 4대궁과 종묘, 조선왕릉을 무료 개방합니다. 기간 : 9월 24일~27일 입장료 : 무료 ⚠️ 창덕궁 후원은 무료개방 대상에서 제외됩니다. 한 줄 요약: 202",
-   "url": "https://blog.naver.com/muikkuni/224421708841",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "추석 연휴 궁궐 나들이 팁 무료 개방 기간에는 평소보다 방문객이 많을 수 있으니 가능하면 오전 일찍 움직이는 것을 추천해요. 편한 운동화와 생수도 꼭 챙기고, 낮에는 햇볕이 강할 수 있으니 모자나 양산도 준비하면 좋겠습니다. 궁궐마다 정기 휴궁일이 다르지만 이번 특별 개방 일정은 연휴 운영 공지를 우선 확인해 주세요. 평소 기준으로 경복궁과 종묘는 화요일.",
-   "url": "https://blog.naver.com/moonbswife/224421673572",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "네이버뉴스새 창 열림",
-   "url": "https://n.news.naver.com/mnews/article/001/0016345739?sid=103",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "네이버뉴스새 창 열림",
-   "url": "https://n.news.naver.com/mnews/article/448/0000642205?sid=103",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "추석 연휴 궁궐·왕릉 무료개방에 85만명 다녀갔다새 창 열림",
-   "url": "https://www.gokorea.kr/news/articleView.html?idxno=880020",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "네이버뉴스새 창 열림",
-   "url": "https://n.news.naver.com/mnews/article/001/0016348973?sid=103",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "창덕궁 왕실 서재 ‘선향재’, 내부 특별 개방새 창 열림",
-   "url": "https://www.bntnews.co.kr/article/view/bnt202610010170",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "네이버뉴스새 창 열림",
-   "url": "https://n.news.naver.com/mnews/article/277/0005818231?sid=103",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "추석 연휴 나흘간 조선 시대 궁궐과 왕릉이 무료로 개방된다. 무형유산 체험과 민속놀이 프로그램도 함께 마련된다. 국가유산청 궁능유적본부는 24일부터 27일까지 경복궁·창덕궁·덕수궁·창경궁과 종묘, 조선왕릉을 무료로 개방한다. 단 창덕궁 후원은 제외한다. 평소 예약제로 운영하는 종묘는 자유로운... 새 창 열림",
-   "url": "https://view.asiae.co.kr/article/2026091722265095038",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "네이버뉴스새 창 열림",
-   "url": "https://n.news.naver.com/mnews/article/052/0002408672?sid=103",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "네이버뉴스새 창 열림",
-   "url": "https://n.news.naver.com/mnews/article/001/0016320166?sid=103",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "더 추워지기 전에 궁궐 관람 어떠세요? 단, 창덕궁 후원은 기존대로 유료예매(관람)입니다. 1. 무료개방기간: 2025. 10. 29.(수)~11. 9.(일) 2. 경복궁, 칠궁 휴궁: 2025. 11. 4. (화) *매주 화요일 정규 휴궁일 3. 관람시간: 10월 - 09:00~18:00 (입장마감 17:00) 11월 - 09:00~17:00 (입장마감 ",
-   "url": "https://cafe.naver.com/neweclass/794655?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5ld2VjbGFzcyIsImFydGljbGVJZCI6Nzk0NjU1LCJpc3N1ZWRBdCI6MTc5MTUyMzYxNzk3OX0.sqrWxZyQLrWVFKbHbQRKf0fRYkFlXfujVbXXyPjYxrM",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "2주 전◆ 추석 연휴 궁궐 무료 개방 오는 27일까지 경복궁·창덕궁·덕수궁·창경궁·종묘·조선왕릉이 무료로 개방된다. 평소 궁궐에서 열리는 전통문화 행사는 연휴 기간에도 볼 수 있다. 경복궁은 오전 9시부터 오후 6시까지 운영된다. 조선 시대 왕실 호위 문화를 엿볼 수 있는 경복궁 수문장 교대 의식은 오전 10시와 오후 2시에 열린다. 파수 의식은 오전...",
-   "url": "https://www.newspim.com/news/view/20260922001061",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "공휴일이면 개방하고, 다음 비공휴일에 휴궁합니다. 창경궁은 어떤 곳인가요? 창경궁은 1484년 조선 성종 때 왕실의 웃어른인 세 대비를 모시기 위해 지어진 궁궐입니다. 일제강점기에는 궁궐이 훼손되고 동물원과 식물원이 들어서면서... 사진찍고 쉬고했는데 조용하니 사색을(?) 즐기기엔 여기가 짱.... ㅋㅋㅋ 정구해설도 무료라 시간될때 아이들끌고(!)다시 와보",
-   "url": "https://cafe.naver.com/usem/2589032?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVzZW0iLCJhcnRpY2xlSWQiOjI1ODkwMzIsImlzc3VlZEF0IjoxNzkxNTIzNjE3OTc5fQ.h6MLoEDVGQcZ0dka6ddeT2DjMf-tZ4JMSgTECOaD_pU",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "올해 추석에는 경복궁, 창덕궁, 덕수궁, 창경궁을 비롯해 종묘와 조선왕릉까지 무료로 개방한다. 기간은 2026년 9월 24일부터 27일까지 총 4일이다. 평소 입장료가 있는 궁궐을 무료로 들어갈 수 있고, 종묘는 평소 시간제 관람과 달리 이 기간 동안 자유관람으로 운영한다. 다만 창덕궁 후원이나 별도 예약 프로그램까지 전부 무료·자유관람으로 바뀌는 건 아니",
-   "url": "https://blog.naver.com/huniiyurii/224416986982",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "4대궁·종묘·조선왕릉 무료개방 총정리 추석 연휴 궁궐 무료입장 추석 차례상 물리고 \"우리 어디 바람 좀 쐬러 갈까?\" 하시는 분들 계시죠. 차일피일 미뤄왔던 궁궐 방문 어떠세요? 명절 연휴 4일 내내 입장료가 0원이라는 특급 소식이 들려와서 제가 꼼꼼하게 정리해 왔답니다. 추석 연휴 궁·능 무료개방 핵심 요약 9월 24일(목) ~ 9월 27일(일), 4일간",
-   "url": "https://blog.naver.com/meejolee/224421686631",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "산책 아이와 함께 즐길 거리: 명절 연휴 동안 야외 전통 공연장에서 신명 나는 농악, 사물놀이, 탈춤 공연이 펼쳐집니다. 굴렁쇠 굴리기, 투호 던지기 등 민속놀이를 자유롭게 즐긴 뒤 석촌호수 산책길을 따라 맛있는 음식점과 카페를 이용하기 편합니다. #명절가볼만한곳 #아이와가볼만한곳 #궁궐무료개방 #서울4대궁궐 #명절아이와가볼만한곳 #아이와함께 #명절나들이새",
-   "url": "https://blog.naver.com/alzer/224421083821",
-   "engine": "naver_all",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "2025.01.24.서울 여행 경복궁 데이트 경복궁 주차장 정보 글/사진 : 산마니아 서울 여행 경복궁 데이트 날짜 : 2025년 1월 19일 경복궁 무료개방 정보 설 연휴에 가족들과 함께 궁궐을 찾는 사람들이 많을텐데 반가운 소식을 하나 전달하겠다. 경복궁을 비롯한 궁궐 및 왕릉(원.묘 포함)을 우리 민족의 고유 명절 설을 맞이하여 무료로 개방을 한다. ",
-   "url": "https://blog.naver.com/ysr3789/223736568975",
-   "engine": "naver_web",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "2026.05.26.궁능유적본부, 덕수궁은 8월부터, 창덕궁 · 창경궁 · 종묘도 10월부터 매주 수요일 무료개방 확대 국가유산청 궁능유적본부는 정부의 ‘문화가 있는 날’* 정책 확대에 발맞추어, 국민의 국가유산 향유 기회를 넓히고자 궁능 무료개방을 단계적으로 확대 시행한다. * 매달 마지막 수요일에서 ‘매주 수요일’로 확대(4.1.~) 현재 궁능유적본부는",
-   "url": "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706128&sectionId=b_sec_1",
-   "engine": "naver_web",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "2주 전국가유산청은 이날부터 27일까지 나흘간 경복궁·창덕궁·덕수궁·창경궁 등 4대 궁과 종묘, 조선왕릉을 무료 개방한다. 다만 창덕궁 후원은 기존처럼 유료 관람이다. 추석 연휴 첫날인 24일 서울 경복궁이 시민과 외국인 관광객들로 북적이고 있다. 평소 예약제로 운영되는 종묘는 연휴 기간 예약 없이 자유롭게 관람할 수 있다. 경복궁에서는 전통 의식도 볼 수",
-   "url": "https://www.kukinews.com/article/view/kuk202609240026",
-   "engine": "naver_web",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "궁능유적본부, 덕수궁은 8월부터, 창덕궁 · 창경궁 · 종묘도 10월부터 매주 수요일 무료개방 확대 국가유산청 궁능유적본부는 정부의 ‘문화가 있는 날’* 정책 확대에 발맞추어, 국민의 국가유산 향유 기회를 넓히고자 궁능 무료개방을 단계적으로 확대 시행한다. * 매달 마지막 수요일에서 ‘매주 수요일’로 확대(4.1.~) 현재 궁능유적본부는 기존의 ‘문화가 있",
-   "url": "http://hbmy.or.kr/sub/sub06_03.php?mode=view&idx=276",
-   "engine": "naver_web",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "2026.02.12.5 2026년 설 연휴(2월 14일~18일)에는 가족·연인과 함께 도심 속 문화 나들이를 떠나보는 건 어떨까요? 이번 연휴 동안 서울의 4대 궁(경복궁·창덕궁·창경궁·덕수궁)과 종묘, 조선왕릉이 무료 개방되어 시민들을 맞이하거든요. 여기에 국립현대미술관(서울·덕수궁·과천·청주)도 2월 16일부터 18일까지 무료 개방에 동참하니(※ 단, ",
-   "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=2d4b2181-e17e-4d28-8bd0-26c13309fa69",
-   "engine": "naver_web",
-   "query": "궁궐 무료개방",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "적용하겠다고 보고했다”며 “지난해 12월 연구용역 보고서에 고궁·종묘 5000원, 왕릉 3000원 책정과 5년 단위 3단계 로드맵이...시설이 따라가지 못하고 있는 실정이라고 해명했다. 한복 착용자 무료 관람 범위, 내·외국인 차등요금제 등 토론회에서 제기된 복합...",
-   "url": "http://v.daum.net/v/20261008174045781",
-   "engine": "daum_news",
-   "query": "고궁 무료관람 기간",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "1단계 고궁·종묘 5,000원, 능원 3,000원 등 5년 단위의 3단계 인상 로드맵을 마련했다. 올해 8월 5일 대통령 업무보고에서도 11월...관람객은 24% 증가했지만 유료 관람객은 4%, 관람료 수입은 9% 늘어나는 데 그쳤다. 반면 무료 관람객은 908만 명에서 1,229만 명...",
-   "url": "http://v.daum.net/v/20261008171900721",
-   "engine": "daum_news",
-   "query": "고궁 무료관람 기간",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "주요 문화유산과 비교해 전반적으로 낮은 수준으로 조사됐다. 관람 수요 증가가 입장료 수입 확대로 이어지지 않는 흐름도 확인됐다...2025년 1503만 1603명으로 14.6% 증가했지만, 같은 기간 궁능유적본부 입장료 수입은 123억 7934만 원에서 120억 9848만 원...",
-   "url": "http://v.daum.net/v/20261008152845555",
-   "engine": "daum_news",
-   "query": "고궁 무료관람 기간",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "하나로 고궁·종묘 5000원, 능원 3000원 수준도 검토됐다. 국가유산청이 속도 조절에 나선 것은 요금 인상에 앞서 관람환경 개선이...해설 서비스도 개선 대상에 포함됐다. 한복 착용자 무료관람제도도 재검토한다. 현재 궁·능에서는 한복을 착용하면 무료로 입장...",
-   "url": "http://v.daum.net/v/20261008152458346",
-   "engine": "daum_news",
-   "query": "고궁 무료관람 기간",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "관광객들이 고궁을 둘러보고 있는 모습. ⓒ 뉴스1 이종수 기자 (서울=뉴스1) 정수영 기자 = 정부가 올해 11월 발표해 내년 1월부터...자료에 따르면, 국가유산청은 내년 1월부터 관람 서비스를 개선한 뒤 무료관람 제도와 국민 부담, 공공성 등을 종합적으로 검토해...",
-   "url": "http://v.daum.net/v/20261008120803795",
-   "engine": "daum_news",
-   "query": "고궁 무료관람 기간",
-   "first_seen": "2026-10-09T14:10:46+09:00"
-  },
-  {
-   "title": "등 유럽 주요 관람 시설들도 유지보수 비용 급증을 감당하기 위해 관람료를 대폭 인상하고 있다. 각국 문화 시설들이 관람객의 반발을...관광객이 1500만 명을 넘어섰다. 문화체육관광부는 1~8월 방한 외국인 관광객이 1504만8435명으로 지난해 같은 기간보다 21.6%...",
-   "url": "http://v.daum.net/v/20261003004319027",
-   "engine": "daum_news",
-   "query": "고궁 무료관람 기간",
    "first_seen": "2026-10-09T14:10:46+09:00"
   }
  ],
