@@ -1331,5 +1331,17 @@
   "id": "daum-kto-rentcar-autumn-20261009",
   "url": "http://v.daum.net/v/20261009070300571",
   "note": "여행가는 가을 렌터카 대여료 60%·카라반·수목원 할인 기사 (JOB7, WebFetch DNS 차단)"
+ },
+ {
+  "id": "yuseong-lib-lecture-12604",
+  "url": "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604",
+  "note": "유성구통합도서관 강좌 상세(지역제한 유성구, 정원 20) — 프로그램명·대상 확인용 (JOB10, WebFetch DNS 차단)",
+  "render": true
+ },
+ {
+  "id": "yuseong-lib-lecture-list",
+  "url": "https://lib.yuseong.go.kr/web/program/lectureList.do",
+  "note": "유성구통합도서관 강좌·프로그램 신청 목록 (JOB10, 경로 추정 — 실패 시 links.json 기준 교체)",
+  "render": true
  }
 ]
