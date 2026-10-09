@@ -277,7 +277,7 @@
   {
     "id": "khs-notice",
     "url": "https://www.khs.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1008&mn=NS_01_02_01",
-    "note": "국가유산청 공지사항 (JOB7: 답사·체험 모집) — 2026-09-30 JOB7: 일반 수집 HTTP 500 49회 연속, render 전환",
+    "note": "국가유산청 공지사항 (JOB7: 답사·체험 모집) — 2026-09-30 JOB7: 일반 수집 HTTP 500 49회 연속, render 전환 — 2026-10-09 JOB7: 9/30 이후 '페이지 없음'(309자) 반복 → 주소 변경 의심, khs-main 링크로 새 공지 목록 주소 확인 후 교체",
     "render": true
   },
   {
@@ -1366,5 +1366,22 @@
     "url": "http://ysfesta.com/",
     "note": "유성구 축제 공식 사이트(국화음악회·국화축제 공지, JOB4)",
     "render": true
+  },
+  {
+    "id": "khs-main",
+    "url": "https://www.khs.go.kr/",
+    "note": "국가유산청 메인 — 공지사항 목록 새 주소 탐색용(links.json) (JOB7, 2026-10-09)",
+    "render": true
+  },
+  {
+    "id": "khs-eventinfo",
+    "url": "https://www.khs.go.kr/eventInfo/index.do",
+    "note": "국가유산청 행사정보 — 답사·체험 모집 (JOB7, 2026-10-09)",
+    "render": true
+  },
+  {
+    "id": "shinailbo-chuncheon-sillefesta-5069815",
+    "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069815",
+    "note": "춘천 실레마을 여행 페스타 보도(참여시설·할인액 확인용, JOB7 2026-10-09, WebFetch DNS 차단)"
   }
 ]
