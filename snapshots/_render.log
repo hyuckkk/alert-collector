@@ -1,45 +1,61 @@
-[seogu-edu-list] rendered 2465 chars CHANGED
-[daejeon-its-board] rendered 3573 chars CHANGED
-[sejong-notice] rendered 2353 chars CHANGED
-[sejong-notice-greenfamily] rendered 1797 chars CHANGED
-[sejong-notice-birdwatch] rendered 1337 chars CHANGED
-[yangyang-cafe-balloon-15331] rendered 4920 chars CHANGED
-[komsco-shop-medal] rendered 7373 chars CHANGED
-[komsco-shop-coin] rendered 6799 chars CHANGED
-[komsco-shop-bar] rendered 6839 chars CHANGED
-[komsco-shop-card] rendered 7368 chars CHANGED
-[komsco-shop-currency-set] rendered 6683 chars CHANGED
-[cnu-jsh-schedule] rendered 989 chars same
-[bok-commemorative-coin-news] rendered 718 chars CHANGED
-[andong-halftour] rendered 2486 chars CHANGED
-[kfe-main] rendered 5811 chars CHANGED
-[blog-tjrudska82-224434527430] rendered 4489 chars CHANGED
-[blog-dooglami-224434696671] rendered 4671 chars CHANGED
-[pyoungsong-monthly] rendered 634 chars same
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 149537 chars same
-[pyoungsong-event-list] rendered 293 chars same
-[docomomokorea-main] rendered 293 chars same
-[mcst-culture-71983] rendered 1180 chars CHANGED
-[aircanada-kr-moretotravel] rendered 3222 chars CHANGED
-[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
-[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
-[hanbat-library-media-friend] rendered 1154 chars CHANGED
-[kopis-place-pyoungsong-small] rendered 10156 chars same
-[blog-seogu-artfest-blu2sky7] rendered 6166 chars CHANGED
-[nol-product-26008375] rendered 1746 chars CHANGED
-[pyeongtaek-main] rendered 26047 chars CHANGED
-[kopis-daejeon-kids] rendered 30525 chars CHANGED
-[kwater-realtime-multidam] rendered 8361 chars CHANGED
-[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/22471']' timed out after 75 seconds
-[gongjeon-kids] rendered 482 chars CHANGED
-[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
-[katc-schedule] rendered 688 chars CHANGED
-[mnd-main] rendered 17304 chars CHANGED
-[fsale-main] rendered 4526 chars CHANGED
-[mokwon-events] rendered 948 chars CHANGED
-[zeropay-events] rendered 529 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[daejeon-cafe-100papa-40250] rendered 2051 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1168 chars CHANGED
+[nol-notice-10111] rendered 17369 chars CHANGED
+[naver-entertain-018-0006379428] rendered 23953 chars CHANGED
+[melon-artist-songsohee] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/artist/index.htm?artistId=672059
 Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
+  - navigating to "https://ticket.melon.com/artist/index.htm?artistId=672059", waiting until "domcontentloaded"
 
+[interpark-artist-leejuck] rendered 10193 chars CHANGED
+[yctf-show] rendered 502 chars CHANGED
+[sejong-notice-science-concert] rendered 1015 chars CHANGED
+[sejong-notice-science-jiphyeonjeon] rendered 1170 chars CHANGED
+[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
+[yangyang-cafe-balloon-15331-m] rendered 31915 chars CHANGED
+[mommom-place-6a868bff] rendered 95 chars CHANGED
+[mommom-place-6a2b946b] rendered 95 chars CHANGED
+[mommom-place-6a2b94f5] rendered 95 chars CHANGED
+[mommom-place-6a2b9455] rendered 95 chars CHANGED
+[nol-product-phantom-40th] rendered 4783 chars CHANGED
+[daejeontour-bread-festival] rendered 4571 chars CHANGED
+[visitisland-main] rendered 1010 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1625 chars same
+[pyoungsong-event-rudolph] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-snowwhite] RENDER ERROR rendered but too little text (19 chars)
+[blog-namuac21-224427113169] rendered 4727 chars CHANGED
+[taean-halftour-apply] rendered 3078 chars CHANGED
+[seocheon-halftour-apply] rendered 1300 chars CHANGED
+[komsco-shop-cate2284] rendered 6883 chars CHANGED
+[ticketlink-product-65585] rendered 150025 chars CHANGED
+[mokwon-general-notice] rendered 1620 chars CHANGED
+[templestay-main] rendered 2612 chars CHANGED
+[hwadong-main] rendered 8148 chars CHANGED
+[bok-press-list] rendered 804 chars CHANGED
+[nol-product-26001112] rendered 3666 chars CHANGED
+[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
+[dgdr-festival] rendered 203 chars CHANGED
+[pyoungsong] RENDER ERROR rendered but too little text (19 chars)
+[djkids-musical] rendered 1618 chars CHANGED
+[djkids-notice] rendered 1023 chars CHANGED
+[dctf] rendered 1496 chars CHANGED
+[chuncheon-festival-news] rendered 866 chars CHANGED
+[chuncheon-festival-news-459539] rendered 800 chars CHANGED
+[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "
+[pyeongtaek-news-board] rendered 3291 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 6471 chars CHANGED
+[pyeongtaek-gosi] rendered 1635 chars CHANGED
+[hanbat-library-culture] rendered 2625 chars CHANGED
+[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
+[pyoungsong-event-nunkkot] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-piglets] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-sandmagic] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-stonesoup] RENDER ERROR rendered but too little text (19 chars)
+[donghae-dhdmo-program] rendered 1800 chars CHANGED
+[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
+[daejeon-okr-edu] rendered 1499 chars same
+[daejeon-okr-hanbatlib] rendered 1625 chars same
+[dsecc-programs-p2] rendered 1949 chars CHANGED
+[dsecc-programs-p3] rendered 1949 chars CHANGED
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
