@@ -406,8 +406,6 @@ https://mapi.ticketlink.co.kr/mapi/auth/validate/token
 인증에 실패하였습니다. | Authentication failed.
 https://mapi.ticketlink.co.kr/mapi/web/main/home
 CURRENT | success | success
-https://mapi.ticketlink.co.kr/mapi/ranking/genre/category/all
-뮤지컬 | 콘서트 | 연극 | 클래식·무용 | 아동·가족 | 전시 | 축제·레저 | success | success
 https://tketlink.dn.toastoven.net/frontend/locales/ko/translation.json
 로그인 | 로그아웃 | 마이 | 회원가입 | 고객센터 | 아티스트, 이벤트, 지역 검색 | 지역 | 예매 가능한 경기가 없습니다. 다음 시즌을 기다려주세요! | 인기상품 | TICKET SPOT | 바로가기 | 개인정보 처리방침 | 이용약관 | 고객센터 | 엔에이치엔링크 주식회사 | 주소 : 06043 서울특별시 강남구 강남대로 586, 제이빌딩 | 대표이사 : 왕문주 | 사업자등록번호 : 144-81-25090
  1588-7890 | membership@nhnlink.co.kr | 통신판매업 신고번호: 제 2023-서울강남-04352호 | 사업자정보확인 | 개인정보보호 책임자: 서상훈 | 티켓 구매를 위해 로그인해 주세요 | GUIDE | 서울 | 부산 | 대구 | 인천 | 광주 | 대전 | 울산 | 세종 | 경기 | 강원 | 충북 | 충남 | 전북 | 전남 | 경북 | 경남 | 제주 | 1월 | 2월 | 3월 | 4월 | 5월 | 6월 | 7월 | 8월 | 9월 | 10월 | 11월 | 12월 | <<category>>에 예매 가능한 상품이 없습니다. | <genre/>에 예매 가능한 상품이 없습니다. | 이런 상품은 어때요? | 스케쥴 | 선택한 날짜에 예매 가능한 경기가 없습니다. | <<month>>월 TICKET | TODAY | <local/> 지역에 예매 가능한 상품이 없습니다. | 경기/인천 | 충청/강원 | 대구/경북 | 부산/경남 | 광주/전라 | 마이페이지 | 예매확인/취소 | 예매/취소내역 | 예매확인/취소 | 팬클럽/멤버십 내역 | 취소표대기 신청내역 | 1:1 문의내역 | 회원 탈퇴 | 예매 및 기타 서비스 이용 내역을 확인하실 수 있습니다.<br/> 추가로 궁금한 점이 있으시면 언제든지 <a class="color_point" href="<<url>>">고객센터</a>를 이용해주세요. | 팬클럽/멤버십 내역 | 티켓링크를 통해 팬클럽이나 특정 멤버십에 가입한 내역입니다. <br> 또는, 다른 곳에서 가입한 후 선예매나 할인 등 혜택을 제공받기 위해 회원임을 인증한 내역입니다. | 팬클럽/멤버십명 | 인증/상품구매 여부 | 가입일 | 가입종료일 | 인증 | 팬클럽/멤버십 내역이 없습니다. | 회원탈퇴 | <span class="blind">Ticketlink</span>서비스탈퇴 | 티켓링크 탈퇴를 선택할 경우, 티켓링크 서비스만 탈퇴되며 PAYCO회원은 지속적으로 유지됩니다.
@@ -606,3 +604,5 @@ https://mapi.ticketlink.co.kr/mapi/web/main/home
 DEFAULT | DEFAULT | DEFAULT | DEFAULT | DEFAULT | success | success
 https://mapi.ticketlink.co.kr/mapi/planning-events/banners/main-banners
 티켓링크 기획전👋 | 3abdb384-7307-4aed-ab2f-8aa47ef94c18 | 667e19d9-bcb4-4b75-8ded-c2850b6ea875 | dfd5abb1-ae28-4ea5-bd61-867db5f1c67f | 5e0eaf92-8855-4e62-bdd2-b6cb41566007 | 2e6dba8b-828f-4216-86de-b779151c9c89 | 5123af92-546c-48fb-b56e-09d342f43b1a | 7e5ad5bd-2967-4a76-813e-8367a945dbd9 | f30f8713-1ece-436e-9ab0-e4237991fdc2 | f2093575-5446-4a71-8eff-2c2df809c95e | success | success
+https://mapi.ticketlink.co.kr/mapi/auth/validate/token
+인증에 실패하였습니다. | Authentication failed.
