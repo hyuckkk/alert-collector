@@ -1,51 +1,60 @@
-[katc-schedule] rendered 687 chars CHANGED
-[fsale-main] rendered 5531 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[gcfct-schedule] rendered 371 chars CHANGED
-[mokwon-events] rendered 948 chars CHANGED
-[science-reservation] rendered 914 chars CHANGED
-[khs-notice] rendered 309 chars same
-[expo-park] rendered 725 chars CHANGED
-[nol-upcoming-notice] rendered 17496 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 17490 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] rendered 241911 chars CHANGED
-[pyoungsong-performance] rendered 973 chars same
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[dsecc-programs] rendered 1950 chars CHANGED
-[seogu-exprn-list] rendered 2353 chars CHANGED
-[seogu-event-list] rendered 2353 chars CHANGED
-[seogu-edu-list] rendered 2359 chars CHANGED
-[daejeon-its-board] rendered 3574 chars CHANGED
-[zeropay-events] rendered 529 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 6214 chars CHANGED
-[melon-artist-songsohee] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/artist/index.htm?artistId=672059
+[hanbat-library-culture] rendered 2597 chars CHANGED
+[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[pyoungsong-event-piglets] rendered 466 chars same
+[pyoungsong-event-sandmagic] rendered 480 chars same
+[pyoungsong-event-stonesoup] rendered 317 chars same
+[donghae-dhdmo-program] rendered 1800 chars CHANGED
+[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
+[sejong-notice-greenfamily] rendered 1797 chars CHANGED
+[sejong-notice-birdwatch] rendered 1337 chars CHANGED
+[dmzforest-main] rendered 6478 chars CHANGED
+[sejong-notice-dance-free] rendered 1709 chars CHANGED
+[sejong-notice-family-magic-play] rendered 1914 chars CHANGED
+[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
 Call log:
-  - navigating to "https://ticket.melon.com/artist/index.htm?artistId=672059", waiting until "domcontentloaded"
+  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
 
-[blog-seogu-artfest-blu2sky7] rendered 5707 chars CHANGED
-[kwater-realtime-sumun] rendered 2286 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 5968 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 954 chars CHANGED
-[kmusic-calendar-2026-11] rendered 1355 chars CHANGED
-[kmusic-calendar-2026-12] rendered 1144 chars CHANGED
-[kmusic-calendar-year] rendered 5903 chars CHANGED
-[nol-product-26001112] rendered 3666 chars CHANGED
-[pyoungsong-tribe-events-api-p2] rendered 14979 chars same
-[kopis-pf297232] rendered 7859 chars same
-[yuseong-lib-lecture-12604] rendered 1523 chars CHANGED
-[yuseong-lib-lecture-list] rendered 2356 chars CHANGED
-[yuseong-round-event] rendered 1333 chars CHANGED
-[seogu-yeyak] rendered 2368 chars CHANGED
-[pyoungsong] rendered 828 chars same
-[djkids-musical] rendered 1618 chars CHANGED
-[djkids-notice] rendered 1023 chars CHANGED
-[dctf] rendered 1496 chars same
-[kopis-daejeon-kids] rendered 30525 chars CHANGED
-[kwater-realtime-multidam] rendered 10503 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 149726 chars CHANGED
-[gongjeon-kids] rendered 482 chars CHANGED
-[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
-[mnd-main] rendered 17304 chars CHANGED
-[pyeongtaek-gosi] rendered 1635 chars CHANGED
+[woorisb-tok7-product] rendered 2797 chars CHANGED
+[mommom-sandmagic-a] rendered 2326 chars CHANGED
+[mommom-sandmagic-b] rendered 84 chars CHANGED
+[sejong-notice-imnansu-play] rendered 867 chars CHANGED
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[andong-halftour] rendered 2486 chars CHANGED
+[kfe-main] rendered 3588 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4510 chars CHANGED
+[blog-dooglami-224434696671] rendered 5047 chars CHANGED
+[dsecc-programs-p2] rendered 1950 chars CHANGED
+[dsecc-programs-p3] rendered 1950 chars CHANGED
+[mommom-place-6a868bff] rendered 95 chars CHANGED
+[mommom-place-6a2b946b] rendered 84 chars CHANGED
+[mommom-place-6a2b94f5] rendered 84 chars CHANGED
+[mommom-place-6a2b9455] rendered 95 chars CHANGED
+[nol-product-phantom-40th] rendered 4784 chars CHANGED
+[daejeontour-bread-festival] rendered 4597 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3283 chars CHANGED
+[blog-dooglami-224433357728] rendered 5237 chars CHANGED
+[yuseong-cultprfr-list] rendered 634 chars CHANGED
+[nol-family] rendered 3534 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[oworld-notice] rendered 1777 chars CHANGED
+[baekje-schedule] rendered 1751 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[chuncheon-festival-news] rendered 866 chars CHANGED
+[chuncheon-festival-news-459539] rendered 800 chars CHANGED
+[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
+
+[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "
+[pyeongtaek-news-board] rendered 3293 chars CHANGED
+[daejeon-okr-edu] rendered 1499 chars same
+[daejeon-okr-hanbatlib] rendered 1621 chars same
+[yangyang-cafe-balloon-15331] rendered 4929 chars CHANGED
+[komsco-shop-medal] rendered 7385 chars CHANGED
+[komsco-shop-coin] rendered 6799 chars CHANGED
+[komsco-shop-bar] rendered 6839 chars CHANGED
