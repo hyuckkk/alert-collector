@@ -1,53 +1,38 @@
-[daejeon-its-board] rendered 3574 chars CHANGED
-[zeropay-events] rendered 529 chars CHANGED
-[chuncheon-festival-news] rendered 866 chars CHANGED
-[chuncheon-festival-news-459539] rendered 800 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
-
-[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_RESET at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "d
-[science-edu-reservation] rendered 2107 chars CHANGED
-[sejong-notice] rendered 2306 chars CHANGED
-[bok-commemorative-coin-news] rendered 718 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 5661 chars CHANGED
-[sejong-notice-hangeulday-book] rendered 1168 chars CHANGED
-[nol-notice-10111] rendered 17407 chars CHANGED
-[naver-entertain-018-0006379428] rendered 45382 chars CHANGED
-[melon-artist-songsohee] rendered 2042 chars CHANGED
-[interpark-artist-leejuck] rendered 10105 chars CHANGED
-[yctf-show] rendered 502 chars CHANGED
-[sejong-notice-science-concert] rendered 1015 chars CHANGED
-[sejong-notice-science-jiphyeonjeon] rendered 1170 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31287 chars CHANGED
-[andong-halftour] rendered 2486 chars CHANGED
-[kfe-main] rendered 6111 chars CHANGED
-[blog-tjrudska82-224434527430] rendered 4475 chars CHANGED
-[blog-dooglami-224434696671] rendered 5057 chars CHANGED
-[dsecc-programs-p2] rendered 1949 chars CHANGED
-[dsecc-programs-p3] rendered 1949 chars CHANGED
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 95 chars CHANGED
-[mommom-place-6a2b94f5] rendered 95 chars CHANGED
-[mommom-place-6a2b9455] rendered 95 chars CHANGED
-[nol-product-phantom-40th] rendered 4785 chars CHANGED
-[daejeontour-bread-festival] rendered 4918 chars CHANGED
-[visitisland-main] rendered 1010 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1626 chars same
-[yes24-genre-children] rendered 196 chars CHANGED
-[pyoungsong-event-feed] rendered 34079 chars same
-[pyoungsong-monthly] rendered 634 chars same
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 149537 chars same
-[pyoungsong-event-list] rendered 293 chars same
-[docomomokorea-main] rendered 293 chars same
-[mcst-culture-71983] rendered 1180 chars CHANGED
-[aircanada-korea] rendered 22821 chars CHANGED
-[aircanada-kr-so-hub] rendered 2874 chars CHANGED
-[aircanada-kr-kbcard] rendered 27047 chars CHANGED
-[aircanada-kr-moretotravel] rendered 3231 chars CHANGED
-[mokpo-harborfestival-main] rendered 8825 chars CHANGED
-[blog-seogu-artfest-fringe-cvovz] rendered 5388 chars CHANGED
+[pyoungsong-tribe-events-api-p2] rendered 14979 chars CHANGED
+[kopis-pf297232] rendered 7859 chars same
+[yuseong-cultprfr-list] rendered 634 chars CHANGED
+[kopis-daejeon-kids] rendered 30525 chars same
+[kwater-realtime-multidam] rendered 10532 chars CHANGED
+[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/22471']' timed out after 75 seconds
+[gongjeon-kids] rendered 482 chars CHANGED
+[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
+[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[pyeongtaek-news-board] rendered 3291 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 6367 chars CHANGED
+[sejong-notice-greenfamily] rendered 1797 chars CHANGED
+[sejong-notice-birdwatch] rendered 1337 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 4646 chars CHANGED
+[komsco-shop-medal] rendered 7385 chars CHANGED
+[komsco-shop-coin] rendered 6799 chars CHANGED
+[komsco-shop-bar] rendered 6839 chars CHANGED
+[komsco-shop-card] rendered 7368 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
+[cnu-jsh-schedule] rendered 990 chars same
+[hanbat-gongdong-science-form] rendered 1854 chars CHANGED
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[mommom-place-6a7d51b7] rendered 95 chars CHANGED
+[ticketlink-notice-65862] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[pyoungsong-event-rudolph] rendered 424 chars same
+[pyoungsong-event-snowwhite] rendered 413 chars same
+[blog-namuac21-224427113169] rendered 4727 chars CHANGED
+[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[taean-halftour-apply] rendered 3078 chars CHANGED
+[seocheon-halftour-apply] rendered 1300 chars CHANGED
+[komsco-shop-cate2284] rendered 6883 chars CHANGED
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[ticketlink-product-65585] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/65585']' timed out after 75 seconds
+[yes24-perf-60278] rendered 198 chars CHANGED
+[chuncheon-notice-announcement] rendered 3540 chars CHANGED
+[yuseong-round-event] rendered 1329 chars CHANGED
+[seogu-yeyak] rendered 2368 chars CHANGED
