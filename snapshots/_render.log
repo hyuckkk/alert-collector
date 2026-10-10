@@ -1,51 +1,46 @@
-[chuncheon-festival-news-459539] rendered 800 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
-
-[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "
-[pyeongtaek-news-board] rendered 3292 chars CHANGED
-[science-edu-reservation] rendered 2107 chars CHANGED
-[sejong-notice] rendered 2308 chars CHANGED
-[bok-commemorative-coin-news] rendered 718 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 5549 chars CHANGED
-[sejong-notice-hangeulday-book] rendered 1168 chars CHANGED
-[nol-notice-10111] rendered 17458 chars CHANGED
-[naver-entertain-018-0006379428] rendered 24068 chars CHANGED
-[melon-artist-songsohee] rendered 2082 chars CHANGED
-[interpark-artist-leejuck] rendered 10105 chars CHANGED
-[yctf-show] rendered 502 chars CHANGED
-[sejong-notice-science-concert] rendered 1015 chars CHANGED
-[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31297 chars CHANGED
-[cnu-jsh-schedule-178] rendered 3165 chars CHANGED
-[yes24-perf-60278] rendered 197 chars CHANGED
-[chuncheon-notice-announcement] rendered 3540 chars CHANGED
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[chuncheon-municipal-news] rendered 1804 chars CHANGED
-[templestay-main] rendered 2612 chars CHANGED
-[hwadong-main] rendered 8148 chars CHANGED
-[nol-product-26012487] rendered 1439 chars CHANGED
-[hanbat-library-media-friend] rendered 841 chars CHANGED
-[kopis-place-pyoungsong-small] rendered 10127 chars same
-[blog-seogu-artfest-blu2sky7] rendered 6165 chars CHANGED
-[kwater-realtime-sumun] rendered 2293 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 5968 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 954 chars CHANGED
-[kmusic-calendar-2026-11] rendered 1355 chars CHANGED
-[kmusic-calendar-2026-12] rendered 1144 chars CHANGED
-[kmusic-calendar-year] rendered 5903 chars CHANGED
-[nol-product-26001112] rendered 3666 chars CHANGED
-[pyoungsong-tribe-events-api-p2] rendered 14979 chars same
-[kopis-pf297232] rendered 7859 chars same
-[yuseong-lib-lecture-12604] rendered 1523 chars CHANGED
-[yuseong-lib-lecture-list] rendered 2356 chars CHANGED
-[yuseong-cultprfr-list] rendered 634 chars CHANGED
-[nol-family] rendered 3538 chars CHANGED
-[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[oworld-notice] rendered 1777 chars CHANGED
-[baekje-schedule] rendered 1751 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
+[woosongart-schedule] rendered 590 chars CHANGED
+[pyeongtaek-main] rendered 25731 chars CHANGED
+[fsale-main] rendered 4903 chars CHANGED
+[expo-park] rendered 727 chars CHANGED
+[nol-upcoming-notice] rendered 17482 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 17697 chars CHANGED
+[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
+[ticketlink-notice-mobile] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://m.ticketlink.co.kr/help/notice']' timed out after 75 seconds
+[pyoungsong-performance] rendered 973 chars same
+[kopis-time-beyond-daejeon] rendered 8087 chars same
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[dsecc-programs] rendered 1950 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 6367 chars CHANGED
+[sejong-notice-greenfamily] rendered 1797 chars CHANGED
+[sejong-notice-birdwatch] rendered 1337 chars CHANGED
+[dmzforest-main] rendered 6478 chars CHANGED
+[sejong-notice-dance-free] rendered 1709 chars CHANGED
+[sejong-notice-family-magic-play] rendered 1914 chars CHANGED
+[melon-christmas-carol-212575] rendered 1935 chars CHANGED
+[mommom-sandmagic-a] rendered 24826 chars CHANGED
+[mommom-sandmagic-b] rendered 95 chars CHANGED
+[sejong-notice-imnansu-play] rendered 867 chars CHANGED
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[andong-halftour] rendered 2486 chars CHANGED
+[kfe-main] rendered 6111 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4528 chars CHANGED
+[blog-dooglami-224434696671] rendered 4679 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3285 chars CHANGED
+[blog-dooglami-224433357728] rendered 5240 chars CHANGED
+[ticketlink-notice-65862] rendered 180672 chars CHANGED
+[katc-schedule] rendered 688 chars CHANGED
+[mnd-main] rendered 17304 chars CHANGED
+[fsale-onnuri] rendered 361 chars same
+[gcfct-schedule] rendered 372 chars CHANGED
+[mokwon-events] rendered 948 chars CHANGED
+[science-reservation] rendered 1061 chars CHANGED
+[khs-notice] rendered 309 chars same
+[seogu-exprn-list] rendered 2355 chars CHANGED
+[seogu-event-list] rendered 2355 chars CHANGED
+[seogu-edu-list] rendered 2361 chars CHANGED
+[daejeon-its-board] rendered 3574 chars CHANGED
+[zeropay-events] rendered 529 chars CHANGED
+[pyeongtaek-gosi] rendered 1635 chars CHANGED
+[hanbat-library-culture] rendered 2597 chars CHANGED
+[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
