@@ -1,59 +1,58 @@
-[nol-family] rendered 3823 chars CHANGED
-[nol-upcoming-notice] rendered 17433 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 17447 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] rendered 261983 chars CHANGED
-[pyoungsong-performance] rendered 973 chars same
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[bok-commemorative-coin-news] rendered 718 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 5562 chars CHANGED
-[sejong-notice-hangeulday-book] rendered 1168 chars CHANGED
-[nol-notice-10111] rendered 17474 chars CHANGED
-[naver-entertain-018-0006379428] rendered 45568 chars CHANGED
-[interpark-artist-leejuck] rendered 10105 chars CHANGED
-[yctf-show] rendered 502 chars CHANGED
-[sejong-notice-science-concert] rendered 1015 chars CHANGED
-[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] RENDER ERROR k (most recent call last):
-  File "/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py", line 181, in <module>
-    print(json.dumps(out, ensure_ascii=False), flush=True)
-UnicodeEncodeError: 'utf-8' codec can't encode character '\ud83e' in position 14064: surrogates not allowed
+[geumriver-dam] rendered 4513 chars CHANGED
+[woosongart-schedule] rendered 590 chars CHANGED
+[pyeongtaek-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.pyeongtaek.go.kr/", waiting until "domcontentloaded"
 
-[hanbat-gongdong-science-form] rendered 1854 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 7154 chars CHANGED
-[cnu-jsh-schedule-178] rendered 3165 chars CHANGED
-[dmzforest-main] rendered 6479 chars CHANGED
-[sejong-notice-dance-free] rendered 1709 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[melon-christmas-carol-212575] rendered 1863 chars CHANGED
-[woorisb-tok7-product] rendered 2797 chars CHANGED
-[mommom-sandmagic-a] rendered 2322 chars CHANGED
-[mommom-sandmagic-b] rendered 95 chars CHANGED
-[sejong-notice-imnansu-play] rendered 867 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
-[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
-[andong-halftour] rendered 2486 chars CHANGED
-[kfe-main] rendered 3588 chars CHANGED
-[blog-tjrudska82-224434527430] rendered 4482 chars CHANGED
-[blog-dooglami-224434696671] rendered 4669 chars CHANGED
-[dsecc-programs-p2] rendered 1950 chars CHANGED
-[dsecc-programs-p3] rendered 1950 chars CHANGED
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 95 chars CHANGED
-[mommom-place-6a2b94f5] rendered 84 chars CHANGED
-[mommom-place-6a2b9455] rendered 84 chars CHANGED
-[nol-product-phantom-40th] rendered 4784 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 954 chars CHANGED
-[kmusic-calendar-2026-11] rendered 1466 chars CHANGED
-[kmusic-calendar-2026-12] rendered 1144 chars CHANGED
-[kmusic-calendar-year] rendered 6022 chars CHANGED
-[nol-product-26001112] rendered 3666 chars CHANGED
-[pyoungsong-tribe-events-api-p2] rendered 14979 chars same
-[kopis-pf297232] rendered 7859 chars same
-[yuseong-lib-lecture-12604] rendered 1523 chars CHANGED
-[yuseong-lib-lecture-list] rendered 2356 chars CHANGED
-[seogu-yeyak] rendered 2368 chars CHANGED
-[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[oworld-notice] rendered 1777 chars same
-[baekje-schedule] rendered 1729 chars CHANGED
+[kopis-daejeon-kids] rendered 30525 chars same
+[kwater-realtime-multidam] rendered 2012 chars CHANGED
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[dsecc-programs] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://dsecc.djsch.kr/djsecc/lm/appl/lectList.do?mi=1115", waiting until "domcontentloaded"
+
+[seogu-exprn-list] rendered 2353 chars CHANGED
+[seogu-event-list] rendered 2353 chars CHANGED
+[seogu-edu-list] rendered 2359 chars CHANGED
+[daejeon-its-board] rendered 3574 chars CHANGED
+[zeropay-events] rendered 529 chars CHANGED
+[chuncheon-festival-news] rendered 866 chars CHANGED
+[daejeontour-bread-festival] rendered 4946 chars CHANGED
+[visitisland-main] rendered 1010 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1621 chars same
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[mommom-place-6a7d51b7] rendered 84 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3285 chars CHANGED
+[blog-dooglami-224433357728] rendered 4891 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] rendered 34079 chars same
+[pyoungsong-monthly] rendered 634 chars same
+[pyoungsong-wp-event-api] rendered 208 chars same
+[pyoungsong-tribe-events-api] rendered 149537 chars same
+[pyoungsong-event-list] rendered 293 chars same
+[ticketlink-notice-65862] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[docomomokorea-main] rendered 293 chars same
+[pyoungsong-event-rudolph] rendered 424 chars same
+[pyoungsong-event-snowwhite] rendered 413 chars same
+[blog-namuac21-224427113169] rendered 4727 chars CHANGED
+[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[taean-halftour-apply] rendered 3078 chars CHANGED
+[seocheon-halftour-apply] rendered 1300 chars CHANGED
+[komsco-shop-cate2284] rendered 6883 chars CHANGED
+[mcst-culture-71983] rendered 1180 chars CHANGED
+[aircanada-korea] rendered 22911 chars CHANGED
+[aircanada-kr-so-hub] rendered 2867 chars CHANGED
+[aircanada-kr-kbcard] rendered 26798 chars CHANGED
+[bok-press-list] rendered 804 chars CHANGED
+[blog-daedeokgu-224432911721] rendered 2610 chars CHANGED
+[blog-namuac21-224424725714] rendered 4560 chars CHANGED
+[blog-youneed4613-224436099074] rendered 3089 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
+[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
+
+[kopis-pf302030] rendered 7807 chars same
+[blog-gotaekmusicfesta-224428285877] rendered 2924 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3651 chars CHANGED
