@@ -1,8 +1,24 @@
 {
- "updated": "2026-10-12T04:08:10+09:00",
+ "updated": "2026-10-12T06:08:09+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "[공연] 2026 대전무악연희축제, ‘대전의 혼불’ 주제 - 굿모닝충청",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9icXRRdEFmQUphcUU3dVd2cTBzcVRIU1FsZHVZc29Xbl9VcnZjb09Rdmt3ZF9PUWF6eFRSUU1EN0dzQnIxNWtOODBJbjJ0cDFxdEZlb3FPMjJEMERLVWFmdUtIOUJSX1RQay03b2t3R3h6dw?oc=5",
+   "pub": "Sun, 11 Oct 2026 19:39:14 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 공연 무료 예약",
+   "first_seen": "2026-10-12T06:08:09+09:00"
+  },
+  {
+   "title": "천안흥타령춤축제 2026 축제 현장을 가다. - 대전시티저널",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fMVA3TDNFUkNIbEREMkVwRGhyaktYSnpEWXdDYlRCWmRrWXFvRnIyMEVvXzVraW8yb3EyV2VnWlViUWNrWEx2dm5hMUlhRGdKVkZFMThaVkhaOXlIYUx5MndUV2djZw?oc=5",
+   "pub": "Tue, 06 Oct 2026 01:22:00 GMT",
+   "engine": "gnews",
+   "query": "대전 캐릭터 공연",
+   "first_seen": "2026-10-12T06:08:09+09:00"
+  },
   {
    "title": "꽃바위문화관, 어린이와 가족을 위한 이색 퍼포먼스 공연 성황리 개최 - 뉴스21일간",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SZUVicjdNQkdsX20xMVNPU3NWZGh5MkppNGZubVE2NlRDS2tvZkRFbTl6M2VaWEJ6VHg4WkEzaUFoTDdpZlFrUm9nNzdXM28?oc=5",
@@ -21095,25 +21111,13 @@
    "engine": "naver_blog",
    "query": "대전 전래동화 뮤지컬",
    "first_seen": "2026-10-11T03:07:58+09:00"
-  },
-  {
-   "title": "단지 전래동화 '손톱 먹은 들쥐' 설화처럼 나라의 주인만 바뀔 뿐이다. 이게 누군가의 관점에 따라서는 망한다고 표현할 수도 있겠지만 국가 자체는 존속될 것이다. 대국의 인구 0.5... 그때는 조국 같은 자유진영이 북국을 대하듯 외세의 개입 가능성도 세계대전이 아닌 이상 사실상 없을 것이다. 그래서 나는 소국의 친구들에게 도망 칠 수 있을 때 도망치라고 말",
-   "url": "https://blog.naver.com/john_seahmat/224436474615",
-   "engine": "naver_blog",
-   "query": "대전 전래동화 뮤지컬",
-   "first_seen": "2026-10-11T03:07:58+09:00"
-  },
-  {
-   "title": "대전 유성구 지족동에 위치한 소중한하루 주야간보호센터입니다. 부모님을 모실 주간보호센터를 알아보고 계신가요? 혹시 우리 부모님께서 이런 말씀을 하시지는 않으셨나요? \"사람... 또한 전래동화, 인지학습지, 음악활동, 미술활동, 만들기와 게임 등 즐겁게 참여하실 수 있는 프로그램도 준비하고 있습니다. 이러한 활동은 어르신의 근력과 균형감각, 인지기능과... ",
-   "url": "https://blog.naver.com/sjhharu/224436259863",
-   "engine": "naver_blog",
-   "query": "대전 전래동화 뮤지컬",
-   "first_seen": "2026-10-11T03:07:58+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }
