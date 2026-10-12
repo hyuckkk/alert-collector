@@ -1,8 +1,24 @@
 {
- "updated": "2026-10-12T17:08:02+09:00",
+ "updated": "2026-10-12T18:05:19+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 3,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "거장과 시민이 빚은 하모니, 대전의 가을을 물들이다 - 충청투데이",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQeEc2ZWl0SUxSam1iYUg2ZDVWX0pfbHQ5OUtpOWhtX0ZZRjVoM2k1cUdsZUtWU3A3dzlfWDVwbnZVcWhwMXd3UFNkUUVTanlzUF9PbG9RM1pIMDdkY2ZtdTdMcEU1NHlrQmZTbkNn?oc=5",
+   "pub": "Mon, 12 Oct 2026 07:19:27 GMT",
+   "engine": "gnews",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-10-12T18:05:19+09:00"
+  },
+  {
+   "title": "대전 유성구, '유성독서대전' 1만6000여 명 참여… 가을 독서축제 인기 - 투데이플러스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yOEZzNk5nTjl0Tmp6SGZUS1RhV09QQVkzdzVKTW5qbzV4Szc4NlFhSk1iREZoQS1vU1BCaVJfRDJYM1VYcEtuMWRBUkYwUVNGRF91Xzk4THpOazJSNlBtSG1LT1htU0xK?oc=5",
+   "pub": "Mon, 12 Oct 2026 01:27:00 GMT",
+   "engine": "gnews",
+   "query": "대전 축제 어린이 인형극",
+   "first_seen": "2026-10-12T18:05:19+09:00"
+  },
   {
    "title": "5월 국립대구과학관 광장에서 열린 'YES! 키즈존’ 1회차 행사 전경. /최상진기자 100대 피아노의 선율과 현대미술의 여운이 채...아이들의 상상이 현실이 되는 하루, 판타지아 랜드’를 주제로 공연과 참여형 놀이를 선보인다. 어린이들이 직접 도전하는 ‘용기...",
    "url": "http://v.daum.net/v/20261012164930506",
@@ -21112,27 +21128,13 @@
    "engine": "naver_all",
    "query": "대전 버블쇼 인형극 샌드아트",
    "first_seen": "2026-10-11T14:38:08+09:00"
-  },
-  {
-   "title": "2021.10.22.10월 30일...장난감 나눔 및 교환 장터, 행복한 문화 체험 한마당 랜선 문화공연-버블쇼, 인형극, 샌드아트 진행, 캘리그라피 및 캐리커처 체험 대전시 육아종합지원센터가 오는 30일 어린이장난감도서관‘행복나눔장터’ 행사를 개최한다. '행복나눔장터’는 가정에서 사용하지 않는 장난감과 본 센터 대여 장난감 중 부속품 분실 및 단순 부품 ",
-   "url": "https://www.newstnt.com/news/articleView.html?idxno=108705",
-   "engine": "naver_web",
-   "query": "대전 버블쇼 인형극 샌드아트",
-   "first_seen": "2026-10-11T14:38:08+09:00"
-  },
-  {
-   "title": "주민문화나눔공연 샌드아트 X 버블쇼에 지역주민 여러분들을 초대합니다. 사전접수하신 분에 한해 공연 관람이 가능하오니 참고하시기 바랍니다!새 창 열림",
-   "url": "https://www.hwelfare.or.kr/bbs/board.php?bo_table=notice&wr_id=1965",
-   "engine": "naver_web",
-   "query": "대전 버블쇼 인형극 샌드아트",
-   "first_seen": "2026-10-11T14:38:08+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }
