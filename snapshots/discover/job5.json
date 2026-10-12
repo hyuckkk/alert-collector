@@ -1,8 +1,616 @@
 {
- "updated": "2026-10-12T14:08:00+09:00",
+ "updated": "2026-10-12T15:07:59+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 692,
+ "new_this_run": 78,
  "hits": [
+  {
+   "title": "양주시, 30일 드론봇 페스티벌 개최…11월 1일까지 - 수원인터넷뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1lOUF1QXQyQU9WcjhYTU54dXpqSGd2TkdVXy1sNU5rdXpqdTAycjA3aDNVUms3NE4zWGpoZEpZTWhGSFU?oc=5",
+   "pub": "Tue, 06 Oct 2026 01:45:00 GMT",
+   "engine": "gnews",
+   "query": "헬기 탑승 체험 모집",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "평화의 가치를 체감할 수 있도록 했다. 호국·군사 콘텐츠도 다채롭다. 칠곡보 오토캠핑장 일원에는 K-2 전차, K-9 자주포, 수리온(KUH-1), 아파치(AH-64E), 패트리어트(M903) 등 군 핵심 장비가 전시된다. 장갑차 탑승, 마일즈 장비, 현궁 모의사격, 지뢰탐지기...",
+   "url": "http://v.daum.net/v/20261011112557404",
+   "engine": "daum_news",
+   "query": "수리온 탑승",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "행진'을 통해 참전용사가 직접 참여하고 행사의 주인공이 되는 데 중점을 뒀다. 오는 10일에는 춘천대첩 격전지 수리온 탑승 등 장비 전시 및 탑승 체험, 춘천대첩 전승기념 및 고(故) 심일 소령 추모식, 참전용사 위로연, 국방부 의장대 시범 등 다양한 행사가...",
+   "url": "http://v.daum.net/v/20261008181802192",
+   "engine": "daum_news",
+   "query": "수리온 탑승",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "양주 드론봇 페스티벌..수리온헬기 탑승·드론 조종 - 일간경기",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oWFZxV0ZubjczQm5oNElRQUJCQlRaem01VzcwS0E0aWR4NE1tblRHckFacnVDN1phcFpYUlRlbDBTTFN0RUY3WlFyUzdwb3ZVM2txSlh1czB4bmFrbjJPOWtSeFZOWTFl?oc=5",
+   "pub": "Tue, 06 Oct 2026 04:47:36 GMT",
+   "engine": "gnews",
+   "query": "수리온 탑승",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "\"수리온 탑승·장갑차 체험·드론쇼까지\" 양주시, '드론봇 페스티벌' 30일 개막 - 위키트리",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RSGhGVk9DLWdVR3poVE5ZWW1Qd0RnQXRfZWlFMk5ZcmdTbU9KSFdVSkFMdlY3cFNsNnNhbWJEZkZORmkyYWh3eFBtS2g2aFFYaFl3YWd3?oc=5",
+   "pub": "Tue, 06 Oct 2026 03:20:00 GMT",
+   "engine": "gnews",
+   "query": "수리온 탑승",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "“가납리비행장서 펼쳐지는 미래 전력”… 양주시, ‘2026 드론봇 페스티벌’ 30일 개막 - 브릿지경제",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVYUhpbjc1Zmp0Q1A0WWY5bGtha3VRU3loSjhibWxXSzRYUmlXMmFPWkxVN1huVU05cnRGemYySTJ0Z1NYX0N3YjVMby0zdng2ZnQ1X1VfNUlQUQ?oc=5",
+   "pub": "Tue, 06 Oct 2026 23:30:00 GMT",
+   "engine": "gnews",
+   "query": "수리온 탑승",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "양주 드론봇 페스티벌 30일 개막…드론쇼·불꽃놀이 펼쳐진다 - 머니투데이 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UQklnQUs2d25teENpbWtmM3RmT0M5aXBZbE4xZnVsTXpWT1pHeFRqcmVpRnhvZlhUM0REdmppVDlPMi1BaHp4cXhOMFdENTVJdW5FTTJoSWJoZU1wbHg1dC1EM0IwZTdJZFHSAW9BVV95cUxPdTAxM1NjMGRPVjh4SDJ2YkxCMzduMW1Uc1lWNTA1bDVGYnNVek05U2RTUXZWazF5b0VWM3FDbWF5dnhXb2tuZk1VaTRqZnlMekdMeGpwR3FYX05Tb0h2LWgwXzZRUkVVSElYQVFwZGM?oc=5",
+   "pub": "Tue, 06 Oct 2026 05:07:03 GMT",
+   "engine": "gnews",
+   "query": "수리온 탑승",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "양주시, '2026 경기·양주·지작사 드론봇 페스티벌' 개최 - 뉴스핌",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NQ2xzcGtlYzdMYzZYUmJfQks1T1JuOWRicEM3cE9OVXU0S3pRUlpLRlhxSnZLTUdRcjFMSWhvQXdFS0gxSEJGTWhCZExVTndCc0U2b1NrX0dsZHlo?oc=5",
+   "pub": "Tue, 06 Oct 2026 04:39:00 GMT",
+   "engine": "gnews",
+   "query": "수리온 탑승",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "\"가을밤 수놓을 드론 라이트쇼\"… 제6회 '드론봇 페스티벌' 30일 개막 - 드론매거진 뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KY3JqVnZYd2lpNy01d2NLc1VhdWZGMnBaSTZ1ejJIYnJkTUc0aGI5VEw0bHdtV3ppWFY1aDZiQ2M0TWM0NjdELThxY05XNG00MGw5N0pIT3BKdGJDQXFobE02Q0U?oc=5",
+   "pub": "Fri, 09 Oct 2026 07:00:00 GMT",
+   "engine": "gnews",
+   "query": "수리온 탑승",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "양주시, 30일부터 사흘간 ‘드론봇 페스티벌’…드론라이트쇼·수리온 체험 - 여성종합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYbnRkNmpaWlhxUE5Bbk1EOVFlVVNMOExKVFlWRG1QeVpvaWJNRHdlUXlQdzkzN3dBa1RITHpBeXRNYWZlSmZMXzZPdVhwTGpZZ2c4RHFzWTl4QQ?oc=5",
+   "pub": "Tue, 06 Oct 2026 04:03:30 GMT",
+   "engine": "gnews",
+   "query": "수리온 탑승",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "첨단 드론·로봇의 대축제… ‘경기·양주·지작사 드론봇 페스티벌’ 30일 개막 - 경기일보",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9taHRVSDQ1djNycUpfaTE3algwRkNxTU5zZzRheEhrU0VLRVZsTW1qaGlMOGJfb0t6Y05wMktJWC14TkxNdEtnQXU3QXBRRFlRQWtJb1pRaUlDVXM?oc=5",
+   "pub": "Tue, 06 Oct 2026 06:14:00 GMT",
+   "engine": "gnews",
+   "query": "수리온 탑승",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "양주시, 30일 드론봇 페스티벌 개최…11월 1일까지 > 뉴스 - 더코리아",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94SFdqbTlvRGtJcWt1MG5CbktBN3VnU2d0ZE95UWxObjlMU3oxY2o1aWF1cWloN0tublFickxQcEJUOGF3RU5JRmtnb3c5c0hxcDMxb0RGSTFSWnZRZWswUldzZy1CWHJLX3Jkc3hSQmI?oc=5",
+   "pub": "Tue, 06 Oct 2026 04:35:00 GMT",
+   "engine": "gnews",
+   "query": "수리온 탑승",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "양주서 30일부터 ‘드론봇 페스티벌’…드론쇼·군 시범 한자리에 - 신아일보",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOS0YzWW1MQXRRY0dFdGhlY3dQTVlaVTJSWl92bFlkcWhsRkhxX180NHVGS282cGdWZXVLcTJPWm9TN1U4OWExbVVJRWZ4X0tGM1ItU3hiRjVoUjNLOWUtZXJ0UVF5SFQwVXFPekVWMTQ?oc=5",
+   "pub": "Tue, 06 Oct 2026 03:19:56 GMT",
+   "engine": "gnews",
+   "query": "수리온 탑승",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "춘천지구전투 76주년 전승기념식 개최…참전용사 등 400여명 참석 - 신아일보",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuclFvVlotU3Mzb01BdzRHVlBlVHl6U1JkejY0UTRXQWRhNFN2QlFOWk5Zd0Q2akV5NkFoZVNvTE42Q1o1Q1hPWHRONnRVNjk5ZjNrSFBXRUVkZFFlZV9sVEVZay13N1JDY3pkcUJGQkk?oc=5",
+   "pub": "Sat, 10 Oct 2026 23:35:05 GMT",
+   "engine": "gnews",
+   "query": "수리온 탑승",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "양주시,'드론과 로봇의 향연' 2026 경기·양주·지작사 드론봇 페스티벌 개막 - 국제뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MTWw4TVVibTZDRnIxc3FzRlFLYlNGMFhGcE1XalZOeFNDWmhJeEdCbGYwMkRYS3dnbnZ2VXBEaUIycDFCM2xYVlVDZ2hPYXA0TnVET09fNzhtdFJOY3ZhWUg5ZnVVZWgyaUxHamdB?oc=5",
+   "pub": "Tue, 06 Oct 2026 01:38:17 GMT",
+   "engine": "gnews",
+   "query": "수리온 탑승",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "쉬프트’ △함정을 설치한 뒤 원하는 순간 폭발시키는 ‘문스네어’ 등 같은 스킬도 사용 순서와 타이밍에 따라 전략적인 전투가 가능하다. 월영사의 배경지인 신규 영지 ‘아벨라’가 열린다. △성장 버프 획득 사냥터 ‘황혼의 산맥’ △생존력 강화 사냥터 ‘환영...",
+   "url": "http://v.daum.net/v/20261007110016635",
+   "engine": "daum_news",
+   "query": "함정 공개 행사",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "광양시민의 날 맞아 해군 ‘광양함’ 공개…8일 중마일반부두서 함정 견학 - 해사신문",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CaE9aVEZkekQtQkNMbGY0STRuQzVRWTgteWJtOXExN25jZHZHZzdQYTFMaFdCbk9GR0JqeWRZQU4ySGx1OWY0eVJJc3pDLUtnR3JLSE5QOU5nZk9FS21BSWdyeVpOWVFBYmFn?oc=5",
+   "pub": "Wed, 07 Oct 2026 04:18:39 GMT",
+   "engine": "gnews",
+   "query": "함정 공개 행사",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "광양시, '광양함 함정 공개행사' 개최 - 한국뉴스통신",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FOXRiS094WUxuR1F3VGhJYXlRcUVvRVUyR0ZxM0NIOUExVERwaV91dWdKQ2dhWnBBQTF5YjN4QTRWdGFrZlBKNXlYNEE2Q1Vtc0FlaEJlRWsybmxMQ2tKZDFGbWwzREE?oc=5",
+   "pub": "Sat, 10 Oct 2026 14:47:07 GMT",
+   "engine": "gnews",
+   "query": "함정 공개 행사",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "광양함, 시민 대상 함정 공개행사 성황리에 마무리 - 웹이코노미",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBERWdxR3UtVkMzem1aMUhPZlVlNEVKQVp3ZThpZXFOano0RE02U0FybG5PSTNRRXAySjlRTzA1NUlPcWNxbFE0SlpIZFlLelhHS3hick9xMGNvaUJUM1dnY1VxRkhsT1BaYnhpY3hrNnZSQQ?oc=5",
+   "pub": "Thu, 08 Oct 2026 10:10:49 GMT",
+   "engine": "gnews",
+   "query": "함정 공개 행사",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "광양시 직장운동경기부 볼링팀, 시민의 날 맞아 재능기부 펼쳐 > 뉴스 - 더코리아",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tc0dhalMzS1ZJZ1h5dmhRNlJ0SkNMaVB5UDg3M0wwN1ZHV29KUmJQWUMtRFJBWC12VURSSzJ0a3VIZERZcGFnS05oVW0yakFhaE81MUpXZFQ4OHpQWHVyMEFrSEctWEllTWtreDk4a2o?oc=5",
+   "pub": "Thu, 08 Oct 2026 13:35:00 GMT",
+   "engine": "gnews",
+   "query": "함정 공개 행사",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "광양시-포스코 상생 결실 ‘파노라마 워크’ 웅장한 위용 드러내 - 톡톡뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00SG12NFZaTFV3c2NQWDRhSmMzQ245dFlVanJVQ0hpQnZmeDBRbjJhTy01TXd1YVZoR3pwMlNSWjcwUVV6TnFpQklrUG10T2xhUFdKU2NQNk5adnh1UHc?oc=5",
+   "pub": "Thu, 08 Oct 2026 09:24:00 GMT",
+   "engine": "gnews",
+   "query": "함정 공개 행사",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "'극장 결승골+이달의 선수상' 포텐 터진 추상훈 - www.gmitoday.com",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPeXUzQXNCanJDSjZDa2pldTRFanlDOV9Fbk9HM0dTUE9aazUtNXV3UVVpcjU3d3dZZ1hTc19OUEhZZTdROFlwUE44NVplM3c3aWtQenhIWl9TTng3VkdSNUdpcVRkNTFuSXc?oc=5",
+   "pub": "Sat, 10 Oct 2026 20:56:15 GMT",
+   "engine": "gnews",
+   "query": "함정 공개 행사",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "하지 않는다는 생각을 갖고 있는 것 같다”며 “원자력추진잠수함이나 우라늄 농축 문제 등 안보 관련 합의도 진전이 늦어지고 있다...것 같다”며 “정동영 장관의 구성 발언도 비공개 정보를 먼저 공개한 것이냐 아니냐를 두고 견해차가 있다”고 했다. 이어...",
+   "url": "http://v.daum.net/v/20261012150243101",
+   "engine": "daum_news",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "[포착] 슈퍼호넷 전투기, 이란 잠수함 잡았다?…복귀 기체에 ‘킬마크’ - 나우뉴스",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kaHVrTWdYNDNGMWQ1bzk0cFhPLVRuUnRMNkFNLWk0em9vN1d1T2RBakpRMktUd0JZbEJHQ1U2eVlwOWZ0eVZ0cWV3T29hYUViQ1dGbklrQnlQU0VqUG50WWVBbVE0QXpBRGNnX0JXV0k?oc=5",
+   "pub": "Wed, 07 Oct 2026 22:00:00 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "日전문가, 北 영변서 핵잠수함 탑재용 소형 원자로 운용 훈련 가능성 - 샌드타임즈",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50TDlKc2l0cWJuWDdnS3BTR0FEalVmS2M0T0FRSl9jcGVQclRfNFV2cVhMMXMtYlpLX1A4aWhmYWtidTU2ejJFam1MelNUMkhmMVItS0E3N1lVdEFWU0x3Nk42dEd1YS1pRVFHSw?oc=5",
+   "pub": "Thu, 08 Oct 2026 07:39:05 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "프랑스가 잠수함에서 발사되는 SLBM 미사일 이미지를 공개했습니다. - Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONGxZdFhqWTlMNXVfc1R0c0tTNHR2ZWp4c0g5TXBjZFJCdlcyNGFLYTBDSzV3Y3AxLWpXWDRfZTRfb05JUUJnQzRydXRBcFJId1Z2SVdlLTJKb2lOWnk5bFlSUkJfUWJZZFpUN0tKSUN0Vmg3b2ZSY1JzMDZBS1A0Tlk0UGI?oc=5",
+   "pub": "Wed, 07 Oct 2026 02:30:09 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "[미래 수중전과 한국의 선택 ④] 한반도 방어와 동맹의 수중전 사이에서 핵추진잠수함 역할 정립해야 - 뉴스투데이",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjSGg0YkdZT0hjdWh0WFlpV0dNbkJ6Sm5Ta1hXQnRiSEtrLWhFT211anUwMG0waFJIdExGMTM1aW5ERDN2MzVJNnRXcjMxd1Ruend3WE9pUWJJUmpsUnc?oc=5",
+   "pub": "Tue, 06 Oct 2026 04:48:00 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "한화오션 ‘장보고N개발단’ 신설…핵추진잠수함 사업 준비 본격화 - 해양레저신문",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rdEcteUlyOEp6b3BuSTF0Vk9tdmhETml2b0VjaUp4UEtFN0JvYmZ6aHJOTkJEdjdiaGoxV3RNdkVkcEFGZ0x1Ri1hQnFCMkFWNmlpSjZFdw?oc=5",
+   "pub": "Mon, 12 Oct 2026 03:18:00 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "한 판을 따라가며 익히는 오늘 5개의 무료 확률 기초 규칙 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd0dHR3hWLVhUZlpiczNIc2ZLaGpZNEtSZmo1ejBiZk9NaGJzYlpFUnQ5ZWZYU0ZZUHFoNUFHWUQyZXpJVzlQQ3hDbHB5VGMyMy1MTkNadGZUbHQ1NXJDWDBHRlYtTlByS19PdmREVTVUenotYzdJbWtZUnl4UWFKWjNyVkpLMUU5dDB2STFVV01OcDZzTUJOLUd4Vm5abXdLanFGTGtCaW9sSW1kMXNZTWtvdTV3WE9oNHVOUGd3VTdlOEVxZ1lVdzhubzJhMDBDdE5BOEFfV2U2OHA5?oc=5",
+   "pub": "Wed, 07 Oct 2026 15:11:21 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "‘잠수함 투수’ 박종훈, 결국 SSG 떠난다…“진로 모색할 수 있도록” - 일간스포츠",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wTFprMlNsa2NrUnhHZHhPS1BIbjRxcFZxVlFUNmV5RFFoWFdJMnNLUDR5ck81WnF5eEwwTzl6S3R3cmtDSm1TR1NYbHUyTi1FTFpjNWRweFpfN0NCR1o5Umtn?oc=5",
+   "pub": "Sat, 10 Oct 2026 05:52:00 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "65억 핵잠수함, 결국 살아나지 못했다…SSG, 선수단 정비 단행→8명 재계약 불가 통보 [공식 발표] - 머니투데이 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lSHpIa1BOMjFGc1NvR1dBSzJ6MWVGd3FXMVlwVUlwV2hMMHlYb3VBUVRtT1NaMWtrcXVUT1B5bS1hbTRtWUJPRVkxSTRYUzBkRzkyWXhyRFBuYWhQQzhzQlBIRWljX29nUWZMNzRwNNIBb0FVX3lxTE5lSHpIa1BOMjFGc1NvR1dBSzJ6MWVGd3FXMVlwVUlwV2hMMHlYb3VBUVRtT1NaMWtrcXVUT1B5bS1hbTRtWUJPRVkxSTRYUzBkRzkyWXhyRFBuYWhQQzhzQlBIRWljX29nUWZMNzRwNA?oc=5",
+   "pub": "Sat, 10 Oct 2026 05:11:00 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "[단독] 김동관 전략통, 한화오션 핵잠 지휘…어성철 사장 유임 - 한국경제TV",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44MGVkMXZka2gwUFFuT0Z5d3RROVRIVWJLMDUxNXM1UTZ4R3JUOVlnd2Jld1huem1McURZcmIyVWktV0lmZ096OVVBRTQ2RlkxdllIWUowLXIwUHZ6aDlQSHZ2RF9QYkUyLTBrZXhwZC1SQkYtbFRj?oc=5",
+   "pub": "Wed, 07 Oct 2026 12:50:00 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "[우주칼럼] 마크롱 참관 속 탄두 없이 쏜 핵미사일 경고…\"자유로우려면 두려운 존재가 되어야\" - 뉴스스페이스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91bEFCX3BKanZJV2tncmNtUWZWUUw5TEJCeWZsblZXY0RLVlRrdklZU2NNVDBBclhZSy1wZEJjbl9UcUhuN29qUXk1R1QxSno4VWl0eFBTYlFSVzJBeEtQWg?oc=5",
+   "pub": "Tue, 06 Oct 2026 15:05:59 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "게임 기록 메뉴가 제공되는지 확인하는 토토 가상계좌 인증 제로 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSGN0emd4cWZFdXh1Tk4wUDROWXNCNkhCaHI0LTZueEVuSV9RNHdsYXlxS2tVeld5LWpfa2dCWFVjWVdGcTFEWWpoazE1cFBWU0YxNXZNeVc5QTNTdDJTUVFzZFNxRGxmNzhWdmVSTmttakFCVHhyOTRWMTI5VVhXTXZ6VzRDblk?oc=5",
+   "pub": "Fri, 09 Oct 2026 06:23:59 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "입문자가 읽기 편한 토토 신고 후기 화면별 설명 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd3JDT0Fya3JzOVVmczF3d2g1eTJnMDZpTDNHc3NmYm9XcHc1czJ6dnBxLWh3bjNVV3ZJXzJBMHh1RVFJS3QwRE1NZ3dIYm5RWmQ5TUJ1ZGlCWGRjVmR5NWdVdmkwbWZLZmlyRlZUcXF6VW5wWG5NNENUZG5tQ3h2dzNwYzZNZGUtQ1VUQ19mVzJ1SVZXSzV1VnNCV0hwSlc5X1AzYUpEVVdhRGRRNmtlS2FOS2xUc0tHVzZFX0JIc0ZaTDVvQVlvaw?oc=5",
+   "pub": "Wed, 07 Oct 2026 12:49:33 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "日 연구자 “北 영변 경수로, 핵잠 원자로 운용 훈련 가능성” - 투데이코리아",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkMlFlbmJtblExSEg5cW02TjM5RWR5Nlc5RE1lY3ZYR2RzNlFqblNSMS1iemdZbkotb25Xc3FLWThndWpXSWI2QWhzQzdKVzU4cGdtS3VuUDdmUHpNd0JQYU1vSTFJekFZUWMxZVE4eWk?oc=5",
+   "pub": "Thu, 08 Oct 2026 11:00:00 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "플레이 화면 한 장으로 이해하는 토토 가상 계좌 삭제 구성 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPMlRrc2djeXhLMmw1aTRJZjhJRkFuZDhyLU9icE5tcG1NVE95OHZHaG5YNzEwTDEweXJldzVBMnJaNWQ3dWhuWWFxTENSVWxHNHotWEV1RXBRRV9IV1N0WG9mTUwtcnMzdjJTUlRn?oc=5",
+   "pub": "Wed, 07 Oct 2026 01:14:47 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "게임 이해를 돕는 짧은 문답, 카지노 사업계획서 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVW5GcXFydUhZa0FJSXM5cVRXdTVaaFp4NURTbFA2NFJaUnR5Q3oxRUZlbUlyZjVpWTBVLTJxcW1CZ3A2Zkt0RVN1Q09yODRUQzFoclJCUFY2a2VYbkVVTktBeGtQeGoyYTE4ZGtBR3J1alk5YjE5OW1xMEtJcTNrNFNZR1RFXzF5T05laGV1NklKaGxmX2xidWxyRU10SmlWVks3QXZYMGVXZW1w?oc=5",
+   "pub": "Tue, 06 Oct 2026 11:36:25 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "토토 소액 결제 전문가들이 알려주는 핵심 노하우 - 전문가의 관점에서 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRkgwSURlOFNiM1JId3hNM25SZV81NnVqYldKbEpJWFhWbFNpdExnZ1JCZUZsYkJ1NWE4OEtRNWR5bWlVdEZNSVJoQjdjeXJHdGJMZWR5eHR5YnZLQ0VEb1k4aG1IdnpKODk5U2ROaWVjT2VxVHVEM19hMzJwYjdKN1h5LUt2T01GOEo4Y2hoZVRtbVhFS3BKV3lnSHBwUXh5Wm5ETUJ2S0hPNDdPMk9TcHR3YlJTSkMwM3p3TGdDUk5EazJuS1JJ?oc=5",
+   "pub": "Sat, 10 Oct 2026 12:14:08 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "테마 소개 페이지에 담을 사설 토토 검증 제로 메이저 배경 이야기 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeXB6TzRrYW40M3RRektlRHY2NGtoQjYzQnZYenowVGpKQ1diTmlXN1FFOWNMS1I5WnI0RzVYSVIyYzB4UlpNTEdRVmNOa1o5SkUyd2VaRWpMd3F5WWYyZGpUZV83MXE4cDBoSWhBbEl5TlloaW1QS3czcUVGa3M3MHIyQ0lwRU83NDVONG5RUHdHYTJWUHZxYXEzb3pxUDdpWDlqcHpna0dQTWdDdW1saVJaQy0yZnRnSVpuLTVVN0YzYU9nYTR5WDRiRDVGcGNGVGtJ?oc=5",
+   "pub": "Thu, 08 Oct 2026 19:40:07 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "같은 심벌이 모이면 어떻게 될까? 엑투 토토 판정 방식 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdUcxWTNQSmlELTlFdVlPel92NmhIRWZpN2x0SXNYWHJHQlNzWmZOTU1wNnZWd1hZR2xXWFhvSXpxTDhhd3lMZXlYaTRENDdMSnQ5XzlSM29OOXlnbk14emQyN2xLR2dWdlB3RlFyUTMzakwzNVJINV9SSy1NeFYtczg4c1pRRmFTSDNva0ktaGg?oc=5",
+   "pub": "Tue, 06 Oct 2026 16:35:47 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "화면에 표시되는 승리 라인을 읽는 포커 무승부 결과 안내 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLUkyekhTbnBRTHJwR20takxiY3lCeWRCNm5TTGF1bU9VLTJfQ1BxQlBSY0V5REl1R0tCWWlpVlpSWEdNUjRuZXlvaFE0azBPTDNibmVfWlpYM2N2aUlCaHk4cnVBRGw3NUVTX0tBRkpWb1dYdzZlaTRXQ1ktVVNzMm4zUXVwS2picVRjc2xacGtFS29hallnbldXdUhBWGhwcFJGd3pXYTR4MFphbzZSVTBMdlFwOE5qYk9wVk9ZLXZHY0QtdW5WYzBvaw?oc=5",
+   "pub": "Wed, 07 Oct 2026 21:34:19 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "미국은 우크라이나의 패트리어트 시스템 수리를 지원하고 있으며, 러시아는 슈투름 T-72 전투 로봇을 시험하고 있다. - Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOHE0Vmt1TmppMUllYU9VX1FBQkVvbXA5dmhfTERBNlA4TnMyVVhOS1hJamRLREJ3S2NZVGs2eG1RVl8wbXRrNHp0VnBUb0xrWlg3VGRXQ0w1WHU1RU8wR01Bem9LM2ZUZGpHQm5Gc05XMHZLbEZHeTFGaFB6dVg5NVRSX2gtUnZxclFxc2dKREtzbjNIOXVlSGxfc1ZQMUhraEVFS3ZjdG44NzBHS2tz?oc=5",
+   "pub": "Thu, 08 Oct 2026 02:21:12 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "오모가리 산호세 발표 능력을 통한 반성: 핵심 개념과 실제 응용 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nUXQ2TE45cFlVektFR3RaVlNBdnYzZGxSbW9pR2wzcURDTGVlbGpPRDMzQ1lqamt6X2x0SG5aS2JaTFRodzBveVpiaDlMWnhtWTVWdFlBYnUyQWNtZEM2NlVCVnoyMGlmbjVROUo5OExSOWlZdVRKcWp1RQ?oc=5",
+   "pub": "Tue, 06 Oct 2026 15:16:07 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "릴 구성과 테마를 함께 비교하는 오락실 하키 게임 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOUNGNHMtY3Y2ajNQb3JqcHd5MERSa2dZUnAyYTNKZHZWanpUS0Y2UTJPZzBpY3V2N0xpU0lFN0JDTDdYUUdUVE12TEsyOC0wUmdmM25TazVOb01TcmZWTjNmaW15R29ycXRSX2FlUFBtbWs4aGhGZ0xlOVVlZTBCTERkTEZFcVBYZUdSY3Jwbmc0RnV6MG92cUdzZUJNWjlqQTl3SV9hWGd4WFhDLVE2cXFYVzVJRjlPS19tYk13?oc=5",
+   "pub": "Thu, 08 Oct 2026 22:50:21 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "캄보디아 실시간 바카라 AI 시대 디자인 패턴: 역사, 현황 및 미래 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQkVPS0ZIMlgyQzZLOVozTmprNTdwQThoYTZrYlZ2SmJMRVdaNnVxRXVyRDl5Sk11SnRPb1lJdXNncWJaVWdRRW1sZk5wMjhhNXdzOGE5QV94S3g4aXRDTElWcHFUT09oTnU0cnFqeERxZmtRVVA0ZDRhbkRzR3cxN1Bjb0FsQQ?oc=5",
+   "pub": "Fri, 09 Oct 2026 01:45:56 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "마카오 카지노 미국 달러 발표 능력을 통한 반성: 핵심 개념과 실제 응용 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZVEtSXRWUWxsWGFMSFpxdG9DejhmejZhNVFOb2U5LWdrREo2dkRwT1dPNS1CUWxDWVJ2V2d1dTdWaWJXWUNhX0pzazkyTUdsV3RLdkI5Qkt6cFFWZXhXOEkycFVoS3o2QldsSVRmUHQ5XzBDVE5fTEhVeGp5QnBSS1U2UmY5SGYxQjhn?oc=5",
+   "pub": "Fri, 09 Oct 2026 05:20:09 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "오키나와 남부 카지노 호텔 에 대한 완벽한 가이드: 초보자부터 전문가까지 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOSEYtdzNLNl9MVkV6dERCVUFfZjZOOWNEeDc0c1g5NHYxNG9DYW9Sb3N5bmxYVDMzZnF3VEpGb1IwTE95SlJaelJVb1hVSGRHeHJENlNWWGYwMmdxY29nYTB6dGYyUzBxb09JdDVjbUt6RFMtQWlQNFBXZkJTS2hIQTZ5cVVOQUdraEtjMUdaSm1yMWpLbFlvb0MtN0xOQzRzZE8zYWxTTXRIcFdqdmdWRjdlbUVyR2M1SldFOTVaVmxOcTFDWHZjTnlua2lDSWdKUVU3WVQxMWgzeVFNdlhITU82N3NmZE9RNmZHdFZ5eFpBVVdnWEYwaWtfU3BSbURPQXpQQXByUmRZcGlPM0dlRXpqQVdIcXBfVUE?oc=5",
+   "pub": "Wed, 07 Oct 2026 04:41:54 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "게임 정보를 비교표로 읽는 윈 라스베이거스 카지노 유형 안내 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wT013clpsa1JzaFBQOEY5MXBJR2JSWGtmVHVRcE5XZU5xdWFmcEtKRlFVTFpKSDN3NmR2TDJuTnd1ZjNpUlVZc0hkVHNaa2Z4TjNYck5HQ1d6RlNMZmxwcS1PLXFtVURVMHlQMDc1Z0MwZw?oc=5",
+   "pub": "Thu, 08 Oct 2026 03:53:42 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "설정이 적용됐는지 확인하려면? 벨라지오 호텔 카지노 표시 안내 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5QjQ3OHI2d2Z0VFJndllyRzItVzlGSGNlZlhnei1BeXJvTVJ4NkRET3hsd251LUJPYk96c2M4TGV1emctbjBvaVhhdjhiNlVVVUlhZlpzV3NqbUJ3dkxraEdNcXRLcWdFcy1CdTMycXFQZHJq?oc=5",
+   "pub": "Sat, 10 Oct 2026 17:08:30 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "참여를 신청하면서, 옥상정원의 핫플레이스 잠재력을 엿봤다. 이번 야간 걷기 행사는 세종시의 옥상정원 야간 개방 및 세종 한글축제의 불꽃놀이·드론쇼와 연계해 특별한 가을밤을 선사했다. '행정수도 세종시 원년! 특별법 연내 통과'란 부제 아래 국가균형발전과...",
+   "url": "http://v.daum.net/v/20261011111102112",
+   "engine": "daum_news",
+   "query": "부대 개방 행사 신청",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "등 부대 편의시설을 갖췄으며, 시범 운영 점검을 거쳐 오는 13일부터 일반 동호인들에게 정식 개방된다. 천안시는 현재 운영중인 풍서천, 유관순파크골프장의 월 내장객이 400~500명 규모인 점을 감안, 김시민파크골프장도 월 500여명 안팎의 동호인들이 찾을것으로...",
+   "url": "http://v.daum.net/v/20261007114643741",
+   "engine": "daum_news",
+   "query": "부대 개방 행사 신청",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "육군항공사령부, 17일 이천쌀문화축제 연계 '부대 개방' - 파이낸셜뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EakNqdER0a0lVZktoVUtLS3JuSUZldTB1Y2xuajMzdFJEdjNzY1ZOOTFNeG9IN2JJRlJqckcySXUyaXF3bVBiQVFlM3kzR2NwTTI5d0tMbWw4QQ?oc=5",
+   "pub": "Wed, 07 Oct 2026 08:19:31 GMT",
+   "engine": "gnews",
+   "query": "부대 개방 행사 신청",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "계룡군문화축제·지상군페스티벌 닷새간 일정 마무리 - 연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44bV94cHRVVzRUWVV5MzkzWmFyOGZLVDBzUXgtamhjY3ZucXdoSmdJdGhXVUFzQkYwRnpVM25qQlVUYzZQRERKSTRDM3g5YS1WcjZMYnA5Q01oS3fSAWBBVV95cUxQMlNjOW00LXdQOU9YMVpNSnk3WWxvQ2toLW9UMGhiSzh0NWVyZ2d4N19zSE5NQ2syM2YzdUFHWncxbDV2dWpEZF9UcS1Ka0JZMkl4bW81NWJTM3B1U0x2cTg?oc=5",
+   "pub": "Mon, 05 Oct 2026 08:01:59 GMT",
+   "engine": "gnews",
+   "query": "병영체험 가족",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "“걱정 마세요, 부모님!” 장병들의 기도가 빚어낸 따뜻한 만남 - 아이굿뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xc2tBcm1sYWFScktMclNOSTRPY2hPcE5mUU1GNzljWExyeC1SLWFZU1ZwckpxV284T0ltWHllajMxNG9GS2xBcVlMc3ZMN2k4NkJYZmFUSmZVX19Edm9oVmhET0hKY1NLY1E?oc=5",
+   "pub": "Thu, 08 Oct 2026 03:31:04 GMT",
+   "engine": "gnews",
+   "query": "병영체험 가족",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "마지막 날인 11월 1일에는 수리온 헬기 탑승 체험과 드론봇 경진대회 시상식, 폐막식이 열린다. 축제 기간 장갑차와 수도방위사령부 모터사이클 탑승 체험을 비롯해 드론과 로봇을 직접 조종해 볼 수 있는 30여 개 체험 프로그램도 운영된다. 로봇 공연과 로봇...",
+   "url": "http://v.daum.net/v/20261007100900490",
+   "engine": "daum_news",
+   "query": "장갑차 탑승 체험",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "주민과 함께하는 행사가 진행되며, 저녁 음악회에는 가수 엣하트의 공연이 이어진다. 마지막 날인 11월1일에는 수리온 헬기 탑승 체험과 함께 드론봇 경진대회 시상식과 폐막식이 열린다. 축제 기간 동안 관람객을 위한 체험 프로그램도 다양하게 준비된다. 장갑차와...",
+   "url": "http://v.daum.net/v/20261006153611440",
+   "engine": "daum_news",
+   "query": "장갑차 탑승 체험",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "충효태권도 시범, 읍면동 주민 노래자랑 등 지역 주민과 함께하는 행사를 진행한다. 마지막 날인 다음 달 1일에는 수리온 헬기 탑승 체험과 함께 드론봇 경진대회 시상식 및 폐막식이 열린다. 축제 기간 관람객을 위한 체험 행사도 다양하게 준비돼 있다. 장갑차와...",
+   "url": "http://v.daum.net/v/20261006142502401",
+   "engine": "daum_news",
+   "query": "장갑차 탑승 체험",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "마지막 날인 11월1일에는 수리온 헬기 탑승 체험과 드론봇 경진대회 시상식, 폐막식이 열린다. 행사장에서는 장갑차와 모터사이클 탑승 체험을 비롯해 드론·로봇을 직접 조종할 수 있는 30여개 체험 프로그램이 운영된다. 로봇 공연과 퍼레이드도 관람객을 맞는다...",
+   "url": "http://v.daum.net/v/20261006140859527",
+   "engine": "daum_news",
+   "query": "장갑차 탑승 체험",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "라이트쇼와 불꽃놀이가 예정돼 있다. 마지막 날에는 수리온 헬기 탑승 체험과 드론봇 경진대회 시상식이 열린다. 행사 기간 장갑차와 MC 탑승 체험, 로봇 공연과 퍼레이드도 운영한다. 양주시는 관람객 이동을 위해 양주문화예술회관과 백석생활체육공원 임시주차장...",
+   "url": "http://v.daum.net/v/20261006140857521",
+   "engine": "daum_news",
+   "query": "장갑차 탑승 체험",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "경기도와 지상작전사령부 공동으로 오는 30일부터 11월 1일까지 광적면 가납리비행장에서 ‘2026 경기·양주·지작사 드론봇 페스티벌’을 개최한다고 6일 밝혔다. ‘2026 경기·양주·지작사 드론봇 페스티벌’ 포스터ⓒ양주시 제공 올해로 6회째를 맞는 이번 행사...",
+   "url": "http://v.daum.net/v/20261006104758034",
+   "engine": "daum_news",
+   "query": "드론봇 페스티벌",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "계룡군문화축제·지상군페스티벌 닷새간 일정 마무리 - Daum",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nSGFGS0UtOTF4ZHR4c3FCVXM2UXJWZjdzOVVlNDgtNkNtMTFxSWVzUTdUYzRPbkp2TVFrSjRmdHVab0ZZX3NjMFFEaWViWjg?oc=5",
+   "pub": "Mon, 05 Oct 2026 08:03:45 GMT",
+   "engine": "gnews",
+   "query": "지상군 페스티벌 체험",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "처음 접하는 슬롯이라면 읽어볼 베팅 전략 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMURkQkhqM1o5SU94VVk4UmpoXzJ3RGxkY1FjU0ZxUG9fM0pNaG50RHYtS3FXeWtKUTRWOHYzQlk0WEVEOFc4NjFUa0JBZXZkNDRzcVJMcV82d21yUEZINWdSUG15RGtHcWRvUVIxRVJLdzAzUlNKazhDVzIxRzdDQXNjb2FuMEM5UVhwZUg5TE1qTEtkM1g5R3NGVmM4RFZzTkZjNGlBUzlBVFB3dVMtMTExeFBBcDFjbDFyUzFwWlpKQU94RFduVFJPR3JNSjhm?oc=5",
+   "pub": "Wed, 07 Oct 2026 17:52:52 GMT",
+   "engine": "gnews",
+   "query": "해군 함정 공개 신청",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "그래피티 체험 컬러링 포토존 등을 운영하고, 푸드존과 마켓, 휴게공간을 구성해 의정부예술의전당 일대를 BMF를 즐길 수 있는 축제 공간으로 조성할 예정이다. 이번 축제 드레스코드는 '블랙&밀리터리룩'으로, 행사 당일 'BMF 베스트 드레서' 이벤트를 진행한다...",
+   "url": "http://v.daum.net/v/20261012144000812",
+   "engine": "daum_news",
+   "query": "K-밀리터리 페스티벌 체험",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "(춘천=뉴스1) 이종재 기자 = 제76주년 춘천지구전투 전승행사인 'K-밀리터리 페스티벌:춘천대첩'이 10일 강원 춘천시 수변공원 일대에서 열렸다. 국방부가 주최하고 육군 2군단과 강원도, 춘천시가 공동 주관하는 이번 행사는 11일까지 이어진다. (육군 2군단 제공...",
+   "url": "http://v.daum.net/v/20261010183155720",
+   "engine": "daum_news",
+   "query": "K-밀리터리 페스티벌 체험",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "무형유산을 소개하고 전통문화의 가치를 널리 알리기 위해 마련된 행사다. 지역 고유의 역사와 문화를 담은 공연과 체험으로 무형유산의 보존과 전승 의미를 되새기고, 전통문화의 매력을 함께 나누는 자리가 될 예정이다. 올해는 함안에서 개최되며 함안화천농악...",
+   "url": "http://v.daum.net/v/20261012145108445",
+   "engine": "daum_news",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "춘천시, 과학·바이오부터 독서·관광까지…10월 시민 행사 풍성 - 강원신문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OYTMwNnRiYWJTQkxsdVF4aEhiR3o0OU1wZ1JHRHJHS2JDU09qRFNZQXExOS1mTmV0SjlybGhILVFaSjhJcXlZbGE0eDhjSXdxQUFKNUEwRjhxcDhYMWt4OXNoSEFVMTQw?oc=5",
+   "pub": "Sat, 10 Oct 2026 22:26:07 GMT",
+   "engine": "gnews",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "열립니다. 육군 2군단과 강원자치도, 춘천시가 주관하는 행사는 군악대 연주와 춘천대첩 76주년 기념식과 추모식, 의장대와 태권도 시범 등 다양한 프로그램으로 진행됩니다. 또 헌정 공연과 최신 전력화 장비 전시, 수리온 비행 탑승 등 각종 체험 행사도 마련됩니다.",
+   "url": "http://v.daum.net/v/20261007094029915",
+   "engine": "daum_news",
+   "query": "춘천대첩 수리온 탑승",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "전차 위엔 웃음, 하늘 향해 환호... 계룡군문화축제 '즐거운 닷새' - OhmyNews",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DR2s4Uk9NSHY0YTdJZFhITjRhcDBVOWx2aFgxUWFSVFprVFhoZm5ZZE9neWRMRkxpeG5nZ2QwczdUblVPeUt0eHY5TC1aMUI5a0ZDZlZ3b2hoSHRPM2hXZkhIN1VDM3JfSDhNdXJOYmtNU3BFYzRv?oc=5",
+   "pub": "Mon, 05 Oct 2026 08:28:00 GMT",
+   "engine": "gnews",
+   "query": "군문화축제 탑승체험 운영시간",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "양주시, 30일 드론봇 페스티벌 개최…11월 1일까지 - 경기매일",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJTzRwdFh6VE9nY3k4OXlBMTJFWjM0M2hZd3Y2ZWdxT29EZXlmeDkxSFc2X2tjVXVFOHhIZG1OTjItSEhGYkpwaVVjN3l1a1BlUXRsOGNUSmdRZkJnV1cwRXEzazZPalU?oc=5",
+   "pub": "Tue, 06 Oct 2026 01:45:16 GMT",
+   "engine": "gnews",
+   "query": "군문화축제 탑승체험 운영시간",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "탄광의 시간이 문화가 됐다···강원랜드 M650 박물관 공식 개관 - 스마트비즈",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SNmdNa0JMZzFES3pBelZ4MXNmbEl1YzRjUHdFMmkwdjVKaG1HeDBuNmhRaGZ1VHlOR05UUzdiWjRIeWN1WEpqRmF4WDVBS3Rpd2hlbUpHYmRWd3Q2ZHFNa01GaF9hV2NlT29nZg?oc=5",
+   "pub": "Wed, 07 Oct 2026 07:10:00 GMT",
+   "engine": "gnews",
+   "query": "군문화축제 탑승체험 운영시간",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "강원랜드, 폐광시설 관광자원화…사북에 M650 박물관 공식 개관 - 스포츠조선",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HYno5MVJmS0xOV0RqNFVVc1ZJYnVXbXI5MXJXSkVpdzdTRnpzYkRKVmFiN3BuYmtaOUo1bUN0c0JFcFFVQkticXAzcU5nNFJhQmxUUXJvZ19VUFhzMmxGM3FuTGZnZEhzN1NQQVZYRGcxQmhncWFpaQ?oc=5",
+   "pub": "Wed, 07 Oct 2026 08:57:58 GMT",
+   "engine": "gnews",
+   "query": "군문화축제 탑승체험 운영시간",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "포항 해병대문화축제, 11월 14~15일 해병의 거리·해병대 제1사단서 개최 - 아주경제",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlaWZHZ0l3Uk12cHhTQmJNeDIyZVkyVXhOeGVpcVM4TlZQUW0xcVduMlZqakpXX3ZVYlA1eDdvVGFtOFBaNFpXemRyWlM5UTcwVjRrWE5MSTJ5Z9IBWEFVX3lxTE15ZjdhZDlfcXYtbE8ycHJTbF84WmxHLVd2VWU2aEpDMmFkT1FDdTFleW1qelQzcHFhMHNMamlFdFJEZkh4SWh0SUZzX2loSzJTZTBfSkVjaGU?oc=5",
+   "pub": "Mon, 05 Oct 2026 20:00:00 GMT",
+   "engine": "gnews",
+   "query": "군 축제 2026 개최 확정 체험 프로그램",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "음성군, 민선 9기 공약 61개 사업 논의…11월 최종 확정 - 뉴시니어",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XUGIyNmxhQzE2c1Ffd2wwbUdYUnZubG5MejZvN3BHQ1F4dU54dFk3RWFjUjdBN3JiQnlCRzFic2RjSmx5dldCLTNJR0VsV2UxMG9jY2Nkamh5Y3VVZHlCeDhnMA?oc=5",
+   "pub": "Wed, 07 Oct 2026 21:30:13 GMT",
+   "engine": "gnews",
+   "query": "군 축제 2026 개최 확정 체험 프로그램",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "부여군, 제72회 백제문화제 원도심서 11일까지 개최 - 매일일보",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56T2lfWmFub01CTFBacGJvdmNfUVJ6RkZvZkdWbnhaU0RicTVETEFya1JyY3E3YXhjSG9Xa1FGdGp1QkRwRXVKZkpQdWxzVGw4X2RZbnBwY2FmWXlQOXh4MWc2WUU?oc=5",
+   "pub": "Thu, 08 Oct 2026 05:16:27 GMT",
+   "engine": "gnews",
+   "query": "군 축제 2026 개최 확정 체험 프로그램",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "영광군, 2026년 청년의 날 기념 ‘영광 청년의 빛 페스티벌’개최 - 경남도민뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jZXlUeHdPUVhYUVptandUaXJ1VFU0XzFtNDR6bEYyME8wQjRyV01jSmoxYXpIaXp5QVplNTRyUEpsaVV1TnZYeWQ5UzBYNjFJb1d1Vkc0cFRQRkZXeEJqS25Ucw?oc=5",
+   "pub": "Mon, 12 Oct 2026 05:30:40 GMT",
+   "engine": "gnews",
+   "query": "군 축제 2026 개최 확정 체험 프로그램",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "보성군, 민선 9기 군수 공약사항 최종 확정 - 일등방송",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mWWRhZW5hVmhNQVl0UlVtZ0JfcUlYSmNoREZTelU1QXFGYm52SUNRODdaRGZfZkQ5dUdBdVVZTGl0Z1Fn?oc=5",
+   "pub": "Thu, 08 Oct 2026 05:30:33 GMT",
+   "engine": "gnews",
+   "query": "군 축제 2026 개최 확정 체험 프로그램",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
+  {
+   "title": "수영구 남천1동, 남치이 행복마을 작은축제 성료 - 부산일보",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54aVllLXNhOXUxZGRSYURRMVhDd2N0NlVXZ2NFem5fUzBvOGtiZ0FGX2FEcEZMOEtCRG54QUZLX1U0aGJwemZvTzdxdU5FT2w2MFZqbWUxeTVNbHJvUVhXV2MtQkRMSk9WWDk4b1JiMldBRkcwRUtyeg?oc=5",
+   "pub": "Thu, 08 Oct 2026 07:52:04 GMT",
+   "engine": "gnews",
+   "query": "군 축제 2026 개최 확정 체험 프로그램",
+   "first_seen": "2026-10-12T15:07:59+09:00"
+  },
   {
    "title": "오는 10월 말 경기도 양주시에서 열리는 ‘2026 경기·양주·지작사 드론봇 페스티벌’에서 전 국민을 대상으로 육군 수리온 헬기 무료 탑승 체험 신청을 받는다는 특급 소식이 전해졌다. 체험비는 전액 무료이며, 단 150명에게만 주어지는 특별한 기회인 만큼 신청 마감 시간과 접수 방법, 필수 준비물을 빠르게 확인해야 한다. 2026 경기·양주 드론봇 페스티벌",
    "url": "https://blog.naver.com/dailytk/224438806642",
@@ -20631,553 +21239,6 @@
    "url": "https://cafe.naver.com/faceday/1458?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZhY2VkYXkiLCJhcnRpY2xlSWQiOjE0NTgsImlzc3VlZEF0IjoxNzkxNjkyNDM2NzQzfQ.1FYWAbFwhp5PGQU49vjNyOrf0LlulVAEcpxwUNQs4qE&q=%ec%a0%84%ec%8a%b9%ed%96%89%ec%82%ac%20%ec%b2%b4%ed%97%98%20%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8&tc=naver_search",
    "engine": "naver_cafe",
    "query": "전승행사 체험 프로그램",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "반려식물과 경복궁쌀 나눔 이벤트도 안내되어 있습니다. 일부 체험은 사전·현장 접수로 운영되고 인원 제한이 있으니, 방문 전에 프로그램별 참여 방법과 남은 자리를 공식 홈페이지에서 확인해 주세요. 행사 안내: https://agro-cityseoul.co.kr/overview프로그램 안내: https://agro-cityseoul.co.kr/program 가",
-   "url": "https://cafe.naver.com/allfreehub/33?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFsbGZyZWVodWIiLCJhcnRpY2xlSWQiOjMzLCJpc3N1ZWRBdCI6MTc5MTY5MjQzNjc0M30.I_L-ePw1VEFt0Y2ecw_kyvjYqf5dcYKXgqqq48PO_Es&q=%ec%a0%84%ec%8a%b9%ed%96%89%ec%82%ac%20%ec%b2%b4%ed%97%98%20%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "전승행사 체험 프로그램",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "25(일) ──────────── 장소 • 사천비행장 일원 ──────────── 관람 출입등록 • 군사시설 보호구역이라 행사장 출입 시 반드시 온라인 출입등록을 해야 합니다 • 신분증... 22(목) ~ 25(일) 우주항공 및 4차산업 체험프로그램 등 : 사천비행장 • 10.24(토) 사천우주항공교육축전 : 사천체육관 이벤트 • 10.22(목) ~ 25(",
-   "url": "https://cafe.naver.com/bluegraydnbk8/151808?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJsdWVncmF5ZG5iazgiLCJhcnRpY2xlSWQiOjE1MTgwOCwiaXNzdWVkQXQiOjE3OTE2OTI0MzY3NDN9.Bb3HLjmKm3DTCeCguUwBHNy5vGh_L7yH24nszu1RgJA&q=%ec%a0%84%ec%8a%b9%ed%96%89%ec%82%ac%20%ec%b2%b4%ed%97%98%20%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "전승행사 체험 프로그램",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "하나의 프로그램으로 구성해 방문객의 체류와 참여를 높이고, 지역농산물의 홍보와 판매 가능성도 함께 시험한다는 구상이다. 이 같은...모색했다. 상주시청 관계자도 북문동의 현장실험이 단순한 체험행사에 머물지 않고, 주민의 지속적인 활동과 지역자원 활용으로...",
-   "url": "http://v.daum.net/v/20261011124004736",
-   "engine": "daum_news",
-   "query": "전승행사 체험 프로그램",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "머물 수 있도록 콘텐츠를 확장하고 있다. 만송정 일원에 조명과 포토존을 마련하고 숯봉지 만들기와 달걀불 소원 쓰기 등 체험 프로그램을 더했다. 공연과 먹거리, 휴식 공간도 배치해 관람 중심의 행사를 체류형 야간관광으로 발전시키고 있다. 무엇보다 우선하는...",
-   "url": "http://v.daum.net/v/20261011121716422",
-   "engine": "daum_news",
-   "query": "전승행사 체험 프로그램",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "칠곡낙동강평화축제, 소년병 기억하며 평화 되새긴다 - 경북신문",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zRGJ4N1NjOXNpcnhiMW1NR1N4VXpKSUh3eFpHbVRTZ1ZKRnJjSTFDaFBWUzh4RTc3VE9udHFVQlg3OUF0dG5mV1k1TVFvb29CbkRZU2otdTE?oc=5",
-   "pub": "Sun, 11 Oct 2026 04:09:00 GMT",
-   "engine": "gnews",
-   "query": "전승행사 체험 프로그램",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "전시명 : <2026 전승자 주관 기획행사> 국가무형유산 불화장 기획전시 ‘천년의 붓끝을 잇다’ 2. 전시 일시 : 2026. 7. 21.(화) ~ 7. 26.(일) 10:00~18:00 3. 전시... 문의 : 010-****-**** <전시 내용> ○ 불화장 임석환 보유자의 고려불화 수월관음도 및 심우도를 비롯한 벽화 작품 전시 <체험 프로그램> ○ 무",
-   "url": "https://cafe.naver.com/myjoyfulcraftwork/2314?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im15am95ZnVsY3JhZnR3b3JrIiwiYXJ0aWNsZUlkIjoyMzE0LCJpc3N1ZWRBdCI6MTc5MTY5MjQzOTYzNH0.OIRRPn2ZTZTKBpkMSaENceTp3bDA9Q80KTILi_zWCdI",
-   "engine": "naver_all",
-   "query": "전승행사 체험 프로그램",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "군악연주회 • 전승기념식 및 개막식 • 국방부·육군 의장대 동작시범 • 어린이 태권도·사물놀이 • 문화예술단체 초청공연 • 이소나 축하공연 • 육군 태권도 시범 및 장병공연 • 버스킹·보이는 라디오 • 춘천씨네파크 무료영화 상영 전시·체험 프로그램과 군 장비 탑승·전시도 함께 운영됩니다. 자세한 공연 시간과 행사장 안내는 포스터를 참고해주세요!새 창 열림",
-   "url": "https://cafe.naver.com/thesuri/228751?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRoZXN1cmkiLCJhcnRpY2xlSWQiOjIyODc1MSwiaXNzdWVkQXQiOjE3OTE2OTI0Mzk2MzR9.8LBA4dIhYXa8kLvILKBryFckQfMZ8a8MuT4KqfwGqbc",
-   "engine": "naver_all",
-   "query": "전승행사 체험 프로그램",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "생태·체험 중심의 가을 대표 지역축제 주요 하이라이트 일정 9월 4일: 개막식, 반딧불이 신비탐사 시작 9월 5일: 가족 생태탐험 프로그램 9월 11일: 낙화놀이 9월 12일: 폐막식 핵심 포인트: 인기 프로그램은 조기 마감되는 경향이 강하므로... 전북특별자치도의 무형유산으로 지정되어 전승 가치를 지닙니다. 예약·관람 운영: 사전 예약제(2026년부터) ",
-   "url": "https://cafe.naver.com/gsms2013/1321?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdzbXMyMDEzIiwiYXJ0aWNsZUlkIjoxMzIxLCJpc3N1ZWRBdCI6MTc5MTY5MjQzOTYzNH0.vGpC0oCgpHjM16W8EpBrjzm6ectJNsjA7qPiE4QdRts",
-   "engine": "naver_all",
-   "query": "전승행사 체험 프로그램",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "공홈에서 퍼왔어요 오전에 미술관 갔다가 1시 30분 프로그램 참여하면 딱 시간 맞아요. 제가 참여했을때는 금속활자장님이 직접 시연해주셨어요. 다음 타임(3시)에는 전승 조교님이... 그날의 결과물 8월 17일~8월 19일에 기획행사가 있다고 하니 청주 가실분은 참고하세요. 주조시연을 보고 책만들기 체험을 해봅니다. 전화로 미리 예약하시면 되고, 시연이 끝나",
-   "url": "https://cafe.naver.com/loyaltylife/342488?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNDI0ODgsImlzc3VlZEF0IjoxNzkxNjkyNDM5NjM0fQ.wMwKCL70TejBU2TB0bvWbZnF1b2cC8D7bPoIqZ8Qxt0",
-   "engine": "naver_all",
-   "query": "전승행사 체험 프로그램",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "10월 9~11일 강원도 주요 행사 요약 지역 행사 기간 장소 주요 시간 주요 프로그램 춘천 강원과학기술대축전 10/9~10... 전시·탑승체험, 의장대, 군악·태권도 공연, 전승기념행사 춘천 ☕ 공지천 호수축제 10/9~11 공지천 일원 행사별 상이... 만들기 체험, 공연·이벤트 철원 국가유산 미디어아트 ~10/11 노동당사·철원역사문화공원 19:00~",
-   "url": "https://cafe.naver.com/cozy2023/14703?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNvenkyMDIzIiwiYXJ0aWNsZUlkIjoxNDcwMywiaXNzdWVkQXQiOjE3OTE2OTI0Mzk2MzR9.FERF1-ofLgUn_pW-e4Hg6s42OJNZyPJ6cmdayXhy_b4",
-   "engine": "naver_all",
-   "query": "전승행사 체험 프로그램",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "진행하는 행사입니다. 춘천지구전투의 역사적 의미를 되새기고 참전용사와 호국영령을 기리는 전승기념행사를 중심으로 다양한 군 문화 프로그램이 마련됩니다. 무엇보다 무료로... 아이들이 좋아할 만한 군 장비 체험 이번 춘천대첩에서 눈여겨볼 부분은 역시 군 장비 전시와 체험입니다. 공개된 행사 프로그램에는 * 소형전술차량 탑승 * 산악오토바이 탑승... 새 창 열",
-   "url": "https://blog.naver.com/wow1567/224427099752",
-   "engine": "naver_all",
-   "query": "전승행사 체험 프로그램",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "<2026년 전승자 주관 기획행사> 국가무형유산 조각장 전승활동 작품전시회 및 체험교육2026년 국가무형유산 공개행사 〈국가무형유산 악기장 고수환 공개행사〉[행사연계] 성정각, 왕세자의 하루 – 효명세자의 배동되기새 창 열림",
-   "url": "https://www.kh.or.kr/cont/calendar/edu/month/menu/1108",
-   "engine": "naver_web",
-   "query": "전승행사 체험 프로그램",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "전차 · 수리온 · K9A1 자주포 등 최신 전력화 장비 참여 활동 장비 전시 관람과 체험을 먼저 즐긴 뒤 오후 무대로 연결... 육군 제2군단 행사 소개 · 장비 전시·탑승 프로그램 역사 이야기를 먼저 듣는 9일 연계 특강 항목 통일명사특강 안내... 9/11~10/7 신청 신청·문의 온라인·전화·현장 접수 · 070-8672-0156 춘천대첩의 의미를 ",
-   "url": "https://blog.naver.com/wonibrief/224433944637",
-   "engine": "naver_blog",
-   "query": "2군단 수리온 비행 탑승 신청",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "제2군단, 춘천시 ☎ 문의 : 033-250-4108 춘천대첩을 기억하는 전승행사 이번 행사는 제76주년 춘천지구전투 전승행사를 중심으로 진행됩니다. 춘천지구전투는 6·25전쟁 초기 춘천... 또한 헬기탑승과 춘천대첩 당시 격전지를 둘러보는 수리온 비행 탑승 프로그램도 예정되어 있어 다른 지역축제에서는 경험하기 어려운 특별한 체험을 할 수 있습니다. 일부 ",
-   "url": "https://blog.naver.com/jungbo_yaho/224432151171",
-   "engine": "naver_blog",
-   "query": "2군단 수리온 비행 탑승 신청",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "1.(일) ☀️ 오전 · 장갑차·수방사MC 체험 · 수리온 헬기탑승 체험 · 문화공연 ️ 오후 · 육군항공 축하비행 · 수방사MC 퍼레이드... 사전신청 방문 전 QR코드로 행사장 입장 사전신청을 완료해 주세요. · 1️⃣ 입장 사전신청 QR 스캔 (휴대폰 카메라) · 2️⃣ 화면에... 031-8082-6161~2, 6166~7 · 1군단 드론봇페스티벌 ",
-   "url": "https://cafe.naver.com/bluegraydnbk8/151670?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJsdWVncmF5ZG5iazgiLCJhcnRpY2xlSWQiOjE1MTY3MCwiaXNzdWVkQXQiOjE3OTE2OTI0NzAxMDB9.k4q0-N0yWpoLm7u7luGqEEyOZ90I10fgC7B5K1zL6HM&q=2%ea%b5%b0%eb%8b%a8%20%ec%88%98%eb%a6%ac%ec%98%a8%20%eb%b9%84%ed%96%89%20%ed%83%91%ec%8a%b9%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "2군단 수리온 비행 탑승 신청",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "전시된 헬기를 둘러보는 행사가 아니라 수리온에 올라 양주 일대를 실제로 비행하는 체험입니다. 신청했다고 바로 탑승이 확정되는 건 아니고, 선정 뒤에도 보험과 신분 확인 절차를 통과해야 해요. 신청 일정과 탑승 조건을 한눈에 확인하세요 신청은 10월 12일 오후 1시 전에 끝내야 해요 양주 헬기탑승 체험은 2026년 9월 28일부터 신청을 받으며, 10월 1",
-   "url": "https://cafe.naver.com/purpleqep5t/429?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InB1cnBsZXFlcDV0IiwiYXJ0aWNsZUlkIjo0MjksImlzc3VlZEF0IjoxNzkxNjkyNDcwMTAwfQ.jZEbnIjy2hrF5HoJm8kardCGgABDDxs6JwG605t7N2Y&q=2%ea%b5%b0%eb%8b%a8%20%ec%88%98%eb%a6%ac%ec%98%a8%20%eb%b9%84%ed%96%89%20%ed%83%91%ec%8a%b9%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "2군단 수리온 비행 탑승 신청",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "com/f-e/cafes/31322438/articles/8041 2. [체험] 천왕산 목공체험(심쿵무드등) 행사: 2025-11-22 2025.11.22(토) 15:00 ~ 17:00 | 접수: 2025.10.31(금) 09:01 접수, 선착순 대상·장소: 초등 이상천왕산... [축제] [고양시] 2025 한국항공대학교 제2회 활주로축제 행사: 2025-",
-   "url": "https://cafe.naver.com/bongcheheom/2?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvbmdjaGVoZW9tIiwiYXJ0aWNsZUlkIjoyLCJpc3N1ZWRBdCI6MTc5MTY5MjQ3MDEwMH0.vahqMt3WlamQyPNE2ToVdyOcWcXgHsDm4cdjiGAB6FI&q=2%ea%b5%b0%eb%8b%a8%20%ec%88%98%eb%a6%ac%ec%98%a8%20%eb%b9%84%ed%96%89%20%ed%83%91%ec%8a%b9%20%ec%8b%a0%ec%b2%ad&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "2군단 수리온 비행 탑승 신청",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "무엇보다 중요한 정보는 10월 12일 월요일부터 한식 체험 프로그램 사전신청이 시작된다는 것입니다. 이번 글에서는 2026년 공식 발표를 기준으로 행사일정, 유명 셰프, 예약방법, 음식가격, 주차요금, 교통편까지 정리했습니다. 정보 확인 기준: 2026년 10월 11일 행사 프로그램과 예약·판매조건은 주최 측 사정에 따라 변경될 수 있습니다.... 새 창 ",
-   "url": "https://blog.naver.com/ju3ly/224437901105",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "오늘 포스팅에서는 일상에서 바로 적용할 수 있는 구체적인 0원 소비 항목과 직접 체험하며 정리한 실전 팁을 체계적으로... 예를 들어 출퇴근길에는 모바일 만보기 앱을 켜두고, 주말 문화생활은 지자체 박물관 무료 개방일이나 지역 도서관 강좌를 우선적으로 검색하는 방식입니다. ✓ 알림 설정으로 매월 1일 오픈되는 공공 문화 강좌 사전 신청하기 ✓ 자주 사용하는",
-   "url": "https://blog.naver.com/sinbat1004/224435764535",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "사전예약 50명 현장 50명이여서 현장 예매로 가봐야지 하고 공휴일인 10월 9일 한글날, 창덕궁 후원 현장 예매로 다녀왔어요. 오늘은 창덕궁 후원 현장 예매 방법부터 선향재 개방 행사 후기, 방문 전에 알아두면 좋을 꿀팁까지 소개해 볼게요. 현장예매는 오전 9시부터 열린다고 해서 오전 8:40 즈음 도착했는데 생각보다 사람이 너무너무 많아서 놀랐어요. 전",
-   "url": "https://blog.naver.com/yan9gang/224437887143",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "(온라인 사전 예매 시 할인 가능) 휴관일: 백화점 휴점일과 동일 대구어린이세상,다채로운 체험과 놀이가 가득한 공간... 아이 스스로 직접 만지고 참여하면서 놀 수 있어서 시간 가는 줄 모르게 좋아하더라구요ㅎㅎ 회차별 예약제로 운영되는... 입장료 부담 없이 가볍게 다녀올 수 있는 야외 공원이라 주말에 들러보기 참 좋답니당 입장료 무료 이용 시간: 상시 개",
-   "url": "https://blog.naver.com/hanarin_vv/224437860806",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "누구나 함께하는 열린 축제, 참여 방법과 예약 안내 이번 행사는 강서구민은 물론 방문하는 모든 분이 즐길 수 있도록 개방되어 있어요. 현장 관람 위주라 부담 없이 다녀올 수 있답니다. 사전 예약을 하거나 입장료를 내야 하는 구역이 있을까요? ・기본 입장료 없음 (무료) ・대부분 현장 방문 후 자유롭게 관람 ・일부 체험 프로그램은 현장 접수 가능 대부분의 공",
-   "url": "https://blog.naver.com/sma4049/224437852892",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "11) 전통건축부재보존센터: 수장고 개방행사 <나무의 숨결, 세월의 흔적을 만나다> (10.10~10.17 / 10:00~17:00) 개관 5주년 기념 전시 <잔잔, 잔: 당신을 담아온 잔의 이야기> (10:00~18:00... 어린이 체험실은 한회차에 60명(보호자 포함) 인원제한이있어요. 회차별 사전 예약제로 운영되는데, 현장 도착 후 가장 빠른 1시 ",
-   "url": "https://blog.naver.com/sooyounz/224437848910",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "삼겹굽굽존 사전예약 화면 대기 예약 시 알아둘 점 취소 좌석이 생기면 대기 순서대로 자동 확정돼요. 확정 문자는 별도로 오지 않아요. 홈페이지의 '예약 조회·취소' 탭에서... 주말과 공휴일에 무료로 개방됩니다. 내비게이션에는 경북 구미시 송정동 505를 검색하세요. 다만 축제 방문 차량이 몰리면 자리가 빨리 찰 수 있어요. 차량을 가져간다면 통제... 새",
-   "url": "https://blog.naver.com/semozung/224437842490",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "프로그램 사전예약제) 주최/문의 서울특별시 서부공원여가센터 (02-300-5574 / 02-300-5567) 축제 기간에는 평소보다 개방 시간이 연장되어 밤 9시까지 야간 관람이 가능합니다. 기본... 풍성한 볼거리와 친환경 체험 프로그램 올해 축제는 억새뿐만 아니라 다채로운 테마 정원과 친환경 마켓이 함께 어우러집니다. 오감 정원 & 감성 포토존 (10:",
-   "url": "https://blog.naver.com/sakkingy/224437823545",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "상담 : 사전 예약 가능 • 현장 행사 : 웨딩 초대전 운영 셀레스쳘 오라카이는 오라카이 송도파크호텔 3층에 위치한 야외 웨딩홀이에요. 송도 센트럴파크 인근에 자리하고 있어 호텔... 송도 야외웨딩의 개방감을 중요하게 생각하면서 도시적인 배경도 함께 원하는 예비부부에게 잘 맞는 장소입니다. 화이트 드레이프와 샹들리에로 꾸민 웨딩홀 예식장은 화이트와 골드..",
-   "url": "https://blog.naver.com/bini_life_story/224437816230",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "먹거리·일부 체험 별도 유료 문의 054-420-6714 올해는 기존 직지문화공원과 사명대사공원에 친환경생태공원까지... 올해는 서울·대전·대구·광주·부산에서 김천김밥축제장까지 이동하는 사전예약 직행 셔틀버스가 운영됩니다. 03 | 카카오T... 다만 임시주차장의 실제 개방 여부와 주차 가능 대수, 주차요금은 행사일 공식 안내를 확인해야 합니다. 행사장 주",
-   "url": "https://blog.naver.com/jjun6334/224437459082",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "특별 체험·교육 프로그램은 사전 예약/유료 진행 가능) 주차 뚝섬 한강공원 3주차장(자벌레 하부) 이용 기본 30분 1,000원 / 초과 10분당 200원 / 1일 최고한도 10,000원 대중교통 지하철... 1층 지식놀이터는 누구나 자유롭게 이용할 수 있는 개방형 북카페 및 전시 형태로 운영되더라고요. 좌석 간격이 넓게 배치되어 있어 답답함이 없었어서 여",
-   "url": "https://blog.naver.com/trip_yumyum/224437794461",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "어선 승선 체험이나 맨손 물고기 잡이 등 일부 핵심 프로그램은 사전 예약제로만 운영되므로 현장 접수만을 고려하고 방문할 경우 참여가 제한될 수 있다는 실무적 사실을 명확히... 해당 시설은 실외 주차장과 실내 주차타워를 모두 상시 무료로 개방하고 있어 진입 자체의 비용 부담은 없으나 주말과 공휴일 정오 이후에는 모든 상설 주차 구역이 빠르게 만차 상태에..",
-   "url": "https://blog.naver.com/gus5547/224437772333",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "이천·광주·여주에서는 국제 도자예술 작품을 감상할 수 있으며, 파주에서는 DMZ를 주제로 한 특별한 예술전시도 시작됩니다. \"평일 쉬는 날 경기도에서 어디를 가면 좋을까?\" \"부모님과 가을꽃을 구경할 만한 곳은 없을까?\" \"아이들과 함께 먹거리와 체험을 즐길 수 있는 축제는 어디일까?\" 이런 궁금증을 가진 분들을 위해 2026년 10월 12일 월요일부터 1",
-   "url": "https://blog.naver.com/haehjung/224437500478",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "출처: 정동야행 공식홈페이지 2026 정동야행 일정 구분 날짜와 시간 1일 차 10월 30일(금) 오후 6시~10시 2일 차 10월 31일(토) 오후 2시~10시 장소 서울 중구 정동길·덕수궁길 일대 주요 행사 역사문화시설 개방, 공연, 체험, 야간 경관 정동 일대의 역사문화시설과 거리에서 여러 프로그램이 진행돼요. 다만 일부 사전예약 프로그램은 본행사 시",
-   "url": "https://blog.naver.com/ceite/224436212297",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "아래는 별도 체험프로그램에 참가하지 않는 일반 방문 순서이며, 2026년 10월 운영 범위에 한정합니다. 공식 안내를... 나비를 보는 일이 이번 방문의 목적이라면 당일 개방을 확인한 뒤 나비정원을 먼저 선택합니다. 곤충·식물 관찰이 더... 네이버 예약을 통한 사전접수입니다. 프로그램별 공식 상세 안내에서 예약 방법과 참가비, 운영일을 따로 확인하세요..",
-   "url": "https://blog.naver.com/ajb06282/224437770493",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "인터넷우체국을 통한 온라인 구매 성공 확률을 높이는 요령 지난 9월 28일 자로 조기 마감된 온라인 사전예약 기회를... 각 공공기관의 운영 시간과 창구 개방 시점은 현지 사정에 따라 유동적으로 변동될 여지가 있으므로 방문 전 해당 관할... 게임을 체험할 수 있는 특별 기획전시관이 마련되어 새로운 문화 공간으로 부상하고 있습니다. 향후 전 세계 팬들의 유",
-   "url": "https://blog.naver.com/gus5547/224437763421",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "특별 개방–왕릉을 깊이 만나다 : 평소와 다른 방식으로 왕릉을 알아보는 특별 프로그램 역사에 관심이 많은 어른은 물론, 아이들에게도 살아 있는 역사 체험이 될 수 있겠죠. ※ 투어별 운영 장소와 예약 여부, 참여 조건은 공식 안내를 확인해... 프로그램에 따라 사전 예약이나 별도 참여 조건이 있을 수 있으니 공식 축전 안내를 확인한 뒤 방문하세요. 전국 가",
-   "url": "https://blog.naver.com/richmama2026/224437742610",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "한 주 앞선 10월 10일(토)에는 사전행사가 있습니다. 오전 11시 삼성혈에서 탐라개벽신위제를 지내고, 오후 1시 30분부터 6시 30분까지 서귀포 칠십리야외공연장에서 특별공연과... ④ 억새는 오전에 — 새별오름은 상시 개방이라 축제 전 오전 시간에 들르기 좋습니다. 자주 묻는 질문 Q. 제주도 10월 꽃이나 억새는 어디서 보나요? A. 제주 서부 새별",
-   "url": "https://blog.naver.com/entpicknews/224437740647",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "다회용기 전용 반납함과 화장실 안내판 그리고 화장실은 제물포구청 건물을 개방해서 이용할 수 있도록 해두었습니다. ️ 인천e지 앱 쿠폰으로 먹거리 할인받기 이번 행사에서... 그런데 이 체험은 사전예약을 해야 참여할 수 있더라고요. 체험을 해보고 싶은 분들은 행사에 방문하기 전에 예약이 필요한 프로그램인지 확인해 보시는 게 좋겠습니다. 해가 지면서 더... ",
-   "url": "https://blog.naver.com/juryan39/224437718731",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "실제 현장에서는 일정 관리 → 관광지 안내 → 차량기사와 동선 조율 → 식당 예약 확인 → 입장권 확인 → 고객 요청 대응 → 돌발상황 조정 등 여러 업무를 동시에 수행합니다. 영어... List를 사전에 정리해 두면 체크인도 훨씬 원활하게 진행할 수 있습니다. 외국인 단체여행 일정표와 호텔 객실 배정표, 차량 정보를 확인하는 인바운드 여행사 실무 운영 모",
-   "url": "https://blog.naver.com/goldskytourkorea/224433849396",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "사전예약은 10월 13일까지 네이버폼으로 진행됩니다. 특히 제1회 광양 관광의 날이 함께 열려 관광 할인투어와... 테마 체험 연계행사 : 제1회 광양 관광의 날 주최 : 광양시 주관 : 광양전통숯불구이 축제추진위원회 올해 축제는... 다만 이곳이 일반 관람객에게 개방되는 관람구역이라는 의미는 아닙니다. 불꽃놀이의 예정 진행시간이 짧으므로 시작 직전에...",
-   "url": "https://blog.naver.com/kipop2323/224435785687",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "설악 케이블카 / 국립공원공단 (클릭하면 바로 탐방정보를 확인할 수 있습니다.) 2 화담숲｜사전예약으로 즐기는 수도권... 속리산숲체험휴양마을 / 국립공원 공식 홈페이지 / 법주사 문화재 · 사찰 일정 (클릭하면 탐방정보 확인할 수 있습니다.)... 방문 전에는 국립공원공단을 통해 탐방로 개방 여부와 현지 기상 상황을 확인하는 것이 좋습니다. 국립공원공단.",
-   "url": "https://blog.naver.com/y8iconsistent/224437733659",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "한눈에 정리 기간: 2026년 10월 15일(목)~19일(월), 5일간 장소: 전북 고창군 고창읍 모양성로 1 일대(고창읍성·꽃정원·전통예술체험마을) 비용: 행사장 입장 무료(먹거리·일부 체험은 품목별 유료 가능) 대상: 남녀노소 누구나, 대부분 사전예약 없이 현장 참여 가능 방법: 공식 홈페이지와 고창군청 공지에서 세부 시간표 확인 후 방문 고창 모양성제",
-   "url": "https://blog.naver.com/luvtours/224429287684",
-   "engine": "naver_blog",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "궁궐야행은 낮 시간에만 볼 수 있던 궁궐을 밤에 특별히 개방하는 행사입니다. 이 프로그램은 대개 역사와 문화에 관심이 많은 어린이와... 만약 가을철 가족 나들이를 계획 중이라면, 밤 시간대에 열리는 궁궐야행이 가장 적합하며, 예약이 필수인 경우가 많으니 사전 준비를 꼭 해두시는 것이 좋습니다. 또한, 야간개장 시에는 따뜻한 옷차림과 조명에 대비한 소지품을",
-   "url": "https://cafe.naver.com/hahahaup/10293?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhaGFoYXVwIiwiYXJ0aWNsZUlkIjoxMDI5MywiaXNzdWVkQXQiOjE3OTE2OTI0NjQ1OTZ9.tcH1AVZWua7OLhymcymzHa53mTLI0KEiRS2KhF4pKh0&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "무료로 개방되는 이번 축제는 포구의 가을 정취를 만끽할 수 있는 행사입니다. 축제의 하이라이트인 드론 라이트쇼는 10월 10일 저녁 7시에 진행됩니다. 수백 대의 드론이 월곶 밤하늘을 수놓으며 특별한... 체험 프로그램은 사전 예약이 필요한가요? 어선 승선이나 고기잡이 체험의 예약 방식은 현장 상황에 따라 달라집니다. 인원 제한이 있을 수 있으니 행사장에 ",
-   "url": "https://cafe.naver.com/zzangbusan/41111?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Inp6YW5nYnVzYW4iLCJhcnRpY2xlSWQiOjQxMTExLCJpc3N1ZWRBdCI6MTc5MTY5MjQ2NDU5Nn0.LVx1X89nd04vZR75ugakW-Bi1-KDk7OhYSfjSMPWPs8&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "좡발짱 도보일지 — 일본 편 ② 혼슈 동부 ~ 홋카이도 2025.11.27 ~ 2026.04.29 · 154일 · 도보 1,867km ⑤ 일본 혼슈 동부 — 시즈오카 → 도쿄 → 아오모리 (11/27~02/27 · 1102km) ⑥ 일본 홋카이도 — 하코다테 → 노삿푸곶 (02/28~04/29 · 765km) ⑤ 일본 혼슈 동부 — 시즈오카 → 도쿄 → 아",
-   "url": "https://cafe.naver.com/juaniwalker/9?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1YW5pd2Fsa2VyIiwiYXJ0aWNsZUlkIjo5LCJpc3N1ZWRBdCI6MTc5MTY5MjQ2NDU5Nn0.v8EGbVBEw5dT2MCeejTQGJl3Nrz8j8qsV1wTYV5b4Ng&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "포스코와 전남 광양이 지난 10월 8일 ‘광양시민의 날’을 맞아 구봉산 정상에서 체험형 조형물 ‘파노라마 워크’ 제막식이 있었다. 2022년 포스코와 광양시가 체결한 구봉산 명소화... 10월9일부터 시범 개방이 되었다는데 운영시간은 오전 10시부터 오후 6시까지이며 무료라고 한다. 안전을 위해 시간당 관람 인원을 200명으로 제한하고 MY광양 앱을 통해 ",
-   "url": "https://cafe.naver.com/bearstonevalley/6368?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJlYXJzdG9uZXZhbGxleSIsImFydGljbGVJZCI6NjM2OCwiaXNzdWVkQXQiOjE3OTE2OTI0NjQ1OTZ9.vQfaEg1OSqSqbAESPIUsZBCKYmTq31FdoVJFKuzLUm0&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "여행지추천해주세요) ※ 너무 짧고 성의없는 등업용 게시글(본문내용없는 글 포함) 사전통보없이 강등/삭제됩니다. ※ 질문에 대한 덧글에는 꼭 답덧글/감사인사를 해주시는 센스를 보여주세요 : ) ▶ 월요일날 후쿠오카로 떠나는데 혹시 하카타에 특별한 행사나 일정 같은거 있을까요? 3일연휴 마지막이고 스포츠의날이라고해서 스미요시신사에 행사가 있다는거는 접했는데 혹",
-   "url": "https://cafe.naver.com/20daelee/948537?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjIwZGFlbGVlIiwiYXJ0aWNsZUlkIjo5NDg1MzcsImlzc3VlZEF0IjoxNzkxNjkyNDY0NTk2fQ.rl6lG5fTFWJVDzxawosR4qtHjU_f9tFOYxjKMMhMo1E&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "통신망과 산업 현장의 사후 대응을 사전 예측과 자동 조치로 바꾸는 AI 기술들이 한자리에 모였다. 서 11:27\"PC 장애, AI가 알아서 고친다\"…팀뷰어, 원격지원 넘어 ‘자율 IT’로 원격으로 접속해... 디지털 세상에서 인류의 지식과 정보를 언어로 학습한 생성형 AI가 이제 물리 세상을 체험하기 위해 나올 채비를 마쳤습니다. 이름하여 피지컬(Physi",
-   "url": "https://cafe.naver.com/greenb0k6k/197477?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjE5NzQ3NywiaXNzdWVkQXQiOjE3OTE2OTI0NjQ1OTZ9.tYJbHJax9jXe0AIVwG_pHSJoktlQ_uoQ6WCs2VSNRI8&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "추첨에서 떨어져도 크게 아쉬워할 필요는 없다, 축제 기간에는 예약 없이 현장에서 참여할 수 있는 체험 프로그램도 따로 운영된다. 예약 없이도 즐기는 현장 프로그램과 야간 경관 특별 개방·투어형 프로그램은 사전예약이 필수지만, 정동 일대에서 펼쳐지는 공연·전시·퍼레이드는 누구나 현장에서 즐길 수 있다. 덕수궁 돌담길을 중심으로 역사문화시설과 가로공간 19곳에",
-   "url": "https://cafe.naver.com/festivalnote/7?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZlc3RpdmFsbm90ZSIsImFydGljbGVJZCI6NywiaXNzdWVkQXQiOjE3OTE2OTI0NjQ1OTZ9.TRqqqT6uZxmWspoQiDHWdyPtMGGLr5CDRqrt6tromho&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "산지 농가의 핵심 데이터(이메일, 주소, 전화번호, 휴대폰번호) 출처 4건 2023.12.19.공공데이터포털 농가 소싱발굴부터 관리 시스템 구축 한국데이터산업진흥원_데이터바우처 사업관리 가공기업 정보_20260720관심목록에 추가 0 0 파일데이터 오픈 API 추천데이터 도움말 공공데이터활용지원센터는 공공데이터포털에 개방되는 3단계 이상의 오픈 포맷 파일데",
-   "url": "https://cafe.naver.com/purpleb5chw/21?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InB1cnBsZWI1Y2h3IiwiYXJ0aWNsZUlkIjoyMSwiaXNzdWVkQXQiOjE3OTE2OTI0NjQ1OTZ9.-Z-vEYiBlAeou1odqMdStMCfYGrDSv4qhY2umH_Vv-w&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "같은 무료 축제라도 체험비나 예약비가 따로 들 수 있으므로 후보를 고른 뒤 지역별 장소와 비용을 대조하면 계획을 세우기 쉬워요. 방문 날짜와 동행이 정해졌다면 전국 축제 목록에서 맞는 지역과... 체험보다 밤 풍경을 좋아하는 가족이라면 진주남강유등축제의 유등 전시와 소망등 달기·유등 띄우기, 장성 황룡강 가을꽃축제의 불꽃, 서울억새축제의 21시까지 야간개방",
-   "url": "https://cafe.naver.com/rkskekfk121/30776?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJrc2tla2ZrMTIxIiwiYXJ0aWNsZUlkIjozMDc3NiwiaXNzdWVkQXQiOjE3OTE2OTI0NjQ1OTZ9.Qhsrbu5N4-zz6RgFop7AvObkV9OBGsJ0fiiZzF6kJGQ&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "출처: 후난성 인민정부 大张家界地区首届湖湘文创周启动 발표: 2026-10-03 · 확인: 2026.10.09 중국시간 11:35 원문 보기 ↗ 03 [하이난·바이사] 예약·우림 체험 잉거쭈이 우림, 국경절 이후 주말도 예약 개방 안내 바이사현 관광문화체육국의 기존 공지는 鹦哥嘴自然生态体验区가 국경절 이후 주말에도 예약제로 개방된다고 설명합니다. 비가 오면 ",
-   "url": "https://cafe.naver.com/lotocha/239?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxvdG9jaGEiLCJhcnRpY2xlSWQiOjIzOSwiaXNzdWVkQXQiOjE3OTE2OTI0NjQ1OTZ9.-M__yP72nl_fFz4G_umJkoX0RQAoHkcK8fBN9mM_3l0&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "300명 사전예약) 진주남강유등축제(~18일), 부산국제영화제(~15일), 정읍 구절초꽃축제(~18일) ■ 추천 코스 요약 ① 가족 [당일] 서울... [1박 2일] 세종 + 대전: 10일 세종한글축제(무료), 저녁 불꽃·드론 공연 → 11일 오전 한글 체험 후 대전 성심당 방문(12일 휴무 주의). [2박... ② 연인 [당일] 인천 개항장 야행: 낮에 ",
-   "url": "https://cafe.naver.com/suncheoncar/22?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InN1bmNoZW9uY2FyIiwiYXJ0aWNsZUlkIjoyMiwiaXNzdWVkQXQiOjE3OTE2OTI0NjQ1OTZ9.g9etkTKUnTcDK98Q2gSRvpQ00kk7CgmVD6xYXHPAV_g&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "‘관광+’를 체험할 수 있도록 유도했다. 이와 함께 관련 기관들은 사전 대비책을 마련하고 연휴 기간 순찰 및 감독을 강화하여... 이 중 무료 개방일이었던 10월 1일 하루에만 2,142명이 방문했으며, 정기 휴관일이었던 10월 6일에도 특별 개방을 실시했다. 현지 문화창작... 10월 1일부터 7일까지 총 27건의 방문객 문의 및 불만이 접수되었으며(주로",
-   "url": "https://cafe.naver.com/macaotravel/100736?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hY2FvdHJhdmVsIiwiYXJ0aWNsZUlkIjoxMDA3MzYsImlzc3VlZEF0IjoxNzkxNjkyNDY0NTk2fQ.m6Huuo9oX1BUgEphQ50HV3mfkCupvVZBdb5Cao0lbp8&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "우리나라 국중박도 최고 수준의 전시를 무료개방 하고 있듯이 중국도 대표 박물관 미술관등 최고 수준의 전시를. 정책적으로 무료개방을 합니다. 휴관일, 예약은 필수입니다. 즐거운 여행되시길... 위치: 인민광장(人民广场) 본관 및 푸둥 동관(东馆) 관람 팁: 기본 상설전은 무료이며, 여권이나 공식 위챗 미니프로그램(또는 Trip.com 등)을 통해 사전 예약 ",
-   "url": "https://cafe.naver.com/8282home/863463?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjgyODJob21lIiwiYXJ0aWNsZUlkIjo4NjM0NjMsImlzc3VlZEF0IjoxNzkxNjkyNDY0NTk2fQ.O0jKvZ6JjyjbnLJBp9YvxnH09X5QivxRaWbbJ4bXz0c&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "② 아트 갤러리 관람 매일 10:00~17:00 개방 Art Series 라벨 작품 150점 이상 출처: 공식홈페이지 예약이 필요한 프로그램 ③ Art Series Chardonnay 플라이트 45분, 좌석·튜터 시음... (체험 예약) 공식 사이트 메인 https://leeuwinestate.com.au 셀러도어 https://leeuwinestate.c",
-   "url": "https://cafe.naver.com/westoutback/31?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indlc3RvdXRiYWNrIiwiYXJ0aWNsZUlkIjozMSwiaXNzdWVkQXQiOjE3OTE2OTI0NjQ1OTZ9.ATkoYxIdbtutd5XiXaimgn2v2SVh5uBj-zPtz1J6mV8&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "논산 온빛자연휴양림 충남 논산시 벌곡면 황룡재로 480-113 ️ 연중 상시 개방 입장료 무료, 사전 예약 없음 호수와 메타세쿼이아, 갈색 목조 건물이 한 화면에 들어오는 곳입니다. 산책은 호수 주변과... 돌탑광장, 생태놀이터, 맨발지압로, 유아숲체험원, 피크닉장도 있어 아이와 함께 머물기 좋습니다. 장태산과 같은 날 묶으면 대전 숲 나들이 코스로 이어집",
-   "url": "https://cafe.naver.com/mathaeng/1206?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hdGhhZW5nIiwiYXJ0aWNsZUlkIjoxMjA2LCJpc3N1ZWRBdCI6MTc5MTY5MjQ2NDU5Nn0.53QZIWz4C03wnyPvj0TR1rLI_7BtXkqspaai9EvNxC0&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "11.(일) 시간: 10:00 ~ 21:00 (궁궐별 개방 시간 상이) 비용: 궁궐 입장료(1,000원~3,000원, 한복 착용 시 무료입장 가능 / 일부 사전예약 프로그램 유료) 서울의 5대 궁궐에서 가을의 정취와 함께 조선 왕실의 품격 있는 문화를 오감으로 체험하는 도심 축제입니다. 고궁을 무대로 전통 궁중무용, 판소리, 퓨전 국악 공연 등이 야외에서 ",
-   "url": "https://cafe.naver.com/maniafarm/2721?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hbmlhZmFybSIsImFydGljbGVJZCI6MjcyMSwiaXNzdWVkQXQiOjE3OTE2OTI0NjQ1OTZ9.LwGaBjHkyJadlCqS_-GCNbqjqi6JRyB77mEFU4RSCwE&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "나아가 개정된 공동주택관리법령과 은평구의 부설주차장 개방 공유사업 지원 조례를 바탕으로, 상림마을1단지 입주민들의 주거 쾌적성을 철저히 보호하면서도 단지의 관리외 수익을 극대화할 수 있는... 방문객들이 좁고 혼잡한 문학관 앞까지 차량을 몰고 진입하는 대신, 인접한 대단지 아파트의 외부 개방 주차장이나 외곽 공영주차장에 차량을 세워둔 뒤 순환셔틀로 갈아타고",
-   "url": "https://cafe.naver.com/epaptguide/83?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVwYXB0Z3VpZGUiLCJhcnRpY2xlSWQiOjgzLCJpc3N1ZWRBdCI6MTc5MTY5MjQ2NDU5Nn0.HE7UWtpQzOMbsIigCE6HpHRiBVeAUXd0M_bL6c-WBzE&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "진로체험 운영 사진·영상 스튜디오 비영리단체 기록물 제작 행사 없는 날 촬영 지원 법무·세무·노무기업 회의실 소상공인 기초상담 사전예약 상담공간 제공 물류·유통기업 창고 일부 기관 물품의 임시보관 기간·품목을 제한해 지원 회사 주차장 지역행사 주차 부족 주말 일부 시간 개방 공연·문화공간 지역예술가 발표 기회 비는 일정에 소규모 공연 위 내용은 기업이 선택",
-   "url": "https://cafe.naver.com/ccbsesg/157?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNjYnNlc2ciLCJhcnRpY2xlSWQiOjE1NywiaXNzdWVkQXQiOjE3OTE2OTI0NjQ1OTZ9.4TN-VNQLjGvpkL5kMLu0KGYsJs1LO7Sq1kN7aT6RJZM&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "01일 시민에게 개방) 상세 정보 한글날 2026 | 2026 세종한글축제 사진 출처: 2026 세종한글축제 공식 홈페이지 일정: 2026년 10월 9일(금)~10월 11일(일) 운영시간: 11:00~21:00 장소: 세종호수공원... 2026 세종한글축제 티켓 정보 구분 가격 축제 입장 무료 일부 체험·사전예약 프로그램 프로그램별 별도 확인 ※ 일부 프로",
-   "url": "https://cafe.naver.com/ansanhopetoy/10359?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFuc2FuaG9wZXRveSIsImFydGljbGVJZCI6MTAzNTksImlzc3VlZEF0IjoxNzkxNjkyNDY0NTk2fQ.3WdiGYUuEnLBK9y7CTnjjsRDw3tsD8mAnxSpVtDb16w&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "RIC 개방형(오픈형)보청기를 구입하였지만 불편하여 반품 하였으며 또다른 경상북도 경산시에있는 타보청기점 3곳에서도 보청기상담 및 구입까지하여 착용해 보았지만 큰소리불편과 말소리구분에... 음감테스트과정에서 체험한 보청기가 작은소리 들리면서 큰소리가 불편하지않아 말소리구분에 도움이된다하여 렉스톤보청기사 Rexton Sterling 5 CIC 고막형보청기로 ",
-   "url": "https://cafe.naver.com/sorisem001/7249?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNvcmlzZW0wMDEiLCJhcnRpY2xlSWQiOjcyNDksImlzc3VlZEF0IjoxNzkxNjkyNDY0NTk2fQ.DmqEEaqnksbHGcp6ItAeafaQM5DwNALvawn9eUU_La4&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "프로그램 체험·레크리에이션 운영비 1,000,000원 행사 운영물품 명찰, 안내물, 소모품 등 500,000원 예비비 기타 추가 소요경비 700,000원 합계 11,000,000원 6. 행정사항 행사 참석 대상 임직원을 대상으로 사전 참가 신청을 실시하고 가족 참석 인원 및 식사 여부 등을 사전에... 식음료 예약 중식, 다과, 음료 등 참석 인원에 맞춰 ",
-   "url": "https://cafe.naver.com/1010electron/106805?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjEwMTBlbGVjdHJvbiIsImFydGljbGVJZCI6MTA2ODA1LCJpc3N1ZWRBdCI6MTc5MTY5MjQ2NDU5Nn0.jf8F87JqNg5Q46YNpRxz1ZDVsESw6wK2260kYZ7F-Q0&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "입장은 무료고, 먹거리나 일부 체험만 유료예요. 대부분 사전예약 없이 현장 참여라, 갑자기 일정이 비어도 가기 좋아요. 혼자 훌쩍 가도 되고, 아이 손을 잡고 가도 되고, 부모님을 모시고 가도 부담 없는... 축제 기간엔 개방시간과 동선이 평소와 달라질 수 있어요. 평소 개방시간만 보고 왔다가 등양루 관람 시간을 놓치는 경우가 많다고 해요. 성곽길엔 경사·",
-   "url": "https://cafe.naver.com/luvinfo/286?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imx1dmluZm8iLCJhcnRpY2xlSWQiOjI4NiwiaXNzdWVkQXQiOjE3OTE2OTI0NjQ1OTZ9.atLFJlOVinwPDKQ5DChr7xsezHM-qtlN47t8EtdgHVQ&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "★ PPT 교육 15분 > 나만의 도자기 오브제 만들기 35분 > 전시실 & 개방형 수장고 관람 10분 프로그램 진행 후 자유관람 및 체험 시간을 드리고 있습니다 :) 프로그램 사전 접수 안내 ▪️예담고 누리집 또는 전화로 예약이 가능합니다. ▪️교육 프로그램 관련 자세한 내용은 예담고 누리집에서 확인하실 수 있습니다. 흙 속에 피어난 무늬 < 교육 · 행",
-   "url": "https://cafe.naver.com/elkas/70725?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVsa2FzIiwiYXJ0aWNsZUlkIjo3MDcyNSwiaXNzdWVkQXQiOjE3OTE2OTI0NjQ1OTZ9.B7c9vt9_GgfjePmS6EmOVNxA1ZQO4FSrP5sQ78JYzSM&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "단, 체험 프로그램 일부는 사전 예약이 필요할 수 있으니 예약 현황을 미리 확인해두는 게 좋아요. Q. 차준환·이해인 아이스쇼는 따로 예매해야 하나요? A. 맞아요. 피겨 아이스쇼는 강릉하키센터에서... 대중교통 이용이나 셔틀버스 운영 여부는 예약 페이지에서 최신 안내를 확인하는 게 정확해요. 3줄 요약 1. 10월 19일~23일, 강릉 올림픽파크에서 IT",
-   "url": "https://cafe.naver.com/jhs29/998?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImpoczI5IiwiYXJ0aWNsZUlkIjo5OTgsImlzc3VlZEF0IjoxNzkxNjkyNDY0NTk2fQ.5HCdSbsdYTyjP93tK6DWEMsfKssa_7382EI8CbGiwEw&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "비개방코수술로 앤플러스 마크 반포리움 나나 저번달에 예약하고 이제야 갑니다 ㅠㅠ 상담질문부터 사진까지 싹다 준비해놔서 가서 놓치는거만 없이 잘 물어보면 되는데 혹시 상담하면서 녹음은 불가능하겠죠? 멀티가 잘 안돼서 대충 메모 할 것 같은 불길한 예감이 들어서요 .. 사전에 한번 여쭤봐야겠어요!",
-   "url": "https://cafe.naver.com/feko/11188830?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZla28iLCJhcnRpY2xlSWQiOjExMTg4ODMwLCJpc3N1ZWRBdCI6MTc5MTY5MjQ2NDU5Nn0.jXxqUZkBrdPM7mRh7uRtnH_dortkdQszkbIKf6GCa-M&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "보청기기종선정위한 관련검사와 음감테스트 결과통해 청각과 보청기관련 정보를 안내하자 부산 중구 남포동에있는 프렌챠이즈 타보청기점에서 2018년 독일보청 기?라는 우측 RIC 개방형(오픈형)보청기 구입하던 과정과는 차이가 많고 음감테 스트과정에서 체험한 보청기는 큰소리가 불편하지않고 보통소리로 말소리 알아 들을수있다며 보청기구입을 원함으로 버나폰보청기사 ber",
-   "url": "https://cafe.naver.com/sorisem001/7243?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNvcmlzZW0wMDEiLCJhcnRpY2xlSWQiOjcyNDMsImlzc3VlZEF0IjoxNzkxNjkyNDY0NTk2fQ.7j5A0I3Co4z7eAYn4rRI0qyIjANAKNP8EHgt-Zj3xvg&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "오픈형(개 방형)보청기 구입시 상담과 검사한 과정과 차이많고 음감테스트과정에서 체험한 보청기가 불편하지않고 말소리구분에 도움된다며 가져온 보청기를 재사용할수 없는지 문의하여 보청기소비자가격의 70~90%가 보청기상담사의 보청기사후 관리비용이고 가져온 보청기는 청각장애등급을 가진 청각장애인에게만 5년에 한번씩 일반 소비자가격이 아닌 정부고시가격으로 지원받을수",
-   "url": "https://cafe.naver.com/sorisem001/7240?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNvcmlzZW0wMDEiLCJhcnRpY2xlSWQiOjcyNDAsImlzc3VlZEF0IjoxNzkxNjkyNDY0NTk2fQ.3fG4--jWcaDDec-Y94dU3WldJ1l-yeri20e6vUwtCh8&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "매주 월요일과 화요일은 개방하지 않으니 방문 전 요일을 꼭 확인해야 합니다. 야간에는 고궁 내부가 어둡기 때문에 이동 시 발밑을... 다양한 체험 행사가 펼쳐집니다. 특히 10월 9일과 10일 양일간 열리는 한복 연향은 대표적인 야간 프로그램으로 저녁 7시부터 9시까지 진행될 예정입니다. 한복 연향 예약은 티켓링크를 통해 사전 접수를 받았으며 예약 없이 방",
-   "url": "https://cafe.naver.com/zzangbusan/40755?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Inp6YW5nYnVzYW4iLCJhcnRpY2xlSWQiOjQwNzU1LCJpc3N1ZWRBdCI6MTc5MTY5MjQ2NDU5N30.DDAlrifRtBuLaB1x3fh7EdwiLieke84SjCP1BGXAt54&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "[26년4주기학생방] [2026 숲터 들살이 일지] 제주있네!_안서현 안녕하세요! 숲터 10학년 안서현입니다. 슬슬 여름이 끝나고 서늘한 기운이 느껴지는 완연한 가을! 다들 즐겁게 보내고 계신가요? 앞서 올라온 언니 오빠들의 일지로 이미 아시겠지만 지난 9월 7일부터 18일, 숲터 학생들이 무사히 들살이를 다녀왔습니다! 저는 올해 10학년으로 올라왔기에 첫",
-   "url": "https://cafe.naver.com/goyangjayu/2994?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdveWFuZ2pheXUiLCJhcnRpY2xlSWQiOjI5OTQsImlzc3VlZEF0IjoxNzkxNjkyNDY0NTk3fQ.v9ZavZ88G2G-B8Yj_mAzyYhqHriAdO6ygq6cd84Qys4&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "한 가지 주의할 점은, 무료 개방이라도 일부 체험 프로그램은 현장 선착순이거나 별도 사전예약제로 운영될 수 있다는 것이다. 단순 입장은 공짜지만 특정 체험까지 하고 싶다면 통합예약시스템에서 프로그램 신청 여부를 미리 확인해두는 게 안전하다. 입장은 공짜라도 체험은 따로 예약해야 할 수 있다는 걸 놓치면, 현장에서 '선착순 마감'이라는 말을 들을 수 있다. ",
-   "url": "https://cafe.naver.com/goodinfo53/894?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imdvb2RpbmZvNTMiLCJhcnRpY2xlSWQiOjg5NCwiaXNzdWVkQXQiOjE3OTE2OTI0NjQ1OTd9.MsFGRgAQhpvUMBAI0zaQMyA767YLYhHUT5y-Yzj83cY&q=DMZ%20%ea%b0%9c%eb%b0%a9%20%ec%b2%b4%ed%97%98%20%ec%82%ac%ec%a0%84%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "출입신고부터 통일전망대 관람, 6·25전쟁체험전시관과 DMZ박물관까지 강원도 고성 여행 중 꼭 한번 가보고 싶었던 고성... 별도의 인터넷 예약을 하지 않았다고 해서 통일전망대를 관람할 수 없는 것은 아닙니다. 모바일 앱 사전 등록은 입장권을... 제진검문소에서는 차량 창문을 개방해서 탑승 인원을 확인하고 상황에 따라 차량 내부나 트렁크 등을 확인할 수 있",
-   "url": "https://blog.naver.com/gate5769/224411693705",
-   "engine": "naver_all",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "축제에서는 페이스페인팅·목공 체험·키링 만들기·보물찾기 등 체험 프로그램과 문화공연·버스킹 무대가 함께... 시티투어는 사전예약이 우선이에요! 출처 - 세계일보 연천 호로고루 주차·입장료 ️ 주차 현장 주차 가능 (무료) 주말·축제 기간에는 혼잡할 수 있어요! 입장료 무료! 야외 유적 상시 개방이에요. 연천 호로고루 관람 꿀팁 ⏰ 방문 시간... 새 창 열",
-   "url": "https://cafe.naver.com/cantsb/3539943?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNhbnRzYiIsImFydGljbGVJZCI6MzUzOTk0MywiaXNzdWVkQXQiOjE3OTE2OTI0NjcyNjd9.2aDa1nNOZhJ9zUmah0q8CDEQkDZa2WHFOvcLuxmKWIk",
-   "engine": "naver_all",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "암튼 만 2세가 지난 후 부터 파라다이스시티 + 고성 조합으로 다니다 만 3세가 되어서 + 여기에 갯벌체험이 추가 됩니다.... 예약도 치열하지 않고, 파시티에서는 룸 업글을, 바다에서는 여유롭게 놀수 있다. 고속도로도 텅텅 비어있다. 아 물론... 10분마다 있는 것 같았고 잠깐 기다리다 동영상을 보고 이제 dmz로 이동합니다. 10분 정도 달리면, 군인",
-   "url": "https://cafe.naver.com/postmore/78578?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBvc3Rtb3JlIiwiYXJ0aWNsZUlkIjo3ODU3OCwiaXNzdWVkQXQiOjE3OTE2OTI0NjcyNjd9.o9U0nMHK8wlAL_mJOt8kI2IY5Ft3qrJSeSgy4g0DhX8",
-   "engine": "naver_all",
-   "query": "DMZ 개방 체험 사전예약",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "자신이 탑승한 버스에서 어떻게 행동해야 하는지 확인하는 시간입니다. ✅ 안전교육 실시와 미실시, 어떤 차이가... 비상장비의 [위치]는 실제 탑승 차량에 맞춰 안내합니다. 여러분, 안녕하세요. 오늘 일정을 함께할 **한국비전교육센터... 실제 허용 범위는 학생의 연령·건강 상태와 학교·차량 운영기준을 고려해 사전에 정합니다. 교육 후에는 학생의 이해와 착용",
-   "url": "https://blog.naver.com/ycheulp/224437872693",
-   "engine": "naver_blog",
-   "query": "전승행사 장비탑승 운영시간",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "꼭 봐야 할 블랙이글스 에어쇼 시간부터 일자별 역대급 가수 라인업, 낙동강 부교 체험 정보까지 총정리해 드립니다! 축제 기본 정보 축제명: 제13회 칠곡낙동강평화축제 (제17회 낙동강지구 전투 전승행사 연계) 일시: 2026. 10. 15.(목)... 도하 장비를 타고 낙동강변을 횡단하는 이색 체험 낙동 아일랜드 (10:00~18:00): 낙동강에서 즐기는",
-   "url": "https://blog.naver.com/jlemnear/224437825908",
-   "engine": "naver_blog",
-   "query": "전승행사 장비탑승 운영시간",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "이전 행사들보다 훨씬 체계적으로 운영된다는 느낌을 받았습니다. 서킷 위 관중석에서 질주하는 차량들을 내려다 보는... 아이와 함께 즐기기 좋은 포인트와 아쉬운 점 어른들을 위한 드리프트 체험이나 G바겐 탑승 체험 등 다이내믹한 행사도 있었지만, 성인 위주라 아이가 참여하기엔 조금 무리가 있어 구경만 했습니다. RC카 체험존 역시 전문 취미용 장비... 새 ",
-   "url": "https://blog.naver.com/psc0928/224437812116",
-   "engine": "naver_blog",
-   "query": "전승행사 장비탑승 운영시간",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "주최·운영하는 무료 관람 행사입니다. 공연 요일: 매주 토요일 (주 1회, 당일 2회 공연 진행) 관람료: 전 구역 무료 관람 공연 시간 (회당 약 10분~12분 진행): 하절기 (3월 ~ 9월): 1회차 20:00 / 2회차 22:00 동절기 (10월 ~ 2월): 1회차 19:00 / 2회차 21:00 공연... 108번 탑승 후 '광안리해수욕장' 또는 ",
-   "url": "https://blog.naver.com/nnolja9/224437728027",
-   "engine": "naver_blog",
-   "query": "전승행사 장비탑승 운영시간",
-   "first_seen": "2026-10-11T13:07:53+09:00"
-  },
-  {
-   "title": "비와 강풍 등 기상 예보 목적지 주변의 기상특보와 재난 안내 산책로와 등산로의 통제 여부 축제장과 야외시설의 운영 변경 여부 귀가 시간대의 날씨와 교통상황 비가 많이 내리거나... 운전자가 지켜야 할 안전수칙 첫째, 모든 탑승자는 안전띠를 착용해야 합니다. 어린이는 나이와 체격에 적합한 어린이용 카시트를 올바르게 사용해야 합니다. 둘째, 운전 중 휴대전화를",
-   "url": "https://blog.naver.com/profit-hub/224437264476",
-   "engine": "naver_blog",
-   "query": "전승행사 장비탑승 운영시간",
    "first_seen": "2026-10-11T13:07:53+09:00"
   }
  ],
