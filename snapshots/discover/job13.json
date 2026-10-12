@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-13T01:08:01+09:00",
+ "updated": "2026-10-13T02:08:04+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "새로운 기능이 추가됐는지 보는 영화사이트 만들기 변경 정보 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDNuV0NRUXJ2VU5LVUh1VU1KUHlTOE5OR1NMR2Faem5Nb244WlJGWS1Cel9EMVZXYklWWUNvUUQ2U2JpbkM3b3VrWTdIQnVuM1F5Y1BVcWlVaHV3ZjVrU2gwclN2ZktoTkR4XzRWcGw0TE5qWVFsRW9VMEs3Z2hzdUxTVlV6YjZjRl9BbnlLSTNnb01RbGFZN3c1Z19vZk5CcVZGUzFwTjhKV0NncGdxUkVEeC1PTTZHc2V1MUxYZ0tRaU5HY3lvWU9TMGFLVms?oc=5",
+   "pub": "Mon, 12 Oct 2026 09:18:13 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-10-13T02:08:04+09:00"
+  },
   {
    "title": "조폐공사, 창립 75주년 맞아 온·오프라인 고객 이벤트 - 굿모닝충청",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JNmtNMXY4bW5HYlRNUjIxLUxHSUEyQTd6d0Q3TTFBR3d0aFZXR2E2My0wWndJYlc4amZGTGJ4bGNWdEhWLUpwdDJvWVhCUHlWTXhJOUp1RlJUWWJwRV9wN0JTV3RQZjdaZTlVN3B3ZDhRQQ?oc=5",
@@ -21137,45 +21145,7 @@
    "engine": "naver_blog",
    "query": "특판 예금 연 7%",
    "first_seen": "2026-10-10T22:07:59+09:00"
-  },
-  {
-   "title": "연 5.5%라는 숫자는 눈에 띄죠. 하지만 매일 꺼내 쓸 돈과 만기까지 둘 돈은 따로 봐야 해요. 삼성증권의 연 5.5%는 수시입출금 CMA 금리가 아니라, 만기가 있는 별도 발행어음... 여기서 다룬 발행어음형 CMA와 만기형 특판 모두 예금자보호 대상이 아니에요. 발행사의 부도·파산 등에 따라 원금 전액 손실도 가능해요. 비교할 때는 돈을 쓸 날짜 → ",
-   "url": "https://blog.naver.com/chacha-lifenote/224437203934",
-   "engine": "naver_blog",
-   "query": "특판 예금 연 7%",
-   "first_seen": "2026-10-10T22:07:59+09:00"
   }
  ],
- "errors": [
-  "gnews '기념주화 발행 계획': HTTP Error 503: Service Unavailable",
-  "gnews '기념주화 예약 접수': HTTP Error 503: Service Unavailable",
-  "gnews '한국은행 기념주화': HTTP Error 503: Service Unavailable",
-  "gnews '조폐공사 골드바 출시': HTTP Error 503: Service Unavailable",
-  "gnews '조폐공사 기념메달 판매': HTTP Error 503: Service Unavailable",
-  "gnews '조폐공사 한정판 금화': HTTP Error 503: Service Unavailable",
-  "gnews '현용주화 세트 판매': HTTP Error 503: Service Unavailable",
-  "gnews '프루프 주화 세트': HTTP Error 503: Service Unavailable",
-  "gnews '기념은행권 발행': HTTP Error 503: Service Unavailable",
-  "gnews '연결형 은행권 판매': HTTP Error 503: Service Unavailable",
-  "gnews '특수번호 은행권 경매': HTTP Error 503: Service Unavailable",
-  "gnews '은행 골드바 한정 판매': HTTP Error 503: Service Unavailable",
-  "gnews '은행 기념 골드바 출시': HTTP Error 503: Service Unavailable",
-  "gnews '교황 방한 기념주화': HTTP Error 503: Service Unavailable",
-  "gnews '세계청년대회 기념주화': HTTP Error 503: Service Unavailable",
-  "gnews '특판 적금 고금리': HTTP Error 503: Service Unavailable",
-  "gnews '특판 예금 연 7%': HTTP Error 503: Service Unavailable",
-  "gnews '개인투자용 국채 청약': HTTP Error 503: Service Unavailable",
-  "gnews '개인투자용 국채 금리': HTTP Error 503: Service Unavailable",
-  "gnews '조폐공사 한정 출시': HTTP Error 503: Service Unavailable",
-  "gnews '기념주화 한정판매': HTTP Error 503: Service Unavailable",
-  "gnews '조폐공사 실버바 출시': HTTP Error 503: Service Unavailable",
-  "gnews '십이간지 실버바': HTTP Error 503: Service Unavailable",
-  "gnews '조폐공사 예약판매 콜라보': HTTP Error 503: Service Unavailable",
-  "gnews '해외 조폐국 기념주화 국내 공식 판매': HTTP Error 503: Service Unavailable",
-  "gnews '프루프 민트 세트 한정 실버바': HTTP Error 503: Service Unavailable",
-  "gnews '한국은행 특수번호 은행권 경매 일정': HTTP Error 503: Service Unavailable",
-  "gnews '조폐공사 은메달 추가 판매': HTTP Error 503: Service Unavailable",
-  "gnews '풍산화동양행 신상품': HTTP Error 503: Service Unavailable",
-  "gnews '풍산화동양행 기념주화 판매': HTTP Error 503: Service Unavailable"
- ]
+ "errors": []
 }
