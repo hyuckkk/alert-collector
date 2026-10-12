@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T00:08:04+09:00",
+ "updated": "2026-10-13T01:08:01+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 159,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "전시명: 탈(脫) 창조의 세계로 전시기간: 2026년 8월 26일 ~ 2027년 6월 30일 전시장소: KAIST 대전 본교, 학술문화관 미술관 운영시간: 평일 10시 - 17시 관람료: 무료 운영 정보 전시 도입부가 굉장히 인상적인데, 우리의 존재는 신에게서 '존재하지 않겠다는 동의'로 빌려온 것이라고 하죠. 탈 창조의 세계를 '필멸자'의 정의로 시작한다",
@@ -21207,13 +21207,35 @@
   }
  ],
  "errors": [
-  "naver_cafe 'KAIST LUNATIC 정기공연': HTTP Error 403: Forbidden",
-  "naver_news '충남대 동아리 정기공연 외부인': HTTP Error 403: Forbidden",
-  "naver_cafe '충남대 동아리 정기공연 외부인': HTTP Error 403: Forbidden",
-  "naver_web '충남대 동아리 정기공연 외부인': HTTP Error 403: Forbidden",
-  "naver_news '목원대 대동제 시절인연': HTTP Error 403: Forbidden",
-  "naver_cafe '목원대 대동제 시절인연': HTTP Error 403: Forbidden",
-  "naver_all '목원대 대동제 시절인연': HTTP Error 403: Forbidden",
-  "naver_web '목원대 대동제 시절인연': HTTP Error 403: Forbidden"
+  "gnews 'KAIST 축제': HTTP Error 503: Service Unavailable",
+  "gnews '카이스트 공연 동아리': HTTP Error 503: Service Unavailable",
+  "gnews 'KAIST 루나틱': HTTP Error 503: Service Unavailable",
+  "gnews '충남대 축제': HTTP Error 503: Service Unavailable",
+  "gnews '충남대 공연': HTTP Error 503: Service Unavailable",
+  "gnews '목원대 공연': HTTP Error 503: Service Unavailable",
+  "gnews '목원대 연주회': HTTP Error 503: Service Unavailable",
+  "gnews '한밭대 축제': HTTP Error 503: Service Unavailable",
+  "gnews '한밭대 공연': HTTP Error 503: Service Unavailable",
+  "gnews '백마대동제': HTTP Error 503: Service Unavailable",
+  "gnews '대전 대학축제 라인업': HTTP Error 503: Service Unavailable",
+  "gnews '충남대 축제 외부인': HTTP Error 503: Service Unavailable",
+  "gnews 'KAIST 태울석림제': HTTP Error 503: Service Unavailable",
+  "gnews '한밭대 백련제': HTTP Error 503: Service Unavailable",
+  "gnews '목원대 정기공연': HTTP Error 503: Service Unavailable",
+  "gnews 'KAIST LUNATIC 정기공연': HTTP Error 503: Service Unavailable",
+  "gnews '카이스트 루나틱 힙합 공연': HTTP Error 503: Service Unavailable",
+  "gnews 'KAIST 동아리 합창 아카펠라 공연': HTTP Error 503: Service Unavailable",
+  "gnews '충남대 동아리 정기공연 외부인': HTTP Error 503: Service Unavailable",
+  "gnews '목원대 오케스트라 연극 뮤지컬': HTTP Error 503: Service Unavailable",
+  "gnews '한밭대 응원단 댄스 밴드 공연': HTTP Error 503: Service Unavailable",
+  "gnews '목원대 대동제 시절인연': HTTP Error 503: Service Unavailable",
+  "gnews '목원대 대동제 2026 라인업': HTTP Error 503: Service Unavailable",
+  "gnews '목원대 축제 외부인': HTTP Error 503: Service Unavailable",
+  "gnews '목원대 대동제 10월 28일': HTTP Error 503: Service Unavailable",
+  "gnews '목원대 총학생회 이음 대동제': HTTP Error 503: Service Unavailable",
+  "gnews '충남대 11월 정기공연': HTTP Error 503: Service Unavailable",
+  "gnews '충남대 백마홀 공연 11월': HTTP Error 503: Service Unavailable",
+  "gnews '충남대 정심화홀 정기연주회': HTTP Error 503: Service Unavailable",
+  "gnews '대학 원어연극 대전': HTTP Error 503: Service Unavailable"
  ]
 }

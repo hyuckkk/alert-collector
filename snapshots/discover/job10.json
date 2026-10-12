@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T00:08:04+09:00",
+ "updated": "2026-10-13T01:08:01+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 11,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "울릉군가족센터-(사)대한노인회 울릉군지회 업무협약 체결 - 시사통신",
@@ -21344,5 +21344,36 @@
    "first_seen": "2026-10-11T13:07:53+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '대전 아빠 자녀 체험': HTTP Error 503: Service Unavailable",
+  "gnews '대전 아빠 참여 프로그램': HTTP Error 503: Service Unavailable",
+  "gnews '대전 가족 체험 선착순': HTTP Error 503: Service Unavailable",
+  "gnews '대전 가족 프로그램 모집': HTTP Error 503: Service Unavailable",
+  "gnews '대전 초등 자녀 가족 체험': HTTP Error 503: Service Unavailable",
+  "gnews '대전 서구 통합예약 체험': HTTP Error 503: Service Unavailable",
+  "gnews '대전 서구 가족 체험': HTTP Error 503: Service Unavailable",
+  "gnews '유성구 가족 프로그램 모집': HTTP Error 503: Service Unavailable",
+  "gnews '유성구 아빠': HTTP Error 503: Service Unavailable",
+  "gnews '대전 중구 가족 체험': HTTP Error 503: Service Unavailable",
+  "gnews '대전 동구 가족 체험': HTTP Error 503: Service Unavailable",
+  "gnews '대덕구 가족 체험': HTTP Error 503: Service Unavailable",
+  "gnews '노루벌 생태원 체험': HTTP Error 503: Service Unavailable",
+  "gnews '대전 숲체험 가족 모집': HTTP Error 503: Service Unavailable",
+  "gnews '대전 캠핑 가족 모집': HTTP Error 503: Service Unavailable",
+  "gnews '대전 목공 체험 가족': HTTP Error 503: Service Unavailable",
+  "gnews '대전 과학 체험 가족 신청': HTTP Error 503: Service Unavailable",
+  "gnews '대전 천문대 가족': HTTP Error 503: Service Unavailable",
+  "gnews '한밭수목원 체험 신청': HTTP Error 503: Service Unavailable",
+  "gnews '대전 어린이 체험 접수': HTTP Error 503: Service Unavailable",
+  "gnews '세종 가족 체험 모집': HTTP Error 503: Service Unavailable",
+  "gnews '세종 아빠 자녀 프로그램': HTTP Error 503: Service Unavailable",
+  "gnews '대전아이 캠프': HTTP Error 503: Service Unavailable",
+  "gnews '다함께돌봄 캠프 대전': HTTP Error 503: Service Unavailable",
+  "gnews '숲체원 가족 캠프': HTTP Error 503: Service Unavailable",
+  "gnews '대전 돌봄 페스티벌': HTTP Error 503: Service Unavailable",
+  "gnews '다키움': HTTP Error 503: Service Unavailable",
+  "gnews '대덕특구 주말개방': HTTP Error 503: Service Unavailable",
+  "gnews '계족산 울림축제 사전신청': HTTP Error 503: Service Unavailable",
+  "gnews '대전시립미술관 교육 접수': HTTP Error 503: Service Unavailable"
+ ]
 }
