@@ -1,8 +1,24 @@
 {
- "updated": "2026-10-12T18:05:19+09:00",
+ "updated": "2026-10-12T20:08:04+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 2,
  "hits": [
+  {
+   "title": "유성의 가을밤, 1500대 드론 수놓는다 - - 뉴스세상",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XQTJDUG1ST2Nnd0E1eGhILVU3ZVo3NlBoRVFpOE1rWDFuQUlCRHU2eUpEWWs1bmdoV2lYUmV2RkotWjVxVTdCc1ZkN0xFbWJNNkU0V2t3MUlTbjVEbjg1WlBkMS1jOVMtS1lR0gFvQVVfeXFMTVFMT2VJeEp5THRuUHFKWlFqNGZ0RkdlXzNMZi1lQ2pLUThkR1NwOXktSFJmZzN2WC1xZWhMb0hVck1MR3VWUlFTLXpHZGt0ckVZT29VRVcwckdRcTRZVjRZSnNza09qd05oWmh2NENj?oc=5",
+   "pub": "Mon, 12 Oct 2026 01:45:02 GMT",
+   "engine": "gnews",
+   "query": "대전 마술쇼 가족",
+   "first_seen": "2026-10-12T20:08:04+09:00"
+  },
+  {
+   "title": "대전 중구, '제3회 북페스티벌' 10일 ~ 11일 개최 - 한국미디어뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83dENRT2V0VHhzTUp2TXA4Z3hUSklZUUx0bV80N1RaZEthbGhRcHJkd0tFNnItTkhoRk1qbkRPaDNydlBBclg0SXBSYTZiRlh2V0YwVmhIaFdaeXZWV08yRFpHN0ZOdw?oc=5",
+   "pub": "Wed, 07 Oct 2026 03:31:08 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 퍼포먼스 공연",
+   "first_seen": "2026-10-12T20:08:04+09:00"
+  },
   {
    "title": "거장과 시민이 빚은 하모니, 대전의 가을을 물들이다 - 충청투데이",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQeEc2ZWl0SUxSam1iYUg2ZDVWX0pfbHQ5OUtpOWhtX0ZZRjVoM2k1cUdsZUtWU3A3dzlfWDVwbnZVcWhwMXd3UFNkUUVTanlzUF9PbG9RM1pIMDdkY2ZtdTdMcEU1NHlrQmZTbkNn?oc=5",
@@ -21114,27 +21130,13 @@
    "engine": "naver_all",
    "query": "대전 버블쇼 인형극 샌드아트",
    "first_seen": "2026-10-11T14:38:08+09:00"
-  },
-  {
-   "title": "2026.08.18.아이들의 시선을 사로잡은 버블쇼 샌드아트 공연이 끝나고 이어진 두 번째 무대는 버블쇼였습니다. 공연 분위기가 한순간에 달라졌습니다. 커다란 비눗방울이 만들어지고 객석... 작은 비눗방울부터 커다란 버블까지 다양한 형태의 버블이 등장하면서 공연장은 잠시 동화 속 공간처럼 변했습니다. 특히 어린이들에게는 눈앞에서 실제로 만들어지는 커다란 비",
-   "url": "https://blog.naver.com/eumseonggun/224381832555",
-   "engine": "naver_all",
-   "query": "대전 버블쇼 인형극 샌드아트",
-   "first_seen": "2026-10-11T14:38:08+09:00"
-  },
-  {
-   "title": "마술쇼,버블쇼,엘이디공연,인형극공연 다양한 맞춤형공연으로 찾아가요 공연섭외시 마삼촌 섭외해주세요 꼭말하셔야합니다... 물론 대전과 세종, 충청지역, 강원과 전라, 경상, 제주까지 전국으로 찾아갈 수 있어요. 공연 장소와 날짜, 예상 관객의 연령과 인원, 원하는 공연 구성을 알려주시면 행사에 맞춰 안내드립니다. 마술공연과 버블쇼 외에도 벌룬쇼와 샌드아트 등.",
-   "url": "https://blog.naver.com/masamcon/224413886553",
-   "engine": "naver_all",
-   "query": "대전 버블쇼 인형극 샌드아트",
-   "first_seen": "2026-10-11T14:38:08+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
  ]
 }
