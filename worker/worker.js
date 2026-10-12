@@ -19,7 +19,7 @@
 const CATS = ["show", "sale", "military", "fireworks", "dam", "invest"];
 const BOT_LABEL = { show: "Show", sale: "Sale", military: "Military experience", fireworks: "Fireworks", dam: "Dam", invest: "Invest" };
 let lastOrigin = null; // learned from incoming requests; the address is not kept in the public code
-const BUILD = "2026-10-11-sender-v6";
+const BUILD = "2026-10-12-sender-v7-hold";
 // Free plan: 50 subrequests per invocation. Every GitHub/Telegram call is counted; optional work stops
 // early so that the claim commit (4) and the result commit (8 per attempt) always fit.
 let SUB = 0;
@@ -289,7 +289,9 @@ async function run(env) {
     repo.list("relay-v2/queue", head)]);
   // ChatGPT-side alerts (the user's other assistant writes reviewed alerts to relay-v2/queue). They go through the
   // same duplicate rules as our own outbox, so an event both systems found is sent once.
-  const outbox = outboxOnly.map((f) => ({ ...f, kind: "outbox" })).concat(gptQueue.map((f) => ({ ...f, kind: "gpt" })));
+  // held items (24h same-event gap) are renamed outbox/hold-<releaseMs>-<oid>.json and wait here unread until due
+  const due = (f) => { const m = f.name.match(/^hold-(\d+)-/); return !m || Number(m[1]) <= Date.now(); };
+  const outbox = outboxOnly.filter(due).map((f) => ({ ...f, kind: "outbox" })).concat(gptQueue.map((f) => ({ ...f, kind: "gpt" })));
   const paused = env.SENDER_PAUSED === "1";
   if (!reactions.length && (paused || !outbox.length)) return { ...status, idle: true, paused };
 
@@ -313,9 +315,10 @@ async function run(env) {
   const sentIds = new Set(notifs.map((n) => n.outbox_id));
   const plan = [];
   let skips = null;
+  let suppressedLog = null;
   for (const f of (paused ? [] : outbox.slice(0, 4))) {
     if (SUB + 1 + 2 * (plan.length + 1) + replies.length + ctx.redraw.length + 20 > SUB_LIMIT) break;
-    const oid = (f.kind === "gpt" ? "gpt-" : "") + f.name.replace(/\.json$/, "");
+    const oid = (f.kind === "gpt" ? "gpt-" : "") + f.name.replace(/\.json$/, "").replace(/^hold-\d+-/, "");
     let data;
     try { data = await repo.read(f.path, head, null); } catch { continue; } // read failed: keep file for next run
     files[f.path] = null;
@@ -337,7 +340,24 @@ async function run(env) {
       const [ok, why] = decide(events[it.event_id], it, textHash);
       (ok ? kept : dropped).push([i + 1, why]);
     });
-    if (!kept.length) { (status.suppressed = status.suppressed || []).push({ oid, why: dropped.map((d) => d[1]) }); continue; }
+    if (!kept.length) {
+      // 10/12: never drop silently. A pure 24h-gap block is held and sent once the gap has passed;
+      // anything else (muted, identical, already NEW...) is dropped but logged in state/suppressed.json.
+      const gapOnly = dropped.every((d) => String(d[1]).startsWith("same event notified"));
+      let release = 0;
+      if (gapOnly) {
+        for (const it of items) { const t = Date.parse((events[it.event_id] || {}).last_notified || ""); if (!isNaN(t)) release = Math.max(release, t + MIN_GAP_HOURS * 3600000); }
+        if (release > Date.now()) files[`outbox/hold-${release}-${oid}.json`] = dumpJson(data);
+      }
+      if (!suppressedLog) suppressedLog = await repo.read("state/suppressed.json", head, []);
+      suppressedLog.push({ at: nowIso(), outbox_id: oid, origin_id: data.origin_id || null, category,
+        items: items.map((it) => ({ event_id: it.event_id, change_type: it.change_type || "NEW", title: it.title || null })),
+        why: dropped.map((d) => d[1]), action: release > Date.now() ? "held_until " + new Date(release + 9 * 3600000).toISOString().slice(0, 16) + "+09:00" : "dropped",
+        text: text.slice(0, 300) });
+      files["state/suppressed.json"] = dumpJson(suppressedLog.slice(-300));
+      (status.suppressed = status.suppressed || []).push({ oid, why: dropped.map((d) => d[1]) });
+      continue;
+    }
     counter.seq = (parseInt(counter.seq || 0, 10)) + 1;
     const nid = `n${String(counter.seq).padStart(5, "0")}`;
     sending[oid] = { at: nowIso(), nid, done: false };
