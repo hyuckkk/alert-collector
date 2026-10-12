@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-13T03:58:21+09:00",
+ "updated": "2026-10-13T04:08:04+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 3,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "‘책과 함께하는 가을의 향연’...유성구 ‘유성독서대전’ 1만 6,000명 방문 성황 - 대전투데이",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZQlBTOTdLYUhpRnZsQ0thQ2VNMzV3QzJHcWdRbXlySUt3LU00NFZuY2h1eUhyR3hqeTlHc20xR1hPTm42Z000LUw3LUlCWWFIZ1pxek9sdGdKRXdKNFZFeG9TLTJiTl9jMU1mVHJwQdIBc0FVX3lxTE5VaTJFNkVlVHlic2JXcEhmM3hIZTBXYUhWNmQ2N1pNNHUwR0tFWlRKX1NyWFhWaHI1cVE0dTIxNVBFUy1WRDRneDNmWk9XWmFSV0hVeEdJYWplNFhqZTRLNXFYM1BWckNXenZ4cGxCeWhscVk?oc=5",
+   "pub": "Mon, 12 Oct 2026 06:11:02 GMT",
+   "engine": "gnews",
+   "query": "대전 축제 어린이 인형극",
+   "first_seen": "2026-10-13T04:08:04+09:00"
+  },
   {
    "title": "어린이 뮤지컬 피터팬 대전 공연 장소 : 대전광역시 서구 둔산대로 201 평송청소년문화센터 소극장 일시 : 2026년 5월 23일 오후 2시 공연은 너무 재미있었어요. 아이랑 깔깔거리며 보기 좋은 뮤지컬. 후쿠 선장이 역할을 너무 잘 풀어주셔서 많이 웃었네요. 웬디가 피터팬에 관한 이야기를 할머니께 들었던 추억을 떠올리며 책을 읽고 있는 사이 피터팬이 날아",
    "url": "https://blog.naver.com/indrasun/224297228622",
@@ -21121,19 +21129,11 @@
    "engine": "naver_cafe",
    "query": "대전 어린이 공연 무료 예약",
    "first_seen": "2026-10-11T14:38:08+09:00"
-  },
-  {
-   "title": "호텔을 예약할 때 아래 링크로 저렴하게 예약했어요 같은 곳 알아보는 분들은 먼저 참고하시면 좋을 듯해요 후기는 이어서... 또한 무료 와이파이가 모든 객실에서 이용 가능해서 너무 좋았어요 살짝 아쉬운 점 다만 사우나 시설이 조금 작아서 이용할 때... 거리 공연도 감상할 수 있었습니다 요나고의 바다도 가까워서 산책하기에도 좋았어요 위치 & 주변 · Dan ",
-   "url": "https://cafe.naver.com/rhffmaalsrn/25712?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJoZmZtYWFsc3JuIiwiYXJ0aWNsZUlkIjoyNTcxMiwiaXNzdWVkQXQiOjE3OTE2OTcwOTY3NzN9.6N5ockdnbtDBnwCeyr3AgT93zazFQRmn7wQRCwD2h_M&q=%eb%8c%80%ec%a0%84%20%ec%96%b4%eb%a6%b0%ec%9d%b4%20%ea%b3%b5%ec%97%b0%20%eb%ac%b4%eb%a3%8c%20%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 어린이 공연 무료 예약",
-   "first_seen": "2026-10-11T14:38:08+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
