@@ -11,15 +11,15 @@
  * (public pages only, no personal data, no secrets in code).
  *
  * Secrets / vars (Worker → Settings → Variables): TOKEN_SHOW TOKEN_SALE TOKEN_MILITARY
- * TOKEN_FIREWORKS TOKEN_DAM TOKEN_INVEST, CHAT_ID (owner), GH_TOKEN (PAT, contents RW on GH_REPO),
+ * TOKEN_FIREWORKS TOKEN_DAM TOKEN_INVEST TOKEN_LEISURE, CHAT_ID (owner), GH_TOKEN (PAT, contents RW on GH_REPO),
  * GH_REPO (private state repo, e.g. "hyuckkk/telegram-relay"), HOOK_SECRET.
  * Optional var SENDER_PAUSED="1" stops sending (buttons keep working).
  */
 
-const CATS = ["show", "sale", "military", "fireworks", "dam", "invest"];
-const BOT_LABEL = { show: "Show", sale: "Sale", military: "Military experience", fireworks: "Fireworks", dam: "Dam", invest: "Invest" };
+const CATS = ["show", "sale", "military", "fireworks", "dam", "invest", "leisure"];
+const BOT_LABEL = { show: "Show", sale: "Sale", military: "Military experience", fireworks: "Fireworks", dam: "Dam", invest: "Invest", leisure: "Leisure" };
 let lastOrigin = null; // learned from incoming requests; the address is not kept in the public code
-const BUILD = "2026-10-12-sender-v7-hold";
+const BUILD = "2026-10-13-sender-v8-leisure";
 // Free plan: 50 subrequests per invocation. Every GitHub/Telegram call is counted; optional work stops
 // early so that the claim commit (4) and the result commit (8 per attempt) always fit.
 let SUB = 0;
@@ -616,7 +616,7 @@ export default {
       const r = await run(env).catch((e) => ({ error: String(e && e.message) })); lastStatus = r;
       return new Response(JSON.stringify(r, null, 2), { headers: { "content-type": "application/json" } });
     }
-    const m = url.pathname.match(/^\/hook\/(show|sale|military|fireworks|dam|invest)$/);
+    const m = url.pathname.match(/^\/hook\/(show|sale|military|fireworks|dam|invest|leisure)$/);
     if (m && request.method === "POST") {
       if (request.headers.get("x-telegram-bot-api-secret-token") !== env.HOOK_SECRET) return new Response("forbidden", { status: 403 });
       let upd; try { upd = await request.json(); } catch { return new Response("bad json", { status: 400 }); }
