@@ -19,7 +19,7 @@
 const CATS = ["show", "sale", "military", "fireworks", "dam", "invest", "leisure"];
 const BOT_LABEL = { show: "Show", sale: "Sale", military: "Military experience", fireworks: "Fireworks", dam: "Dam", invest: "Invest", leisure: "Leisure" };
 let lastOrigin = null; // learned from incoming requests; the address is not kept in the public code
-const BUILD = "2026-10-13-sender-v8-leisure";
+const BUILD = "2026-10-13-sender-v9-alias";
 // Free plan: 50 subrequests per invocation. Every GitHub/Telegram call is counted; optional work stops
 // early so that the claim commit (4) and the result commit (8 per attempt) always fit.
 let SUB = 0;
@@ -167,8 +167,11 @@ function decide(ev, item, textHash) {
   }
   return [true, `change: ${change}`];
 }
+// ChatGPT-side topic names that should go to an existing bot (10/13: leisure topics → @leisuresu_bot)
+const CAT_ALIAS = { leisure: "leisure", running: "leisure", running_5k_free: "leisure", running_general: "leisure", marathon: "leisure", cycling: "leisure", bike: "leisure" };
 function gptToOutbox(q) {
   if (!q || !q.event_id || !q.text || !q.category) return null;
+  if (!CATS.includes(q.category) && CAT_ALIAS[q.category]) q = { ...q, category: CAT_ALIAS[q.category] };
   if (q.expires_at && Date.now() > Number(q.expires_at)) return null;           // stale: drop
   let src = null;
   try { const ss = typeof q.sources === "string" ? q.sources : JSON.stringify(q.sources || []); const m = ss.match(/https?:\/\/[^'" ,\]]+/); src = m ? m[0] : null; } catch {}
