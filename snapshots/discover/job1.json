@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-13T20:08:05+09:00",
+ "updated": "2026-10-13T21:08:04+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 1,
  "hits": [
+  {
+   "title": "대전문화재단 지원 연극·현대무용, 10월 무대 오른다 - 충청헤럴드",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wak11LWFheUFNSlRLUHFoc194ejJYcmw0cUFSNEE2RF9XTXJGcVk3LTg0dVZrNUY1Vkt3Q0JVRGZtVzZhMjhSY044QWxPX3JkMGM3T2R5V1Q5UC1PN2FZMVVQbUpmOHM?oc=5",
+   "pub": "Tue, 13 Oct 2026 12:02:05 GMT",
+   "engine": "gnews",
+   "query": "연정국악원 가족 공연 예매",
+   "first_seen": "2026-10-13T21:08:04+09:00"
+  },
   {
    "title": "대전문화재단, 지원사업 결실…연극 ‘꽃잠’·현대무용 ‘UNSTABLE STATE’ 무대에 - 충청매일",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUb0ZHN2xBRWd6cFk4Y0NsMWFaMDMtbUc0NlVGYWg4eF9fMnY4bENEcldoOEUxOGZaa05jX1FTcmJvRGpKR1hUU0RrNV9rS1oyQlU5ODA5QWVQRUhELXotQWFhLVFJeU5nUXc?oc=5",
@@ -21124,20 +21132,13 @@
    "engine": "naver_blog",
    "query": "대전 백화점 어린이 뮤지컬",
    "first_seen": "2026-10-12T02:08:11+09:00"
-  },
-  {
-   "title": "올해는 10월 16일부터 25일까지 열흘 동안 진행되며, 보은의 달콤한 생대추뿐 아니라 다양한 먹거리, 대추 경매, 어린이 체험, 인기 가수들의 축하공연까지 풍성하게 준비되어... 대추경매, 어린이 체험 축제 문의 1670-6114 2026 보은대추축제는 올해로 20회를 맞이하는 충북의 대표 가을 농특산물 축제입니다. 축제는 보은읍 뱃들공원과 보청천 일대를",
-   "url": "https://blog.naver.com/arise1340/224438335293",
-   "engine": "naver_blog",
-   "query": "대전 백화점 어린이 뮤지컬",
-   "first_seen": "2026-10-12T02:08:11+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }

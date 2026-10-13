@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-13T20:08:05+09:00",
+ "updated": "2026-10-13T21:08:04+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "대전 대덕구, 대청호마라톤대회 당일 주요 도로 통제 - 뉴스밴드",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xYmd5YnVxOFdXZEh0Uzl6TWlha1ZXR3pqVVBIb01XSjh1T0lDNy1JOW9sSGwwZGRwMmJES010OGRKRzJjUlRYcHZVQUFvdzFqSURuUDFFQ0xCYU9jVUUxNllOMUx6RTRv?oc=5",
+   "pub": "Tue, 13 Oct 2026 05:32:33 GMT",
+   "engine": "gnews",
+   "query": "세종 마라톤 대회 10km",
+   "first_seen": "2026-10-13T21:08:04+09:00"
+  },
   {
    "title": "대전 대덕구, 대청호마라톤대회 당일 주요 도로 통제 - 다원뉴스",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HY3hHci05Nko1YS1nMXA0SjgxWVh3WGg1VVVsUk51TXQ3U3N0T1huTUowWkhxc0JuM1FGT05KZFVPQnpEU1NRTXJFX3lwNURUa25RdU9WbkEzNVpJZnNJbVZTRTlTSFgtRC02QzNIMA?oc=5",
