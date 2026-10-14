@@ -1,52 +1,34 @@
-[seogu-yeyak] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.seogu.go.kr/yeyak/index.do", waiting until "domcontentloaded"
-
-[hanbat-library-culture] rendered 2607 chars CHANGED
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 466 chars same
-[pyoungsong-event-sandmagic] rendered 480 chars same
-[pyoungsong-event-stonesoup] rendered 317 chars same
-[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31789 chars CHANGED
-[hanbat-gongdong-science-form] rendered 1854 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 8689 chars CHANGED
-[cnu-jsh-schedule-178] rendered 3020 chars CHANGED
-[dmzforest-main] rendered 6480 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
-Call log:
-  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
-
-[woorisb-tok7-product] rendered 2797 chars CHANGED
-[mommom-sandmagic-a] rendered 2121 chars CHANGED
-[mommom-sandmagic-b] rendered 84 chars CHANGED
-[sejong-notice-imnansu-play] rendered 867 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
-[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
-[andong-halftour] rendered 2489 chars CHANGED
-[blog-namuac21-224427113169] rendered 4767 chars CHANGED
-[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[seocheon-halftour-apply] rendered 1300 chars CHANGED
-[komsco-shop-cate2284] rendered 6883 chars CHANGED
-[mcst-culture-71983] rendered 1180 chars CHANGED
-[aircanada-korea] rendered 22636 chars CHANGED
-[aircanada-kr-so-hub] rendered 2437 chars CHANGED
-[aircanada-kr-kbcard] rendered 27346 chars CHANGED
-[aircanada-kr-moretotravel] rendered 2794 chars CHANGED
-[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
-[kmusic-calendar-year] rendered 6028 chars CHANGED
-[nol-product-26001112] rendered 3666 chars CHANGED
-[blog-daedeokgu-224432911721] rendered 2608 chars CHANGED
-[blog-namuac21-224424725714] rendered 4588 chars CHANGED
-[blog-youneed4613-224436099074] rendered 3089 chars CHANGED
-[nol-product-26008375] rendered 1746 chars CHANGED
-[vol-djv1365-main] rendered 6198 chars CHANGED
-[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
-[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
-[leis-cycling-kcf] rendered 2143 chars CHANGED
-[sje-life-events] rendered 59091 chars CHANGED
-[pyoungsong] rendered 867 chars same
+[djkids-musical] rendered 1618 chars CHANGED
+[djkids-notice] rendered 1023 chars CHANGED
+[dctf] RENDER ERROR rendered but too little text (23 chars)
+[nol-family] rendered 3446 chars CHANGED
+[ticketlink-notice] rendered 105884 chars CHANGED
+[oworld-notice] rendered 1769 chars same
+[baekje-schedule] rendered 1513 chars CHANGED
+[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/22471']' timed out after 75 seconds
+[donghae-dhdmo-program] rendered 1800 chars CHANGED
+[daejeon-familycenter-programs] rendered 1365 chars CHANGED
+[daejeon-okr-edu] rendered 1503 chars same
+[daejeon-okr-hanbatlib] rendered 1651 chars CHANGED
+[kfe-main] rendered 3588 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4463 chars CHANGED
+[blog-dooglami-224434696671] rendered 4568 chars CHANGED
+[dsecc-programs-p2] rendered 1970 chars CHANGED
+[dsecc-programs-p3] rendered 1970 chars CHANGED
+[mommom-place-6a868bff] rendered 95 chars CHANGED
+[mommom-place-6a2b946b] rendered 84 chars CHANGED
+[mommom-place-6a2b94f5] rendered 84 chars CHANGED
+[mommom-place-6a2b9455] rendered 84 chars CHANGED
+[nol-product-phantom-40th] rendered 5327 chars CHANGED
+[daejeontour-bread-festival] rendered 4988 chars CHANGED
+[visitisland-main] rendered 1010 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1651 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[ticketlink-product-65585] rendered 145156 chars CHANGED
+[yes24-perf-60278] rendered 197 chars CHANGED
+[chuncheon-notice-announcement] rendered 3685 chars CHANGED
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1773 chars CHANGED
+[templestay-main] rendered 2612 chars CHANGED
+[hwadong-main] rendered 8139 chars CHANGED
+[mokpo-harborfestival-main] rendered 8820 chars CHANGED
