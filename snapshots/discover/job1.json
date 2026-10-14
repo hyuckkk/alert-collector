@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-14T22:38:55+09:00",
+ "updated": "2026-10-14T23:08:07+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 1,
  "hits": [
+  {
+   "title": "가족뮤지컬 ‘꿈돌이: 사라진 바다왕국’ 연정국악원서 공연 - 비알뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VUzF0NWNlOUlYNy1aczRHcTBjSUhuVUNqSVk3Q0h5d1laUzlwZEwzN2tJdzV6U0JMVEZHOW5jWUVIcFNUVTd2MnNoblJwX3l4RGZ6a2ZqalJIWG1XYWFhRHpsV2FoWl9wSkE?oc=5",
+   "pub": "Thu, 08 Oct 2026 23:24:20 GMT",
+   "engine": "gnews",
+   "query": "대전어린이회관 공연",
+   "first_seen": "2026-10-14T23:08:07+09:00"
+  },
   {
    "title": "아카 라이브 룰렛 과학 탐구을 통한 요약: 원리, 방법 및 기술 - Calgary Roughnecks",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGQnNqeWxPdzFpMmNsY3VxaWdNRnJTWlM0a085cDcyRy11MUQwTk1UVUNkTk44LUR2MEtCdVNtSWg5VmY4SUkwdlJJQ3NIVUdsZXZmX0hKSFpNLS1xQjlzWHl2NkVvUUU?oc=5",
@@ -21131,18 +21139,13 @@
    "engine": "naver_blog",
    "query": "대전 전래동화 뮤지컬",
    "first_seen": "2026-10-13T15:07:59+09:00"
-  },
-  {
-   "title": "소중한하루에서는 ✔ 한글과 숫자 학습 ✔ 기억력·집중력 향상 활동 ✔ 퍼즐과 미로 찾기 ✔ 전래동화와 회상 활동 ✔ 음악·미술·놀이 프로그램 ✔ 어르신들 간의 대화와 교류 등을 통해 어르신들이 매일 생각하고 표현하고 참여하는 시간을 갖도록 돕습니다. 치매를 반드시 막을 수 있다고 말씀드릴 수는 없습니다. 하지만 뇌를 꾸준히 사용하고 건강한 생활습관을... ",
-   "url": "https://blog.naver.com/sjhharu/224440055768",
-   "engine": "naver_blog",
-   "query": "대전 전래동화 뮤지컬",
-   "first_seen": "2026-10-13T15:07:59+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
  ]
 }
