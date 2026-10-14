@@ -1,61 +1,58 @@
-[mcst-culture-71983] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[mcst-culture-71983] rendered 1180 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1466 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1144 chars CHANGED
+[kmusic-calendar-year] rendered 6028 chars CHANGED
+[yuseong-lib-lecture-12604] rendered 1523 chars CHANGED
+[yuseong-lib-lecture-list] rendered 2349 chars CHANGED
+[yuseong-cultprfr-list] rendered 634 chars CHANGED
+[chuncheon-festival-news] rendered 890 chars CHANGED
+[chuncheon-festival-news-459539] rendered 800 chars CHANGED
+[galleria-timeworld-culture] rendered 2112 chars CHANGED
+[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_RESET at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
 Call log:
-  - navigating to "https://www.mcst.go.kr/site/s_culture/culture/cultureView.jsp?pSeq=71983", waiting until "domcontentloaded"
-
-[aircanada-korea] rendered 22357 chars CHANGED
-[aircanada-kr-so-hub] rendered 2044 chars CHANGED
-[aircanada-kr-kbcard] rendered 25967 chars CHANGED
-[aircanada-kr-moretotravel] rendered 2401 chars CHANGED
-[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 938 chars CHANGED
-[kmusic-calendar-2026-11] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "d
+[pyeongtaek-news-board] rendered 3183 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 6207 chars CHANGED
+[pyeongtaek-gosi] rendered 1610 chars CHANGED
+[hanbat-library-culture] rendered 2600 chars CHANGED
+[chuncheon-festival-news-465019] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view
 Call log:
-  - navigating to "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceCalendarMList.do?menuSeq=5308&searchYearMonth=2026-11", waiting until "domcontentloaded"
-
-[kmusic-calendar-2026-12] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceCalendarMList.do?menuSeq=5308&searchYearMonth=2026-12", waiting until "domcontentloaded"
-
-[kmusic-calendar-year] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceCalendarYList.do?menuSeq=5309", waiting until "domcontentloaded"
-
-[nol-product-26001112] rendered 3666 chars CHANGED
-[dgdr-festival] rendered 203 chars CHANGED
-[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
-
-[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
-
-[blog-gotaekmusicfesta-224426168539] rendered 2682 chars CHANGED
-[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
-
-[ysfesta-main] rendered 152 chars CHANGED
-[khs-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.khs.go.kr/", waiting until "domcontentloaded"
-
-[khs-eventinfo] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.khs.go.kr/eventInfo/index.do", waiting until "domcontentloaded"
-
-[seogu-yeyak] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.seogu.go.kr/yeyak/index.do", waiting until "domcontentloaded"
-
-[pyoungsong] RENDER ERROR rendered but too little text (19 chars)
-[oworld-notice] rendered 1769 chars CHANGED
-[baekje-schedule] rendered 1513 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[woosongart-schedule] rendered 590 chars CHANGED
-[pyeongtaek-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.pyeongtaek.go.kr/", waiting until "domcontentloaded"
-
-[kopis-daejeon-kids] rendered 30744 chars CHANGED
-[kwater-realtime-multidam] rendered 10525 chars CHANGED
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[pyoungsong-event-piglets] rendered 466 chars same
+[pyoungsong-event-sandmagic] rendered 480 chars same
+[pyoungsong-event-stonesoup] rendered 317 chars same
+[daejeon-familycenter-programs] rendered 1365 chars CHANGED
+[daejeon-okr-edu] rendered 1503 chars same
+[blog-daedeokgu-224432911721] rendered 2607 chars CHANGED
+[blog-namuac21-224424725714] rendered 4454 chars CHANGED
+[kopis-pf302030] rendered 7807 chars same
+[blog-gotaekmusicfesta-224428285877] rendered 2924 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3651 chars CHANGED
+[nol-nutcracker-daejeon] rendered 5048 chars CHANGED
+[djkids-musical] rendered 1618 chars CHANGED
+[djkids-notice] rendered 1024 chars CHANGED
+[dctf] RENDER ERROR rendered but too little text (15 chars)
+[nol-family] rendered 3411 chars CHANGED
+[ticketlink-notice] rendered 230120 chars CHANGED
+[ticketlink-kids-cat-daejeon] rendered 136348 chars CHANGED
+[daejeon-okr-hanbatlib] rendered 1658 chars same
+[science-edu-reservation] rendered 2199 chars CHANGED
+[sejong-notice] rendered 2474 chars CHANGED
+[sejong-notice-greenfamily] rendered 1799 chars CHANGED
+[sejong-notice-birdwatch] rendered 1337 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 4525 chars CHANGED
+[komsco-shop-medal] rendered 7361 chars CHANGED
+[komsco-shop-coin] rendered 6799 chars CHANGED
+[komsco-shop-bar] rendered 6839 chars CHANGED
+[komsco-shop-card] rendered 7364 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
+[cnu-jsh-schedule] rendered 990 chars same
+[bok-commemorative-coin-news] rendered 718 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 6133 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1168 chars CHANGED
+[nol-notice-10111] rendered 16561 chars CHANGED
+[naver-entertain-018-0006379428] rendered 23679 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4481 chars CHANGED
+[blog-dooglami-224434696671] rendered 5121 chars CHANGED
+[dsecc-programs-p2] rendered 1971 chars CHANGED
