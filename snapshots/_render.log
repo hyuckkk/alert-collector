@@ -1,66 +1,37 @@
-[blog-daedeokgu-224432911721] rendered 2607 chars CHANGED
-[blog-namuac21-224424725714] rendered 4454 chars CHANGED
-[kopis-pf302030] rendered 7807 chars same
-[blog-gotaekmusicfesta-224428285877] rendered 2923 chars CHANGED
-[blog-gotaekmusicfesta-224426135103] rendered 3650 chars CHANGED
-[nol-nutcracker-daejeon] rendered 5048 chars CHANGED
-[seogu-yeyak] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.seogu.go.kr/yeyak/index.do", waiting until "domcontentloaded"
-
-[pyoungsong] rendered 865 chars same
-[oworld-notice] rendered 1769 chars CHANGED
-[baekje-schedule] rendered 1513 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[woosongart-schedule] rendered 590 chars CHANGED
-[pyeongtaek-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.pyeongtaek.go.kr/", waiting until "domcontentloaded"
-
-[kopis-daejeon-kids] rendered 30744 chars CHANGED
-[kwater-realtime-multidam] rendered 10521 chars CHANGED
-[chuncheon-festival-news] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295", waiting until "domcontentloaded"
-
-[chuncheon-festival-news-459539] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=459539&flag=view", waiting until "domcontentloaded"
-
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
-
-[chuncheon-festival-news-464131] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "domcontentloaded"
-
-[pyeongtaek-news-board] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.pyeongtaek.go.kr/pyeongtaek/board/post/list.do?mid=0401010000&bcIdx=41", waiting until "domcontentloaded"
-
-[pyeongtaek-festival-alrimi] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.pyeongtaek.go.kr/alrimi/festival/list.do?mid=0101000000", waiting until "domcontentloaded"
-
-[pyeongtaek-gosi] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.pyeongtaek.go.kr/pyeongtaek/saeol/gosi/list.do?mid=0401020100", waiting until "domcontentloaded"
-
-[hanbat-library-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.daejeon.go.kr/hanbatlibrary/cultureEventListView.do?menuSeq=6234", waiting until "domcontentloaded"
-
-[chuncheon-festival-news-465019] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "domcontentloaded"
-
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 466 chars same
-[pyoungsong-event-sandmagic] rendered 480 chars same
-[pyoungsong-event-stonesoup] rendered 317 chars same
-[daejeon-familycenter-programs] rendered 1365 chars CHANGED
-[daejeon-okr-edu] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.daejeon.go.kr/okr2019/OkrExpList.do?menuSeq=8201", waiting until "domcontentloaded"
-
+[daejeon-okr-hanbatlib] rendered 1658 chars same
+[science-edu-reservation] rendered 2199 chars CHANGED
+[sejong-notice] rendered 2474 chars CHANGED
+[sejong-notice-greenfamily] rendered 1799 chars CHANGED
+[sejong-notice-birdwatch] rendered 1337 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 935 chars CHANGED
+[komsco-shop-medal] rendered 7361 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4465 chars CHANGED
+[blog-dooglami-224434696671] rendered 5100 chars CHANGED
+[dsecc-programs-p2] rendered 1971 chars CHANGED
+[dsecc-programs-p3] rendered 1971 chars CHANGED
+[mommom-place-6a868bff] rendered 95 chars CHANGED
+[mommom-place-6a2b946b] rendered 95 chars CHANGED
+[mommom-place-6a2b94f5] rendered 95 chars CHANGED
+[mommom-place-6a2b9455] rendered 95 chars CHANGED
+[nol-product-phantom-40th] rendered 5287 chars CHANGED
+[daejeontour-bread-festival] rendered 4963 chars CHANGED
+[visitisland-main] rendered 1010 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1658 chars same
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[ticketlink-product-65585] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/65585']' timed out after 75 seconds
+[djkids-musical] rendered 1618 chars CHANGED
+[djkids-notice] rendered 1024 chars CHANGED
+[dctf] rendered 1503 chars CHANGED
+[nol-family] rendered 3411 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/22471']' timed out after 75 seconds
+[komsco-shop-coin] rendered 6799 chars CHANGED
+[komsco-shop-bar] rendered 6839 chars CHANGED
+[komsco-shop-card] rendered 7364 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
+[cnu-jsh-schedule] rendered 990 chars same
+[bok-commemorative-coin-news] rendered 718 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 6115 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1168 chars CHANGED
+[nol-notice-10111] rendered 16598 chars CHANGED
+[naver-entertain-018-0006379428] rendered 45570 chars CHANGED
