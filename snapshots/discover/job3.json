@@ -1,8 +1,24 @@
 {
- "updated": "2026-10-14T11:08:03+09:00",
+ "updated": "2026-10-14T13:08:05+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "[음악] 송소희, 오늘(14일) 새 싱글 ‘햇살, 바람’ 발매! - JTN EVENT",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WSFRKVWlXazA3LWNmd1k0VTcxN2plY0RhV3JhdUxtT18zT01jbFduV3RlSE1VLUFwSUZxOFl3QktKX1ZhRFpyUDNHdDRlVXdmNHVKYU04ODhSbnM?oc=5",
+   "pub": "Wed, 14 Oct 2026 03:09:00 GMT",
+   "engine": "gnews",
+   "query": "송소희 공연",
+   "first_seen": "2026-10-14T13:08:05+09:00"
+  },
+  {
+   "title": "김무열 이성민 진기주 표지훈 ‘참교육’ 주역 日서 뭉쳤다 - 뉴스엔",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53SXpvUTdNSF9BWTRYb2ZBVHA0bFNOOE1ZODQ1d3RRVk4tYk8yTnRyMEstWnZSUEk3UHpoZ09hVWJabjh1ZUdTOXhmNGtVZGY3YVdodW1kbGNPUFZsZjBLYWxTb1VIV1VW?oc=5",
+   "pub": "Tue, 13 Oct 2026 23:43:50 GMT",
+   "engine": "gnews",
+   "query": "이적 공연",
+   "first_seen": "2026-10-14T13:08:05+09:00"
+  },
   {
    "title": "2회 공연으로 진행된 이번 일본 팬미팅은 전 세계적인 흥행을 기록한 넷플릭스 시리즈 ‘참교육’의 주연 배우 김무열, 이성민, 진기주, 표지훈이 함께 참여한 행사다. 특히 김무열은 앞서 개최한 국내 첫 개인 팬미팅과 타이베이 팬미팅에 이어, 일본 현지 팬들과도...",
    "url": "http://v.daum.net/v/20261014105030746",
@@ -21106,20 +21122,6 @@
    "engine": "naver_web",
    "query": "브랜든 최 12월 공연",
    "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "목 BAC 살롱 콘서트 브랜든 최의 요즘, 클래식Ⅰ 카운터테너 이동규 일시 9월 12일 오후 7시 30분 대상 초등학생 이상 장소 부천아트센터 소공연장 요금 전석 4만 원 문의 부천아트센터 1533-0202 9. 24. 화 BAC 프라임클래식 양인모 & 베를린 바로크 솔리스텐 일시 9월 24일 오후 7시 30분 대상 초등학생 이상 장소 부천아트센터 콘서트홀",
-   "url": "https://www.bucheon.go.kr/site/program/board/basicboard/view?boardtypeid=27598&menuid=148002002004001&boardid=1137399",
-   "engine": "naver_web",
-   "query": "브랜든 최 12월 공연",
-   "first_seen": "2026-10-09T21:40:17+09:00"
-  },
-  {
-   "title": "제가 평소에 콘서트 티켓팅 커뮤니티 글을 종종 챙겨보는 편인데요, 요즘 발라드 가수들 콘서트 티켓팅이 진짜 피 튀긴다는 얘기가 많더라고요. 박효신, 김동률, 성시경 같은 '원조 발라드 신'들 공연... 티켓팅 날짜가 코앞이라면 지금부터 체크해 두는 게 좋다는 얘기, 정말 공감돼요. 예매처는 어디서 확인하면 될까 정확한 예매 오픈 일시와 가격은 박재정 소속사",
-   "url": "https://cafe.naver.com/ticketingnote/35?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRpY2tldGluZ25vdGUiLCJhcnRpY2xlSWQiOjM1LCJpc3N1ZWRBdCI6MTc5MTU0MDg3NTAxMX0.TX74XlaBCI0r35CAdOwveMJHpaS6_tZWu_AncIrwPOg&q=%eb%b0%95%ed%9a%a8%ec%8b%a0%20%ed%8b%b0%ec%bc%93%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "박효신 티켓오픈",
-   "first_seen": "2026-10-09T19:08:01+09:00"
   }
  ],
  "errors": []
