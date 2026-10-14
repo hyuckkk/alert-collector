@@ -1,56 +1,51 @@
-[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[expo-park] rendered 727 chars CHANGED
-[nol-upcoming-notice] rendered 16548 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 16541 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] rendered 241911 chars CHANGED
-[pyoungsong-performance] rendered 1195 chars CHANGED
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[dsecc-programs] rendered 1971 chars CHANGED
-[seogu-exprn-list] rendered 2356 chars CHANGED
-[seogu-event-list] rendered 2356 chars CHANGED
-[seogu-edu-list] rendered 2362 chars CHANGED
-[daejeon-its-board] rendered 3577 chars CHANGED
-[zeropay-events] rendered 529 chars CHANGED
-[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
-[daejeon-familycenter-programs] rendered 1365 chars CHANGED
-[daejeon-okr-edu] rendered 1503 chars same
-[daejeon-okr-hanbatlib] rendered 1660 chars CHANGED
-[science-edu-reservation] rendered 2199 chars CHANGED
-[blog-tjrudska82-224434527430] rendered 4474 chars CHANGED
-[blog-dooglami-224434696671] rendered 5009 chars CHANGED
-[dsecc-programs-p2] rendered 1971 chars CHANGED
-[dsecc-programs-p3] rendered 1971 chars CHANGED
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 84 chars CHANGED
-[mommom-place-6a2b94f5] rendered 84 chars CHANGED
-[mommom-place-6a2b9455] rendered 84 chars CHANGED
-[nol-product-phantom-40th] rendered 5325 chars CHANGED
-[daejeontour-bread-festival] rendered 783 chars CHANGED
-[visitisland-main] rendered 1010 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1660 chars CHANGED
-[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
-[ticketlink-product-65585] rendered 165781 chars CHANGED
-[chuncheon-festival-news] rendered 890 chars CHANGED
-[chuncheon-festival-news-459539] rendered 800 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[komsco-shop-coin] rendered 6799 chars CHANGED
+[komsco-shop-bar] rendered 6839 chars CHANGED
+[komsco-shop-card] rendered 7364 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
+[cnu-jsh-schedule] rendered 990 chars same
+[bok-commemorative-coin-news] rendered 718 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 5906 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1168 chars CHANGED
+[nol-notice-10111] rendered 16521 chars CHANGED
+[naver-entertain-018-0006379428] rendered 23380 chars CHANGED
+[melon-artist-songsohee] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/artist/index.htm?artistId=672059
 Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
+  - navigating to "https://ticket.melon.com/artist/index.htm?artistId=672059", waiting until "domcontentloaded"
 
-[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
+[interpark-artist-leejuck] rendered 10105 chars CHANGED
+[yctf-show] rendered 502 chars CHANGED
+[sejong-notice-science-concert] rendered 1017 chars CHANGED
+[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
+[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
+[yangyang-cafe-balloon-15331-m] rendered 30961 chars CHANGED
+[kfe-main] rendered 3588 chars CHANGED
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[mommom-place-6a7d51b7] rendered 95 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3192 chars CHANGED
+[blog-dooglami-224433357728] rendered 4864 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] rendered 34079 chars same
+[pyoungsong-monthly] rendered 634 chars same
+[yes24-perf-60278] rendered 198 chars CHANGED
+[chuncheon-notice-announcement] rendered 3750 chars CHANGED
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1764 chars CHANGED
+[blog-youneed4613-224436099074] rendered 3089 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[vol-djv1365-main] rendered 5424 chars CHANGED
+[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
+[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
+[leis-cycling-kcf] rendered 2156 chars CHANGED
+[sje-life-events] rendered 57994 chars CHANGED
+[yuseong-round-event] rendered 1329 chars CHANGED
+[oworld-notice] rendered 1769 chars same
+[baekje-schedule] rendered 1513 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[woosongart-schedule] rendered 590 chars CHANGED
+[pyeongtaek-main] rendered 25510 chars CHANGED
+[kopis-daejeon-kids] rendered 30744 chars CHANGED
+[kwater-realtime-multidam] rendered 10527 chars CHANGED
+[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "
-[pyeongtaek-news-board] rendered 3186 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 6336 chars CHANGED
-[pyeongtaek-gosi] rendered 1595 chars CHANGED
-[hanbat-library-culture] rendered 2607 chars CHANGED
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 466 chars same
-[pyoungsong-event-sandmagic] rendered 480 chars same
-[pyoungsong-event-stonesoup] rendered 317 chars same
-[sejong-notice] rendered 2478 chars CHANGED
-[sejong-notice-greenfamily] rendered 1799 chars CHANGED
-[sejong-notice-birdwatch] rendered 1337 chars CHANGED
-[yangyang-cafe-balloon-15331] rendered 4929 chars CHANGED
-[komsco-shop-medal] rendered 7361 chars CHANGED
+  - navigating to "https://www.ticketlink.co.kr/product/22471", waiting until "domcontentloaded"
+
