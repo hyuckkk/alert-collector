@@ -1,8 +1,32 @@
 {
- "updated": "2026-10-14T19:08:08+09:00",
+ "updated": "2026-10-14T20:08:08+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 7,
+ "new_this_run": 3,
  "hits": [
+  {
+   "title": "'2026 홍성글로벌바비큐페스티벌 전국 요리경연대회' 참가자 모집 - 충청일보",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90ZkI0LXVNdV9aMXpCaGd1VTZaY0dUYVNGN2ZLQ2dyNmkweGI0b1hycndXWS1nZG9UWHBaMzR3OFZVUXlIanc4LUdXLVVLNHoySHFYQlE5LWJwNE1QOEJHaFk5R1VmOF9DaXQzRVVmRFE?oc=5",
+   "pub": "Wed, 14 Oct 2026 04:28:05 GMT",
+   "engine": "gnews",
+   "query": "자전거 대회 2026 참가자 모집",
+   "first_seen": "2026-10-14T20:08:08+09:00"
+  },
+  {
+   "title": "홍성군, 글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집 - 뉴스티앤티",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11d0E2XzU0ajlzX3Q4U0hGclVhLVhLMkZYQWtMeDdWRVhjc0lrdDI4NXpJTGVFaUtDVk51NUxHdUdSRkp5cVRiZ01DOERyVDlxOVNFNExMeFJqRGRyZmt0dmJhTTlIc2RKaHc?oc=5",
+   "pub": "Wed, 14 Oct 2026 04:34:10 GMT",
+   "engine": "gnews",
+   "query": "자전거 대회 2026 참가자 모집",
+   "first_seen": "2026-10-14T20:08:08+09:00"
+  },
+  {
+   "title": "김구 선생 인연 깃든 공주서 열린 자전거 대회…빙그레, '그란폰도'로 지역 상생 실천 - 더페어",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhUUNyc2YwVFBuUWJ2bWV1dmJ3QU5PQVpKbGxMd21VY2NHSjhTVHp6ZnVpXzhIcFhOeGNYbTJGbUh5dWVtd1JILURYZzhvTGtvU05DTzM2dDJuSVdvb3ZxTGdNYm9rLWpPaGIwaHdFWXV2R2VG0gF0QVVfeXFMUGFRQ3JzZjBUUG5RYnZtZXV2YndBTk9BWkpsbEx3bVVjY0dKOFNUenpmdWlfOEhwWE54Y1htMkZtSHl1ZW13UkgtRFhnOG9Ma29TTkNPMzZ0Mm5JV29vdnFMZ01ib2stak9oYjBod0VZdXZHZUY?oc=5",
+   "pub": "Mon, 12 Oct 2026 03:28:02 GMT",
+   "engine": "gnews",
+   "query": "MTB 대회 참가자 모집",
+   "first_seen": "2026-10-14T20:08:08+09:00"
+  },
   {
    "title": "빙그레 그란폰도 2576명 참가…참가비 1억2880만원 기부 예정 - 논객닷컴",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZZW5CcFh0cjRjR3A4WVo1Mk56OXlCNWpZLXZHX3V1VXZjSnhwRmFiTEJZY0xlTWZfVC1uTkxNcl9zb2pPOUdBcDJWTVU4Z2hmb1BmUWVMWjJ5RFg2UkpmczFtMEpGUEHSAWtBVV95cUxOZ1VrRllaM2I4YXhxaXRobTlSOEx1bzdyY1FYU2c1LUE4cldYZjJBUkYzR0tnSGsyLS05cXhGSWg4bkdWdUZUT00wVk92dmpNX1REdUtIbUxERmg1TXBfNnlDZ1dQMmdEdEdKWQ?oc=5",
@@ -1773,7 +1797,5 @@
    "first_seen": "2026-10-13T10:33:10+09:00"
   }
  ],
- "errors": [
-  "daum_cafe 'MTB 대회 참가자 모집': <urlopen error [Errno -2] Name or service not known>"
- ]
+ "errors": []
 }
