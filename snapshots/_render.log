@@ -1,58 +1,52 @@
-[gongjeon-kids] rendered 482 chars CHANGED
-[navy-visit-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000", waiting until "domcontentloaded"
-
-[katc-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.katc.mil.kr/katc/guide/schedule.jsp", waiting until "domcontentloaded"
-
-[mnd-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.mnd.go.kr/", waiting until "domcontentloaded"
-
-[fsale-main] rendered 4462 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[gcfct-schedule] rendered 372 chars CHANGED
-[mokwon-events] rendered 948 chars CHANGED
-[science-reservation] rendered 1387 chars CHANGED
-[khs-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.khs.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1008&mn=NS_01_02_01", waiting until "domcontentloaded"
-
-[royal-khs-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://royal.khs.go.kr/", waiting until "domcontentloaded"
-
-[chuncheon-festival-news-465019] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "domcontentloaded"
-
-[daejeon-familycenter-programs] rendered 1365 chars CHANGED
-[daejeon-okr-edu] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.daejeon.go.kr/okr2019/OkrExpList.do?menuSeq=8201", waiting until "domcontentloaded"
-
-[daejeon-okr-hanbatlib] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.daejeon.go.kr/okr2019/OkrEduList.do?menuSeq=8101", waiting until "domcontentloaded"
-
-[science-edu-reservation] rendered 2199 chars CHANGED
-[kfe-main] rendered 3588 chars CHANGED
-[blog-tjrudska82-224434527430] rendered 4463 chars CHANGED
-[blog-dooglami-224434696671] rendered 5000 chars CHANGED
-[dsecc-programs-p2] rendered 1971 chars CHANGED
-[dsecc-programs-p3] rendered 1971 chars CHANGED
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 84 chars CHANGED
-[mommom-place-6a2b94f5] rendered 95 chars CHANGED
-[mommom-place-6a2b9455] rendered 95 chars CHANGED
-[nol-product-phantom-40th] rendered 5326 chars CHANGED
-[daejeontour-bread-festival] rendered 4968 chars CHANGED
-[visitisland-main] rendered 1010 chars CHANGED
-[daejeon-okr-edu-8100] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.daejeon.go.kr/okr2019/OkrEduList.do?menuSeq=8100", waiting until "domcontentloaded"
-
-[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
-[ticketlink-product-65585] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/65585']' timed out after 75 seconds
+[yes24-perf-60278] rendered 198 chars CHANGED
+[chuncheon-notice-announcement] rendered 3755 chars CHANGED
+[blog-youneed4613-224436099074] rendered 3089 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[vol-djv1365-main] rendered 6211 chars CHANGED
+[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
+[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
+[leis-cycling-kcf] rendered 2156 chars CHANGED
+[sje-life-events] rendered 57977 chars CHANGED
+[seogu-yeyak] rendered 2819 chars CHANGED
+[pyoungsong] rendered 865 chars same
+[djkids-musical] rendered 1618 chars CHANGED
+[djkids-notice] rendered 1023 chars CHANGED
+[dctf] rendered 1503 chars CHANGED
+[expo-park] rendered 725 chars CHANGED
+[nol-upcoming-notice] rendered 16198 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 16166 chars CHANGED
+[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
+[ticketlink-notice-mobile] rendered 241911 chars CHANGED
+[pyoungsong-performance] rendered 1195 chars same
+[kopis-time-beyond-daejeon] rendered 8087 chars same
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[dsecc-programs] rendered 1971 chars CHANGED
+[seogu-exprn-list] rendered 2357 chars CHANGED
+[seogu-event-list] rendered 2357 chars CHANGED
+[seogu-edu-list] rendered 2363 chars CHANGED
+[daejeon-its-board] rendered 3577 chars CHANGED
+[zeropay-events] rendered 529 chars CHANGED
+[sejong-notice] rendered 2226 chars CHANGED
+[sejong-notice-greenfamily] rendered 1797 chars CHANGED
+[sejong-notice-birdwatch] rendered 1337 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 4935 chars CHANGED
+[komsco-shop-medal] rendered 7361 chars CHANGED
+[komsco-shop-coin] rendered 6799 chars CHANGED
+[komsco-shop-bar] rendered 6839 chars CHANGED
+[komsco-shop-card] rendered 7364 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
+[cnu-jsh-schedule] rendered 990 chars same
+[bok-commemorative-coin-news] rendered 718 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 5759 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1168 chars CHANGED
+[nol-notice-10111] rendered 16191 chars CHANGED
+[naver-entertain-018-0006379428] rendered 44706 chars CHANGED
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[mommom-place-6a7d51b7] rendered 95 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3190 chars CHANGED
+[blog-dooglami-224433357728] rendered 5199 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] rendered 34079 chars same
+[pyoungsong-monthly] rendered 634 chars same
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1764 chars CHANGED
