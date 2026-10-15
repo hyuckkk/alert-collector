@@ -1,8 +1,24 @@
 {
- "updated": "2026-10-15T23:08:05+09:00",
+ "updated": "2026-10-16T00:08:05+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "대덕구, 23~25일 대청공원서 '대청호물결축제' 개최 - 로컬투데이",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yaGtUTFl0emRHdUp3a21PdXdOa3RVREgzWUVnQmpmaG5SdDBnd1U5ZDhXWVZ4Yk9aUzdUYWpISGpxb3htYUJoT0RfOG9McG5XR2tWUTZGZW0zS1I1VVNUUDJBNXphVFNMWWFMcURBdUg?oc=5",
+   "pub": "Thu, 15 Oct 2026 08:29:33 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-16T00:08:05+09:00"
+  },
+  {
+   "title": "예산군, 예산앤유행복센터 개관 1주년 ‘해피벌스데이 행복’ 성황 - 파이낸셜경제",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DWGVPZXdEZUgyekM4LTBza3dMUW1sZHJwdWFQeFl4XzQ3WmNfVXBQSGVzeEdlM2VfZjU1MWM3M0NEUy1TMDRvWkFTenQ0TS1ZNnk4SFNZT0ZNeUpCZlVadUJrQmhleU1QQVFrT19BbG4?oc=5",
+   "pub": "Mon, 12 Oct 2026 23:15:16 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-16T00:08:05+09:00"
+  },
   {
    "title": "대전시립연정국악원 17일 특별 융복합 발레극 무대 올라 - SNS 타임즈",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbmNFcUd2eVpGTE1jY1JqZ1R1WHhWMGZ6NWNFejM4czdIUFdadVQ0RlprTUROcU5fVVB4YnpyeHZTQ3IwbVdwUzVtNExoUi1TYmluMFJNOW52QzFoSmR0R3p0ekpaNG9EQjV2VVZodjRIOUs3ZzFKVVhSV3FPSHpqUFhCTW1zZm1UX3VHZHBuUWhLcEw4X2YwZjZBYUdPN0pIcWNhOTFiLWo?oc=5",
@@ -21193,27 +21209,13 @@
    "engine": "naver_blog",
    "query": "대전 가족공연 추가회차 취소",
    "first_seen": "2026-10-14T18:08:09+09:00"
-  },
-  {
-   "title": "친구나 연인과 함께 방문해도 좋고, 가족 단위로 참여하기에도 괜찮겠죠? 남산캠프닉 주요 프로그램 남산캠프닉에서는... 일반적인 클럽처럼 큰 스피커로 음악을 틀지 않고도 DJ 공연을 즐길 수 있다는 점이 특징이에요. < > < > < > 팔각클럽 일정 행사일 : 2026년 11월 14일(토) 장소 : N서울타워 인근 팔각정 앞 1회차 : 17:30~19:00",
-   "url": "https://blog.naver.com/belugablack/224441190172",
-   "engine": "naver_blog",
-   "query": "대전 가족공연 추가회차 취소",
-   "first_seen": "2026-10-14T18:08:09+09:00"
-  },
-  {
-   "title": "원하는 한정 굿즈 구매 성공 인기 부스 대기시간 없음 성우 공연 좌석 확보 레드스테이지 우선 입장 모든 행사 우선... 티켓의 추가 비용이 크게 느껴질 수 있습니다. 저라면 5살과 11살 아이를 데리고 가족 관람을 목적으로 방문할 경우... 다만 예매 취소수수료와 날짜 변경 가능 여부를 확인한 뒤 결제해야 합니다. 2일 방문이라면 3일권이 더 비쌉니다...",
-   "url": "https://blog.naver.com/aidaddy50/224441097864",
-   "engine": "naver_blog",
-   "query": "대전 가족공연 추가회차 취소",
-   "first_seen": "2026-10-14T18:08:09+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }
