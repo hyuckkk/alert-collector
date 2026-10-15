@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-15T22:21:24+09:00",
+ "updated": "2026-10-15T23:08:05+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "세종한글축제 불꽃놀이 중 수목원 화재…조경수 2그루 피해 - 뉴스1",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RUzhQTGhRSi1HTmotbjloeV9PbHJ2VkR5dWdwYUU3aEtPWldXOGNPQkVvOFl5bVdGSlRadXhSUHpGMHpfNTRRR3RWSUtwVG1zZUtBQnotM1hPN25HbGFZ?oc=5",
+   "pub": "Sat, 10 Oct 2026 23:31:04 GMT",
+   "engine": "gnews",
+   "query": "세종 불꽃",
+   "first_seen": "2026-10-15T23:08:05+09:00"
+  },
   {
    "title": "강경하늘 수놓은 개막 불꽃쇼, 축제의 밤 밝히다 - 파이낸셜경제",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93SXdOQzFlSzE4TXYyWGt6Y1NicEVaWTl6aEtiRFV1WVZsMW9qTEpnWFNoLUNvZWNNeHlnMW9YLUtzeTVPc0g4MUZpZFVNUWxGWm5CcTd5MTJaTngxMmt1MXdfU1EzbF9xVTZkcmsybm0?oc=5",
@@ -21286,41 +21294,7 @@
    "engine": "naver_cafe",
    "query": "대전 야구 불꽃 피날레",
    "first_seen": "2026-10-12T08:08:10+09:00"
-  },
-  {
-   "title": "어제 2026.10.10 2026 한화이글스의 시즌이 종료되었습니다. 한화이글스 팬들을 위한 시즌 마지막 피날레 행사의 드론쇼와 불꽃쇼가 있었습니다. 야구팬으로써.. 아쉬운 시즌이었지만, 내년에 또 있기에, 새로운 시작이 있기에 또... 또 다시 희망을 가져봅니다. 많이 부족한 영상 이지만... 즐감하십쇼",
-   "url": "https://cafe.naver.com/bimmerwerks/1139084?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJpbW1lcndlcmtzIiwiYXJ0aWNsZUlkIjoxMTM5MDg0LCJpc3N1ZWRBdCI6MTc5MTc2MDY4MTcyM30.GYF8T18pZgD_Ga30dmBvmdBrEhksnyydqboiqFUd5O0&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 야구 불꽃 피날레",
-   "first_seen": "2026-10-12T08:08:10+09:00"
   }
  ],
- "errors": [
-  "gnews '대전 불꽃놀이': HTTP Error 503: Service Unavailable",
-  "gnews '대전 불꽃쇼': HTTP Error 503: Service Unavailable",
-  "gnews '오월드 불꽃쇼': HTTP Error 503: Service Unavailable",
-  "gnews '세종 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews '계룡 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews '공주 불꽃놀이': HTTP Error 503: Service Unavailable",
-  "gnews '청주 불꽃축제': HTTP Error 503: Service Unavailable",
-  "gnews '금산 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews '옥천 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews '엑스포다리 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews '딜라잇 엑스포 브릿지': HTTP Error 503: Service Unavailable",
-  "gnews '대전 빵축제 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews '세종 불꽃 행사 용역 과업지시서': HTTP Error 503: Service Unavailable",
-  "gnews '세종 불꽃 예산 사업계획 회의록': HTTP Error 503: Service Unavailable",
-  "gnews 'site:council.sejong.go.kr 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews 'site:g2b.go.kr 세종 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews '대전 오월드 불꽃 취소 우천': HTTP Error 503: Service Unavailable",
-  "gnews '대전 야구 불꽃 피날레': HTTP Error 503: Service Unavailable",
-  "gnews '금산 옥천 불꽃 낙화': HTTP Error 503: Service Unavailable",
-  "gnews '유성국화축제 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews '대전 축제 개막식 불꽃놀이': HTTP Error 503: Service Unavailable",
-  "gnews '동구동락 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews '대전 구 축제 불꽃 시간표': HTTP Error 503: Service Unavailable",
-  "gnews '유성국화축제 드론쇼': HTTP Error 503: Service Unavailable",
-  "gnews '유성국화축제 개막 드론쇼': HTTP Error 503: Service Unavailable",
-  "gnews '불꽃놀이 대신 드론쇼 대전': HTTP Error 503: Service Unavailable"
- ]
+ "errors": []
 }

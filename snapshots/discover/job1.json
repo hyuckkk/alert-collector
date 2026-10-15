@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-15T22:21:24+09:00",
+ "updated": "2026-10-15T23:08:05+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "대전시립연정국악원 17일 특별 융복합 발레극 무대 올라 - SNS 타임즈",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbmNFcUd2eVpGTE1jY1JqZ1R1WHhWMGZ6NWNFejM4czdIUFdadVQ0RlprTUROcU5fVVB4YnpyeHZTQ3IwbVdwUzVtNExoUi1TYmluMFJNOW52QzFoSmR0R3p0ekpaNG9EQjV2VVZodjRIOUs3ZzFKVVhSV3FPSHpqUFhCTW1zZm1UX3VHZHBuUWhLcEw4X2YwZjZBYUdPN0pIcWNhOTFiLWo?oc=5",
+   "pub": "Wed, 14 Oct 2026 02:10:22 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 연극",
+   "first_seen": "2026-10-15T23:08:05+09:00"
+  },
   {
    "title": "빵집 120곳 한자리에…대전 빵축제 엑스포과학공원서 첫 개최 - 티제이비",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mRlRfNW43UkFQQ0hiOUppek5uSVBIdHFzWlRlTnBVNDRuU29TVzBMLWc3VlBzc0hqb1VoSFk2QWhCVGEyekREVGx2NWl2YlpfYXFXdkoyT3Y1cE5n?oc=5",
@@ -21199,45 +21207,13 @@
    "engine": "naver_blog",
    "query": "대전 가족공연 추가회차 취소",
    "first_seen": "2026-10-14T18:08:09+09:00"
-  },
-  {
-   "title": "좋은 공연이에요. 오늘은 일정, 가격, 할인(3인권·4인권), 예매 마감, 취소 규정까지 한 번에 정리해 드릴게요! 3줄... 공연으로 알려졌어요. 출처 NOL 티켓 예매 사이트 대전, 부산 등 전국을 돌며 열리고 있어요. 이번 서울 회차는 11월... 가족 나들이나 부모님 모시고 가는 분들께 특히 반가운 구성이죠. 방문 전 확인하세요 특정 기간·공연일에만",
-   "url": "https://blog.naver.com/richplacefestival/224440652222",
-   "engine": "naver_blog",
-   "query": "대전 가족공연 추가회차 취소",
-   "first_seen": "2026-10-14T18:08:09+09:00"
   }
  ],
  "errors": [
-  "gnews '대전 어린이 뮤지컬': HTTP Error 503: Service Unavailable",
-  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "gnews '대전 가족 뮤지컬 티켓오픈': HTTP Error 503: Service Unavailable",
-  "gnews '대전 어린이 공연 무료 예약': HTTP Error 503: Service Unavailable",
-  "gnews '대전 마술쇼 가족': HTTP Error 503: Service Unavailable",
-  "gnews '대전 어린이 연극': HTTP Error 503: Service Unavailable",
-  "gnews '대전 캐릭터 공연': HTTP Error 503: Service Unavailable",
-  "gnews '평송청소년문화센터 공연': HTTP Error 503: Service Unavailable",
-  "gnews '대전예술의전당 가족': HTTP Error 503: Service Unavailable",
-  "gnews '대전어린이회관 공연': HTTP Error 503: Service Unavailable",
-  "gnews '대전 무료 공연 선착순 어린이': HTTP Error 503: Service Unavailable",
-  "gnews '국립중앙과학관 공연': HTTP Error 503: Service Unavailable",
-  "gnews '대전 백화점 어린이 뮤지컬': HTTP Error 503: Service Unavailable",
-  "gnews '타임월드 뮤지컬': HTTP Error 503: Service Unavailable",
-  "gnews '환상극장 마술공연': HTTP Error 503: Service Unavailable",
-  "gnews '대전 서커스 공연': HTTP Error 503: Service Unavailable",
-  "gnews '대전 가족 퍼포먼스 공연': HTTP Error 503: Service Unavailable",
-  "gnews '조이마루아트홀': HTTP Error 503: Service Unavailable",
-  "gnews '대전 소극장 어린이 뮤지컬': HTTP Error 503: Service Unavailable",
-  "gnews '대전 전래동화 뮤지컬': HTTP Error 503: Service Unavailable",
-  "gnews '유성 어린이 뮤지컬 네이버예약': HTTP Error 503: Service Unavailable",
-  "gnews '대전 축제 어린이 인형극': HTTP Error 503: Service Unavailable",
-  "gnews '대전 독서대전 어린이 공연': HTTP Error 503: Service Unavailable",
-  "gnews '대전 샌드매직쇼': HTTP Error 503: Service Unavailable",
-  "gnews '평송 어울림홀 어린이 공연': HTTP Error 503: Service Unavailable",
-  "gnews '대전 인형극 예매': HTTP Error 503: Service Unavailable",
-  "gnews '대전 도서관 어린이 공연 시간표': HTTP Error 503: Service Unavailable",
-  "gnews '대전 크리스마스 가족뮤지컬': HTTP Error 503: Service Unavailable"
+  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
  ]
 }
