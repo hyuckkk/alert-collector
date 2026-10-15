@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-16T03:14:35+09:00",
+ "updated": "2026-10-16T04:08:09+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 16,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "국군의 날 기념, 제7회 나라사랑음악회 개최 - 뉴스다",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ONUMwdVg1YnlFNjNwT2lHWHlDLVo5MGtyLWEtVndzMjFhQWliT0pjN3JNdVNMd0xIQXhLOEk0Z1BJa3dfajlOQ05Zd25OOXRlcmd5Zl90MkFSYmh3dTd3?oc=5",
+   "pub": "Tue, 13 Oct 2026 12:30:01 GMT",
+   "engine": "gnews",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-10-16T04:08:09+09:00"
+  },
   {
    "title": "대청호 가을밤, 음악 물결 번진다 - 충청헤럴드",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CR04wV2ltU2t6UXNaY0IzbFBqdVVyMHVFZy1HQkRjQ1hkS0NMVnBqekFFclJLZWpCV2RmYnZfZTZyZ0g3TlpEZHpSY2JTNzBZQy1FNnYxYlcxN1NlaEFOSXZ3RGtuTzBC?oc=5",
@@ -21205,19 +21213,11 @@
    "engine": "naver_blog",
    "query": "대전 가족공연 추가회차 취소",
    "first_seen": "2026-10-14T18:08:09+09:00"
-  },
-  {
-   "title": "실경공연 16일간 펼쳐지는 핵심 프로그램 상세 타임테이블 카드뉴스 16일간 펼쳐지는 핵심 일정 타임테이블 주요 프로그램마다 운영 날짜와 회차가 다르므로 일정표를 꼭 확인하고 동선을 짜야 합니다. 핵심 프로그램 일정표 • 10월 3일(토) 19... 가족 맞춤 프로그램 가이드 • 어린이 제주유산스쿨: 김녕굴과 거문오름 숲길을 걸으며 지질학 박사님과 함께 화산",
-   "url": "https://blog.naver.com/festivallog/224441522898",
-   "engine": "naver_blog",
-   "query": "대전 가족공연 추가회차 취소",
-   "first_seen": "2026-10-14T18:08:09+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
