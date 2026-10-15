@@ -1,53 +1,60 @@
-[pyoungsong-performance] rendered 1195 chars CHANGED
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[zeropay-events] rendered 529 chars CHANGED
-[chuncheon-festival-news] rendered 923 chars CHANGED
-[chuncheon-festival-news-459539] rendered 800 chars CHANGED
-[galleria-timeworld-culture] rendered 2112 chars CHANGED
-[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_RESET at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
+[sejong-notice-greenfamily] rendered 1799 chars CHANGED
+[sejong-notice-dance-free] rendered 1711 chars CHANGED
+[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
+[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
 Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "d
-[pyeongtaek-news-board] rendered 3206 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 6142 chars CHANGED
-[pyeongtaek-gosi] rendered 1620 chars CHANGED
-[hanbat-library-culture] rendered 2624 chars CHANGED
-[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
-[melon-artist-songsohee] rendered 2082 chars CHANGED
-[dmzforest-main] rendered 6479 chars CHANGED
-[kfe-main] rendered 3588 chars CHANGED
-[dsecc-programs-p3] rendered 2105 chars CHANGED
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 95 chars CHANGED
-[mommom-place-6a2b94f5] rendered 95 chars CHANGED
-[mommom-place-6a2b9455] rendered 95 chars CHANGED
-[nol-product-phantom-40th] rendered 5325 chars CHANGED
-[daejeontour-bread-festival] rendered 3985 chars CHANGED
-[visitisland-main] rendered 1010 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1647 chars same
-[visitkorea-tour50-notice] rendered 616 chars CHANGED
-[mommom-place-6a7d51b7] rendered 95 chars CHANGED
-[blog-daedeokgu-224432911721] rendered 2607 chars CHANGED
-[blog-namuac21-224424725714] rendered 4458 chars CHANGED
-[yuseong-lib-lecture-12604] rendered 1523 chars CHANGED
-[yuseong-lib-lecture-list] rendered 2379 chars CHANGED
-[yuseong-cultprfr-list] rendered 634 chars CHANGED
-[ysfesta-main] rendered 152 chars CHANGED
-[kopis-pf302030] rendered 7807 chars same
-[blog-gotaekmusicfesta-224428285877] rendered 2923 chars CHANGED
-[blog-gotaekmusicfesta-224426135103] rendered 3650 chars CHANGED
-[nol-nutcracker-daejeon] rendered 5048 chars CHANGED
-[yuseong-round-event] rendered 1318 chars CHANGED
-[baekje-schedule] rendered 1513 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[woosongart-schedule] rendered 590 chars CHANGED
-[pyeongtaek-main] rendered 25222 chars CHANGED
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 466 chars same
-[pyoungsong-event-sandmagic] rendered 480 chars same
-[pyoungsong-event-stonesoup] rendered 317 chars same
-[donghae-dhdmo-program] rendered 1800 chars CHANGED
-[daejeon-familycenter-programs] rendered 1365 chars CHANGED
-[daejeon-okr-edu] rendered 1503 chars same
-[daejeon-okr-hanbatlib] rendered 1647 chars same
-[science-edu-reservation] rendered 2196 chars CHANGED
-[sejong-notice] rendered 2407 chars CHANGED
+  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
+
+[woorisb-tok7-product] rendered 2797 chars CHANGED
+[mommom-sandmagic-a] rendered 2243 chars CHANGED
+[mommom-sandmagic-b] rendered 95 chars CHANGED
+[sejong-notice-imnansu-play] rendered 867 chars CHANGED
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[andong-halftour] rendered 2491 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3189 chars CHANGED
+[blog-dooglami-224433357728] rendered 4857 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-monthly] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-wp-event-api] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-tribe-events-api] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-list] RENDER ERROR rendered but too little text (19 chars)
+[ticketlink-notice-65862] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.ticketlink.co.kr/help/notice/65862", waiting until "domcontentloaded"
+
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[ticketlink-product-65585] rendered 208311 chars CHANGED
+[yes24-perf-60278] rendered 198 chars CHANGED
+[chuncheon-notice-announcement] rendered 3540 chars CHANGED
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1732 chars CHANGED
+[blog-youneed4613-224436099074] rendered 3052 chars CHANGED
+[nol-product-26008375] rendered 1708 chars CHANGED
+[seogu-yeyak] rendered 2819 chars CHANGED
+[pyoungsong] RENDER ERROR rendered but too little text (19 chars)
+[djkids-musical] rendered 1618 chars CHANGED
+[djkids-notice] rendered 1024 chars CHANGED
+[dctf] rendered 1489 chars CHANGED
+[kopis-daejeon-kids] rendered 31019 chars CHANGED
+[kwater-realtime-multidam] rendered 10514 chars CHANGED
+[ticketlink-kids-cat-daejeon] rendered 150541 chars CHANGED
+[gongjeon-kids] rendered 482 chars CHANGED
+[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
+[katc-schedule] rendered 688 chars CHANGED
+[fsale-main] RENDER ERROR rendered but too little text (19 chars)
+[fsale-onnuri] RENDER ERROR rendered but too little text (19 chars)
+[gcfct-schedule] rendered 371 chars CHANGED
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[dsecc-programs] rendered 2105 chars CHANGED
+[seogu-exprn-list] rendered 2355 chars CHANGED
+[seogu-event-list] rendered 2355 chars CHANGED
+[seogu-edu-list] rendered 2361 chars CHANGED
+[daejeon-its-board] rendered 3577 chars CHANGED
+[sejong-notice-birdwatch] rendered 1337 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 4489 chars CHANGED
+[komsco-shop-medal] rendered 7361 chars CHANGED
+[docomomokorea-main] rendered 293 chars same
+[pyoungsong-event-rudolph] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-snowwhite] RENDER ERROR rendered but too little text (19 chars)
