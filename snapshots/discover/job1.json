@@ -1,8 +1,15 @@
 {
- "updated": "2026-10-16T05:08:04+09:00",
+ "updated": "2026-10-16T06:08:05+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 4,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "올해는 경북 칠곡군의 구상문학관을 중심으로 다녀올 계획이다. 대전문인협회 초창기부터 시행되어 온 국내문학기행은 회원 상호 간의...있다. 앞서 시행된 문학기행에서는 남사당놀이와 동춘서커스 공연을 보았는데, 회원들의 호평을 받은 바 있다. 이번에는 칠곡군...",
+   "url": "http://v.daum.net/v/20261016060028340",
+   "engine": "daum_news",
+   "query": "대전 서커스 공연",
+   "first_seen": "2026-10-16T06:08:05+09:00"
+  },
   {
    "title": "놀이도 참여할 수 있다. 축제장 곳곳에서는 지역 예술인이 참여하는 빵빵한 버스킹과 프린지 문화공연, 대전부르스 창작가요제가 이어진다. 대전 대표 캐릭터인 꿈씨패밀리 포토존과 번개장터도 운영한다. 축제장에는 영유아 동반 가족과 노약자를 위한 배려 쉼터를...",
    "url": "http://v.daum.net/v/20261016043342862",
@@ -21208,20 +21215,13 @@
    "engine": "naver_all",
    "query": "평송청소년문화센터 소극장 12월",
    "first_seen": "2026-10-14T18:08:09+09:00"
-  },
-  {
-   "title": "[대전] 2026 라이브 가족뮤지컬 [오즈의마법사] 상세정보 장르: 뮤지컬 일시: 2026.10.24 ~ 2026.10.24 등급: 24개월 이상 관람시간: 총 55분 (인터미션 없음) 장소: 대전 평송청소년문화센터 소극장새 창 열림",
-   "url": "https://ticket.yes24.com/Perf/59465",
-   "engine": "naver_web",
-   "query": "평송청소년문화센터 소극장 12월",
-   "first_seen": "2026-10-14T18:08:09+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }
