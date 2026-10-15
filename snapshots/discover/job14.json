@@ -1,8 +1,31 @@
 {
- "updated": "2026-10-15T02:08:08+09:00",
+ "updated": "2026-10-15T10:08:05+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 3,
  "hits": [
+  {
+   "title": "[밴쿠버 조선일보]에어캐나다, 전화로 항공권 예매 시 ‘30달러 수수료’ | 밴쿠버 뉴스 - 밴쿠버 조선일보",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zWHdpWE5xaVc4bFVtXzgwUzE2blJEMWRJSDcxbl92NjU2VGZuc1pCdnVGWWdvc0NQUU1HYlBUUEs2eGtNWlRxQThIZVRxakg3bXhPYllwMERFYkhZNTJDUExBMUlBNFQ4Uy1MOTNVVU13N1doV21hMUFNQ0NkZEU?oc=5",
+   "pub": "Wed, 14 Oct 2026 17:45:00 GMT",
+   "engine": "gnews",
+   "query": "에어캐나다 특가",
+   "first_seen": "2026-10-15T10:08:05+09:00"
+  },
+  {
+   "title": "에어캐나다, 전화 예약 수수료 30불 부과 - 캐나다 한국일보",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13cDhtX0VyRUlhdkctc1pKMUl3V1ZxSjg3aWVBdE5XNGNTdVBpb1RodGRLUTBvNGNMLWpKWG9JenB6czN6Yi1RRW1iWGhQZnAxNnItYzVZM2JsMDRneTVuWW1aSmFHUQ?oc=5",
+   "pub": "Wed, 14 Oct 2026 07:06:00 GMT",
+   "engine": "gnews",
+   "query": "Air Canada sale Korea",
+   "first_seen": "2026-10-15T10:08:05+09:00"
+  },
+  {
+   "title": "이후 1년차 12.9%였던 국적사 여객 점유율은 2년차 14%, 3년차 15.3%로 꾸준히 상승했으며, 4년차에는 20.8%를 기록했다. 한편 에어프레미아는 LA 취항 4주년을 기념해 미주 노선 할인 프로모션을 진행한다. 오는 19일까지 할인코드 ‘LAX4YEAR’를 입력하면 LA와...",
+   "url": "http://v.daum.net/v/20261015095212324",
+   "engine": "daum_news",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-10-15T10:08:05+09:00"
+  },
   {
    "title": "Arirang : The Korea International Broadcasting Foundation - Arirang TV",
    "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9HVkhWWnpQZlQ4bnphVnhlUEhLdHZuOTdKN2dCX1U1NXdTNU5OSWhvNGgySkQzdjJVMzJyRA?oc=5",
@@ -21055,27 +21078,6 @@
    "url": "https://www.econovill.com/news/articleView.html?idxno=744082",
    "engine": "naver_web",
    "query": "에어프레미아 프로모션 LA",
-   "first_seen": "2026-10-10T10:07:51+09:00"
-  },
-  {
-   "title": "마이리얼트립에서 특가로 나온 마이심 e-SIM추천드려요. 이번에 새로 나와서 오픈 특가로 다른 곳보다 더 저렴해요.... 출발 셔틀은 07:00, 08:00, 10:00시대로 나뉘고 투어 시작 시간에 맞춰 자동으로 배정돼요. 오전 9:30 이전 투어는 셔틀 추가가... 모든 투어는 영어로 진행되고 한국어 가이드는 현장에 없어요. 간단한 영어 소통이 가능하면",
-   "url": "https://blog.naver.com/trip-mom/224435673597",
-   "engine": "naver_blog",
-   "query": "ANA 미주 특가 한국 출발",
-   "first_seen": "2026-10-10T10:07:51+09:00"
-  },
-  {
-   "title": "10월 10일 기준으로 확인된 특가입니다. 이번 글 : 새 딜 2건 — 이미 올린 딜은 다시 싣지 않습니다. 한국에서 바로 살 수 있는 딜을 위에... 항공 ━━━ 한국 출발 ━━━ 1. (신규) 트리니티항공 최대 24% 할인코드 (탑승 ~2027.3/27) · 할인코드 : OCT26 · 기간 : 예매 ~10/23 · 탑승 2027.1/1~3/27 · 적용",
-   "url": "https://cafe.naver.com/loyaltylife/361759?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNjE3NTksImlzc3VlZEF0IjoxNzkxNTk2MjA3MzYzfQ.AzNnkm-uilcvJTNo-AgLQsb8vM73Wa_XFPcgH26kMC8&q=ANA%20%eb%af%b8%ec%a3%bc%20%ed%8a%b9%ea%b0%80%20%ed%95%9c%ea%b5%ad%20%ec%b6%9c%eb%b0%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "ANA 미주 특가 한국 출발",
-   "first_seen": "2026-10-10T10:07:51+09:00"
-  },
-  {
-   "title": "국제선(미주 외)은 기본적으로 23kg 1개 무료 위 탁수하물이 적용됩니다 아시아나항공의 장점인 기내식과 23kg 위탁수하물 가능 하며... 균형이며 특가가 나왔을때 는 대한항공, 아시아나보다 상당히 저렴해질 수 있습니다 ⑥ 비엣젯항공 가격만 보면 가장 강력합니다... 다낭–한국 노선에 대해 수 하물, 좌석, 식사 등을 별도로 선택할 수 있습니다 최저가 경",
-   "url": "https://cafe.naver.com/smnt0/3505?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNtbnQwIiwiYXJ0aWNsZUlkIjozNTA1LCJpc3N1ZWRBdCI6MTc5MTU5NjIwNzM2M30.kRYho8vamwiAoxIqGLoqVNxsz9i3dFJZw3d51CM8xWw&q=ANA%20%eb%af%b8%ec%a3%bc%20%ed%8a%b9%ea%b0%80%20%ed%95%9c%ea%b5%ad%20%ec%b6%9c%eb%b0%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "ANA 미주 특가 한국 출발",
    "first_seen": "2026-10-10T10:07:51+09:00"
   }
  ],
