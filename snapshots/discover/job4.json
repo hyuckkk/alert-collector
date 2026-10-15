@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T22:08:06+09:00",
+ "updated": "2026-10-15T22:21:24+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 2,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "강경하늘 수놓은 개막 불꽃쇼, 축제의 밤 밝히다 - 파이낸셜경제",
@@ -21295,5 +21295,32 @@
    "first_seen": "2026-10-12T08:08:10+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '대전 불꽃놀이': HTTP Error 503: Service Unavailable",
+  "gnews '대전 불꽃쇼': HTTP Error 503: Service Unavailable",
+  "gnews '오월드 불꽃쇼': HTTP Error 503: Service Unavailable",
+  "gnews '세종 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews '계룡 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews '공주 불꽃놀이': HTTP Error 503: Service Unavailable",
+  "gnews '청주 불꽃축제': HTTP Error 503: Service Unavailable",
+  "gnews '금산 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews '옥천 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews '엑스포다리 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews '딜라잇 엑스포 브릿지': HTTP Error 503: Service Unavailable",
+  "gnews '대전 빵축제 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews '세종 불꽃 행사 용역 과업지시서': HTTP Error 503: Service Unavailable",
+  "gnews '세종 불꽃 예산 사업계획 회의록': HTTP Error 503: Service Unavailable",
+  "gnews 'site:council.sejong.go.kr 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews 'site:g2b.go.kr 세종 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews '대전 오월드 불꽃 취소 우천': HTTP Error 503: Service Unavailable",
+  "gnews '대전 야구 불꽃 피날레': HTTP Error 503: Service Unavailable",
+  "gnews '금산 옥천 불꽃 낙화': HTTP Error 503: Service Unavailable",
+  "gnews '유성국화축제 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews '대전 축제 개막식 불꽃놀이': HTTP Error 503: Service Unavailable",
+  "gnews '동구동락 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews '대전 구 축제 불꽃 시간표': HTTP Error 503: Service Unavailable",
+  "gnews '유성국화축제 드론쇼': HTTP Error 503: Service Unavailable",
+  "gnews '유성국화축제 개막 드론쇼': HTTP Error 503: Service Unavailable",
+  "gnews '불꽃놀이 대신 드론쇼 대전': HTTP Error 503: Service Unavailable"
+ ]
 }

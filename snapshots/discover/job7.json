@@ -1,8 +1,15 @@
 {
- "updated": "2026-10-15T22:08:06+09:00",
+ "updated": "2026-10-15T22:21:24+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 14,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "365일 24시간 돌봄센터 추가 지정·운영을 계획했다. 임직원과 가족의 일·생활 균형 및 마음건강 지원도 병행할 방침이다. 사진=대구...중앙부처와 관계기관에 건의했다. 교통 대책으로는 도시철도 3호선 혁신도시 연장과 수요응답형교통체계(DRT) 확대, 도로 개선...",
+   "url": "http://v.daum.net/v/20261015221319761",
+   "engine": "daum_news",
+   "query": "철도 할인 가족",
+   "first_seen": "2026-10-15T22:21:24+09:00"
+  },
   {
    "title": "무안, ‘갯벌愛 무안 반값여행’ 조기 마감 - 서울일보",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jX2d1aWcxVi0yUVp0Wk4waW94TVNvWmZhUzFfUHhQTHZTZDhhX2UzMmVQdTRyaTM2OGx0Uy04TXFvbU9XU3pBdlFaVEZCOE1ldXVpd1ZMSHZlQ01wV2tVNmNCajhtdXFSa21padIBb0FVX3lxTFB4SWV1SDVISWQ4blBBQUI2eU5Sd0RfcjFGVHNTYjJpTmNwb1dsbjZHd2V5UkxJTkNIMTNDQldGc3ZDZE9FRkNDdXpYVkkyWGpWWktPcVduZEM5UXBHZnhyX1BDUkJ2dVM2Y09CQVJIUQ?oc=5",
@@ -21689,14 +21696,38 @@
    "engine": "gnews",
    "query": "배낚시 할인 여행가는",
    "first_seen": "2026-10-15T00:08:12+09:00"
-  },
-  {
-   "title": "대상: - 예비 졸업생: 유치원, 초등학교, 중학교, 고등학교, 대학교 졸업생 - 가족 및 친구: 졸업생을 축하하고 싶은 가족 및 친구 조건: - 행사 일시: 졸업식 날짜 및 시간을 명확히 정해야... A3: 풍선 장식은 전문 팀이 당일 설치하러 오거나 사전에 설치할 수 있는 옵션이 있습니다. 설치 방식은 고객의 편의성에 따라 선택할 수 있습니다. 다양한 ",
-   "url": "https://blog.naver.com/xfqmmvn/224441974417",
-   "engine": "naver_blog",
-   "query": "충북 가족 행사 사전신청",
-   "first_seen": "2026-10-15T00:08:12+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '가족 여행비 지원 모집': HTTP Error 503: Service Unavailable",
+  "gnews '숙박 할인 쿠폰 지원': HTTP Error 503: Service Unavailable",
+  "gnews '숙박세일페스타': HTTP Error 503: Service Unavailable",
+  "gnews '반값여행 신청': HTTP Error 503: Service Unavailable",
+  "gnews '지역화폐 캐시백 방문객': HTTP Error 503: Service Unavailable",
+  "gnews '한달살기 모집 가족': HTTP Error 503: Service Unavailable",
+  "gnews '농촌체험 가족 무료': HTTP Error 503: Service Unavailable",
+  "gnews '섬여행 지원 신청': HTTP Error 503: Service Unavailable",
+  "gnews '다자녀 가족 무료 체험': HTTP Error 503: Service Unavailable",
+  "gnews '다자녀 할인 대전': HTTP Error 503: Service Unavailable",
+  "gnews '가족캠프 무료 모집': HTTP Error 503: Service Unavailable",
+  "gnews '1박2일 가족 무료 프로그램': HTTP Error 503: Service Unavailable",
+  "gnews '국가유산 답사 모집': HTTP Error 503: Service Unavailable",
+  "gnews '궁궐 가족 체험 신청': HTTP Error 503: Service Unavailable",
+  "gnews '추수 체험 가족 모집': HTTP Error 503: Service Unavailable",
+  "gnews '휴양림 무료 숙박 가족': HTTP Error 503: Service Unavailable",
+  "gnews '문화누리 이용권 추가': HTTP Error 503: Service Unavailable",
+  "gnews '철도 할인 가족': HTTP Error 503: Service Unavailable",
+  "gnews '무료 체험 추첨 가족 모집': HTTP Error 503: Service Unavailable",
+  "gnews '여행가는 달 혜택': HTTP Error 503: Service Unavailable",
+  "gnews '여행가는 가을 지역 혜택': HTTP Error 503: Service Unavailable",
+  "gnews '웰촌 기획전': HTTP Error 503: Service Unavailable",
+  "gnews '국립 과학관 개관 무료': HTTP Error 503: Service Unavailable",
+  "gnews '배낚시 할인 여행가는': HTTP Error 503: Service Unavailable",
+  "gnews '충북 가족 행사 사전신청': HTTP Error 503: Service Unavailable",
+  "gnews '충남 가족 체험 사전신청 무료': HTTP Error 503: Service Unavailable",
+  "gnews '어린이 가족 피크닉 신청': HTTP Error 503: Service Unavailable",
+  "gnews '청주 가족 체험 모집': HTTP Error 503: Service Unavailable",
+  "gnews '공주 논산 가족 체험 모집': HTTP Error 503: Service Unavailable",
+  "gnews '반값여행 신청접수중 선착순': HTTP Error 503: Service Unavailable"
+ ]
 }
