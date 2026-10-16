@@ -1,8 +1,24 @@
 {
- "updated": "2026-10-17T00:07:42+09:00",
+ "updated": "2026-10-17T01:07:43+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "대전시가족센터 개소 20주년 기념 2026 대전,가족·돌봄이음 - 중도일보",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aUVZaZHQ1TjUtNkZiWTM4cjNWbmtDSGFoY2lxdU9qNE1CX2pzWGF5eFo0VlBGeGhTeVBUQllnNDF1T1ZuU01Tb2FvcnRGVERVd044TkFLUkNDWlFpeVFwa09PLVY?oc=5",
+   "pub": "Fri, 16 Oct 2026 15:05:06 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 퍼포먼스 공연",
+   "first_seen": "2026-10-17T01:07:43+09:00"
+  },
+  {
+   "title": "지역 아동 센터 어린이 대상 찾아가는 독서 프로그램 진행 - 대전시티저널",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RTjhWR3pKUTc3elJLNzlVSWcxSk5oVWplRHJXOFJodVdNZ2gzR0Q4dEEzN1hBeEpucGVLd3FGblFUX0x3TEY3ZmNUMkRFRWF6bkltR2RNaDAzc01TS05aVUJNV3J2Zw?oc=5",
+   "pub": "Fri, 16 Oct 2026 09:12:09 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 공연 문화센터 도서관",
+   "first_seen": "2026-10-17T01:07:43+09:00"
+  },
   {
    "title": "아산도서관, ′마음이 자라는 시간′도서 전시 운영 - 파이낸셜경제",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xWFBFODJmakttYnAyWFV6akE4S3pNLXdfX1J3SEV6Rk8wbEtSdjNfcWd2VEJSaEJzaF83NXFvZmNYRThKcWxXckIyNUV2RlBtLWxHOERfeWhnQ3hNMzlYbS1QSnBGbk1jMHJsWS1nVEE?oc=5",
@@ -21246,27 +21262,11 @@
    "engine": "naver_all",
    "query": "대전 12월 어린이 공연 예매",
    "first_seen": "2026-10-14T20:08:08+09:00"
-  },
-  {
-   "title": "마술공연 놀이기구를 타다가 마술공연을 봤어요 아이들이 신기하게 보더라구요 ↓ 11:30 뮤지컬 공연 뮤지컬 공연을 하더라구요... 집에오니 12시 너무 힘들지만 아이들이 너무 좋았어 또가고싶다는 말과 표정에 행복하더라구요 요금 대전오월드 이용요금 현장 네이버예매 성인 입장권 17000 청소년 입장권 13000 어린이·경로 입장권 10000 성인 자유이용권 ",
-   "url": "https://blog.naver.com/bebemiel_/224432251692",
-   "engine": "naver_all",
-   "query": "대전 12월 어린이 공연 예매",
-   "first_seen": "2026-10-14T20:08:08+09:00"
-  },
-  {
-   "title": "야외공연장에서 여러 스테이지도 즐겨보세요! 놀이기구 수가 많지는 않지만 사파리 보고 나서 반했다는 반응도 많더라구요! 플라워랜드는 계절마다 꽃이 달라지는 테마 정원으로 구성되어 있어요! 오월드 주랜드, 버드랜드 예매 아프리카 사파리 자유이용권에 아프리카 사파리도 포함이에요! 사파리 차량 이용 시에는 어린이 전용 놀이시설과 일부 유료시설은... 새 창 열림",
-   "url": "https://blog.naver.com/slowslowview/224432403992",
-   "engine": "naver_all",
-   "query": "대전 12월 어린이 공연 예매",
-   "first_seen": "2026-10-14T20:08:08+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
