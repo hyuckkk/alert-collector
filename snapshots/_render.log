@@ -1,50 +1,57 @@
-[hanbat-gongdong-science-form] rendered 1854 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 9124 chars CHANGED
-[cnu-jsh-schedule-178] rendered 3047 chars CHANGED
-[blog-tjrudska82-224434527430] rendered 4490 chars CHANGED
-[blog-dooglami-224434696671] rendered 4992 chars CHANGED
-[dsecc-programs-p2] rendered 2333 chars CHANGED
-[blog-namuac21-224427113169] rendered 4723 chars CHANGED
-[royal-khs-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[woosongart-schedule] rendered 590 chars CHANGED
+[pyeongtaek-main] rendered 25556 chars CHANGED
+[kopis-daejeon-kids] rendered 30630 chars CHANGED
+[kwater-realtime-multidam] rendered 10518 chars CHANGED
+[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/22471']' timed out after 75 seconds
+[chuncheon-festival-news] rendered 923 chars CHANGED
+[chuncheon-festival-news-459539] rendered 800 chars CHANGED
+[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
 Call log:
-  - navigating to "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schBcid=notice01", waiting until "domcontentloaded"
-
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[seocheon-halftour-apply] rendered 1300 chars CHANGED
-[komsco-shop-cate2284] rendered 6776 chars CHANGED
-[mcst-culture-71983] rendered 1180 chars CHANGED
-[aircanada-korea] rendered 22813 chars CHANGED
-[aircanada-kr-so-hub] rendered 2736 chars CHANGED
-[aircanada-kr-kbcard] rendered 26549 chars CHANGED
-[aircanada-kr-moretotravel] rendered 3093 chars CHANGED
-[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
-[mokwon-general-notice] rendered 1610 chars CHANGED
-[templestay-main] rendered 2612 chars CHANGED
-[hwadong-main] rendered 8148 chars CHANGED
-[mokpo-harborfestival-main] rendered 9059 chars CHANGED
-[nol-product-26012487] rendered 1439 chars CHANGED
-[hanbat-library-media-friend] rendered 506 chars CHANGED
-[kopis-place-pyoungsong-small] rendered 10154 chars same
-[bok-press-list] rendered 804 chars CHANGED
-[blog-seogu-artfest-fringe-cvovz] rendered 5109 chars CHANGED
-[blog-seogu-artfest-blu2sky7] rendered 6053 chars CHANGED
-[kwater-realtime-sumun] rendered 2292 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 6212 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 954 chars CHANGED
-[kmusic-calendar-2026-11] rendered 1472 chars CHANGED
-[kmusic-calendar-2026-12] rendered 1144 chars CHANGED
-[kmusic-calendar-year] rendered 6079 chars CHANGED
-[nol-product-26001112] rendered 3666 chars CHANGED
-[blog-youneed4613-224436099074] rendered 3069 chars CHANGED
-[nol-product-26008375] rendered 1746 chars CHANGED
-[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
-[pyoungsong-tribe-events-api-p2] rendered 28156 chars same
-[kopis-pf297232] rendered 7859 chars same
-[dgdr-festival] rendered 203 chars CHANGED
-[blog-gotaekmusicfesta-224426168539] rendered 2683 chars CHANGED
-[khs-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "
+[pyeongtaek-news-board] rendered 3208 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 6101 chars CHANGED
+[pyeongtaek-gosi] rendered 1623 chars CHANGED
+[hanbat-library-culture] rendered 2624 chars CHANGED
+[chuncheon-festival-news-465019] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view
 Call log:
-  - navigating to "https://www.khs.go.kr/", waiting until "domcontentloaded"
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[pyoungsong-event-piglets] rendered 466 chars same
+[pyoungsong-event-sandmagic] rendered 480 chars same
+[pyoungsong-event-stonesoup] rendered 317 chars same
+[donghae-dhdmo-program] rendered 1800 chars CHANGED
+[daejeon-familycenter-programs] rendered 1220 chars CHANGED
+[daejeon-okr-edu] rendered 1503 chars same
+[daejeon-okr-hanbatlib] rendered 1648 chars same
+[science-edu-reservation] rendered 2221 chars CHANGED
+[sejong-notice] rendered 2502 chars CHANGED
+[melon-artist-songsohee] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/artist/index.htm?artistId=672059
+Call log:
+  - navigating to "https://ticket.melon.com/artist/index.htm?artistId=672059", waiting until "domcontentloaded"
 
-[baekje-schedule] rendered 1513 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
+[dmzforest-main] rendered 6479 chars CHANGED
+[kfe-main] rendered 3588 chars CHANGED
+[dsecc-programs-p3] rendered 2333 chars CHANGED
+[mommom-place-6a868bff] rendered 95 chars CHANGED
+[mommom-place-6a2b946b] rendered 95 chars CHANGED
+[mommom-place-6a2b94f5] rendered 84 chars CHANGED
+[mommom-place-6a2b9455] rendered 84 chars CHANGED
+[nol-product-phantom-40th] rendered 5325 chars CHANGED
+[daejeontour-bread-festival] rendered 783 chars CHANGED
+[visitisland-main] rendered 1010 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1648 chars same
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[mommom-place-6a7d51b7] rendered 95 chars CHANGED
+[blog-daedeokgu-224432911721] rendered 2610 chars CHANGED
+[blog-namuac21-224424725714] rendered 4473 chars CHANGED
+[yuseong-lib-lecture-12604] rendered 1523 chars CHANGED
+[yuseong-lib-lecture-list] rendered 2399 chars CHANGED
+[yuseong-cultprfr-list] rendered 634 chars CHANGED
+[khs-eventinfo] rendered 1144 chars CHANGED
+[vol-djv1365-main] rendered 6948 chars CHANGED
+[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
+[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
+[leis-cycling-kcf] rendered 2180 chars CHANGED
+[seogu-yeyak] rendered 2803 chars CHANGED
+[gongjeon-kids] rendered 482 chars CHANGED
