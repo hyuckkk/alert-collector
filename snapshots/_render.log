@@ -1,51 +1,52 @@
-[wikitree-yuseong-bookfest-1163330] RENDER ERROR rendered but too little text (0 chars)
-[mnd-main] rendered 17570 chars same
-[chuncheon-festival-news] rendered 923 chars CHANGED
-[chuncheon-festival-news-459539] rendered 800 chars CHANGED
-[cnu-jsh-schedule-178] rendered 3047 chars CHANGED
-[blog-tjrudska82-224434527430] rendered 4493 chars CHANGED
-[blog-dooglami-224434696671] rendered 5096 chars CHANGED
-[dsecc-programs-p2] rendered 2333 chars CHANGED
-[pyoungsong-event-rudolph] rendered 424 chars same
-[pyoungsong-event-snowwhite] rendered 413 chars same
-[blog-namuac21-224427113169] rendered 4722 chars CHANGED
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[seocheon-halftour-apply] rendered 1300 chars CHANGED
-[komsco-shop-cate2284] rendered 6776 chars CHANGED
-[mcst-culture-71983] rendered 1180 chars CHANGED
-[aircanada-korea] rendered 22820 chars CHANGED
-[aircanada-kr-so-hub] rendered 2740 chars CHANGED
-[aircanada-kr-kbcard] rendered 26850 chars CHANGED
-[aircanada-kr-moretotravel] rendered 3097 chars CHANGED
-[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
-[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
-[ticketlink-product-65585] rendered 187744 chars CHANGED
-[yes24-perf-60278] rendered 199 chars CHANGED
-[chuncheon-notice-announcement] rendered 3545 chars CHANGED
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[chuncheon-municipal-news] rendered 1688 chars CHANGED
-[mokwon-general-notice] rendered 1610 chars CHANGED
-[templestay-main] rendered 2612 chars CHANGED
-[hwadong-main] rendered 8148 chars CHANGED
-[mokpo-harborfestival-main] rendered 9054 chars CHANGED
-[nol-product-26012487] rendered 1439 chars CHANGED
-[hanbat-library-media-friend] rendered 506 chars CHANGED
-[kopis-place-pyoungsong-small] rendered 10154 chars same
-[bok-press-list] rendered 804 chars CHANGED
-[vol-djv1365-main] rendered 5398 chars CHANGED
-[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
-[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
-[leis-cycling-kcf] rendered 2180 chars CHANGED
-[navy-visit-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[pyeongtaek-festival-alrimi] rendered 5989 chars CHANGED
+[pyeongtaek-gosi] rendered 1595 chars CHANGED
+[hanbat-library-culture] rendered 2632 chars CHANGED
+[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[pyoungsong-event-piglets] rendered 466 chars same
+[pyoungsong-event-sandmagic] rendered 480 chars same
+[pyoungsong-event-stonesoup] rendered 317 chars same
+[donghae-dhdmo-program] rendered 1800 chars CHANGED
+[daejeon-familycenter-programs] rendered 1220 chars CHANGED
+[daejeon-okr-edu] rendered 1509 chars same
+[daejeon-okr-hanbatlib] rendered 1646 chars same
+[science-edu-reservation] rendered 2210 chars CHANGED
+[sejong-notice] rendered 2500 chars CHANGED
+[dmzforest-main] rendered 6479 chars CHANGED
+[kfe-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000", waiting until "domcontentloaded"
+  - navigating to "https://www.kfe.re.kr/", waiting until "domcontentloaded"
 
-[katc-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[dsecc-programs-p3] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.katc.mil.kr/katc/guide/schedule.jsp", waiting until "domcontentloaded"
+  - navigating to "https://dsecc.djsch.kr/djsecc/lm/appl/lectList.do?mi=1115&pageIndex=3", waiting until "domcontentloaded"
 
-[fsale-main] rendered 8957 chars CHANGED
-[fsale-onnuri] rendered 411 chars same
-[gcfct-schedule] rendered 371 chars CHANGED
-[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
-[pyeongtaek-news-board] rendered 3208 chars CHANGED
+[mommom-place-6a868bff] rendered 84 chars CHANGED
+[mommom-place-6a2b946b] rendered 84 chars CHANGED
+[mommom-place-6a2b94f5] rendered 84 chars CHANGED
+[mommom-place-6a2b9455] rendered 84 chars CHANGED
+[nol-product-phantom-40th] rendered 5325 chars CHANGED
+[daejeontour-bread-festival] rendered 3950 chars CHANGED
+[visitisland-main] rendered 1010 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1646 chars same
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[mommom-place-6a7d51b7] rendered 84 chars CHANGED
+[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[blog-seogu-artfest-fringe-cvovz] rendered 5409 chars CHANGED
+[blog-seogu-artfest-blu2sky7] rendered 6177 chars CHANGED
+[kwater-realtime-sumun] rendered 2294 chars CHANGED
+[cnu-jsh-schedule-178-2026-11] rendered 6212 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 954 chars CHANGED
+[ysfesta-main] rendered 152 chars CHANGED
+[kopis-pf302030] rendered 7807 chars same
+[blog-gotaekmusicfesta-224428285877] rendered 2923 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3650 chars CHANGED
+[sje-life-events] rendered 58151 chars CHANGED
+[nol-nutcracker-daejeon] rendered 5048 chars CHANGED
+[yuseong-round-event] rendered 1322 chars CHANGED
+[seogu-yeyak] rendered 2821 chars CHANGED
+[mokwon-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.mokwon.ac.kr/kr/html/sub03/030102.html", waiting until "domcontentloaded"
+
+[science-reservation] rendered 1423 chars CHANGED
