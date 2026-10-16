@@ -346,7 +346,7 @@
    "apply_period": "2026-09-19 13:00 ~ 2026-10-16 23:00",
    "capacity": "33/40",
    "waiting": "대기 0/4",
-   "status": "접수중"
+   "status": "접수마감"
   },
   {
    "source": "seogu-exprn-list",
@@ -370,7 +370,7 @@
    "apply_period": "2026-09-19 10:10 ~ 2026-10-16 23:00",
    "capacity": "10/10",
    "waiting": "대기 1/2",
-   "status": "대기자접수중"
+   "status": "접수마감"
   },
   {
    "source": "seogu-exprn-list",
@@ -382,7 +382,7 @@
    "apply_period": "2026-09-19 09:10 ~ 2026-10-16 23:00",
    "capacity": "35/50",
    "waiting": "대기 0/5",
-   "status": "접수중"
+   "status": "접수마감"
   },
   {
    "source": "seogu-event-list",
@@ -526,7 +526,7 @@
    "apply_period": "2026-09-19 13:00 ~ 2026-10-16 23:00",
    "capacity": "33/40",
    "waiting": "대기 0/4",
-   "status": "접수중"
+   "status": "접수마감"
   },
   {
    "source": "seogu-event-list",
@@ -550,7 +550,7 @@
    "apply_period": "2026-09-19 10:10 ~ 2026-10-16 23:00",
    "capacity": "10/10",
    "waiting": "대기 1/2",
-   "status": "대기자접수중"
+   "status": "접수마감"
   },
   {
    "source": "seogu-event-list",
@@ -562,7 +562,7 @@
    "apply_period": "2026-09-19 09:10 ~ 2026-10-16 23:00",
    "capacity": "35/50",
    "waiting": "대기 0/5",
-   "status": "접수중"
+   "status": "접수마감"
   },
   {
    "source": "seogu-edu-list",
@@ -706,7 +706,7 @@
    "apply_period": "2026-09-19 13:00 ~ 2026-10-16 23:00",
    "capacity": "33/40",
    "waiting": "대기 0/4",
-   "status": "접수중"
+   "status": "접수마감"
   },
   {
    "source": "seogu-edu-list",
@@ -730,7 +730,7 @@
    "apply_period": "2026-09-19 10:10 ~ 2026-10-16 23:00",
    "capacity": "10/10",
    "waiting": "대기 1/2",
-   "status": "대기자접수중"
+   "status": "접수마감"
   },
   {
    "source": "seogu-edu-list",
@@ -742,7 +742,7 @@
    "apply_period": "2026-09-19 09:10 ~ 2026-10-16 23:00",
    "capacity": "35/50",
    "waiting": "대기 0/5",
-   "status": "접수중"
+   "status": "접수마감"
   }
  ]
 }
