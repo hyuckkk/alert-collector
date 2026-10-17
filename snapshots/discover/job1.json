@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-17T11:07:37+09:00",
+ "updated": "2026-10-17T12:07:37+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 2,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "대전 학교 강당으로 직접 찾아가 펼치는 '빵미터 예술 교실' - 대전시티저널",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51bFM1cGJOOUIxdlJoc0xCc09SWmJuWHd0TWVtaGRKb1dSd1JzTzZmQmlsQk1tXzluaW5adVdLM0tlcllyYnhYS1pBMFhheUpCd1gyLVd6WHpkM24yNUF6VlRhdU1rQQ?oc=5",
+   "pub": "Wed, 14 Oct 2026 08:35:08 GMT",
+   "engine": "gnews",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-10-17T12:07:37+09:00"
+  },
   {
    "title": "대전콘텐츠페어, 캐릭터·게임·코스프레 한자리에 - 메가충청뉴스",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QQkpLQllZSWE4LXZXTmFUZjN5STI5RjU0Q2FLRExVQ0tBZGRQLUNZNFJJX2VrN0FNZm1MN1U2RWNBZnAzbm95ZWllYlMtaTlOdGxFVVR1eEg1Y1BMd0NLV2pycEZiLXpvb05B?oc=5",
@@ -21265,20 +21273,13 @@
    "engine": "naver_cafe",
    "query": "대전 12월 어린이 공연 예매",
    "first_seen": "2026-10-14T20:08:08+09:00"
-  },
-  {
-   "title": "10월 10일 당시 개화율은 약 80%였고 정읍시는 12일 발표에서 그 주 만개를 전망했으므로, 출발 당일 실시간 CCTV로 꽃 상태를 보고... (2,000원) 어린이 3,000원(2,000원) 2,000원(1,000원) • 특별요금 대상: 서울특별시·속초시·남양주시·사천시·대구 수성구 주민과... 제공된 공식 행사 안내에는 인터넷 예매 방법이 나와 있지",
-   "url": "https://cafe.naver.com/rkskekfk121/30820?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJrc2tla2ZrMTIxIiwiYXJ0aWNsZUlkIjozMDgyMCwiaXNzdWVkQXQiOjE3OTE5NzYyMzMxODJ9.x0MWCA7j3YJFvdeGdn5W5lMkQgRiChVFAoKEyLQi4hI&q=%eb%8c%80%ec%a0%84%2012%ec%9b%94%20%ec%96%b4%eb%a6%b0%ec%9d%b4%20%ea%b3%b5%ec%97%b0%20%ec%98%88%eb%a7%a4&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 12월 어린이 공연 예매",
-   "first_seen": "2026-10-14T20:08:08+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }
