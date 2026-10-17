@@ -1,58 +1,62 @@
-[seogu-exprn-list] rendered 2355 chars CHANGED
-[seogu-event-list] rendered 2355 chars CHANGED
-[seogu-edu-list] rendered 2361 chars CHANGED
-[daejeon-its-board] rendered 3578 chars CHANGED
-[komsco-shop-coin] rendered 6799 chars CHANGED
-[komsco-shop-bar] rendered 6839 chars CHANGED
-[komsco-shop-card] rendered 7275 chars CHANGED
-[komsco-shop-currency-set] rendered 6683 chars CHANGED
-[cnu-jsh-schedule] rendered 990 chars same
-[bok-commemorative-coin-news] rendered 718 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 5586 chars CHANGED
-[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
-[nol-notice-10111] rendered 16352 chars CHANGED
-[naver-entertain-018-0006379428] rendered 45291 chars CHANGED
-[melon-artist-songsohee] rendered 2082 chars CHANGED
-[dsecc-programs-p2] rendered 2333 chars CHANGED
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 84 chars CHANGED
-[mommom-place-6a2b94f5] rendered 95 chars CHANGED
-[mommom-place-6a2b9455] rendered 84 chars CHANGED
-[nol-product-phantom-40th] rendered 5326 chars CHANGED
-[daejeontour-bread-festival] rendered 3935 chars CHANGED
-[visitisland-main] rendered 1010 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1651 chars same
-[visitkorea-tour50-notice] rendered 616 chars CHANGED
-[mommom-place-6a7d51b7] rendered 84 chars CHANGED
-[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[nol-product-26012487] rendered 1439 chars CHANGED
-[hanbat-library-media-friend] rendered 506 chars CHANGED
-[kopis-place-pyoungsong-small] rendered 10154 chars same
-[bok-press-list] rendered 804 chars CHANGED
-[blog-seogu-artfest-fringe-cvovz] rendered 4983 chars CHANGED
-[blog-seogu-artfest-blu2sky7] rendered 6178 chars CHANGED
-[kwater-realtime-sumun] rendered 2300 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 6212 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 954 chars CHANGED
-[kopis-pf302030] rendered 7807 chars same
-[vol-djv1365-main] rendered 6161 chars CHANGED
-[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
-[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
-[nol-family] rendered 3599 chars CHANGED
-[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[oworld-notice] rendered 1737 chars CHANGED
-[baekje-schedule] rendered 1513 chars CHANGED
-[kopis-daejeon-kids] rendered 30629 chars CHANGED
-[kwater-realtime-multidam] rendered 10526 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 155532 chars CHANGED
-[gongjeon-kids] rendered 482 chars CHANGED
-[zeropay-events] rendered 529 chars CHANGED
-[chuncheon-festival-news] rendered 923 chars CHANGED
-[chuncheon-festival-news-459539] rendered 800 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[pyeongtaek-news-board] rendered 3208 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 5995 chars CHANGED
+[pyeongtaek-gosi] rendered 1595 chars CHANGED
+[hanbat-library-culture] rendered 2632 chars CHANGED
+[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[interpark-artist-leejuck] rendered 10175 chars CHANGED
+[yctf-show] rendered 502 chars CHANGED
+[sejong-notice-science-concert] rendered 1017 chars CHANGED
+[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
+[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
+[yangyang-cafe-balloon-15331-m] rendered 31447 chars CHANGED
+[hanbat-gongdong-science-form] rendered 1854 chars CHANGED
+[daejeon-cafe-dodam-2801968] rendered 8497 chars CHANGED
+[cnu-jsh-schedule-178] rendered 3047 chars CHANGED
+[sejong-notice-dance-free] rendered 1711 chars CHANGED
+[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
+[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
 Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
+  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
 
-[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "
+[woorisb-tok7-product] rendered 2797 chars CHANGED
+[mommom-sandmagic-a] rendered 2040 chars CHANGED
+[mommom-sandmagic-b] rendered 84 chars CHANGED
+[sejong-notice-imnansu-play] rendered 869 chars CHANGED
+[dsecc-programs-p3] rendered 2333 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1472 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1144 chars CHANGED
+[kmusic-calendar-year] rendered 6079 chars CHANGED
+[nol-product-26001112] rendered 3666 chars CHANGED
+[ysfesta-main] rendered 152 chars CHANGED
+[blog-gotaekmusicfesta-224428285877] rendered 2924 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3651 chars CHANGED
+[leis-cycling-kcf] rendered 2180 chars CHANGED
+[sje-life-events] rendered 56594 chars CHANGED
+[pyoungsong] rendered 865 chars same
+[geumriver-dam] rendered 4513 chars CHANGED
+[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
+[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[expo-park] rendered 728 chars CHANGED
+[nol-upcoming-notice] rendered 16355 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 16510 chars CHANGED
+[ticketlink-notice-mobile] rendered 266246 chars CHANGED
+[pyoungsong-performance] rendered 1195 chars same
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[pyoungsong-event-piglets] rendered 466 chars same
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[andong-halftour] rendered 2491 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4510 chars CHANGED
+[blog-dooglami-224434696671] rendered 5020 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3187 chars CHANGED
+[blog-dooglami-224433357728] rendered 4884 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] rendered 34079 chars same
+[pyoungsong-monthly] rendered 634 chars same
+[pyoungsong-wp-event-api] rendered 208 chars same
+[pyoungsong-tribe-events-api] rendered 166666 chars same
+[pyoungsong-event-list] rendered 322 chars same
+[ticketlink-notice-65862] rendered 250680 chars CHANGED
+[docomomokorea-main] rendered 293 chars same
+[pyoungsong-event-rudolph] rendered 424 chars same
