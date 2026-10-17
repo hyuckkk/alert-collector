@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-17T13:37:54+09:00",
+ "updated": "2026-10-17T14:07:37+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 211,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "백제 사신선의 빛나는 항해…'연수 능허대 문화축제' 12만 인파 몰리며 성료 - 중도일보",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0em9WOHY2XzhxNWhrZ3ltSUhlRU5YdC1Na0hwQ3hWb2FsQjNGZUZDMDhUUkMxel9DODhXX3dHeVByelFIeUhxekRKVlp1RENCRm03S2c3WjVtdG5EOHRrNmZEQjA?oc=5",
+   "pub": "Mon, 12 Oct 2026 05:07:41 GMT",
+   "engine": "gnews",
+   "query": "충남대 축제",
+   "first_seen": "2026-10-17T14:07:37+09:00"
+  },
   {
    "title": "주차장이 생각보다 협소해서 주변에 카이스트나 임시주차장에 주차하시는걸 추천드립니당!! 2. 야경 제가 밤에 보고 가장 좋았던 건 꽃과 조명이 함께 만들어내는 분위기였어요. 2026... 평생학습 동아리 버스킹 서편 무대 17:00 유성이 퍼포먼스 한빛탑 조형물 앞 17:30 전자현악 조이 특별공연 서편 무대 18:50 국화음악회 동편 무대 국화음악회는 18",
    "url": "https://blog.naver.com/thsrkdmf777/224444212386",
@@ -21397,9 +21405,5 @@
    "first_seen": "2026-10-10T15:07:53+09:00"
   }
  ],
- "errors": [
-  "naver_cafe '충남대 정심화홀 정기연주회': HTTP Error 403: Forbidden",
-  "naver_all '충남대 정심화홀 정기연주회': HTTP Error 403: Forbidden",
-  "naver_web '충남대 정심화홀 정기연주회': HTTP Error 403: Forbidden"
- ]
+ "errors": []
 }

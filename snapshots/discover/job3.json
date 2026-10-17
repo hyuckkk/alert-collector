@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T13:37:54+09:00",
+ "updated": "2026-10-17T14:07:37+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 9,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "오픈 회차 - 7월 12일 (일) 14:30 - 7월 12일 (일) 19:30 (박효신회차) 오픈 일시 6월 19일 (금) 11:00(오늘) 10시에 선착순 쿠폰 받으세요새 창 열림",
@@ -21165,10 +21165,5 @@
    "first_seen": "2026-10-10T15:07:53+09:00"
   }
  ],
- "errors": [
-  "naver_blog '박효신 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_news '박효신 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_cafe '박효신 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_web '박효신 티켓오픈': HTTP Error 403: Forbidden"
- ]
+ "errors": []
 }
