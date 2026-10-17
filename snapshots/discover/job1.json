@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T09:07:37+09:00",
+ "updated": "2026-10-17T10:07:36+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 18,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "엄청 많으니 골라골라 가세요 토요일 꽃천지 가덕 어린이 사생대회 당일 현장접수입니다! 유치부, 초등학생까지 참가 할 수 있습니다.... 놀이기구, 뮤지컬, 플리마켓이 열리고 충북도청 잔디광장에서 국가유산 체험프로그램을 만날 수 있어요 신선주, 사찰음식, 한식체험도 할 수 있네요 토요일 가경터미널시장도 야시장 오픈합니다^^~!! 토요일, 일요일 육거리 야시장",
@@ -21273,9 +21273,8 @@
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
