@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T14:07:37+09:00",
+ "updated": "2026-10-17T16:07:38+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 17,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "국가의 해외 빵 문화를 천안에서 직접 경험할 수 있다\"며 \"어린이뮤지컬, 빵네컷 사진관, 빵여권 투어단 등 다양한 볼거리와 즐길거리...준비했다\"고 밝혔다. 이후 질의응답에서 \"비슷한 행사가 열리는 대전과 달리 천안은 전국민이 아는 호두과자의 원조 지역...",
@@ -21256,10 +21256,8 @@
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
