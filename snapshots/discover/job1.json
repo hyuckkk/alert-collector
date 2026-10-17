@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-18T03:07:36+09:00",
+ "updated": "2026-10-18T04:07:36+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 6,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "대전 빵축제, 올해는 엑스포에서…120개 빵집 손님맞이 - 위키트리",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIWHE1STJ3X2Y5YTdPQjFLSjNQNXJfOWFPSnlIVExwSGNyNi1pcmpIX0pHSTI2WlBRS1BEVXU5RDdmQmc0MHVla09jeER6WUs4TTZ2dWJ3?oc=5",
+   "pub": "Thu, 15 Oct 2026 01:49:00 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 퍼포먼스 공연",
+   "first_seen": "2026-10-18T04:07:36+09:00"
+  },
   {
    "title": "알사탕 한 알에 마법 한 스푼…제천서 즐기는 가족 나들이 - 충청투데이",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yYWpfT2VxUHhrQ2ZOSi1hUGRQY0ZFYUVMOFJESklzMkRWdjFhdEVzT0I3MGZ2MURqT1IzclpmUktYcllpRUM5ZjFaZ2NMV2h4V0UwUFczV3RSRl94YmFZXzUzNWpkQUF2bUtYRXFB?oc=5",
@@ -21233,21 +21241,11 @@
    "engine": "gnews",
    "query": "대전 가족 퍼포먼스 공연",
    "first_seen": "2026-10-15T14:08:07+09:00"
-  },
-  {
-   "title": "'2026 대전 빵축제' 17일 개막…120개 빵집 참여부터 야간 관광까지 - 더팩트",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DX0xCelJhQzB6Si0yb20tdGJrYkZvOHBiRTRMeGtWd01UM1l4dzZEZy1RRzJuc05uZTJxbTE5VTVYd3d2aU5jakVZbS01V0V2RFVKNkxn0gFWQVVfeXFMT0NfTEJ6UmFDMHpKLTJvbS10YmtiRm84cGJFNEx4a1Z3TVQzWXh3NkRnLVFHMm5zTm5lMnFtMTlVNVh3d3ZpTmNqRVltLTVXRXZEVUo2TGc?oc=5",
-   "pub": "Thu, 15 Oct 2026 01:51:00 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 퍼포먼스 공연",
-   "first_seen": "2026-10-15T14:08:07+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
