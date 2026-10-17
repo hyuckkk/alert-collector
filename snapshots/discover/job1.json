@@ -1,8 +1,23 @@
 {
- "updated": "2026-10-18T07:14:15+09:00",
+ "updated": "2026-10-18T08:07:34+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 3,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "예정이다. 축제는 15m의 대형 롤케이크 커팅 퍼포먼스와 축하공연으로 막을 올린다. 대전 곳곳의 빵집을 한자리에서 만나는 '빵...참여 프로그램으로 빵탑 쌓기, 빵 그림 맞히기 등 가족 단위 방문객을 위한 '빵잼 올림픽'이 펼쳐진다. 빵 구매 영수증을 제시하면...",
+   "url": "http://v.daum.net/v/20261015112916989",
+   "engine": "daum_news",
+   "query": "대전 가족 퍼포먼스 공연",
+   "first_seen": "2026-10-18T08:07:34+09:00"
+  },
+  {
+   "title": "대전 대표 빵집 120곳 한 곳에…‘대전빵축제’ 17일 개막 - 국민일보",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51dkZURGNFN3MydVl5ZnYxQm5BM3VKWmQ2dk5ySDdVdDQwb3I2dFpqRzhtVWZzQkw4eTRyZXpJOWhKM2pxejNrLU9fOTdPei1FRHc1bUIyUDlNMkhMd3lGQ0ltLUVZTkxrczdxZdIBbEFVX3lxTE51dkZURGNFN3MydVl5ZnYxQm5BM3VKWmQ2dk5ySDdVdDQwb3I2dFpqRzhtVWZzQkw4eTRyZXpJOWhKM2pxejNrLU9fOTdPei1FRHc1bUIyUDlNMkhMd3lGQ0ltLUVZTkxrczdxZQ?oc=5",
+   "pub": "Thu, 15 Oct 2026 02:30:00 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 퍼포먼스 공연",
+   "first_seen": "2026-10-18T08:07:34+09:00"
+  },
   {
    "title": "‘대청에서 느끼는 가을 정취’... 대전 대덕구, ‘2026 대덕대청호물결축제’ 개최 - 충남일보",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pNWJUc21EUXV1UjZTS0NyZE05N1U4OU9hYTVyaXprS2VFMTkwa3d5RDNsZnVDYmh0dG1vQTNfWTZ3YzM0UVB2Y0RZXzU5QjVsMDdsNE5EMGZLVExfdDl0RTI4aG5BYlJpc0l6MEhodjd3UFk?oc=5",
@@ -21229,25 +21244,13 @@
    "engine": "naver_all",
    "query": "대전 서커스 공연",
    "first_seen": "2026-10-15T14:08:07+09:00"
-  },
-  {
-   "title": "수 있다. 행사장 메인무대에서는 빵탑 쌓기, 빵 그림 맞히기 등 가족 단위 방문객이 함께 즐길 수 있는 프로그램들이 진행된다. 볼...케이크 커팅 퍼포먼스와 축하공연으로 방문객의 시선을 사로잡을 예정이다. ‘2026 대전 빵축제’ 포스터. 대전시 제공 빵축제는...",
-   "url": "http://v.daum.net/v/20261015114111704",
-   "engine": "daum_news",
-   "query": "대전 가족 퍼포먼스 공연",
-   "first_seen": "2026-10-15T14:08:07+09:00"
-  },
-  {
-   "title": "커팅 퍼포먼스와 축하공연이 마련됐다. 축제의 중심은 대전 곳곳의 빵집을 한자리에서 만날 수 있는 ‘빵 정거장’이다. 방문객이 원하는 빵집을 쉽게 찾을 수 있도록 축제장을 5개 구역으로 나눴다. 축제에 참여한 빵집의 대표 메뉴를 매장 판매 가격보다 5% 이상...",
-   "url": "http://v.daum.net/v/20261015113156153",
-   "engine": "daum_news",
-   "query": "대전 가족 퍼포먼스 공연",
-   "first_seen": "2026-10-15T14:08:07+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
  ]
 }
