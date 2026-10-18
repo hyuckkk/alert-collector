@@ -1,63 +1,53 @@
-[melon-christmas-carol-212575] rendered 1941 chars CHANGED
-[woorisb-tok7-product] rendered 2797 chars CHANGED
-[mommom-sandmagic-a] rendered 2035 chars CHANGED
-[mommom-sandmagic-b] rendered 95 chars CHANGED
-[sejong-notice-imnansu-play] rendered 869 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
-[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
-[andong-halftour] rendered 2491 chars CHANGED
-[kfe-main] rendered 3588 chars CHANGED
-[mommom-place-6a7d51b7] rendered 95 chars CHANGED
-[royal-khs-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[blog-namuac21-224427113169] rendered 4723 chars CHANGED
+[taean-halftour-apply] rendered 3078 chars CHANGED
+[seocheon-halftour-apply] rendered 1300 chars CHANGED
+[komsco-shop-cate2284] rendered 6776 chars CHANGED
+[mcst-culture-71983] rendered 1180 chars CHANGED
+[aircanada-korea] rendered 22818 chars CHANGED
+[aircanada-kr-so-hub] rendered 2738 chars CHANGED
+[aircanada-kr-kbcard] rendered 26626 chars CHANGED
+[aircanada-kr-moretotravel] rendered 3095 chars CHANGED
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1635 chars CHANGED
+[ticketlink-product-65585] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[nol-product-26012487] rendered 1439 chars CHANGED
+[hanbat-library-media-friend] rendered 506 chars CHANGED
+[kopis-place-pyoungsong-small] rendered 10154 chars same
+[bok-press-list] rendered 804 chars CHANGED
+[blog-seogu-artfest-fringe-cvovz] rendered 5037 chars CHANGED
+[blog-seogu-artfest-blu2sky7] rendered 6178 chars CHANGED
+[kwater-realtime-sumun] rendered 2301 chars CHANGED
+[cnu-jsh-schedule-178-2026-11] rendered 6212 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 954 chars CHANGED
+[mara1080-goldrun-geumsan] rendered 4293 chars CHANGED
+[pyeongtaek-gosi] rendered 1604 chars CHANGED
+[hanbat-library-culture] rendered 2580 chars CHANGED
+[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[pyoungsong-event-piglets] rendered 484 chars same
+[pyoungsong-event-sandmagic] rendered 480 chars same
+[pyoungsong-event-stonesoup] rendered 317 chars same
+[donghae-dhdmo-program] rendered 1800 chars CHANGED
+[yes24-perf-60278] rendered 198 chars CHANGED
+[chuncheon-notice-announcement] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/cityhall/administrative-info/notice-info/notice-announcement/
 Call log:
-  - navigating to "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schBcid=notice01", waiting until "domcontentloaded"
+  - navigating to "https://www.chuncheon.go.kr/cityhall/administrative-info/notice-info/notice-announcement/", waiting until "domcontentloaded"
 
-[khs-eventinfo] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.khs.go.kr/eventInfo/index.do", waiting until "domcontentloaded"
-
-[nol-nutcracker-daejeon] rendered 5010 chars CHANGED
-[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[pyoungsong-performance] rendered 1182 chars same
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[dsecc-programs] rendered 2333 chars CHANGED
-[seogu-exprn-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub03_01/list.do", waiting until "domcontentloaded"
-
-[seogu-event-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub02_01/list.do", waiting until "domcontentloaded"
-
-[seogu-edu-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub01_02/list.do", waiting until "domcontentloaded"
-
-[chuncheon-festival-news-464131] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "domcontentloaded"
-
-[pyeongtaek-news-board] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.pyeongtaek.go.kr/pyeongtaek/board/post/list.do?mid=0401010000&bcIdx=41", waiting until "domcontentloaded"
-
-[pyeongtaek-festival-alrimi] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.pyeongtaek.go.kr/alrimi/festival/list.do?mid=0101000000", waiting until "domcontentloaded"
-
-[blog-tjrudska82-224434527430] rendered 4510 chars CHANGED
-[blog-dooglami-224434696671] rendered 5088 chars CHANGED
-[dsecc-programs-p3] rendered 2333 chars CHANGED
-[blog-first_seogu-224428074790] rendered 3188 chars CHANGED
-[blog-dooglami-224433357728] rendered 4854 chars CHANGED
-[yes24-genre-children] rendered 196 chars CHANGED
-[pyoungsong-event-feed] rendered 34079 chars same
-[pyoungsong-monthly] rendered 634 chars same
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 166666 chars same
-[pyoungsong-event-list] rendered 322 chars same
-[ticketlink-notice-65862] rendered 279639 chars CHANGED
-[docomomokorea-main] rendered 293 chars same
-[pyoungsong-event-rudolph] rendered 424 chars same
-[pyoungsong-event-snowwhite] rendered 413 chars same
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1688 chars CHANGED
+[mokwon-general-notice] rendered 1612 chars CHANGED
+[templestay-main] rendered 2612 chars CHANGED
+[hwadong-main] rendered 8148 chars CHANGED
+[mokpo-harborfestival-main] rendered 8982 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1472 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1144 chars CHANGED
+[kmusic-calendar-year] rendered 6079 chars CHANGED
+[nol-product-26001112] rendered 3666 chars CHANGED
+[blog-daedeokgu-224432911721] rendered 2607 chars CHANGED
+[blog-namuac21-224424725714] rendered 4473 chars CHANGED
+[blog-youneed4613-224436099074] rendered 3069 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
+[pyoungsong-tribe-events-api-p2] rendered 28156 chars same
+[kopis-pf297232] rendered 7859 chars same
+[dgdr-festival] rendered 203 chars CHANGED
