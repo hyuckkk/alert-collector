@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T22:07:36+09:00",
+ "updated": "2026-10-19T03:02:33+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -4903,70 +4903,7 @@
    "engine": "naver_web",
    "query": "미국행 항공권 특가 카드 할인",
    "first_seen": "2026-10-12T08:08:10+09:00"
-  },
-  {
-   "title": "[에어 라이브] 대한항공ㆍ제주항공ㆍ트리니티ㆍ이스타ㆍ에어캐나다 - 대한경제",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jLVp3SEQzTi0zS2otTlJyNVdKRkhqd2Q5d3N3UjJ1WkVEaUxZZzJoLXQwdzh5M2lPWkRRQWFkczZSbjVjYzRZQVBUNll3djVXUElPOTJyb1JlSkhLVkdmZ2NfcWhJcWltWklQUGd3dGtWLWM?oc=5",
-   "pub": "Wed, 07 Oct 2026 04:58:01 GMT",
-   "engine": "gnews",
-   "query": "에어캐나다 프로모션 코드",
-   "first_seen": "2026-10-12T02:08:11+09:00"
-  },
-  {
-   "title": "\"비행기표만 싸게? 쇼핑·호텔도 쏜다\"...항공사 가을·겨울 프로모션 경쟁 - 인사이트",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nd2wxdUVMVHBYYklRVUxsSW9udG1LYUpEbXBWenpRaVBsSkdlc3ItWDhxOERtNzNqaVNlNHRncjdDVkl0NHc0TzQ2eTVvZw?oc=5",
-   "pub": "Sun, 11 Oct 2026 16:25:01 GMT",
-   "engine": "gnews",
-   "query": "에어캐나다 프로모션 코드",
-   "first_seen": "2026-10-12T02:08:11+09:00"
-  },
-  {
-   "title": "에어프레미아, 미주출발 항공권 최대 20% 프로모션 - 미주조선일보",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdUNkWUJSeVdHQjViRUI5djlKTElBWURiVlVsNHRwM0RoSUNxZnV4dTJHTS1FRnVzRHhBV183NlIzaG1uc2RoZC1lUjZhY1pRalJFUzFIenhCRGNPTmpLWDMydnE2Z1Aya2g0eXBFNjJYVHEzVlJFQ1kwUVZjUTBuZV9YY0Y4cndwY1dkTDN6TDE1SnloZjZrUzc0ZUNRNzdZamxfSlcyRUlRUTVUemNsOUg2bXM2UElFLUZHUjVGZXpOZlJr?oc=5",
-   "pub": "Sun, 11 Oct 2026 07:39:56 GMT",
-   "engine": "gnews",
-   "query": "대한항공 미주 프로모션 2027",
-   "first_seen": "2026-10-12T02:08:11+09:00"
-  },
-  {
-   "title": "트리니티항공, 소노 스카이거너스와 메인 스폰서십 체결... 제주항공, 중국 운수권 확보·동계 증편 외 [시경Today-항공] - 시장경제신문",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oVk5hMmROTWpHeC05SzJWTGVWUUY1YWVYczY5cW1Ma1lGU0tJUjhsWFhrQXZhZUMtMTRvejdkaHo5dzc0UGZFVFpRSHhtMzRRdVhrRDNVLUVmTGtkOUx3OVZia0ZKOGRjUjhIU0pad0w?oc=5",
-   "pub": "Tue, 06 Oct 2026 05:35:23 GMT",
-   "engine": "gnews",
-   "query": "에어캐나다 한국 출발 미국 할인코드 2027 6월",
-   "first_seen": "2026-10-12T00:08:10+09:00"
   }
  ],
- "errors": [
-  "gnews '에어캐나다 한국 출발 미국 할인코드 2027 6월': HTTP Error 503: Service Unavailable",
-  "gnews '에어캐나다 인천 덴버 편도 프로모션': HTTP Error 503: Service Unavailable",
-  "gnews 'Air Canada Korea origin USA June 2027 promo code': HTTP Error 503: Service Unavailable",
-  "gnews 'site:aircanada.com/ko-kr 프로모션 약관': HTTP Error 503: Service Unavailable",
-  "gnews 'site:aircanada.com ICN DEN June 2027 sale': HTTP Error 503: Service Unavailable",
-  "gnews '에어캐나다 한국 블랙프라이데이 탑승기간 제외일': HTTP Error 503: Service Unavailable",
-  "gnews '에어캐나다 특가': HTTP Error 503: Service Unavailable",
-  "gnews '에어캐나다 프로모션 코드': HTTP Error 503: Service Unavailable",
-  "gnews '에어캐나다 할인 이벤트 카드': HTTP Error 503: Service Unavailable",
-  "gnews '에어캐나다 밴쿠버 경유 덴버': HTTP Error 503: Service Unavailable",
-  "gnews 'Air Canada sale Korea': HTTP Error 503: Service Unavailable",
-  "gnews 'Air Canada promo code Seoul': HTTP Error 503: Service Unavailable",
-  "gnews '에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드': HTTP Error 503: Service Unavailable",
-  "gnews '에어캐나다 항공권 기획전 여행사 미국': HTTP Error 503: Service Unavailable",
-  "gnews '대한항공 미주 특가': HTTP Error 503: Service Unavailable",
-  "gnews '대한항공 미주 프로모션 2027': HTTP Error 503: Service Unavailable",
-  "gnews '아시아나 미주 특가': HTTP Error 503: Service Unavailable",
-  "gnews '유나이티드항공 한국 출발 프로모션': HTTP Error 503: Service Unavailable",
-  "gnews '유나이티드항공 할인코드 인천': HTTP Error 503: Service Unavailable",
-  "gnews '델타항공 인천 출발 특가': HTTP Error 503: Service Unavailable",
-  "gnews '델타항공 프로모션 코드 한국': HTTP Error 503: Service Unavailable",
-  "gnews '에어프레미아 미주 특가': HTTP Error 503: Service Unavailable",
-  "gnews '에어프레미아 프로모션 LA': HTTP Error 503: Service Unavailable",
-  "gnews '알래스카항공 한국 프로모션': HTTP Error 503: Service Unavailable",
-  "gnews '일본항공 미주 특가 인천': HTTP Error 503: Service Unavailable",
-  "gnews 'ANA 미주 특가 한국 출발': HTTP Error 503: Service Unavailable",
-  "gnews '미국행 항공권 특가 카드 할인': HTTP Error 503: Service Unavailable",
-  "gnews '인천 덴버 항공권 특가': HTTP Error 503: Service Unavailable",
-  "gnews 'United Airlines Korea sale': HTTP Error 503: Service Unavailable",
-  "gnews 'Delta Korea promo': HTTP Error 503: Service Unavailable"
- ]
+ "errors": []
 }
