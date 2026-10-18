@@ -1,8 +1,23 @@
 {
- "updated": "2026-10-18T10:07:36+09:00",
+ "updated": "2026-10-18T11:07:35+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "클래식 발레에 연극·미디어 아트 더했다…‘잠자는 숲속의 미녀’ 어린이 눈높이로 재탄생 - 충청매일",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZ1JYdWo2SjRXNHNoOXpCclhNY3JaRnF4MnlxbVY4YjNQdmNrU3NMMWpsRzhrVW1SeUNibmV5aEJINXJXZ0xlOEN4VzlVRWZlT0x5eUZxYU1WTE1yS2xYT3d3MDhZU0tNcUE?oc=5",
+   "pub": "Wed, 14 Oct 2026 10:05:07 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 연극",
+   "first_seen": "2026-10-18T11:07:35+09:00"
+  },
+  {
+   "title": "축하공연으로 장식했다. 도 관계자는 “예년과 달리 도민 중심으로 색다르게 마련한 이번 행사는 지역과 세대를 넘어서는 소통과...고석희 한국노총 충남세종지역본부 의장, 소속 사업장 노사와 가족 등 500여 명이 참석했다. 이날 행사는 강제동원 노동자 추념식...",
+   "url": "http://v.daum.net/v/20261018110522042",
+   "engine": "daum_news",
+   "query": "대전 가족 퍼포먼스 공연",
+   "first_seen": "2026-10-18T11:07:35+09:00"
+  },
   {
    "title": "[공연] 2026 대전무악연희축제, ‘대전의 혼불’ 주제 - 굿모닝충청",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9icXRRdEFmQUphcUU3dVd2cTBzcVRIU1FsZHVZc29Xbl9VcnZjb09Rdmt3ZF9PUWF6eFRSUU1EN0dzQnIxNWtOODBJbjJ0cDFxdEZlb3FPMjJEMERLVWFmdUtIOUJSX1RQay03b2t3R3h6dw?oc=5",
@@ -21235,25 +21250,13 @@
    "engine": "naver_blog",
    "query": "대전 서커스 공연",
    "first_seen": "2026-10-15T14:08:07+09:00"
-  },
-  {
-   "title": "엑스포 아쿠아리움 공연 3. 체험 및 액티비티 대전 가볼만한곳 아쿠아리움은 위 순서대로 소개할게요! 1. 1만 원 할인 쿠폰 10월 17일 대전 빵축제를 맞이해서 대전 관광공사에서 1만... 공연과 체험은 날짜별로 운영 시간이나 내용이 달라질 수 있으니, 꼭 보고 싶은 공연이 있다면 방문 전 시간표를 확인하고 동선을 정해 보세요! 저는 수중발레, 피딩쇼, ",
-   "url": "https://blog.naver.com/tmfrhkthfl2/224439507991",
-   "engine": "naver_blog",
-   "query": "대전 서커스 공연",
-   "first_seen": "2026-10-15T14:08:07+09:00"
-  },
-  {
-   "title": "어린이 뮤지컬 〈인싸가족〉은 10월 30일과 31일 오전 10시, 하루 1회씩 총 2회 안동국제컨벤션센터 지하 1층 대회의실에서 공연돼... 국학대전에서는 우리 기록유산을 살펴보고 전통 5韓 체험도 즐길 수 있고요. 한국문화테마파크와 선성현문화단지에서는 조선의 서커스부터 더레시피, 예끼아트페어까지 다양한 프로그램이 준비되어 있다네요~! 그리고 10월 31일",
-   "url": "https://blog.naver.com/codkfhdns/224439471669",
-   "engine": "naver_blog",
-   "query": "대전 서커스 공연",
-   "first_seen": "2026-10-15T14:08:07+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
  ]
 }
