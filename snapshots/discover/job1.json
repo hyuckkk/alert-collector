@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-18T15:07:37+09:00",
+ "updated": "2026-10-18T16:07:34+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 9,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "대덕구, 독서문화축제 성료…정지아 작가와 책으로 소통 - 충청매일",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Vc1ZXTndWaWZ3NmNLOFBJbGtybk5OcmRVR0pIdFFfOWl0ekNYMllKV25EUFI2eVMyNVNoekVtR2Q2emxPcUhmT2RPTzdyZGtWNzkzQWdDaUlhZTJNSTFpYUdQQkVyTVRtUEE?oc=5",
+   "pub": "Sun, 18 Oct 2026 06:15:14 GMT",
+   "engine": "gnews",
+   "query": "대전 도서관 어린이 공연 시간표",
+   "first_seen": "2026-10-18T16:07:34+09:00"
+  },
   {
    "title": "분야 : 뮤지컬, 기간 : 2026.08.08. ~ 2026.08.09. 시간 : 토요일 ~ 일요일(11:00,14:00,16:30), 장소 : 대전 | 대전평송청소년문화센터, 요금 : R석 66,000원, 문의 : 070-4108-9999, 바로가기 : https://www.ticketlink.co.kr/product/63564새 창 열림",
    "url": "https://www.mcst.go.kr/usr/child/enter/culture/cultureView.jsp?pSeq=73059",
@@ -21249,19 +21257,11 @@
    "engine": "naver_cafe",
    "query": "대전어린이회관 공연",
    "first_seen": "2026-10-15T14:08:07+09:00"
-  },
-  {
-   "title": "문화공연 10월 31일(토) 제1회 사천짜장 전국 요리경연대회 제2회 사천시장배 시민농악대전 어린이 그림 그리기 대회 오후 6시 농업인 어울림 한마당 11월 1일(일) 태군노래자랑 현장 캐스팅 오후 1시 30분부터 본무대 공연·촬영 나태주·박군과 함께하는 노래자랑 이 밖에도! ✔️ 사천짜장페스타 ✔️ 농업인 어울림 한마당 ✔️ 다양한 체험 및 이벤트 ✔️ ",
-   "url": "https://cafe.naver.com/tmdwn8017/24509?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRtZHduODAxNyIsImFydGljbGVJZCI6MjQ1MDksImlzc3VlZEF0IjoxNzkyMDQwOTIzODQ4fQ.crOhhiJffd2bY1ZiL74EqLJfrBK1C0jciJPhMXfmGno&q=%eb%8c%80%ec%a0%84%ec%96%b4%eb%a6%b0%ec%9d%b4%ed%9a%8c%ea%b4%80%20%ea%b3%b5%ec%97%b0&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전어린이회관 공연",
-   "first_seen": "2026-10-15T14:08:07+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
