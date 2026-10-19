@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-19T23:07:36+09:00",
+ "updated": "2026-10-20T02:07:38+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 1,
  "hits": [
+  {
+   "title": "[항공 & Now] 에어프레미아, 미 서부 '와이드 프리미엄 탑승률' 이코노미 추월 등 - www.ebn.co.kr",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMajdDdWtVaTVCamJCaHpZajhpX1NOS3VzNmN5TEdiT3c5UUdsZUJqZ1ZSX0hPcnhJdEJxTFZLbkhvdnRzVDVXYzk4dnMzV29lRWVfdHYzU0lhQ25FdUJKTE52cHg0ejVn?oc=5",
+   "pub": "Thu, 15 Oct 2026 09:12:08 GMT",
+   "engine": "gnews",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-10-20T02:07:38+09:00"
+  },
   {
    "title": "에어프레미아, 미주 서부 노선서 와이드 프리미엄 탑승률 이코노미 앞서 - 한국경제",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yVFc0RG5TTmpscnpTV2hoZGFKS3lMaE1udWQ1R0dGVnFVOE5sVFdCVFZfNVQ2S0NZcUIyTzlzckxsRGdZNWQ1VldNaVMyNjFkSVZMZDlnV0Ftdw?oc=5",
@@ -514,14 +522,6 @@
    "engine": "daum_news",
    "query": "에어프레미아 프로모션 LA",
    "first_seen": "2026-10-13T03:08:03+09:00"
-  },
-  {
-   "title": "에어프레미아, 국적사 노선 점유율 20% 넘어 - 트래블데일리",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBneEZFYjR5UDZTS1ZYRXZINXNya2RIR3E4SGgwNWFKQ1ZuX2VValI2bEM1alc3QXZFRnUwdkNpMmJtSEVNNFF5NGNwT3E4Y2lSM25rLWlISlowcnQyamsydlpGQV91WnBXSzRBc0VFY3g?oc=5",
-   "pub": "Mon, 12 Oct 2026 12:59:31 GMT",
-   "engine": "gnews",
-   "query": "에어프레미아 프로모션 LA",
-   "first_seen": "2026-10-13T00:08:04+09:00"
   }
  ],
  "errors": []
