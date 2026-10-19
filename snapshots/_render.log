@@ -1,54 +1,47 @@
-[kwater-realtime-multidam] rendered 10542 chars CHANGED
-[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/22471']' timed out after 75 seconds
-[gongjeon-kids] rendered 482 chars CHANGED
-[navy-visit-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[katc-schedule] rendered 688 chars CHANGED
+[ticketlink-notice-65862] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/help/notice/65862']' timed out after 75 seconds
+[chuncheon-municipal-news] rendered 1688 chars CHANGED
+[mokwon-general-notice] rendered 1612 chars CHANGED
+[khs-eventinfo] rendered 1144 chars CHANGED
+[yuseong-round-event] rendered 1322 chars CHANGED
+[pyoungsong] rendered 865 chars same
+[nol-family] rendered 3655 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[oworld-notice] rendered 1729 chars CHANGED
+[baekje-schedule] rendered 1513 chars CHANGED
+[woosongart-schedule] rendered 590 chars CHANGED
+[pyeongtaek-main] rendered 24115 chars CHANGED
+[kopis-daejeon-kids] rendered 30630 chars same
+[mnd-main] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_REFUSED at https://www.mnd.go.kr/
 Call log:
-  - navigating to "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000", waiting until "domcontentloaded"
+  - navigating to "https://www.mnd.go.kr/", waiting until "domcontentloaded"
 
-[katc-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.katc.mil.kr/katc/guide/schedule.jsp", waiting until "domcontentloaded"
-
-[fsale-main] rendered 4912 chars CHANGED
-[fsale-onnuri] rendered 411 chars same
-[gcfct-schedule] rendered 371 chars CHANGED
-[mokwon-events] rendered 948 chars CHANGED
-[science-reservation] rendered 1169 chars CHANGED
-[dsecc-programs-p3] rendered 2333 chars CHANGED
-[mommom-place-6a7d51b7] rendered 95 chars CHANGED
-[blog-first_seogu-224428074790] rendered 3189 chars CHANGED
-[blog-dooglami-224433357728] rendered 4861 chars CHANGED
-[yes24-genre-children] rendered 196 chars CHANGED
-[pyoungsong-event-feed] rendered 34079 chars same
-[pyoungsong-monthly] rendered 634 chars same
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 166666 chars CHANGED
-[pyoungsong-event-list] rendered 322 chars same
-[ticketlink-notice-65862] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[docomomokorea-main] rendered 293 chars same
-[pyoungsong-event-rudolph] rendered 424 chars same
-[pyoungsong-event-snowwhite] rendered 413 chars same
-[blog-namuac21-224427113169] rendered 4723 chars CHANGED
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[seocheon-halftour-apply] rendered 1300 chars CHANGED
-[komsco-shop-cate2284] rendered 6776 chars CHANGED
-[mcst-culture-71983] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.mcst.go.kr/site/s_culture/culture/cultureView.jsp?pSeq=71983", waiting until "domcontentloaded"
-
-[aircanada-korea] rendered 22820 chars CHANGED
-[aircanada-kr-so-hub] rendered 2740 chars CHANGED
-[aircanada-kr-kbcard] rendered 26650 chars CHANGED
-[aircanada-kr-moretotravel] rendered 3097 chars CHANGED
-[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
-[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
-[ticketlink-product-65585] rendered 156889 chars CHANGED
-[yes24-perf-60278] rendered 199 chars CHANGED
-[chuncheon-notice-announcement] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/cityhall/administrative-info/notice-info/notice-announcement/", waiting until "domcontentloaded"
-
-[chuncheon-notice-announcement-76219] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/cityhall/administrative-info/notice-info/notice-announcement/view/?notAncmtMgtNo=76219", waiting until "domcontentloaded"
-
+[khs-notice] rendered 309 chars same
+[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[expo-park] rendered 735 chars CHANGED
+[nol-upcoming-notice] rendered 16039 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 16068 chars CHANGED
+[daejeon-its-board] rendered 3578 chars CHANGED
+[zeropay-events] rendered 529 chars CHANGED
+[chuncheon-festival-news] rendered 917 chars CHANGED
+[chuncheon-festival-news-459539] rendered 800 chars CHANGED
+[galleria-timeworld-culture] rendered 2112 chars CHANGED
+[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[templestay-main] rendered 2612 chars CHANGED
+[hwadong-main] rendered 8148 chars CHANGED
+[mokpo-harborfestival-main] rendered 8982 chars CHANGED
+[nol-product-26012487] rendered 1439 chars CHANGED
+[hanbat-library-media-friend] rendered 506 chars CHANGED
+[kopis-place-pyoungsong-small] rendered 10154 chars same
+[bok-press-list] rendered 804 chars CHANGED
+[blog-seogu-artfest-fringe-cvovz] rendered 5333 chars CHANGED
+[blog-seogu-artfest-blu2sky7] rendered 6134 chars CHANGED
+[kwater-realtime-sumun] rendered 2301 chars CHANGED
+[cnu-jsh-schedule-178-2026-11] rendered 6212 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 954 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1472 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1144 chars CHANGED
+[kmusic-calendar-year] rendered 6079 chars CHANGED
+[nol-product-26001112] rendered 3666 chars CHANGED
+[blog-daedeokgu-224432911721] rendered 2608 chars CHANGED
+[blog-namuac21-224424725714] rendered 4473 chars CHANGED
