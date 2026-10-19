@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-20T06:00:14+09:00",
+ "updated": "2026-10-20T06:21:22+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "에어프레미아, 미주 서부 노선 프리미엄 좌석 인기...일반석 탑승률 추월 - ER 이코노믹리뷰",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UZlRESGF6eVFfbEFMclFZVDlQR21vUzVCTmg2M2M5c3d5UkVNNHZSZFhSRXNqN3otREVOODlUa2tuUE5fYzdMdUt5VXM2bklLM2wtc28xazJacG5OZ2VEajNfVFJ0bXF1SUhOTQ?oc=5",
+   "pub": "Thu, 15 Oct 2026 01:31:51 GMT",
+   "engine": "gnews",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-10-20T06:21:22+09:00"
+  },
   {
    "title": "[항공 & Now] 에어프레미아, 미 서부 '와이드 프리미엄 탑승률' 이코노미 추월 등 - www.ebn.co.kr",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMajdDdWtVaTVCamJCaHpZajhpX1NOS3VzNmN5TEdiT3c5UUdsZUJqZ1ZSX0hPcnhJdEJxTFZLbkhvdnRzVDVXYzk4dnMzV29lRWVfdHYzU0lhQ25FdUJKTE52cHg0ejVn?oc=5",
@@ -499,14 +507,6 @@
    "engine": "gnews",
    "query": "아시아나 미주 특가",
    "first_seen": "2026-10-13T07:08:01+09:00"
-  },
-  {
-   "title": "에어프레미아, LA노선 취항 3년 만에 수송 점유율 15% 돌파 - 미주조선일보",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORmVpdHFJS3RROHpNZ1AwcU1IMU0zVWhmUU85UGV4Ri0yMTA0UVNUUllJV294dzUyNWl4QWxiR1RLU1NlQUhiU25VajJJREdELVNxOHB3anpqTWtXa1FpUHRzRnR2MHQ2TXdnWnJnQldyekdvS3N6dzIxOHNwUFJ0OXV4XzF5VFl4YTJ0T1lEbHRVZXBtWFFYVlc2M0pVdmd3TkpZTmFoTFh1TmZNZUxweWxoWFZVRE96TW11Ylp1cWMza29k?oc=5",
-   "pub": "Sun, 11 Oct 2026 09:31:28 GMT",
-   "engine": "gnews",
-   "query": "에어프레미아 프로모션 LA",
-   "first_seen": "2026-10-13T06:08:01+09:00"
   }
  ],
  "errors": []

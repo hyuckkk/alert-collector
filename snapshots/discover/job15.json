@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T06:00:14+09:00",
+ "updated": "2026-10-20T06:21:22+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -835,30 +835,6 @@
    "engine": "gnews",
    "query": "갑천 정화활동 가족 봉사",
    "first_seen": "2026-10-13T10:07:59+09:00"
-  },
-  {
-   "title": "현대삼호중공업 기직장협의회, 승달장학금 200만 원 기탁 > 뉴스 - 더코리아",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByVjJTQThUeWhnTkJhdFJOOFc1M204RlRIMmo4Ym11WUpTczIwUHVvaTAxWWktLXRqY0NTd2VvZ1hzT1BGbXBSdjZQaExOT2E4d2JTZWF6ZWw3WmtvSGtPVTN4ekNXUkpvd3FITlBQZ0c?oc=5",
-   "pub": "Mon, 12 Oct 2026 13:48:00 GMT",
-   "engine": "gnews",
-   "query": "대전 자원봉사센터 가족 봉사",
-   "first_seen": "2026-10-13T06:08:01+09:00"
-  },
-  {
-   "title": "경기도의회 김태희 의원, 여주 아동그룹홈 현장 점검 > 뉴스 - 더코리아",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81MHc4WGhyMVFzcmtKdENIaDcxeXlNd2s3dDhvUEx2ellMN1p6cVg2ajdnYkNzNHdCYVpQUmZjdzB1bnVkSVF3QzhPcTBCbzQyd1ZrNHJBOEd0U3FUMnJxQ3N3SndFR3ZHczJOQW5aWmk?oc=5",
-   "pub": "Mon, 12 Oct 2026 08:26:00 GMT",
-   "engine": "gnews",
-   "query": "대전 자원봉사센터 가족 봉사",
-   "first_seen": "2026-10-13T06:08:01+09:00"
-  },
-  {
-   "title": "박균택 의원, \"감사원 사전컨설팅, 막힌 행정의 든든한 해법\" > 뉴스 - 더코리아",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kM013cDYtaUt3SHFfQ1NpbzZIcVJjM1g1SXVQWG5vVzUwNFVRRk5oMjZWMUhXSTY2YjdDT2NPQzNEODMzZzBtNWExaE1DUTNwLUFseE9wQjd4WmEyU1VZUFdsOWNLRHc1R2tzSzJSYjk?oc=5",
-   "pub": "Mon, 12 Oct 2026 13:18:00 GMT",
-   "engine": "gnews",
-   "query": "대전 자원봉사센터 가족 봉사",
-   "first_seen": "2026-10-13T06:08:01+09:00"
   }
  ],
  "errors": []
