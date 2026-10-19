@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-20T07:07:34+09:00",
+ "updated": "2026-10-20T08:07:36+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 8,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "유성구여성합창단, 가을 물들이는 하모니 ‘가을의 향기’ - 도민연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsV0t4bzdPQVY4Rk5wdzlJZTBCM0lDZ2hBUjYzQXBMVlNqajVTTHM4QUdGdExMNC1maXRrbWhvWlRWcVhlNXpBMWhFYWFfdGM3aW1RWkRNN3FSNWQ0S2Y4cWw5TFRPZlExd1E?oc=5",
+   "pub": "Fri, 16 Oct 2026 00:21:42 GMT",
+   "engine": "gnews",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-10-20T08:07:36+09:00"
+  },
   {
    "title": "보훈부, ‘인빅터스 게임 대전 2029’ 개최 선포식, 대전 한밭수목원에서 열린다 - 자유방송",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03WmFMbTg4YzItNEJsazdYMjQ1bk1JWV93TElSVlYycXkwbGpfMzZITld3Qml3WWdvckZaVUNWQ3VOTmlaajYyNk5UaTg2by1BclBhRGNzcGVDdUFYUVo3c3kwc2FlZw?oc=5",
@@ -21178,18 +21186,13 @@
    "engine": "naver_cafe",
    "query": "대전 가족 퍼포먼스 공연",
    "first_seen": "2026-10-19T03:18:07+09:00"
-  },
-  {
-   "title": "오히 데이 국경일 퍼레이드 (Ohi Day / Oxi Day) 시기: 매년 10월 28일 오전 장소: 신타그마 광장(Syntagma Square) 및 국회의사당 앞 판에피스티미우 대로 내용: 1940년 제2차 세계대전 당시 이탈리아 무솔리니의... 퍼레이드가 끝난 후에는 모나스티라키와 플라카 지구의 야외 식당(타베르나)에서 전통 음악 공연과 함께 온 가족이",
-   "url": "https://cafe.naver.com/hassrd/30452?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imhhc3NyZCIsImFydGljbGVJZCI6MzA0NTIsImlzc3VlZEF0IjoxNzkyMzQ3NTk1OTA5fQ.aAPq9Yrnva1UcGtMh1OTbAmSxxVihO8zsYUD2BLDrp4&q=%eb%8c%80%ec%a0%84%20%ea%b0%80%ec%a1%b1%20%ed%8d%bc%ed%8f%ac%eb%a8%bc%ec%8a%a4%20%ea%b3%b5%ec%97%b0&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 가족 퍼포먼스 공연",
-   "first_seen": "2026-10-19T03:18:07+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
  ]
 }

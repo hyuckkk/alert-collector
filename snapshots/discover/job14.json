@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T07:07:34+09:00",
+ "updated": "2026-10-20T08:07:36+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -491,22 +491,6 @@
    "engine": "gnews",
    "query": "에어프레미아 미주 특가",
    "first_seen": "2026-10-13T09:07:58+09:00"
-  },
-  {
-   "title": "아시아나항공 '한국행 여름 특가 이벤트' - 미주조선일보",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZzhDUERZcF9wRFpJNHkxRWNVdmY2R3d6cUU3b2dXNmZ6OFRtUEwzSFJheEFUc09ud3lWaFlLMy1oZVI3dU5laXNYYWs4aTRFb3d6RkRIajRyRnpZX0d0dTJqNmFON0RDN0VLcEJoWVRmQ2ljbXFRLUxDNlBUVVdqU200QzdrbFdEbWtZNjZ4QVB2Y0xmYi1FVHZLMmx6R0NhZFBvQ0JEZ09EYmVCOG5Ya3YxYlVaNUF3Tnc?oc=5",
-   "pub": "Mon, 12 Oct 2026 02:34:34 GMT",
-   "engine": "gnews",
-   "query": "아시아나 미주 특가",
-   "first_seen": "2026-10-13T07:08:01+09:00"
-  },
-  {
-   "title": "아시아나, A380 재운항 및 미주노선 증편 기념 이벤트 - 미주조선일보",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY2hGUjBNOUY1Y3JCRzN6bWdCM0hEeVJPeEhhUG9lUXgyZE5OZzBoUTQ5cDVqNGxhOEpEMndwV1ByeFZVdDI4X1pTTkt3N181WGtvVnREd3hwdWYwWTlTUkVvX2dqaFZ1RjFfcVhFOURwNUdXYkx6LUZnQ1d1Y1MyVTB1UnJDR3ZvWnotTXRQUGtWYWRjRjlWQ0FXT2RFMHJZd2VqVXljMmVtcHZEeWN3VE04aDhNQnJLWXJHSVhjbnU1WDR2WUxVV2IwOWYyTDhB?oc=5",
-   "pub": "Mon, 12 Oct 2026 00:01:57 GMT",
-   "engine": "gnews",
-   "query": "아시아나 미주 특가",
-   "first_seen": "2026-10-13T07:08:01+09:00"
   }
  ],
  "errors": []
