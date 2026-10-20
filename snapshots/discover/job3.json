@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T10:08:07+09:00",
+ "updated": "2026-10-20T13:07:35+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 59,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "예매 오픈과 동시에 좌석이 마감되는 공연으로 잘 알려져 있다. 2022년 한 해에만 약 7만명의 관객을 모았다는 기록도 있다. KSPO DOME은 1만명 안팎을 수용하는 대형 공연장으로, 조용필·신승훈·이문세·김동률·박효신 등 티켓파워를 가진 솔로 가수들만 서는 무대로 꼽힌다. 성시경이 매년 사흘씩 이 무대를 매진시킨다는 건 그만큼 티켓파워가 꾸준하다는 뜻",
@@ -18510,11 +18510,5 @@
    "first_seen": "2026-10-13T14:08:01+09:00"
   }
  ],
- "errors": [
-  "naver_news '브랜든 최 공연': HTTP Error 403: Forbidden",
-  "naver_news '이적 콘서트': HTTP Error 403: Forbidden",
-  "naver_blog '브랜든 최 출연': HTTP Error 403: Forbidden",
-  "naver_cafe '브랜든 최 출연': HTTP Error 403: Forbidden",
-  "naver_web '브랜든 최 출연': HTTP Error 403: Forbidden"
- ]
+ "errors": []
 }
