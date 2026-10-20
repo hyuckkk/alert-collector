@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T02:19:24+09:00",
+ "updated": "2026-10-21T05:37:52+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "에어프레미아, LA 취항 4년 만에 국적사 점유율 20.8% - 미주조선일보",
@@ -414,14 +414,6 @@
    "engine": "gnews",
    "query": "대한항공 미주 프로모션 2027",
    "first_seen": "2026-10-14T07:07:59+09:00"
-  },
-  {
-   "title": "에이비스, 마일리지 적립 프로모션 진행 - 트래블데일리",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaMFBaQzM0NnJ6LWlMcEVWOVhnaDduZkl0WC1nZlp0cUNSa2hoTDRDUk83M05sRmNPaHpKV2RVTVBUOU1RYTlUSW8zX0VYdHFQRm13V1pNbUZhRjVrOFZ2Q2NRZldIZFlmZVF4WWVrMEQ?oc=5",
-   "pub": "Mon, 12 Oct 2026 12:59:26 GMT",
-   "engine": "gnews",
-   "query": "대한항공 미주 프로모션 2027",
-   "first_seen": "2026-10-14T02:38:23+09:00"
   }
  ],
  "errors": []
