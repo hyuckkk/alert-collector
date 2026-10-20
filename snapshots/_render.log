@@ -1,49 +1,65 @@
-[woosongart-schedule] rendered 590 chars CHANGED
-[pyeongtaek-main] rendered 22443 chars CHANGED
-[kopis-daejeon-kids] rendered 30636 chars CHANGED
-[kwater-realtime-multidam] rendered 10540 chars CHANGED
-[ticketlink-kids-cat-daejeon] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[dsecc-programs-p3] rendered 2277 chars CHANGED
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 95 chars CHANGED
-[mommom-place-6a2b94f5] rendered 95 chars CHANGED
-[mommom-place-6a2b9455] rendered 95 chars CHANGED
-[nol-product-phantom-40th] rendered 5339 chars CHANGED
-[daejeontour-bread-festival] rendered 1245 chars CHANGED
-[visitisland-main] rendered 1010 chars CHANGED
-[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[ticketlink-product-65585] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[nol-nutcracker-daejeon] rendered 5048 chars CHANGED
+[mara1080-goldrun-geumsan] rendered 4294 chars CHANGED
+[runningon-schedule-open] rendered 13761 chars CHANGED
+[seogu-yeyak] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.ticketlink.co.kr/product/65585", waiting until "domcontentloaded"
+  - navigating to "https://www.seogu.go.kr/yeyak/index.do", waiting until "domcontentloaded"
 
-[yes24-perf-60278] rendered 198 chars CHANGED
-[chuncheon-notice-announcement] rendered 3563 chars CHANGED
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[chuncheon-municipal-news] rendered 1702 chars CHANGED
-[mokwon-general-notice] rendered 1620 chars CHANGED
-[templestay-main] rendered 2612 chars CHANGED
-[hwadong-main] rendered 8128 chars CHANGED
-[mokpo-harborfestival-main] rendered 8982 chars CHANGED
-[nol-product-26012487] rendered 1439 chars CHANGED
-[hanbat-library-media-friend] rendered 506 chars CHANGED
-[kopis-place-pyoungsong-small] rendered 10154 chars same
-[bok-press-list] rendered 801 chars CHANGED
-[blog-seogu-artfest-fringe-cvovz] rendered 5333 chars CHANGED
-[blog-seogu-artfest-blu2sky7] rendered 6077 chars CHANGED
-[kwater-realtime-sumun] rendered 2322 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 6212 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 954 chars CHANGED
-[kmusic-calendar-2026-11] rendered 1509 chars CHANGED
-[kmusic-calendar-2026-12] rendered 1180 chars CHANGED
-[kmusic-calendar-year] rendered 6156 chars CHANGED
-[nol-product-26001112] rendered 3666 chars CHANGED
-[blog-daedeokgu-224432911721] rendered 2608 chars CHANGED
-[blog-namuac21-224424725714] rendered 4473 chars CHANGED
-[kopis-pf302030] rendered 7807 chars same
-[blog-gotaekmusicfesta-224428285877] rendered 2924 chars CHANGED
-[blog-gotaekmusicfesta-224426135103] rendered 3651 chars CHANGED
-[vol-djv1365-main] rendered 7301 chars CHANGED
-[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
-[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
-[leis-cycling-kcf] rendered 2131 chars CHANGED
-[sje-life-events] rendered 55050 chars CHANGED
+[pyoungsong] rendered 865 chars same
+[gcfct-schedule] rendered 372 chars CHANGED
+[mokwon-events] rendered 948 chars CHANGED
+[science-reservation] rendered 1169 chars CHANGED
+[khs-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.khs.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1008&mn=NS_01_02_01", waiting until "domcontentloaded"
+
+[royal-khs-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://royal.khs.go.kr/", waiting until "domcontentloaded"
+
+[expo-park] rendered 727 chars CHANGED
+[nol-upcoming-notice] rendered 18279 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 18249 chars CHANGED
+[kma-hydro-dam] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "http://hydro.kma.go.kr/obsStat/obsDamData.do", waiting until "domcontentloaded"
+
+[ticketlink-notice-mobile] rendered 262076 chars CHANGED
+[pyoungsong-performance] rendered 1193 chars same
+[kopis-time-beyond-daejeon] rendered 8087 chars same
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[seogu-exprn-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub03_01/list.do", waiting until "domcontentloaded"
+
+[seogu-event-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub02_01/list.do", waiting until "domcontentloaded"
+
+[seogu-edu-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub01_02/list.do", waiting until "domcontentloaded"
+
+[daejeon-its-board] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.daejeon.go.kr/its/ItsdjNormalboardList.do?boardGubun=itsdj01", waiting until "domcontentloaded"
+
+[zeropay-events] rendered 529 chars CHANGED
+[chuncheon-festival-news] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295", waiting until "domcontentloaded"
+
+[chuncheon-festival-news-459539] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=459539&flag=view", waiting until "domcontentloaded"
+
+[galleria-timeworld-culture] rendered 2247 chars CHANGED
+[hanbat-library-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.daejeon.go.kr/hanbatlibrary/cultureEventListView.do?menuSeq=6234", waiting until "domcontentloaded"
+
+[chuncheon-festival-news-465019] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "domcontentloaded"
+
+[pyoungsong-event-nunkkot] rendered 454 chars same
