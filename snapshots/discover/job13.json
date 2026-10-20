@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-20T23:07:35+09:00",
+ "updated": "2026-10-21T00:07:35+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 5,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "[더밸류 브리핑] 오늘의 NH농협은행 소식…올원뱅크 10주년·개인금융 강화·전자계약 확대 - 더밸류뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TNmc0ck9Dc3NZYllDdFhsSnNoZTVSaTJLNDdvYkxuUmVKcFZjN0wzdWJfSG9aR0Nqbmo4TFZyeWJ0eXFMZjRzQ1l6M2FMTzBjMXExMQ?oc=5",
+   "pub": "Wed, 14 Oct 2026 07:33:43 GMT",
+   "engine": "gnews",
+   "query": "은행 기념 골드바 출시",
+   "first_seen": "2026-10-21T00:07:35+09:00"
+  },
   {
    "title": "NH농협은행, 'NH올원뱅크' 출시 10주년 페스타…5000억원 특판예금 선보여 - 전자신문",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94MjVzcmNBWWRYRnptSHhCdURyYm9OSXQxVHBVVlhXblljTEVjV1h4YUJOSEplXzdhVHkxVmZtOVU1LWJrUWlkOTZzam1LZw?oc=5",
@@ -5285,14 +5293,6 @@
    "engine": "gnews",
    "query": "개인투자용 국채 금리",
    "first_seen": "2026-10-14T00:08:03+09:00"
-  },
-  {
-   "title": "NH농협은행, NH올원뱅크 10주년 기념 최고금리 연 3.9% 특판예금 출시 - 우먼컨슈머",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qTGJEN2c0M0hmbDNlc1IzWjFDbnZpNW1VNjhtM1VnaWg5LVFTSHR2dFhyM1pIVXNTaXBlTVVwN0kxOVhJTXl4RGpFTmNKenlHc0Z0Y284cFpqOUY2cHM2dlRHS2dqXzQ0ZUtV?oc=5",
-   "pub": "Tue, 13 Oct 2026 13:59:49 GMT",
-   "engine": "gnews",
-   "query": "은행 기념 골드바 출시",
-   "first_seen": "2026-10-13T23:08:04+09:00"
   }
  ],
  "errors": []
