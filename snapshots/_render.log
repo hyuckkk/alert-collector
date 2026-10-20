@@ -1,65 +1,50 @@
-[nol-nutcracker-daejeon] rendered 5048 chars CHANGED
-[mara1080-goldrun-geumsan] rendered 4294 chars CHANGED
-[runningon-schedule-open] rendered 13761 chars CHANGED
-[seogu-yeyak] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[mnd-main] rendered 17535 chars CHANGED
+[pyoungsong-event-piglets] rendered 484 chars same
+[pyoungsong-event-sandmagic] rendered 480 chars same
+[pyoungsong-event-stonesoup] rendered 317 chars same
+[donghae-dhdmo-program] rendered 1802 chars CHANGED
+[daejeon-familycenter-programs] rendered 1219 chars CHANGED
+[kfe-main] rendered 3638 chars CHANGED
+[yuseong-round-event] rendered 1318 chars CHANGED
+[djkids-musical] rendered 1618 chars CHANGED
+[djkids-notice] rendered 1025 chars CHANGED
+[dctf] RENDER ERROR rendered but too little text (15 chars)
+[nol-family] rendered 3582 chars CHANGED
+[oworld-notice] rendered 1729 chars CHANGED
+[dsecc-programs] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.seogu.go.kr/yeyak/index.do", waiting until "domcontentloaded"
+  - navigating to "https://dsecc.djsch.kr/djsecc/lm/appl/lectList.do?mi=1115", waiting until "domcontentloaded"
 
-[pyoungsong] rendered 865 chars same
-[gcfct-schedule] rendered 372 chars CHANGED
-[mokwon-events] rendered 948 chars CHANGED
-[science-reservation] rendered 1169 chars CHANGED
-[khs-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.khs.go.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1008&mn=NS_01_02_01", waiting until "domcontentloaded"
-
-[royal-khs-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://royal.khs.go.kr/", waiting until "domcontentloaded"
-
-[expo-park] rendered 727 chars CHANGED
-[nol-upcoming-notice] rendered 18279 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 18249 chars CHANGED
-[kma-hydro-dam] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "http://hydro.kma.go.kr/obsStat/obsDamData.do", waiting until "domcontentloaded"
-
-[ticketlink-notice-mobile] rendered 262076 chars CHANGED
-[pyoungsong-performance] rendered 1193 chars same
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[seogu-exprn-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub03_01/list.do", waiting until "domcontentloaded"
-
-[seogu-event-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub02_01/list.do", waiting until "domcontentloaded"
-
-[seogu-edu-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub01_02/list.do", waiting until "domcontentloaded"
-
-[daejeon-its-board] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.daejeon.go.kr/its/ItsdjNormalboardList.do?boardGubun=itsdj01", waiting until "domcontentloaded"
-
-[zeropay-events] rendered 529 chars CHANGED
-[chuncheon-festival-news] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295", waiting until "domcontentloaded"
-
-[chuncheon-festival-news-459539] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=459539&flag=view", waiting until "domcontentloaded"
-
-[galleria-timeworld-culture] rendered 2247 chars CHANGED
-[hanbat-library-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.daejeon.go.kr/hanbatlibrary/cultureEventListView.do?menuSeq=6234", waiting until "domcontentloaded"
-
-[chuncheon-festival-news-465019] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "domcontentloaded"
-
-[pyoungsong-event-nunkkot] rendered 454 chars same
+[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
+[pyeongtaek-news-board] rendered 3176 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 5528 chars CHANGED
+[pyeongtaek-gosi] rendered 1665 chars CHANGED
+[daejeon-okr-edu] rendered 1509 chars same
+[daejeon-okr-hanbatlib] rendered 1653 chars CHANGED
+[science-edu-reservation] rendered 2216 chars CHANGED
+[sejong-notice] rendered 2404 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1653 chars CHANGED
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[mommom-place-6a7d51b7] rendered 95 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3195 chars CHANGED
+[blog-dooglami-224433357728] rendered 5204 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] rendered 34079 chars same
+[pyoungsong-monthly] rendered 634 chars same
+[pyoungsong-wp-event-api] rendered 208 chars same
+[pyoungsong-tribe-events-api] rendered 170388 chars same
+[pyoungsong-event-list] rendered 322 chars same
+[ticketlink-notice-65862] rendered 258827 chars CHANGED
+[docomomokorea-main] rendered 293 chars same
+[pyoungsong-event-rudolph] rendered 424 chars same
+[pyoungsong-event-snowwhite] rendered 413 chars same
+[blog-namuac21-224427113169] rendered 4723 chars CHANGED
+[taean-halftour-apply] rendered 3078 chars CHANGED
+[seocheon-halftour-apply] rendered 1300 chars CHANGED
+[komsco-shop-cate2284] rendered 6776 chars CHANGED
+[mcst-culture-71983] rendered 1180 chars CHANGED
+[aircanada-korea] rendered 22908 chars CHANGED
+[aircanada-kr-so-hub] rendered 2864 chars CHANGED
+[aircanada-kr-kbcard] rendered 27293 chars CHANGED
+[aircanada-kr-moretotravel] rendered 3221 chars CHANGED
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
