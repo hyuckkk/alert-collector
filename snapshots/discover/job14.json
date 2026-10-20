@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T15:07:33+09:00",
+ "updated": "2026-10-20T18:07:34+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -438,29 +438,6 @@
    "engine": "gnews",
    "query": "에어프레미아 프로모션 LA",
    "first_seen": "2026-10-13T18:08:02+09:00"
-  },
-  {
-   "title": "유럽, 미주, 아시아 등으로 노선 연계 범위를 넓히고 있다. 트리니티항공 관계자는 \"에바항공과의 인터라인 협력을 통해 유럽과 아시아를 연결하는 노선 네트워크를 강화하고 고객에게 다양한 여행 경로를 제공할 수 있게 됐다\"며 \"앞으로도 글로벌 항공사와의 협력...",
-   "url": "http://v.daum.net/v/20261013161407023",
-   "engine": "daum_news",
-   "query": "에어프레미아 미주 특가",
-   "first_seen": "2026-10-13T17:08:02+09:00"
-  },
-  {
-   "title": "에어프레미아, 전사 안전문화 캠페인 열어 - 경기일보",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0VlVESnlDU3JSZjYySkUzUk9BeTJyejBVZU44d0JYXzBndUhlR2ZGZTZPT194ZVVkZ0M4Y3o2Z1BQS21mYm5WQmhPY0trbk9tbm9mUmJjSW1FaU0?oc=5",
-   "pub": "Tue, 13 Oct 2026 05:47:45 GMT",
-   "engine": "gnews",
-   "query": "에어프레미아 미주 특가",
-   "first_seen": "2026-10-13T17:08:02+09:00"
-  },
-  {
-   "title": "에어프레미아, LA 취항 4년 만에 국적사 점유율 20% 넘어섰다 - 데일리안",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbm40bGNlbkFGNzdEcUdBWl9xYkdwOE96QlNDaXA2Vzh5ajRXaUJwdzBNdWQxQ2lKaFFnWmI2blZ2YU5wZERhOGViSFd4R0NNZUdGXzhYYXZLSlgwUjZoYkdOTVlyZjV4Y2JsbzRsMEZMRWN0WkhMRnhObDZyOGthRTN2ZFJkTG1pMDZ6VWFLNDFzTjVvWTlkR3ZxMUNCcC1BeVduWFE4dEVteTVEYng0VTJrMXU2S2JpZ2tGRUFBM0c2UmxGU3ZLVTBTaEpuZm9WekNBajBtMVRMNWllSF9sLUdfRHdDQXJUTm0zUUsxcVFjMDBETFV0NA?oc=5",
-   "pub": "Sun, 11 Oct 2026 23:57:00 GMT",
-   "engine": "gnews",
-   "query": "에어프레미아 프로모션 LA",
-   "first_seen": "2026-10-13T15:07:59+09:00"
   }
  ],
  "errors": []
