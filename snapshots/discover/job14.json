@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-21T16:07:46+09:00",
+ "updated": "2026-10-21T19:03:04+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 1,
  "hits": [
+  {
+   "title": "[오늘의 항공리뷰] 대한항공·트리니티항공·델타항공 - 파이낸셜리뷰",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EUm5qdUVYZkl0RnB4Vl9IbWdFNER3X2FyRFpTRkJGSVFVTUJCRDlZV0lFQXBod1FZNG1ENzllTFZPcUl5UGJzRjJ5aElQZnVKVFV5Q1YwV2xjd3J3YmhoQ3RBLUJ2WGtsZU1zQ2RnNEVQRmhH?oc=5",
+   "pub": "Wed, 21 Oct 2026 07:40:39 GMT",
+   "engine": "gnews",
+   "query": "델타항공 프로모션 코드 한국",
+   "first_seen": "2026-10-21T19:03:04+09:00"
+  },
   {
    "title": "에어프레미아 '썸머 블랙프라이데이' 프로모션 - 미주조선일보",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM0pWdTgxc1VraWt6SmZfTUFMTmVEaUJjMlRGWmRYMWtpYzViYXlNeEtocHFMTmZtV0lVWjJ6U0xLUVRPVFZjbGRYRzV3Nm01UnUyMEhacVRaMWhmMFdYUkhKTmRnQUgtakE3SzBmcFBVQmhjRTJnY0VXUUVFS21WT2tlMFJWYThvYmt6emRWRnRyN1h0UTZMbTVzNGQ2TWNJcF9VTF9vTWd1dHBHSGVUY3BucXc2TTVKb1paNGFrNGJoWktrN1Bmc1Iwaw?oc=5",
@@ -421,14 +429,6 @@
    "engine": "gnews",
    "query": "Korean Air US sale",
    "first_seen": "2026-10-15T02:08:08+09:00"
-  },
-  {
-   "title": "LA노선 여객 점유율 20% 돌파 - 미주중앙일보",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzZVZNNU9ubENrRXZfTGIzQUgzVFhfWDhuTHlOWGtvY2NaVzRRQThGMmhvZ21ldjl4X0FHd1RENmZJVzBqaE1EYjdIa0lnS21COTVEWkh1cXBsemVXVmUydjZn?oc=5",
-   "pub": "Wed, 14 Oct 2026 06:13:00 GMT",
-   "engine": "gnews",
-   "query": "에어프레미아 미주 특가",
-   "first_seen": "2026-10-14T18:08:09+09:00"
   }
  ],
  "errors": []
