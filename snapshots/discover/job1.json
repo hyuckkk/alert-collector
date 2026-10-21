@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-22T06:07:47+09:00",
+ "updated": "2026-10-22T07:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 8,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "부산 동구, 부산차이나타운 문화축제 성료 - 부산일보",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnc0YydUtaNktvYktRWlJQbVR4ZF9rMXJJSVVpRXhjZXdIaUV0bkc3WHBldmppUXp0RlA5WVVvREhyLXk5LWcwQkJOem8wbU9HZ2pMMzR4QUUwVjNpQWdDSHFGbFB5cV81S2FSSC0zeWZpTWQxRjFj?oc=5",
+   "pub": "Mon, 19 Oct 2026 06:57:29 GMT",
+   "engine": "gnews",
+   "query": "대전 서커스 공연",
+   "first_seen": "2026-10-22T07:07:48+09:00"
+  },
   {
    "title": "충북 괴산군의 「뮤지컬 연하」는 10월 31일에 열릴 예정입니다. 전남·광주 장성군의 「2026년 10월 문화가 있는 날 영화상영」은 10월 27일에 열릴 예정입니다. 지역별로는... 전체 목록 지원금 신청 마감 17건 10월 26일 마감 · 충청남도 · 2026년 충청남도 청년 주택임차보증금 이자 지원(신규 신청자 대상) 10월 28일 마감 · 대전광역시",
    "url": "https://blog.naver.com/jigo5004/224449680646",
@@ -21240,19 +21248,11 @@
    "engine": "naver_cafe",
    "query": "대전 도서관 어린이 공연 시간표",
    "first_seen": "2026-10-21T01:07:34+09:00"
-  },
-  {
-   "title": "산성어린이도서관 하반기 첫 번째 공연이 찾아옵니다 흥미로운 스토리텔링을 기반으로 환상적인 버블쇼와 벌룬쇼가 펼쳐지는 가족 참여형 공연!! <꿈을 찾아주는 버블 책방 벌룬쇼> 신청대상(성인 보호자 최소 1명 필수, 자녀연령은 만5세~만12세 사이)과 신청기간을 꼭!꼭! 확인해주세요~ 8월 29일,, 산성어린이도서관에서 가족이 함께 행복한 시간 만들어가셔요..",
-   "url": "https://blog.naver.com/dsecc_library/224378218886",
-   "engine": "naver_all",
-   "query": "대전 도서관 어린이 공연 시간표",
-   "first_seen": "2026-10-21T01:07:34+09:00"
   }
  ],
  "errors": [
-  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
