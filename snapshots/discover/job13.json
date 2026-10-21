@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T00:07:48+09:00",
+ "updated": "2026-10-22T00:14:42+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 1,
  "hits": [
@@ -9,7 +9,7 @@
    "pub": "Wed, 21 Oct 2026 06:39:34 GMT",
    "engine": "gnews",
    "query": "조폐공사 실버바 출시",
-   "first_seen": "2026-10-22T00:07:48+09:00"
+   "first_seen": "2026-10-22T00:14:42+09:00"
   },
   {
    "title": "중국, 장정 승리 90주년 기념 금·은화 내일 발행…설산·초원 넘는 홍군 모습 담아 - CGTN",
@@ -5087,22 +5087,6 @@
    "engine": "gnews",
    "query": "특판 적금 고금리",
    "first_seen": "2026-10-15T02:08:08+09:00"
-  },
-  {
-   "title": "'정부에 돈 빌려주고 이자 받자'...안전한 투자 개인투자용 국채 총 2,300억원 발행 10월 청약 - 더브리프뉴스",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuRU90VmRZOTZDVlhVdlBnakgzd1p4TzN4RDRuNnZnRkhiaHU4cTVHdDlaQzZSMFh4ZHozZTNsNG5Vb2w5MEdVNng4OTlyTlF0eGpjV0dXa1dKQWp4b1VvM0lHUldYZUI0RFk00gFvQVVfeXFMUFRKYzNOTThZdGxxeVhUbHlZN2tLMHgzdVpCN1RYaWw2REQxd2Z5aHg4bkFSWDZqZzVRUWVUR0xMWDJMUHdkSHJaNGRvZnVvYWs3Wm9mN21pNXhPcDc5azEyOU1rbmVWa09ZNWctck5R?oc=5",
-   "pub": "Wed, 14 Oct 2026 01:15:57 GMT",
-   "engine": "gnews",
-   "query": "개인투자용 국채 청약",
-   "first_seen": "2026-10-15T00:08:12+09:00"
-  },
-  {
-   "title": "“20년 만기 보유 시 세전 수익률 162.8%”…미래에셋證, 개인투자용 국채 청약 - 디지털데일리",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyNzcxeG5sQ0h1aWliSnZmdzlGNUV2eWJfYVp4RXN6YnRFeThITmlsNzRZSXhjWlB1SnZJN21OelFmQmhUSEFoUHkxSEplOUFZTjZiSW9aSG5yNVpIaWF1Z1dOVlhkZ2s?oc=5",
-   "pub": "Thu, 08 Oct 2026 04:30:17 GMT",
-   "engine": "gnews",
-   "query": "개인투자용 국채 금리",
-   "first_seen": "2026-10-15T00:08:12+09:00"
   }
  ],
  "errors": []
