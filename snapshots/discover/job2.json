@@ -1,8 +1,24 @@
 {
- "updated": "2026-10-21T19:09:37+09:00",
+ "updated": "2026-10-21T20:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 14,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "최형두 의원\" 공장엔 휴머노이드 , 어르신엔 웨어러블 \" …로봇기술 , 경남에서 먼저 쓰여야!! - m.sisakoreanews.kr",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBEQzZQdUZoLWpCbFV4VDI2S1Uzcmt4MHFDUDlQc3RIZ3lCZUZKU2djRnppU3lrcmZVU3VHUVEwRkNFV2trRkVQbVdR?oc=5",
+   "pub": "Wed, 21 Oct 2026 07:32:00 GMT",
+   "engine": "gnews",
+   "query": "KAIST 축제",
+   "first_seen": "2026-10-21T20:07:47+09:00"
+  },
+  {
+   "title": "인천 꽃게 반값에 만난다…24~25일 연안부두 수산물 축제 - 신아일보",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OeUNFdVRCS01QTi0wcTVGZTVMRFBNemNzOGQyLVFESVBPd20waE03X1RfZmFiM0pTSnByTXNxc3g3ZkQxeG9GOUc5Uk9iODhqekZMTEstcFNmWl9ta3UtLVdIZ0dXWUFOM2ZlVVJ0Tkc?oc=5",
+   "pub": "Wed, 21 Oct 2026 03:16:31 GMT",
+   "engine": "gnews",
+   "query": "충남대 축제",
+   "first_seen": "2026-10-21T20:07:47+09:00"
+  },
   {
    "title": "최형두 의원\" 공장엔 휴머노이드 , 어르신엔 웨어러블 \" …로봇기술 , 경남에서 먼저 쓰여야!! - www.sisakoreanews.kr",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lZEZ3SGExMkFQN3dXUUE0amZQNmRUbkFfQW5aUE14ckttZ2tGY2hoYkNTT3UtZXIxbm16Z1ZRS3J3SWNhQnRvN1A0SQ?oc=5",
@@ -18916,5 +18932,13 @@
    "first_seen": "2026-10-14T20:08:08+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "naver_cafe 'KAIST 루나틱': HTTP Error 403: Forbidden",
+  "naver_all 'KAIST 루나틱': HTTP Error 403: Forbidden",
+  "naver_web 'KAIST 루나틱': HTTP Error 403: Forbidden",
+  "naver_blog '목원대 공연': HTTP Error 403: Forbidden",
+  "naver_news '목원대 공연': HTTP Error 403: Forbidden",
+  "naver_cafe '목원대 공연': HTTP Error 403: Forbidden",
+  "naver_all '목원대 공연': HTTP Error 403: Forbidden"
+ ]
 }
