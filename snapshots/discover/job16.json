@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T23:07:47+09:00",
+ "updated": "2026-10-23T00:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 3,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "부천시, 10월 24일 자전거대축제 개최…5.2km 도심 라이딩 진행 - 경인미래신문",
@@ -3344,22 +3344,6 @@
    "engine": "gnews",
    "query": "달리기 대회 세종 가족 접수",
    "first_seen": "2026-10-16T00:08:05+09:00"
-  },
-  {
-   "title": "고양시, ‘제27회 KING OF TRACK(킹오브트랙)’ 17일 개최 - 파이낸셜경제",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01MWQyUnZncG1wVWxUaTdGR3NCc29XMmZhUVMtUG9hWTJpeTNTWmJTQjN1dU1pTjh5WEo4RU96MW9ybDRuUk9rSWRBekllSXJ4RE11ekRYVkVmYjU1WTJfV2pfMldMX2toVnU5dUdXUjA?oc=5",
-   "pub": "Thu, 15 Oct 2026 07:20:59 GMT",
-   "engine": "gnews",
-   "query": "자전거 대회 대전",
-   "first_seen": "2026-10-15T23:08:05+09:00"
-  },
-  {
-   "title": "[T나는 건강]\"달리기 좋은 계절\"…마라톤, 완주보다 중요한 것은? - 티제이비",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WRkdscVFxbU1HVlRpRC1PU3VGLUhwZ0YzSWY3TVNiM2xpU0VEbkQtR3BPQ0EzYk1ua0YyYmgyenBpN1M5cHE4MFg4Smo4ZFFkUGRUaGJUdEJENGtP?oc=5",
-   "pub": "Thu, 15 Oct 2026 09:07:51 GMT",
-   "engine": "gnews",
-   "query": "천안 마라톤 대회 접수",
-   "first_seen": "2026-10-15T23:08:05+09:00"
   }
  ],
  "errors": []
