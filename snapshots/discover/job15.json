@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T19:04:16+09:00",
+ "updated": "2026-10-22T20:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 3,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "대전 대덕구, ‘2026 온(溫)가족 런데이(RUN DAY)’ 추가 참여 가족 모집 - 미디어투데이",
@@ -893,14 +893,6 @@
    "engine": "gnews",
    "query": "대전 복지관 가족 봉사 프로그램",
    "first_seen": "2026-10-15T20:08:06+09:00"
-  },
-  {
-   "title": "남양주 진접청소년자치위원회, 수원화성 탐방 > 뉴스 - 더코리아",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95VUhpQXFPOFJEeDcwZW1BejFsYVpzanA4QVl4TVBtTVUteHB2cXRVZi1iakZ2NjJGY1pIeGVBMERNZTNjOTRzbmNvSkplR21Wa2dhRG8zTXVKM1g1VFVKLXJmN3FndlZHNzRUOS1vNDY?oc=5",
-   "pub": "Mon, 12 Oct 2026 02:45:00 GMT",
-   "engine": "gnews",
-   "query": "대전 자원봉사센터 가족 봉사",
-   "first_seen": "2026-10-15T19:08:05+09:00"
   }
  ],
  "errors": []
