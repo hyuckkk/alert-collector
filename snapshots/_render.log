@@ -1,50 +1,66 @@
-[mnd-main] rendered 17161 chars CHANGED
-[kmusic-calendar-year] rendered 6139 chars CHANGED
-[nol-product-26001112] rendered 3666 chars CHANGED
-[blog-daedeokgu-224432911721] rendered 2610 chars CHANGED
-[blog-namuac21-224424725714] rendered 4471 chars CHANGED
-[blog-youneed4613-224436099074] rendered 3069 chars CHANGED
-[nol-product-26008375] rendered 1746 chars CHANGED
-[yuseong-round-event] rendered 1317 chars CHANGED
-[pyoungsong] rendered 853 chars same
-[djkids-musical] rendered 1618 chars CHANGED
-[djkids-notice] rendered 1025 chars CHANGED
-[gongjeon-kids] rendered 482 chars CHANGED
-[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
-[mokwon-events] rendered 948 chars CHANGED
-[science-reservation] rendered 1286 chars CHANGED
-[khs-notice] rendered 309 chars same
-[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[expo-park] rendered 752 chars CHANGED
-[nol-upcoming-notice] rendered 15713 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 15738 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] rendered 261983 chars CHANGED
-[pyoungsong-performance] rendered 1193 chars same
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[interpark-artist-leejuck] rendered 10105 chars CHANGED
-[yctf-show] rendered 502 chars CHANGED
-[sejong-notice-science-concert] rendered 1017 chars CHANGED
-[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 32753 chars CHANGED
-[hanbat-gongdong-science-form] rendered 1854 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 8703 chars CHANGED
-[cnu-jsh-schedule-178] rendered 2459 chars CHANGED
-[dmzforest-main] rendered 6459 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[kfe-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[dgdr-festival] rendered 203 chars CHANGED
+[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.kfe.re.kr/", waiting until "domcontentloaded"
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
 
-[daejeon-okr-edu-8100] rendered 1652 chars same
-[ticketlink-product-65585] rendered 156095 chars CHANGED
-[yes24-perf-60278] rendered 198 chars CHANGED
-[chuncheon-notice-announcement] rendered 3614 chars CHANGED
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[chuncheon-municipal-news] rendered 1720 chars CHANGED
-[mokwon-general-notice] rendered 1621 chars CHANGED
-[templestay-main] rendered 2612 chars CHANGED
-[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
-[pyoungsong-tribe-events-api-p2] rendered 28156 chars same
-[kopis-pf297232] rendered 7859 chars same
+[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
+
+[blog-gotaekmusicfesta-224426168539] rendered 2683 chars CHANGED
+[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
+
+[khs-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.khs.go.kr/", waiting until "domcontentloaded"
+
+[khs-eventinfo] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.khs.go.kr/eventInfo/index.do", waiting until "domcontentloaded"
+
+[seogu-yeyak] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.seogu.go.kr/yeyak/index.do", waiting until "domcontentloaded"
+
+[dctf] RENDER ERROR rendered but too little text (15 chars)
+[nol-family] rendered 4060 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[oworld-notice] rendered 1723 chars same
+[pyeongtaek-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.pyeongtaek.go.kr/", waiting until "domcontentloaded"
+
+[katc-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.katc.mil.kr/katc/guide/schedule.jsp", waiting until "domcontentloaded"
+
+[fsale-main] rendered 4932 chars CHANGED
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[dsecc-programs] rendered 2068 chars CHANGED
+[seogu-exprn-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub03_01/list.do", waiting until "domcontentloaded"
+
+[seogu-event-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub02_01/list.do", waiting until "domcontentloaded"
+
+[seogu-edu-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub01_02/list.do", waiting until "domcontentloaded"
+
+[daejeon-its-board] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.daejeon.go.kr/its/ItsdjNormalboardList.do?boardGubun=itsdj01", waiting until "domcontentloaded"
+
+[zeropay-events] rendered 529 chars CHANGED
+[chuncheon-festival-news] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295", waiting until "domcontentloaded"
+
+[chuncheon-festival-news-459539] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=459539&flag=view", waiting until "domcontentloaded"
+
