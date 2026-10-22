@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:07:48+09:00",
+ "updated": "2026-10-23T00:31:50+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -416,14 +416,6 @@
    "engine": "gnews",
    "query": "일본항공 미주 특가 인천",
    "first_seen": "2026-10-16T07:14:44+09:00"
-  },
-  {
-   "title": "12월 해외여행 예약 어디로 몰렸나…일본 제친 1위는? [주간 여행산업 동향] - 여행신문",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SNUtqZ2h3NkpXUlM1cnVWNXlWalBmek1zUEhwWXdHbWREZ051QzRIOWF5QXp1QkF2eDdDdXowSmwzLWh0aDU4OUNNMEMtZWR2cE9seW1QVU5mdDN3VlZCN0ZjcDM3emdBcmpTcGxMMUZtQQ?oc=5",
-   "pub": "Thu, 15 Oct 2026 15:05:00 GMT",
-   "engine": "gnews",
-   "query": "대한항공 미주 프로모션 2027",
-   "first_seen": "2026-10-16T00:08:05+09:00"
   }
  ],
  "errors": []
