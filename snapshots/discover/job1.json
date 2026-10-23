@@ -1,8 +1,596 @@
 {
- "updated": "2026-10-23T17:07:46+09:00",
+ "updated": "2026-10-23T21:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 800,
+ "new_this_run": 75,
  "hits": [
+  {
+   "title": "체험을 즐길 수 있는 대덕대청호물결축제가 개막해 사흘간 대전 대청공원 일원에서 펼쳐집니다. 이번 축제에서는 이무진과 양파 등...출연하는 음악 페스티벌과 청년·직장인 밴드 공연을 비롯해 어린이 뮤지컬과 마술쇼 등이 열립니다. 또 대청호 산책길을 따라...",
+   "url": "http://v.daum.net/v/20261023205358497",
+   "engine": "daum_news",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "다큐멘터리 뮤지컬 '나는 고려인이다'의 수록곡 '우리말 교육'을 선보이며 고려인의 역사와 문화를 노래로 전했다. 준비한 공연이...지켜온 삶을 담고 있다. 이와 함께 조정희 고려인마을어린이합창단장은 이날 고려인 후손들의 문화예술 교육과 고려인마을 발전...",
+   "url": "http://v.daum.net/v/20261019081234844",
+   "engine": "daum_news",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전 어린이·가족 10월 25일 무료 교통안전 뮤지컬 '미녀와 야수' 관람 - 한국사회복지저널",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GMEZiZ0pLUnFzLWhnRHNfX1Z6NFByUGRxSi0yU0J3NTBINVA1R3dGb1lRWU45X2VpZVk0QlhyaldWZ1l3c0NfNlU2MkRFV0lOOGMyZGxFLVZVaG9ZWG4wUlBkQ2Z0bU1hZUJB?oc=5",
+   "pub": "Thu, 22 Oct 2026 01:22:50 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "교통안전 그림 그리고 수칙 배우고 ‘미녀와 야수’ 보고…대전 어린이 한마당 - 뉴스21 통신",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SSmVVWkJ5RjVIMU9EbHJFQk96MUNoNTNmWGNHbHlFVmlWdW5GT3REOTRVZEpxOThMY0hoSjNOeFpvcklYSThMZGRMaEtvWjVHX09WUVNn?oc=5",
+   "pub": "Thu, 22 Oct 2026 05:51:06 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시, 25일 ‘어린이 교통문화한마당’ 개최…교통안전 배우고 가족뮤지컬 즐긴다 - 충청매일",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PeVRGSlVDbE5GbEUxUHlLZUZHdlpVcWJrcTY5aElkMmRaN0xTZWd1aWxyNGRZTjdLV2N2SmZ0YlZsMF9FY3JaZUE1MGJjYXBNUm9Qa1ZoRzJCUEdjcnhadjIzQXhycmozZnc?oc=5",
+   "pub": "Thu, 22 Oct 2026 05:55:03 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시, 어린이 교통안전 그림 174점 모였다…25일 교통문화한마당 - 타임뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuX1F6czlteGVyYXNTY2tIVUFveTBaSFFucTRTRGVWMlBHN256RFh3ZnczTUFPTm1uaWhNckRJeDZiZzN6X0kzdVVZU05kQjdJb29sVw?oc=5",
+   "pub": "Thu, 22 Oct 2026 01:25:15 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시, 2026년 어린이 교통문화한마당 개최 - 신아일보",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jUWdEQ0oxQU1UTWk4VWVJMHgwLUkwa1lubDAxZXNTRWFwY3dhbngzWE92V3F2MDgyUFNON0w3dzVfdGhzUWx3cVRodUs2VUtRd0F4ZmF6NWtYWlFPdFp4bjViNkNnVW9talhSTDg0dXk?oc=5",
+   "pub": "Thu, 22 Oct 2026 00:03:55 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시, 25일 ‘어린이 교통문화한마당’ 개최…온 가족이 함께 배워요 - 뉴스홈(newshome)",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HQnEtRDUyTjdDMnoyZHdwWTA0Z0xJZjlfRjRPRDE2Y09uUHdrOF9tSG9CWlFvZjBUaC16QzhPWWFCUDNscFZ2MUhFZGJ0bTZmSVo4WTZWRXd4dmxGTHZSeUliNnBsYjZtMDdJTjVn?oc=5",
+   "pub": "Thu, 22 Oct 2026 01:17:33 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시, 25일 어린이 교통문화한마당 행사…프로그램 다채 - 충남일보",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KbkFsVEN2bVA2WXV2cS1xcjEtMDk3THFPbTVsaXpOOHN0N045U1MwU0ItSjlfejl1YmhTR1dxc2UxZzFScUJHaS1oX0JKLTVCdl94ZEpmZ3hnNVVpdFZ3NUo3LUZwT3dhYk5RbFQzaWFIU2s?oc=5",
+   "pub": "Thu, 22 Oct 2026 05:17:00 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시, 25일 ‘2026 어린이 교통문화한마당’ 개최 - 경충일보",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FcDNIbG9uOEZlM1hRTGZkcEdRbnMzMjEtNTNzbU1Pa043WFk3eVZzdzc1akdMWk81VHNmTGR2QUFGSUZqZFhyTFAzMlJfQ09yZ0ZFeVRMVDA?oc=5",
+   "pub": "Thu, 22 Oct 2026 06:17:35 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시, 어린이 교통문화한마당 개최… 온 가족이 함께 배운다 - 충청도민일보",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAteWIxMzhET2JKR2lRdnpqVGxCdkdMT0wtaFFvZ1dibWhGR0tpQ2JRME9OM0daR2ktMTVibnUzWVYzWEttdi1WUWhyeUtHeFFyRUpkN0N0ZTNQN3pvSEhXa2VQQXR5UzYwZ1c0YQ?oc=5",
+   "pub": "Thu, 22 Oct 2026 08:54:45 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시, 25일 ‘어린이 교통문화한마당’ 개최 - 뉴스인뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YeXNydW1Ccm8zWlhFSnhHa0h1azhtNUhTOGlKUWlKa19iZzN5UkNENjVKOWR4cmxPY3phazNzQzM1MnY2eUpQNFB1RklHUmRWc1hCcDBRNGNWU2lsQW1jUGZFUnZxM1NtdFItTg?oc=5",
+   "pub": "Thu, 22 Oct 2026 00:41:10 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시, 온 가족이 함께하는 어린이 교통문화한마당 개최 - 웹이코노미",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53YlpSWkJabVU4b2RCVHZ0N09OMHViUzVia2R4TlRlcnBwNFV4QWp3bmVnZDRLNVU5Z2FfTWgwdUMxZnp5ZlIzc3pfSWJEWmFyZXJMN3owSGF6Y2VGX0JMWWhrc19BclFyY3NYRHoxRl9XQQ?oc=5",
+   "pub": "Wed, 21 Oct 2026 23:22:18 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시, 2026년 어린이 교통문화한마당 개최 - 아시아뉴스통신",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oVkZ1YTFNaWJPTFRGMzdKMGRXTE4xdWVHajc0R0pEaDVrV0FpaFVkOVRub24yTVJyTWlNdnJsWmtXY2tIdjBwTUV5cU1MTFR4bXUtR3VpN2xvMGhmNEhDVmdtaG54LTBfUVJ0THd0UDg3MDJs?oc=5",
+   "pub": "Thu, 22 Oct 2026 01:40:03 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "‘온 가족이 함께하는 어린이 교통문화한마당’... 대전시, 평송청소년문화센터에서 다채로운 행사 개최 - 대전투데이",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93blU5X0ZleC1JOVBod0J5Z3BHdWgtajFtcnFONXJJTlphQTZrYmNTMF9KMGxaeXpzWDBMMjNGRnUtcmxDaTBEMENqdW9nT2t5dVVfZlY2akVfeHpXWnRuVWVWTnZyZGtwZXdudlI2a9IBc0FVX3lxTE50SnZoTzQtaEFXLTJ3bFZYQ2ltM085cW1JSEx1WGpMeFRCS09CNWhON0hKR2JFTzY0by1laXI2YTgzTGVPck16TG9IdGxaakY5a2JBY1NkWFRfWFBIcW9wWDZNMHpXSzZUM3ZjcW82YzZqZjQ?oc=5",
+   "pub": "Thu, 22 Oct 2026 06:13:43 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "25일 ‘어린이 교통문화한마당’ 개최 - 금강일보",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12NlQtbjgtRExHZEFpcUp2bm1oSDdkSmxiYmJ3MzBNdjNhOTZVemh0MUJvTFY4STBwUnNOZUNDSzd6WjI1aV9UbWNScTdOTDR1NW9SVEdldVFOeGNzZW1FRVIxaXNvYVVSc2c?oc=5",
+   "pub": "Thu, 22 Oct 2026 06:18:00 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대구 교통안전 포럼 10월 26일 개최…150여 명 사고 감소 논의 - 한국사회복지저널",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xR21vVHVTS0JMSHdkTXlicmE5N2g1c1RRYmRJTVlMTzZhRDY5STFIbFU5XzAzOGtOUXNURnlZZ3dVOURjQmRfM055dG45Y1R1V1dHdklneG4xcFpNX1RBOU1sT1YwbTlzQVhJ?oc=5",
+   "pub": "Thu, 22 Oct 2026 08:28:32 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "있다. 어린이들은 '김치놀이터'의 김장오락실과 김장운동회에서 축제를 즐길 수 있다. 축제의 맛을 집으로 가져가도 좋다. '오늘만...등 김장 재료와 발효·가공식품, 김장 도구가 나온다. 저녁에는 공연이 축제 분위기를 잇는다. 23일과 24일 오후 6시30분 야외...",
+   "url": "http://v.daum.net/v/20261023173720806",
+   "engine": "daum_news",
+   "query": "대전 어린이 공연 무료 예약",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "관저동 먹자웨이 야장축제' 포스터 ⓒ관저동 먹자골목 상인회 대전 서구 관저동 먹자골목에서 가을밤의 정취와 다양한 먹거리, 공연을...첫날인 30일에는 가수 한동근의 축하공연을 비롯해 마술쇼와 DJ 디제잉, 보컬 라이브 공연 등이 펼쳐진다. 31일에는 클럽 DJ...",
+   "url": "http://v.daum.net/v/20261019124117837",
+   "engine": "daum_news",
+   "query": "대전 마술쇼 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "“아이들이 웃으니 달성이 들썩였다”…YES! 키즈존, 올해 8만5000명 찾았다 - 아이뉴스24",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91OFRETHRiTDN2TUpLX01JekMwcHZrVjl0QTFCZjBfQnZYalNSTGlhSUtXeUZwNkNsMjdvR213MkhBT2ZEWWxIOXRKZHo?oc=5",
+   "pub": "Sun, 18 Oct 2026 23:58:51 GMT",
+   "engine": "gnews",
+   "query": "대전 마술쇼 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "전북 군산시, 25일 ‘2026년 맘껏 가족놀이터’ 개최…과학 마술쇼·에어바운스 풍성 - 뉴스홈(newshome)",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13SXE3SXdfbFF0OUhydVRkWVJlR3l0S3g2OE1ZVzh0MzNfMjhFRU5FRTNlTks4ZTZESXlfOGZocTR0M2w2cEs2c19wQmFoZV9uUkRYdjRsQ3BLT0xjQ2lwbmRlZXZfQkxLSHpOWjVB?oc=5",
+   "pub": "Thu, 22 Oct 2026 02:22:22 GMT",
+   "engine": "gnews",
+   "query": "대전 마술쇼 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "공연·시식·골목 체험으로 시민 맞는 세종 상점가 - 충청일보",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YTUZSczJxWThXMkd4SWV0UENYYnZRZlJGYXF5Z0VrM3pvbFVnQVJhMjRyTW1fRUtrcFRGaWhDN2xwRFgyZjFTcnE1ckFTM0lyN1lzQnZMWmQzUmI1djdWdGdYM3o2N1p5b2QwU3lubk4?oc=5",
+   "pub": "Wed, 21 Oct 2026 23:58:44 GMT",
+   "engine": "gnews",
+   "query": "대전 마술쇼 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "풍성한 음식과 라이브 음악, 마술쇼…르네상스 푸켓 리조트, 성탄절·연말 프로그램 - 부산일보",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWc0w4aHF3NkxQTWxIckRhaFluX1dLZloxNTU3bGdScUxXcEVrMGYxbGhOMTVnZVRUMHNLNUVtTUhZWkxmTkV0dTIzMm01THFEb3FkX2VOdzhsLUpyaFBGX3dubUN0OXFjNGd5OEEtSTlqZVVCYnl3Qw?oc=5",
+   "pub": "Wed, 21 Oct 2026 12:57:45 GMT",
+   "engine": "gnews",
+   "query": "대전 마술쇼 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "[남양주 소식] ‘제26회 남양주시농업기술대전’ 개막 외 - 이뉴스투데이",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83THNYTFgzOURDRnR0MWVVbzR3YWxmVlNZYUFZT1JualFpcW56M1RtZG93cUhBU0pqNGVtdVVjREIwUEx0RHNCcUthMEpUTnVNNW1oQTBGR3dhbzVqRmJqeHJYSkxnTjFxQkppeTZ1bjM3QUdV0gF0QVVfeXFMTzdMc1hMWDM5RENGdHQxZVVvNHdhbGZWU1lhQVlPUm5qUWlxbnozVG1kb3dxSEFTSmo0ZW11VWNEQjBQTHREc0JxS2EwSlROdU01bWhBMEZHd2FvNWpGYmp4clhKTGdOMXFCSml5NnVuMzdBR1U?oc=5",
+   "pub": "Thu, 22 Oct 2026 23:52:38 GMT",
+   "engine": "gnews",
+   "query": "대전 마술쇼 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시, ‘재난상황 실전처럼’몸으로 체득했어요 - 시사일보",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAwOWRxMlVQUVhkOFlQS1FFMDRxbUs2bmJPR1FTMkhMTjVnRFZEWTdDZUF0UERnYU1TaW9MWVQ3Z2RBY21OTzNFcDFqR24?oc=5",
+   "pub": "Tue, 20 Oct 2026 11:26:00 GMT",
+   "engine": "gnews",
+   "query": "대전 마술쇼 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "“오늘은 우리 가족, 맘껏 놀자!”… 군산시, ‘2026년 맘껏 가족놀이터’ 개최 - 한국미디어뉴스통신",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oSVF4RV9ORHlRU250V29OVlJFczh6V2dibHlGVXlWaWQtN2QwUUp3ZjlJZEdHYmdONkRCTHFKQ1dQYmV5NUk5Wk9YT0FaMjRUcDJYYU9TemNRUUhsSFczVzZqS0tlQU9ONEl6Ug?oc=5",
+   "pub": "Wed, 21 Oct 2026 23:40:27 GMT",
+   "engine": "gnews",
+   "query": "대전 마술쇼 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "보람·도담·조치원서 소비촉진행사…공연 즐기고 할인 혜택까지 - 뉴스홈(newshome)",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vN2lwcUNWNFZGLUlnZmxBRkd6dXNmVS1mSWtuTnMtOFhVU0gyUHpOa2tELS10Z3FyaXlRUGxBR093eWdhcVFtTC1BZV9uSGh2Q09sTG9GMkNqTTJSSGdjR0wyR1ltdWV6Q3RlY1B3?oc=5",
+   "pub": "Thu, 22 Oct 2026 00:38:55 GMT",
+   "engine": "gnews",
+   "query": "대전 마술쇼 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "“주말엔 온 가족 맘껏 놀자”…군산시, ‘맘껏 가족놀이터’ 개최 - 아이뉴스24",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14emFHQWhFaXdPYmxpMEdLclhWVkVxbG1UZGltWmY0SjBkVTA4aGZ4QkZTczBOeFZoNVl6MWduRnI2cTNPdGJYRXpmbzQ?oc=5",
+   "pub": "Thu, 22 Oct 2026 02:41:09 GMT",
+   "engine": "gnews",
+   "query": "대전 마술쇼 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시, 온 가족이 함께하는 어린이 교통문화한마당 개최 - 투데이플러스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrY09lZWNhNnJYalVmdHA2amFmV0NteG51b0NBYk9SVzlrRVI5RnRsTExWbGNzd0RxbGZ5MmFZMmVBa2g5RmlPaTVRRmxJRjJaSGpDRGFabDZCNU45ek5oeVZGNnJWSnAx?oc=5",
+   "pub": "Wed, 21 Oct 2026 23:31:09 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 연극",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "서산문화복지센터 어린이도서관, 야외 독서 프로그램‘도서관 북피크닉’성료 - 충남도민일보",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3YXlUQ3JlVHJOV2NqbmFJbGNuM09HbF9maWVEUC1BMXhralByT1M2QWtvWUhXdmpWbVl1Sk5JQk1FMnRzMEM5NllqTV95Vk8yQUJqNU5oUVlqSzdjdklnSw?oc=5",
+   "pub": "Tue, 20 Oct 2026 08:08:06 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 연극",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "세계대전 이후에 일어난 일들, 러시아와 미국이 어떻게 한반도를 둘로 갈라 놓았고 어떻게 전쟁이 시작 되었는지에 대해서는 대략적으로 알고 있었다. 하지만 '켈로'에 대해서는 전혀 감을 잡지 못했다. 그래서 한국 전쟁의 역사와 그 외의 부분들을 조금 더 깊이...",
+   "url": "http://v.daum.net/v/20261022135220169",
+   "engine": "daum_news",
+   "query": "대전 캐릭터 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "유성의 가을은 국화 향기와 빛으로 물든다 - 미디어대전",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SeFJsbVlrSnQ0YWxGV0pqRVdzZl8wT2UtdXQwUER1MUpSR24wU1pMYktEMDI5QTR1Z0FTR05MNW5uU29nczV2aHpDVy11cENKazRDNnNoZ1gyVGVVMGtTOTg4VzQxQQ?oc=5",
+   "pub": "Mon, 19 Oct 2026 06:13:09 GMT",
+   "engine": "gnews",
+   "query": "대전 캐릭터 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "“17일간의 대장정 시작”…함평군, 2026 대한민국 국향대전 개장식 성료 - 일등방송",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1IdlNGei15S2pjenBzaUF5T0RhNHhYSktjdEtaaDdjaXBEa0hTR0NlczB4RmVzVFRrWllYVFByc1N2NlNyV1E?oc=5",
+   "pub": "Fri, 23 Oct 2026 05:08:00 GMT",
+   "engine": "gnews",
+   "query": "대전 캐릭터 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "30살 우암문화제, 전통의 멋 펼친다 - 충청헤럴드",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YYndyVllwR1ZVQmVpMkxoLWUxT0lEa081OW9jT1VQbkJHajdQODFSczJpN19SZ005VlhzN25hTFRVOTdmZUtPZEh5SGxSSFJ3Ul9xcXpTNFAzeXdWS2Mzdnd0TXdaWTJw?oc=5",
+   "pub": "Tue, 20 Oct 2026 07:00:00 GMT",
+   "engine": "gnews",
+   "query": "대전 캐릭터 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시사회서비스원은 오는 29일 평송청소년문화센터 대공연장에서 '2026 희망나눔콘서트'를 개최한다. 대전시사회서비스원 제공 [충청투데이 권혁조 기자] 대전시사회서비스원은 오는 29일 평송청소년문화센터 대공연장에서 '2026 희망나눔콘서트'를 개최한다. 대전...",
+   "url": "http://v.daum.net/v/20261022161810816",
+   "engine": "daum_news",
+   "query": "평송청소년문화센터 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "서비스원이 지역의 나눔 현장에서 뛴 자원봉사자들을 위한 따뜻한 행사를 마련한다. 대전시사회서비스원은 오는 29일 오후 평송청소년문화센터에서 복지만두레회원과 시민 800여명을 초청해 '2026 희망나눔콘서트'를 연다고 22일 밝혔다. 대전시가 주최하고 대전시...",
+   "url": "http://v.daum.net/v/20261022154509817",
+   "engine": "daum_news",
+   "query": "평송청소년문화센터 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "동안 이웃을 위해 나눔을 실천한 복지만두레 회원과 시민 등 800여명을 초청해 '2026 희망나눔콘서트'를 개최한다. 오는 29일 평송청소년문화센터에서 열리는 콘서트는 지역사회 곳곳에서 이웃을 돌보며 나눔을 실천해 온 복지만두레 봉사자들에게 감사와 격려의...",
+   "url": "http://v.daum.net/v/20261022144837118",
+   "engine": "daum_news",
+   "query": "평송청소년문화센터 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전광역시평송청소년문화센터, 2026년 청소년어울림마당 성료 - 모빅경제",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiZXNBa3RxRjQ3WDNnb0p0WkpiUVN6Y2dxOS15MG9UVjN3dDYzZFEya3A0c2o5VC1GaExLdFJYd09wLXRFZlhkcHd4OGN4WjJDR1FHd2h5ZXQtelJCZTY2ZjRwQ3E4cmNkWjE5MWxyUW4?oc=5",
+   "pub": "Tue, 20 Oct 2026 09:01:34 GMT",
+   "engine": "gnews",
+   "query": "평송청소년문화센터 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시사회서비스원, 오는 29일 ‘2026 희망나눔콘서트’ 개최 - 충청투데이",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlenlKeGczaFd5QkFKUHQwSXpUU1VnV09vS3pSaVBqczJaT0VDTm1LMkFWaktUcnREWE84NEpvdUx6TmF1M2FLQ1RGbUZqLTB3M2lJdGswWko5ZFk2R2VIeWdSQUd1T1MxOGxMZnd3?oc=5",
+   "pub": "Thu, 22 Oct 2026 07:15:00 GMT",
+   "engine": "gnews",
+   "query": "평송청소년문화센터 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "한 해 이웃에 따뚯한 나눔 실천 봉사자 등 초청 콘서트 열려 - 대전시티저널",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GMHdTbnFqbDBZTGdhT0RUd3pzOFFsWWNwMW14TmJYQXByeWE5aDZXOTVNZElxVmpDcjUzUmRSWFEteWh3U2hvemczb0dMZm1IMW9fZHZkT19fMVlycUlZS1BZM0xRUQ?oc=5",
+   "pub": "Thu, 22 Oct 2026 08:33:22 GMT",
+   "engine": "gnews",
+   "query": "평송청소년문화센터 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전사회서비스원, ‘2026 희망나눔콘서트’ 이달 29일 개최 - 서울뉴스통신",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rMTFmZnBybWp3VHZGaFhLSUtpcVREMlB1MzFFRTd0WVFsY09hTzBlZmZ1aDRpSi1DeGFVUUc1eGtwZTBtaENHbHl1UjZha2l2MDlMWkJjRXAybXZPNlk3NzdlQkkxZmluRzhV?oc=5",
+   "pub": "Thu, 22 Oct 2026 07:50:00 GMT",
+   "engine": "gnews",
+   "query": "평송청소년문화센터 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시사회서비스원, ‘2026 희망나눔콘서트’ 개최 - 아시아뉴스통신",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJdFJveU4xYndlanFGZ0VROEpnUy04NDdrVmVJcWFQcERERTVEcGtFX1k4SVVJZkVGTk41V21qX3BCZlllY21RYThBQnZJc1BrNnE4UmdIT2lqUlJGclp3dVNpZXNFWDlSRDNQeVZrU053clht?oc=5",
+   "pub": "Fri, 23 Oct 2026 02:08:57 GMT",
+   "engine": "gnews",
+   "query": "평송청소년문화센터 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시사회서비스원, '2026 희망나눔콘서트' 진행 - 충남일보",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAweTlxRmR1TTl4Ul92Q3hzWUVENU1mTFNrZmZxMkVQTnZ1YURvUW1UVTN4b1RXNW1LTk1LR3dVaURQaWxGWW9nd1hEVTJubmFaS1BDanNyY3MtS3lLNFRKMU5YVDMtWkdqdUMzUWhtVDZSQQ?oc=5",
+   "pub": "Thu, 22 Oct 2026 05:37:52 GMT",
+   "engine": "gnews",
+   "query": "평송청소년문화센터 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "이웃 위해 흘린 땀방울, 음악으로 전하는 감사 - 미디어대전",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IdmczNjd1czBoX2FDX09xUk5Da3VTeFZLQkZVQWJTa0VLcktrVG1iM3JVcnN4U2VtMEgxalBFd0pKajFScVpWTnNtZnFVcmtob2hqR1kxZ19CTTc1Vi1FZkJMV09hQQ?oc=5",
+   "pub": "Thu, 22 Oct 2026 06:30:08 GMT",
+   "engine": "gnews",
+   "query": "평송청소년문화센터 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "‘온 가족이 함께하는 어린이 교통문화한마당’... 대전시, 평송청소년문화센터에서 다채로운 행사 개최 - 대전투데이",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50SnZoTzQtaEFXLTJ3bFZYQ2ltM085cW1JSEx1WGpMeFRCS09CNWhON0hKR2JFTzY0by1laXI2YTgzTGVPck16TG9IdGxaakY5a2JBY1NkWFRfWFBIcW9wWDZNMHpXSzZUM3ZjcW82YzZqZjTSAXNBVV95cUxOdEp2aE80LWhBVy0yd2xWWENpbTNPOXFtSUhMdVhqTHhUQktPQjVoTjdISkdiRU82NG8tZWlyNmE4M0xlT3JNekxvSHRsWmpGOWtiQWNTZFhUX1hQSHFvcFg2TTB6V0s2VDN2Y3FvNmM2amY0?oc=5",
+   "pub": "Thu, 22 Oct 2026 06:29:26 GMT",
+   "engine": "gnews",
+   "query": "평송청소년문화센터 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "창원 3·15아트센터(11월 27~28일), 군산예술의전당(12월 4~5일), 대전예술의전당(12월 11~12일)에서 공연한다. 서울 세종문화회관...어른들에게는 따뜻한 추억과 동심을 선사하는 작품으로 온 가족이 함께 관람하고 추억을 나눌 수 있다는 점에서 더욱 특별하다”고...",
+   "url": "http://v.daum.net/v/20261022110432833",
+   "engine": "daum_news",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "로 가족 관객과의 접점도 넓힌다. 하슬라 국제예술제 일정 축제는 브람스 이중 협주곡으로 여는 개막 공연 ‘운명적 사랑’(후미아키...KBS 클래식FM에서 ‘라이브 렉처 콘서트’를 개척하고 예술의전당 ‘11시 콘서트’ 호스트를 맡는 등 청중과의 소통에도 정평이...",
+   "url": "http://v.daum.net/v/20261017123522269",
+   "engine": "daum_news",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "멀어지는 환상, 차가운 현실…오늘을 비추는 연극 '유리동물원' - 연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PaTZ6cFhIc3A5TmdaLW5HeEYtZ0dZNjJCV3F6Z19ERFg1SmVTUUdoRzJYRjRDRkNKQm80Y2hkSEZDM2t0dzN1bWdRWG5EZHo0UEV4YkFpT0VYZWZzQVZrddIBYEFVX3lxTE9PaTZ6cFhIc3A5TmdaLW5HeEYtZ0dZNjJCV3F6Z19ERFg1SmVTUUdoRzJYRjRDRkNKQm80Y2hkSEZDM2t0dzN1bWdRWG5EZHo0UEV4YkFpT0VYZWZzQVZrdQ?oc=5",
+   "pub": "Thu, 22 Oct 2026 06:02:02 GMT",
+   "engine": "gnews",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전예술의전당, 양인모와 헬싱키 필하모닉 오케스트라 첫 내한 무대 선보여 - 뉴스밴드",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JWmlidG5JVlN2S2NZdVNGVDdvUGMyT0pjYnpXM2VQdzJIdFFQbENFZ2hrOTA0TTVxeGkyeThETmp0RGJsNXM1RmtvbEJ4OXZLNm5PbkNtU2g2Nk9CZzlqcDlvOW01NW5J?oc=5",
+   "pub": "Mon, 19 Oct 2026 07:53:26 GMT",
+   "engine": "gnews",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전문화재단 지원 지역대표공연예술제, 원도심서 잇따라 개최 - 미디어대전",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BaHVwdXk0UXlEbG0wV1FWcllQQjF1X2U3U29VWlRyUm1pNGVyU0hkZUFBTG5oNWl3cTQwWjNWWTQ5R19nSC1Iblp4MnlaeDJwaWFsV3NwdGdocmJOeDMwOUYxZmNLUQ?oc=5",
+   "pub": "Tue, 20 Oct 2026 00:47:03 GMT",
+   "engine": "gnews",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시교육청, 음악・미술교원 대상 예술교육 역량강화 직무연수 운영 - 한국시사경제",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVeTA5ZEM5MTdhX3JzZW5Ka0RvTGZ2dktPVHRGaUFpOC1Vcms0djhVNHRNQmQteklUc2FCcFluSHVfR19nX1BYM0xwYkI5TjRLRmJySFc3ZGNROHo5OXhyczU0dUdPbm1XbVE?oc=5",
+   "pub": "Fri, 23 Oct 2026 01:10:57 GMT",
+   "engine": "gnews",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전1인극축제·대전음악제, 가을 문화무대 연다 - 충청헤럴드",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94NTg2TTAzcGpRTGZ2dmNGZjZMLXBuUGxGbm9hSTBCQzBzcU1lRUFWOWZRdDEwU0JKZU9oeTZnSktYUmw2b0R3OV9QN0hLbFBUQnNZdGxTLUU4dlpqLUkzdFByd1h6dkk?oc=5",
+   "pub": "Tue, 20 Oct 2026 07:50:48 GMT",
+   "engine": "gnews",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시·국가보훈부, ‘인빅터스 게임 2029’ 개최 선포…글로벌 보훈도시 도약 - 매일일보",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NajgzNkJnMnhjQS1CdG41cTVyNzFBR21EbEY5TE5KVWxTSzJORjNubFVyQk1mV04zVjVkMm9jVFk0QnJrakhkS1pGd1NGUlRwWm5QeVhzYmYtaEFNQ1dDMHp0b2o?oc=5",
+   "pub": "Sun, 18 Oct 2026 04:23:22 GMT",
+   "engine": "gnews",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "유니버설발레단 '호두까기인형' 국내 초연 40주년…\"올해도 특별\" - 이데일리",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZnRMcFh5OHY4RmxaNUN2VWJqTjNDNDA0QXJzdE1FcVh6WHJoeWVtQUNmSFY4NnFINkVsNnhoZHhteUlYcmRrU1Q2ZWk2YVJUU0FyVU5BOW45SEJMTW1kNFVPQ3c1dXE1V1VncEJzZ05tSXhQS2VBeHcxS3E3S3pBbg?oc=5",
+   "pub": "Thu, 22 Oct 2026 02:00:32 GMT",
+   "engine": "gnews",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "아산 영인산산림박물관, 어린이 뮤지컬 공연 - 뉴스세상",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BM0EyMGNzZ1p1N0pCY1dJVE1VTnJFVUYyRnQ0NE1MTTFIQjZyVGJsM0Vpd0t0OGVuYWpQM1dvbmgwa2pDaTI1SFJMc3RvZ3F6OG5Ma2tVZldVVWliRXJkNDNRa2J1aHhKaXVj0gFvQVVfeXFMTmg2Nk1XX3FFQXI1ZFVUSkFaVFF5NFJ4ajF5Ukl5bVFiNnpqb2c0UFRrQU1uUVFkSnY0YzFWUWw1enJIQm9QS00xQ003b1AyQXFob2VqaTliUDZKcEE4THJldm1RMmFjMDBrangycWJv?oc=5",
+   "pub": "Thu, 22 Oct 2026 04:25:03 GMT",
+   "engine": "gnews",
+   "query": "대전 무료 공연 선착순 어린이",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전 학교예술교육박람회 11월 5~7일 개최…152팀 공연·체험 - 한국사회복지저널",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQS2pRRDhNUFdYMXdOSWJaMFlDdzlVVGplM3czNzdnRS1yS29abjZTZ1pONzNLWTl5VEtVN0ozNGxFb0d2LTdTSDVLdU8wWHRrYUxUeFdnOFJvaTE3RTNmUWVUZVRPN1lzNDlV?oc=5",
+   "pub": "Tue, 20 Oct 2026 09:10:33 GMT",
+   "engine": "gnews",
+   "query": "국립중앙과학관 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시교육청, 2026 제10회 학교예술교육박람회 개최 - 글로컬타임스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1maVZod2FQb0lIUXMxTVJaZ3Z6LUxuUEU4SzZrODFCLW1sS3oxWUNvb2R6UXIwWGdDd3RCM2JycEFPalVobHVqdXBkNFVtWjhrM0VhTS1qd3NHamNqRUpIcjJoZFpSVGY4OFdQM9IBbEFVX3lxTE1maVZod2FQb0lIUXMxTVJaZ3Z6LUxuUEU4SzZrODFCLW1sS3oxWUNvb2R6UXIwWGdDd3RCM2JycEFPalVobHVqdXBkNFVtWjhrM0VhTS1qd3NHamNqRUpIcjJoZFpSVGY4OFdQMw?oc=5",
+   "pub": "Tue, 20 Oct 2026 14:35:23 GMT",
+   "engine": "gnews",
+   "query": "국립중앙과학관 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "실학박물관 ‘이십사二十四 : 하늘을 읽어 땅을 살리다’ 성료 - 뉴스캐치",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sQlZJTmRkUkNsbWN5TGREVUh0UkotVHUxRDY4b0pnb2lwNkxKTlN3bFYxc2lZbmlrREExN19ENEhzeVRfMk4zOURmUzRqVnlMS3V6Y1VRNGpQYnROd3JZTXgzcURVV19LOXV0NU11SQ?oc=5",
+   "pub": "Thu, 22 Oct 2026 00:38:26 GMT",
+   "engine": "gnews",
+   "query": "국립중앙과학관 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "국립대구과학관, 지역 생활문화 동호회와 함께하는 문화예술 공연 개최 - 누리일보",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YNE1aYnhHX0hWZVA2RlJoczhTbU5kcUthQVhXa01vWlRJRFUxeDBFU0d4bXdLYlljbGc0R1BzeWd4MXNZWGt0a29RR3J1R19fM0kxd0ZGVGVPTkRZ?oc=5",
+   "pub": "Thu, 22 Oct 2026 06:11:24 GMT",
+   "engine": "gnews",
+   "query": "국립중앙과학관 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전시교육청, 2026 제10회 학교예술교육박람회 개최 - 모빅경제",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5admNNcUk0UkM3ZUlrSVIyQnhPaGk2VHNwclFqX3Y0TTlfTHZwdGtPMy1kR2wxQW5lVEpPLXdHbTk5Ty1LOF9pbjZmSjFEVFR2WHlZaG9EYmJYX0hxUlowZTNVMTJRS0dyTndHb3p6eXk?oc=5",
+   "pub": "Tue, 20 Oct 2026 00:34:59 GMT",
+   "engine": "gnews",
+   "query": "국립중앙과학관 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "부여 규암초, 대전 아쿠아리움서 오감만족 문화예술 체험 - 충남일보",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxZ0F5MTNGUFlZNzZnckxxaXZTLWFiNHFCSW00cGFKbjNobmhRY1JpNjVvWXBiLTRvU0pldE1KSGx5RTFYZzVhWXpOSkhhTjFzRG9qVkhwemI2bWJpaEo2V0dEY3dfV1BYS1padW0wWUh0MkE?oc=5",
+   "pub": "Mon, 19 Oct 2026 04:19:49 GMT",
+   "engine": "gnews",
+   "query": "대전 서커스 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "[축제] 대전 서구 책축제 - 스페셜타임스",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoZW91TVdVTVRxOEN0Tm45MGswMGFLNWMwbGlRbWdhTXVMVHZHdG55c3RmdjVqRU5WRktPZGZHdFRQLW9ZRnpjQ2xCeUhZNkQ1eTVjZzVjTWliV2VCNExmNmQ3UFJ6XzBKaXlDTUZlR3dvSzA?oc=5",
+   "pub": "Thu, 22 Oct 2026 00:00:41 GMT",
+   "engine": "gnews",
+   "query": "대전 서커스 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "공단 대전·세종·충청지역본부(본부장 이경란)가 주최하는 '2026 마음 건강 걷기대회'가 오는 11월 14일 오전 9시부터 오후 1시까지...걸음씩, 마음도 가볍게'라는 메시지 아래 혼자 걷는 시민부터 가족·단체 참가자까지 함께할 수 있도록 구성했다. 참가 대상은...",
+   "url": "http://v.daum.net/v/20261023170946932",
+   "engine": "daum_news",
+   "query": "대전 가족 퍼포먼스 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "여주시, 어르신이 들려주는 인형극 '늑구야 안녕' 평생학습축제에서 선보여 - 시민행정신문",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Qd1k1dlNycVduNndLTXZnb01pYVZ2R2FjNmhxbFZJbkx3eVVKNXZaVUlsTmRuLWlxTXN1bHhkekZac3lGRWd3d05mbkgyR3BuWG01U3pfaGY3MXFnM3J1dE56Ym11YzhTWHZvY01B?oc=5",
+   "pub": "Mon, 19 Oct 2026 05:11:45 GMT",
+   "engine": "gnews",
+   "query": "대전 축제 어린이 인형극",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "책과 함께한 가을날… 대전 대덕구, 독서문화축제 성료 - 투데이플러스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hT181bEVTX1hXN1NqZFRwSjdEeFhWZzN6Y1k3R3ZvWDFremQ1M1VJUDdWQ3pScTZIOHg1dzhQSE1oLWJnOWVTZ2lxbVFtVXI2TVU2YXV2ZnZrZ1lLM3hic040eUxpYkdh?oc=5",
+   "pub": "Sun, 18 Oct 2026 05:07:30 GMT",
+   "engine": "gnews",
+   "query": "대전 축제 어린이 인형극",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "대전 대덕구, 6개 동 마을축제와 500권 도서 나눔 독서문화축제 성료 - 뉴스워커",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55ckV2eVJ1SjVGRHNuaTV1aUxuVTE0QWxyY2ZGcTRzZ053Q0hPUzlmRERXUldiREJCWS1LRVRXbGxteVFLX0hFWTZRdG5MUEJsd0dwM2dacmVYeDFUZnJ0emRlYkxYeTNqMkl3TDgxaS3SAXRBVV95cUxOelRPRFhtT0JHM2xoU3hJTzJVSFlZVm1JUFJSQTQwQUd3cnFpd3lIY3RIeVdfSDRqWVhQWHhmZ1FjeXpUQll1OEJXcGs4ZGxpaHRTR0FCWFVnWEFTbU1UX0w3YVZwbWszMmdQdHpsdlp2Y2JjYw?oc=5",
+   "pub": "Sun, 18 Oct 2026 08:11:00 GMT",
+   "engine": "gnews",
+   "query": "대전 독서대전 어린이 공연",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "책과 함께한 가을날… 대덕구, 독서문화축제 성료 - 미디어대전",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Qd3lqZThMelQxQmZvQlZBWkVaNVZxZXRGbmg4UXVlTW9vYWpXYlc0Yl8taUdFUUk3SVlhdDgzdkRURmJvU0o3QklYM3Ywd3lBRmVUMHFzTzQ2ck14NE9nZkc1MA?oc=5",
+   "pub": "Sun, 18 Oct 2026 04:27:53 GMT",
+   "engine": "gnews",
+   "query": "대전 도서관 어린이 공연 시간표",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "서산문화복지센터 어린이도서관, 2026년 독서골든벨 대회 참가자 모집 - 충남도민일보",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TVUZkcldEZ0xHbklCMWFHRmVtZ1JPcDhfYzNial9scWNNQ2FtRU1XeXZVYkdUX1BYMlc2TEhiOHhZRnM0aGprQ3pCbFhzTkwzMXF1NnltakxUbFpWR0otRw?oc=5",
+   "pub": "Tue, 20 Oct 2026 08:02:55 GMT",
+   "engine": "gnews",
+   "query": "대전 도서관 어린이 공연 시간표",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "스낵타운, 12월 전국투어 개최 - BNT뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lSHlfNWszTVlYUHREWTlRbWhVNk81ajNIdEE4WlVzUFJSOGxjTlR3VUJuR05DdzdLaGZMcGJxdTB4c19lU1ZWSGJZd3RjTVlCb3RlalZmNmpDQktTZGxVNVNxSzU?oc=5",
+   "pub": "Tue, 20 Oct 2026 23:18:52 GMT",
+   "engine": "gnews",
+   "query": "대전 12월 어린이 공연 예매",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "공연예술통합전산망 - KOPIS",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE12N0pzeUpYVkh3TTExTzJxRzQzUExqb1Nnd2FVb3NFd0ZvbWtqQW9ZU0d5TXJPTmhQZjBMbnFpR2x1MFhTNXNkb2lBTlY?oc=5",
+   "pub": "Wed, 24 Dec 2014 07:16:00 GMT",
+   "engine": "gnews",
+   "query": "site:kopis.or.kr 대전 아동 가족",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "울산문예회관, 연극·필름콘서트·발레로 연말 무대 채운다 - 잉크뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QZ3BBdXZ0RWpyQlRrU2Voak54SGpRaWx5RGdSbVNuNkpHcmh3Y2hmSkc1ckpOR0h6YlhHUkVQaGFmZGJlSHlPYnpIUzFxRDFfemIwYlUzVWZWa2hHemN1aml2akd1UQ?oc=5",
+   "pub": "Fri, 23 Oct 2026 01:45:02 GMT",
+   "engine": "gnews",
+   "query": "대전 발레 가족 공연 11월",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "시흥시 `늠내클래식축제` 10주년…가족 클래식 음악극 선보인다 - 뉴스체인지",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kVlZROGhnUklFOWFyUndCcFZJZHZVUGFEYzQyUTdSXzV2aE03Z1Y4TWtucVQ0cVFrUXMtazExR1RVUTFkM2hFODViQnZYVUxQZ2ZhOEJZRQ?oc=5",
+   "pub": "Tue, 20 Oct 2026 22:51:00 GMT",
+   "engine": "gnews",
+   "query": "대전 발레 가족 공연 11월",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "‘2026 대전 빵축제’ 17일 개막…성심당 등 120개 빵집 한자리에 - 뷰티트래블뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13Z3QtbVhnNk9ja2cwMmRMLW05UElHZHhBSXJNZzFZOXgzV1hVRm9CWV80ajNYWFR5bFBvWDlDMnA0SVVaUnQwa19lWjg5b0xGVkZ2enktYl94Wlg4N05Uak9KbmFyd3cxNk0zd2xR?oc=5",
+   "pub": "Sat, 17 Oct 2026 03:43:59 GMT",
+   "engine": "gnews",
+   "query": "대전 발레 가족 공연 11월",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "환상 동화 같은 음악과 배경, 의상이 돋보인다. 유니버설발레단의 '호두까기 인형'은 1986년 초연 이후 40년간 630여회 공연을 통해...순회 공연도 연다. 다음 달 6일 강릉을 시작으로 고양, 평택, 창원, 군산, 대전에서 '호두까기 인형'을 선보일 예정이다. fat@yna...",
+   "url": "http://v.daum.net/v/20261022103622983",
+   "engine": "daum_news",
+   "query": "유니버설발레단 호두까기인형 대전",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
+  {
+   "title": "유니버설발레단 '호두까기인형' 국내 초연 40년…12월 서울 개막 - 연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jYkJMaVhUdGZaN2EyWXhhV1cxa2JEN09jVk1maGcwZU80dHV3WnNEQ0NxT3RLYm8tX1FhUFBWY1BLbHc3dTk4bnhBVW53NVlNY1FTcVItdGhJU0U5dk4wSdIBYEFVX3lxTE9jYkJMaVhUdGZaN2EyWXhhV1cxa2JEN09jVk1maGcwZU80dHV3WnNEQ0NxT3RLYm8tX1FhUFBWY1BLbHc3dTk4bnhBVW53NVlNY1FTcVItdGhJU0U5dk4wSQ?oc=5",
+   "pub": "Thu, 22 Oct 2026 01:34:59 GMT",
+   "engine": "gnews",
+   "query": "유니버설발레단 호두까기인형 대전",
+   "first_seen": "2026-10-23T21:07:47+09:00"
+  },
   {
    "title": "가족을 뮤지컬 ‘더 스토리 오브 언더더씨’로 초대합니다. 해당 공연은 11월 8일 오후 1시 30분 대구 아양아트센터(대구 동구 소재...1인당 티켓 2매까지 받을 수 있습니다. 한국백혈병어린이재단 홈페이지 내 구글폼(bit.ly/47YClZ6)을 통해 신청 가능합니다...",
    "url": "http://v.daum.net/v/20261023090241937",
@@ -20601,532 +21189,13 @@
    "engine": "naver_cafe",
    "query": "평송 어울림홀 어린이 공연",
    "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "어린이 뮤지컬 <렛잇고> - 대전 공연기간 : 2026.08.29(토) 단하루 관람 가능 연령 24개월이상 공연시간 : 11시, 14시, 16시(3타임) 러닝타임 : 70분 장소 : 대전 평송 청소년문화센터 어울림홀 ㅡㅡㅡㅡㅡㅡㅡㅡ초대 일정ㅡㅡㅡㅡㅡㅡㅡㅡㅡ 8월 29일(토) 11시, 14시, 16시 원하는 시간 신청 가능 / 1인 4매까지 제공 ㅡㅡㅡㅡㅡㅡ",
-   "url": "https://cafe.naver.com/gotogether0508/376213?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvdG9nZXRoZXIwNTA4IiwiYXJ0aWNsZUlkIjozNzYyMTMsImlzc3VlZEF0IjoxNzkyNjY3MzgyMDQ3fQ.n0WWaZv9KhzDF8_Kb4OIojgfRK_-5PYrlFsb1zOcgC8",
-   "engine": "naver_all",
-   "query": "평송 어울림홀 어린이 공연",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "온 가족이 함께하는 어린이 교통문화한마당 대전시는 25일 오후 2시 평송청소년문화센터 어울림홀에서 어린이와 가족이 함께하는 2026년 어린이 교통문화한마당을 개최한다. 이번... 교통안전 그림공모전 시상식과 어린이 교통안전교육, 가족뮤지컬 공연 등 다양한 프로그램을 통해 어린이와 가족이 함께 배우고 즐길 수 있는 시간을 제공할 예정이다.새 창 열림",
-   "url": "https://www.daejeon.go.kr/drh/board/boardNormalView.do?boardId=normal_0189&menuSeq=1632&ntatcSeq=1525051033",
-   "engine": "naver_all",
-   "query": "평송 어울림홀 어린이 공연",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "안녕하세요, 티켓링크입니다. 어린이 뮤지컬 <렛잇고> - 대전 티켓오픈 안내입니다. 공연정보공연 기간 : 2026년 08월 29일(토)공연 시간 : 11시, 14시, 16시공연 장소 : 대전 평송청소년문화센터 어울림홀 티켓 가격 : R석 40,000원(1층새 창 열림",
-   "url": "https://www.ticketlink.co.kr/help/notice/64908",
-   "engine": "naver_all",
-   "query": "평송 어울림홀 어린이 공연",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "아이와 새로운 경험을 해보고 싶어서 요즘 어린이 뮤지컬 공연을 찾아보고 있어요. 포포도 어느덧 캐릭터와 노래에 관심을 보이는 시기라, 짧은 공연부터 천천히 도전해 보면... 평송청소년문화센터 대전 서구 둔산대로 대전에서 가족뮤지컬을 찾을 때 가장 자주 보게 되는 공연장 중 하나예요. 평송홀과 어울림홀을 갖추고 있어 소규모 가족뮤지컬부터 인기 캐릭터가... ",
-   "url": "https://blog.naver.com/nseizy/224375125821",
-   "engine": "naver_all",
-   "query": "평송 어울림홀 어린이 공연",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "다들 크리스마스 때 무엇을 하셨는지 … 난 언제쯤 애인과 보낼 수 있는 것인지 … 모르겠습니다. • • • ( 클쓰마쓰까지 두 달 남은 거 실화예요?) 25.12.28 리도어 보고 왔어요... 14 가족들이랑 여행 왔어요 자쿠지 했는데요 추워 죽는 줄 알았슴다 그치만 맥주 어케 참나요 ~ 02.18 그리고 나혼렙 전시 다녀왔슴다 역시 전 찐따남이 좋아요 …",
-   "url": "https://blog.naver.com/gktjgml_0531/224450492553",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "주말 천변에는 가족들이 너무 많아 나가기 싫습니다. 강사가 추천해 준 책들을 모두 읽었지만 글은 여전히 써지지 않습니다. 수업에서 다른 수강생들은 어린 시절 추억이나 옛 경험들을 써왔습니다. 그녀는 빈손으로 수업에 갔다가 모두 빠져나간 뒤 강사에게 “쓰려 하긴 했는데 정말 쓸 말이 안 떠올랐어요”라고 털어놓았고 강사는 \"너무 초조하게 생각하지 마세요”...",
-   "url": "https://blog.naver.com/che0303/224450487228",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "제2차 세계대전: 공습으로 역사적인 도심의 상당 부분이 파괴되었습니다. 전후 현대: 금융, 무역, 항공과 국제... 크리스마스 시즌에는 유명한 크리스마스 마켓이 열려 더욱 아름다운 풍경을 선사합니다. 추천 활동: 광장 산책, 전통... 도시 관광 중 여유로운 휴식을 즐기고 싶은 여행객, 가족 단위 방문객에게 적합합니다. Palmengarten 8. 작센하우",
-   "url": "https://blog.naver.com/travelone_/224450486785",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "(11/28~29) 대전(12/5~6) 대구(12/19~20) 광주(12/25~26) 인천(12/31) 용인(내년 1/9~10) 순서예요 아직 티켓을 못 구하셨다면... 발표했어요 크리스마스 연휴랑 겹치는 날짜라 티켓팅이 만만치 않을 것 같아요 예매 일정은 제가 확인하지... 클래식이나 뮤지컬이 끌린다면 경기 북부에 사시는 분들은 의정부 쪽도 눈여겨보세요 ",
-   "url": "https://blog.naver.com/bboya0610/224450481528",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "가족 여러분, 좋은 저녁입니다. 오늘도 다시 함께해 주셔서 감사합니다. 이제 기도하겠습니다. 어젯밤 주님께서 우리에게 보여주신 몇 가지 내용을 살펴보고, 오늘의 뉴스도 함께 살펴보겠습니다. 브레이든이 모든 메모를 가지고 있습니다. 어젯밤 우리가 본 것은 정말 무거운 내용이었습니다. 그리고 기도도 정말 길었습니다. 주님께서는 3시간이 넘도록 정말 많은... ",
-   "url": "https://blog.naver.com/seongkwangz/224450477041",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "연말선물이나 크리스마스선물로도 눈여겨볼 만해요 연말이 되면 친구나 가족에게 전할 선물을 고민하게 되죠. 먹거리나 실용적인 생활용품도 좋지만, 평소 인테리어를 좋아하는 사람에게는 취향을 담은 소품도 좋은 선택이 될 수 있어요. 와이제이아틀리에 메리 크리스마스 캔들은 계절감이 분명한 디자인이라 크리스마스선물이나 연말선물을 찾는 분들이 살펴볼... 새 창 열림",
-   "url": "https://blog.naver.com/randolph84/224450453896",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "윤종훈은 작품에서 하윤철 역을 맡아 복잡한 가족관계와 욕망, 갈등 속에서 흔들리는 인물을 연기했습니다. 감정적인 장면과 극적인 전개가 반복되는 작품에서 캐릭터의 심리... 작품 방송·공개 연도 대왕 세종 2008년 맨땅에 헤딩 2009년 크리스마스에 눈이 올까요? 2009년 하이킥! 짧은 다리의 역습 2011년 유령 2012년 황금거탑 2014년 뱀파이어 ",
-   "url": "https://blog.naver.com/helperjd/224450451149",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "특히 12월 20일(일), 12월 25일(크리스마스), 1월 1일(신정)은 특별히 2시와 7시 두 번 공연한다고 해요. 연말연시에 가족끼리 시간 맞춰 보러 가려는 분들이라면 이 날짜들을 노려보는 것도 방법이겠더라고요. 캣츠 내한 뮤지컬 대구 공연 시간표 요일 공연 시간 화~금 19:30 토요일 14:00 / 19:00 일요일 14:00 12/20·12/25",
-   "url": "https://blog.naver.com/story-83/224450036630",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "안녕하세용 ෆ 오늘은 대전 서구 내동에 있는 테이스티브라운에 다녀왔습니당 ! 평소 양식을 좋아해서 테이스티브라운을... • · ̟*.❄ 특히 크리스마스 시즌에 따뜻한 조명과 크리스마스 장식까지 더해지면 얼마나 예쁠지 벌써부터 기대되더라고요 그리고 주방이 오픈 되어있어서 답답해보이지 않더라구용 ! >.< 테이스티브라운은 친구나 가족끼리 외식하기에도 좋고...",
-   "url": "https://blog.naver.com/qwowq12/224450391128",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "서산 유기방가옥에는 귀여운 강아지 가족이 살아용 진짜 수선화 만개했을 때 다시 오고 싶은 곳 저 갔을땐 수선화고 뭐고 매미랑 모기만 있었음 서산 레전드 맛집 나가실게 지도까지 첨부하실게 진짜진짜진짜x100 먹어본 카츠중에 제일 맛있었음.. 테이블링인가 캐치테이블인가 여튼 원격 웨이팅 가능함 안심카츠 진짜 맛있고 등심카츠 시키면 훈연으로 나오는데 진짜... ",
-   "url": "https://blog.naver.com/yeon030v/224450387331",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "예를 들어 Christmas Eve는 크리스마스이브, 즉 크리스마스 전날 밤입니다. All Hallows’ Eve라는 표현이 오랜 세월에 걸쳐 줄어들고 변하면서 오늘날의 Halloween 이라는 이름이 생겨났습니다. 즉, Halloween이라는 단어 자체에도 '모든 성인의 날 전날' 이라는 역사적 흔적이 남아 있는 것입니다. 고대 켈트족의 계절 축제와 기독",
-   "url": "https://blog.naver.com/kingofkings579/224450356000",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "#둔산동맛집 #둔산동스테이크 #둔산동 파스타 #둔산동데이트 #알바노어반 알바노어반 주소 : 대전 서구 둔산중로 40번길 20 1층 시청역 7번 출구에서 180m 영업시간 : 매일 11:00~21:30... 데이트장소나 가족외식 장소로 추천하고 싶은 곳이에요 레스토랑에 들어서자 크리스마스 분위기 가득한 큰 트리가 이쁘게 꾸며져 있어 연말 분위기 물씬 나더라구",
-   "url": "https://blog.naver.com/sasr79/224450331220",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "- 김정은과 가족, 정권에 \"거룩한 공포\"를 내리고, 출애굽 같은 해방을 주겠다고 하십니다. - 수용소에 천사들이 대거 나타나고, 북한이 하나님 나라에 도달한다고 합니다. ### 추가로... - 주님이 \"케네디 저주\"를 트럼프 가족에게 씌우려는 시도를 말씀하셨기 때문에, 돈 주니어·에릭·배런·티파니를 위해 기도해 왔다고 합니다. 케네디가가 저주받았다는 뜻은",
-   "url": "https://blog.naver.com/lightper/224450324425",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "이번 크리스마스, 가족과 함께 특별한 추억을 만들어 보세요. 3. 충녕 선수들의 전국대회 도전과 입상! 세종 충녕 바둑학원은 고운점, 반곡점, 새롬점에서 세종은 물론 대전, 공주, 청주, 오송 등 충청권 학생들과 함께하고 있습니다. 이번 충청남도 교육감기 바둑대회에서도 충녕 선수들이 멋진 활약을 보여주었습니다. 승패보다 값진 도전! 열심히 노력하고 성장하는",
-   "url": "https://blog.naver.com/badukll54/224450307402",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "이름만으로 가창력이 보장되는 세 보컬리스트가 12월 25일 크리스마스 당일 오후 6시, 대전대학교 맥센터 무대에 함께 올라요. 2000년대를 수놓은 명곡들을 한 공연에서 몰아 들을 수... 싶은 대전과 충청권 분들에게는 이만한 선물이 없죠. 만 7세 이상 관람가라 가족 단위 나들이로도 좋아요. 세 사람이 서로의 대표곡을 주고받는 콜라보 무대가 성사된다면, ",
-   "url": "https://blog.naver.com/publicize_beauty/224450305624",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "12월에는 ‘수상한 외갓집’, 뮤지컬 ‘앤ANNE’, ‘화이트 라이 크리스마스’ 등이 예정되어 있습니다. 학교 단체관람과 가족 개별관람은 신청 방식이 다르므로 공연별 상세 안내를 확인해야 합니다. 아이와 함께 공연을 보고 싶지만 어떤 작품부터 알아봐야 할지 고민이었다면, 이번 하반기 공연 목록에서 관심 있는 작품을 골라보세요. 관람을 원하는 공연의... 새",
-   "url": "https://blog.naver.com/ttoza/224450005034",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "가족의 소중한 날을 함께 준비하는 맘쏙파티입니다. 오늘은 신라호텔 라일락홀에서 진행한 돌잔치 이야기를 전해드리려고... 장소를 정하고 나면 돌상은 어떤 분위기로 할지, 사진을 남기는 공간은 어떻게 꾸밀지, 가족들이 식사하는 테이블까지... 돌잔치는 아기의 생일이면서 여러 세대의 가족이 함께하는 자리이기도 하죠. 그래서 귀여운 요소가 가득한 공간 안에도...",
-   "url": "https://blog.naver.com/momssokparty/224450290046",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "가족이나 연인과 함께 여유롭게 먹거리를 즐기기에 적합합니다. 대폭 늘어난 먹거리와 현장 체험 프로그램 60여 종의 이색 김밥과 신설된 김천 디저트존 올해 축제는 참여 업체... 서울, 대전, 대구, 광주, 부산 등 주요 거점에서 출발하며 사전 예약을 통해 좌석을 확보해야 합니다. 넓은 공원 지형에 맞춘 실전 방문 팁 행사장이 직지문화공원부터 사명대사공원까지",
-   "url": "https://blog.naver.com/healthnotification2/224450002488",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "빨강과 화이트 조합이라 사진에서도 포인트가 확실하고요❤️ 크리스마스 가족사진이나 어린이집 단체사진, 조동 친구들 사진에도 잘 어울려요. #신생아뉴본촬영... 세종맘 #대전맘 #천안맘 #아산맘 #청주맘 #충주맘 #진천맘 #평택맘 #오산맘 #용인맘 #성남맘 #분당맘 #하남맘 #김포맘 #파주맘 #남양주맘 #의정부맘 #구리맘 #안산맘 #시흥맘 #강동구맘... 새 ",
-   "url": "https://blog.naver.com/babyband119/224450263451",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "8월의 크리스마스 알고 있냐~ 여기가 거기다~ 찍어라~ 해서 찍은 초원사진관 ㅋㅋㅋㅋㅋㅋㅋ 유명한 만큼 진짜 사람들이 줄 서면서 사진 찍더라고요!!! 대전에 성심당이 있다면 군산에는 이성당이 있다며 끌고 오신 친구 부부ㅋㅋㅋㅋㅋ 평일인데도... 그리고 내가 찍어준 친구 가족!!!! 이 가족 너무..이뻐 그리고 저희가 여행 시작한 날이 부안 붉은 노을 축제 ",
-   "url": "https://blog.naver.com/sy_js_241103/224450260274",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "평소 만들어보고 싶었던 디저트나 가족과 연인에게 선물하고 싶은 메뉴를 선택해 참여하는 것도 가능합니다. 수업은 약 3시간 동안 진행되며 소수 인원으로 운영되어 직접 실습할 수... 할로윈부터 크리스마스까지 시즌 특강! 대전베이킹클래스에서는 일반적인 베이킹 메뉴뿐 아니라 특별한 기념일을 위한 시즌 특강도 다양하게 운영하고 있습니다. 10월에는 할로윈을... ",
-   "url": "https://blog.naver.com/minxo/224450219078",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "귀여운 어린이들에게 즐거운 크리스마스의 선물로 진행되는 인형극 공연이었습니다 크리스마스 인형극 < 산타클로스와 스크루지 백작 > 어린이 공연이 즐겁고 재미있게 큰 호응 속에서 잘 올려졌습니다 어린이들을 사랑하는 산타클로스가 크리스마스 선물을 풍성히 준비해서 많은 어린이들을 찾아갑니다 하지만 기쁨도 잠시 사랑과 정성이 가득 담긴 크리스마스 선물은... 새 창",
-   "url": "https://blog.naver.com/seastar7212/224450217582",
-   "engine": "naver_blog",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "호두까끼 인형이 주는 제목만으로도 화려하고 성대한 스케일을 보여줄 것 같아요. 크리스마스 시즌에 어울리는 가족뮤지컬이 될 것 같아 기대됩니다.",
-   "url": "https://cafe.naver.com/culturebloom/3405650?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImN1bHR1cmVibG9vbSIsImFydGljbGVJZCI6MzQwNTY1MCwiaXNzdWVkQXQiOjE3OTI2NjczOTQxMDR9.UHwx2vvIBioODwhGpojyI3Aqe8etK5DoCieorjw21OU&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "그녀는 이 영화가 제2차 세계대전 이후 유럽에서 발생한 최대 규모의 집단학살 이야기를 바탕으로 하며, 이 전쟁이 충분히 다뤄지지 않았다고 생각해 현지 배우들을 선택했다고 말했다. 그녀는 영화가 어렵다는 것을 알고 있지만, 두 시간 동안 관객이 매우 힘든 일을 겪게 된다고 덧붙였다. 이 사람들이 수년간 겪어온 일이며, 그들의 경험이 어떤 영화보다도 더 힘들다",
-   "url": "https://cafe.naver.com/mannapray/661?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hbm5hcHJheSIsImFydGljbGVJZCI6NjYxLCJpc3N1ZWRBdCI6MTc5MjY2NzM5NDEwNH0.RhHvFN_c89AIVAh7w1dTCxo1Spsd14fMZ7ChuFaVvAI&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "케이크 모양도 트리같구 스노우맨 마카롱이라니!!! 빠르네요ㅋㅋ ============= 라이프&컬처채널 컬처블룸 문화채널, 공연정보, 뮤지컬정보, 연극정보, 콘서트정보, 전시회정보, 영화정보, 도서정보, 서평단, 리뷰단, 체험단, 추천전시, 가족공연, 공연할인, 리뷰단모집, 문화이벤트, 공연추천, 뮤지컬추천, 연극추천, 대학로공연, 전시회추천, 추천도서, ",
-   "url": "https://cafe.naver.com/culturebloom/3405455?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImN1bHR1cmVibG9vbSIsImFydGljbGVJZCI6MzQwNTQ1NSwiaXNzdWVkQXQiOjE3OTI2NjczOTQxMDR9.iIvMkYEHv8r2rhH-tei-Jh-bE9cRODKd3_JlEFNQFdg&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "10월 25일(일)에 평송청소년문화센터에서 어린이 교통문화한마당이 열린대요 어린이 교통안전교육도 있고, 아이들이 좋아할 만한 가족뮤지컬 「미녀와 야수」 공연도 있네요 일시 : 10월 25일(일) 오후 2시~4시 장소 : 평송청소년문화센터 어울림홀 내용 : 교통안전교육, 가족뮤지컬 「미녀와 야수」 참가비 : 무료 (사전 신청) 사전신청 링크 : https:/",
-   "url": "https://cafe.naver.com/ksn82599/374103?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtzbjgyNTk5IiwiYXJ0aWNsZUlkIjozNzQxMDMsImlzc3VlZEF0IjoxNzkyNjY3Mzk0MTA0fQ.x6lkfkdFHdqh0sGvwl67m8lgRii-wwgWInUGIsZ_x3w&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "하지만 여러 번 글을 거치면서, 저희는 에드의 가족들로부터 순화를 해 달라는 부탁을 들었고 그대로 했습니다. \"에드는 죽었지만, 그의 세상은 계속 돌아갈 것입니다\"라는 문구는 약간의 낙관적인 느낌을... 한편 폴은 원래 굴드 가족의 집에 묵기로 했었는데, 에드의 건강이 악화되고 감염 위험이 커지면서 폴과 폴의 배우자는 갑자기 제 연립주택의 사무실에 끼어 살",
-   "url": "https://cafe.naver.com/efcok/23067?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVmY29rIiwiYXJ0aWNsZUlkIjoyMzA2NywiaXNzdWVkQXQiOjE3OTI2NjczOTQxMDR9.HC1RLYy8dVgBMJzvwvDtttmvtiP4Lp6fBXxJRUQ1CTM&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "대전 가족뮤지컬 <로보카폴리 - 브룸스타운의 에너지를 지켜라!> < > ================================================================================== 대전맘스파파 대전맘카페 (대전맘스파파 엄마.아빠들의 커뮤니티) 대전중구맘카페 대전서구맘카페 대전동구맘카페 대전유성구맘카페 대전대덕맘카페 =",
-   "url": "https://cafe.naver.com/daepick/6422?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRhZXBpY2siLCJhcnRpY2xlSWQiOjY0MjIsImlzc3VlZEF0IjoxNzkyNjY3Mzk0MTA0fQ.YomFoYe5SEqifYjqnd0ly914z398o0XksvcLQIDsr68&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "오늘 잠실 다녀왔어요 크리스마스마켓을 벌써 공사중이더라구요 ============= 라이프&컬처채널 컬처블룸 문화채널, 공연정보, 뮤지컬정보, 연극정보, 콘서트정보, 전시회정보, 영화정보, 도서정보, 서평단, 리뷰단, 체험단, 추천전시, 가족공연, 공연할인, 리뷰단모집, 문화이벤트, 공연추천, 뮤지컬추천, 연극추천, 대학로공연, 전시회추천, 추천도서, 베스",
-   "url": "https://cafe.naver.com/culturebloom/3404742?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImN1bHR1cmVibG9vbSIsImFydGljbGVJZCI6MzQwNDc0MiwiaXNzdWVkQXQiOjE3OTI2NjczOTQxMDR9.YNnYLbG462EtcdvKm-3qvEx9fAfdNkLi67kdOf_CsmQ&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "양말목 리스 만들기 나만의 크리스마스 모루트리 만들기 아이들이 직접 만든 작품으로 우리 집 크리스마스를 미리 준비해 보세요! 행사 안내 날짜 : 2026년 11월 7일(토) ⏰ 시간 : 낮 12시 ~ 오후 4시 장소 : 꿈샘 & 내수변 공원 아나바다 장터 참여는 선착순 10가족! 장터 참여도하고 미리 크리스마스 체험도하고ᆢ 희망하시는 가족은 네이버폼으로 신",
-   "url": "https://cafe.naver.com/doanmom1004/904953?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvYW5tb20xMDA0IiwiYXJ0aWNsZUlkIjo5MDQ5NTMsImlzc3VlZEF0IjoxNzkyNjY3Mzk0MTA0fQ.9iJ-4vXq3qnSScVidKT1LpdXtzqyuDd2eR7Zw5m7te8&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "백제의 역사와 신비로운 이야기를 담은 뮤지컬 「왕관을 찾아서: 진묘수와 시간의 문」! 아이부터 어른까지 온 가족이 함께 즐길 수 있는 특별한 공연! ✨ 남은 공연 일정이 얼마 남지 않았으니, 이번 기회를 놓치지 마세요! 공연 안내 공연기간: 2026. 10. 24.(토) ~ 11. 7.(토) 공연시간: 14:00 / 17:00 공연장소: 백제문화전당 고마홀",
-   "url": "https://cafe.naver.com/dodamdadam1004/2805568?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZGFtZGFkYW0xMDA0IiwiYXJ0aWNsZUlkIjoyODA1NTY4LCJpc3N1ZWRBdCI6MTc5MjY2NzM5NDEwNH0.mytBM4PF-ioLQuoZ8OfFUf2Aqcmg3m58nseZMNhyG30&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "- 원래 종이 매뉴얼이며 시디 깨끗 합니다 22 ps2 아르카나 하트 - 1.2 2D 미소녀 대전액션 타이틀이며 빠른 속도감/시원한 콤보등 타격감도 뛰어나 간단히 즐기거나 접대용으로 좋습니다. 매뉴얼 괜찮고 시디 무난한 플레이용이며 중고로는 분실이 많은 광고지까지 모두 포함 됩니다. 24 ps2 기동전사 건담 SEED 끝나지않은 내일로 - 1.5 한글화된 ",
-   "url": "https://cafe.naver.com/oldgamestravel/422605?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im9sZGdhbWVzdHJhdmVsIiwiYXJ0aWNsZUlkIjo0MjI2MDUsImlzc3VlZEF0IjoxNzkyNjY3Mzk0MTA0fQ.mjdT8OBRTovaEgd2YCBiIzeav_GLrwjWhItNL4eKezo&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "대전예술의전당에서 튀김소보체 ‘Taste of Classic’ 콘서트가 열린데요^^ 클래식 성악만 하는 공연이 아니라 팝이나 뮤지컬, 가요 같은 익숙한 음악도 섞어서 보여주는 쇼콰이어 공연이라고 해서 아이들이랑 보기에도 좋을 것 같아요ㅎㅎ 공연 : 10월 24일 오후 7시 장소 : 대전예술의전당 아트홀 관람 : 만 5세 이상 ⏰ 공연시간 : 약 80분 R석",
-   "url": "https://cafe.naver.com/dodamdadam1004/2805539?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZGFtZGFkYW0xMDA0IiwiYXJ0aWNsZUlkIjoyODA1NTM5LCJpc3N1ZWRBdCI6MTc5MjY2NzM5NDEwNH0.TdBUiuoUdBP0ueR5cj_STZCigko-n6eCnO4nBkyjcpQ&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "가족뮤지컬 로봇특공대이랑 오즈의마법사 보신분",
-   "url": "https://cafe.naver.com/doanmom1004/904893?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvYW5tb20xMDA0IiwiYXJ0aWNsZUlkIjo5MDQ4OTMsImlzc3VlZEF0IjoxNzkyNjY3Mzk0MTA0fQ.OVKPqQhjuD7qahGSuYVMV-DuHIJn3zDiuXMqwv1lIpU&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "그저 가족을 지키고, 가게를 지키고, 평범한 내일을 살아가고 싶어 돈을 빌렸을 뿐입니다. 사천만 원을 빌려 이자로만 오천만 원이 넘는 돈을 갚았습니다. 그런데도 독촉은 끝나지 않았습니다. 연 578퍼센트. 사람의 절박함에 고리 이자를 붙이고, 두려움에 고리 이자를 붙이고, 마침내 눈물에까지 고리 이자를 붙였습니다. 얼마나 무서웠습니까. 얼마나 외로웠습니까.",
-   "url": "https://cafe.naver.com/action911/60152?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFjdGlvbjkxMSIsImFydGljbGVJZCI6NjAxNTIsImlzc3VlZEF0IjoxNzkyNjY3Mzk0MTA0fQ.b2W8zJTYjb65aTL5wP50kOMRN1PrR2SR3WXBK2bCLEs&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "2026 주현미 크리스마스 디너쇼 콘서트 일정 및 예매 | NOL(야놀자) ============= 라이프&컬처채널 컬처블룸 문화채널, 인플루언서, 체험단, 리뷰단, 맛집, 여행, 뷰티, 푸드, 육아, 교육, 공연, 전시, 영화, 도서, 책, 공연정보, 뮤지컬정보, 연극정보, 콘서트정보, 전시회정보, 영화정보, 도서정보, 서평단, 리뷰단, 체험단, 추천전시",
-   "url": "https://cafe.naver.com/culturebloom/3403554?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImN1bHR1cmVibG9vbSIsImFydGljbGVJZCI6MzQwMzU1NCwiaXNzdWVkQXQiOjE3OTI2NjczOTQxMDR9.tVuz6BjPDDRCle0HzINaaN9y1jxA2nrwAMI51oZpkRE&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "(1998) 크리스마스에 눈이 내리면(1998) 하루(1998) 여고괴담(1998) 미술관옆 동물원(1998:책자형) 조용한 가족(1998:책자형) 태평천국의 문(1998:신문지 전단) 데드맨(1998) 풀몬티(1998) 록키... 적벽대전2(2009) 아쉬람(2010) 마리이야기 연결 엽서 흑수선 부국제 엽서식 홍보3매 구하는 전단지 그 후로도 오랫동안(",
-   "url": "https://cafe.naver.com/cinelove/64389?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNpbmVsb3ZlIiwiYXJ0aWNsZUlkIjo2NDM4OSwiaXNzdWVkQXQiOjE3OTI2NjczOTQxMDR9.cuZiCbDoLD6a8xAK7hG9SrTNI2qih4JehReGrF39pbs&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "이건 이래서, 저건 저래서 갖고 싶다고 말합니다. 크리스마스 선물로 찜해둔 인형입니다. ============= 라이프&컬처채널 컬처블룸 문화채널, 공연정보, 뮤지컬정보, 연극정보, 콘서트정보, 전시회정보, 영화정보, 도서정보, 서평단, 리뷰단, 체험단, 추천전시, 가족공연, 공연할인, 리뷰단모집, 문화이벤트, 공연추천, 뮤지컬추천, 연극추천, 대학로공연,",
-   "url": "https://cafe.naver.com/culturebloom/3403296?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImN1bHR1cmVibG9vbSIsImFydGljbGVJZCI6MzQwMzI5NiwiaXNzdWVkQXQiOjE3OTI2NjczOTQxMDR9.nGgfna6u8WJ7aU__y5hoDwr6zr4XjbggkmtoGGEPT6g&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "- 30명 ㆍ응모기간ㆍ10-12~10-19 (10-21) ㆍ응모주소ㆍ메인페이지 | 이벤트주소 ● [대전지역암센터] 암예방 퀴즈 풀고 메가커피 아아 받자 이벤트!! ㆍ경품번호ㆍ 인스타 10-21-016 ㆍ주최회사ㆍ대전지역암센터 ㆍ응모형태ㆍ퀴즈/퍼즐 ㆍ경품내역ㆍ메가커피 아이스.. - 30명 ㆍ응모기간ㆍ10-12~10-19 (10-21) ㆍ응모주소ㆍ메인페이지 |",
-   "url": "https://cafe.naver.com/koreagift/30787?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtvcmVhZ2lmdCIsImFydGljbGVJZCI6MzA3ODcsImlzc3VlZEF0IjoxNzkyNjY3Mzk0MTA0fQ.FZ0YJoZfvDe8_cV5hKOKMRuXlAedtCa-VZS59EEreB8&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "WARNING - 글이 매우 장황함 - 멀미 조심 OVERTURE 제가 중학교 삼학년 때, 우리 반 담임선생님이 국어교사였는데 점심시간에 학생들이 도시락 먹을 때 늘상 라디오를 교탁 위에 올려놓으셨어요. 거기에서 91.9MHZ 주파수의 라디오 프로그램이 흘러나왔는데, 봄날의 정오가 조금 지났을 무렵 푸른하늘의 <눈물나는 날에는>을 그 교실에서 처음으로 들었",
-   "url": "https://cafe.naver.com/crom99/8?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNyb205OSIsImFydGljbGVJZCI6OCwiaXNzdWVkQXQiOjE3OTI2NjczOTQxMDR9.i7rlBF1A9a5lyGlPxQTx3-AUpT7kpiK49CCbuSASi7A&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "오늘은 대전 근교에서 가족과 함께 즐기기 좋은 2026 대덕대청호물결축제를 소개해 드릴게요. 1. 대청호에서 만나는 가을축제 대덕대청호물결축제는 대청호의 아름다운 자연경관을 배경으로 음악과... 풍선마술쇼와 버블매직쇼, 어린이 뮤지컬 등 아이들의 눈과 귀를 즐겁게 해줄 프로그램을 만나볼 수 있어요. 아이의 연령과 관심사에 맞춰 공연 관람을 계획해 보세요. ",
-   "url": "https://cafe.naver.com/qmir/13230?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InFtaXIiLCJhcnRpY2xlSWQiOjEzMjMwLCJpc3N1ZWRBdCI6MTc5MjY2NzM5NDEwNH0.Vz_gd7QDC-nCkZyTOrAOSj6r57wLkxOTK-7o9e_x5eI&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "첨부되어 있는 컨셉 기획 설명에 따라, 게임의 컨셉 기획을 진행해 줍니다. 가능하면 10월 6일 작성해준 구성안을 발전시켜주면 좋습니다. 기한은 최대한 16시 30분까지, 늦어도 오늘(20일) 중에는 댓글로 제출해 주셔야 합니다. 첨부파일 컨셉기획서샘플.docx 첨부파일 2_게임개발자기획소양교육_김완종.pdf",
-   "url": "https://cafe.naver.com/designgumi/70966?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRlc2lnbmd1bWkiLCJhcnRpY2xlSWQiOjcwOTY2LCJpc3N1ZWRBdCI6MTc5MjY2NzM5NDEwNX0.gr_m_ek7NYznH8zumZWw77fmEd2v0NxRLGnKsV078aI&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "모든 강좌는 선착순 마감으로 모두 접수를 서둘러주세요~ 다양한 공연과 겨울 특강, 반짝반짝 크리스마스 특강과 이벤트가 많이 준비되어 있답니다. (자세한 내용은 1DAY 특강리스트를 참고해주세요~!) 롯데마트 부평점 문화센터에서 우리아이, 우리가족, 나를 위한... 원어민영어 뮤지컬 영어뮤지컬 디지털드로잉 서예 한자 창의미술 드로잉 수채화 드럼 체스 바둑 종",
-   "url": "https://cafe.naver.com/imsanbu/80331721?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imltc2FuYnUiLCJhcnRpY2xlSWQiOjgwMzMxNzIxLCJpc3N1ZWRBdCI6MTc5MjY2NzM5NDEwNX0.kA-oZMtsJw3Doz5VFLpWKIuVVBdO0ZpeUkYw9exowko&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "⭐️어린이 참여 공연 [아빠와난 초등1학년]_대전 관람연령 : 36개월부터 초등 고학년까지 다 같이 봐도 즐거운 가족 공연 ⭐️예비 초등학생 필수 관람 공연. 입학 준비는 이 공연 하나로 끝!!⭐️ 어린이들이 공연에 참여하는 소통 공연 - 아이들이 무대위에서 배우와 함께 여러가지 게임과 체험을 할 수 있는 씬들을 마련한 어린이 참여 공연 ✨입학을 앞둔 예비",
-   "url": "https://cafe.naver.com/playthebusan/304?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBsYXl0aGVidXNhbiIsImFydGljbGVJZCI6MzA0LCJpc3N1ZWRBdCI6MTc5MjY2NzM5NDEwNX0.c5jyWV_0TCJGui_fAXrIQ_lerZ-SfjNBX0Y3zjtlQAs&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "신화의 국화동산, 올해 전시·공연은 뭐가 다른가 이번 국향대전의 주제는 '신화의 국화동산'입니다. 대형 국화 기획작품과 국화 분재 작품을 중심으로, 형형색색의 국화가 어우러진 가을 풍경을 연출한다고 합니다. 국화 전시만 보는 게 아니라 문화·공연·체험 콘텐츠도 함께 마련돼 가족 단위나 연인끼리 머물며 즐기기 좋은 구성입니다. 공연 라인업으로는 KCM, 더원",
-   "url": "https://cafe.naver.com/festivalnote/45?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZlc3RpdmFsbm90ZSIsImFydGljbGVJZCI6NDUsImlzc3VlZEF0IjoxNzkyNjY3Mzk0MTA1fQ.ga67XBdFI7WaA0YWVj-VkA8PFJOIIorq81j9dnZ_A_c&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "주제는 '가족과 함께, 숲에서 만나는 예술'로, 조용히 걷고 쉬며 즐기기 좋은 축제예요. 오후 2시부터 잔디원에서는 기타리스트 김진산, 뮤지컬 배우 진주영, 피아니스트 원요한이 참여하는 숲속 음악회가 열리고, 메타세쿼이아원에는 돗자리와 색연필, 도서로 구성된 '북크닉 세트'를 빌려 책을 읽을 수 있는 숲속 도서관도 꾸려져요. 숲속 놀이터에서는 국화차 시음과",
-   "url": "https://cafe.naver.com/festivalnote/43?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZlc3RpdmFsbm90ZSIsImFydGljbGVJZCI6NDMsImlzc3VlZEF0IjoxNzkyNjY3Mzk0MTA1fQ.9mSZDLBSHW9mdRHl4H6B_0ocXLCrRZERK6VcRGeVgE0&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "21대전지+시트+안내장 7500원 여분 17. 21대우표첩외 3종 대전둔산철인 39000원 18. 14회잼버리대회 12000원 19. 72년... 가족계획비둘기(반접힘) 34000원 31. 표주박모양주전자 151800원(액면가) 32. 국회의사당(반접힘) 10000원 33. 제21대... 창작뮤지컬 12800원 85. 한국의 희극인 6400원 86. 채소꽃",
-   "url": "https://cafe.naver.com/philatelyst/473956?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBoaWxhdGVseXN0IiwiYXJ0aWNsZUlkIjo0NzM5NTYsImlzc3VlZEF0IjoxNzkyNjY3Mzk0MTA1fQ.2mR89E0ktAWvc8Cb7Q4zE07_dEvvbdFR-xnqy6_fxVk&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "무단전재, 재배포 및 AI학습 이용 금지 #SBS #2026SBS가요대전 #SBS가요대전 ============= 라이프&컬처채널 컬처블룸 문화채널, 인플루언서, 체험단, 리뷰단, 맛집, 여행, 뷰티, 푸드, 육아, 교육, 공연, 전시, 영화, 도서, 책, 공연정보, 뮤지컬정보, 연극정보, 콘서트정보, 전시회정보, 영화정보, 도서정보, 서평단, 리뷰단, 체",
-   "url": "https://cafe.naver.com/culturebloom/3401954?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImN1bHR1cmVibG9vbSIsImFydGljbGVJZCI6MzQwMTk1NCwiaXNzdWVkQXQiOjE3OTI2NjczOTQxMDV9.v7-okq8NzqHFw7BPc6VkqKbyjEipebjKrZqowMfhA4I&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "음악회와 뮤지컬 같은 기념행사가 이어졌습니다. 같은 해 7월에는 천주교 복합예술공간 '기억과 희망 성당'도 준공되었습니다. ■ 솔뫼성지... 연합뉴스와 동아일보 보도에 따르면 새로 단장한 공간에 대전교구 역사관과 '김대건 신부 집안 기념관'이 들어섰고, 집안 기념관은 4대에 걸친 순교자들의 이야기를 조형물과 가계도로 풀어 놓아 김대건 신부 곁의 가족들까지 ",
-   "url": "https://cafe.naver.com/910401/508?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjkxMDQwMSIsImFydGljbGVJZCI6NTA4LCJpc3N1ZWRBdCI6MTc5MjY2NzM5NDEwNX0.q6yf4PXGYmBmPdO2GLcEOEkY1adl8Ybap_D-ubHwje8&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "크리스마스 당일과 연말연시 회차가 포함돼 있어 가족 단위나 연말 모임으로 관람을 계획하는 사람이 많을 걸로 보인다. 일반 예매는 10월 29일 목요일 오후 2시에 시작되고, 샤롯데씨어터 회원과... 어떤 회차를 노리고 계신지 댓글로 남겨주세요. [ 사진 출처 : 네이버 포토뉴스 ] 함께 보면 좋은 글 겨울왕국 뮤지컬 예매 오픈 일정, 12월 크리스마스 회차",
-   "url": "https://cafe.naver.com/ticketingnote/67?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRpY2tldGluZ25vdGUiLCJhcnRpY2xlSWQiOjY3LCJpc3N1ZWRBdCI6MTc5MjY2NzM5NDEwNX0.YXrukbVpBQeXXb16jKwXkSSkve-AT_dyqmvTJVBszqE&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "━━━━━━━━ !!!!!!!상상발전소 최고흥행작<오즈의 크리스마스> 전체 배우모집!!!!!!!! / 페이 240~300만원 / 마감날짜 2026-10-20 & ━━━━━━━━ 겨울공연 작품 오디션 공고! / 페이 협의 후 결정 / 마감날짜 2026-11-10 ━━━━━━━━ 뮤지컬<특.별.반>찾아가는 공연 배우 모집 / 페이 협의 후 결정 / 마감날짜 2",
-   "url": "https://cafe.naver.com/cktmdduf/465869?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNrdG1kZHVmIiwiYXJ0aWNsZUlkIjo0NjU4NjksImlzc3VlZEF0IjoxNzkyNjY3Mzk0MTA1fQ.IewBFm21rpMatYyVoJsJ4_ph_2qoTRK4lPxySF9FuGo&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "소개 2026.11.05.(목) ~ 2027.01.03.(일) 대전 상상아트홀 공연시간 정보 예매 가능 시간: 관람 1시간 전 까지 평일(목, 금) 19:30 토요일 15:00 18:00 일요일 15:00 *12/25(크리스마스) 15:00 18:00 *1/1(신년) 15:00 공연 공지사항 관람 안내사항 할인정보 문화누리카드 사용 시, 전화 예약 후 현장",
-   "url": "https://cafe.naver.com/bluegraydnbk8/153499?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJsdWVncmF5ZG5iazgiLCJhcnRpY2xlSWQiOjE1MzQ5OSwiaXNzdWVkQXQiOjE3OTI2NjczOTQxMDV9._2E9gHiLSw_lPFtpP5Rxael4Zi8TweApj9HqvIZbg1g&q=%eb%8c%80%ec%a0%84%20%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%20%ea%b0%80%ec%a1%b1%eb%ae%a4%ec%a7%80%ec%bb%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "같이 볼만한 공연 연극 등 있을까요? 크리스마스때 보여주고싶어서요 나이차가 나서 애매한데 그래도 맞춰야겠죠? ^^새 창 열림",
-   "url": "https://cafe.naver.com/ksn82599/322734?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtzbjgyNTk5IiwiYXJ0aWNsZUlkIjozMjI3MzQsImlzc3VlZEF0IjoxNzkyNjY3Mzk2Nzk5fQ.p3fSOHZWy95dYJzUBO25nPayRira8jGmJN6ZvDUg-jU",
-   "engine": "naver_all",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "착한공연만원의행복 가족뮤지컬<빨간코 루돌프의크리스마스> - 대전 | 티켓링크새 창 열림",
-   "url": "https://m.ticketlink.co.kr/product/65585?couponDownload=true",
-   "engine": "naver_all",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "정보공유 ▶ 유아교육 현장에서 유용한 팁·노하우·꿀정보를 알려주세요. 인증자랑 ▶ 직접 해본 것을 인증하거나 자랑해주세요. ✨ 후기 ▶ 유아교육 현장에서 유용한 자료 사용기·방문기·경험담을 나누어주세요. 질문&답변 ▶ 궁금한 점을 묻고 서로 답해주세요. 너무 터무니없는 거 말고 진짜 실현 가능한? 선에서 ㅎㅎ 복지 생겼으면 하는거 뭐가 있을까요? 저는 우선",
-   "url": "https://cafe.naver.com/yuasam/979404?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Inl1YXNhbSIsImFydGljbGVJZCI6OTc5NDA0LCJpc3N1ZWRBdCI6MTc5MjY2NzM5Njc5OX0.aremBRotyz_HI1tHJzkwwqGOQZJldWKzSrvyhAo-rFE",
-   "engine": "naver_all",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "이브랑 당일 둘중에 하루는 방콕이고 하루는 7살 5살 아이들 데리고 나가고싶은데 가까운데 어디를 가야할지 고민되네요ㅠㅠ새 창 열림",
-   "url": "https://cafe.naver.com/ksn82599/323154?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtzbjgyNTk5IiwiYXJ0aWNsZUlkIjozMjMxNTQsImlzc3VlZEF0IjoxNzkyNjY3Mzk2Nzk5fQ.vdXNyu7k4IrKee9XkdFCbQltU28kKvbbi9Z2sho78OI",
-   "engine": "naver_all",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "개신교 가족 부모님, 누나, 동생 반려견 고대니 (2013년생, 잉글리시 코커 스파니엘) 별명 실버캐슬: 실버... 핫가이(대전계 미국인): 2022년 공연에 반하다에서 그 외 뮤지컬 역할에 따라 고라이토, 고영실, 고휴이... 인 크리스마스 2022 미라클라스, 시리우스 콘서트 2021 흉스프레소 단독 콘서트 : 더블샷 2021 팬텀 카니발 2021...",
-   "url": "https://cafe.naver.com/eunsungko/10737?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImV1bnN1bmdrbyIsImFydGljbGVJZCI6MTA3MzcsImlzc3VlZEF0IjoxNzkyNjY3Mzk2Nzk5fQ.9IIhNzMp9zM7S2U7FMhAhLKGclViY_ayd7bNqTRgOY0",
-   "engine": "naver_all",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "용인관광 10월 소식 공연 일정 ▪️용인시립합창단 기획공연 가족뮤지컬 <콩쥐와 마법친구들> 용인의 문화 예술을... 장소 용인포은아트홀 관람료 R석 77,000원 S석 66,000원 ▪️미디어아트 뮤지컬 <파랑새> 크리스마스 전날 밤 틸틸과... 장소 용인포은아트갤러리 관람료 무료 ▪️제13회 대한민국 미르인 예술대전[전시] 제13회 대한민국 미르인... ",
-   "url": "https://blog.naver.com/touryongin/224425675409",
-   "engine": "naver_all",
-   "query": "대전 크리스마스 가족뮤지컬",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "그런데 막상 부모님 모시고 가려니 일정이랑 가격, 예매 타이밍까지 챙길 게 한두 가지가 아니 2026년 조용필과 위대한탄생의 전국투어 콘서트가 이어지고 있어요. 서울에서는 KSPO돔(옛 올림픽체조경기장)에서 11월 공연이 예정돼 있고, 대전에서는 대전컨벤션센터(DCC) 제2전시장에서 12월 26일 토요일 공연이 잡혀 있습니다. 대전 공연은 공연 정보 시스템",
-   "url": "https://blog.naver.com/story-83/224450087881",
-   "engine": "naver_blog",
-   "query": "대전 12월 어린이 공연 예매",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "12월 12일 토요일 오후 6시 12월 13일 일요일 오후 5시 장소: 벡스코 제1전시장 대구 콘서트 12월 19일 토요일 오후 6시 장소: 엑스코 서관 대전 콘서트 12월 26일 토요일 오후 6시 장소: DCC 제2전시장 서울은 11월 27일 오후 7시, 28일 오후 6시, 29일 오후 5시에 진행됩니다. 광주와 인천 공연은 각각 오후 6시에 시작합니다.",
-   "url": "https://blog.naver.com/flowerday77/224450483904",
-   "engine": "naver_blog",
-   "query": "대전 12월 어린이 공연 예매",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "성수 메가박스 상영시간표 예매 주차정보 요약정리 총정리 상암월드컵경기장 메가박스 상영시간표 실시간... 대전 현대... 목동, 상암월드컵경기장 11일: 동대문, 홍대 (12일~ 없음), 기준은 6일 오전 1시 25분 10일~18일 상영표가 없는... 아까 제... 이번 어린이날에 친구랑 같이 공기살인 영화보려고 하는데 마포구 홍대 주변 영화관 중에서 공기살",
-   "url": "https://lefthusband.tistory.com/613",
-   "engine": "naver_blog",
-   "query": "대전 12월 어린이 공연 예매",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "사람이면 12만 원입니다. 정가 기준 계산으로 예매 수수료·교통비·식비는 제외했습니다. 어린이 입장권 규정은 따로 확인하세요. 부산시민 10% 할인, R석 9만 원·S석 6만 3천... 공연 세부 순서도 공식 행사 일정표 (https://busanfireworks.com/program/schedule.php?utm_source=chatgpt.com)에서 확",
-   "url": "https://blog.naver.com/hbc3927/224450481047",
-   "engine": "naver_blog",
-   "query": "대전 12월 어린이 공연 예매",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "공연장에는 어린이와 청소년도 즐길 수 있는 안전한 공간이 마련되어 있어 가족 모두가 편안하게 관람할 수 있습니다.... 2026 타임캡슐슈퍼콘서트 일산 핵심정보 항목 내용 공연 일시 12월 5일 일산 킨텍스 9홀 출연 아티스트 룰라 김현정 R.ef 등 공연 시간 약 3시간 진행 교통 지하철 및 주차 편리 티켓 예매 공식 채널 한 달 전 시작 #타임캡슐슈퍼콘",
-   "url": "https://blog.naver.com/lmcpqxkcfjx/224450474516",
-   "engine": "naver_blog",
-   "query": "대전 12월 어린이 공연 예매",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "구분 요금 종일 어른 49,000원 종일 청소년 44,000원 종일 어린이 39,000원 야간 어른 35,000원 야간 청소년 33,000원 야간... 현장 매표소에서 결제해요 E-달의 혜택은 홈페이지에서 스마트예매로 사는 분이 대상이고, 할로윈 타투 스티커가... 시간은 모두 공식 공연&이벤트 페이지 기준이에요. 시간 프로그램 12:00 펌킨 매직 포토타",
-   "url": "https://blog.naver.com/imojeomo0o/224450470190",
-   "engine": "naver_blog",
-   "query": "대전 12월 어린이 공연 예매",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "구분 공연 일정 공연명 2026 이찬원 콘서트 찬스 감사제 : 함께여서 찬란했습니다 공연 기간 2026년 12월 18일(금)~12월 20일(일) 1회차 12월 18일(금) 오후 7시 2회차 12월 19일(토) 오후 5시 3회차 12월 20일(일) 오후 5시 공연 시간 약 120분 공연 장소 킨텍스 제1전시장 5홀 관람 등급 초등학생 이상 공식 예매처 예스2",
-   "url": "https://blog.naver.com/leakhomecare/224450468835",
-   "engine": "naver_blog",
-   "query": "대전 12월 어린이 공연 예매",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "연말 무대가 크리스마스 이틀로 늘어난다면 어느 날 가야 할까요, 2026 SBS 가요대전은 12월 24일과 25일 킨텍스에서... 2016년 SBS 가요대전 무대에서 공연하는 가수 JB예요. 올해 출연진과는 무관한 지난 행사 참고 사진이에요. (사진... 예매 전 공식 공지 확인 현재 발표에서 확인되는 핵심은 12월 24일과 25일 일정, 일산 킨텍스 장소",
-   "url": "https://blog.naver.com/popconlog/224449509173",
-   "engine": "naver_blog",
-   "query": "대전 12월 어린이 공연 예매",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "2026년 10월 21일 확인한 서울 잠실 롯데월드 공식 행사에는 4월 1일부터 12월 31일까지의 당일 온라인·모바일 예매... 최종 예매 화면을 기준으로 보세요. 공식 연령 기준은 어른 19세 이상, 청소년 13~18세, 어린이는 36개월 이상~12세로... 시간대별 시설 운영과 공연을 확인해 내가 이용할 시간에 맞는 표를 고르는 것이 우선입니다. 4.",
-   "url": "https://blog.naver.com/goodcouponmoa/224450462974",
-   "engine": "naver_blog",
-   "query": "대전 12월 어린이 공연 예매",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "2026년 11월 전국 축제 일정 축제명 지역 2026년 일정 대한민국 국향대전 전남 함평 10월 23일~11월 8일 마산가고파국화축제... 사과 관련 체험과 농특산물 판매, 문화공연 등을 즐길 수 있어 가족 단위 여행객에게도 추천합니다. 청송의 가을... 유료 관람석은 별도 예매가 필요할 수 있습니다. 8. 고흥유자축제｜향긋한 남도 가을여행 기간: 202",
-   "url": "https://blog.naver.com/skyminzii/224450446868",
-   "engine": "naver_blog",
-   "query": "대전 12월 어린이 공연 예매",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "유료좌석을 예매했다면 공연 시작시간보다 현장 도착 마감시간을 더 중요하게 확인해야 합니다. 02 | 부산불꽃축제... 어린이나 청소년은 학생증, 청소년증, 가족관계증명서 또는 등본 등이 증빙자료로 안내돼 있습니다. 증빙자료가 없으면... 10월 11일까지 예매한 일반 티켓만 사전 일괄 배송 대상이고, 10월 12일부터 예매한 일반 티켓은 모두 현장 수령입니",
-   "url": "https://blog.naver.com/jjun6334/224450289137",
-   "engine": "naver_blog",
-   "query": "대전 12월 어린이 공연 예매",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "온라인 예매 : 8,000원 우대요금 : 5,000원(해당 조건 충족 시) 주차 : 경주엑스포대공원 전용 주차장 중요한 점은 10월 31일이 아니라 24일에 종료된다는 것! 할로윈 당일에 방문하려던... 전국 서점과 출판사, 창작자 등 20곳이 참여하는 북페어부터 어린이 독서골든벨, 비눗방울 마술공연, 플리마켓, 작가 북토크까지 다양하게 준비되어 있어요. ",
-   "url": "https://blog.naver.com/goeb4785/224450442138",
-   "engine": "naver_blog",
-   "query": "대전 12월 어린이 공연 예매",
-   "first_seen": "2026-10-22T20:07:47+09:00"
-  },
-  {
-   "title": "라이브네이션코리아가 주관하며 일반 예매는 10월 22일 정오에 열리고, 예매 수량은 1인당 2매로 제한된다. 앞선 내한 공연이 뜨거운 반응 속에 마무리된 만큼 이번 사흘 일정 역시 높은 경쟁률이 예상된다. 더 보컬 대전 공연은 12월 25일 금요일 오후 6시 대전대학교 맥센터에서 열린다. KCM, 고유진, 더원 세 보컬리스트가 한 무대에 서는 조인트 형식의",
-   "url": "https://blog.naver.com/louisvuittton/224450419741",
-   "engine": "naver_blog",
-   "query": "대전 12월 어린이 공연 예매",
-   "first_seen": "2026-10-22T20:07:47+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+ ]
 }

@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T17:07:46+09:00",
+ "updated": "2026-10-23T21:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 2,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "\"한국행 특가 항공권과 기내면세 할인 놓치지 마세요\" - 미주조선일보",
@@ -376,22 +376,6 @@
    "engine": "gnews",
    "query": "알래스카항공 한국 프로모션",
    "first_seen": "2026-10-17T02:07:41+09:00"
-  },
-  {
-   "title": "알래스카항공, 국제선에 '셰프 협업 기내식' 확대...\"현지의 풍미 담은 정교한 요리\" - 팍스경제TV",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JV3VteDgxdGpVNE1XM283azRXck5yTDNWMzU5Rk41QzZCZjg5b1Fyd05DdDJ3MUZUN0FIeFRibHRIdjcwS0NsaEVvV3FKcTBJb3JnMFFjZ1ZSS0o1RlROeXNsaHBlWjQ?oc=5",
-   "pub": "Fri, 16 Oct 2026 12:04:43 GMT",
-   "engine": "gnews",
-   "query": "알래스카항공 한국 프로모션",
-   "first_seen": "2026-10-16T21:07:42+09:00"
-  },
-  {
-   "title": "\"한국행 특가 항공권과 기내면세 할인 놓치지 마세요\" - 미주조선일보",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLXVlT1l6YjViU0ZaOUFFYm1SdjlWV3ZHVnNTcjhzOVY0cTV3UmpsVUU0eHBRd3J6UU1ZZTA2YXhhbWVsdGZHc0UxZTZ1WnJ4VHdyaTdSUmJ6MXhPZTF1WEZmV0U1cGR3Z3FvbmNrSkF6VV9XdkpPaFlBbElzMlBLdi1aU2dWZkJjUVR5cHl2Tlg4eUpTaUY2VTBsRWZYa1ZZYXNGUl9hVHhGNUhZcWJPSjZRWGxPX0I0dFB5R092TzBZcnRXTVM2cm9hVUVMT0tx?oc=5",
-   "pub": "Thu, 15 Oct 2026 22:37:02 GMT",
-   "engine": "gnews",
-   "query": "아시아나 미주 특가",
-   "first_seen": "2026-10-16T19:07:40+09:00"
   }
  ],
  "errors": []
