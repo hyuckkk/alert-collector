@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T21:07:47+09:00",
+ "updated": "2026-10-23T22:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 46,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "산청군, 단풍객 ′반값 플렉스 여행′ 3차 사전신청 접수 - KPI뉴스",
@@ -22469,5 +22469,36 @@
    "first_seen": "2026-10-19T03:18:07+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '가족 여행비 지원 모집': HTTP Error 503: Service Unavailable",
+  "gnews '숙박 할인 쿠폰 지원': HTTP Error 503: Service Unavailable",
+  "gnews '숙박세일페스타': HTTP Error 503: Service Unavailable",
+  "gnews '반값여행 신청': HTTP Error 503: Service Unavailable",
+  "gnews '지역화폐 캐시백 방문객': HTTP Error 503: Service Unavailable",
+  "gnews '한달살기 모집 가족': HTTP Error 503: Service Unavailable",
+  "gnews '농촌체험 가족 무료': HTTP Error 503: Service Unavailable",
+  "gnews '섬여행 지원 신청': HTTP Error 503: Service Unavailable",
+  "gnews '다자녀 가족 무료 체험': HTTP Error 503: Service Unavailable",
+  "gnews '다자녀 할인 대전': HTTP Error 503: Service Unavailable",
+  "gnews '가족캠프 무료 모집': HTTP Error 503: Service Unavailable",
+  "gnews '1박2일 가족 무료 프로그램': HTTP Error 503: Service Unavailable",
+  "gnews '국가유산 답사 모집': HTTP Error 503: Service Unavailable",
+  "gnews '궁궐 가족 체험 신청': HTTP Error 503: Service Unavailable",
+  "gnews '추수 체험 가족 모집': HTTP Error 503: Service Unavailable",
+  "gnews '휴양림 무료 숙박 가족': HTTP Error 503: Service Unavailable",
+  "gnews '문화누리 이용권 추가': HTTP Error 503: Service Unavailable",
+  "gnews '철도 할인 가족': HTTP Error 503: Service Unavailable",
+  "gnews '무료 체험 추첨 가족 모집': HTTP Error 503: Service Unavailable",
+  "gnews '여행가는 달 혜택': HTTP Error 503: Service Unavailable",
+  "gnews '여행가는 가을 지역 혜택': HTTP Error 503: Service Unavailable",
+  "gnews '웰촌 기획전': HTTP Error 503: Service Unavailable",
+  "gnews '국립 과학관 개관 무료': HTTP Error 503: Service Unavailable",
+  "gnews '배낚시 할인 여행가는': HTTP Error 503: Service Unavailable",
+  "gnews '충북 가족 행사 사전신청': HTTP Error 503: Service Unavailable",
+  "gnews '충남 가족 체험 사전신청 무료': HTTP Error 503: Service Unavailable",
+  "gnews '어린이 가족 피크닉 신청': HTTP Error 503: Service Unavailable",
+  "gnews '청주 가족 체험 모집': HTTP Error 503: Service Unavailable",
+  "gnews '공주 논산 가족 체험 모집': HTTP Error 503: Service Unavailable",
+  "gnews '반값여행 신청접수중 선착순': HTTP Error 503: Service Unavailable"
+ ]
 }

@@ -1,8 +1,15 @@
 {
- "updated": "2026-10-23T21:07:47+09:00",
+ "updated": "2026-10-23T22:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 108,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "기자 = 경기 양주시는 30일부터 내달 1일까지 경기 양주시 가납리비행장 일원에서 개최되는 ‘2026 경기·양주·지작사 드론봇 페스티벌’을 앞두고 안전관리계획을 점검했다고 20일 밝혔다. 시는 지난 19일 양주시 주관으로 안전관리실무위원회를 열고 축제 안전...",
+   "url": "http://v.daum.net/v/20261020153733150",
+   "engine": "daum_news",
+   "query": "드론봇 페스티벌",
+   "first_seen": "2026-10-23T22:07:48+09:00"
+  },
   {
    "title": "육군항공사령부, 부대 개방…블랙호크 등 헬기 탑승 체험 - 파이낸셜뉴스",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pOW5landXYnRwcERoRjRFM2xiNHVQQU1OcVlHSURDczZtdUZmT3Vvc3hFTDlrdzRCRmZXTDZ6NVFVek1iT3otaTBsRTFHZUJHb09JS2l6NzhKUQ?oc=5",
@@ -21384,14 +21391,38 @@
    "engine": "naver_cafe",
    "query": "전차 탑승 체험",
    "first_seen": "2026-10-20T18:07:34+09:00"
-  },
-  {
-   "title": "[에노덴티켓포함] 가마쿠라 필수명소 & 요코하마 1일 버스투어 (1명도 출발) 상품·가격 확인하기 예약 전 참고할 점 예약 전 확인할 핵심... · 유아 및 아동 탑승 · 만 3세 미만 유아는 보호자 동반 시 탑승 가능하나, 별도의 좌석 또는 카시트는 제공되지 않습니다. 이 상품의 장점 수집 시점 기준 평점 4.8, 후기 85개로 확인돼요. 후기 평가 항목",
-   "url": "https://cafe.naver.com/freebout01/84360?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZyZWVib3V0MDEiLCJhcnRpY2xlSWQiOjg0MzYwLCJpc3N1ZWRBdCI6MTc5MjQ4ODA5MDI0Mn0.jYdB6OfXHZUcJ-uYXbdXdMhnofp_9jYQhRWFy6QtMWM&q=%ec%a0%84%ec%b0%a8%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "전차 탑승 체험",
-   "first_seen": "2026-10-20T18:07:34+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '헬기 탑승 체험 모집': HTTP Error 503: Service Unavailable",
+  "gnews '헬기 탑승 네이버폼': HTTP Error 503: Service Unavailable",
+  "gnews '수리온 탑승': HTTP Error 503: Service Unavailable",
+  "gnews '군용기 탑승 체험': HTTP Error 503: Service Unavailable",
+  "gnews '비행장 개방 체험 신청': HTTP Error 503: Service Unavailable",
+  "gnews '함정 공개 행사': HTTP Error 503: Service Unavailable",
+  "gnews '군함 승선 체험 신청': HTTP Error 503: Service Unavailable",
+  "gnews '잠수함 공개': HTTP Error 503: Service Unavailable",
+  "gnews '공군기지 견학 신청': HTTP Error 503: Service Unavailable",
+  "gnews '부대 개방 행사 신청': HTTP Error 503: Service Unavailable",
+  "gnews '병영캠프 가족 모집': HTTP Error 503: Service Unavailable",
+  "gnews '병영체험 가족': HTTP Error 503: Service Unavailable",
+  "gnews '전차 탑승 체험': HTTP Error 503: Service Unavailable",
+  "gnews '장갑차 탑승 체험': HTTP Error 503: Service Unavailable",
+  "gnews '상륙장갑차 탑승': HTTP Error 503: Service Unavailable",
+  "gnews '열기구 탑승 체험 신청': HTTP Error 503: Service Unavailable",
+  "gnews '드론봇 페스티벌': HTTP Error 503: Service Unavailable",
+  "gnews '지상군 페스티벌 체험': HTTP Error 503: Service Unavailable",
+  "gnews '해군 함정 공개 신청': HTTP Error 503: Service Unavailable",
+  "gnews '특전사 체험 가족': HTTP Error 503: Service Unavailable",
+  "gnews '전승행사 헬기 탑승': HTTP Error 503: Service Unavailable",
+  "gnews 'K-밀리터리 페스티벌 체험': HTTP Error 503: Service Unavailable",
+  "gnews '축제 헬기 탑승 선발': HTTP Error 503: Service Unavailable",
+  "gnews '항해체험 사전신청': HTTP Error 503: Service Unavailable",
+  "gnews '해양페스티벌 함정 공개': HTTP Error 503: Service Unavailable",
+  "gnews '함대 부대개방 축제': HTTP Error 503: Service Unavailable",
+  "gnews '해군 기지 개방 축제 신청': HTTP Error 503: Service Unavailable",
+  "gnews '함정 승선 체험 구글폼': HTTP Error 503: Service Unavailable",
+  "gnews '안보견학 함정 공개 가족': HTTP Error 503: Service Unavailable",
+  "gnews '해병대문화축제 탑승': HTTP Error 503: Service Unavailable"
+ ]
 }
