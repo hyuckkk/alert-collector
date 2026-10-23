@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T04:37:32+09:00",
+ "updated": "2026-10-24T05:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -344,14 +344,6 @@
    "engine": "gnews",
    "query": "대한항공 미주 프로모션 2027",
    "first_seen": "2026-10-17T07:07:37+09:00"
-  },
-  {
-   "title": "아시아나, 미주~인천행 비즈니스석 7% 할인 특가 - 미주조선일보",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTk5jM3VlNEgyNThvTWVhSnoyVzdMX3ZQUmFoV25Od1ZxNm44UDRVRnljazZ2QVB1Z1M5MHd4ekNHNVF4WGlZV05hWl84WjFKS2FJUWhKMzFzMWZnYWpGQUhWaHlMZDQ5ZlNpb0FNT0JKanlsVzltd1l4blYtbFZrZHliUllXZ0pqSUdlNDQ4QXdzN285QjZWOEYxMFA4RjhMYXNjR0RORGlrSnI1TGQxc2VvWXd0MmZ2WFdsWVpFT2VFMTAwTjRfWWpjUXl4Z1VzQ2c?oc=5",
-   "pub": "Sun, 11 Oct 2026 18:37:29 GMT",
-   "engine": "gnews",
-   "query": "아시아나 미주 특가",
-   "first_seen": "2026-10-17T05:07:41+09:00"
   }
  ],
  "errors": []
