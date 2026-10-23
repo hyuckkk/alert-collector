@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T22:07:48+09:00",
+ "updated": "2026-10-23T23:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -6816,17 +6816,17 @@
   }
  ],
  "errors": [
-  "gnews '수산대전': HTTP Error 503: Service Unavailable",
-  "gnews '수산대전상품권': HTTP Error 503: Service Unavailable",
-  "gnews '수산물 할인 쿠폰': HTTP Error 503: Service Unavailable",
-  "gnews '제로페이 수산 이벤트': HTTP Error 503: Service Unavailable",
-  "gnews '온누리상품권 환급 행사': HTTP Error 503: Service Unavailable",
-  "gnews '온누리상품권 할인율': HTTP Error 503: Service Unavailable",
-  "gnews '전통시장 수산물 환급': HTTP Error 503: Service Unavailable",
-  "gnews '수산물 소비촉진 이벤트 응모': HTTP Error 503: Service Unavailable",
-  "gnews 'site:fsale.kr 환급 참여시장': HTTP Error 503: Service Unavailable",
-  "gnews '대전 세종 충남 전통시장 수산물 환급 일정': HTTP Error 503: Service Unavailable",
-  "gnews '수산대전 온라인 쿠폰 마트 중복 할인': HTTP Error 503: Service Unavailable",
-  "gnews '디지털 온누리 특별할인 캐시백 한도': HTTP Error 503: Service Unavailable"
+  "gnews '수산대전': HTTP Error 429: Too Many Requests",
+  "gnews '수산대전상품권': HTTP Error 429: Too Many Requests",
+  "gnews '수산물 할인 쿠폰': HTTP Error 429: Too Many Requests",
+  "gnews '제로페이 수산 이벤트': HTTP Error 429: Too Many Requests",
+  "gnews '온누리상품권 환급 행사': HTTP Error 429: Too Many Requests",
+  "gnews '온누리상품권 할인율': HTTP Error 429: Too Many Requests",
+  "gnews '전통시장 수산물 환급': HTTP Error 429: Too Many Requests",
+  "gnews '수산물 소비촉진 이벤트 응모': HTTP Error 429: Too Many Requests",
+  "gnews 'site:fsale.kr 환급 참여시장': HTTP Error 429: Too Many Requests",
+  "gnews '대전 세종 충남 전통시장 수산물 환급 일정': HTTP Error 429: Too Many Requests",
+  "gnews '수산대전 온라인 쿠폰 마트 중복 할인': HTTP Error 429: Too Many Requests",
+  "gnews '디지털 온누리 특별할인 캐시백 한도': HTTP Error 429: Too Many Requests"
  ]
 }
