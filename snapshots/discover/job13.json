@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-23T23:07:48+09:00",
+ "updated": "2026-10-23T23:58:17+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "NH투자증권, DB 5·7년·IRP 3년 원리금보장 수익률 1위 - 화이트페이퍼",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsQWRGN1hsbDVMWTRSR0I3cnY3WkJjaFh3czVTWFhzZ1RTYTF6STlyNXhvNEMzTE9Dd1M0d3pZM2U3OGt6ck5KLUx6bzMxb0V3d3llbHYwRWoxV3NGenB2LWdwTTRkcjBrUnNiNzUwLWrSAXNBVV95cUxQNFpfeDlzbXd0RVU3aXJSZDRxX1JlbzJmTlhobnVfMzhGWnhrdjl4c3p5UlBkbjl5Q2tsQ2QxZm1rZFVoeDNQOHRwMjBpZFNpT1ZtTHMwUm1kbnI1Snp6amxFYjNXaWJGeHhtQm9ndF9ITlNR?oc=5",
+   "pub": "Fri, 23 Oct 2026 08:05:48 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-10-23T23:58:17+09:00"
+  },
   {
    "title": "롯데칠성 캪틴큐 11년 만에 재출시…한정판 완판 : 기업·산업 - 재경일보",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91QnJSZW9faHdEamtOYkRVM2NKTFRMOGVsQUp6aTZCOGY0RDJ0dUZlTkJnYmw4Q2k2aFd4bXYtUW41LTBpUmRWZVcwOA?oc=5",
@@ -1614,36 +1622,5 @@
    "first_seen": "2026-10-17T00:07:42+09:00"
   }
  ],
- "errors": [
-  "gnews '기념주화 발행 계획': HTTP Error 429: Too Many Requests",
-  "gnews '기념주화 예약 접수': HTTP Error 429: Too Many Requests",
-  "gnews '한국은행 기념주화': HTTP Error 429: Too Many Requests",
-  "gnews '조폐공사 골드바 출시': HTTP Error 429: Too Many Requests",
-  "gnews '조폐공사 기념메달 판매': HTTP Error 429: Too Many Requests",
-  "gnews '조폐공사 한정판 금화': HTTP Error 429: Too Many Requests",
-  "gnews '현용주화 세트 판매': HTTP Error 429: Too Many Requests",
-  "gnews '프루프 주화 세트': HTTP Error 429: Too Many Requests",
-  "gnews '기념은행권 발행': HTTP Error 429: Too Many Requests",
-  "gnews '연결형 은행권 판매': HTTP Error 429: Too Many Requests",
-  "gnews '특수번호 은행권 경매': HTTP Error 429: Too Many Requests",
-  "gnews '은행 골드바 한정 판매': HTTP Error 429: Too Many Requests",
-  "gnews '은행 기념 골드바 출시': HTTP Error 429: Too Many Requests",
-  "gnews '교황 방한 기념주화': HTTP Error 429: Too Many Requests",
-  "gnews '세계청년대회 기념주화': HTTP Error 429: Too Many Requests",
-  "gnews '특판 적금 고금리': HTTP Error 429: Too Many Requests",
-  "gnews '특판 예금 연 7%': HTTP Error 429: Too Many Requests",
-  "gnews '개인투자용 국채 청약': HTTP Error 429: Too Many Requests",
-  "gnews '개인투자용 국채 금리': HTTP Error 429: Too Many Requests",
-  "gnews '조폐공사 한정 출시': HTTP Error 429: Too Many Requests",
-  "gnews '기념주화 한정판매': HTTP Error 429: Too Many Requests",
-  "gnews '조폐공사 실버바 출시': HTTP Error 429: Too Many Requests",
-  "gnews '십이간지 실버바': HTTP Error 429: Too Many Requests",
-  "gnews '조폐공사 예약판매 콜라보': HTTP Error 429: Too Many Requests",
-  "gnews '해외 조폐국 기념주화 국내 공식 판매': HTTP Error 429: Too Many Requests",
-  "gnews '프루프 민트 세트 한정 실버바': HTTP Error 429: Too Many Requests",
-  "gnews '한국은행 특수번호 은행권 경매 일정': HTTP Error 429: Too Many Requests",
-  "gnews '조폐공사 은메달 추가 판매': HTTP Error 429: Too Many Requests",
-  "gnews '풍산화동양행 신상품': HTTP Error 429: Too Many Requests",
-  "gnews '풍산화동양행 기념주화 판매': HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
