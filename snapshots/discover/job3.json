@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T23:58:17+09:00",
+ "updated": "2026-10-24T00:07:54+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -19141,14 +19141,6 @@
    "engine": "gnews",
    "query": "이해원 공연",
    "first_seen": "2026-10-17T04:07:39+09:00"
-  },
-  {
-   "title": "이적·김진표, 연말에도 패닉으로 뭉친다…12월 단독 콘서트 개최 - 매일경제",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93TXdHRDRmMlJ4akRfRWZMV2NwZzZSWEZwZW9rcmtJeDhjTjk1S0pvZ25FMjNTVGlhTURja09vSUthVEplalg1RUFvdDFVdw?oc=5",
-   "pub": "Thu, 15 Oct 2026 06:36:44 GMT",
-   "engine": "gnews",
-   "query": "이적 콘서트",
-   "first_seen": "2026-10-17T00:07:42+09:00"
   }
  ],
  "errors": []
