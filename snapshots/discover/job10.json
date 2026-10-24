@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T04:26:39+09:00",
+ "updated": "2026-10-25T05:07:45+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -14566,14 +14566,6 @@
    "engine": "gnews",
    "query": "대전 중구 가족 체험",
    "first_seen": "2026-10-18T06:07:35+09:00"
-  },
-  {
-   "title": "전월산캠핑장, ‘세종의 맛’ 요리대회 열린다 - https://www.didimkorea.net/",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QNFhaWGFZRWJkMHRva3JkZUtyT2ltTTJGN1RxVVJaUmd6Vk44M29EZFhLc0dPaWFSOUFDUmVLb09GQkttMElFdVJPUWZpSGM?oc=5",
-   "pub": "Wed, 14 Oct 2026 23:10:09 GMT",
-   "engine": "gnews",
-   "query": "세종 가족 체험 모집",
-   "first_seen": "2026-10-18T05:07:38+09:00"
   }
  ],
  "errors": []
