@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T07:25:31+09:00",
+ "updated": "2026-10-25T08:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -7938,14 +7938,6 @@
    "engine": "gnews",
    "query": "수산물 할인 쿠폰",
    "first_seen": "2026-10-18T09:56:01+09:00"
-  },
-  {
-   "title": "옥천군, 우리동네 문화장날 행사 개최 - 글로벌뉴스통신GNA",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UYkIzaEd5MEVrQzNzTEJWNE5xS3Z6SGxvMDk1TjNITHB6U3V3MGFDMjhsdTFWQlpXSjdJODljempKc1lpc0NBZ1lVRHBlYThXVl8xVElvb0JwS3RQck5HUjFKczltRHNDR2RONGJSa2RKUklW?oc=5",
-   "pub": "Wed, 14 Oct 2026 00:05:13 GMT",
-   "engine": "gnews",
-   "query": "온누리상품권 환급 행사",
-   "first_seen": "2026-10-18T08:07:34+09:00"
   }
  ],
  "errors": []
