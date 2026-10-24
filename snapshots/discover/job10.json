@@ -1,8 +1,39 @@
 {
- "updated": "2026-10-25T06:07:46+09:00",
+ "updated": "2026-10-25T07:07:45+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 4,
  "hits": [
+  {
+   "title": "재난상황 실전처럼’몸으로 체득했어요 - 다원뉴스",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02MjR6cW9vaU5JUG9YUko2OFdEdnYya09VQms3UmdaSVlna0xLTXpueTJ1cXNpa1RGNHY4UXVROVB0TTZONFRXeTRSSTRhY0NiZEMwaTdURUgzb0VCaUx0R3JkR2dMQ2ttY010MlB5TQ?oc=5",
+   "pub": "Tue, 20 Oct 2026 06:44:00 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-25T07:07:45+09:00"
+  },
+  {
+   "title": "U12) 타자상은 김예준(안산시 리틀), 퍼포먼스상은 김다온(대전 유천초)이 받았다. MVP를 받은 김도윤 군은 \"될 줄 몰랐다. 나도 다른...선배님께서 불러주신 만큼, 꼭 오려고 했다. 덕분에 아이들과 즐거운 시간을 보내고 유익했다\"고 밝혔다. 재활 중에도 참석...",
+   "url": "http://v.daum.net/v/20261025062730807",
+   "engine": "daum_news",
+   "query": "대전아이 캠프",
+   "first_seen": "2026-10-25T07:07:45+09:00"
+  },
+  {
+   "title": "반토막 난 증권주, 낙폭보다 실적…삼성·키움·NH 주목 - KPI뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UeER0Vml1UnJ5ek5qMTRjSDVNMWtXdmZWRFVMcFBJNjJ4cU0xR0xVb1ZWanFkSGd4Vy03SFZYZTNvaDZybU1FajNsVERRclE0OWc0YkcwWQ?oc=5",
+   "pub": "Fri, 23 Oct 2026 08:41:44 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-25T07:07:45+09:00"
+  },
+  {
+   "title": "\"문학동네, 우선협상대상자에 다우키움그룹 선정\"…지분 매각 가시화 - 하이테크정보",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zX3pvZXl6NnRiZmdzYTRCSnBWZjVfbVFBR255d1R1bVpLWVVfUWhNeE9FaERqYUJhRy1Xbl9ZcjJscElJZTRfRmRDUUdRbW03S3lzRmJscXpNRWVqcWtnRl8wMWwxVnFFdHc?oc=5",
+   "pub": "Sat, 24 Oct 2026 18:34:00 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-25T07:07:45+09:00"
+  },
   {
    "title": "공무원들과 가족들, 현지 시민들에게 더 가까이 다가가기 위해 세종런을 기획했다는 설명이다. 코스는 5㎞와 10㎞ 두 가지였다. 고민할 것도 없이 짧은 쪽을 골랐다. 아무리 운동을 하지 않았어도 5㎞쯤이야. 오랜만에 운동을 재개하기에 안성맞춤이란 생각이 들었다...",
    "url": "http://v.daum.net/v/20261025054706374",
@@ -14559,36 +14590,5 @@
    "first_seen": "2026-10-18T07:14:15+09:00"
   }
  ],
- "errors": [
-  "gnews '대전 아빠 자녀 체험': HTTP Error 503: Service Unavailable",
-  "gnews '대전 아빠 참여 프로그램': HTTP Error 503: Service Unavailable",
-  "gnews '대전 가족 체험 선착순': HTTP Error 503: Service Unavailable",
-  "gnews '대전 가족 프로그램 모집': HTTP Error 503: Service Unavailable",
-  "gnews '대전 초등 자녀 가족 체험': HTTP Error 503: Service Unavailable",
-  "gnews '대전 서구 통합예약 체험': HTTP Error 503: Service Unavailable",
-  "gnews '대전 서구 가족 체험': HTTP Error 503: Service Unavailable",
-  "gnews '유성구 가족 프로그램 모집': HTTP Error 503: Service Unavailable",
-  "gnews '유성구 아빠': HTTP Error 503: Service Unavailable",
-  "gnews '대전 중구 가족 체험': HTTP Error 503: Service Unavailable",
-  "gnews '대전 동구 가족 체험': HTTP Error 503: Service Unavailable",
-  "gnews '대덕구 가족 체험': HTTP Error 503: Service Unavailable",
-  "gnews '노루벌 생태원 체험': HTTP Error 503: Service Unavailable",
-  "gnews '대전 숲체험 가족 모집': HTTP Error 503: Service Unavailable",
-  "gnews '대전 캠핑 가족 모집': HTTP Error 503: Service Unavailable",
-  "gnews '대전 목공 체험 가족': HTTP Error 503: Service Unavailable",
-  "gnews '대전 과학 체험 가족 신청': HTTP Error 503: Service Unavailable",
-  "gnews '대전 천문대 가족': HTTP Error 503: Service Unavailable",
-  "gnews '한밭수목원 체험 신청': HTTP Error 503: Service Unavailable",
-  "gnews '대전 어린이 체험 접수': HTTP Error 503: Service Unavailable",
-  "gnews '세종 가족 체험 모집': HTTP Error 503: Service Unavailable",
-  "gnews '세종 아빠 자녀 프로그램': HTTP Error 503: Service Unavailable",
-  "gnews '대전아이 캠프': HTTP Error 503: Service Unavailable",
-  "gnews '다함께돌봄 캠프 대전': HTTP Error 503: Service Unavailable",
-  "gnews '숲체원 가족 캠프': HTTP Error 503: Service Unavailable",
-  "gnews '대전 돌봄 페스티벌': HTTP Error 503: Service Unavailable",
-  "gnews '다키움': HTTP Error 503: Service Unavailable",
-  "gnews '대덕특구 주말개방': HTTP Error 503: Service Unavailable",
-  "gnews '계족산 울림축제 사전신청': HTTP Error 503: Service Unavailable",
-  "gnews '대전시립미술관 교육 접수': HTTP Error 503: Service Unavailable"
- ]
+ "errors": []
 }

@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-25T06:07:46+09:00",
+ "updated": "2026-10-25T07:07:45+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "국립한밭대 황인혁 석사과정생, 지하수토양환경학회 우수발표논문상 - 경충일보",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQNmtLamkyTUtjblpScmMyODRMRldxbnBnQm1LaW5YLXFJXzd3M2VUMWVCbEFlZFpmQVVSY3BDS0ZCeGFmTnRZYjhIQ3V2RUJ3eXdjNVVRUDg?oc=5",
+   "pub": "Sat, 24 Oct 2026 10:57:45 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-25T07:07:45+09:00"
+  },
   {
    "title": "천안 빵빵데이, 체험형 축제로 마무리…골목빵집·농가 상생효과 이어간다 - 아산데일리",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KWGpLX2piWkEyUjB5TW50T3pua3JtQUJVSzB3Q3o5dlN6NFNDcGNidnRPQ0NVRG9QVzNjbTcwWEhydkhtXzhaR0FmNk1aYWtmeEU4?oc=5",
@@ -21321,45 +21329,7 @@
    "engine": "naver_blog",
    "query": "대전 대학축제 라인업",
    "first_seen": "2026-10-18T19:56:00+09:00"
-  },
-  {
-   "title": "1️⃣ “클래식은 왜 어렵게 느껴질까? — 권태영 <클래식 왜 안 좋아하세요?>가 건네는 초대장” 2️⃣ “베토벤에서 로시니까지, 음악가의 삶을 알면 들리는 것들 — <클래식 왜 안 좋아하세요?>” 3️⃣ “사랑과 전쟁, 고향과 자유를 듣다 — 클래식 20개 장으로 읽는 인간의 역사” 4️⃣ “음악을 아는 것에서 사랑하는 것으로 — <클래식 왜 안 좋아하세",
-   "url": "https://blog.naver.com/twainnnn/224445686865",
-   "engine": "naver_blog",
-   "query": "대전 대학축제 라인업",
-   "first_seen": "2026-10-18T19:56:00+09:00"
   }
  ],
- "errors": [
-  "gnews 'KAIST 축제': HTTP Error 503: Service Unavailable",
-  "gnews '카이스트 공연 동아리': HTTP Error 503: Service Unavailable",
-  "gnews 'KAIST 루나틱': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 축제': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 공연': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 공연': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 연주회': HTTP Error 503: Service Unavailable",
-  "gnews '한밭대 축제': HTTP Error 503: Service Unavailable",
-  "gnews '한밭대 공연': HTTP Error 503: Service Unavailable",
-  "gnews '백마대동제': HTTP Error 503: Service Unavailable",
-  "gnews '대전 대학축제 라인업': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 축제 외부인': HTTP Error 503: Service Unavailable",
-  "gnews 'KAIST 태울석림제': HTTP Error 503: Service Unavailable",
-  "gnews '한밭대 백련제': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 정기공연': HTTP Error 503: Service Unavailable",
-  "gnews 'KAIST LUNATIC 정기공연': HTTP Error 503: Service Unavailable",
-  "gnews '카이스트 루나틱 힙합 공연': HTTP Error 503: Service Unavailable",
-  "gnews 'KAIST 동아리 합창 아카펠라 공연': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 동아리 정기공연 외부인': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 오케스트라 연극 뮤지컬': HTTP Error 503: Service Unavailable",
-  "gnews '한밭대 응원단 댄스 밴드 공연': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 대동제 시절인연': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 대동제 2026 라인업': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 축제 외부인': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 대동제 10월 28일': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 총학생회 이음 대동제': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 11월 정기공연': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 백마홀 공연 11월': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 정심화홀 정기연주회': HTTP Error 503: Service Unavailable",
-  "gnews '대학 원어연극 대전': HTTP Error 503: Service Unavailable"
- ]
+ "errors": []
 }

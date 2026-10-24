@@ -1,8 +1,31 @@
 {
- "updated": "2026-10-25T06:07:46+09:00",
+ "updated": "2026-10-25T07:07:45+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 3,
  "hits": [
+  {
+   "title": "\"퇴직연금 어디에 맡길까?\"…NH투자증권 수익률 1위 - 데일리안",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPMmUyTjBhLTl1N0NDamQxQkphTnVheWpMbllpdnNYTWJFQmFFRFktQWtxX0xTaHRDSmc5SmZyUW9iUkREWnhLelFTQW85ZThVZlU4OUl0SjR2UURpOUdrVzl0bHZUM2I0Z3Z3UWpWQm9Fb1BuN2dZZDNXU2FLeXYxdEV4STdTUHJSZWFYSmR6RTRadFFmdUo3ZG04cGJEdjVkQmNwN2I5em1pRVh1LWpBZWdjZTZTc2FXemxua0tBMTNjbEVUR3NjeFVxUTQ1TlhHQ2tfQl83QnlHNTM2aEpGdlBwb085RXFxNEZLQ1FnLXlKdDlpOW5Db0RQY1o4YWQ2UG1NQkJRdFVDYUxPNERQdnNnTkNOUkc4?oc=5",
+   "pub": "Sat, 24 Oct 2026 21:00:00 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 금리",
+   "first_seen": "2026-10-25T07:07:45+09:00"
+  },
+  {
+   "title": "이 가운데 1980세트에는 1.5돈 상당의 순은 기념주화를 넣어 소장 가치를 더했다. 한정판이라는 희소성에 예상 밖의 구성품이 더해...구매하겠다는 글도 올라왔다. 롯데칠성음료가 편의점을 첫 판매 채널로 택한 것은 상품을 빠르게 선보이고 소비자 반응을 확인할...",
+   "url": "http://v.daum.net/v/20261025071123136",
+   "engine": "daum_news",
+   "query": "기념주화 한정판매",
+   "first_seen": "2026-10-25T07:07:45+09:00"
+  },
+  {
+   "title": "오픈런 부른 편의점 '뉴트로'…국산 양주부터 크림빵·간식까지 - 문화투데이",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VOUtwSDY1TmFpYVR4Vnp6cTNSZmJhTDBEYzhRQl9SU190anh1ZjFWTVIyRHRPZ0ZpMHdRakZzbFVONy1aaHFKSFpldkNLTlVxdW9hQXNFdnE5OElGLWtWRU12WFVCblpE?oc=5",
+   "pub": "Sun, 18 Oct 2026 01:36:53 GMT",
+   "engine": "gnews",
+   "query": "기념주화 한정판매",
+   "first_seen": "2026-10-25T07:07:45+09:00"
+  },
   {
    "title": "하나은행, 3분기 누적 퇴직연금 적립금 3조7741억원 증가…은행권 1위 - 전자신문",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzZTUxVkd1MGlCajZYeVNUU29WY1drLWF6VGVIZUotTWdnZEdxR1RqRTZMV2FBZ09GZVp6TEhFSkh6RXZkcFVqeDIzZXBKQQ?oc=5",
@@ -1589,36 +1612,5 @@
    "first_seen": "2026-10-18T07:14:15+09:00"
   }
  ],
- "errors": [
-  "gnews '기념주화 발행 계획': HTTP Error 503: Service Unavailable",
-  "gnews '기념주화 예약 접수': HTTP Error 503: Service Unavailable",
-  "gnews '한국은행 기념주화': HTTP Error 503: Service Unavailable",
-  "gnews '조폐공사 골드바 출시': HTTP Error 503: Service Unavailable",
-  "gnews '조폐공사 기념메달 판매': HTTP Error 503: Service Unavailable",
-  "gnews '조폐공사 한정판 금화': HTTP Error 503: Service Unavailable",
-  "gnews '현용주화 세트 판매': HTTP Error 503: Service Unavailable",
-  "gnews '프루프 주화 세트': HTTP Error 503: Service Unavailable",
-  "gnews '기념은행권 발행': HTTP Error 503: Service Unavailable",
-  "gnews '연결형 은행권 판매': HTTP Error 503: Service Unavailable",
-  "gnews '특수번호 은행권 경매': HTTP Error 503: Service Unavailable",
-  "gnews '은행 골드바 한정 판매': HTTP Error 503: Service Unavailable",
-  "gnews '은행 기념 골드바 출시': HTTP Error 503: Service Unavailable",
-  "gnews '교황 방한 기념주화': HTTP Error 503: Service Unavailable",
-  "gnews '세계청년대회 기념주화': HTTP Error 503: Service Unavailable",
-  "gnews '특판 적금 고금리': HTTP Error 503: Service Unavailable",
-  "gnews '특판 예금 연 7%': HTTP Error 503: Service Unavailable",
-  "gnews '개인투자용 국채 청약': HTTP Error 503: Service Unavailable",
-  "gnews '개인투자용 국채 금리': HTTP Error 503: Service Unavailable",
-  "gnews '조폐공사 한정 출시': HTTP Error 503: Service Unavailable",
-  "gnews '기념주화 한정판매': HTTP Error 503: Service Unavailable",
-  "gnews '조폐공사 실버바 출시': HTTP Error 503: Service Unavailable",
-  "gnews '십이간지 실버바': HTTP Error 503: Service Unavailable",
-  "gnews '조폐공사 예약판매 콜라보': HTTP Error 503: Service Unavailable",
-  "gnews '해외 조폐국 기념주화 국내 공식 판매': HTTP Error 503: Service Unavailable",
-  "gnews '프루프 민트 세트 한정 실버바': HTTP Error 503: Service Unavailable",
-  "gnews '한국은행 특수번호 은행권 경매 일정': HTTP Error 503: Service Unavailable",
-  "gnews '조폐공사 은메달 추가 판매': HTTP Error 503: Service Unavailable",
-  "gnews '풍산화동양행 신상품': HTTP Error 503: Service Unavailable",
-  "gnews '풍산화동양행 기념주화 판매': HTTP Error 503: Service Unavailable"
- ]
+ "errors": []
 }
