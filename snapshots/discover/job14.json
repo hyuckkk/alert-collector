@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T05:07:45+09:00",
+ "updated": "2026-10-25T06:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -338,5 +338,36 @@
    "first_seen": "2026-10-18T18:07:35+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '에어캐나다 한국 출발 미국 할인코드 2027 6월': HTTP Error 503: Service Unavailable",
+  "gnews '에어캐나다 인천 덴버 편도 프로모션': HTTP Error 503: Service Unavailable",
+  "gnews 'Air Canada Korea origin USA June 2027 promo code': HTTP Error 503: Service Unavailable",
+  "gnews 'site:aircanada.com/ko-kr 프로모션 약관': HTTP Error 503: Service Unavailable",
+  "gnews 'site:aircanada.com ICN DEN June 2027 sale': HTTP Error 503: Service Unavailable",
+  "gnews '에어캐나다 한국 블랙프라이데이 탑승기간 제외일': HTTP Error 503: Service Unavailable",
+  "gnews '에어캐나다 특가': HTTP Error 503: Service Unavailable",
+  "gnews '에어캐나다 프로모션 코드': HTTP Error 503: Service Unavailable",
+  "gnews '에어캐나다 할인 이벤트 카드': HTTP Error 503: Service Unavailable",
+  "gnews '에어캐나다 밴쿠버 경유 덴버': HTTP Error 503: Service Unavailable",
+  "gnews 'Air Canada sale Korea': HTTP Error 503: Service Unavailable",
+  "gnews 'Air Canada promo code Seoul': HTTP Error 503: Service Unavailable",
+  "gnews '에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드': HTTP Error 503: Service Unavailable",
+  "gnews '에어캐나다 항공권 기획전 여행사 미국': HTTP Error 503: Service Unavailable",
+  "gnews '대한항공 미주 특가': HTTP Error 503: Service Unavailable",
+  "gnews '대한항공 미주 프로모션 2027': HTTP Error 503: Service Unavailable",
+  "gnews '아시아나 미주 특가': HTTP Error 503: Service Unavailable",
+  "gnews '유나이티드항공 한국 출발 프로모션': HTTP Error 503: Service Unavailable",
+  "gnews '유나이티드항공 할인코드 인천': HTTP Error 503: Service Unavailable",
+  "gnews '델타항공 인천 출발 특가': HTTP Error 503: Service Unavailable",
+  "gnews '델타항공 프로모션 코드 한국': HTTP Error 503: Service Unavailable",
+  "gnews '에어프레미아 미주 특가': HTTP Error 503: Service Unavailable",
+  "gnews '에어프레미아 프로모션 LA': HTTP Error 503: Service Unavailable",
+  "gnews '알래스카항공 한국 프로모션': HTTP Error 503: Service Unavailable",
+  "gnews '일본항공 미주 특가 인천': HTTP Error 503: Service Unavailable",
+  "gnews 'ANA 미주 특가 한국 출발': HTTP Error 503: Service Unavailable",
+  "gnews '미국행 항공권 특가 카드 할인': HTTP Error 503: Service Unavailable",
+  "gnews '인천 덴버 항공권 특가': HTTP Error 503: Service Unavailable",
+  "gnews 'United Airlines Korea sale': HTTP Error 503: Service Unavailable",
+  "gnews 'Delta Korea promo': HTTP Error 503: Service Unavailable"
+ ]
 }
