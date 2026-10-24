@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T00:07:45+09:00",
+ "updated": "2026-10-25T01:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -1603,14 +1603,6 @@
    "engine": "gnews",
    "query": "조폐공사 기념메달 판매",
    "first_seen": "2026-10-18T02:11:06+09:00"
-  },
-  {
-   "title": "돌아온 캪틴큐, ’보물상자’ 패키지 예약 완판 행렬 [현장영상] / 채널A - 채널A",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XbTBxVFR1UUk1NEFMb1RRbTFYVjlDQWRWVENVYlhtZ2QwZ1RNY0pkbFVYdDl5cTF6ODNLN0d2MFc3a0FwV055c0E4UFdqSC1QU0FKa1A0UGJaZEdaTVFDUmtPUWtDOW1yelpxQzR3eWw?oc=5",
-   "pub": "Fri, 16 Oct 2026 09:00:00 GMT",
-   "engine": "gnews",
-   "query": "기념주화 예약 접수",
-   "first_seen": "2026-10-18T01:07:37+09:00"
   }
  ],
  "errors": []
