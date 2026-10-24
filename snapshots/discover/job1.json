@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T23:07:46+09:00",
+ "updated": "2026-10-25T00:07:45+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 13,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "위치 : 대전광역시 유성구 월드컵대로 32 ️ 이용요금 : 어린이 5,000원 / 보호자 2,500원 ⏰ 이용시간 : 회차별 2시간 이용방법 : 인터넷 사전예약 추천 연령 : 4~5세 아이와 방문하기 좋았어요 인어공주 뮤지컬 공연장 : 어린이회관 그린나래홀... 16:00 ⏱️ 공연시간 : 약 40~50분 ️ 관람료 : 어린이 9,500원 / 보호자 8,0",
@@ -21188,8 +21188,10 @@
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }
