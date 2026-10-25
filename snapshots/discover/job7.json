@@ -1,8 +1,15 @@
 {
- "updated": "2026-10-26T00:07:45+09:00",
+ "updated": "2026-10-26T01:04:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 17,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "비롯해 박문용 유성구부구청장, 문창용 대전 중구부구청장, 고제열 대전시의원, 조광휘 대전사랑시민협의회 회장, 박재명 농협중앙회...함께 시간을 보냈다. 걷기 출발을 기다리는 동안에도 가족들이 함께할 수 있는 즐길 거리가 이어졌다. 공연이 끝난 뒤에는 본격...",
+   "url": "http://v.daum.net/v/20261025140947970",
+   "engine": "daum_news",
+   "query": "대전 중구 가족 체험",
+   "first_seen": "2026-10-26T01:04:46+09:00"
+  },
   {
    "title": "[축제] 코리아 그랜드 페스티벌 - 스페셜타임스",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4aGlkVUQ5bEJteGtoeVhaWXR2Z01YOE5TNW9kZVBLV3hBV2tia0tOUDNlaVJVOU5GQWdIUXlWY3pSeUNHdi12SVQyRUJMaGFyZHNoYjh0ZmlXbFFFWU5uOFRyZnFLeDZRaEdFLXdNNUpLbG8?oc=5",
@@ -21567,14 +21574,38 @@
    "engine": "naver_all",
    "query": "유성구 가족 프로그램 모집",
    "first_seen": "2026-10-25T14:07:47+09:00"
-  },
-  {
-   "title": "대전 유성구행복누리재단은 가족 참여형 문화예술교육 프로그램 ‘추억 제작소: 우리 가족의 추억을 기록하다’를 운영한다고 2일 밝혔다. 이번 프로그램은 ‘2026 문화예술교육사 현장역량강화 사업’의 하나로, 가족 간 소통과 공감을 높이고 문화예술 활동을 통해 특별한 추억을 만들 수 있도록새 창 열림",
-   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1086311",
-   "engine": "naver_all",
-   "query": "유성구 가족 프로그램 모집",
-   "first_seen": "2026-10-25T14:07:47+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '가족 여행비 지원 모집': HTTP Error 503: Service Unavailable",
+  "gnews '숙박 할인 쿠폰 지원': HTTP Error 503: Service Unavailable",
+  "gnews '숙박세일페스타': HTTP Error 503: Service Unavailable",
+  "gnews '반값여행 신청': HTTP Error 503: Service Unavailable",
+  "gnews '지역화폐 캐시백 방문객': HTTP Error 503: Service Unavailable",
+  "gnews '한달살기 모집 가족': HTTP Error 503: Service Unavailable",
+  "gnews '농촌체험 가족 무료': HTTP Error 503: Service Unavailable",
+  "gnews '섬여행 지원 신청': HTTP Error 503: Service Unavailable",
+  "gnews '다자녀 가족 무료 체험': HTTP Error 503: Service Unavailable",
+  "gnews '다자녀 할인 대전': HTTP Error 503: Service Unavailable",
+  "gnews '가족캠프 무료 모집': HTTP Error 503: Service Unavailable",
+  "gnews '1박2일 가족 무료 프로그램': HTTP Error 503: Service Unavailable",
+  "gnews '국가유산 답사 모집': HTTP Error 503: Service Unavailable",
+  "gnews '궁궐 가족 체험 신청': HTTP Error 503: Service Unavailable",
+  "gnews '추수 체험 가족 모집': HTTP Error 503: Service Unavailable",
+  "gnews '휴양림 무료 숙박 가족': HTTP Error 503: Service Unavailable",
+  "gnews '문화누리 이용권 추가': HTTP Error 503: Service Unavailable",
+  "gnews '철도 할인 가족': HTTP Error 503: Service Unavailable",
+  "gnews '무료 체험 추첨 가족 모집': HTTP Error 503: Service Unavailable",
+  "gnews '여행가는 달 혜택': HTTP Error 503: Service Unavailable",
+  "gnews '여행가는 가을 지역 혜택': HTTP Error 503: Service Unavailable",
+  "gnews '웰촌 기획전': HTTP Error 503: Service Unavailable",
+  "gnews '국립 과학관 개관 무료': HTTP Error 503: Service Unavailable",
+  "gnews '배낚시 할인 여행가는': HTTP Error 503: Service Unavailable",
+  "gnews '충북 가족 행사 사전신청': HTTP Error 503: Service Unavailable",
+  "gnews '충남 가족 체험 사전신청 무료': HTTP Error 503: Service Unavailable",
+  "gnews '어린이 가족 피크닉 신청': HTTP Error 503: Service Unavailable",
+  "gnews '청주 가족 체험 모집': HTTP Error 503: Service Unavailable",
+  "gnews '공주 논산 가족 체험 모집': HTTP Error 503: Service Unavailable",
+  "gnews '반값여행 신청접수중 선착순': HTTP Error 503: Service Unavailable"
+ ]
 }
