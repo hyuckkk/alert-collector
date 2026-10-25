@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T03:07:48+09:00",
+ "updated": "2026-10-26T04:28:55+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -902,22 +902,6 @@
    "engine": "gnews",
    "query": "대전 유기동물보호소 가족 봉사",
    "first_seen": "2026-10-19T09:07:35+09:00"
-  },
-  {
-   "title": "대전 중구, ‘우리동네 새단장’가을별쉼터 플로깅으로 생활환경 개선 앞장... - 세계로컬타임즈",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44bm1rVVNIWHVZNVhWa3lFQVh0T0pxaUNwaWhQb0hpYjFRNVMzRFBLS0hTQkxfdkZhS2s1Sk9hcE44UVZESWRnQnYweUdWdjFyQng1T3NfQVZBWFlXMWfSAV5BVV95cUxOOG5ta1VTSFh1WTVYVmt5RUFYdE9KcWlDcGloUG9IaWIxUTVTM0RQS0tIU0JMX3ZGYUtrNUpPYXBOOFFWRElkZ0J2MHlHVnYxckJ4NU9zX0FWQVhZVzFn?oc=5",
-   "pub": "Sun, 18 Oct 2026 08:45:55 GMT",
-   "engine": "gnews",
-   "query": "대전 플로깅 가족 참여",
-   "first_seen": "2026-10-19T03:18:07+09:00"
-  },
-  {
-   "title": "가평군자원봉사센터 “2026 자원봉사 리더십 교육” 성료 - 내외일보",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhQUVGN0IxUWRuS29KSmhBR3dJWC1pWUxJWmlGZGNpQldDM095X3hibEFHSTFubndna09aWG9td281M0pjVXVOMXRpWl80cUJuUnlDc3JMRGlQSE5oWHhMTjVTSHFhRXl3WU5PeklLVQ?oc=5",
-   "pub": "Thu, 15 Oct 2026 08:59:37 GMT",
-   "engine": "gnews",
-   "query": "대전 자원봉사센터 가족 봉사",
-   "first_seen": "2026-10-19T03:18:07+09:00"
   }
  ],
  "errors": []
