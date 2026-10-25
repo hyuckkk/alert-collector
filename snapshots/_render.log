@@ -1,42 +1,38 @@
-[chuncheon-festival-news-459539] rendered 800 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[djkids-musical] rendered 1618 chars CHANGED
+[djkids-notice] rendered 1025 chars CHANGED
+[dctf] RENDER ERROR rendered but too little text (15 chars)
+[nol-family] rendered 3950 chars CHANGED
+[ticketlink-notice] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/help/notice']' timed out after 75 seconds
+[oworld-notice] rendered 1686 chars same
+[fsale-onnuri] rendered 411 chars same
+[gcfct-schedule] rendered 371 chars CHANGED
+[mokwon-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
+  - navigating to "https://www.mokwon.ac.kr/kr/html/sub03/030102.html", waiting until "domcontentloaded"
 
-[pyeongtaek-news-board] rendered 3140 chars CHANGED
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 484 chars same
-[pyoungsong-event-sandmagic] rendered 480 chars same
-[pyoungsong-event-stonesoup] rendered 317 chars same
-[donghae-dhdmo-program] rendered 1803 chars CHANGED
-[daejeon-familycenter-programs] rendered 1219 chars CHANGED
-[melon-artist-songsohee] rendered 2053 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[melon-christmas-carol-212575] rendered 1913 chars CHANGED
-[mommom-sandmagic-a] rendered 2504 chars CHANGED
-[mommom-sandmagic-b] rendered 95 chars CHANGED
-[ticketlink-notice-65862] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/help/notice/65862']' timed out after 75 seconds
-[docomomokorea-main] rendered 293 chars same
-[pyoungsong-event-rudolph] rendered 424 chars same
-[pyoungsong-event-snowwhite] rendered 413 chars same
-[blog-namuac21-224427113169] rendered 4730 chars CHANGED
-[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[seocheon-halftour-apply] rendered 1300 chars CHANGED
-[komsco-shop-cate2284] rendered 6776 chars CHANGED
-[mcst-culture-71983] rendered 1181 chars CHANGED
-[aircanada-korea] rendered 22636 chars CHANGED
-[aircanada-kr-so-hub] rendered 2437 chars CHANGED
-[aircanada-kr-kbcard] rendered 27073 chars CHANGED
-[aircanada-kr-moretotravel] rendered 2794 chars CHANGED
-[hanbat-library-media-friend] rendered 506 chars CHANGED
-[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
-[pyoungsong-tribe-events-api-p2] rendered 28156 chars CHANGED
-[kopis-pf297232] rendered 7859 chars same
-[dgdr-festival] rendered 203 chars CHANGED
-[khs-eventinfo] rendered 1144 chars CHANGED
-[kopis-pf302030] rendered 7807 chars same
-[blog-gotaekmusicfesta-224428285877] rendered 2924 chars CHANGED
-[blog-gotaekmusicfesta-224426135103] rendered 3651 chars CHANGED
-[yuseong-round-event] rendered 1322 chars CHANGED
-[seogu-yeyak] rendered 2789 chars CHANGED
+[science-reservation] rendered 1033 chars CHANGED
+[khs-notice] rendered 309 chars same
+[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[expo-park] rendered 780 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 5056 chars CHANGED
+[pyeongtaek-gosi] rendered 1756 chars CHANGED
+[hanbat-library-culture] rendered 2580 chars CHANGED
+[daejeon-okr-edu] rendered 1509 chars same
+[daejeon-okr-hanbatlib] rendered 1659 chars CHANGED
+[science-edu-reservation] rendered 2206 chars CHANGED
+[sejong-notice] rendered 2358 chars CHANGED
+[sejong-notice-greenfamily] rendered 1799 chars CHANGED
+[sejong-notice-birdwatch] rendered 1339 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 4709 chars CHANGED
+[komsco-shop-medal] rendered 7345 chars CHANGED
+[komsco-shop-coin] rendered 6799 chars CHANGED
+[komsco-shop-bar] rendered 6839 chars CHANGED
+[komsco-shop-card] rendered 7387 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
+[sejong-notice-imnansu-play] rendered 869 chars CHANGED
+[dsecc-programs-p2] rendered 2071 chars CHANGED
+[dsecc-programs-p3] rendered 2071 chars CHANGED
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[ticketlink-product-65585] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[yes24-perf-60278] rendered 198 chars CHANGED
