@@ -1,8 +1,24 @@
 {
- "updated": "2026-10-25T09:07:48+09:00",
+ "updated": "2026-10-25T10:03:19+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "대전시립연정국악원, 2026 시즌공연〈흥판쇼〉 - 일간투데이",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UMkZGNUV6QkppUm9qM3pUdHYySUxUOFhnRERoUWhXZjBsY19QV0oyUzB0LW1FUzhwVW1Cb3lxZXg1bHJMTmprRGpJVm5yNTVtaGIzbndaOUFMUlprMExkUjNXWHgwWjJheGZr?oc=5",
+   "pub": "Sun, 25 Oct 2026 00:30:31 GMT",
+   "engine": "gnews",
+   "query": "연정국악원 가족 공연 예매",
+   "first_seen": "2026-10-25T10:03:19+09:00"
+  },
+  {
+   "title": "유니버설발레단 '호두까기 인형' 국내 초연 40주년.... 12월 17일부터 30일까지 서 - 선데이뉴스신문",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xaUpmUDZFRGRZSUszSEl6QnRycFJZN0pGZDFsbnZrclF3N3ktNnVrazBRM1UyaDl3SmxrTC0tcGxxRVgtVWVpZXQzZ2wwYmdTY281anBZMnpzS3c?oc=5",
+   "pub": "Sun, 25 Oct 2026 00:42:32 GMT",
+   "engine": "gnews",
+   "query": "유니버설발레단 호두까기인형 대전",
+   "first_seen": "2026-10-25T10:03:19+09:00"
+  },
   {
    "title": "‘대전 학교예술교육박람회’ 다음 달 5-7일 국립중앙과학관 - 세종포스트",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEMEhxd1dUa0phNUk5UVhTdUlDQ2s1MkxFNTdpMTFscW5pMjUycUhzQkN6WnRoekZYdHdhdFNMSGVwbVdOR1JpM0Z3RFhjdXp4aVB3T0ZvTU16U1lld1Y0MzQzMFk5UnFCVFE?oc=5",
@@ -21178,27 +21194,11 @@
    "engine": "naver_blog",
    "query": "대전 어린이 참여공연 초등학생 가족 예매",
    "first_seen": "2026-10-24T04:37:32+09:00"
-  },
-  {
-   "title": "씨름대회: 10월 24일 10:00~16:00 장소: 화랑유원지 족구장 남녀 개인전 초등학생 이벤트 경기 안산시청 씨름단 시범 같은 날... 토크쇼 공연 및 특별 초대 프로그램 평생학습한마당에는 김영철, 슬기, 정준교 등이 특별 초대 게스트로 안내돼 있습니다. 씨름대회와 평생학습 프로그램은 가족이 함께 관람하거나 참여하기 좋지만, 행사별 세부 진행시간은 다",
-   "url": "https://blog.naver.com/easystorybokji/224451651981",
-   "engine": "naver_blog",
-   "query": "대전 어린이 참여공연 초등학생 가족 예매",
-   "first_seen": "2026-10-24T04:37:32+09:00"
-  },
-  {
-   "title": "자세한 일정 및 참여 방법은 아래 신청페이지에서 확인해주세요. & & & & #키즈모델 #서울키즈모델 #무료특강 #초등학생 #체험 #겨울방학 #겨울방학체험 #무료체험 #키즈모델워킹 #무료수업 #키즈모델교육 #키즈패션쇼 #어린이모델 #진로체험 #진로탐방 #주니어패션쇼 #주니어 #키즈 #주니어모델 #중학생 #고등학생 #진로탐색 #방학특강 #경험 #모델데뷔 #데",
-   "url": "https://blog.naver.com/happyjun0618/224451552898",
-   "engine": "naver_blog",
-   "query": "대전 어린이 참여공연 초등학생 가족 예매",
-   "first_seen": "2026-10-24T04:37:32+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
