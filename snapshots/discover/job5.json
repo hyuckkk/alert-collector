@@ -1,8 +1,625 @@
 {
- "updated": "2026-10-25T17:07:47+09:00",
+ "updated": "2026-10-25T20:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 508,
+ "new_this_run": 81,
  "hits": [
+  {
+   "title": "이 이메일에는 직원들에게 제공될 우승 반지의 모습이 공개됐다. 이 이메일에는 “축하합니다. 직원용 우승 반지가 준비되었습니다...구단은 코칭스태프에게도 박하게 대했다. 이들은 시즌 개막전에서 우승 반지 증정 행사를 진행했는데 이 자리에서 코치진에게는...",
+   "url": "http://v.daum.net/v/20261024050600661",
+   "engine": "daum_news",
+   "query": "함정 공개 행사",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "개발자 행사에서 차세대 AI 서버 플랫폼 ‘베라 루빈’의 본격 생산에 돌입했다고 밝히고 복잡한 배선을 줄인 완전 액체냉각 설계와 데이터센터 구축 시간을 단축하는 모듈형 시스템을 공개했다. 새로운 서버 플랫폼의 양산 확대는 고성능 메모리와 첨단 반도체 부품...",
+   "url": "http://v.daum.net/v/20261022175745076",
+   "engine": "daum_news",
+   "query": "함정 공개 행사",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "사업에 도전했다가 중도에 포기하는 이유를 분석했다. 방송이나 행사로 얻는 높은 수입에 익숙해진 탓에 사업 초기의 낮은 수익을...지난 18일 유튜브 채널 ‘장사건물주 강호동’에 공개된 영상에서 자신의 사업 경험과 연예인들의 사업 실패 원인을 이야기했다...",
+   "url": "http://v.daum.net/v/20261022143948614",
+   "engine": "daum_news",
+   "query": "함정 공개 행사",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "계산의 함정 성장 정체론의 계산은 이렇다. 3분기 매출 168억 달러에 4를 곱하면 연환산 672억 달러다. 앤스로픽은 7월 말 연환산 매출(런레이트)이 650억 달러를 넘었다고 투자자들에게 알린 바 있다. 672억을 650억으로 나누면 3.4%이니, 두 달 동안 성장이 거의...",
+   "url": "http://v.daum.net/v/20261021223717081",
+   "engine": "daum_news",
+   "query": "함정 공개 행사",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "사실도 공개했다. 브런슨 사령관은 21일 서울 용산구 몬드리안 서울 이태원에서 주한미국상공회의소(암참) 주최로 열린 특별 간담회...12일(현지시간) 미국 워싱턴DC에서 열린 미 육군협회(AUSA) 연례행사에서도 한반도 전역을 활용한 분산형 훈련의 필요성을 언급...",
+   "url": "http://v.daum.net/v/20261021182319723",
+   "engine": "daum_news",
+   "query": "함정 공개 행사",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "연례행사에서도 한반도 전역에서 분산형 훈련을 실시할 필요가 있다고 언급했습니다. 지난 8월 실시됐던 UFS 연습은 도널드 트럼프 미국 대통령의 연습 축소 지시에 따라 계획했던 것의 절반만 실제로 진행됐는데, 이로 인해 내년 상반기 FS 연습이 제대로 이뤄질 수...",
+   "url": "http://v.daum.net/v/20261021145839569",
+   "engine": "daum_news",
+   "query": "함정 공개 행사",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "소신을 공개했다. 이날 행사에는 미셸 스틸 주한미국대사와 주한 미국기업 경영자 등 각계 인사들이 참석했다. 브런슨 사령관은 \"이번 주 진영승 의장과 만나 다가오는 FS 연습에서 어떻게 훈련할지 논의했다\"며 \"그 과정에서 확인한 것은 우리의 준비태세를 연례 두...",
+   "url": "http://v.daum.net/v/20261021144559783",
+   "engine": "daum_news",
+   "query": "함정 공개 행사",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "보고서는 해양안보 전문가를 인용해 “루빈이 중국 측의 잠수함 소음 저감 기술을 평가하는 데 도움을 줬을 가능성이 있다”고 적었다...포함됐다. 미 첨단국방연구센터(C4ADS)가 지난 22일(현지시간) 공개한 ‘편의상의 결혼인가?’ 제목의 보고서 캡처 양국의 협력...",
+   "url": "http://v.daum.net/v/20261025193231223",
+   "engine": "daum_news",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "직전(9월 29일) 국무회의에서 “자주국방 핵심 열쇠인 핵잠수함 건조와 극초음 속미사일 등 미사일 기술 첨단화에 더욱 속도를 내야...공대지 방식의 극초음속 미사일 개발 계획의 존재를 공개하기도 했었다. 6000㎞/h로 활공하며 상하·좌우로 기동 지난 9일 첫...",
+   "url": "http://v.daum.net/v/20261025172700115",
+   "engine": "daum_news",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "중국 핵잠수함 전략미사일 발사 시험 첫 확인…태평양 해상 핵전력 증강 - 글로벌이코노믹",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbVBNTnJ3WDNVc2pvRWtXWGViMUxUbl91UHV4RDEzc1Z1bV94czVSV0NyT1FHUEZ0enhNZXRVaElKYktaWGJRLXZJQ1daVkRMX0c1TEhpbVRKWEFqNC00OTJlMWxZZFo4SE4zc0F4SzBxcGZIdUpWem1WRmRNOWZJWUNiejkxUjVq?oc=5",
+   "pub": "Tue, 20 Oct 2026 21:25:56 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "그리스 잠수함 4척 도입 추진…한국 조선업계 수주 도전 - 해사신문",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqWEtNMlRGdllCS1NjTkJtR09hZnFQS1d3WjV0STdOWl9LczdpOFByR2hkQlJmcU9hTWpVUE1uQUt4MERXTzVfQy10NWZTNDBCLW1XN0RvSThmaGY5NEpJLUtnSTA0SExtWVNZ?oc=5",
+   "pub": "Wed, 21 Oct 2026 16:14:32 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "‘잠수함 킬러’ P-8 눈앞에서 본다…포항 해군항공기지 11월 7일 문 활짝 - 경북매일",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04U25iSFdvNkpCSXlVZS1wQ2hVNzcwYVJGaEgtc1U0dzI2czRTZ3hwTnRZb05aMXZUd0FvNFc5WHRDSmsyV1pRN2ZQT0ZLTHdoV1F5OW4xN2V2QQ?oc=5",
+   "pub": "Thu, 22 Oct 2026 10:49:00 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "웹툰 무료보기 사이트 여기여 진행 버튼 주변의 보조 기능 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNXzBiU3hVbzdDVklSelJDSWhOUi0zRTFhNldCQmNucGI3U0JXQjFzYTI0XzVBR3Bfa1hTMTdSLUJPelVJX1kwYU1vUUZqMmp4MHl2UEppajVVMURlQlQ2LUJaeThtNGxzbXVMbUFCVndxUXpnZU1VRktLb050Nm9HaUlsdFZYT1RScS0yYTk3MS11N3phdVRFVlRSMXV1aVBWb3NpRmdndW5nbzJKbjU0UlZCYm1ZRnJSeFZyaWE5Y1l0VEU5WmlnNC1rMmYyb0pEdHpQSEpyZ3MwSVJtMHFmZTJ3RGFDaGc0czBORjUtTUtDcnJNamhwLXNudVQ5RGk4MlRocGVuNzd1MjRHbHZ1a2x3?oc=5",
+   "pub": "Tue, 20 Oct 2026 03:47:09 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "[2026국감-국방위] 박선원, 핵추진잠수함 작전 투입 시점 요구…광주 군공항 이전도 점검 - 폴리뉴스 Polinews",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IUDc5cG5vZDZqcHlfdDFkNUw4OUphX2lrQ3NFWkVfOGVwemZDMFktbDBKWThDNHhRa1NERHpYdjNURHZuNTNpVW5WRV9rUU9MRXNxRGRKbXkzSVlORXdjSTNNcU5OOUEzcGNyRGlB?oc=5",
+   "pub": "Wed, 21 Oct 2026 08:54:13 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "[분석] 북한이 말 못 하는 AI 어뢰의 성능···모델도 명중률도 없다 - 여성경제신문",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40cGZ6alZQNFZOUlRfM1E5ZFU0N0p5QXdUS196SlZmRDdYdTB4NVNna01UdGFzTHNMOFc4am05MExFdGxZUmp4NldZeV94RmdxZUI5YjhiZ2k0WVhMWjlWWUZRUm1mNkx6TEZLX01NVVBhZWPSAXdBVV95cUxQeTk4dkdnZDVUelZ3ZTZEY2l0ekJFeW55MHBDaTYzd0Q5bDdMZnRfaFdrWnZtN1lQVW91NzR2NWlFeUVrejNRNjFfRnBmVTEyOWp6XzE0Rkd5WmFfMDYtVF83VllBdGRtR2psRWY1MkZuUHM3a1FlWQ?oc=5",
+   "pub": "Mon, 19 Oct 2026 08:00:00 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "호주 해군 비밀병기 '고스트 샤크', 베일 벗은 무기창…중국 잠수함 함대 정조준 - 글로벌이코노믹",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1I3T0dFQWZ6YlNQT1kwU1JyTTBYeXJEWjdRWXhLa0dyQ3ExcjdHRE50Q2ZvZGVaRTVhekw1Tm9NZElCQUxYVk9URXZoZ1JhZFM4WHdCWWhTcnN2TVhuUmVBMWZsck5hUWtNUzNmR0hxQmc4d1NLQTBXcFNIVFhWUzJKMTJnZUZx?oc=5",
+   "pub": "Wed, 21 Oct 2026 01:40:31 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "설명서의 예시가 실제 규칙과 어떻게 연결될까? 토토로 배경화면 4k - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX3B0YTdqQ1pZVkFRTEVGZjJocmtUbEtUeVZwUWZoRHM0aXJwS19SMEZSbWJqV0txNzdGcVlVa01ITkQyLXcwWWxQeUgxVjVMNFlsczVGNGU5TnNFb2tydVk5YjdySXZDZW1IVko0UTlPSFg0cS05dWdjZ1R4clROeDdKMnVIZmREYU5uRDhVLXZjam9KRERLS0FoZlBYNm1ycU9jRFBXRng2cTVyemhFcERQR0c1Rm85VlJpeWFRUnBhV20tOEE?oc=5",
+   "pub": "Tue, 20 Oct 2026 12:21:31 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "중국은 두 번째 무인 잠수함 운반선을 빠르게 개발하고 있다. - Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEx4Rm1aY0FqY0NMcUw2MHlnYm9uYXVPTm04WUFLaEdnVmZWb3o2U251ZHUxLVRhSkJuRkVDQU83Q194MkxrMWhPajdvRFlrWEFDSnk3LU1LZW42NkhVaVN0eHgtdEdualU5WExXSkI5ZnJwN3Q1aVQwb2FsWXdNRnVveG1UM09DLWtqUFJHdnNFem11YnhVbWZn?oc=5",
+   "pub": "Tue, 20 Oct 2026 13:59:35 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "해군, 경항모 대신 3만t급 드론항모 전력화 추진 - 세계일보",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UOUxzSG94cFBzdlFQTWl5MFM1c25HU19hcXBpbWlZTVUtajFGb014TFN6amdhdFp4QkJTdHo0YnBVOWxPY2xHVmJ6VXR6ZTdEa3VtLTBtVnfSAVRBVV95cUxOMWVxejI1YWpVR19QS3N2ZS1uVENzNGI2cUlvMDB1UlM2VEM3WXRBakNWUlhNenI3RTI2SzBrYzlVSmhLUF9CWkFyTzVnOGJBS1F2M0g?oc=5",
+   "pub": "Tue, 20 Oct 2026 09:10:00 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "스마트폰 회전 후 점검할 마카오 카지노 칩 교환 메뉴 위치 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaU90QmhsOHN2VWZnbVF1UlRWWUtRdkQ2UkJ0NEdMbzZjbTEzS1lCTWxuWUVfT25zbjFtbU9ORjhENUVKYXNOamFCTmdCdkE1ZVQ0U09WVTVSaDBZV0VubGhHVk5ISUFxRGc4dDF1ektVOURBd09GUF9JV0EzVWoyZjg0ZEpBRm01WHByN2J6UE9UMzA4LVJjQVhvSWtPVnFjRC03NmRSNUMteEFvcTZpdUFIS1R1VjdRZWwwT25TNmI2bWpCdHc?oc=5",
+   "pub": "Mon, 19 Oct 2026 20:42:45 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "설정값과 결과값을 구별하는 강원랜드 카지노 vip 숫자 읽기 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVDB4enRxODhMX3NvWEl1eTRobjUyQkk1ajFDQXBrQWRFU1RqM1QyZkczUEIwbkkyckJMNkZpNGRmbUxPazJhTXlocTFTUTl6Q1d3QlBmRTJpNjN1OXY2UENvSThSU21LZFZkMjcyUktPUzh1ZU5kS1M0bXdXMFpGenBsb09NSTJrU0lxSWFsM3drWUF0RktsNTU4ekNBSmlQRE83Y3JFVWFfRVgxejVHZFBCWQ?oc=5",
+   "pub": "Tue, 20 Oct 2026 00:20:16 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "보너스 화면에서 나가도 되나요? 사파이어 카지노 도움말 확인 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVBySThoVmlXNVE0dVhMb1daZG9kWWhzdXMzNzJXY1daeVhQR3A4cE93bU0zbEo4Um04LUltSld1dEw3ZWxYZGtZNDVoNUhxZTNMdVVkNDRLbWZtTXBJQ2VvUGpzLWhKNDg2T0hKT1pBV0FPSnBFYS1id083VzZwRFZYMHZrY2dEUElLeDIxZDk?oc=5",
+   "pub": "Tue, 20 Oct 2026 04:22:39 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "“푸틴, 중국에 1060억어치 ‘잠수함 기술’ 줬다”…누가 더 이득? [밀리터리+] - 나우뉴스",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11ZEw4SVY2VUlPaS1MRG40LXlMeUg5OWpsQTRqUUx4ZHcxZWdOZ0dGSDNRNEtHNzhpYlRuM3lCVm5TT3ZhSzhOM1J2amdlN2JONDhER1J1VUJrQjJOLUZ3SnN1UEJucWZkT2hwN2JvaWM?oc=5",
+   "pub": "Sun, 25 Oct 2026 10:30:00 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "기능 설명이 필요한 순간에 찾는 피비지파워볼 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOellwNVZJUGN0YmtqQjhiOElJQjVxa05tYXBlNnpkMGdzSDk3MGN1SURzeVhQN0t4VjZ3YnQ4TURlY185QjY3UlJ2by1ZUVdzNWNHOFB4cXRRTzVDeXdYa2RiQ2tCVEhuekdpSk5PTTZRaUdudWt5dXJCcEV3MlpHT25rMk9yUFdxdXlxZ3pJZkIwSnFnSjhCMg?oc=5",
+   "pub": "Sun, 18 Oct 2026 22:08:06 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "부가 기능 없이도 이해할 수 있는 슬롯 커뮤 hm 기본 흐름 - Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ0FFbjdyRWFMeDM0VXlHSXdhMXZrb2pFM2V3LTRmeWE2NjZHQmE1bE85TldHLWxMdlBGOFdrS2hfdXhSQ01ZcmVUYkVyQi1VZ2hiZEhKa3A0bzJydWllcmg5VGNjdEtLcnBSVTZTMDFhVzM0QTViMkg4MmNOVlFSaTRtZ2x4SEp6VE9Dcm9TdFR4UUVZelpUa1lVMUI4cmdjNTBkQ1IxWHJSS0VpOUhWdkwxQUYtQU9jWDdSbFd3WjNLZ3FDMU45NzdaaTE5eGY0d1lJbDQ1RGpMa0hPX0N5VzBXZ29ZSmRTTENDdXlaYw?oc=5",
+   "pub": "Sun, 18 Oct 2026 22:12:40 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "경험을 제공했다. 지난해 첫 개최에 이어 올해 두 번째로 열린 행사로, 문화체육관광부와 예술경영지원센터가 후원했다. 올해 축제는...증가했다. 네이버 예약을 통한 사전등록에도 964명이 신청했다. 매일 오후 3시부터 밤 9시까지 운영된 나이트 아트페어에는 평일...",
+   "url": "http://v.daum.net/v/20261022135542278",
+   "engine": "daum_news",
+   "query": "부대 개방 행사 신청",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "연천 한반도 통일미래센터, 24일 대국민 개방 행사 ‘평화를 잇다, 미래를 열다’ 개최 - 기호일보",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53Z0NtY2pQU2dNTmJrSHZfMzZuTWx3RVI3ZGlSakZMTEhUcEhydEpzZzZCdEp2aFJOTUREelFiYUw1LUVvNXgtR3BLbkZXaTRMdm5fWjkxZ1E1c0V6aVlQUUVEV3FCcFZsZ2E2SjBTMA?oc=5",
+   "pub": "Mon, 19 Oct 2026 04:17:02 GMT",
+   "engine": "gnews",
+   "query": "부대 개방 행사 신청",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "119안심콜' 서비스 가입도 안내한다. ◇육군 50사단, 주민·군인가족 1000여명 초청 부대개방 육군 제50보병사단은 지역주민과 학생...차륜형장갑차와 화생방정찰차에 탑승하고 지뢰탐지 보물찾기, 병영체험, 군번줄 제작 등에 참여했다. 장병들이 사용하는 전투장비...",
+   "url": "http://v.daum.net/v/20261022154139562",
+   "engine": "daum_news",
+   "query": "병영체험 가족",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "남삼일길 16 병영캠프닉 잔디밭과 감밭 일원에서 개최될 예정이다. 주요 프로그램으로는 감 따기 무료 체험, 먹을거리 나눔, 어린이 키즈 드로잉, 병영 한림교회 바자회와 연계한 플리마켓 등이 준비돼 있다. 가족 단위 관광객이 깊어가는 가을의 정취를 느끼며 여유...",
+   "url": "http://v.daum.net/v/20261022000015875",
+   "engine": "daum_news",
+   "query": "병영체험 가족",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "조각, 병영 별빛 한 바퀴'다. 조선시대 문관인 도호부사와 무관인 병마절도사가 한 고을에 함께 머물렀던 중구의 역사를 바탕으로...셔틀버스(가마·군마) 이용권을 주는 스탬프 투어도 열린다. 체험은 장소별로 나뉜다. 동헌에서는 상소문 쓰기와 역사 퀴즈 대회...",
+   "url": "http://v.daum.net/v/20261021045844544",
+   "engine": "daum_news",
+   "query": "병영체험 가족",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "논산문화관광재단, 육군훈련소서 ‘수요힐링데이 041’ 마무리 - 놀뫼신문",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SSGJrb2liLTZLek04dnh6Nk02RGNsQnB4ZDA2cW5TNVZMa0VONG9iNUtQdjhwWTJqNDNoSU1CcjZGd09tNmZUbWFZWHB5OHdwRDNOUUZxdTc2Qi1Ecmc?oc=5",
+   "pub": "Tue, 20 Oct 2026 04:13:21 GMT",
+   "engine": "gnews",
+   "query": "병영체험 가족",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "130여 개 기업과 기관 등이 참여했습니다. 국산 항공기와 엔진은 물론 전차와 자주포, 드론과 위성까지 K-방산 주력 장비들이 총출동...참가해 해외 판로를 넓힐 기회가 될 것으로 보입니다. 수송기 탑승 체험 등 다채로운 행사도 열려 가족 단위 관람객들을 맞이...",
+   "url": "http://v.daum.net/v/20261022195235299",
+   "engine": "daum_news",
+   "query": "전차 탑승 체험",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "칠곡낙동강평화축제, 역대 최다 45만명 방문…흥행 대박 - 경북도민일보",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKMUlrX3V4RlQ1dzVlU2xrR3FHV3ExbkFHSTV6dzRyOTlwaFBZMU1nelJaNjZoak9fdWllb0Qya2g3X2hhWGVvTThDUHY1OVE2SWYtZzNoVTkwbGZPaUxabkk4ZFhNZFBoeVE?oc=5",
+   "pub": "Tue, 20 Oct 2026 01:49:00 GMT",
+   "engine": "gnews",
+   "query": "장갑차 탑승 체험",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "수송기에 탑승하고 있다. [해병대 제공] (서울=연합뉴스) 김효정 기자 = 해병대사령부와 서북도서방위사령부(서방사)는 호국훈련 일환...시작됐다. 증원전력은 합동화력대응, 통합방공훈련, 대상륙방어훈련, 대테러대응훈련, 주민대피훈련 지원 등을 시행했다. 현대...",
+   "url": "http://v.daum.net/v/20261022192823821",
+   "engine": "daum_news",
+   "query": "상륙장갑차 탑승",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "대상륙방어훈련, 대테러대응훈련 등을 실전적으로 수행하며 부대 간 협조체계를 점검했다. 이번 훈련에서 주목되는 부분은 야외기동연습(FTX)과 지휘소연습(CPX)을 통해 현대전의 최신 전훈들을 실제 전술에 접목했다는 점이다. 군은 적 자폭드론 등의 상부 공격...",
+   "url": "http://v.daum.net/v/20261022101141452",
+   "engine": "daum_news",
+   "query": "상륙장갑차 탑승",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "대상륙방어훈련, 대테러대응훈련, 주민대피훈련 지원 등을 하며 합동작전 수행체계를 점검했다. 현대전 양상과 전훈 분석 결과를 반영...부대 장병들이 서북도서 공중 증원을 위해 C-130 수송기에 탑승하고 있다. (사진=해병대사령부 제공) 2026.10.22. photo@newsis...",
+   "url": "http://v.daum.net/v/20261022100303945",
+   "engine": "daum_news",
+   "query": "상륙장갑차 탑승",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "성남시 3000대 드론라이트쇼 및 AI 당직 보이스 봇 전격 도입 스마트 시정 완성 - 대한경제",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TSjNqZDkzV2pJa0VoaGxXZUw4UkVxM0J2YTJzcWxBYmZqZGYyMFc5bWQ1NFE1eDBzN1k0Y0lJcUlyRC1Qdy1mVlh3Vm5DS1FCdXB0YmxTT1BtZHR0Q01IQmw1dk5ZV3Z2MVlvaTdOOW5mRE0?oc=5",
+   "pub": "Tue, 20 Oct 2026 02:13:36 GMT",
+   "engine": "gnews",
+   "query": "드론봇 페스티벌",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "\"시민 안전 지킨 드론\"…양주시 오인선 주무관, 실종자 수색 공로로 감사장 받아 - 경기일보",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JOUZkeWhnQmRaRHVfc0VJMFl3blhZd2pKZUY3Sm9pQVBiMnFkUlBMM0VRTExtZkowQkEtelMxaFhZT3RIVWFGakhvYXJWWFJFTElOMTB4ZWVYcGc?oc=5",
+   "pub": "Wed, 21 Oct 2026 06:52:36 GMT",
+   "engine": "gnews",
+   "query": "드론봇 페스티벌",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "정지 신청 등 법적 대응에 나서겠다는 입장이어서 당분간 파장이 지속될 전망이다. 이번 사안은 그동안 누적됐던 K방산의 문제점이 수면 위로 올라왔다는 점에서 문제의 심각성이 있다. 2008년 전문화·계열화 제도가 폐지되면서 K방산은 국내 사업에서 고강도 경쟁...",
+   "url": "http://v.daum.net/v/20261022075351521",
+   "engine": "daum_news",
+   "query": "해군 함정 공개 신청",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "HD현대도 美 조선소 건립…‘마스가’ 주도권 경쟁 불붙었다 - 경향신문",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NajdCQm1QSXFma25sTVZFYjV0SjVmTXBHOTY5VkNfMHBMTklORnN5TEVRVGI0RFV4cnFaRHFBenJfYTJyQ3d0WTJkc3J5bjEwcEpPZDhPZFp5cHh4bjJr0gFfQVVfeXFMTk1qN0JCbVBJcWZrbmxNVkViNXRKNWZNcEc5NjlWQ18wcExOSU5Gc3lMRVFUYjREVXhycVpEcUF6cl9hMnJDd3RZMmRzcnluMTBwSk9kOE9kWnlweHhuMms?oc=5",
+   "pub": "Sun, 25 Oct 2026 08:02:00 GMT",
+   "engine": "gnews",
+   "query": "해군 함정 공개 신청",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "국립중앙과학관 메이커 플레이 만들고 겨루며 배우는 과학축제 - www.culturegb.com",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IdEI1XzhuSHp0VTdhNUlkSHpDbUUxdG1QcGV4X2sydk1FVS00TDlxQ2tSTC1wWFo3cFZPQmkxTk5wWG1MSmhfNG51NFpyNzN3QVdlb2ItWFc4TWNx?oc=5",
+   "pub": "Sun, 25 Oct 2026 09:04:00 GMT",
+   "engine": "gnews",
+   "query": "해군 함정 공개 신청",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "[현장취재] 원주서 ‘2026 밀리터리 페스티벌–대한민국 영웅전' 개최 - 디펜스투데이",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qMlBoczk0Mnllb1ozYVRURjduQmFPcTB1d3dDSS1uQ0FZYmQ3NHlBY1ZGemdYZHJ0QU1wVWZfaEdMTDdDbEoteGZvQnBaenZFTm85YUlRUkxKbGE0WHF2LXFsTEs2ekpjMkRxbENB?oc=5",
+   "pub": "Sun, 18 Oct 2026 11:56:19 GMT",
+   "engine": "gnews",
+   "query": "K-밀리터리 페스티벌 체험",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "부산관광공사, K-뷰티 팬밋업 10월 24일…500명 한정 체험 - 뉴스타운",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HYml1ZHF3Wm5jTjVJVE05dVlFLTdjNTVRYWpoZGQ2RjVVbWRleDF4aTR3ZVVpT1VkMXBobVlHODZXVXFVeEVFRjlrd0R4ZGFRZXlfU1ZIeUhsSHJaR245TTVmWldCLS1VYzVHMEVn?oc=5",
+   "pub": "Wed, 21 Oct 2026 13:26:54 GMT",
+   "engine": "gnews",
+   "query": "K-밀리터리 페스티벌 체험",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "버려진 자원의 새 쓰임 찾는 김제 새로보미 축제 - www.culturegb.com",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfc0ljMG1aUEVfZVNtcUFoVnVTSjFXQzI5S1p4RVowaG9WNjNiSmlfZzBfRGhGdko3VHpoSnJEY2JzelNJZWs1UXRVRG9kZ2hjVmRaZ2s2emdMaDJh?oc=5",
+   "pub": "Thu, 22 Oct 2026 04:29:00 GMT",
+   "engine": "gnews",
+   "query": "해양페스티벌 함정 공개",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "김포시, 내달 7일 ‘해병대 문화축제’ - 시민일보",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uRW4zeHVWZmtHSEZhWVpmRGhJa2xvZV91S2VybFBka0pQZ0VVZXNCaHc2OU53eTN3R1R0cjRFTTVrNjhnMHpwQ3hEdU0zRW1YQ0hIMzV0T3hYUWhiYjNCVERfWlM2Tk80dGZTRjQzcW0wZ9IBb0FVX3lxTE9BM0w0UEV0R0xlMHlEaFZxOVRwaDR0WmpHV0hERmdUcE51YzFvMldyaFZCV0cyOUxxLWh5cEt5T0ZQM1B2Q3VhRVRkWnhnR0ZvMzJCLTN6bWVMN3VRbWh1TXJMU0ZPTnhJRzJFSDktWQ?oc=5",
+   "pub": "Tue, 20 Oct 2026 07:23:31 GMT",
+   "engine": "gnews",
+   "query": "해병대문화축제 탑승",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "11월 7일 대명항서 '2026 김포 해병대 문화축제' - 헬로tv뉴스",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LQ2VkNHZRa3ZoTXlUMDJTZ2MxRy13eFVmWFhiUUVEYU9fQU9oNEg1V2d6WVh1SXhKN2psZnRXUFdkcGF4a1lEWlFUcXQyNmZ5OWVHVXgzbVdCS0lKSlc4SzYwc0p0ZXJhbnJJR3ZPemVuZ9IBdkFVX3lxTE1fT0RMRmRJeVREUVNobGxEYWQ3UTNpZUZpbWE3SVJrMDlTQ0pNZ1h4RDR3X1ljU2p4c2JlZGRZekx6eFFCUnp0RENHRGdKWVpWWC1YbS1FLWNRdlZHR0NRS0MyNWx0cEMxSERhZFRNcHVvUmdSZUE?oc=5",
+   "pub": "Tue, 20 Oct 2026 01:05:03 GMT",
+   "engine": "gnews",
+   "query": "해병대 헬기 탑승 체험",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "김포 대명항서 해병대 문화축제…서해 노을 바비큐 체험도 - https://www.localm.kr/",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sRlQ1WENrU3ZYbzhOZ3JEaUdjTVp3VXlMZ0kzbDFlNFJYNjczVUNpYWxucTBlZkhwSGlrMGx2QklSUlhaNjhyQzNuMHdiNkZTeDVYUmxhb3NrQzN5UE9obFhpbkNYeVY3NWZ3aw?oc=5",
+   "pub": "Thu, 22 Oct 2026 02:33:00 GMT",
+   "engine": "gnews",
+   "query": "해병대 헬기 탑승 체험",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "과거 군부대 포격장으로 활용되며 삭막했던 황무지는 철원군으로 양여된 이후 2022년 9월 고석정 꽃밭이라는 이름으로 문을 열고 존재감을 알렸다. 귀를 때리는 듯한 포격 소리가 울려퍼지던 공간이 남녀노소 누구나 웃음과 추억을 머금는 명소로 탈바꿈한 것이다...",
+   "url": "http://v.daum.net/v/20261023003029568",
+   "engine": "daum_news",
+   "query": "군 부교 체험",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "과거 군 부대 포격장으로 활용되며 삭막했던 황무지는 철원군으로 양여된 이후 2022년 9월 고석정 꽃밭이라는 이름으로 문을 열고 존재감을 알렸다. 귀를 때리는 듯한 포격 소리가 울려퍼지던 공간이 남녀노소 누구나 웃음과 추억을 머금는 명소로 탈바꿈한 것이다...",
+   "url": "http://v.daum.net/v/20261022000750134",
+   "engine": "daum_news",
+   "query": "군 부교 체험",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "과거 군 부대 포격장으로 활용되며 삭막했던 황무지는 철원군으로 양여된 이후 2022년 9월 고석정 꽃밭이라는 이름으로 문을 열고 존재감을 알렸다. 귀를 때리는 듯한 포격 소리가 울려퍼지던 공간이 남녀노소 누구나 웃음과 추억을 머금는 명소로 탈바꿈한 것이다...",
+   "url": "http://v.daum.net/v/20261021214854464",
+   "engine": "daum_news",
+   "query": "군 부교 체험",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "구체화되고 있다. 민선 9기 화천군은 천혜의 자연경관에 역사와 체험을 접목한 관광자원 리모델링을 통해 관광객 유치와 지역경제...핵심은 화천댐과 파로호를 연결하는 새로운 탐방코스다. 군은 내년 준공 예정인 ‘화천댐 역사 속으로’ 탐방로를 출발해 화천...",
+   "url": "http://v.daum.net/v/20261021150235802",
+   "engine": "daum_news",
+   "query": "군 부교 체험",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "역사 탐방로를 둘러보고, 화천댐 도보 횡단과 파로호에 설치된 부교 등을 활용해 주변 관광자원을 연결하는 방식이다. 군은 현장 점검...화천댐과 파로호는 단순한 수변 경관을 넘어 근현대사의 흔적을 체험하는 역사관광 공간으로 활용될 가능성이 있다. 관광객이...",
+   "url": "http://v.daum.net/v/20261021140717921",
+   "engine": "daum_news",
+   "query": "군 부교 체험",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "파로호 전적비에서 출발해 화천댐을 도보로 횡단하고, 댐에 설치된 부교를 통해 건너편 선착장으로 이동하는 탐방 코스를 이용할 수 있게 된다. 화천댐과 파로호에 얽힌 한국 근현대사의 현장을 체험하는 관광 콘텐츠로 활용한다는 구상이다. 점검단은 이어 화천읍...",
+   "url": "http://v.daum.net/v/20261021115117474",
+   "engine": "daum_news",
+   "query": "군 부교 체험",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "한국학자 마크 피터슨 등은 역사문화자원의 재해석과 미래세대 전승 과제를 살펴본다. 조승연 작가와 장동선 뇌과학자, 김상균 경희대...토크콘서트, 어린이 뮤지컬 등 시민 참여 프로그램도 마련된다. 전시와 체험 행사도 풍성하다. 행사장에서는 '한국의 편액...",
+   "url": "http://v.daum.net/v/20261022183946720",
+   "engine": "daum_news",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "온 가족이 함께 즐길 수 있는 체험 부스도 운영된다. 방문객들이 직접 참여하는 프로그램을 통해 지역 주민과 관광객이 어우러지는...역사적 가치를 알리고 지역의 전통문화 자산을 미래 세대에 전승한다는 점에서 의미가 있다. 특히, 전통 노동요와 무명베짜기 공연...",
+   "url": "http://v.daum.net/v/20261022145523504",
+   "engine": "daum_news",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "단순히 과거의 흔적으로 남기는 데 그치지 않고 다음 세대에 전승해야 할 공동의 자산으로 바라본다는 점에서 이번 포럼의 핵심 의제...누구나 참여할 수 있으며, 공식 누리집을 통해 사전등록하거나 행사 당일 현장등록을 하면 된다. 세부 프로그램과 연사 정보는...",
+   "url": "http://v.daum.net/v/20261022104420457",
+   "engine": "daum_news",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "쇠부리소리의 전승 활동을 시민에게 선보이고, 전통문화의 가치와 의미를 널리 알리기 위해 울산북구문화원과 울산쇠부리소리보존회가 협업해 마련한다. 공개행사에서는 쇠부리 작업과 관련된 다양한 소리를 선보인다. 용광로의 온도를 높이기 위해 불매를 밟으며...",
+   "url": "http://v.daum.net/v/20261022101954934",
+   "engine": "daum_news",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "다양한 프로그램을 이어가고 있다. 축전 기간 매일 오전 10시부터 오후 3시까지 상시 운영되는 알묘·목판 체험 현장은 연일 청소년들...올린다. 서재 공간에서는 옛 선비들의 지식 전승 방식인 전통 목판 인쇄를 직접 체험하며 배움의 소중함을 손끝으로 느끼고...",
+   "url": "http://v.daum.net/v/20261021151925748",
+   "engine": "daum_news",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "센터(ADCO)에서 기념행사를 열고, 전시와 체험 프로그램을 31일까지 운영한다고 21일 밝혔다. 이번 행사는 전국 문중과 기탁자, 국민...시민 등이 선성수상길 약 1.5㎞를 함께 걸으며 기록의 보존과 전승 의미를 나눈다. 국학미래포럼에서는 세계적인 한국학자인...",
+   "url": "http://v.daum.net/v/20261021090226076",
+   "engine": "daum_news",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "한국국학진흥원, 개원 30주년 ‘대한민국 국학대전’ 개최 - 유교신문",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vbXVWdWYwTVBIVkpLeUw5Ry04b3JvWVRvdXozaEM4ek9IczdwQzI1dE9SWXRYdk81bHBGWXRqSVpPTDh1NmQ4WUdCQnNObXhzR1d4U3hYUUp4bUpybXBsbw?oc=5",
+   "pub": "Wed, 21 Oct 2026 06:54:41 GMT",
+   "engine": "gnews",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "칠곡낙동강평화축제 역대 최다 45만명 방문…원도심 축제에도 5만명 - 신아일보",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xVUJXSDBVSXpZckVyWTdMczhtWGNGc0t6MWVrcE4tRFlBUXJtTldEeUpkUERZSmQ2a3VtZEQ1Tm1sWDZkXzFERnM0TzRTRnZ4VVNrdVRySHM2dzZKOUZzeXdPRlF2UlIySVRKdUlmTkk?oc=5",
+   "pub": "Mon, 19 Oct 2026 04:32:19 GMT",
+   "engine": "gnews",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "칠곡낙동강평화축제, 역대 최대 45만 명 방문하며 성황리에 종료 - 코리아투데이뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBVWmM4Q1Rac19hS0ZWRnpoTDdOdWNSSWFTUW1pZml4RHNyZjBtczRLUHp4emdwQ1FjTkFLaWw3OGtScndLSEQ0?oc=5",
+   "pub": "Mon, 19 Oct 2026 08:20:00 GMT",
+   "engine": "gnews",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "함안서 ‘2026년 경상남도 무형유산축제’ - 경남도민일보",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aeFJMdlF2anFXdlJKYlBSeWhNSHlyQ2EyWGRSR3dVY1RFUWNJQUFOWjV6MXIwR0dxckF5d1IxdkpTVW9RMlhta01nbGJrTFpabTJMRmtJSjV0d09jWjRLaF81WlJUZ1ozRXc?oc=5",
+   "pub": "Mon, 19 Oct 2026 01:45:56 GMT",
+   "engine": "gnews",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "‘호국의 도시’ 칠곡 위상 높였다…낙동강평화축제 대성황 - 대구신문",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCWndTVXh0dmZfd3VTUFZmV3U4SkNKWVRMMjZqNUxLSmh0NlMwNmFPOFpmSnRwLUNMWUVmV0Raam56aTlxYjRxdHZtQ3pOdnVwYzFISnhnVWJOcFZXNV9TaVVzandaU0w1QXBj?oc=5",
+   "pub": "Tue, 20 Oct 2026 12:29:00 GMT",
+   "engine": "gnews",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "광명시, 4개국 청년 10명 초청 한국문화·탄소중립 정책 등 체험 - 프레시안",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwVlgtRDhsT041bVVHNHZVdU9PZU43cUpYUzloemxvc3FJTldURFFEY2VBX21lV1RuNklweV9PQmxURzQ5d1I4bWdFNDVmY3VJeHZtdFg0WE9DbkR4MGVlWkVRZzhSQVlLUE5J?oc=5",
+   "pub": "Wed, 21 Oct 2026 06:12:25 GMT",
+   "engine": "gnews",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "칠곡낙동강평화축제 ‘대성황’…호국·평화 축제 위상 높여 - 헤럴드대구경북",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WV3NNVGQ3QnQ1R0puMU91YlpIQ0dyLTFObk5SZ2N4VnEtZlIzOHhjUWh6VU1uNWFvYkUtbzcyWnBDNVpfU2JiLTBxRFcxT1JxNWxrUg?oc=5",
+   "pub": "Mon, 19 Oct 2026 10:30:38 GMT",
+   "engine": "gnews",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "'2026년도 세계유산 줄다리기 대회' 참가팀 11월 13일까지 모집 - 순천독립신문",
+   "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPWUVGSWFYSXo5bm1uU1NzX3dSRjZwWksxTF9EYmhBR1VSN1NuQ2Q0eU9KSmhpcmw3NmJ3bVQtYnhQdnhleU1NYnIyQllPWmRiSTBNVmtSeHNDWE8xMW5BMkwtcUdaVUFvYjRZOFFUS3d6X1cwanJvTGtqSzR3bjZFUWduelJBWXZmaTZDWG14TjVzNGpnbl9JeVJld3QyeXM3OVpnU3Z4S0VGYXN5eGg4ZEZ3QW16MTcxWkR4Vk5lbEhZNjBKemtnNGpGbmNEZkl2cml1RFdKaEM0TWpNNzJpNWJDOEFLZzBHaEJaak03STJBWW1UUWhUallNc0hJQTNaalpQSjgtOGZqR2s4dmk2SXE3TmN2VTN6bHpMdE9Zdlk0Mm9INnFaclV2cUtrZjJJc05FTklmczV6eVZoX2hlTU9hM0tpWk13RmlVMmpXTWVfSUtua014aEZtRE9tZkJGeEh1TWQwSWJJdzQ?oc=5",
+   "pub": "Tue, 20 Oct 2026 08:46:54 GMT",
+   "engine": "gnews",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "부천시, 시청 잔디광장서 ‘제6회 놀러나온 도서관’ 24일 개최 - 프레시안",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fa1EzQ1R1V3kwdU5abkV4d1JGbHR6dk1lRWRKVHdYNFphVVlFRlItb2gtZm1wWDhaUExOU19nMDdjTjkwVmJsN2xKakhtaHVDY3g2bVRyMUZMdW11LUNTalhoV09HMGJMRkFV?oc=5",
+   "pub": "Tue, 20 Oct 2026 04:40:58 GMT",
+   "engine": "gnews",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "울산쇠부리소리보존회, 25일 무형유산 공개행사 - 울산제일일보",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1URmJnS3pwU01rRXg5OFVsNi13NkgwX1EwbjNrV2dBVDV6NnZDTDZuUkhyLXVKTWxGWmw4R0duQkhIaWlRTmdqNnlEOHNCdFI0ZUIzRXR4bzEtQ0pqQkVaUWRwZlRqUQ?oc=5",
+   "pub": "Thu, 22 Oct 2026 11:04:00 GMT",
+   "engine": "gnews",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "칠곡낙동강평화축제 ‘대성황’…호국·평화 축제 위상 높여 - 헤럴드경제",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGd1FUVlhuS3BoTXk2WGpMVGI3azNUbWp0M2JCc1A1cEhIVkMwZkVwRXlORHBGbkxBN040dWlLNXpiMTlYTTRtaFV1ZVVjS1ZIa3BmRmZB?oc=5",
+   "pub": "Mon, 19 Oct 2026 10:30:38 GMT",
+   "engine": "gnews",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "2026년 베트남 문화의 날을 맞아 낀박의 정신을 널리 알립니다 - Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlZXYzUwbkRHcjg5cjcza0FMdWFwUHUweHJ4NTlXMTNtbkh0VDdQV2JqZU1hYS0ta1BneHpIQnlXMkpzTWNpY3JmMnJ1NGx3aExKNkVENGdLMHNNeUpWX0pOVFpFbUJUU19TUVktM3hVeVhRQUtsQ2FrSFoySU9veExPSE05M1EwTHFNbWVB?oc=5",
+   "pub": "Tue, 20 Oct 2026 09:04:01 GMT",
+   "engine": "gnews",
+   "query": "전승행사 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "경비구역(JSA) 특별견학이 유엔사의 자의적 기준과 과도한 재량권에 의해 운영되고 있다는 지적이 나온다. 한국 정부를 통한 유엔사...집은 남북 적십자사 간 연락 등을 하는 곳으로 옥상까지 개방된다. 반면 유엔사가 운영하는 판문점 견학은 파란색 단층 막사 건물...",
+   "url": "http://v.daum.net/v/20261022060545380",
+   "engine": "daum_news",
+   "query": "민간인통제구역 특별개방",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "당진시재향군인회, 시민 36명과 강화도 접경지역 안보 견학 - 당진신문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PVzhMTl9FMHY5Zm95WnA0VDNoSHYxelVIMk5XbkJwTG96U25UendjeG94MV9OVURfR0ZYZElCN0ZNTWNHbHZJTDZCS2VyYklCYXJUSGYzUkk1bTZkOWdBV1BfNFNaejVv?oc=5",
+   "pub": "Wed, 21 Oct 2026 00:06:47 GMT",
+   "engine": "gnews",
+   "query": "접경지역 안보 체험 개인 신청",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "통영 원문공원에서 제72주년 해병대 통영상륙작전 전승행사 개최 - 진주인터넷뉴스",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pUVB0aFFwYzczMUJOck1lSkF4NkdiSVZXMmVoLWdIZmkxdzJFYjhPX1hJZE1fOE9qb0hidXNzWkNhZFRzd2x1cmQ2MFM3Rml4ZzNfMFRUWXNwUGpQRDM3UFIwQWN4ZnhNYTVwQnY5T095dVd6dF9v?oc=5",
+   "pub": "Thu, 22 Oct 2026 00:37:55 GMT",
+   "engine": "gnews",
+   "query": "해병대 문화축제 2026 일정",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "경기도의회 김인영 의원 대표발의 시·군 특화농수산물 연계산업 활성화 지원 조례안 입법예고 - 경기평화신문",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PX0ZpZC1xWXJyeFA2UFNHd3FqZm5qNVctT05oQ2VsX0NyZmNPU3pTYlVfa1lMb3NwZzBaclpMLWJfdHhQbWFvbEZB?oc=5",
+   "pub": "Thu, 22 Oct 2026 01:41:00 GMT",
+   "engine": "gnews",
+   "query": "군 축제 2026 개최 확정 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "홍성, 바비큐 페스티벌로 뜨겁게 달궈진다…\"29일 개막\" - 뉴시스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ob0VnWDN5U0xrejFjMUtSUnB0T2tuQUYtakxWNzhqRnl4bzRrV1ktakt6UWROR25VWGJtM3VyWkJmMWROT3NMUEROc2V2TEF1QnJnWGNicUVjUzZoeExHWNIBeEFVX3lxTE9odmJwWWtlTUk2RVl4U3FkVXlpdUgtX1hOYS00SjN4R0tmdVVQbmdmdWZ4LXhEakhzSzVCSlJtMWR6NUgybm1LM0QwRmhsSXE0MW1GSjBHcExhM2hfZmZYNGdXQmp4dzE4YzlvXy1wZUNmODlQSFYxZw?oc=5",
+   "pub": "Tue, 20 Oct 2026 06:00:33 GMT",
+   "engine": "gnews",
+   "query": "군 축제 2026 개최 확정 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "체류형 농촌 체험 프로그램 '유자마을 촌캉스’ 모집 당일 조기 마감 - 광주전남일보",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XVFVOTUJQQXZ3TUxvd21LRGNqYzhpeHY5eFZXcFVzZ3QxbmcxaWtTWU42UWJtRV9zUFFjY0VrOE4wbk5xX2RYT2hkMDNDazQ0MmpYZ2xkQ29zdUswY1BfaWZKOHJWUGVBNk5F?oc=5",
+   "pub": "Wed, 21 Oct 2026 03:58:19 GMT",
+   "engine": "gnews",
+   "query": "군 축제 2026 개최 확정 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "청양 고추구기자축제, 11만명 방문…농특산물 14억5000만원 판매 - 매일일보",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92YUd0RFFlaTVPNGhJbERmNXZvbk9YcFZPbzBteVE0WVFfMjhKbFJPaXFyYy1TaUVRRFVCWTFwMzBPWXVmYzM1MDQ1ajltMmZmOHJ6dFFmNFJBS3k2QXl3dHFHMVk?oc=5",
+   "pub": "Tue, 20 Oct 2026 04:23:10 GMT",
+   "engine": "gnews",
+   "query": "군 축제 2026 개최 확정 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "음성군 '흥미진진 팩토리투어' 하반기 전 회차 매진…산업관광 인기 - 뉴시니어",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwRUtKSGJiY3A1WE5TTzRnS0FKUUZuTWdZRlJ2ZHJtcTBYb2llUExITDZya0JfYmd2Wnp3alBBeXhRSmU0WFhydTNSa0dGYU9XOS01LWRDQjJrZkJNd0lyOWJaSQ?oc=5",
+   "pub": "Wed, 21 Oct 2026 22:52:34 GMT",
+   "engine": "gnews",
+   "query": "군 축제 2026 개최 확정 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "괴산군, 오는 27일 '2026 평생학습 와락 페스티벌' 개최… 배움과 나눔의 장 펼친다 - 코리아타임뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBeG1SNWZxSllwWmtiQlYzZUhfLTJlRWVueUNON1VMbTN4OWFLYTNHUUNtT3VQZExmd3FSQ201MXFYNHFMRGRWUVVFcmtUbFZzTkxpRlA4VnFKVGh5ZlNMamF6NUhPTS1JSUE?oc=5",
+   "pub": "Fri, 23 Oct 2026 00:11:05 GMT",
+   "engine": "gnews",
+   "query": "군 축제 2026 개최 확정 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
+  {
+   "title": "홍성, 바비큐축제에 레트로 관광홍보관 운영 - 뉴스세상",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RSHFxeVNGZ1RpNndJYXkzRXZzRE9FeEVjTm02TWlJSEVjekFDWFlXT1FEb2xjcjhrX1kzakV5eXlpR3FlOEU3X1htVWY3aTkxVTlEZGk3N0pzMlBlZ2k2dmduNmNzcWJpdzFqStIBb0FVX3lxTE1hdDZUeG54ZndFX3hIY0wwSjY1VHVMNWRYbGRTQUgxY2ZSRHRkZHdmbHZ4el92S1g4MHlCemVlRV9zbS1aMGt4VVZUOFdIdklzdkxhM3lSUnJ2amZwaDBDM1pYZ3FsZVhmWnNzZmxuOA?oc=5",
+   "pub": "Fri, 23 Oct 2026 00:35:03 GMT",
+   "engine": "gnews",
+   "query": "군 축제 2026 개최 확정 체험 프로그램",
+   "first_seen": "2026-10-25T20:07:47+09:00"
+  },
   {
    "title": "11월 1일 일요일｜헬기 탑승 체험과 폐막식 마지막 날에는 수리온 헬기 탑승 체험과 군 장비 시연 등이 진행됩니다. 또한 드론봇 경진대회 시상식이 열리며 오후 3시 폐막식을 끝으로 축제가 마무리될 예정이에요. 공연별 세부 시작시간은 현장 상황에 따라 달라질 수 있으니 방문 전 최종 시간표를 확인해 주세요. ✨ 양주 드론봇 페스티벌 드론라이트쇼와 불꽃놀이는.",
    "url": "https://blog.naver.com/0keepgoinglife0/224453169797",
@@ -20675,573 +21292,6 @@
    "url": "https://blog.naver.com/twainnnn/224448023332",
    "engine": "naver_blog",
    "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "가는 중간에 조금 큰 섬(브리지스 섬, Isla Briges)에 내려서 걷기도 했는데 비도 조금씩 뿌리고 바람이 세차게 불어서 제대로 감상하지 못하고 서둘러 승선했다. 툰드라 형태의... 식당을 구글지도로 찾아서 갔다. 킹크랩구라탕과 메로(흙대구 구이)를 시켜서 네명이 함께 먹고 넷이 나누어 신용카드로 계산했는데 31,900페소(팁 10%포함)였고 우리 돈",
-   "url": "https://blog.naver.com/bokbadala/224446617691",
-   "engine": "naver_blog",
-   "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "⛵ 요트 승선체험이 진행됩니다. 평소 쉽게 접하기 어려운 요트 승선 기회! 이번 축제에서 놓치지 마세요! 행사 안내 2026. 10. 30.(금) ~ 11. 1.(일) 아미르공원 및 동삼혁신지구 주요 프로그램... 신청방법: 구글폼 작성(대학 공식홈페이지 ▶아치마당 ▶공지사항) 자세한 일정과 신청 방법은 국립한국해양대학교 홈페이지 공지사항에서 확인해 주세요",
-   "url": "https://cafe.naver.com/100papa/41381?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjEwMHBhcGEiLCJhcnRpY2xlSWQiOjQxMzgxLCJpc3N1ZWRBdCI6MTc5Mjc5MDQ4MTc0M30.Nwmwfq1SPNw_lxOACBhxmXKiV-RCHwvjPUcH6Yicz6k&q=%ed%95%a8%ec%a0%95%20%ec%8a%b9%ec%84%a0%20%ec%b2%b4%ed%97%98%20%ea%b5%ac%ea%b8%80%ed%8f%bc&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "한국해양진흥공사PDFwww.kobc.or.kr›ebz새 창 열림",
-   "url": "https://www.kobc.or.kr/ebz/kor/main.do",
-   "engine": "naver_all",
-   "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "2024 한국해양진흥공사 매거진 www.kobc.or.kr Spring | Vol. 12 K-해양도시 항만에서 산업, 문화까지 울산의 도시 성장사세계 최초를 꿈꾸는 해양도시, 인천 SEA DIVE 바다 위 수소 생태계, 수소항만탄소 0% 꿈의 항만 그린포트 해운 INSIDE SK해운 이창훈 재무본부장 인터뷰㈜케이티마린 박옥열 대표 ON KOBC SEA너지 ",
-   "url": "https://www.kobc.or.kr/ebz/cmm/fms/fileOpen.do?atchFileId=FILE_000000000016982",
-   "engine": "naver_all",
-   "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "문화체육관광부 국립국어원PDFm.korean.go.kr›260525 국민주권정부 123대 국정과제 추진실적(펼침-1).pdf새 창 열림",
-   "url": "https://m.korean.go.kr/",
-   "engine": "naver_all",
-   "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "발간등록번호 11-1371000-100189-01 대한민국정부 회복과 도약 모두의 1 년 회복과 도약, 모두의 1년 국민주권정부 123대 국정과제 추진 실적 2026년 회복과 도약, 모두의 1년 국민주권정부 123대 국정과제 추진 실적 2026년 국민이 하나되는 정치국정 목표 01 국민이 만든 대전환의 길 세계를 이끄는 혁신경제국정 목표 02 ❶ 국민주권과",
-   "url": "https://m.korean.go.kr/common/download.do?file_path=event&c_file_name=2bcd75ab-96c3-4d7f-a7de-7aa85b85579a.pdf&o_file_name=260525%20%EA%B5%AD%EB%AF%BC%EC%A3%BC%EA%B6%8C%EC%A0%95%EB%B6%80%20123%EB%8C%80%20%EA%B5%AD%EC%A0%95%EA%B3%BC%EC%A0%9C%20%EC%B6%94%EC%A7%84%EC%8B%A4%EC%A0%81(%ED%8E%BC%EC%B9%A8-1).pdf",
-   "engine": "naver_all",
-   "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "1️⃣ \"보이지 않을 때 비로소 알게 된다 – <Material World>가 뒤집는 경제의 상식\" 2️⃣ \"우리는 모두 화석연료로 만들어졌다: 모래·소금·철·구리·석유·리튬의 세계사\" 3️⃣ \"앞으로 22년간 인류사 5,000년보다 많은 구리를 캐야 한다\" 4️⃣ \"탈물질 시대라는 착각 – 에드 콘웨이가 보여준 문명의 지반\" 서론 | \"Price is n",
-   "url": "https://blog.naver.com/twainnnn/223903863782",
-   "engine": "naver_all",
-   "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "조달청XLSwww.pps.go.kr›common새 창 열림",
-   "url": "https://www.pps.go.kr/kor/index.do",
-   "engine": "naver_all",
-   "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "상품 등록상품 목록 등록상품 12,039 NO 업체명 사업자번호 지청명 지역명 물품식별번호 세부물품분류번호 한글물품식별명 기준단가 벤처물품명 벤처물품규격명 최초승인일 확약기한년도 확약기한차수 대분류 소분류 10532 주식회사 에이치엔피테크 2018194129 서울지방조달청 경기도 22799593 4010187401... 새 창 열림",
-   "url": "https://www.pps.go.kr/common/fileDown.do?key=202201190023&sn=1",
-   "engine": "naver_all",
-   "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "질병관리청PDFwww.kdca.go.kr›bbs새 창 열림",
-   "url": "https://www.kdca.go.kr/kdca/index.do",
-   "engine": "naver_all",
-   "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "회복과 도약, 모두의 1년 국민주권정부 123대 국정과제 추진 실적 2026년 회복과 도약, 모두의 1년 국민주권정부 123대 국정과제 추진 실적 2026년 국민이 하나되는 정치국정 목표 01 국민이 만든 대전환의 길 ❶ 국민주권과 민주주의의 확립 001 ‘진짜 대한민국’을 위한 헌법 개정 022 002 국민의 군대를 위한 민주적·제도적 통제 강화 024 ",
-   "url": "https://www.kdca.go.kr/bbs/kdca/45/307283/download.do",
-   "engine": "naver_all",
-   "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "해양경찰청PDFwww.kcg.go.kr›common새 창 열림",
-   "url": "https://www.kcg.go.kr/kcg/main.do",
-   "engine": "naver_all",
-   "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "주요업무계획 – 비전2033 실행계획 - 비전2033 연계 - 1 - Ⅰ 2023년 주요 성과와 평가 빈틈없는 해양경비를 통한 해양주권 수호 ▸선제적 경비함정 증강배치, 특별단속 등 다각적... 23.) 및 퇴역함정 양여, 인도네시아 해경 수색구조 교육 지원 등 국제협력 강화 추진 * 해외방제 첫 사례, 필리핀 마르코스 대통령 명의 감사 서한 수신(5.9)",
-   "url": "https://www.kcg.go.kr/common/nttFileDownload.do?fileKey=4c46030449631647d590624191ec9d74",
-   "engine": "naver_all",
-   "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "강원테크노파크XLSwww.gwtp.or.kr›gwtp새 창 열림",
-   "url": "https://www.gwtp.or.kr/gwtp/index.html",
-   "engine": "naver_all",
-   "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "2021년(산업분야 선택) 2021년 NTB SMK 작성 공급기술 리스트 (국문) 개요 지식재산권현황 기술추가정보 TLO담당자 NO. 산업분야 기술키워드 기술명 기술개요 응용분야 발명 기술명(특허명) 출원번호 출원일 등록번호 등록일 권리자 패밀리특허현황 패밀리국가 전략물자 (기술)여부 기술보유기관 1 바이오·의료 알츠하이머, 치매진단, 후각진단, 향기마커.",
-   "url": "https://www.gwtp.or.kr/gwtp/bbsNew_download.php?bbs_data=aWR4PTIyJnN0YXJ0UGFnZT00MjAmbGlzdE5vPTkmdGFibGU9Y3NfYmJzX2RhdGFfbmV3JmNvZGU9c3ViMDFiJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9JnVybD1zdWIwMWIma2V5dmFsdWU9JmJic19tYWxuYW1lPQ==%7C%7C&download=3",
-   "engine": "naver_all",
-   "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "미디어패션쇼 제공 * 허락없이 카톡으로 보내는 게 불편하신 분은 ‘그만’이라고 답변주세요.. 그리고 브리핑을 받고 싶은 분들이나 추천하실 분 톡으로 카톡 아이디 주시면 보내드릴게요. 또 일주일 이상 카톡에 1이 없어지지 않으면 보내기를 중단합니다. 더 많은 패션 뉴스는 미디어패션쇼 홈페이지(www.fashow.co.kr)와 블로그(https://blog.n",
-   "url": "https://blog.naver.com/fashon1/224406742072",
-   "engine": "naver_all",
-   "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "네이버뉴스새 창 열림",
-   "url": "https://n.news.naver.com/mnews/article/003/0014205360?sid=102",
-   "engine": "naver_all",
-   "query": "함정 승선 체험 구글폼",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "올해는 공군 특수비행팀 블랙이글스의 곡예비행뿐 아니라 국산 전투기 KF-21 시범비행, 항공기 전시, 우주항공 체험까지 준비돼 있어. 무료 행사지만 군사시설에서 진행되는 만큼... KT-1과 T-50 훈련기, 해병대 상륙공격헬기 MAH 등 다양한 항공기의 비행도 볼 수 있지. 공식 일정에 따르면 KF-21은 10월 23일과 24일 오전 10시 4분~10시 ",
-   "url": "https://blog.naver.com/fbalsdk1209/224451540718",
-   "engine": "naver_blog",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "ㅎㅎ >>시드니 헬기투어 가격확인하고 예약하기<< 공항 도착 후 탑승 픽업 차량으로 시드니 공항까지는 약 30분 정도 걸립니다 공항 도착 후 사무실에서 안전 안내 영상을 간단하게... 만족했던 체험이 무엇이냐고 누가 묻는다면 무조건 헬기투어라고 할 것 같아요 20분 짧은 그 비행 동안 오페라하우스, 하버브릿지, 본다이 비치, 절벽까지 한 번에 담을 수 있었",
-   "url": "https://blog.naver.com/sumin7055/224451413624",
-   "engine": "naver_blog",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "세렝게티 초원 한가운데에서 즐기는 특별한 부쉬 런치와 전통을 이어가는 마사이 부족마을 방문까지 더해져 깊이 있는 문화 체험이 완성된답니다. 웅장한 빅토리아폭포와... [비즈니스석 탑승] 아프리카 6개국 13일 빅토리아폭포 헬기투어 5성호텔 7박 럭셔리 선셋크루즈 루프탑 레스토랑 및 다양한 특식 (케냐/탄자니아/잠비아/짐바브웨/보츠와나/남아공) 수집 당시..",
-   "url": "https://blog.naver.com/whitemountain36433/224451295177",
-   "engine": "naver_blog",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "신혼여행을 준비하는 커플에게는 특별한 추억을 남길 수 있는 일정이며, 부모님과 함께하는 가족여행이나 하와이를 여러 번 방문한 여행객에게도 추천할 만한 체험입니다. 왜 레인보우 헬기투어를 선택할까요? 하와이에는 다양한 항공 관광 상품이 있습니다. 상품을 선택할 때는 단순히 가격만 비교하기보다 비행 코스, 비행시간, 탑승 방식, 도어 옵션, 픽업 여부 등을..",
-   "url": "https://blog.naver.com/globalonetour/224451262682",
-   "engine": "naver_blog",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "낮 12시 30분부터 포항시립예술단과 해병대 제1사단 군악대가 야외 공연장에서 연주회를 펼칠 예정입니다. 부대개방행사 방문객이라면 누구나 자유롭게 공연을 관람할 수 있다고... UH-60·MH-60 헬기, 항공기 정비현장 체험 및 편의시설: 군복 체험, 포토존, 푸드트럭, 피크닉존 특별 공연: 낮 12시 30분부터 시립예술단 및 군악대 공연 주의사항: 성인",
-   "url": "https://blog.naver.com/nssniping/224451029865",
-   "engine": "naver_blog",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "지상에서는 항공기와 무장·장비 전시, 공군 수송기 체험 비행, 시뮬레이션 에어레이싱, AR·VR 체험처럼 가족 단위 프로그램이 마련됐습니다. 행사장에는 6,050㎡ 규모의 전시관 2동과 850㎡ 규모의 수출상담회장이 들어섰습니다. 개막 비행에서는 해병대 차세대 공격 헬기 MAH와 최근 공군에 인도된 KF-21이 하늘을 가르며 관람객의 시선을 모았습니다. 2",
-   "url": "https://blog.naver.com/dailyissue-pick/224450830749",
-   "engine": "naver_blog",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "미 해병대 무력수색대 (USMC) 폴 잭슨 병장 (Sgt. Paul Jackson): 중동 전선에 직접 투입되는 미 해병대 플레이어블 캐릭터. 마크스 그리그스 하사 (SSgt. Griggs): 호탕한 성격으로 후반부 SAS와... 미군은 전면 철수 명령을 내리고, 잭슨 병장의 분대는 격추된 아군 공격 헬기의 여성 조종사를 구출한 뒤 가까스로 헬기에 탑승합니",
-   "url": "https://blog.naver.com/dusxor50/224450649802",
-   "engine": "naver_blog",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "11월에 부대 개방행사를 한다는데 뭘 준비하고 어떻게 방문을 하는걸까요? 그날 많은 부모님들이 참석을 하시겠죠! 아직은 어린 것 같아 맘이 쓰이는데 자기는 성년이라 이제 알아서 해야한다고 말하는 아들이라 ㅇㅇ 잘 할꺼야 응원하고 거리두고 있는 엄마입니다 ㅎ 부대 개방행사가 있다고만 톡을 보내왔는데 어떻게 한다는건지 오라는건지 어쩌라는건지 모르겠네요~",
-   "url": "https://cafe.naver.com/army58cafe/1453095?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFybXk1OGNhZmUiLCJhcnRpY2xlSWQiOjE0NTMwOTUsImlzc3VlZEF0IjoxNzkyNzkwNDk2MTc0fQ.9NrU3k9BAZt4j-IXg3di3isnDdANre71zgRphvQ7_hw&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "수리온 헬기 탑승 체험 이번 양주 드론봇 페스티벌에서는 실제 군용 헬기에 탑승하는 특별한 체험도 마련됩니다. 체험에 활용되는 헬기는 대한민국에서 개발한 KUH-1 수리온입니다. 수리온은 우리 군에서 병력 수송과 다양한 임무에 활용하는 기동헬기인데요. 이번 축제에서는 직접 헬기에 탑승해 비행을 경험할 수 있는 프로그램이 예정되어 있어 많은 관심을 모으고 있습",
-   "url": "https://cafe.naver.com/foodtruckh/145?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZvb2R0cnVja2giLCJhcnRpY2xlSWQiOjE0NSwiaXNzdWVkQXQiOjE3OTI3OTA0OTYxNzR9.PouegSyaYKM7-SC93_HXa1zYCZNcUq3z2g1hjU0Ni9o&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "군 장비 전시·탑승과 시민 참여 체험이 마련됐습니다. 육군 보도에 따르면 헬기·전술차량·산악바이크·문교 체험은 사전 신청자를 대상으로 운영됐습니다. 행사 입장은 무료로 안내됐고, 체험별 조건은 달랐습니다. 원문 블로그 춘천시 공식 개최 공지 춘천행복알리미 운영시간 안내 육군 제2군단 행사 종료 보도 한국관광공사 행사 안내",
-   "url": "https://cafe.naver.com/bongcheheom/1729?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvbmdjaGVoZW9tIiwiYXJ0aWNsZUlkIjoxNzI5LCJpc3N1ZWRBdCI6MTc5Mjc5MDQ5NjE3NH0.2kj18fHCo_53Vpy8GbrhtNZKoLffxX8gBkXr-a0DWMk&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "2026 김포 해병대 문화축제 in 대명항 [해병대 축제 & 선셋 야장] 김포함상공원 및 대명항에서 김포 해병대 문화축제와 선셋 야장이 함께 진행되는데요~ 해병 장비 전시부터 탑승 체험, 헬기기동시연, 노을을 바라보며 먹는 셀프 바비큐까지! 다양한 프로그램을 준비했으니 시민 여러분의 많은 관심과 방문 부탁드려요. 기간: 2026. 11. 7.(토) 11:0",
-   "url": "https://cafe.naver.com/gpfleamarket/3980159?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdwZmxlYW1hcmtldCIsImFydGljbGVJZCI6Mzk4MDE1OSwiaXNzdWVkQXQiOjE3OTI3OTA0OTYxNzR9.WD_fN4R4g26iVNGdkj-Dt5xovZbPxSkufo4Mji8rz9w&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "공연이 끝나고 13시30분부터는 헬기장에서의 장비체험. 헬기 타보기. 군번줄제작 . 포토존. 군 경찰오토바이체험 페인트탄 사격체험. 힉군장메고 걸어보기. 드론존 ,생활관을 못가보는 대신 생활관 전시. 침대까지 서랍장?? 같은 생활관을 그대로 연병장에 전시하고 보급품과 이불들 아이들 받은 물건들 만져보기도 했어요. 질이 좋구나를 느꼈어요 사단장님이 직접 핫도",
-   "url": "https://cafe.naver.com/army58cafe/1452050?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFybXk1OGNhZmUiLCJhcnRpY2xlSWQiOjE0NTIwNTAsImlzc3VlZEF0IjoxNzkyNzkwNDk2MTc1fQ.WHduI8wa9XcChS-Uxq3hkyHT4dVu31tV3ZMpTTHqVMc&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "31일 저녁 엣하트 무대, 드론라이트쇼에 불꽃놀이까지 31일 낮에는 육군 정보학교의 드론 전술 시범이 있고, 11월 1일에는 수리온 헬기 탑승 체험과 폐막식이 열려요. 항목 내용 일정 2026년 10월 30일(금)~11월 1일(일), 3일간 장소 양주시 광적면 가납리비행장 저녁 공연 30일 마이진, 31일 엣하트, 이후 드론라이트쇼 교통 임시주차장 2곳, ",
-   "url": "https://cafe.naver.com/jhs29/1041?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImpoczI5IiwiYXJ0aWNsZUlkIjoxMDQxLCJpc3N1ZWRBdCI6MTc5Mjc5MDQ5NjE3NX0.SNIC5e52NlA5wEUnbhHch37XCpXltUiJ6yvNLfDMWuw&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "항해체험, 해군·해병대 헬기 등 장비전시, 안보견학, 군복체험, 모병홍보, VR체험, 해군캐릭터 포토존 등 17개 부스 놀이체험 프로그램 • 해양테마파크형 에어바운스 • 챌린지 체험존 : 모래보물찾기, 솜사탕자전거발전기, 스틱잡기&스톱워치, 메코인사이트 ️ 부대행사 • 가치해평택 소셜마켓 • 평택산업진흥원 우수기업 제품 홍보·판매 • 피크닉존, 푸드트럭 바",
-   "url": "https://cafe.naver.com/bluegraydnbk8/154049?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJsdWVncmF5ZG5iazgiLCJhcnRpY2xlSWQiOjE1NDA0OSwiaXNzdWVkQXQiOjE3OTI3OTA0OTYxNzV9.SYvFSXLXiKFwZTimzq6DF7v_dGwyEVhElyo72HEWCv8&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "시작하여 교태전과 아미산에 이르는 궁궐의 중심부 너머에는 대비와 후궁 등의 생활공간이 연이어 있었다. 그 뒤쪽으로는 향원정을 중심으로 왕실의 한적한 공간이 마련되어 경복궁의 후원과 함께 원유로 활용되었는데, 지금은 대부분의 모습을 잃어버렸다. (출처 문화원형 디지털 콘텐츠 제공처 국립중앙도서관) 해설 투어는 어린이들만 이용할 것 같지만 중학생 이상 성인 전",
-   "url": "https://cafe.naver.com/bigm/481981?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJpZ20iLCJhcnRpY2xlSWQiOjQ4MTk4MSwiaXNzdWVkQXQiOjE3OTI3OTA0OTYxNzV9.rOTNSbEa5Ln1pBVOAtYo8xfC1PxaU_o5tR-tQH8Thck&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "오는 11월 7일 김포함상공원과 대명항 일원에서 열리는 ‘2026 김포 해병대 문화축제’ 홍보 포스터. 김포시 제공. 해병대 장비 전시·헬기 기동 시연 등 체험행사 마련 낙조 감상하며 구입 해산물 시식하는 선셋야장 첫 운영 https://v.daum.net/v/20261020103231477?from=newsbot&botref=KN&botevent=q",
-   "url": "https://cafe.naver.com/graystse3/6151?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyYXlzdHNlMyIsImFydGljbGVJZCI6NjE1MSwiaXNzdWVkQXQiOjE3OTI3OTA0OTYxNzV9.RAjVWli0F8gixWj4y3rqhe6_AGLZTwuBPJJI68VX288&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "️ 2026 김포 해병대 문화축제 in 대명항 ──────────── 일시 • 2026년 11월 7일(토) 11:00~18:00 장소 • 김포함상공원 및 대명항 일원 • 경기 김포시 대곶면 대명항1로 110-36 (김포함상공원) 프로그램 • 해병대 장비 전시 및 체험 • 레이저 사격 체험 • 군악대·의장대 공연 • 개막식 • 문화공연 • 헬기 기동 시연 •",
-   "url": "https://cafe.naver.com/bluegraydnbk8/153736?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJsdWVncmF5ZG5iazgiLCJhcnRpY2xlSWQiOjE1MzczNiwiaXNzdWVkQXQiOjE3OTI3OTA0OTYxNzV9.pbqp9qOFcWeipwXqY_3EBsyEEJZJsZfA7q6NcPInQ3o&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "04:00사우디군 헬기 추락 2명 숨져…예멘 북부선 수십 명 사상 ▲ AH-6 헬기 사우디아라비아와 예멘의 친이란 반군 후티가 18일(현지시간) 무력 충돌을 이어가면서 수십명의 추가 사상자가 나왔습니다. 이날 사우디 국영 SPA 통신에 따르면 사우디가 주도하는 연합군의 투르키 알말 10월 18일 11:04UAE, 후티 공세 막으려 예멘 재개입…사우디와 갈등",
-   "url": "https://cafe.naver.com/greenb0k6k/198458?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjE5ODQ1OCwiaXNzdWVkQXQiOjE3OTI3OTA0OTYxNzV9.oNy8TJ9ZvkgbGrHrF_B1vmvuz-w6RX1o7Tf0qmTxMfw&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "- 특별 프로그램: 헬기 탑승 체험, 글로벌 퍼레이드, 어린이 공연, 딸기 디저트 경연대회 등이 마련되었다. - 축제 규모: 2026년 약 67만 명이 방문했으며, 외부 지역 방문객도 약 59만 명으로 분석되었다. - 긍정적 평판: 딸기의 품질이 우수하고 어린이와 가족이 함께 즐길 수 있는 체험 프로그램이 다양하다는 평가를 받았다. - 부정적 평판 및 단점",
-   "url": "https://cafe.naver.com/mokwon216/8?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1va3dvbjIxNiIsImFydGljbGVJZCI6OCwiaXNzdWVkQXQiOjE3OTI3OTA0OTYxNzV9.vn3-SUlQyaOwCFn-qhnvOuiw6DQf-_kAzzCNqwDJbLk&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": ": 사이트에서 예약하시면 결제내역이 메일로 도착하고, 버스 기사님께 메일 내용을 보여드리면 된답니다 https://japanbuslines.com/ko/bus_search/hokkaido/all/hokkaido/toyako/ -10:06 [사이로 전망대] : 저희가 갔을떄는 전망대 건물 외부는 공사중이었지만 내부 가게는 정상운영되고 있었어요 요구르트가 유명",
-   "url": "https://cafe.naver.com/jpnstory/4412117?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImpwbnN0b3J5IiwiYXJ0aWNsZUlkIjo0NDEyMTE3LCJpc3N1ZWRBdCI6MTc5Mjc5MDQ5NjE3NX0.LcVgFa5GQ_ttwTjNEe9gBs1vuJGD7V3zhghFCKppZR8&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "국회의원 한준호 1시간전 굴착공사 정보 21개 중 통신사 제공은 9개뿐… 현장 담당자 연락처도 빠져 굴착공사 정보 21개 중 통신사 제공은 9개뿐… 현장 담당자 연락처도 빠져 - 굴착공사정보지원센터 수집 정보 21개 항목 중 통신사 제공은 9개 항목에 그쳐 - 공사 담당자 성명·휴대전화번호 등 현장 연락정보 미제공… 통신선로 사고 대응에 어려움 우려 한준호",
-   "url": "https://cafe.naver.com/jungamironware/20075?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMDA3NSwiaXNzdWVkQXQiOjE3OTI3OTA0OTYxNzV9.qM2BJ7KH0udNQagJMtIDGzQrOh2lmPsXI-T67y0s0Ro&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "용사 심심함으로 방제를 정하고, 불금인데 잘보냈고 인사도 해주고! 일본 갔을때 시로선배꺼 사주면서 시나모롤 버전 타로카드도 샀다는 리코, 그래서 오늘의 운세를 봐주겠다고! 첫 질문은 팝업스토어 갔을때 채키카드 리코 레어로 뽑을 수 있을지에 대한 것으로 치코들이 번호를 골라 1번 3번 고르니 에잇오브펜타클을 뽑은 치코. 많이 뽑아야 나오는 식으로 나와 치코 ",
-   "url": "https://cafe.naver.com/tteokbokk1/1102984?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InR0ZW9rYm9razEiLCJhcnRpY2xlSWQiOjExMDI5ODQsImlzc3VlZEF0IjoxNzkyNzkwNDk2MTc1fQ.QQ9cduai-oYCZnLdE8-jS7_0UILWR1kIEXDfXeWHDD4&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "아이뿐 아니라 성인 관람객에게도 평소 쉽게 접하기 어려운 체험으로 관심을 끌었다. 현역 장병 설명과 군 장비 전시 군 장비 전시관에는 장갑차와 전차, 자주포, 헬기 등 육군의 주요 전투 장비가 전시됐다. 사진이나 영상으로만 접하기 쉬운 장비를 실제 크기로 살펴볼 수 있으며, 일부 장비는 직접 탑승하거나 내부를 확인할 수 있다. 현장에는 현역 장병이 배치돼 ",
-   "url": "https://cafe.naver.com/gyeongbukzine/736?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imd5ZW9uZ2J1a3ppbmUiLCJhcnRpY2xlSWQiOjczNiwiaXNzdWVkQXQiOjE3OTI3OTA0OTYxNzV9.mjAcseb-dPFb1c4qP10sCbHnavAA8uUeYHNIwVinlDg&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "수리온과 아파치 헬기뿐만 아니라 K-2 전차와 K-9 자주포 같은 실제 장비들을 가까이서 볼 수 있어요. 단순 관람에 그치지 않고 장갑차 탑승, 현궁 모의 사격, 지뢰 탐지기 체험 등 현장감 넘치는 활동이 가능합니다. 전시된 장비들의 주요 특징과 체험 가능한 항목들을 아래 표에서 한눈에 비교하여 일정을 계획해 보세요. 구분 주요 내용 역사 전시 왜관철교 및",
-   "url": "https://cafe.naver.com/zzangbusan/41856?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Inp6YW5nYnVzYW4iLCJhcnRpY2xlSWQiOjQxODU2LCJpc3N1ZWRBdCI6MTc5Mjc5MDQ5NjE3NX0.L7s61HXgMHU9Qh3_gFhrm7a6VuEbuoK6XHhxe50fV6s&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "구분 주요 전시 및 체험 내용 항공 장비 수리온, 아파치 헬기, 블랙이글스 에어쇼 지상 무기 K-2 전차, K-9 자주포, 패트리엇 미사일 직접 체험 장갑차 탑승, 현궁 사격, 지뢰 탐지기 모든 프로그램은 무료로 운영되지만 현장 상황에 따라 대기 시간이 발생하거나 이용 조건이 달라질 수 있으니 참고하세요. 430미터 부교 걷기와 야간 행사 정보 낙동강의 정",
-   "url": "https://cafe.naver.com/zzangbusan/41846?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Inp6YW5nYnVzYW4iLCJhcnRpY2xlSWQiOjQxODQ2LCJpc3N1ZWRBdCI6MTc5Mjc5MDQ5NjE3NX0._WTCaVqOhNdNXFPE32fqVhoYQZ0tLhKlOPF6n7_-QS4&q=%ed%95%b4%eb%b3%91%eb%8c%80%20%ed%97%ac%ea%b8%b0%20%ed%83%91%ec%8a%b9%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "남자친구가 26일에 연차를 낼 수 있는지 물어보길래 이유를 물어봤더니, 부모님이나 여자친구 등 시간이 되는 가족이 방문하면 헬기 탑승 체험을 할 수 있는 행사가 있어서 신청해 보려고 한다고 하더라고요. 일단 연차는 신청해 놓은 상태인데, 남자친구도 정확히 어떤 행사인지는 모른다고 해서요ㅎㅎ 양구에서 진행하는 행사는 아니고 인제까지 이동해서 헬기를 탄다고..",
-   "url": "https://cafe.naver.com/army58cafe/1445174?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFybXk1OGNhZmUiLCJhcnRpY2xlSWQiOjE0NDUxNzQsImlzc3VlZEF0IjoxNzkyNzkwNDk5MTM5fQ.7pHHofDNAyDXtZU1_9P7AHTYbC8kEHGgxxAyl-e5W48",
-   "engine": "naver_all",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "군문화 체험, 어린이 프로그램 올해 계룡 군문화축제에서는 육·해·공군과 해병대가 참여하는 다양한 공연과 전시, 체험... 공격헬기까지 한자리에서 볼 수 있어 군 장비에 관심이 많은 분이라면 하루종일 지루할 틈이 없겠어요. 직접 참여하는 군 체험 충남 아이랑 함께 방문한다면 직접 참여할 수 있는 프로그램도 눈여겨보세요. 전투장비 탑승과 사격체험을... 새 창",
-   "url": "https://blog.naver.com/ojirap1004/224430229900",
-   "engine": "naver_all",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "보는 것만으로 그치지 않고 직접 탑승까지 해볼 수 있답니다. 헬기는 역시나 웨이팅이 제법 긴 편이니 관심있으시다면 여기 먼저 들르는 것도 방법. 때마침 하늘을 울리는 군용... 해병대에서는 군복 착용과 보트 체험을 해볼 수 있고요. 해군에는 상큼한 포토월과 유쾌한 병사분들이 계시답니다. 공군에서는 전투기를 탔을 때의 기분을 가상공간을 통해 느껴 볼 수...",
-   "url": "https://blog.naver.com/hy7276/224429194502",
-   "engine": "naver_all",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "헬기가 생각보다 덩치가 크네요 이렇케 가깝게 헬기 나는거 체험 처음이예요 동영상 재생함 해보세요. 아미 타이거 마스코트 하고 한컷해요 이번에 느꼈지만 모두들 정말 친절하게 관람객들을 맞아주네요. 수리온 헬기 배경으로 한컷해요. 조정석에는 대기줄이너무 길어서 뒷편에서 그냥배경으로한컷 해봅니다. 공군,해군,해병대 마스코트들이죠 자체 부스도 따로... 새 창 열",
-   "url": "https://blog.naver.com/89jj89/224436874844",
-   "engine": "naver_all",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "사전 탑승 선발 없음 ⚠️ 체험비행은 꼭 확인하세요! 대학 및 민간 경비행기 체험비행은 전면 취소됐으며, 공군 및... 특히 ✈️ 전투기 헬기 ️ 다양한 항공기 공군 장비 군악·의장 우주항공산업 에어쇼 를 한자리에서 볼 수 있으니까요.... 계룡 군문화축제도 다녀왔고 김포 해병대 문화축제도 11월에 갈 예정이고, 포항 해병대문화축제도 알아보고 있는데 이번에",
-   "url": "https://blog.naver.com/nanggokim/224435747406",
-   "engine": "naver_all",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "곧 다가올 2026년 포항 해병대 문화축제를 기다리며, 작년에 아이와 함께 포항 해병대 제1사단 및 해병의 거리 일원에서... 부대 개방 & 군 장비 전시 장갑차 체험을 마치고 해병대 1사단 연병장 쪽으로 이동하니 평소에는 보기 힘든 탱크, 자주포, 상륙돌격장갑차 등 군 장비들이 연병장에 멋지게 전시되어 있었습니다. 5. 군용 헬기 & 탑승 체험 다음으로 ",
-   "url": "https://blog.naver.com/bluest01/224424197789",
-   "engine": "naver_all",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "매년 가을 충남 계룡시 계룡대 비상활주로 일원에서 첨단 무기 전시 탑승 K2전차 K9자주포 수리온 헬기등 한.미 지상작전 전력 핵심 장비를 직접 눈앞에서 보고 탑승해볼 수 있습니다 제병 합동 전투 시범 전차 장갑차 육군항공 등 특전사 고공강하 특공무술 시범 및 블랙이글스 참여 군 의장대 공연및 군사경찰 MC기동 체험행사 서바이벌 사격 드론 병영 훈련 체험 ",
-   "url": "https://cafe.naver.com/army58cafe/1389050?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFybXk1OGNhZmUiLCJhcnRpY2xlSWQiOjEzODkwNTAsImlzc3VlZEF0IjoxNzkyNzkwNDk5MTM5fQ.fUaDNDYVofpSUa4cT8i0_wc5PEcEFWlZHI5M3LH0nPY",
-   "engine": "naver_all",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "김포시가 다음 달 7일 오전 11시부터 오후 7시까지 김포함상공원과 대명항 일대에서 제3회 해병대 문화축제를 개최합니다.축제에서는 군악대 공연과 헬기 기동 시연, 해병 장비 탑승과 군복 체험 등이 진행되며, 마산역과 대명항을 오가는 무료 셔틀버스도 20분 간격으로 운행...새 창 열림",
-   "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1541054",
-   "engine": "naver_all",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "경기도교통정보센터4일 전gits.gg.go.kr›newboard새 창 열림",
-   "url": "https://gits.gg.go.kr/web/main/index.do",
-   "engine": "naver_all",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "축제는 마술 공연과 태권도시범단·군악대 공연, 헬기 기동 시연으로 문을 연다. 개막식 이후에는 군복 착장 시연, '강철근육... 김포함상공원 일원에서는 오전 11시부터 해병 장비 전시와 탑승 체험이 진행된다. 이와 함께 군복·군장 체험, 팔각모·군번줄 만들기, 레이저 사격 체험, '필승! 해병대 3종 미션'(축구·농구·양궁), 페이스페인팅, 달고나 만들기 ",
-   "url": "https://gits.gg.go.kr/web/newboard/3386.do?mode=view&idx=203579545",
-   "engine": "naver_all",
-   "query": "해병대 헬기 탑승 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "구 예비군 숙소는 도보 이동 구간에 계단과 부교가 있어 유모차나 웨건 이용 시 주의해야 합니다. 정확한 위치는 사천에어쇼 공식 교통 안내에서 확인할 수 있습니다. 무료... 우주항공방위산업전과 지상전시, 체험·교육 부스는 비가 와도 정상 운영하지만, 블랙이글스 등 비행과 공연은 당일 기상 상황에 따라 변경 또는 취소될 수 있습니다. 공식 우천... 새 창 ",
-   "url": "https://blog.naver.com/goodidea0475/224451919056",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "방문정보 위치: 화천군 화천읍·간동면 북한강 일대 ☎ 관광안내: 033-440-2575 핵심 산책코스: 숲으로다리 → 살랑교 이용요금: 무료 특징: 북한강 수변 산책 · 수상부교 · 살랑교... 각종 체험 프로그램이 운영되기도 하지만, 10월에는 북한강과 주변 산을 바라보며 여유롭게 산책하는 코스로 즐기는 것을 추천합니다. 2026년 물놀이장 운영은 7월 ",
-   "url": "https://blog.naver.com/tkfkdgo20002/224450789900",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "하늘에서 펼쳐지는 곡예비행뿐 아니라 항공 관련 장비를 살펴보는 지상전시, 우주항공 체험·교육 프로그램 등으로... 비행 시간은 기상과 현장 운영, 군 작전 여건에 따라 바뀔 수 있습니다. 고정된 공연이라고 생각하기보다 출발전 공식... 그리고 구 예비군 숙소는 도보 이동이지만 경로에 계단과 부교가 포함되어있어, 유모차·웨건 이용이 제한될 수 있답니다!...",
-   "url": "https://blog.naver.com/honeybees07/224451799968",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "다만 비행 공연은 기상 상태와 군 작전 여건에 따라 변경되거나 취소될 수 있습니다. 오후 공연을 보러 간다면 오후 2시 이전에 반드시 입장을 마쳐야 한다는 점도 기억해 주세요.... 사천에어쇼 공식 홈페이지에는 항공기와 장비 전시를 비롯해 가상현실(VR) 체험, 드론 조종 체험, 항공 관련 만들기 프로그램 등이 안내돼 있습니다. VR은 특수 기기를 착용해.",
-   "url": "https://blog.naver.com/twig_zip/224451653184",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "공식 홈페이지에 남아 있는 2026년 체험료와 예약 안내는 2027년 확정 정보로 적용하지 않았습니다. 아래 여행비는 별도로... 산천어 체험입니다. 얼음 구멍 아래를 바라보다 낚싯대에 전해지는 움직임을 느끼는 순간은 겨울여행의 특별한 기억이... 여행의 중심은 체험 하나, 휴식은 충분히 낚시와 눈놀이를 모두 오래 즐기려 하면 추위에 지치기 쉽습니다. 낚시",
-   "url": "https://hongji.tistory.com/7247",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "진주남강유등축제, 빛으로 물든 남강의 밤 가을밤의 공기는 낮보다 조금 더 차분하고, 해가 저문 뒤에야 비로소 모습을 드러내는 풍경들이 있습니다. 낮에는 평범하게 흐르던 강물이 밤이 되면 수많은 빛을 품고, 주변의 풍경마저 전혀 다른 모습으로 바뀝니다. 이번에 다녀온 곳은 경남 진주의 대표적인 가을 축제이자, 아름다운 야경으로 많은 사람에게 사랑받는... 새",
-   "url": "https://blog.naver.com/wgym777/224451382444",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "공군의 화려한 에어쇼는 물론 최첨단 국산 항공기 전시와 다채로운 체험 행사까지 준비되어 있어 매년 많은 방문객의 관심을 모으고 있습니다. 사천에어쇼 행사 개요 및 기본 정보... 유모차 및 휠체어 동행 시 도보 구역은 신중히 선택하세요 '구 예비군 숙소' 주차장은 도보 진입이 가능하지만 계단과 부교를 지나는 동선이 포함되어 있습니다. 이동 편의를... 새 ",
-   "url": "https://blog.naver.com/dailydot365/224451348979",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "여기에 대구간송미술관과 협업한 특별정원, 정원산업전, 가족 체험, 문화공연까지 준비돼 있어요. 특히 입장료가... 정원 종류 규모 학생정원 20개 시민정원 19개 기업정원 8개 구·군 참여정원 8개 도시농업정원 1개 시민정원사 정원 21개 합계... 노곡체육공원 주차장과 하중도 사이에는 관람객 이동을 위한 부교도 설치할 계획이에요. 주의할 점! 주차장별 정",
-   "url": "https://blog.naver.com/happy-828253/224451265775",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "(체험료는 별도, 매표 마감 17:00) 아이와 함께 가시는 분들은 이 두 곳도 무조건 코스에 넣으셔야 합니다. 사천 에어쇼 기간 동안 과학관과 박물관이 무료 관람이라는 역대급 혜택!... 계단과 부교가 포함되어 있어 안전을 위해 왜건이나 유모차 등의 이용이 제한될 수 있다고 하니 아이와 동반하시는 부모님들은 참고하셔야겠습니다. 저희처럼 아이들 있는 가정은",
-   "url": "https://blog.naver.com/hessedand/224451264948",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "및 체험 올해 사천 에어쇼에서는 공군 블랙이글스 곡예비행뿐 아니라 KF-21, T-50, KT-1 등 다양한 항공기의 시범비행이... 비행 일정은 기상 상황과 군 작전, 현장 운영 여건에 따라 변경되거나 취소될 수 있습니다. 사천 에어쇼 공식... 특히 구 예비군 숙소 임시주차장은 행사장까지 걸어가야 하고, 이동경로에 계단과 부교가 포함되어 있습니다. 유모",
-   "url": "https://blog.naver.com/love809913/224451217729",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "비행 일정은 기상과 현장 운영·군 작전 여건에 따라 변경되거나 취소될 수 있습니다. 이미지는 관람 안내용... 무료 입장이라는 말이 별도 체험까지 모두 무료이거나 누구나 바로 참여할 수 있다는 뜻은 아닙니다. 체험을 목적으로... 계단과 부교가 포함돼 이용이 제한될 수 있다는 안내가 있습니다. 다른 주차장에서도 셔틀 탑승 조건과 당일 이동 동선을... 새 ",
-   "url": "https://blog.naver.com/notei-/224451153994",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "항공기·장비 탑승체험과 우주항공 관련 체험·교육 프로그램도 마련돼 있어, 비행 시범과 지상 관람을 연결해 일정을 잡을 수 있습니다. 같은 기간 열리는 우주항공방위산업전의... 공식 안내에 따르면 (구)예비군 숙소 임시주차장은 도보 이동경로에 계단과 부교가 있어 웨건·유모차 이용이 제한될 수 있습니다. 촬영 구역과 반입 제한도 확인하세요 항공기를 촬영할 수.",
-   "url": "https://blog.naver.com/save_all_/224451124160",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "훈련에는 한국형 자주도하장비 ‘수룡(KM3)’ 10대와 리본부교(RBS), 미군 개량형 전술부교(IRB) 등 공병장비 130여 대가 투입됐다. K2전차와 K21보병전투장갑차 등 궤도장비를 비롯한... 김 총장은 한국형 자주도하장비 수룡에 직접 올라 문교 도하를 체험하며 장병들의 운용 전문성과 숙련도 향상을 당부했다. 김 총장은 한미 장병들이 함께 훈련하며 ",
-   "url": "https://blog.naver.com/khj0751/224451069083",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "우주항공 체험 프로그램이 진행됩니다. 특히 올해는 우주항공방위산업전도 함께 개최됩니다. 오후 2시 이후에도... 다만 약 15분의 도보 경로에 계단과 부교가 포함돼 있습니다. 유모차나 웨건 이용이 제한될 수 있으므로 유모차를... 기상상황과 군 작전 여건 등에 따라 취소되거나 시간이 바뀔 수 있습니다. 특정 비행 하나만 보기 위해 방문한다면 당일 최신...",
-   "url": "https://blog.naver.com/knowitsgood/224450999084",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "구 예비군 숙소에서 걸어가는 길에는 계단·부교가 있어요. 유모차·웨건을 동반한다면 셔틀 노선을 고려하고, 주차와 셔틀 대기시간도 여유 있게 잡아주세요. ③ 하늘만 보지... 전시품은 군 작전·현장 여건에 따라 바뀔 수 있습니다. • 모두모두 드론 파일럿: 고글드론 조종체험과 시뮬레이션으로 조종의 재미를 맛볼 수 있어요. • 사천 하늘을 날다... 새 창 열",
-   "url": "https://blog.naver.com/dailybetter-j/224450724254",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "단, 비행 일정은 날씨나 군 작전, 현장 사정에 따라 바뀔 수 있다고 공식 페이지에 적혀 있어요. 출발 전에 홈페이지... ▲ 사천 위치 (출처: 사천에어쇼 공식 홍보영상 캡처) 구 예비군 숙소는 걸어서 가는 대신 계단과 부교가 있대요.... 캡처) 체험 목록도 꽤 길어요. VR 레이싱, 가상우주, 열기구, 짚라인, 고글 드론 조종, 천체투영돔, 비행기 만",
-   "url": "https://blog.naver.com/codeflow612/224450819190",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "도보 경로에 계단과 부교가 있어 유모차·웨건 이용이 제한될 수 있습니다. 아이나 어르신과 함께라면 걷는 경로를 먼저... 출발 당일에는 비행 변경 공지까지 비행 시간은 기상·군 작전·현장 운영에 따라 변경되거나 취소될 수 있어요. 출발 당일 공식 누리집과 현장 공지를 확인하고, 도착 후에도 안내방송을 살피세요. 비가 올 때 지상 체험이 모두 정상... 새 ",
-   "url": "https://blog.naver.com/kikichamelon/224450785822",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "주요 정보 위치: 경상남도 진주시 본성동 (진주성 내 남강 변) 역사적 의미: 13세기 초에 창건된 유서 깊은 누각으로, 임진왜란 당시 군 지휘소 및 격전지로 사용되었습니다. 논개가 왜장을 끌어안고 남강으로 뛰어들었다는 역사가 서린 장소입니다. 최근 소식: 국가유산청은 남강과 절벽, 촉석루가 어우러진 경관과 역사적 가치를 인정해 '진주 남강 촉석루 일원'을",
-   "url": "https://blog.naver.com/dojr2702/224450866359",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "강원도 철원은 깊게 파인 협곡과 현무암 절벽, 넓게 펼쳐진 폭포를 하루에 감상할 수 있는 여행지입니다. 특히 한탄강을 따라 이어지는 직탕폭포, 은하수교, 송대소, 고석정은 각각 다른 지형과 풍경을 보여줍니다. 직탕폭포에서는 강 전체를 가로지르는 폭포를, 은하수교에서는 발아래로 펼쳐지는 협곡을 감상할 수 있습니다. 마지막 고석정에서는 강 한가운데 우뚝... ",
-   "url": "https://blog.naver.com/soloreview/224450539215",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "대표 프로그램인 블랙이글스 곡예비행을 비롯해 KF-21, T-50, KT-1 등의 항공기 시범비행과 항공기 전시, 우주항공 체험, 공연까지 다양하게 준비되어 있답니다. 무엇보다 입장료가... 그리고 구 예비군 숙소 주차장은 행사장까지 도보 이동이 가능하지만 이동로에 계단과 부교가 포함되어 있다고 해요. 유모차나 웨건을 이용하시는 분들은 다른 주차장과 셔틀을",
-   "url": "https://blog.naver.com/choco_bubu/224450735938",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "올해는 블랙이글스와 KF-21 시범비행, 항공기 전시, 우주항공 체험이 준비돼 있습니다. 하지만 일반 축제와 달리... 22일: 13:25~14:00 23~25일 오전: 10:40~11:15 23~25일 오후: 14:20~14:55 비행시간은 기상상황과 군 작전 여건에 따라 변경되거나 취소될... 옛 예비군 숙소 임시주차장은 행사장까지 도보로 이동하는 구간",
-   "url": "https://blog.naver.com/readlea/224449962722",
-   "engine": "naver_blog",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "네이버뉴스새 창 열림",
-   "url": "https://n.news.naver.com/mnews/article/088/0001036116?sid=004",
-   "engine": "naver_news",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "◆현무암 협곡 사이 두둥실⋯ 한탄강 물윗길 겨울 트레킹 체험 주상절리길에서 한탄강을 발아래로 내려다 봤다면 물윗길에서는 직접 물줄기 위를 거니는 경험도 빼먹지 않아야 한다. 한탄강 물윗길은 철원9경에 속하는 직탕폭포에서 순담계곡까지 5.8㎞ 구간을 부교로 이어붙여 만든 트레킹 코스다. 부교와... 새 창 열림",
-   "url": "https://www.imaeil.com/page/view/2026102111125511601",
-   "engine": "naver_news",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "우주항공방위산업전과 항공기 지상전시, 우주항공 체험 프로그램도 마련됩니다. 사천에어쇼 주차장 5곳 주소 총정리 자가용으로 방문한다면 내비게이션 목적지를 사천비행장으로 설정하지 않는 것이... 이곳에서 행사장까지 이동하는 길에는 계단과 부교가 포함돼 있습니다. 따라서 유모차나 웨건을 이용하는 가족은 이동이 제한될 수 있으며, 거동이 불편한 어르신과 함께라면 ",
-   "url": "https://cafe.naver.com/grayq6qum/25?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyYXlxNnF1bSIsImFydGljbGVJZCI6MjUsImlzc3VlZEF0IjoxNzkyNzkwNTExMzUxfQ.no3bC53tmz7r2yn1QmJ7IztpNb-oFrwKiCgT2Pfs8M8&q=%ea%b5%b0%20%eb%b6%80%ea%b5%90%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "비행 시각과 기체는 기상과 군 작전 여건에 따라 바뀔 수 있으므로 출발 전 공식 홈페이지 확인이 필요합니다. 날짜 블랙이글스... 셔틀은 오전 9시부터 오후 6시까지 다니며, 구 예비군 숙소 주차장은 계단과 부교가 있어 유모차·웨건 이용이 제한될 수 있습니다.... 만 14세 미만 어린이는 보호자 등록에 동반인으로 함께 들어갈 수 있고, 행사 기간 매일 항",
-   "url": "https://cafe.naver.com/uccplus/2430948?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVjY3BsdXMiLCJhcnRpY2xlSWQiOjI0MzA5NDgsImlzc3VlZEF0IjoxNzkyNzkwNTExMzUxfQ.6uNFBA2Rno8Hyr-BcTY6Ekfx4KQ-e8WGhDYEnpihAeU&q=%ea%b5%b0%20%eb%b6%80%ea%b5%90%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "✅ 유모차 경로와 취소된 체험도 확인해요 구 예비군 숙소는 도보 이동 경로예요. 공식 안내에 따르면 계단과 부교가 포함되어 웨건·유모차 이용이 제한될 수 있어요. 유모차가 꼭 필요하다면 이 경로를 선택하기 전에 문의하세요. 입장 등록과 비행기 탑승 신청도 달라요. 공식 변경 공지는 대학·민간 경비행기 체험비행 전면 취소와 공군·수송기 체험비행의 일반 관람객",
-   "url": "https://cafe.naver.com/ebook4989/130?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVib29rNDk4OSIsImFydGljbGVJZCI6MTMwLCJpc3N1ZWRBdCI6MTc5Mjc5MDUxMTM1MX0.WNA9o-5J3gQVSEJz17hv_zaCC_c3RaJEqkoczWtEtbs&q=%ea%b5%b0%20%eb%b6%80%ea%b5%90%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "11~12월은 이우 특산 흑설탕(红糖) 수확·제당 철이라 전통 홍탕 공방 체험이 가능하다. 토막상식 : 이우 소상품, 어디서 만들어질까? 이우 시장은 저장성 각지의 산업 클러스터에서 물건을 모아 파는 쇼룸이다. 양말은 주지(诸暨), 철물은 융캉(永康), 문구는 닝보(宁波), 신발·안경·라이터는 원저우(温州), 플라스틱·유리는 타이저우(台州), 원단은 사오싱",
-   "url": "https://cafe.naver.com/chinatripatoz/30818?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNoaW5hdHJpcGF0b3oiLCJhcnRpY2xlSWQiOjMwODE4LCJpc3N1ZWRBdCI6MTc5Mjc5MDUxMTM1MX0.emMIrGepMviblMHzkNEwalTps_rMEtu8xTKx2TTrsXE&q=%ea%b5%b0%20%eb%b6%80%ea%b5%90%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "군 관련 프로그램 외에도 비즈 공예와 그림 그리기 같은 만들기 체험이 운영됐다. 손으로 재료를 고르고 결과물을 완성하는 과정에 어린이들이 참여했으며, 군장비 중심의 전시와는 다른 방식의 체험 공간을... 낮에는 부교와 걷기 체험, 군장비 전시와 체험 부스가 사람들의 발길을 이끌었고, 저녁에는 참전용사와 기수단의 순서, 무대 공연과 불꽃놀이가 이어졌다. 나흘",
-   "url": "https://cafe.naver.com/gyeongbukzine/772?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imd5ZW9uZ2J1a3ppbmUiLCJhcnRpY2xlSWQiOjc3MiwiaXNzdWVkQXQiOjE3OTI3OTA1MTEzNTF9.XXq3ADEsFwo7x7CzIsISNSFMIgTBlWzcfo0mhyU9yCc&q=%ea%b5%b0%20%eb%b6%80%ea%b5%90%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "군 부교 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "무료 행사라고 바로 입장할 수 있다고 생각하기 쉽지만, 2026 사천 에어쇼는 군 비행장 출입 절차가 필요한 행사예요. QR 등록과... 계단과 부교로 유모차 주의 셔틀 운행 간격과 정확한 승하차 위치는 제공된 자료에서 확정되지 않았습니다. 특히 사천터미널은 주차장이... 비행만 보고 돌아오는 일정으로 잡기보다 전시관과 체험 구역까지 생각하면 관람 시간이 ",
-   "url": "https://cafe.naver.com/purpleqep5t/472?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InB1cnBsZXFlcDV0IiwiYXJ0aWNsZUlkIjo0NzIsImlzc3VlZEF0IjoxNzkyNzkwNTExMzUxfQ.JzpmcEy2SD3SP77Hzq556-Iigr0WRWBSx_34Vzf6o8Q&q=%ea%b5%b0%20%eb%b6%80%ea%b5%90%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "군 부교 체험",
    "first_seen": "2026-10-24T06:07:46+09:00"
   }
  ],
