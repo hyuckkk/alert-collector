@@ -1,47 +1,54 @@
-[geumriver-dam] rendered 4513 chars CHANGED
-[woosongart-schedule] rendered 590 chars CHANGED
-[pyeongtaek-main] rendered 21213 chars CHANGED
-[kopis-daejeon-kids] rendered 30795 chars same
-[kwater-realtime-multidam] rendered 10568 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 165001 chars CHANGED
-[mokwon-events] rendered 948 chars CHANGED
-[nol-upcoming-notice] rendered 16006 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 15994 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] rendered 262076 chars CHANGED
-[pyoungsong-performance] rendered 1161 chars same
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
-[cnu-jsh-schedule] rendered 854 chars same
-[bok-commemorative-coin-news] rendered 715 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 5412 chars CHANGED
-[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
-[nol-notice-10111] rendered 15985 chars CHANGED
-[naver-entertain-018-0006379428] rendered 45243 chars CHANGED
-[interpark-artist-leejuck] rendered 10177 chars CHANGED
-[yctf-show] rendered 502 chars CHANGED
-[sejong-notice-science-concert] rendered 1017 chars CHANGED
-[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31231 chars CHANGED
-[hanbat-gongdong-science-form] rendered 622 chars CHANGED
-[ticketlink-product-65585] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/65585']' timed out after 75 seconds
-[yes24-perf-60278] rendered 198 chars CHANGED
-[chuncheon-notice-announcement] rendered 3692 chars CHANGED
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[dgdr-festival] rendered 203 chars CHANGED
-[khs-eventinfo] rendered 1144 chars CHANGED
-[kopis-pf302030] rendered 7807 chars same
-[blog-gotaekmusicfesta-224428285877] rendered 2924 chars CHANGED
-[blog-gotaekmusicfesta-224426135103] rendered 3651 chars CHANGED
-[gongjeon-kids] rendered 482 chars CHANGED
-[navy-visit-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[dsecc-programs] rendered 2071 chars CHANGED
+[seogu-exprn-list] rendered 1217 chars CHANGED
+[seogu-event-list] rendered 1217 chars CHANGED
+[seogu-edu-list] rendered 1223 chars CHANGED
+[daejeon-its-board] rendered 3580 chars CHANGED
+[zeropay-events] rendered 525 chars CHANGED
+[chuncheon-festival-news] rendered 921 chars CHANGED
+[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
+[daejeon-cafe-dodam-2801968] rendered 7085 chars CHANGED
+[cnu-jsh-schedule-178] rendered 1904 chars CHANGED
+[dmzforest-main] rendered 6459 chars CHANGED
+[sejong-notice-dance-free] rendered 1711 chars CHANGED
+[woorisb-tok7-product] rendered 2810 chars CHANGED
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[andong-halftour] rendered 2491 chars CHANGED
+[kfe-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000", waiting until "domcontentloaded"
+  - navigating to "https://www.kfe.re.kr/", waiting until "domcontentloaded"
 
-[katc-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[blog-tjrudska82-224434527430] rendered 4510 chars CHANGED
+[blog-dooglami-224434696671] rendered 5039 chars CHANGED
+[mommom-place-6a868bff] rendered 95 chars CHANGED
+[mommom-place-6a2b946b] rendered 84 chars CHANGED
+[mommom-place-6a2b94f5] rendered 84 chars CHANGED
+[mommom-place-6a2b9455] rendered 84 chars CHANGED
+[nol-product-phantom-40th] rendered 5352 chars CHANGED
+[chuncheon-municipal-news] rendered 1722 chars CHANGED
+[mokwon-general-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.katc.mil.kr/katc/guide/schedule.jsp", waiting until "domcontentloaded"
+  - navigating to "https://www.mokwon.ac.kr/kr/html/sub06/0601.html", waiting until "domcontentloaded"
 
-[mnd-main] rendered 16785 chars CHANGED
-[fsale-main] rendered 4920 chars CHANGED
+[templestay-main] rendered 2629 chars CHANGED
+[hwadong-main] rendered 8202 chars CHANGED
+[mokpo-harborfestival-main] rendered 8982 chars CHANGED
+[nol-product-26012487] rendered 1439 chars CHANGED
+[kopis-place-pyoungsong-small] rendered 10154 chars same
+[bok-press-list] rendered 801 chars CHANGED
+[blog-seogu-artfest-fringe-cvovz] rendered 5621 chars CHANGED
+[blog-seogu-artfest-blu2sky7] rendered 6329 chars CHANGED
+[kwater-realtime-sumun] rendered 2310 chars CHANGED
+[kmusic-calendar-year] rendered 6139 chars CHANGED
+[yuseong-lib-lecture-12604] rendered 1523 chars CHANGED
+[yuseong-lib-lecture-list] rendered 2338 chars CHANGED
+[yuseong-cultprfr-list] rendered 634 chars CHANGED
+[ysfesta-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "http://ysfesta.com/", waiting until "domcontentloaded"
+
+[vol-djv1365-main] rendered 9612 chars CHANGED
+[yuseong-round-event] rendered 1322 chars CHANGED
+[seogu-yeyak] rendered 2797 chars CHANGED
+[djkids-musical] rendered 1618 chars CHANGED
