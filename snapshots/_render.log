@@ -1,51 +1,58 @@
-[zeropay-events] rendered 529 chars CHANGED
-[science-edu-reservation] rendered 2215 chars CHANGED
-[sejong-notice] rendered 2272 chars CHANGED
-[sejong-notice-greenfamily] rendered 1799 chars CHANGED
-[sejong-notice-birdwatch] rendered 1339 chars CHANGED
-[yangyang-cafe-balloon-15331] rendered 4545 chars CHANGED
-[komsco-shop-medal] rendered 7345 chars CHANGED
-[komsco-shop-coin] rendered 6799 chars CHANGED
-[komsco-shop-bar] rendered 6839 chars CHANGED
-[komsco-shop-card] rendered 7387 chars CHANGED
-[komsco-shop-currency-set] rendered 6683 chars CHANGED
-[sejong-notice-imnansu-play] rendered 869 chars CHANGED
-[dsecc-programs-p2] rendered 2073 chars CHANGED
-[dsecc-programs-p3] rendered 2073 chars CHANGED
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[seocheon-halftour-apply] rendered 1300 chars CHANGED
-[komsco-shop-cate2284] rendered 6776 chars CHANGED
-[mcst-culture-71983] rendered 1181 chars CHANGED
-[aircanada-korea] rendered 22632 chars CHANGED
-[aircanada-kr-so-hub] rendered 2433 chars CHANGED
-[aircanada-kr-kbcard] rendered 26797 chars CHANGED
-[aircanada-kr-moretotravel] rendered 2790 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[woosongart-schedule] rendered 590 chars CHANGED
-[pyeongtaek-main] rendered 20706 chars CHANGED
-[kopis-daejeon-kids] rendered 30796 chars same
-[kwater-realtime-multidam] rendered 10552 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 135702 chars CHANGED
-[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[expo-park] rendered 765 chars CHANGED
-[chuncheon-festival-news] rendered 921 chars CHANGED
-[chuncheon-festival-news-459539] rendered 800 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
-
-[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "
-[pyeongtaek-news-board] rendered 3233 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 4914 chars CHANGED
-[pyeongtaek-gosi] rendered 1695 chars CHANGED
-[chuncheon-festival-news-465019] rendered 1362 chars CHANGED
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 484 chars same
-[pyoungsong-event-sandmagic] rendered 480 chars same
-[pyoungsong-event-stonesoup] rendered 317 chars same
-[donghae-dhdmo-program] rendered 1803 chars CHANGED
-[cnu-jsh-schedule] rendered 854 chars same
-[bok-commemorative-coin-news] rendered 715 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 5380 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
+[nol-notice-10111] rendered 16009 chars CHANGED
+[naver-entertain-018-0006379428] rendered 45448 chars CHANGED
+[interpark-artist-leejuck] rendered 10105 chars CHANGED
+[yctf-show] rendered 502 chars CHANGED
+[sejong-notice-science-concert] rendered 1017 chars CHANGED
+[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
+[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
+[yangyang-cafe-balloon-15331-m] rendered 31228 chars CHANGED
+[hanbat-gongdong-science-form] rendered 622 chars CHANGED
+[daejeon-cafe-dodam-2801968] rendered 8058 chars CHANGED
+[cnu-jsh-schedule-178] rendered 1904 chars CHANGED
+[dmzforest-main] rendered 6459 chars CHANGED
+[sejong-notice-dance-free] rendered 1711 chars CHANGED
+[woorisb-tok7-product] rendered 2810 chars CHANGED
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1180 chars CHANGED
+[nol-product-26001112] rendered 3666 chars CHANGED
+[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
+[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
+[leis-cycling-kcf] rendered 2100 chars CHANGED
+[sje-life-events] rendered 53308 chars CHANGED
+[nol-nutcracker-daejeon] rendered 5048 chars CHANGED
+[yuseong-round-event] rendered 1323 chars CHANGED
+[seogu-yeyak] rendered 2789 chars CHANGED
+[djkids-musical] rendered 1618 chars CHANGED
+[hanbat-library-culture] rendered 2558 chars CHANGED
+[daejeon-familycenter-programs] rendered 1204 chars CHANGED
+[daejeon-okr-edu] rendered 1509 chars same
+[daejeon-okr-hanbatlib] rendered 1662 chars same
+[melon-artist-songsohee] rendered 2042 chars CHANGED
+[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
+[melon-christmas-carol-212575] rendered 1899 chars CHANGED
+[mommom-sandmagic-a] rendered 4237 chars CHANGED
+[mommom-sandmagic-b] rendered 95 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[andong-halftour] rendered 2491 chars CHANGED
+[kfe-main] rendered 3606 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4486 chars CHANGED
+[mommom-place-6a868bff] rendered 95 chars CHANGED
+[mommom-place-6a2b946b] rendered 84 chars CHANGED
+[mommom-place-6a2b94f5] rendered 95 chars CHANGED
+[mommom-place-6a2b9455] rendered 84 chars CHANGED
+[nol-product-phantom-40th] rendered 5352 chars CHANGED
+[daejeontour-bread-festival] rendered 783 chars CHANGED
+[visitisland-main] rendered 1010 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1662 chars same
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[mommom-place-6a7d51b7] rendered 95 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3194 chars CHANGED
+[blog-dooglami-224433357728] rendered 4863 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-monthly] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-wp-event-api] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-tribe-events-api] RENDER ERROR rendered but too little text (19 chars)
