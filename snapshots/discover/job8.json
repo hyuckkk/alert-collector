@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:41:47+09:00",
+ "updated": "2026-10-26T07:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -8185,21 +8185,6 @@
    "engine": "gnews",
    "query": "수산대전",
    "first_seen": "2026-10-19T09:07:35+09:00"
-  },
-  {
-   "title": "[뉴스모음] 中 IP, 고객 정보 탈취 이어 DB저축은행서 대출 시도 外 - 딜사이트",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UQ2Nmc2dZdFdpNktYV0dCYTJIYUdQdFJqMGs4WFR3Skk5LVpabDhTUEwwMVdBZ210MWMtTGUxMW5lcWN2RDhIcDU0OVFleUE?oc=5",
-   "pub": "Fri, 16 Oct 2026 03:51:06 GMT",
-   "engine": "gnews",
-   "query": "수산대전",
-   "first_seen": "2026-10-19T07:07:35+09:00"
-  },
-  {
-   "title": "발표하고 상품권은 12월 중에 지급합니다. [앵커] 그런데 1등은 지방에서 써야 한다면서요? 서울 사는 분들은 안 되는 건가요? [답변...해 행사는 신용카드 결제를 기준으로 했습니다. 올해는 디지털온누리 오프라인 결제로 바꿔서 전통시장과 동네 가게에 쓰는 돈이...",
-   "url": "http://v.daum.net/v/20261019070439721",
-   "engine": "daum_news",
-   "query": "온누리상품권 할인율",
-   "first_seen": "2026-10-19T07:07:35+09:00"
   }
  ],
  "errors": []
