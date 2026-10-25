@@ -1,8 +1,24 @@
 {
- "updated": "2026-10-26T01:04:46+09:00",
+ "updated": "2026-10-26T03:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "고양시 도심을 가른 자전거 질주… ‘제27회 킹오브트랙 고양특례시장배’ 성료 - 사회적경제뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFB3YTdCdjZPTHRkaWdHOVcwaG53XzBVckhZRkM2NTRrcnhqOHgzcG93NEZwcEI1LWQxNVdxdFFHZw?oc=5",
+   "pub": "Mon, 19 Oct 2026 00:48:00 GMT",
+   "engine": "gnews",
+   "query": "로드 자전거 대회 접수",
+   "first_seen": "2026-10-26T03:07:48+09:00"
+  },
+  {
+   "title": "“우중 마라톤 시원해서 오히려 좋아”[2026 부산바다마라톤] - 부산일보",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEaUVfc2RTSEtMMnR0UjJyT3R6TUZrb3RXdDAxaXpxV0xDUkJhVlU1cmlleElwczJlejVPU3NaeFhzSXhKNVFJTzhnQ2x6ZnpZNzctWmQ4VDVrcnNzamRaUTZMejNqLU5fN0J1SGZyZTZfY2xPRXppTlFYaU0?oc=5",
+   "pub": "Sun, 25 Oct 2026 03:58:51 GMT",
+   "engine": "gnews",
+   "query": "세종 마라톤 대회 10km",
+   "first_seen": "2026-10-26T03:07:48+09:00"
+  },
   {
    "title": "대전시의회 조성칠 의장 “우리의 소중한 전통문화, 다음 세대까지 이어가야” - 누리일보",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SZ0l0cGJCYlpPUU5qMkdEOElRUVdRMlB3RGNtTmhnNDNJcU8tVmU4eG5nS0hxOFVORFJoMUtaS3NFQTMzUWZjV0ZGQldsQjYwbDEycHF0eC0zOXhV?oc=5",
@@ -2797,36 +2813,5 @@
    "first_seen": "2026-10-19T03:18:07+09:00"
   }
  ],
- "errors": [
-  "gnews '어린이 마라톤 대회 5km 초등학생 무료': HTTP Error 503: Service Unavailable",
-  "gnews '대전 마라톤 대회 5km 가족': HTTP Error 503: Service Unavailable",
-  "gnews '가족 마라톤 5km 초등학생 참가비 무료': HTTP Error 503: Service Unavailable",
-  "gnews '세종 마라톤 5km 어린이': HTTP Error 503: Service Unavailable",
-  "gnews '충남 마라톤 5km 가족 참가': HTTP Error 503: Service Unavailable",
-  "gnews '대전 걷기 달리기 대회 5km 무료': HTTP Error 503: Service Unavailable",
-  "gnews '자전거 대회 2026 참가자 모집': HTTP Error 503: Service Unavailable",
-  "gnews '그란폰도 참가자 모집': HTTP Error 503: Service Unavailable",
-  "gnews 'MTB 대회 참가자 모집': HTTP Error 503: Service Unavailable",
-  "gnews '로드 자전거 대회 접수': HTTP Error 503: Service Unavailable",
-  "gnews '자전거 대회 대전': HTTP Error 503: Service Unavailable",
-  "gnews '자전거 대회 충청': HTTP Error 503: Service Unavailable",
-  "gnews '메디오폰도 접수': HTTP Error 503: Service Unavailable",
-  "gnews 'XCO MTB 대회': HTTP Error 503: Service Unavailable",
-  "gnews '힐클라이밍 자전거 대회': HTTP Error 503: Service Unavailable",
-  "gnews '투르 드 코리아 스페셜 참가': HTTP Error 503: Service Unavailable",
-  "gnews '대전 마라톤 대회 10km 접수': HTTP Error 503: Service Unavailable",
-  "gnews '세종 마라톤 대회 10km': HTTP Error 503: Service Unavailable",
-  "gnews '충남 마라톤 10km 5km 참가자 모집': HTTP Error 503: Service Unavailable",
-  "gnews '충북 마라톤 10km 5km 참가자 모집': HTTP Error 503: Service Unavailable",
-  "gnews '청주 마라톤 대회 접수': HTTP Error 503: Service Unavailable",
-  "gnews '천안 마라톤 대회 접수': HTTP Error 503: Service Unavailable",
-  "gnews '공주 백제 마라톤 10km': HTTP Error 503: Service Unavailable",
-  "gnews '계룡 마라톤 대회': HTTP Error 503: Service Unavailable",
-  "gnews '에그런 세종 5km 접수': HTTP Error 503: Service Unavailable",
-  "gnews '달리기 대회 세종 가족 접수': HTTP Error 503: Service Unavailable",
-  "gnews '전국마라톤협회 골드런 5km 접수': HTTP Error 503: Service Unavailable",
-  "gnews '금산 마라톤 5km 10km 접수 2026': HTTP Error 503: Service Unavailable",
-  "gnews '부여 마라톤 5km 접수 2026': HTTP Error 503: Service Unavailable",
-  "gnews '신년 마라톤 1월 5km 충남 접수': HTTP Error 503: Service Unavailable"
- ]
+ "errors": []
 }

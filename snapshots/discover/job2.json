@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-26T01:04:46+09:00",
+ "updated": "2026-10-26T03:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "[2026 SBS 가요대전] 30주년 막 올린다! '1차 라인업' 22팀 공개에 글로벌 기대감 ↑ - 시사일보",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10S05pLWJsWldjUU9rdUFmaVdyWGxxZ25xOUZXLUY5X3NYczZJRXZ1UDJsMXF0MlNSZHFjZlJaVks4elJLTjVhRXAyTGc?oc=5",
+   "pub": "Sun, 25 Oct 2026 06:29:00 GMT",
+   "engine": "gnews",
+   "query": "대전 대학축제 라인업",
+   "first_seen": "2026-10-26T03:07:48+09:00"
+  },
   {
    "title": "보행로봇부터 김밥축제까지 어떻게 바뀌나…‘2026 공공디자인 포럼’ - 뉴시스",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91bzhqcDBVMjY0UmxYSTRydk11N0ljdTU1YkltcWQzdGpLV1VBQ2ZCNHpmQWhTUkdlRF9NTmZQNWEwaUpvaEJ4Ti1MSnJsSjVXcDZBcmtSLWg4RjZERXJieNIBeEFVX3lxTE5idElLRmFRTmJKc2diakYxeGZFQ3JXM0dLQ1dTZVk3cWRyekdWaW43YW1YR2JiOTFydll4N2U4X051VEVKNkFua3lIcVpHUmd3cTgyUm1aZFRVbEk1SEN2bV9HcGR6a25MLWNYbllUUzhudU9uNUFsUw?oc=5",
@@ -21325,45 +21333,7 @@
    "engine": "naver_cafe",
    "query": "대학 원어연극 대전",
    "first_seen": "2026-10-19T17:11:16+09:00"
-  },
-  {
-   "title": "세계대전 이후 캐나다 역사 CHC2P Canadian History since World War I (Applied) 캐나다 역사 (응용 과정) CHV2O Civics and... 불어 (대학 진학) 예술 과목 코드 English Course Name 한국어 과목명 AVI3M Visual Arts 미술 (혼합 과정) AMU3M Music 음악 (혼합 과정)",
-   "url": "https://cafe.naver.com/22stup/637?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjIyc3R1cCIsImFydGljbGVJZCI6NjM3LCJpc3N1ZWRBdCI6MTc5MjM5NzkwMTMxOH0.qNegyT6a9yEQkG1jWKY4h5HsrgTXLMfGRNWlDPQXgtE&q=%eb%8c%80%ed%95%99%20%ec%9b%90%ec%96%b4%ec%97%b0%ea%b7%b9%20%eb%8c%80%ec%a0%84&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대학 원어연극 대전",
-   "first_seen": "2026-10-19T17:11:16+09:00"
   }
  ],
- "errors": [
-  "gnews 'KAIST 축제': HTTP Error 503: Service Unavailable",
-  "gnews '카이스트 공연 동아리': HTTP Error 503: Service Unavailable",
-  "gnews 'KAIST 루나틱': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 축제': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 공연': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 공연': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 연주회': HTTP Error 503: Service Unavailable",
-  "gnews '한밭대 축제': HTTP Error 503: Service Unavailable",
-  "gnews '한밭대 공연': HTTP Error 503: Service Unavailable",
-  "gnews '백마대동제': HTTP Error 503: Service Unavailable",
-  "gnews '대전 대학축제 라인업': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 축제 외부인': HTTP Error 503: Service Unavailable",
-  "gnews 'KAIST 태울석림제': HTTP Error 503: Service Unavailable",
-  "gnews '한밭대 백련제': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 정기공연': HTTP Error 503: Service Unavailable",
-  "gnews 'KAIST LUNATIC 정기공연': HTTP Error 503: Service Unavailable",
-  "gnews '카이스트 루나틱 힙합 공연': HTTP Error 503: Service Unavailable",
-  "gnews 'KAIST 동아리 합창 아카펠라 공연': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 동아리 정기공연 외부인': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 오케스트라 연극 뮤지컬': HTTP Error 503: Service Unavailable",
-  "gnews '한밭대 응원단 댄스 밴드 공연': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 대동제 시절인연': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 대동제 2026 라인업': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 축제 외부인': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 대동제 10월 28일': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 총학생회 이음 대동제': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 11월 정기공연': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 백마홀 공연 11월': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 정심화홀 정기연주회': HTTP Error 503: Service Unavailable",
-  "gnews '대학 원어연극 대전': HTTP Error 503: Service Unavailable"
- ]
+ "errors": []
 }
