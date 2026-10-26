@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T11:07:48+09:00",
+ "updated": "2026-10-26T12:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "에어프레미아, 12월 삿포로·호치민 노선 할인 프로모션 - 경기일보",
@@ -287,22 +287,6 @@
    "engine": "gnews",
    "query": "에어캐나다 특가",
    "first_seen": "2026-10-19T17:11:16+09:00"
-  },
-  {
-   "title": "에어프레미아, “비즈니스·장거리 수요 잡았다”…와이드 프리미엄 수요↑ - 글로벌이코노믹",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeDR5emtYWUVBRTRWOGQtbDA0SVhuN2pvdE53ZVV5YWpJRWhuUHd4dksySWVxckVidE14emdTVTZ0N0d0VDZMNDd3UnhfSldzMmZWVHc2MGdWMEZxWWhzZGlUUmEzQ29ET3NkZElkc0hMSk5PTjNKRzMtbkFCRlhXRzl2cUFxdw?oc=5",
-   "pub": "Thu, 15 Oct 2026 00:36:31 GMT",
-   "engine": "gnews",
-   "query": "에어프레미아 프로모션 LA",
-   "first_seen": "2026-10-19T12:07:35+09:00"
-  },
-  {
-   "title": "에어프레미아, LA 취항 4주년…한국 국적사 점유율 20% 돌파 - 연합인포맥스",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RUnBLdjZUVnN2UnRiZzNCLWYydm45dkxtN3EzMk5ORUZrb3JZU2VUeTl2bHlpdnRCUFM5WWoyQmROT3dha09sOWNicUJielJqN1J1TG83eVhyVWs1aFVpRk5RVHkzR3VnTVZRUi1yd3g?oc=5",
-   "pub": "Mon, 12 Oct 2026 17:19:55 GMT",
-   "engine": "gnews",
-   "query": "에어프레미아 프로모션 LA",
-   "first_seen": "2026-10-19T12:07:35+09:00"
   }
  ],
  "errors": []
