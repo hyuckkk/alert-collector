@@ -47,6 +47,17 @@ KEEP = re.compile(
 DROP = re.compile(r"(search\.naver\.com|search\.daum\.net|help\.|policy|keep\.naver|nid\.naver|"
                   r"channel/\d+/home|javascript:)")
 
+# Candidate discovery only: an accepted URL is never proof of official identity,
+# a confirmed lineup, or eligibility. The reviewed artist topic verifies the body.
+ARTIST_SOURCES = re.compile(
+    r"^https?://(?:"
+    r"(?:m\.)?weverse\.io/illit/notice/\d+(?:[/?#]|$)|"
+    r"(?:www\.)?beliftlab\.com/[^\s]+|"
+    r"(?:www\.)?(?:x\.com|twitter\.com)/[^/]+/status/\d+(?:[/?#]|$)|"
+    r"(?:www\.)?instagram\.com/(?:p|reel)/[^/?#]+|"
+    r"[^/]+\.ac\.kr/[^\s]+|"
+    r"news\.coupang\.com/archives/\d+(?:[/?#]|$))", re.I)
+
 
 def engines(q: str) -> list[tuple[str, str]]:
     e = urllib.parse.quote(q)
@@ -109,7 +120,7 @@ def search(engine: str, url: str, q: str) -> list[dict]:
     p.feed(body)
     best: dict[str, str] = {}
     for href, text in p.out:
-        if not href or not href.startswith("http") or DROP.search(href) or not KEEP.search(href):
+        if not href or not href.startswith("http") or DROP.search(href) or not (KEEP.search(href) or ARTIST_SOURCES.search(href)):
             continue
         if len(text) > len(best.get(href, "")):
             best[href] = text
