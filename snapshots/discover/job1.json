@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-27T02:07:50+09:00",
+ "updated": "2026-10-27T03:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 2,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "NHN링크 제작 가족뮤지컬 '건전지 엄마' 26일 티켓 오픈 - 아이뉴스24",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RNHNvenBuV1JrbjNtYXpUUFU3b3BJXzFyVGZYWnVjSGpWWjNCYThSYmUySl9CRXBURmx6eUxWNkdQejlIQWN0QmpZUQ?oc=5",
+   "pub": "Wed, 21 Oct 2026 01:42:00 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 뮤지컬 티켓오픈",
+   "first_seen": "2026-10-27T03:07:48+09:00"
+  },
   {
    "title": "대전시교육청, 2026 제10회 학교예술교육박람회 개최 - 글로컬타임스",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYR04wSVJjM21iQ2dNOGJuSkNiQ3NmRE9xZEJzQzJYUEpBNUR2QWxyaEMtTExKWE0ya190THZPaUNZNVBncUJIakdpUFZiUkFLajFzeXlVcE54REFUX0tMZ1FYeWI4blRl0gFsQVVfeXFMTWZpVmh3YVBvSUhRczFNUlpndnotTG5QRThLNms4MUItbWxLejFZQ29vZHpRcjBYZ0N3dEIzYnJwQU9qVWhsdWp1cGQ0VW1aOGszRWFNLWp3c0dqY2pFSkhyMmhkWlJUZjg4V1Az?oc=5",
@@ -21251,20 +21259,13 @@
    "engine": "naver_cafe",
    "query": "대전어린이회관 공연",
    "first_seen": "2026-10-25T14:07:47+09:00"
-  },
-  {
-   "title": "오늘 치과진료 갔다가 잠시 들러보았어요~ 활동예술이라 신선한 느낌이었어요~ 리: 룰, 새로운 규칙을 만들어 놀이한다는 농구대 전시작품,탁구!! 탁구공 줍는 채는 발명품인지 아이가 재밌어 했답니다~ 리: 폼 건축 조형물을 막대봉과 블럭을 끼우면서 만들어 보고, 미술활동과 리뷰 영상도 보며 즐거운 시간을 보냈어요~ 주말엔 간단한 만들기 체험도 한다니 다녀와보세",
-   "url": "https://cafe.naver.com/gumimom7/6746225?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imd1bWltb203IiwiYXJ0aWNsZUlkIjo2NzQ2MjI1LCJpc3N1ZWRBdCI6MTc5MjkwNDkwNTg3Nn0.OIFK_t75ZsExC_ATrX1ZLoFn0f4mGkIQnTUft6B7KzI&q=%eb%8c%80%ec%a0%84%ec%96%b4%eb%a6%b0%ec%9d%b4%ed%9a%8c%ea%b4%80%20%ea%b3%b5%ec%97%b0&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전어린이회관 공연",
-   "first_seen": "2026-10-25T14:07:47+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }
