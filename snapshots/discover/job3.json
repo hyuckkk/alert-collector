@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T21:50:21+09:00",
+ "updated": "2026-10-26T22:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -21080,5 +21080,35 @@
    "first_seen": "2026-10-20T06:00:14+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '박효신 콘서트': HTTP Error 503: Service Unavailable",
+  "gnews '박효신 티켓오픈': HTTP Error 503: Service Unavailable",
+  "gnews '이해원 소프라노': HTTP Error 503: Service Unavailable",
+  "gnews '이해원 공연': HTTP Error 503: Service Unavailable",
+  "gnews '브랜든 최 공연': HTTP Error 503: Service Unavailable",
+  "gnews '송소희 콘서트': HTTP Error 503: Service Unavailable",
+  "gnews '송소희 공연': HTTP Error 503: Service Unavailable",
+  "gnews '이적 콘서트': HTTP Error 503: Service Unavailable",
+  "gnews '이적 공연': HTTP Error 503: Service Unavailable",
+  "gnews '브랜든 최 협연': HTTP Error 503: Service Unavailable",
+  "gnews '브랜든 최 출연': HTTP Error 503: Service Unavailable",
+  "gnews '송소희 출연': HTTP Error 503: Service Unavailable",
+  "gnews '이적 게스트': HTTP Error 503: Service Unavailable",
+  "gnews '브랜든 최 색소폰 협연': HTTP Error 503: Service Unavailable",
+  "gnews 'Brandon Jinwoo Choi concert saxophone': HTTP Error 503: Service Unavailable",
+  "gnews '브랜든최 하모닉스 공연': HTTP Error 503: Service Unavailable",
+  "gnews '박효신 선예매 팬클럽 티켓 오픈': HTTP Error 503: Service Unavailable",
+  "gnews '이해원 소프라노 캐스팅 스케줄': HTTP Error 503: Service Unavailable",
+  "gnews '송소희 축제 라인업': HTTP Error 503: Service Unavailable",
+  "gnews '이적 대학 축제 게스트': HTTP Error 503: Service Unavailable",
+  "gnews '이적 티켓오픈': HTTP Error 503: Service Unavailable",
+  "gnews '패닉 콘서트 티켓 오픈': HTTP Error 503: Service Unavailable",
+  "gnews '송소희 티켓오픈': HTTP Error 503: Service Unavailable",
+  "gnews '이해원 티켓오픈': HTTP Error 503: Service Unavailable",
+  "gnews '브랜든 최 예매 오픈': HTTP Error 503: Service Unavailable",
+  "gnews '앙코르 콘서트 예매 일정 공지': HTTP Error 503: Service Unavailable",
+  "gnews 'Masters & Protégés 브랜든 최': HTTP Error 503: Service Unavailable",
+  "gnews '브랜든 최 12월 공연': HTTP Error 503: Service Unavailable",
+  "gnews '브랜든 최 리사이틀 예매': HTTP Error 503: Service Unavailable"
+ ]
 }

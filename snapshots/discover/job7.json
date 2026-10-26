@@ -1,8 +1,15 @@
 {
- "updated": "2026-10-26T21:50:21+09:00",
+ "updated": "2026-10-26T22:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 4,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "없는 농촌 마을에 저장탱크와 배관망을 갖춰 대형 수송차량(벌크로리)으로 가스를 대량 공급하는 체계다. 개별 용기를 쓸 때보다...고 말했다. ◇완주군청 맞은편 운곡지구 공원 일대 \"체험하고, 놀고, 맛보고\" 완주군청 맞은 편 운곡지구 공원에서 오는 31일...",
+   "url": "http://v.daum.net/v/20261022142640803",
+   "engine": "daum_news",
+   "query": "농촌체험 가족 무료",
+   "first_seen": "2026-10-26T22:07:48+09:00"
+  },
   {
    "title": "억새부터 코스모스까지! 서울에서 만나는 가을 명소 3곳 - 서울특별시",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QejFTNTdsLS1SYUtXQVRLUzBMT3k3S1FEQjVfNm1HVG5sNGR1UDhwZDVNZnlXdDkwRko0c2xjb0F3a3lYQ2h3NFEyaWdqRU1JNlJscks0bHc?oc=5",
@@ -21858,14 +21865,38 @@
    "engine": "daum_news",
    "query": "농촌체험 가족 무료",
    "first_seen": "2026-10-25T21:07:49+09:00"
-  },
-  {
-   "title": "자연과 문화유산을 새로운 방식으로 감상할 수 있다. 입장료는 무료로 안내돼 있으며 월요일을 제외하고 운영된다. 다만 세부 관람...소개된다. 계절에 따라 과일 수확과 농촌 체험을 즐길 수 있어 어린이를 동반한 가족 여행에 어울린다. 다만 딸기와 블루베리 수확...",
-   "url": "http://v.daum.net/v/20261022155517444",
-   "engine": "daum_news",
-   "query": "농촌체험 가족 무료",
-   "first_seen": "2026-10-25T21:07:49+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '가족 여행비 지원 모집': HTTP Error 503: Service Unavailable",
+  "gnews '숙박 할인 쿠폰 지원': HTTP Error 503: Service Unavailable",
+  "gnews '숙박세일페스타': HTTP Error 503: Service Unavailable",
+  "gnews '반값여행 신청': HTTP Error 503: Service Unavailable",
+  "gnews '지역화폐 캐시백 방문객': HTTP Error 503: Service Unavailable",
+  "gnews '한달살기 모집 가족': HTTP Error 503: Service Unavailable",
+  "gnews '농촌체험 가족 무료': HTTP Error 503: Service Unavailable",
+  "gnews '섬여행 지원 신청': HTTP Error 503: Service Unavailable",
+  "gnews '다자녀 가족 무료 체험': HTTP Error 503: Service Unavailable",
+  "gnews '다자녀 할인 대전': HTTP Error 503: Service Unavailable",
+  "gnews '가족캠프 무료 모집': HTTP Error 503: Service Unavailable",
+  "gnews '1박2일 가족 무료 프로그램': HTTP Error 503: Service Unavailable",
+  "gnews '국가유산 답사 모집': HTTP Error 503: Service Unavailable",
+  "gnews '궁궐 가족 체험 신청': HTTP Error 503: Service Unavailable",
+  "gnews '추수 체험 가족 모집': HTTP Error 503: Service Unavailable",
+  "gnews '휴양림 무료 숙박 가족': HTTP Error 503: Service Unavailable",
+  "gnews '문화누리 이용권 추가': HTTP Error 503: Service Unavailable",
+  "gnews '철도 할인 가족': HTTP Error 503: Service Unavailable",
+  "gnews '무료 체험 추첨 가족 모집': HTTP Error 503: Service Unavailable",
+  "gnews '여행가는 달 혜택': HTTP Error 503: Service Unavailable",
+  "gnews '여행가는 가을 지역 혜택': HTTP Error 503: Service Unavailable",
+  "gnews '웰촌 기획전': HTTP Error 503: Service Unavailable",
+  "gnews '국립 과학관 개관 무료': HTTP Error 503: Service Unavailable",
+  "gnews '배낚시 할인 여행가는': HTTP Error 503: Service Unavailable",
+  "gnews '충북 가족 행사 사전신청': HTTP Error 503: Service Unavailable",
+  "gnews '충남 가족 체험 사전신청 무료': HTTP Error 503: Service Unavailable",
+  "gnews '어린이 가족 피크닉 신청': HTTP Error 503: Service Unavailable",
+  "gnews '청주 가족 체험 모집': HTTP Error 503: Service Unavailable",
+  "gnews '공주 논산 가족 체험 모집': HTTP Error 503: Service Unavailable",
+  "gnews '반값여행 신청접수중 선착순': HTTP Error 503: Service Unavailable"
+ ]
 }
