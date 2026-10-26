@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T22:07:48+09:00",
+ "updated": "2026-10-26T23:07:49+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -21365,36 +21365,5 @@
    "first_seen": "2026-10-20T06:00:14+09:00"
   }
  ],
- "errors": [
-  "gnews 'KAIST 축제': HTTP Error 503: Service Unavailable",
-  "gnews '카이스트 공연 동아리': HTTP Error 503: Service Unavailable",
-  "gnews 'KAIST 루나틱': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 축제': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 공연': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 공연': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 연주회': HTTP Error 503: Service Unavailable",
-  "gnews '한밭대 축제': HTTP Error 503: Service Unavailable",
-  "gnews '한밭대 공연': HTTP Error 503: Service Unavailable",
-  "gnews '백마대동제': HTTP Error 503: Service Unavailable",
-  "gnews '대전 대학축제 라인업': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 축제 외부인': HTTP Error 503: Service Unavailable",
-  "gnews 'KAIST 태울석림제': HTTP Error 503: Service Unavailable",
-  "gnews '한밭대 백련제': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 정기공연': HTTP Error 503: Service Unavailable",
-  "gnews 'KAIST LUNATIC 정기공연': HTTP Error 503: Service Unavailable",
-  "gnews '카이스트 루나틱 힙합 공연': HTTP Error 503: Service Unavailable",
-  "gnews 'KAIST 동아리 합창 아카펠라 공연': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 동아리 정기공연 외부인': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 오케스트라 연극 뮤지컬': HTTP Error 503: Service Unavailable",
-  "gnews '한밭대 응원단 댄스 밴드 공연': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 대동제 시절인연': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 대동제 2026 라인업': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 축제 외부인': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 대동제 10월 28일': HTTP Error 503: Service Unavailable",
-  "gnews '목원대 총학생회 이음 대동제': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 11월 정기공연': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 백마홀 공연 11월': HTTP Error 503: Service Unavailable",
-  "gnews '충남대 정심화홀 정기연주회': HTTP Error 503: Service Unavailable",
-  "gnews '대학 원어연극 대전': HTTP Error 503: Service Unavailable"
- ]
+ "errors": []
 }
