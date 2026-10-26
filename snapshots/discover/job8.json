@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:07:46+09:00",
+ "updated": "2026-10-27T02:07:50+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -8072,14 +8072,6 @@
    "engine": "gnews",
    "query": "전통시장 수산물 환급",
    "first_seen": "2026-10-20T05:07:36+09:00"
-  },
-  {
-   "title": "제철 굴·가리비, 착한 가격에 만난다…GS SHOP서 20% 할인 - 해양레저신문",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ucUFFWTVhRmJsc0x5RkFPWndPaWg5OGFWandUUWJmUVlkVWJrU0YxbV9KbFlfT19lUDR1enE3RHhQRzVPb0NuQmtQejl2dnN2MXdHMlJWYjl0Qy01?oc=5",
-   "pub": "Mon, 19 Oct 2026 01:14:00 GMT",
-   "engine": "gnews",
-   "query": "수산물 할인 쿠폰",
-   "first_seen": "2026-10-20T02:07:38+09:00"
   }
  ],
  "errors": []
