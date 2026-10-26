@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-27T06:07:49+09:00",
+ "updated": "2026-10-27T07:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "충북대 ‘2026 세종 PET 페스티벌’ 성료…시민 800여 명 참여 - 경충일보",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNSHExbF9MQ3NMbDNIYUlNdklXVkszTUItbGJHcnRMX2ZOQ1lQclhaMzJrVkgyQ3JwWkkwTmdoVTNkMGZDUDUyUWFvUk5rckhvQVFkZ0dHcGc?oc=5",
+   "pub": "Mon, 26 Oct 2026 21:11:48 GMT",
+   "engine": "gnews",
+   "query": "한밭대 축제",
+   "first_seen": "2026-10-27T07:07:46+09:00"
+  },
   {
    "title": "대전 서구-목원대학교, 10월 28일 장애인 평생학습 페스티벌 개최 - 대한뉴스방송",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WX2JCekdiLThpMGtyRVFMMDJFRlVnOFpuRHBEVjhmdDNxVjFHN01aMEpydjdBZnphak9fODdrbzZqY0owVmU2LXF2ZVVDRGpXZkdLdnlLTE1WMUozb2VWakxzaHdfNE5ucVNEaEFn?oc=5",
@@ -20872,21 +20880,6 @@
    "engine": "gnews",
    "query": "KAIST 축제",
    "first_seen": "2026-10-20T08:07:36+09:00"
-  },
-  {
-   "title": "춘천막국수닭갈비축제 14일 개막…18일까지 세계 음식·문화행사 풍성 - 신아일보",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KemZBZWUxU004OVZ2VEd3Vjl0Z21Va0NmNllyRFc1bk9Sb1EyMkdiTkN5RVB6R3J0enVsN2FMSnlzZ000cS15VlNEenNpM1pfRjBINVdpWkI1TFZBMUFqWVRXUks1MktCdzh1Q0Rqejk?oc=5",
-   "pub": "Wed, 14 Oct 2026 04:35:27 GMT",
-   "engine": "gnews",
-   "query": "충남대 축제",
-   "first_seen": "2026-10-20T07:07:34+09:00"
-  },
-  {
-   "title": "이상희 목원대 건축학부 교수 대전부청사가 '구 대전공회당(舊大田公會堂)'이라는 이름으로 국가유산 등록이 예고되었다. 이 건물이...해방과 한국전쟁, 산업화와 도시 성장의 시간, 그리고 공연·집회·여가로 이어진 시민 생활문화의 기억까지 함께 간직하는 일...",
-   "url": "http://v.daum.net/v/20261020070149816",
-   "engine": "daum_news",
-   "query": "목원대 공연",
-   "first_seen": "2026-10-20T07:07:34+09:00"
   }
  ],
  "errors": []

@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-27T06:07:49+09:00",
+ "updated": "2026-10-27T07:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "보은군, 스무 살 맞은 대추축제 성료...맛과 체험으로 채운 열흘 - 글로컬타임스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fV0JWSXRkZmpwOVlEdXdiMGpGSFVzSUdkMDhiTnVYcjdPR2FRaWNkQWxUOHREX3B6OFQwelU5RlFsOUgwY2xWNnpyMzUwUkY1UjBEdXV6clVueENJMFBtVHhvT1RTelZM0gFsQVVfeXFMT0huejE5UVhPS0dDb3MtVm1XZjBVN1lMQ2ZWYUFWWUZXeURGNXZtMVlJVThzVDBZOTBXNDFzdDVrM3cxamZhRkZTeWthMVgzNmloNnFaclVqbExCcFA0RWg0X3NMNHdyR3cwSm9p?oc=5",
+   "pub": "Mon, 26 Oct 2026 13:45:16 GMT",
+   "engine": "gnews",
+   "query": "대전 마술쇼 가족",
+   "first_seen": "2026-10-27T07:07:46+09:00"
+  },
   {
    "title": "홍대는 홍익대학교 주변으로 젊은 예술가와 학생들이 모이는 거리로 알려져 있어 거리 공연과 그래피티를 자주 볼 수 있어요.... 아고다에서 예약할 때는 '무료 취소' 표시가 있는지 먼저 확인해 보세요. 취소 조건은 날짜와 요금제마다 달라서 결제 전에 미리... 주말이나 성수기라면 여유 있게 미리 예약해 두는 편이 좋아요. 어린이와 함께 간다면 추가 요금 정책",
    "url": "https://cafe.naver.com/albalab/7789?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFsYmFsYWIiLCJhcnRpY2xlSWQiOjc3ODksImlzc3VlZEF0IjoxNzkzMDQ1Mjc1MTM4fQ.SrnTRKm8nihZkKOyno57GnZ_ABNdVvlK-1lQDGzInq4&q=%eb%8c%80%ec%a0%84%20%ec%96%b4%eb%a6%b0%ec%9d%b4%20%ea%b3%b5%ec%97%b0%20%eb%ac%b4%eb%a3%8c%20%ec%98%88%ec%95%bd&tc=naver_search",
@@ -21254,20 +21262,11 @@
    "engine": "naver_blog",
    "query": "대전어린이회관 공연",
    "first_seen": "2026-10-25T14:07:47+09:00"
-  },
-  {
-   "title": "홍천문화예술회관 각종 공연과 전시가 정기적으로 열리는 문화공간. 지역 예술공연과 문화 체험의 중심지. 도시산림공원 토리숲 (찰옥수수 축제장) 홍천찰옥수수 축제가 열리는 공간.... 방문 팁 • 브레이크타임(15 : 00~17:00) 확인 후 방문 • 아이 동반 시 5세 이하 무료 어린이 막국수 활용 • 이벤트, 사이드 메뉴 조기 품절 여부 사전 문의 추천 ",
-   "url": "https://blog.naver.com/too02120/224452955871",
-   "engine": "naver_blog",
-   "query": "대전어린이회관 공연",
-   "first_seen": "2026-10-25T14:07:47+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
