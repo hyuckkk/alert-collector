@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-28T01:07:51+09:00",
+ "updated": "2026-10-28T01:29:11+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 3,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "대전시사회서비스원, ‘2026 희망나눔콘서트’ 개최 - 아시아뉴스통신",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJdFJveU4xYndlanFGZ0VROEpnUy04NDdrVmVJcWFQcERERTVEcGtFX1k4SVVJZkVGTk41V21qX3BCZlllY21RYThBQnZJc1BrNnE4UmdIT2lqUlJGclp3dVNpZXNFWDlSRDNQeVZrU053clht?oc=5",
+   "pub": "Fri, 23 Oct 2026 02:08:57 GMT",
+   "engine": "gnews",
+   "query": "평송청소년문화센터 공연",
+   "first_seen": "2026-10-28T01:29:11+09:00"
+  },
   {
    "title": "K-브랜드 대전 'G-FAIR KOREA' 29일 킨텍스서 개막 - 수원일보",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oTHlxUnJJVkNSc1BMRlMyN0duZklmYW55OHR0aU5WYzZPX1FTcURZck4xZjhBZ3VNbzJpc1FhTzJOR2lLdlRyNUk3ejkzT2tFakttbmZSUV9DWWFSeGtFcTZCLUdHQQ?oc=5",
@@ -21247,17 +21255,11 @@
    "engine": "naver_cafe",
    "query": "대전 독서대전 어린이 공연",
    "first_seen": "2026-10-25T21:07:49+09:00"
-  },
-  {
-   "title": "달, 토성 관측을 했습니다. 11층에서는 강연과 음악공연이 진행 되었습니다. 천문대장님의 강연을 이어 어린이합창단, 방진선 아코디언 연주, 팬트라움 팬플릇 공연으로 진행되어 한방병원의 환우분이 매우 좋아하셨습니다. 빠른 회복 기원합니다. 자생한방병원과 행복누림 봉사활동은 매년 진행되고 있습니다. 참여를 원하시는 분들은 언제든지 카페에 댓글 또는 천문대로 전",
-   "url": "https://cafe.naver.com/daejeonobservatory/970?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRhZWplb25vYnNlcnZhdG9yeSIsImFydGljbGVJZCI6OTcwLCJpc3N1ZWRBdCI6MTc5MjkzMDE3OTc3Mn0.B4HSF8TjqUv_y7yoVSSq0tIaweTArTk1YkM-X5k7mOY&q=%eb%8c%80%ec%a0%84%20%eb%8f%85%ec%84%9c%eb%8c%80%ec%a0%84%20%ec%96%b4%eb%a6%b0%ec%9d%b4%20%ea%b3%b5%ec%97%b0&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 독서대전 어린이 공연",
-   "first_seen": "2026-10-25T21:07:49+09:00"
   }
  ],
  "errors": [
   "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
   "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
