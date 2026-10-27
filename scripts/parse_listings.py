@@ -78,6 +78,38 @@ def parse_seogu(text: str, source: str, url: str) -> list[dict]:
     return out
 
 
+LIB = {"yuseong-lib-lecture-list": "https://lib.yuseong.go.kr/web/program/lectureList.do"}
+LIB_STATUS = ("접수중", "접수예정", "접수마감", "접수종료", "마감")
+
+
+def parse_yuseong_lib(text: str, source: str, url: str) -> list[dict]:
+    """유성구립도서관 강좌·행사 목록: 도서관 / 분류(어린이·성인…) / [도서관] 제목 / 일정 / 대상 / 상태 /
+    접수기간 / 접수현황. 제목 줄 다음에 '일정'으로 시작하는 줄이 오는 블록을 항목으로 본다."""
+    lines = [l.strip() for l in text.splitlines() if l.strip()]
+    out = []
+    for i, ln in enumerate(lines):
+        if not ln.startswith("일정") or i == 0:
+            continue
+        rec = {"source": source, "list_url": url, "title": lines[i - 1], "event_period": ln[2:].strip()}
+        k = i - 2
+        cats = []
+        while k >= 0 and len(lines[k]) <= 6 and not lines[k].startswith("["):
+            cats.append(lines[k])
+            k -= 1
+        rec["tags"] = list(reversed(cats))
+        for ln2 in lines[i + 1:i + 6]:
+            if ln2.startswith("대상"):
+                rec["target"] = ln2[2:].strip()
+            elif ln2 in LIB_STATUS:
+                rec["status"] = ln2
+            elif ln2.startswith("접수기간"):
+                rec["apply_period"] = ln2[4:].strip()
+            elif ln2.startswith("접수현황"):
+                rec["capacity"] = ln2[4:].strip()
+        out.append(rec)
+    return out
+
+
 def main() -> int:
     listings = []
     for sid, url in BASE.items():
@@ -88,6 +120,10 @@ def main() -> int:
         f = SNAP / f"{sid}.txt"
         if f.exists():
             listings.extend(parse_seogu(f.read_text(encoding="utf-8"), sid, url))
+    for sid, url in LIB.items():
+        f = SNAP / f"{sid}.txt"
+        if f.exists():
+            listings.extend(parse_yuseong_lib(f.read_text(encoding="utf-8"), sid, url))
     OUT.write_text(json.dumps({"listings": listings}, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"{len(listings)} listings", file=sys.stderr)
     return 0
