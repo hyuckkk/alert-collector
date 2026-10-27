@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:29:11+09:00",
+ "updated": "2026-10-28T02:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -247,14 +247,6 @@
    "engine": "gnews",
    "query": "에어프레미아 프로모션 LA",
    "first_seen": "2026-10-21T15:07:47+09:00"
-  },
-  {
-   "title": "에어프레미아, LA 취항 4년 만에 국적사 점유율 20.8% - 미주조선일보",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ybWIzQkZjQ1N5cFoxTGluMV9SMmw4S2NXMGpGcnR0cE9leHVZeGg3YW5QaWdTRWt5Rk9Zc2tFTDktSUNSWHZfaVVydmFqeXMwbC14TG45NTBSTGpCWGwtd2o2M05vemtad0JpeUxLY25rS1BJNUE?oc=5",
-   "pub": "Sat, 17 Oct 2026 03:25:18 GMT",
-   "engine": "gnews",
-   "query": "대한항공 미주 프로모션 2027",
-   "first_seen": "2026-10-21T01:53:24+09:00"
   }
  ],
  "errors": []
