@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-28T06:15:37+09:00",
+ "updated": "2026-10-28T07:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 3,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "전주·서초·대전 등 가을맞이 다양한 도서 축제 - didimkorea.net",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55OEMtWmU2Z3IzRWNtd2JfYVFmU1BsRVluSkRHX3B4NXhSaWFveHhfdDNnNGd0RGtXTHZPc1FYQ1k4QWJXM3JEV2w5bzVBUnM?oc=5",
+   "pub": "Fri, 23 Oct 2026 05:02:59 GMT",
+   "engine": "gnews",
+   "query": "대전 서커스 공연",
+   "first_seen": "2026-10-28T07:07:47+09:00"
+  },
   {
    "title": "고성군, 창작국악뮤지컬 '반쪽이의 대모험' 공연 - 한국시사경제",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LODJud09pcHBrT2c3SVBMdERFdzd3RDkxWFBaeTVVNHlJRHliUWwyaWt0dUdNNC13YXFPZERyV08zY21MYW10Y1U5dFRRekVQYU1kaTN2UWtIUjZMUllQMjhSbkNwTzVQeGc?oc=5",
@@ -21261,20 +21269,11 @@
    "engine": "naver_web",
    "query": "대전 전래동화 뮤지컬",
    "first_seen": "2026-10-25T21:07:49+09:00"
-  },
-  {
-   "title": "국향대전 기간: ~ 11월 8일(일) 장소: 전라남도 함평군 함평엑스포공원 일원 추천 대상: 대규모 꽃구경, 부모님 모시고 가기 좋은 곳, 다양한 체험 포인트: 대형 국화 기획작품과 국화 테마 조형물, 수준 높은 분재 전시, 풍성한 문화 공연과 체험... 시연, 어린이 프로그램 등 액티비티가 가득하며, 예천농산물축제도 함께 개최됩니다. 여수밤바다 불꽃축제 ",
-   "url": "https://blog.naver.com/livinginfo36524/224453361818",
-   "engine": "naver_blog",
-   "query": "대전 독서대전 어린이 공연",
-   "first_seen": "2026-10-25T21:07:49+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
