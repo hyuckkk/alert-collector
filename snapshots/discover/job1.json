@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-27T08:48:08+09:00",
+ "updated": "2026-10-27T09:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 7,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "대전 한밭도서관 그림책으로 듣고, 인형극으로 보고 - www.mediatoday.asia",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTE5OTmMyZF82YngzSE13MUVEMGRjMzJFQzJ5UjlfU3pONFZ5cnAwdkotc01jOXpOeUxKbFFONWJJSEpRcFhvWXR0dGJ2QnNqSEx0T0VBdDE3bkVsazYzTUh3ejM4bUtWZzVCY28xTHdWMjNZbllsWlF6akRObGk4VFBNZUs3Q282WGVLaHpiT19SaWI4TzE2a0w1MWFvbFdTb0JrWQ?oc=5",
+   "pub": "Mon, 26 Oct 2026 21:36:00 GMT",
+   "engine": "gnews",
+   "query": "대전 축제 어린이 인형극",
+   "first_seen": "2026-10-27T09:07:47+09:00"
+  },
   {
    "title": "'2026 대전빵축제' 17~18일 엑스포과학공원 일원서 열려…120개 지역 빵집 참여 - 충남일보",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCQjdtb0FYYjBkNHA4NlpPakxlS0kyUEtXdEJHVmNvSzJEdDNOT1VZZDdCQ3NlMXpaT284THk3TXRkRnRaN1lJRmlIcVk0cDJDRl9HeC1nLTBuV1hlTU4tM1o3UWF1QWVJSklhY2pCakw5NGc?oc=5",
@@ -21264,20 +21272,13 @@
    "engine": "naver_blog",
    "query": "대전어린이회관 공연",
    "first_seen": "2026-10-25T14:07:47+09:00"
-  },
-  {
-   "title": "멋진 #가람어린이집 친구들 오늘은 가람어린이집 친구들과 함께 양산문화예술회관에서 「방귀쟁이 며느리」 뮤지컬을 관람하고 왔어요! 공연장에 도착한 우리 친구들! 설레는 마음을 안고 공연장에 들어서서 자리에 앉아 무대에 집중해 보았답니다. 공연이 시작되자 신기한 무대와 재미있는 이야기에 눈이 반짝반짝✨ 특히 며느리가 “뿡~!” 하고 방귀를 뀌는... 새 창 열림",
-   "url": "https://blog.naver.com/n1m2k3/224453009694",
-   "engine": "naver_blog",
-   "query": "대전어린이회관 공연",
-   "first_seen": "2026-10-25T14:07:47+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }
