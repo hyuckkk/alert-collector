@@ -56,12 +56,9 @@
 "https://www.hwadong.com/new/magazine/magazineInfo.jsp?planId=100002488",
 "https://www.hwadong.com/new/product/curr_RecommendGoodsList.jsp?planId=100002491",
 "https://www.hwadong.com/new/product/goodsDetail.jsp?Good_id=100121398",
-"https://www.hwadong.com/new/product/curr_RecommendGoodsList.jsp?planId=100002493",
 "https://www.hwadong.com/new/product/curr_RecommendGoodsList.jsp?planId=100002494",
 "https://www.hwadong.com/new/product/goodsDetail.jsp?Good_id=100121390",
 "https://www.hwadong.com/new/product/curr_RecommendGoodsList.jsp?planId=100002496",
-"https://www.hwadong.com/new/product/goodsCategory.jsp?STEP=10000,10010&CTG_ID=10010",
-"https://www.hwadong.com/new/product/curr_RecommendGoodsList.jsp?planId=100002497",
 "/new/currency/curr_CurationList.jsp",
 "javascript:slideTest('');",
 "javascript:slideTest('');",
@@ -398,5 +395,8 @@
 "javascript:onOrderRegister('100121384');",
 "javascript:onBasketRegister('100121384');",
 "#none",
-"javascript:jsGoodsDetail('100121385');"
+"javascript:jsGoodsDetail('100121385');",
+"javascript:jsGoodsDetail('100121385');",
+"javascript:onOrderRegister('100121385');",
+"javascript:onBasketRegister('100121385');"
 ]
