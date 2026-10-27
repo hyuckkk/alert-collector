@@ -1,56 +1,48 @@
-[ticketlink-notice-mobile] rendered 282055 chars CHANGED
-[pyoungsong-performance] rendered 1161 chars same
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[seogu-exprn-list] rendered 1109 chars CHANGED
-[seogu-event-list] rendered 1109 chars CHANGED
-[seogu-edu-list] rendered 1115 chars CHANGED
-[daejeon-its-board] rendered 3582 chars CHANGED
-[zeropay-events] rendered 530 chars CHANGED
-[chuncheon-festival-news] rendered 903 chars CHANGED
-[chuncheon-festival-news-459539] rendered 801 chars CHANGED
-[galleria-timeworld-culture] rendered 2213 chars CHANGED
-[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
+[pyoungsong-event-list] rendered 322 chars same
+[ticketlink-notice-65862] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[docomomokorea-main] rendered 293 chars same
+[pyoungsong-event-rudolph] rendered 424 chars same
+[pyoungsong-event-snowwhite] rendered 413 chars same
+[blog-namuac21-224427113169] rendered 4729 chars CHANGED
+[aircanada-kr-so-hub] rendered 2604 chars CHANGED
+[aircanada-kr-kbcard] rendered 26050 chars CHANGED
+[aircanada-kr-moretotravel] rendered 2961 chars CHANGED
+[nol-product-26001112] rendered 3628 chars CHANGED
+[blog-daedeokgu-224432911721] rendered 2607 chars CHANGED
+[blog-namuac21-224424725714] rendered 4479 chars CHANGED
+[blog-youneed4613-224436099074] rendered 3068 chars CHANGED
+[nol-product-26008375] rendered 1708 chars CHANGED
+[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
+[pyoungsong-tribe-events-api-p2] rendered 28156 chars same
+[kopis-pf297232] rendered 7859 chars same
+[dgdr-festival] rendered 203 chars CHANGED
+[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "
-[pyeongtaek-news-board] rendered 3144 chars CHANGED
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 484 chars same
-[pyoungsong-event-sandmagic] rendered 480 chars same
-[pyoungsong-event-stonesoup] rendered 317 chars same
-[donghae-dhdmo-program] rendered 1803 chars CHANGED
-[visitkorea-tour50-notice] rendered 616 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 6090 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 4776 chars CHANGED
-[kmusic-calendar-2026-11] rendered 1498 chars CHANGED
-[kmusic-calendar-2026-12] rendered 1180 chars CHANGED
-[kmusic-calendar-year] rendered 6148 chars CHANGED
-[mara1080-goldrun-geumsan] rendered 4293 chars CHANGED
-[runningon-schedule-open] rendered 12704 chars CHANGED
-[leis-ski-snowon] rendered 593 chars CHANGED
-[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
-[seogu-yeyak] rendered 2797 chars CHANGED
-[pyoungsong] rendered 840 chars same
-[djkids-musical] rendered 1618 chars CHANGED
-[djkids-notice] rendered 1025 chars CHANGED
-[dctf] rendered 1493 chars CHANGED
-[dsecc-programs] rendered 1962 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 5100 chars CHANGED
-[pyeongtaek-gosi] rendered 1740 chars CHANGED
-[hanbat-library-culture] rendered 2573 chars CHANGED
-[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
-[daejeon-familycenter-programs] rendered 1239 chars CHANGED
-[daejeon-okr-edu] rendered 1504 chars same
-[daejeon-okr-hanbatlib] rendered 1651 chars same
-[science-edu-reservation] rendered 2206 chars CHANGED
-[sejong-notice] rendered 2344 chars CHANGED
-[sejong-notice-greenfamily] rendered 1799 chars CHANGED
-[blog-dooglami-224434696671] rendered 5098 chars CHANGED
-[mommom-place-6a7d51b7] rendered 95 chars CHANGED
-[blog-first_seogu-224428074790] rendered 3291 chars CHANGED
-[blog-dooglami-224433357728] rendered 4861 chars CHANGED
-[yes24-genre-children] rendered 196 chars CHANGED
-[pyoungsong-event-feed] rendered 34079 chars same
-[pyoungsong-monthly] rendered 634 chars same
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 170388 chars same
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
+
+[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
+
+[blog-gotaekmusicfesta-224426168539] rendered 2682 chars CHANGED
+[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
+
+[ysfesta-main] rendered 152 chars CHANGED
+[khs-main] rendered 1725 chars CHANGED
+[khs-eventinfo] rendered 1144 chars CHANGED
+[kopis-pf302030] rendered 7840 chars same
+[leis-ski-snowon-notices] rendered 1021 chars CHANGED
+[leis-ski-snowon-youth] rendered 766 chars CHANGED
+[nol-family] rendered 4041 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[oworld-notice] rendered 1746 chars same
+[baekje-schedule] rendered 1513 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[woosongart-schedule] rendered 590 chars CHANGED
+[pyeongtaek-main] rendered 21977 chars CHANGED
+[kopis-daejeon-kids] rendered 30607 chars CHANGED
+[kwater-realtime-multidam] rendered 10510 chars CHANGED
+[sejong-notice-birdwatch] rendered 1339 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 5030 chars CHANGED
