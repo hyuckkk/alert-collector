@@ -1,8 +1,15 @@
 {
- "updated": "2026-10-28T13:07:47+09:00",
+ "updated": "2026-10-28T15:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 4,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "티켓 1만 장이 예매 시작 20분 만에 모두 팔렸다. 첫날인 12월 18일에는 부활, 쏜애플, 노브레인, 카디, 솔루션스, 너드커넥션, 송소희, 캔트비블루, 크랙샷, 롤링쿼츠, 더 픽스, 심아일랜드가 공연한다. 19일에는 YB와 라쿠나 코일, 마티 프리드먼, 크라잉넛, 껌...",
+   "url": "http://v.daum.net/v/20261028142141256",
+   "engine": "daum_news",
+   "query": "송소희 공연",
+   "first_seen": "2026-10-28T15:07:47+09:00"
+  },
   {
    "title": "올라 금요일 밤을 달군다. 국악과 밴드 사운드를 접목한 송소희를 비롯해 카디, 솔루션스, 캔트비블루, 크랙샷, 롤링쿼츠, 더 픽스...짙은 음악성을 지닌 밴드들이 합류해 무게감을 더했다. 특히 이번 공연은 송도컨벤시아의 쾌적한 실내 공연장 장점을 살리면서도...",
    "url": "http://v.daum.net/v/20261028115512211",
@@ -14343,84 +14350,6 @@
    "engine": "gnews",
    "query": "브랜든 최 12월 공연",
    "first_seen": "2026-10-21T16:07:46+09:00"
-  },
-  {
-   "title": "연주자다. 피아노의 섬세한 선율로 위로를 건네는 유키 구라모토와 색소폰의 풍성하고 따뜻한 음색으로 감성을 더하는 브랜든 최의 만남은 이번 공연의 특별한 하이라이트다. 두 연주자의 개성과 음악적 감성이 어우러져 선사할 색다른 하모니는 관객들에게 더욱...",
-   "url": "http://v.daum.net/v/20261021092613129",
-   "engine": "daum_news",
-   "query": "브랜든 최 공연",
-   "first_seen": "2026-10-21T15:07:47+09:00"
-  },
-  {
-   "title": "용인문화재단, 12월 26일 ‘유키 구라모토와 친구들’ 공연 - 매일일보",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DQXJWYlNIYkJPVkhuOUVZZFVzSlZDMkdXTURJUHRjQ1VmZHFjZTVxcnNaTVJ6a3J5aGZ3Y0ZVdnEtQXFXODl2ZHcxdDJBaDdRTmU5a2M4bnJ0VGRGcUptVTVCYmE?oc=5",
-   "pub": "Wed, 21 Oct 2026 00:35:33 GMT",
-   "engine": "gnews",
-   "query": "브랜든 최 공연",
-   "first_seen": "2026-10-21T15:07:47+09:00"
-  },
-  {
-   "title": "용인문화재단, 크리스마스 콘서트 '유키 구라모토와 친구들' 개최 - 산경일보",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHQ0U1OHNYLVV4bWhXS1hzUWppS2RyX0FpUlZXcE0ybVlOWkJ4cUdYcnBwUTJoRF9MUzNqdTBQbzRYakhtQ0xtYXFLR3FwNkJ6a0xtQzlmbFlzbUdPR0xnVkY3S2NEWVlqVm5LOEtobFI?oc=5",
-   "pub": "Wed, 21 Oct 2026 01:10:06 GMT",
-   "engine": "gnews",
-   "query": "브랜든 최 공연",
-   "first_seen": "2026-10-21T15:07:47+09:00"
-  },
-  {
-   "title": "추는 이적행위, 반역행위라는 것을 알면서도 적들의 불순녹화물을 시청하는 행위야 말로 세상에서 가장 어리석은 자살자가 되어 자기 운명을 망치는 길이라는 것을..] 또 다른 장면을 볼까요. 강당 앞에서 고개를 숙인 채 서 있는 군인과 사복 차림의 여성들, 손에는...",
-   "url": "http://v.daum.net/v/20261021090612236",
-   "engine": "daum_news",
-   "query": "이적 공연",
-   "first_seen": "2026-10-21T15:07:47+09:00"
-  },
-  {
-   "title": "유키 구라모토, 26일 용인서 콘서트…디토 오케스트라와 무대 - 국제뉴스",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xVU9hNGh5RjhwZUxzZ0lTeE9XX3pYYmMydWlMNzBiaFBfbHp6RVZ3YVJNektwaGNyZ2VLS3BnR1hpOVRnVFRDcFptNXRnR2d2WGFfVEVNci0teXNSSnV5TEl0Q0xlR1pieVNtZUlR?oc=5",
-   "pub": "Wed, 21 Oct 2026 00:02:21 GMT",
-   "engine": "gnews",
-   "query": "브랜든 최 협연",
-   "first_seen": "2026-10-21T15:07:47+09:00"
-  },
-  {
-   "title": "용인문화재단, 유키 구라모토 크리스마스 콘서트 개최 - 전국매일신문",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DeEY4ZzdoTG9RakNXYlJNSU1tdnNyZEE5NHh6TXpuUF9RakdsXzFYdVJqcHhuWVpUZGI3dFVtTnkxeG1EaHRzTURqdW9Rb2ZIazkybWVNWTNWVlJIeE1WalI2WEtDQTVBbmRVZXRR?oc=5",
-   "pub": "Wed, 21 Oct 2026 01:35:11 GMT",
-   "engine": "gnews",
-   "query": "브랜든 최 협연",
-   "first_seen": "2026-10-21T15:07:47+09:00"
-  },
-  {
-   "title": "용인문화재단, 크리스마스 콘서트 '유키 구라모토와 친구들' 개최 - 뉴스인오늘",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VV2JJUmtRMnFucjhsSm05Skpia0I5X1pScWF6M3JCM0FDdVNERGZtR3lzV3ozal9zWTFxQklnR3hoaUtwUVHSAWNBVV95cUxPTFBFbFRaRnpaSUwtSHBDM3JjMlJiMlQ3WXF2N3ZDOTBudkJNWEtrOUlpa0lYdEZNSHZGWFZZTGhNTVNCTUNKSkJXRDRHMDNyMUE0NGRsMjVRNUlmbi1Bd29UTzg?oc=5",
-   "pub": "Tue, 20 Oct 2026 23:09:00 GMT",
-   "engine": "gnews",
-   "query": "브랜든 최 출연",
-   "first_seen": "2026-10-21T15:07:47+09:00"
-  },
-  {
-   "title": "용인문화재단, 크리스마스 콘서트 '유키 구라모토와 친구들' 개최 - 비전21뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11X1FmeDZkay10MFlZNnpfb3JGdWg3WGJuOFd2eEtmbE92TG1IRVk3VkREVkNWbGMwcTZJRHpkMkpXTHcydDV0RU9Wb2RSTTBaN2tHSTJna2UxQmVXUjVtcQ?oc=5",
-   "pub": "Wed, 21 Oct 2026 00:10:15 GMT",
-   "engine": "gnews",
-   "query": "브랜든 최 예매 오픈",
-   "first_seen": "2026-10-21T15:07:47+09:00"
-  },
-  {
-   "title": "용인문화재단, 크리스마스 콘서트 개최 - 일간투데이",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rNzRQV1o4aTV0UXFlWnZzUFBhbWdUMmgxckpfVk5VNVlzdHFUZWY2SEtPWms2dmpCZzRoRkNjdlpyUV9JQzlCdzQ2WWtGTXRYd29aLVkzb0ZGNmlLZHg4bGNwSXBxWDNWNE1V?oc=5",
-   "pub": "Wed, 21 Oct 2026 02:30:00 GMT",
-   "engine": "gnews",
-   "query": "브랜든 최 12월 공연",
-   "first_seen": "2026-10-21T15:07:47+09:00"
-  },
-  {
-   "title": "용인문화재단, ‘레이크 루이즈’ 선율로 여는 성탄…유키 구라모토와 친구들 12월 무대 - 경기타임스 e",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81aFd6SFdWc0JBWU4ySUE5QVdMek9sdzdHdGNOTkk4ZEdKX2lNYUJFWkZPc1o3T2VpSUFxZU1ualhGZGtabTVjUXhxaU5SR2ZIMHY3WVhIclZiNUFLTk4ybkJCclRwUHFXczlMRw?oc=5",
-   "pub": "Tue, 20 Oct 2026 22:52:33 GMT",
-   "engine": "gnews",
-   "query": "브랜든 최 12월 공연",
-   "first_seen": "2026-10-21T15:07:47+09:00"
   }
  ],
  "errors": []
