@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-28T10:07:46+09:00",
+ "updated": "2026-10-28T10:14:44+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 26,
+ "new_this_run": 27,
  "hits": [
   {
    "title": "코리아 그랜드 페스티벌’은 코리아 세일 페스타(산업부), 숙박세일 페스타(문체부), 동행축제(중기부), 농축산물 할인행사(농식품부...프리 페스타(관세청) 등 각 정부 부처에 산재된 할인행사, 상품권·쿠폰 등 소비촉진 정책을 통합한 국가단위 소비축제다...",
    "url": "http://v.daum.net/v/20261028100031151",
    "engine": "daum_news",
    "query": "숙박 할인 쿠폰 지원",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "춘천 숙박 할인쿠폰 선착순 지급…최대 3만원 혜택 - 숙박매거진",
@@ -16,44 +16,68 @@
    "pub": "Wed, 28 Oct 2026 01:01:33 GMT",
    "engine": "gnews",
    "query": "숙박 할인 쿠폰 지원",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
-   "title": "광양 관광정보·할인 혜택 한눈에…33개 업체 ‘파트너 맵’ 운영 - 매일일보",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ldmZ1Z2UtekdhWUdWYzc3dFhfZWpxeGhwOG84VGNYZjh0WWJmUUI4ZGYtcWZCRnF1OXE2QmlFTUNmZWNWVFlmdklKdzlHSXg4MWhTWExVM0hmY003V0xJbkNWdm8?oc=5",
-   "pub": "Fri, 23 Oct 2026 07:52:14 GMT",
+   "title": "엘에스컴퍼니, 부산서 K-투어패스 시범 운영…인바운드 시장 진출 - 숙박매거진",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iZm5LckNoMXdOM2xqQTh2RzRHS0JnejloVVJlYmdndW05c0FxLVUzWGVKWE4zVVJadS1WTl8xV3VMUTNyMC1yUGdIejNPaWJ1RG5lMXJoQlJyWFg0eUJNMW1GVTRvZS10RmNvV0dua2s?oc=5",
+   "pub": "Wed, 28 Oct 2026 01:03:37 GMT",
    "engine": "gnews",
    "query": "숙박 할인 쿠폰 지원",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
+  },
+  {
+   "title": "한국관광공사, AI 서비스로 과학기술혁신대상 통합 대상 수상 - 숙박매거진",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MdHVhM0d4VXhqRlFiUjFtWTRqY1JrQWlreWhzejJrS2w3T3BUMWxiN1RjUUVqeFZ4ZlZtUWk4MEtMWWR3OTE4RF9Ua0d0TS1TcVBmOGw2Q2tOVC1DODlFSHllVVhuOWhuV0pER2hyNzM?oc=5",
+   "pub": "Wed, 28 Oct 2026 01:13:07 GMT",
+   "engine": "gnews",
+   "query": "숙박 할인 쿠폰 지원",
+   "first_seen": "2026-10-28T10:14:44+09:00"
+  },
+  {
+   "title": "자동차·가전부터 한우·수산물까지...최대 50% 할인 정부, 「제2회 코리아 그랜드 페스티벌」 시작 - 투위복지뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90MzdmS0RIUS1yM09ocGdDMlZ5M0E3S2N5MG5ZZk1Sd0hIbkVJeTZSaDVjQTFpS3MzZ0kzRkMwSVVtUFpGaUczUFg2S0NFYVd4SXc?oc=5",
+   "pub": "Wed, 28 Oct 2026 00:00:19 GMT",
+   "engine": "gnews",
+   "query": "숙박 할인 쿠폰 지원",
+   "first_seen": "2026-10-28T10:14:44+09:00"
+  },
+  {
+   "title": "인스파이어-영종구, 아동·청소년 진로 프로그램 확대 추진 - 숙박매거진",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vTnZrSi10bVZFSEVwTjRYSHQ3WC1hRDdvc1NNNWhqVFVLems2Y1puc1NiQ1F6M21zWjRnSVFIdGhzaGJxeUVSZEo5eVc2RkNrdVAwZmFseEVsTkI0Y2EwTkVJR0NfR1ppMDdPQ1I1WjY?oc=5",
+   "pub": "Wed, 28 Oct 2026 01:07:33 GMT",
+   "engine": "gnews",
+   "query": "숙박 할인 쿠폰 지원",
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "그랜드 페스티벌’은 여러 부처가 개별적으로 추진해 온 소비 촉진 행사를 하나로 묶은 국가 단위 행사다. 코리아 세일 페스타와 숙박세일 페스타, 동행축제를 비롯해 농축산물·수산물 할인 행사, 우체국 쇼핑 프로모션, 코리아 듀티 프리 페스타 등이 함께 진행...",
    "url": "http://v.daum.net/v/20261028100535605",
    "engine": "daum_news",
    "query": "숙박세일페스타",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "한편 ‘코리아 그랜드 페스티벌’은 여러 부처가 추진하는 소비 진작 행사를 통합한 국가 단위 소비축제다. 코리아 세일 페스타, 숙박세일 페스타, 동행축제, 농축산물·수산물 할인행사, 우체국 쇼핑 프로모션, 코리아 듀티 프리 페스타 등이 함께 진행된다. 수원...",
    "url": "http://v.daum.net/v/20261028094914497",
    "engine": "daum_news",
    "query": "숙박세일페스타",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "지역경기살리기위원회를 공식 출범시켰다. 위원회에는 요식·숙박, 유통·서비스, 중소지역업체, 여성·청년창업, 귀농·귀촌 등 5개...사용한 금액의 일부를 상품권으로 돌려주는 '구미 세일 페스타'를 추진하고, 골목형상점가를 기존 24곳에서 50곳까지 확대할...",
    "url": "http://v.daum.net/v/20261028094503252",
    "engine": "daum_news",
    "query": "숙박세일페스타",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
-   "title": "경기도, `코리아 그랜드 페스티벌` 기간 경기지역화폐 5% 추가 캐시백 지급 - 시사일보",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TTGRMb0N1N3VYeVlOUms1Qm9rOTJlRGFhSHd4VDJOV1RFdUw2OWt6TTFQVDBrOGxLY0h1RDJxYzBYZmNxc195TDZwOTI?oc=5",
-   "pub": "Tue, 27 Oct 2026 22:16:00 GMT",
+   "title": "경기도, ′코리아 그랜드 페스티벌′ 기간 경기지역화폐 5% 추가 캐시백 - KPI뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yRE80MUpaQy10T2Vsak43ZDZxQV9aRzJtWFNZaHllcG9hR2cwd2R5V2VLc0ZiVXNCOFJuYzdkSFNwLTRQbVBRMjVGNW51NjF5dGtqOTR2d9IBU0FVX3lxTE9QRmJhVnd3eTB2MG5zWTZQU3ZNMGRYUkFpN1U5YWJpZVlhTHliTlZMVGo4MHdIcTA0ck85MjV2TTlXdUhBQVVjbzR5dGU2LXA0QlJN?oc=5",
+   "pub": "Tue, 27 Oct 2026 22:50:40 GMT",
    "engine": "gnews",
    "query": "숙박세일페스타",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "2028년부터 야간에 닥터헬기 뜬다...인천 섬 의료 사각지대 해소 - 미디어인천신문",
@@ -61,37 +85,29 @@
    "pub": "Wed, 28 Oct 2026 00:36:20 GMT",
    "engine": "gnews",
    "query": "섬여행 지원 신청",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
-   "title": "이천교육지원청, 가족과 함께하는 ‘R.A.S 캠프’ 운영 - 경기일보",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1feXBpb2gyMm5ueVRkMHhDQXQyR1lLR2hBOElWS0J2cXdGTlcwbTd2bldjRHJUaFgtTFZaYUFoUi1zR1VnRFpDZFhYRG0xRUxpSjZOcDF5bUlPWjA?oc=5",
-   "pub": "Sun, 25 Oct 2026 09:27:19 GMT",
+   "title": "숲속 오피스와 체류형 관광의 미래, 순천 정원워케이션 박람회 11월 개막 - 이트레블뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE80aV9LYW95dWphMlVGMW9NLTUtY3ZCZWVxVVNpRWgyTkVtanlseXVwaHBrd0V6Q01QdmNTQ1BNbW1OaU5u?oc=5",
+   "pub": "Tue, 27 Oct 2026 01:50:00 GMT",
    "engine": "gnews",
    "query": "1박2일 가족 무료 프로그램",
-   "first_seen": "2026-10-28T10:07:46+09:00"
-  },
-  {
-   "title": "\"가족·친구·동료 함께라서 더욱 즐겁고 햄복\" 롯데웰푸드 '의성마늘 햄복충전캠프' 성료 - https://www.catchnews.kr/",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zbTNKVzAtbnlyWV8waXdMWnJTOGdDSHMteTV2Sy1UcnBtdzJNU2QxWVdSSktpSGdqVEoyS3ZneXJPdi1mZGlSTXdvTl9mS0NOTUxSSTd4VlVQdDdsMTI4XzA5MXNMX3I2UDZB?oc=5",
-   "pub": "Mon, 26 Oct 2026 07:54:07 GMT",
-   "engine": "gnews",
-   "query": "1박2일 가족 무료 프로그램",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "캠핑용 탁자와 취사도구 등이 갖춰져 있어 가족, 친구, 연인 단위의 여행객 모두에게 안성맞춤입니다. 평일에는 고속철도(KTX) 요금의 10~30% 할인 혜택도 받을 수 있습니다. 예약은 온라인이나 전화로 할 수 있으며, 자세한 예약 및 이용 안내는 상담 전화를 통해...",
    "url": "http://v.daum.net/v/20261028100401507",
    "engine": "daum_news",
    "query": "철도 할인 가족",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "탁자와 취사도구 등이 갖춰져 있어 가족, 친구, 연인 단위의 여행객 모두에게 안성맞춤이다. 평일 이용할 경우 고속철도(KTX) 요금의 10~30% 할인 혜택을 받을 수 있다. 재단 관계자는 \"섬카는 이동과 숙박을 하나로 잇는 신안만의 새로운 여행 방식\"이라며 \"섬카를...",
    "url": "http://v.daum.net/v/20261028100031152",
    "engine": "daum_news",
    "query": "철도 할인 가족",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "보은군, 12월 단기스포츠체험 프로그램 참가자 모집 - 한국현대미술신문",
@@ -99,7 +115,15 @@
    "pub": "Wed, 28 Oct 2026 00:11:06 GMT",
    "engine": "gnews",
    "query": "무료 체험 추첨 가족 모집",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
+  },
+  {
+   "title": "만인산서 가족 힐링 가을 캠프 운영…11월 3일 선착순 접수 - 뉴스홈(newshome)",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5VWxMcml1T2hydzRKOHNaRzFwQkU3UGxYSHJtbEZhWDB1RnRsYlhfc1JMU1lJUGNWZXZsRDl1czJIb1dFWEZsWldCdllobElINHp4LWwwOHRQdUx6ZnN3Z3JVemVPQWlCWWhLa0Rn?oc=5",
+   "pub": "Wed, 28 Oct 2026 01:03:35 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 체험 선착순",
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "대전시, 만인산 가족 숲캠프 개최…11월 3일 접수 - 타임뉴스",
@@ -107,7 +131,7 @@
    "pub": "Wed, 28 Oct 2026 00:20:19 GMT",
    "engine": "gnews",
    "query": "대전 가족 체험 선착순",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "만인산으로 떠나는 힐링 가을 캠프 - 굿처치뉴스",
@@ -115,7 +139,7 @@
    "pub": "Tue, 27 Oct 2026 23:35:32 GMT",
    "engine": "gnews",
    "query": "대전 가족 체험 선착순",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "대전 서구, 5개 도서관서 북스타트 운영…참가자 선착순 모집 - 타임뉴스",
@@ -123,7 +147,7 @@
    "pub": "Wed, 28 Oct 2026 00:38:53 GMT",
    "engine": "gnews",
    "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "대전 서구 공공도서관, 하반기 ‘북스타트 프로그램’ 운영 - 메가충청뉴스",
@@ -131,7 +155,7 @@
    "pub": "Wed, 28 Oct 2026 00:25:17 GMT",
    "engine": "gnews",
    "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "만인산으로 떠나는 힐링 가을 캠프 - www.mediadj.kr",
@@ -139,7 +163,7 @@
    "pub": "Wed, 28 Oct 2026 00:24:39 GMT",
    "engine": "gnews",
    "query": "대전 서구 가족 체험",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "국화 향기속 온 가족 체험축제 ‘산림문화 페스티벌’, 11월 대전 유림공원서 만난다 - 문화일보",
@@ -147,15 +171,7 @@
    "pub": "Wed, 28 Oct 2026 00:58:16 GMT",
    "engine": "gnews",
    "query": "대전 중구 가족 체험",
-   "first_seen": "2026-10-28T10:07:46+09:00"
-  },
-  {
-   "title": "보령시, ‘2026 보령무궁화수목원 숲속야행’ 성황리 개최 - 대전시티저널",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzczN3dXVnMDBWeHluZ1ZGMGJ0UVh5TG42NnhPc1lyNVFkRHNZZVV4RXVKSzdNQ2dzZjFvYUMzb1FhUzNZWU81V3d0WjRaWW1OSTJjRk1BT21CLU4ySmh3ZDdBekI?oc=5",
-   "pub": "Mon, 26 Oct 2026 08:51:03 GMT",
-   "engine": "gnews",
-   "query": "대전 동구 가족 체험",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "공주시 장애인가족지원센터, 토요 가족 체험 ‘주말애 담다’ 참여자 모집 - 메가충청뉴스",
@@ -163,7 +179,23 @@
    "pub": "Wed, 28 Oct 2026 00:04:59 GMT",
    "engine": "gnews",
    "query": "대덕구 가족 체험",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
+  },
+  {
+   "title": "공주시 장애인가족지원센터, 토요 가족 체험 ‘주말애(愛) 담다’ 참여자 모집 - 충청메시지",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HZGI0TUpJNTI0RlFXczdFb1ROM2Jvd09keUh5U0VIcElEN2Foa0doM0lxRlViNnJ6aWdxaHpJQzhKbTdlRUFicEtkX1U5MXJqNXZwcURJbXBGNnRnVWFUTGxTcVZqbGlPeUNZ?oc=5",
+   "pub": "Wed, 28 Oct 2026 00:33:18 GMT",
+   "engine": "gnews",
+   "query": "세종 가족 체험 모집",
+   "first_seen": "2026-10-28T10:14:44+09:00"
+  },
+  {
+   "title": "세종시육아종합지원센터, 가족과 함께하는 5세 유아 주말 생존수영 교육 8차 진행 - 타임뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zZ3A5bGhKeURIVXFpYVNscFpjdXVvaVhWN21UX0lNT1FuMDQ2VUxEQUZSNVd2M2c3REpESXJTUkhHZDhMbk1NWWp2NzhrWURQN0FzYQ?oc=5",
+   "pub": "Mon, 26 Oct 2026 01:32:01 GMT",
+   "engine": "gnews",
+   "query": "세종 가족 체험 모집",
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "대전 서구, 장기요양기관 역량 강화 교육… 돌봄 품질 높인다 - 메가충청뉴스",
@@ -171,15 +203,7 @@
    "pub": "Wed, 28 Oct 2026 00:25:11 GMT",
    "engine": "gnews",
    "query": "대전 돌봄 페스티벌",
-   "first_seen": "2026-10-28T10:07:46+09:00"
-  },
-  {
-   "title": "키움증권 \"코스피, 이익 지속성 증명의 시간…7,100 안착 관건\" - 연합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiSDh6NmZqWG95NXFqQ3lCWmtNYUQtcEtMT3dyWldnVVJVZ2ZhdlBaSkN3RFYzU3ZteXd6aGhnRzJiMTh4aGVwV3lSSnRwZ1U3UkFaS0M1UGwyazTSAWBBVV95cUxNaVRVTlN2UU5Cek1xSG5nYmstaS11alh4NVdnNVZtZzBaYUx6OEdLalZCanUyTnNGTC1ZLWVObmpVODJub1BXcE1scjVYQ2E0MTg3T2J6T3Y4ZmplNy1DZzk?oc=5",
-   "pub": "Tue, 27 Oct 2026 23:46:11 GMT",
-   "engine": "gnews",
-   "query": "다키움",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "거래대금 증가 기대에 증권주 들썩...미래에셋증권·키움증권 상승 주도 - 핀포인트뉴스",
@@ -187,23 +211,7 @@
    "pub": "Wed, 28 Oct 2026 00:55:26 GMT",
    "engine": "gnews",
    "query": "다키움",
-   "first_seen": "2026-10-28T10:07:46+09:00"
-  },
-  {
-   "title": "“신한지주, 3분기 실적 아쉽지만 연간 최대 실적 기정사실”…목표가는↓ - 매일경제",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PaVM5cWxvWlhpa3BfeF9mcll0VnpXbm9BWDNUdFBKaGRkbFVVeG9ZM3hERmhfbFhiRkppNzlXRHdScU9kV1M0QkI4V0Z0cmJxenc?oc=5",
-   "pub": "Tue, 27 Oct 2026 23:16:55 GMT",
-   "engine": "gnews",
-   "query": "다키움",
-   "first_seen": "2026-10-28T10:07:46+09:00"
-  },
-  {
-   "title": "[2026국감] 증권사 전산장애 주문 146만건 차질…투자자 피해액 114억원 - 뉴스프리존",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01UmlxYTh5cnA1SURLdHN3eldGX2ZnMXgyNEdBU2FlaVBxX05iOGg0VzloRVFaaHZPcTFCNjhEcnNxZjNyeWN0Vm9PRi1TVmJMQ2VTQzQ3dHZIR1E2Z2phVmpkLTBrTnFTTGZub2lyVnRFNFHSAXdBVV95cUxQMVVJTzRzUWNXX3k3WnpjNHZkRWlWdTkwV1JpM0xUbFgxdU9IbGFITmVUSHo3ZU1qaTV2aVlqdlFRM3VLY3pzTlRaSlBESUo4UEtNVVBKT2JFRXBnejB4dzJUOUM3ejBOVldqZ0xTZDRKd0RMNkFhZw?oc=5",
-   "pub": "Thu, 22 Oct 2026 01:06:12 GMT",
-   "engine": "gnews",
-   "query": "다키움",
-   "first_seen": "2026-10-28T10:07:46+09:00"
+   "first_seen": "2026-10-28T10:14:44+09:00"
   },
   {
    "title": "한편 ‘코리아 그랜드 페스티벌’은 코리아 세일 페스타와 숙박세일 페스타, 동행축제, 농축산물·수산물 할인행사, 우체국 쇼핑...듀티 프리 페스타 등 각 부처가 추진하는 할인행사와 상품권·쿠폰 등 소비촉진 정책을 통합한 국가 단위 소비축제다. [김재구 기자...",
@@ -22161,13 +22169,6 @@
   {
    "title": "'마트대전'. 2026.10.12./사진=11번가 11번가, 가을 신선 먹거리 특가 판매 11번가는 식품과 생필품 등 마트 카테고리 상품을 할인 판매하는 정기 장보기 행사... 환아 가족을 지원하는 활동도 지속하고 있다. 매일유업은 인구보건복지협회가 2001년 시작한 '페닐케톤뇨증(PKU) 가족성장캠프'를 첫 회부터 후원했다.... 새 창 열림",
    "url": "http://www.4th.kr/news/articleView.html?idxno=2119531",
-   "engine": "naver_all",
-   "query": "대전 세종 충남 가족 숙박 체험 지원 모집",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "서울, 경기, 인천, 세종, 충북을 제외한 지역의 숙박상품을 대상으로 정부 지원 3만원 할인쿠폰을 매일 오전 10시부터 제공한다. 쿠폰은 행사 기간 1인당... /롯데웰푸드 롯데웰푸드, 추석 맞이 '졸음운전방지 껌 씹기 캠페인' 롯데웰푸드가 한국도로공사 서울경기본부 및 대전충남본부와 함께 추석 연휴를... 새 창 열림",
-   "url": "http://www.4th.kr/news/articleView.html?idxno=2118600",
    "engine": "naver_all",
    "query": "대전 세종 충남 가족 숙박 체험 지원 모집",
    "first_seen": "2026-10-26T04:28:55+09:00"
