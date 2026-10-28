@@ -1,8 +1,465 @@
 {
- "updated": "2026-10-28T15:07:47+09:00",
+ "updated": "2026-10-28T18:08:28+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 22,
+ "new_this_run": 59,
  "hits": [
+  {
+   "title": "어때, 매일 오전 10시 선착순 지급…7만원 이상 결제 시 3만원 여기어때가 춘천시와 손잡고 늦가을 춘천 여행을 지원하는 숙박 할인전을 연다. 할인 쿠폰은 춘천시 내 모든 숙소에 쓸 수 있고 최대 할인액은 3만원이다. 쿠폰은 매일 오전 10시부터 선착순으로 풀린다...",
+   "url": "http://v.daum.net/v/20261028173844426",
+   "engine": "daum_news",
+   "query": "숙박 할인 쿠폰 지원",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "외식·숙박업계까지 폭넓게 참여해 상품별 할인과 특별기획전을 선보인다. 현대자동차와 기아, 한국지엠, 르노코리아, KG모빌리티 등 국내 완성차 5개 업체는 11월 1일부터 중형 세단과 스포츠유틸리티차량(SUV) 등 인기 차종을 대상으로 할인에 나선다. 현대자동차...",
+   "url": "http://v.daum.net/v/20261028172907908",
+   "engine": "daum_news",
+   "query": "숙박 할인 쿠폰 지원",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "여수 관광, 할인쿠폰 11장으로 체류 늘릴까…‘여수엔’ 가을 관광객 잡기 나섰다 - 전남타임스",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxdDA3ZUN4S0tzTU5KSjVxOVFfRFowb1FZYmlLeXhmU3RZV0Mya0pBbW1uYXJDVHRDaGJLN3F6NVdIcUFhRFRVdlZfSHJudTl2YTc5a1FqMDBLRjllaDVLYjVoM2NSUVE?oc=5",
+   "pub": "Wed, 28 Oct 2026 07:28:43 GMT",
+   "engine": "gnews",
+   "query": "숙박 할인 쿠폰 지원",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "[똑똑한여행] 모두투어 유럽 크리스마스 기획전·참좋은여행 이집트 사전강연…교원투어·여기어때·아고다 - 에너지경제신문",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GWEY5dFB6LW5JTl9KNGMzYmJQbk1RWS0yeFFxcVFOczkyanA1ZVo3dmhQUloxTGowSnd2a0V5cEQzRUt5bWNVSjI2LWozbGFBY0liZFlEWXN5UmlEN3Q5S0t2dw?oc=5",
+   "pub": "Wed, 28 Oct 2026 08:38:37 GMT",
+   "engine": "gnews",
+   "query": "숙박 할인 쿠폰 지원",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "[유통레이더] 롯데백화점, 롯데웰푸드, 삼립, 남양유업, 공영홈쇼핑, 요기요, 인스파이어 外 - 데일리한국",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3d0NfamhiemlGVnViZHBkbE9KTnVDeFhEbjhMSk1pVG53dGlucEZkTnhTX3Y1b3FHeVIwTE1haHV4a1k4MFNOVGUxUjF1cVd4ZEJPa21rbElwQlpYMnFTNTE1VHhsa1Y1WktmU1RKZ9IBc0FVX3lxTE1KZlFuVkpMTGVfeU4teC13ZHk3NVRkMnYydWVzbEhuTXNCMGd0V3RBZTJmWXJEcFBxbXhtVmxHMVg3MnVPQlcwRy1FeHI4U2pSalctWlpPUVo1REhrMkgwZTdMU19LQTNXLWZwQjgyRFN2MjQ?oc=5",
+   "pub": "Wed, 28 Oct 2026 07:00:00 GMT",
+   "engine": "gnews",
+   "query": "숙박 할인 쿠폰 지원",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "인스파이어-영종구, 아동·청소년 진로 프로그램 확대 추진 - 숙박매거진",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QSFVwTmdfOWkwc3RJRzBVMG5CM3c1N3RJWmNueWg1bU5QYnN0aG9kYzhHMDFoMThxUGRlbGo1d0h2X2xtbXR6U3R5XzFsZjlZdW5oLXRvVjFLclZBb2wxaDExVnpfdWh0ZWV4ZlJIZDFTZw?oc=5",
+   "pub": "Wed, 28 Oct 2026 01:07:33 GMT",
+   "engine": "gnews",
+   "query": "숙박 할인 쿠폰 지원",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "시군별 시작일은 다를 수 있으며, 예산 소진시 조기 종료될 수 있다. 한편 ‘코리아 그랜드 페스티벌’은 코리아 세일 페스타(산업부), 숙박세일 페스타(문체부), 동행축제(중기부), 농축산물 할인행사(농식품부), 수산물 할인행사(해수부), 우체국 쇼핑 프로모션...",
+   "url": "http://v.daum.net/v/20261028172522742",
+   "engine": "daum_news",
+   "query": "숙박세일페스타",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "코리아 그랜드 페스티벌 전국 할인행사와 지역 소비 연계 - www.culturegb.com",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4ZW9PRzVkcVdVS0laeUg1M2tfbkVSX2xabTNVOGNQTDJnbXVVby1zUjBxLVBWdWRmWXlwQ0dyVlQ3dk93YU5uZk5CcFdVRkt0R3J5VzJQVmhfV1FN?oc=5",
+   "pub": "Wed, 28 Oct 2026 08:16:00 GMT",
+   "engine": "gnews",
+   "query": "숙박세일페스타",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "한우·수산물 최대 50% 할인…‘코리아 그랜드 페스티벌’ 29일 개막 - www.thedailyeconomy.kr",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PTlk0SlVmRkVoMUNjRlhJZUp6MkdiS21UeUlsZjNZLWQxRG5WUG9VSUExa1JlT2dNYWdIVGo4WWlrUEhqcm0xMm5SY19pcnNqdnFramJfdTJTZmRhMjlhQTRBU003LXlaa2o4SktBelU?oc=5",
+   "pub": "Wed, 28 Oct 2026 05:03:58 GMT",
+   "engine": "gnews",
+   "query": "숙박세일페스타",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "정부, 오는 29일부터 자동차·가전부터 한우·수산물까지 최대 50% 할인 행사:경인투데이뉴스 - 경인투데이뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1RdEtwcTh1RWkyUjhhb3h4YVAtNWtJNlM1NE9Hd0VFbTk3TmZCVXBQYW9hak1YTHktaGlGSlN2V3otQdIBX0FVX3lxTE1CVEttN1dLNnZBVGhDR0hzX1Jxa0VYX095Q21aS3RSeExhX0RULW1tSTVmS3ZxMUJTY0g5RzZnbXRrVzgtWWFYZ3NHdzZ6V2dROWlVc1g3VmFRM1ljdk5B?oc=5",
+   "pub": "Wed, 28 Oct 2026 00:58:00 GMT",
+   "engine": "gnews",
+   "query": "숙박세일페스타",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "29일부터 '코리아 그랜드 페스티벌'…최대 50% 할인 - 충청리뷰",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53WUQ0Um5Cb2wydlFGVnBFeVBrYWNIaXM5Zi12RkRFYUxSTUI0b3BnSkl4djlodFNmTHlCRVE3ZXJzWlZsMW1qN3E5TGdKNElBUlA3SVlFbnFCZVFiYXRCd19VTHBYRkU2RWxEc3hVdzJvQdIBckFVX3lxTE53WUQ0Um5Cb2wydlFGVnBFeVBrYWNIaXM5Zi12RkRFYUxSTUI0b3BnSkl4djlodFNmTHlCRVE3ZXJzWlZsMW1qN3E5TGdKNElBUlA3SVlFbnFCZVFiYXRCd19VTHBYRkU2RWxEc3hVdzJvQQ?oc=5",
+   "pub": "Tue, 27 Oct 2026 06:07:41 GMT",
+   "engine": "gnews",
+   "query": "숙박세일페스타",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "한우·수산물 최대 50% 할인…제2회 '코리아 그랜드 페스티벌' 개막 - 오아시스뉴스",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDbEdBNkVIZEdIcUdKQ0pKandxUTBsNE9ELTFVMjhkX0d0bDlfYTNMcXpiZ0dyNHJwU2xiOEZSam43eGVZLWVLbHc5Y3U0b24wdUFsNEQtZ2Qwbl8tcTRTeV9jMkZuelhlaTlzOGNjeHHSAXRBVV95cUxNVkxsVGF6VmJWOHFsekVReW54Sl9zSzZHNEt3YlNzZTJQVlFSSkZKYWFyTFB3aXRsOFNsUjNxNEV2Tl9CNlJ5WWdOMmZPUVgyMmVMalNHS2VaRzBfNjM3ZGRtLVRMaVBDeE5jVDJCUWFCYVpUNw?oc=5",
+   "pub": "Wed, 28 Oct 2026 04:42:54 GMT",
+   "engine": "gnews",
+   "query": "숙박세일페스타",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "정원과 휴식 공간, 야간경관을 조성해 체류형 관광 기반을 마련할 것을 제안했다. 관광객 유치와 소비 확대를 위한 '안동 반값여행'과의 연계도 강조했다. 권 의원은 2차 모집 당시 3500명이 30분 만에 신청을 마칠 정도로 높은 관심을 보였다며, 관광거점과 전통...",
+   "url": "http://v.daum.net/v/20261028174624739",
+   "engine": "daum_news",
+   "query": "반값여행 신청",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "경관을 마련해 체류시간을 늘릴 필요가 있다고 설명했다. 최근 관광객들의 높은 관심을 받고 있는 ‘안동 반값여행’과의 연계도 강조했다. 권 의원은 반값여행 2차 모집 당시 3,500명이 30분 만에 신청을 마감한 사례를 언급하며, 관광객 유치 효과가 지역경제...",
+   "url": "http://v.daum.net/v/20261028172922935",
+   "engine": "daum_news",
+   "query": "반값여행 신청",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "인천장애인종합복지관, ʻ우리가족 농촌체험ʼ 참여 가족 모집 - 미디어생활",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIWEZBa29EWDhaQUpTX0xhZ3pOQzZSWmhKR2JVUzV6cUJ6UDRJbVZaelNrRlJqcHJfVTNtb0RxaUlDa3ZJdmctbmZ0NnZ6cUVMTFpFZUx5XzkyNEFCbk9XbVk0bEFMX1d3UEZySkRyQQ?oc=5",
+   "pub": "Wed, 28 Oct 2026 08:16:13 GMT",
+   "engine": "gnews",
+   "query": "농촌체험 가족 무료",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "국화 11만점 진주종합경기장 수놓는다…전시 규모 5000점 확대 - https://www.newsphere.kr/",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzUlY1S0E4aTRfbWRvRVlEallFRkV5bk1JaW9wTE9kYmhsdHRrcnpIdE0yU1NjMkJrMmRkZDdyb0xXMWJmSEZVbWdSU01LeVU2R2NFRTV6cldTNVBsNTMzSFNrcGIxMkdH?oc=5",
+   "pub": "Wed, 28 Oct 2026 06:14:08 GMT",
+   "engine": "gnews",
+   "query": "농촌체험 가족 무료",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "1593년 구국의 과거시험 부활, 전주한옥마을서 제9회 전주별시 열린다 - 이트레블뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBEYld2bHFTcVdOSGZNMkYzTUNxMHA2X2c3d09XdlI1LWU1czdDN2NaTHZXQU81dkU0S05UaF9iQ0E4OU9v?oc=5",
+   "pub": "Wed, 28 Oct 2026 02:05:00 GMT",
+   "engine": "gnews",
+   "query": "1박2일 가족 무료 프로그램",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "공주시 장애인가족지원센터, 토요 가족 체험 ‘주말애(愛) 담다’ 참여자 모집 - 미디어투데이",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XSWNoTmY0clVPektNczV1Sy1PTkJjTjA4YzVrbmlEeDVMdG9UTWpCcnY3TzVpbTduSmhyc05YaFdBMHh6LTBWSF9n?oc=5",
+   "pub": "Wed, 28 Oct 2026 00:11:00 GMT",
+   "engine": "gnews",
+   "query": "추수 체험 가족 모집",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "‘2026 여수엔 여행가는 달 할인 프로모션’ 홍보물. 전남광주 여수시가 가을 여행 수요 확대와 지역 관광 활성화를 위해 스마트관광...10%, 짐 배송 50% 할인과 주차장 무료 이용 등 다양한 혜택을 마련했다. 특히 숙박시설은 선착순 200명에게 최대 3만원의 할인...",
+   "url": "http://v.daum.net/v/20261028172144581",
+   "engine": "daum_news",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "에 나선다. 28일 시에 따르면 이번 행사는 '2026 여수엔 여행가는 달 할인 프로모션'이란 이름으로 진행된다. 가을 여행 수요 확대와...30%, 특산품 10%, 짐 배송 50% 할인, 주차장 무료 이용 등 혜택을 누릴 수 있고, 숙박시설도 선착순 200명에게 최대 3만 원의...",
+   "url": "http://v.daum.net/v/20261028165717279",
+   "engine": "daum_news",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "돌아가는 혜택이 있어야 되거든요. 기업이 들어와도 지역 주민들이 일할 기회가 없다고 하면 의미가 없습니다. 그래서 기업 유치 단계부터 지역 인재 채용과 청년 일자리 또 지역 경제와의 연계를 함께 준비하고 있습니다. 경제자유구역이 앞으로 우리 강화군의...",
+   "url": "http://v.daum.net/v/20261028163008900",
+   "engine": "daum_news",
+   "query": "여행가는 달 혜택",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "‘여수엔’으로 즐기는 가을 여행 - www.gmitoday.com",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zYm5jLUlEckVKc0ZoQlZCWGFoOURXWl96VklIMEtrNTJQdUpzbmNDdE03aTA3dGdEUVU5WGhkdVk1LVhnaFBvTlhrVkZBZ1pfVjQ2OFpkY21ucWl4WGlrdVFHQndHY1BTb3c?oc=5",
+   "pub": "Wed, 28 Oct 2026 06:29:53 GMT",
+   "engine": "gnews",
+   "query": "여행가는 가을 지역 혜택",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "개(犬)봉박두! 보은 댕댕운동회 개최! - 굿처치뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmbTNLYWdROHEwSHFja3VhOXRPZ2JvZDZ2bDVxbldGQmdaZEJROEdYeERHRjExNE5hRUVQU1ZadC03RVpUWEVrWmpZMUxIaTg4R2RHNkppZTdnb3E1eHZyOGZ3?oc=5",
+   "pub": "Mon, 26 Oct 2026 21:21:07 GMT",
+   "engine": "gnews",
+   "query": "충북 가족 행사 사전신청",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "경복궁·창덕궁 입장료 0원…4대 궁궐·종묘·조선왕릉 18일간 무료 개방 - 얼리어답터뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0xQXVaU2ZlV0tXYmZXcUszUW1hVGllQ2tfd0dUY2x3TzBuWkVqT3VnajNpOFpJQWs1dlNaaEt2Mm1SLXZra2U4d3Bn?oc=5",
+   "pub": "Wed, 28 Oct 2026 04:23:54 GMT",
+   "engine": "gnews",
+   "query": "궁궐 무료개방",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "4대궁·종묘·왕릉 10/29~11/15 무료 개방 - 여행픽",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QYm5nRzNQcm5GZzM5NmxzSTNxS2x0aEx1UHhMZmxib0RpdEd1VG5EMnVkUlZ0dHhESy0wUU1wWE5iNUlqSGxKbnJWYnZ1UTBsYkNmTGJIQTcxSENMMThUZUxiT0t3NVM2eGd6UA?oc=5",
+   "pub": "Wed, 28 Oct 2026 00:59:41 GMT",
+   "engine": "gnews",
+   "query": "궁궐 무료개방",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "면세점 할인에 4대 궁 무료 개방…‘코리아 그랜드 페스티벌’ 29일 개막 - 서울경제",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qU0ZIVDFHMUpaM21QNHR3MllCQlY3dFZqODl6a0hFeDdTb0VqRTBYY0l1bDlBX1BRckZYRFh0Yk5Qb0J3cjA3REFMUEpMV2J1bHI00gFTQVVfeXFMTmpTRkhUMUcxSlozbVA0dHcyWUJCVjd0Vmo4OXprSEV4N1NvRWpFMFhjSXVsOUFfUFFyRlhEWHRiTlBvQndyMDdEQUxQSkxXYnVscjQ?oc=5",
+   "pub": "Tue, 27 Oct 2026 06:23:52 GMT",
+   "engine": "gnews",
+   "query": "궁궐 무료개방",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "자동차·가전부터 한우·수산물까지...최대 50% 할인 정부, 「제2회 코리아 그랜드 페스티벌」 시작(10.29~11.15) - 한국방송뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3bTRpRTU1MVlVdFdoZjZHUkwzX19aLUt1SE4tbWk4YjVJUFlpazFjelctYWlEakZNQko2Mks3SmpjQ1lFV0d3S0FfWWNtdEF6dnhzX3R4RERpdDFzUU9nZQ?oc=5",
+   "pub": "Tue, 27 Oct 2026 05:21:31 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "한우·수산물 최대 50% 할인…'코리아 그랜드 페스티벌' 29일 개막 - 뉴스후플러스",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jVmYxTFRGYjRNcW9yQmkxSzNneGlxRTBaLS1oYzBfUFlMd0xDQkZPLS1mdW5PR2EtWUV5ZEdiWnRqbWJ4eEUzanhEQXNRWFRTUWRYSUpGcUFQQ09xTDlwVmZoejNsb0RGZHc1YUJ3?oc=5",
+   "pub": "Wed, 28 Oct 2026 04:02:39 GMT",
+   "engine": "gnews",
+   "query": "국가유산 무료 개방 기간",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "가족 찻상 만들고 숲해설·숲놀이까지…대전 만인산서 ‘힐링 가을 캠프’ - 뉴스21 통신",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OR04teEY4dkM3a1V1UExkSm1wSngtcDZLRGVvWTE2SVVTOEJPWE5VWWZ4QlcxeVZoeDBoc0RGMjR3VVRUS2Q0NVFQdF9tQ29rRFJBMmJR?oc=5",
+   "pub": "Wed, 28 Oct 2026 08:37:58 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 체험 선착순",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "대전시, 11월 14~15일 '우리 가족이 Green 숲! 힐링 가을 캠프' 행사 - 충남일보",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zRjdCMDJVMVc4a2pzYWNXdlZqZlJiblhTVmNJS2JVZExTR0MtUEs2OGFvNjJvaEZwbjJjMFFQbEZmaU4zcEduS3BGWUVzYW5rcEtqM09ITnMzNGpBa2M3M01Cc0psUEpJT2p6Q3NpQU9QSjA?oc=5",
+   "pub": "Wed, 28 Oct 2026 06:48:28 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 체험 선착순",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "대전시, 초등학생 가족 대상 만인산 힐링 가을 캠프 운영 - 뉴스티앤티",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPNmVLU3FVUFAzenhpZm5mNzBpLTJCeDY2b3p2anFidUUtUXd3TTI5Y1VQaGlYNnBPUHRqaTljdXVoMndlUGlFMVRSenJCLWVvZElLSzBIRWRNdjVNYWZBczNCRVVGNHdvbFE?oc=5",
+   "pub": "Wed, 28 Oct 2026 06:44:48 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 체험 선착순",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "대전 서구 공공도서관, 하반기 ‘북스타트 프로그램’ 운영 - https://www.kotn.kr/",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YcUlHTWdyeDd1alFsd011MXBtVmVJZ1ItblVHMGlKeEVidmpuY0ZtN3V2X3UyUVdUb1NPLWRfV281TWs1N3Nld1B6STN5Y2xZWGZrOGhPenpTMU9SVTRUWFFJb0E?oc=5",
+   "pub": "Wed, 28 Oct 2026 00:30:24 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 프로그램 모집",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "대전시, 만인산자연휴양림서 가족 힐링 가을 캠프 운영 - 충청신문",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Qd21SM3VzZ3Q1LVFCam44am0wT3VkZVlqWnpQaUlpdUhfYklZUEhXOU5tQV9TbkJHd3lOTm9sbVNsZjllSy0zcHhIX1FnWXpnTXFWcldrcnNmanhzNEdBdXNWTzVFQ0VNeFHSAW5BVV95cUxOamJMYjViS3JaZ29kUXZGa1lLOUlmMWozbzBnOGNmY3JEVF94THlncWhCMlF0NVllZzRuQU43WFQ3ekM0YThJZWpnVUpWSVdyVXVrV3ZTbWp2ODBPdndvU0Q0RHc3SVJCbno2VHUyQQ?oc=5",
+   "pub": "Wed, 28 Oct 2026 07:14:25 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 프로그램 모집",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "“도심서 지친 마음 만인산서 힐링하세요” - 금강일보",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzRF96cHV3NWh0cmRMa215b1laS0Q5Z21CaENqOEhpT1dyNnA2cC1USEp2VUU3X2FaVXRCTlFfZzlFV2Z2SkxXMTU1UkJwSlY5azVVdjJaaGlFLU9DQ3RoM08tTVdsTHg1S0E?oc=5",
+   "pub": "Wed, 28 Oct 2026 07:58:09 GMT",
+   "engine": "gnews",
+   "query": "대전 초등 자녀 가족 체험",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "대전시, 만인산자연휴양림에서 가족 숲 캠프를!... 초등생 가족 대상 11월 14일부터 15일까지 - Queen 이코노미퀸",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5URkthSnFlUnQzME1ZM3BWRmY4ZEZteFVOSldLaW00ZjJGZ0dtY29vaEpXYy1QcHRHS2xBT2ZrNkk4WjhSbnlhdy1lNjFWdUU2VXJZTjlyVmxZR3dldFB6QXdwOExYRmxW?oc=5",
+   "pub": "Wed, 28 Oct 2026 04:37:45 GMT",
+   "engine": "gnews",
+   "query": "대전 초등 자녀 가족 체험",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "민주평화통일자문회의 대전 동구협의회가 제2회 자양동 한마음 축제에서 체험 프로그램을 운영 중인 모습. [사진=민주평통 대전 동구...프로그램을 운영했다. 프로그램은 축제를 찾은 어린이와 가족들이 자연스럽게 나라사랑의 의미를 되새기고, 평화와 통일에 대한...",
+   "url": "http://v.daum.net/v/20261028173228071",
+   "engine": "daum_news",
+   "query": "대전 동구 가족 체험",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "민주평통 대전 동구협, '평화통일 홍보캠페인' 눈길 - 중도일보",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DY3RoUGw3RzBWak9Tc1R5ZklpMlNZR0dkS25DOUFXaFBCUXpLS213Y21ldmVXNmRZM2FqVkU5STZqbi1za3ZVVGktakFWT3I5bGJ3VU4ybFMxUFJBX1FMQmRoN0kxb1VZSU5nNQ?oc=5",
+   "pub": "Wed, 28 Oct 2026 08:23:43 GMT",
+   "engine": "gnews",
+   "query": "대전 동구 가족 체험",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "대전 유성구, 취약계층 아동 30명에 직업체험 기회 제공 - 현대경제",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yc29DNlUxVG5ZcGdKNDhFVmJDTVJpM2tjS2RYaEdmazdQY2p6WFJhdWdfczBmanJBZG5IdkhYWnpseTJwdHl5RXVuR0FxWHl1V3g3QkpobG1zT0NaVTdQVFUtdHJNcHZjY0M0?oc=5",
+   "pub": "Wed, 28 Oct 2026 05:18:14 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "유성구, 취약계층 아동 30명과 서울 키자니아서 진로 체험 - 충청매일",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51cDRQU3lLX2pFVnctNTNZNGhXS2lVenFfc1JoY1gxbjdYMGJ0eGdjQy1CelA4V00tZkllQlFPSWZBcXdPM3N3VjFqN3I3UlVMU3NnUkVvWlVvN0FtbTRsNmdpUC0tVDFmT2c?oc=5",
+   "pub": "Wed, 28 Oct 2026 06:05:06 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "대전시의회, XR 재난체험 활용 안전도시 모색 - 뉴스파고",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB5eUd2b3VqQUlEVzhSQll6QkgtVW1Ud1Vmd092aE9Hbk5QRUk2czRrNlNhYThRbkNRWFNIVmNwZDZNVmt2?oc=5",
+   "pub": "Wed, 28 Oct 2026 06:45:00 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "대전서구의회, 어린이·청소년 대상 의회 견학 프로그램 28일 운영 - 서울뉴스통신",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uZkROZXlIUTY4aTFaX2t5Ymh2WlRldE1zZzNoNldncFRmaGM5RlE1dmlvWmhBMTBacW5ROW5tWlluSVpSSE9zOFJFYWxlWnJDRElOX3ZTSXgteUtIRVpfMm5DdDZHQWJhQVBn?oc=5",
+   "pub": "Wed, 28 Oct 2026 09:00:00 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "대전 유성구, 드림스타트 아동 진로 체험 지원 - 뉴스티앤티",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YbVJCR2NsZU5TSHEyc1NycVg2UGNhUUYwWXR2M2NnY1hBeFluUXhULUNoNmhKMC1KOWpXNUZJUGRiZ2JnTkhYR1AyQldvd2NXRXdRbjlRNmFZRDd0U1hSUkRBTjdQc3BCb3c?oc=5",
+   "pub": "Wed, 28 Oct 2026 07:53:21 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "유성구, 드림스타트 아동 가을맞이 진로 체험 행사 - 대전시티저널",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOalh1S3RBaGpkc2RkZzFnMlQwckZxUlAxTXFlWjRDNjVidWQyYm5OQXNtWjdwMFNmNDROVlRVU2RmV0xHdUcyV0hPazNEbHZ6b0NlbUdTWmpyM0VueGR3aE5pdGY?oc=5",
+   "pub": "Wed, 28 Oct 2026 08:53:11 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "대전 서구의회, 어린이·청소년에 지방의회 역할 알린다 - 충청매일",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpUnBJLXA0bVlTY2pfVTdYZmFSUFdIWGRhS2xfVi1PUlFzUTNydlh3OHg0RGR1VEpZcE1hZ3g2LTNVU3F1Y0RlXzJ1VVpEWjZxWTRjTXFyM0dDakRmbk1GTVBBODVHZG1CeFE?oc=5",
+   "pub": "Wed, 28 Oct 2026 08:55:05 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "보은군, 12월 단기 스포츠 체험 참가자 20명 모집 - 뉴스1",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CTlM3TktCSHoxZExILTM3RlU5MUtYdVMySU5RSFBLcnFtNEVEOWhzZWF2a2Ztc01wOGFTczM5TzZaMmMxTnpFa0x5eFBZWk5XMElPSzFvOGxGY0M4bkNv?oc=5",
+   "pub": "Wed, 28 Oct 2026 08:03:00 GMT",
+   "engine": "gnews",
+   "query": "세종 가족 체험 모집",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "㎝다. 주말에 몰아 요리한다면… 말리고 갈아 한 번에 평일에는 간편식, 주말에는 집밥. 음식물이 불규칙하게 나오거나 처리한 뒤 통을 비우는 방식이 편한 집에는 건조·분쇄형이 선택지가 된다. 코웨이 '제로 음식물처리기 분쇄형'은 150℃ 고온 히팅으로 음식물을...",
+   "url": "http://v.daum.net/v/20261028175341055",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "롯데에 돌아온다. 허문회 코치는 은퇴 후 LG 트윈스, 키움 히어로즈에서 타격코치로 뛰어난 지도력을 인정받아 왔다. 이에 2020시즌을...이제 고소할 일 없다\"라며 \"가족 욕만 삼가달라. 저에 대한 비판 다 감수하겠다\"라고 당부하기도 했다. 이후 허문회 코치는...",
+   "url": "http://v.daum.net/v/20261028170239591",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "배’다. 조선업은 수주에서 건조, 인도까지 통상 2~3년이 걸리고, 대금의 상당 부분을 인도 시점에 받는 구조라서 호황기에 높은 가격으로 수주한 물량이 뒤늦게 실적에 잡힌다. 2024년 이후 수주한 LNG 운반선 등 고부가가치 선박이 올해 본격적으로 매출에 반영...",
+   "url": "http://v.daum.net/v/20261028164341640",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "팀을 떠났다. 당시 롯데와 3년 계약을 맺었지만, 계약 기간을 다 채우지 못한 채 쓸쓸히 짐을 쌌다. 허 코치가 이끈 롯데는 2020년...판매 및 DB 금지 퓨처스 선수단을 이끌 박 코치는 넥센(현 키움) 히어로즈와 KT 위즈, 한화 이글스 등에서 투수 코치를 역임하며...",
+   "url": "http://v.daum.net/v/20261028163926406",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "처우 개선을 추진하겠다. 의료 사각지대를 줄이기 위한 재택의료팀 운영을 준비하고, 24시간 안심출산 지원체계도 구축하겠다. 다같이키움센터와 장난감도서관 등 돌봄 자원을 연계해 온종일 돌봄체계를 강화하겠다.\" -군민들에게 하고 싶은 말씀은? \"군정의 성과는...",
+   "url": "http://v.daum.net/v/20261028163002894",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "졌다. 키움 히어로즈의 이용규 선수 겸 코치가 음주 운전 후 교통사고를 냈단 소식이었다. 이 코치는 사건 직후 불명예스럽게 현역 생활을 마감했다. 이 같은 흐름은 아마야구도 크게 다르지 않다. 드래프트 신청 시 생활기록부 제출이 의무화됐지만, 학교폭력 문제...",
+   "url": "http://v.daum.net/v/20261028160310432",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "발행어음 9개사 체제…특판 계급장 떼면? 단기물 키움·중기물 KB 1위 - 아시아투데이",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43M0VtSGlRQW5fN000eF9SdnFFQmpuOXdndUx4SWJaamxybmdnQkwtM0pTd1BGN3lIN0ZQSHpyYXZlTVZFclBMRFhmejZQXzEtUDMxRkxXemF1LTVEUXJ3ZXFkZ1lGQk5nN2c4TzNB?oc=5",
+   "pub": "Wed, 28 Oct 2026 08:48:47 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "발행어음 늘리는 키움증권, 리테일 중심 수익구조 바뀔까 - 마켓인",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UWFdWQ2N6dFYzSldPRkQ5U3dRYkxJWDQyS2lMOExHRFplY1RmZzFEM1FsSUhjVnZIZW11eVVTRGRqVVNVNzNlSTJhQlROVzl4SHI1eVEybGtPQkRDUTV2dnYxd0xkQWhrOFpoaFhRWU9LR0k?oc=5",
+   "pub": "Wed, 28 Oct 2026 07:58:57 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "\"문학동네, 우선협상대상자에 다우키움그룹 선정\"…지분 매각 가시화 - 하이테크정보",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0WjhkeWJVTTJwVlVHbWRkOFlGVVB3dDNOTTF3QlFQb3FYTFU0akVpai1WR2FYdEJLU3Y3MTdWaVVlN1RXOUxWaUZBVkF6YXZXallyMDhIU0tIVTJPWXZWSmhPVmJyWDJh?oc=5",
+   "pub": "Sat, 24 Oct 2026 18:34:00 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "키움운용 '코스닥150커버드콜액티브 ETF' 순자산 1000억원 돌파 - 세이프머니",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oeTA3T3ZJNTExcVlfVG45Ry1PRVdQTXN6UkpDOUN4Y2FLLU1RNVFqNUU3MGJRSWU5QjFEM25UNGs5aGtJclVIRkVvT2dLcUNzeG1GVEFiTjdXRS1Qc29fcDVzcDVSYWNvSVlEeFJ3?oc=5",
+   "pub": "Wed, 28 Oct 2026 06:04:19 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "“신한지주, 3분기 실적 아쉽지만 연간 최대 실적 기정사실”…목표가는↓ - 매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PaVM5cWxvWlhpa3BfeF9mcll0VnpXbm9BWDNUdFBKaGRkbFVVeG9ZM3hERmhfbFhiRkppNzlXRHdScU9kV1M0QkI4V0Z0cmJxenc?oc=5",
+   "pub": "Tue, 27 Oct 2026 23:16:55 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "KBO 플레이오프 승률 1위 키움으로 16전 11승 패로 승률 0.688이래.. ㅅㅂ 그팀 죽었다 | SpinSpin 리퀘박스 - Howl.Link",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5LbGtkUE9qUm81R3JhTE5IbVhqT19qYkVWYTE4VVlZR29oYnRDendMc1NfbThtTjVPek1v?oc=5",
+   "pub": "Wed, 28 Oct 2026 08:58:30 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "가족과 떠나는 서천갯벌 세계유산캠프… 다음달 1일까지 참가자 모집 - 메가충청뉴스",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wSG4wTGUtNGVWS1JGNVZoUFFLcGFCa1hMZjgwdmVjbWM1M3hIa3g1M1gzQ2Z4YlVfdEdGUjhBd2I4ZnE5U1F1UC1nYml0Z0VMV3FQeUNSVWtudkpZcS1KdVluTXU3VjlMQUJr?oc=5",
+   "pub": "Fri, 23 Oct 2026 00:33:34 GMT",
+   "engine": "gnews",
+   "query": "대전 세종 충남 가족 숙박 체험 지원 모집",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
+  {
+   "title": "`수능은 OFF, 내 일은 ON`… 세종시교육청교육문화원, 고3의 설레는 새 출발 응원! - 미디어투데이",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uYUVabVk1UVVsY3RYYlh5WG5zeTRBSFktRE5qbEgzQmNhWW5VU25TVnNiYkxzY0h0YW5ubkt3WnFNN3RWeG5yTDV3?oc=5",
+   "pub": "Wed, 28 Oct 2026 01:55:00 GMT",
+   "engine": "gnews",
+   "query": "세종 평생교육 가족 체험 모집",
+   "first_seen": "2026-10-28T18:08:28+09:00"
+  },
   {
    "title": "여기어때, 춘천 숙박 최대 3만 원 할인…11월 6일까지 쿠폰 지급 - 여행레저신문",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81bk9wXy1ZMnpMdkZ6N0diU1RKeUNBcW1Gcll5R29BNEF0RHd6ZVpjaTFrYUZkMFdja2lzbVJCV1ZsRGxsYWF4QkFrZmpGYnBlNnByT3ZQM1dTZ3JBNGZTa21QV0hjUDdocE9PZlExWWZhMjRBWldpdFVpWGF3dw?oc=5",
@@ -21815,422 +22272,6 @@
    "url": "https://lib.sejong.go.kr/nasung/edusat/view.do?edu_idx=9506",
    "engine": "naver_all",
    "query": "세종 아빠 자녀 프로그램",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "엄마·아빠와 자녀가 함께 하는 숲 체험을 통해 친밀한 관계 형성 및 환경 보호에 대한 인식을 높이고자 세종특별자치시육아종합지원센터에서 실시하는‘숲에서 놀자 「엄마·아빠와 함께하는 힐링타임」’을 안내드립니다. 가. 사 업 명 : 숲에서 놀자 「엄마·아빠와 함께하는 힐링타임(2차)」 나. 일 시 : 2026. 10. 10.(토) 10:00 ~ 12:00 다. ",
-   "url": "https://schoolhp.sje.go.kr/dabit-k/na/ntt/selectNttInfo.do?mi=2343&nttSn=192853",
-   "engine": "naver_all",
-   "query": "세종 아빠 자녀 프로그램",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "세종 100인의 아빠단, 목장 체험으로 유대감 쑥쑥 - 27일 정동체험마을에서 다채로운 체험으로 함께육아 문화 확산 - 세종특별자치시와 인구보건복지협회 충북세종지회가 지난 27일 정동체험마을에서 제8기 세종 100인의 아빠단을 대상으로 목장 피자 및 아이스크림 만들기 체험 행사를 진행했다. 이번 행사는 아빠들의 적극적인 육아 참여를 독려하고 자녀와의 유대감",
-   "url": "https://www.gaok.or.kr/front/viewAritcle.do?bbsId=BBS_0130&nttId=37455",
-   "engine": "naver_all",
-   "query": "세종 아빠 자녀 프로그램",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "세종특별자치시와 인구보건복지협회 충북세종지회는 지난 27일 정동체험마을에서 제8기 세종 100인의 아빠단을 대상으로 목장 피자와 아이스크림 만들기 체험 프로그램을 진행했다고 28일 밝혔다.이번 행사는 아빠들의 적극적인 육아 참여를 유도하고 자녀와의 정서적 유대감을 높이기 위해 마련됐다. 세종 100인의 아빠단 체험 프로그램의 하나로, 가족이 함께 참여...",
-   "url": "http://www.jeonmae.co.kr/news/articleView.html?idxno=1269289",
-   "engine": "naver_all",
-   "query": "세종 아빠 자녀 프로그램",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "세종여성플라자www.sj-equity.or.kr›policy_info새 창 열림",
-   "url": "https://www.sj-equity.or.kr/",
-   "engine": "naver_all",
-   "query": "세종 아빠 자녀 프로그램",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "산으로 둘러싸여 있는 세종전통체험관에서는 매주 일요일마다 간식만들기를 진행하고 있어요. 신청은 네이버로 예약이 가능한 곳으로 아주 인기가 많은 프로그램이예요. 과일타르트 만들기는 8.5센티의 고소한 타르트지 에 슈크림과 생크림을... 부모 자녀의 정을 나눌 수 있는 따뜻한 베이킹 체험 시간... 엄마와 함께 아빠와 함께 형부네와 처제가 함께 때로는 나만의.",
-   "url": "https://blog.naver.com/eka7buy/224441714274",
-   "engine": "naver_all",
-   "query": "세종 아빠 자녀 프로그램",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "육아휴직 아빠라면 세종이 하나 더 세종에는 아이 돌보는 아빠 장려금이 있다. 육아휴직자가 세종에 1년 이상 거주하고 자녀도 세종에 주소를 둔 경우 현재 월 30만 원씩 최대 6개월... 부모와 아이가 함께 이용하는 공간 외에도 장난감 대여, 가족 프로그램, 돌봄품앗이 등을 이용할 수 있다. 현금성 지원은 아니지만 아이와 갈 곳이나 육아 프로그램을 자주 찾는",
-   "url": "https://blog.naver.com/loveleebb/224404731824",
-   "engine": "naver_all",
-   "query": "세종 아빠 자녀 프로그램",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "글벗유치원 가는 길, 새샘마을3단지에서 새샘마을4단지 방향으로 건너는 횡단보도 새샘마을4단지에서 글벗유치원 방향으로 건너는 횡단보도 제가 중개하면서 어린 자녀를 둔 가족을... 세종교육원 역시 유아교육부를 별도로 운영하면서 교사 지원뿐 아니라 학부모 연수·상담, 가족체험 등 부모와 가족이 참여하는 유아교육 지원 프로그램을 운영하고 있습니다. 세종교육... ",
-   "url": "https://blog.naver.com/thedream9837/224430404090",
-   "engine": "naver_all",
-   "query": "세종 아빠 자녀 프로그램",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "세종특별자치시청2026.06.28.www.sejong.go.kr›bbs새 창 열림",
-   "url": "https://www.sejong.go.kr/",
-   "engine": "naver_all",
-   "query": "세종 아빠 자녀 프로그램",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "이번 행사는 아빠들의 적극적인 육아 참여를 독려하고 자녀와의 유대감을 높이기 위해 구성된 세종 100인의 아빠단 체험 프로그램의 일환으로 마련됐다. 이날 30가정으로 이뤄진 아빠와 아이들은 신선한 목장 치즈와 우유로 피자와 아이스크림을 직접 만들며 다채로운 체험을 즐겼다. 특히 직접 재료를 만지고 음식을 만드는 과정에서 아이들은 창의력과 성취감을... 새 ",
-   "url": "https://www.sejong.go.kr/bbs/R0079/view.do?nttId=B000000156538Oe3vG8b",
-   "engine": "naver_all",
-   "query": "세종 아빠 자녀 프로그램",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "눈씻고 찾아봐도 세종은 학군지가 없다는 말이 많네요 ㅠ 현실적으로 세종이란 지역을 옮기긴 쉽지않아 말그대로 교육적문제(분위기)+ 도보 학원가+집값방어로 나릿재 3/4단지 생각하는데.. 또 주위에 유흥가(?)/번화가가 있고 고등학교가 없어 고민이 되는 상황이네요.. 혹시 추천해주실 만한 동네 있나요? 새롬동도 글이 많던데 (새뜸6단지) 나성동 보다 추천하시나",
-   "url": "https://cafe.naver.com/no1sejong/4257939?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5vMXNlam9uZyIsImFydGljbGVJZCI6NDI1NzkzOSwiaXNzdWVkQXQiOjE3OTI5NTc4Mzg2Nzh9.2WcHstrqgpFFCRW30m1G_pz5W9kPoRviCavzUbuxSag",
-   "engine": "naver_all",
-   "query": "세종 아빠 자녀 프로그램",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "프로그램은 △선포식 및 가족 네트워킹 △식사 및 휴식 △추억의 미니 가족 운동회 등으로 구성된다. 참가비는 1만원이다. 참가 대상은 20~50대 아버지와 자녀로, 총 60~80명이 참여할 예정이다. 가치자람사회적협동조합이 주최하고 가치자람 아빠육아문화연구소가 주관하며, 전국 아버지자조모임네트워크가... 새 창 열림",
-   "url": "https://www.womennews.co.kr/news/articleView.html?idxno=283392",
-   "engine": "naver_all",
-   "query": "세종 아빠 자녀 프로그램",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "네이버뉴스새 창 열림",
-   "url": "https://n.news.naver.com/mnews/article/310/0000140879?sid=102",
-   "engine": "naver_all",
-   "query": "세종 아빠 자녀 프로그램",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "네이버뉴스새 창 열림",
-   "url": "https://n.news.naver.com/mnews/article/047/0002531734?sid=103",
-   "engine": "naver_all",
-   "query": "세종 아빠 자녀 프로그램",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "인구보건복지협회 충북세종지회가 추관한 이번 프로그램은 아빠와 자녀가 기차를 타고 단양을 방문해 지역 주요 관광지를 체험하며 가족 간 유대를 강화하고, 아빠의 육아 참여 문화를 확산하기 위해 마련됐다. 참가 가족들은 ▷도담삼봉 유람선 ▷다누리 아쿠아리움 ▷팝스월드 ▷구경시장 자유투어 등... 새 창 열림",
-   "url": "https://www.jbnews.com/news/articleView.html?idxno=1488906",
-   "engine": "naver_all",
-   "query": "세종 아빠 자녀 프로그램",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "눈씻고 찾아봐도 세종은 학군지가 없다는 말이 많네요 ㅠ 현실적으로 세종이란 지역을 옮기긴 쉽지않아 말그대로 교육적문제(분위기)+ 도보 학원가+집값방어로 나릿재 3/4단지 생각하는데.. 또 주위에 유흥가(?)/번화가가 있고 고등학교가 없어 고민이 되는 상황이네요.. 혹시 추천해주실 만한 동네 있나요? 새롬동도 글이 많던데 (새뜸6단지) 나성동 보다 추천하시나",
-   "url": "https://cafe.naver.com/no1sejong/4257939?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5vMXNlam9uZyIsImFydGljbGVJZCI6NDI1NzkzOSwiaXNzdWVkQXQiOjE3OTI5NTc4NDE1NTh9.pcXe4q0dkuEgBCd_HEWgdRB2DV7NZktujDDLyOo9nHI",
-   "engine": "naver_web",
-   "query": "세종 아빠 자녀 프로그램",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "국립춘천숲체원 강원 춘천시 장본2길 331 국립춘천숲체원 https://naver.me/5c8y41aY https://youtube.com/shorts/-nEMFfOnIVQ?si=ddjvlfoMiMy0gpjn #가족톡톡캠프 #아이와가볼만한곳 #가족캠프 #교보교육재단 #가족체험 #숲체험 #아이와함께 #1박2일캠프 #Shorts #아이와가볼만한곳 #가족캠프 #",
-   "url": "https://blog.naver.com/iyah1/224453429593",
-   "engine": "naver_blog",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "1일차 점심 장성미식산업진흥원 · 직접 만든 치유 도시락 1일차 석식 숲체원 식당 · 17:30 ~ 18:30 2일차 조식 숲체원 식당 · 08:00 ~ 09:00 캠프 참가비에 1일차 석식과 2일차 조식이 포함되어 있습니다. 시간에 맞춰 숲체원 식당으로 오셔서 드시면 됩니다 자세한 이용 안내와 각종 규정은 국립장성숲체원 홈페이지를 참고해 주세요. 기타 문",
-   "url": "https://blog.naver.com/liedesfreud/224451130475",
-   "engine": "naver_blog",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "한국산림복지진흥원은 산림청 산하 기관답게 국립산림치유원, 국립숲체원, 국립치유의숲 같은 기반 시설을 갖추고 있고, 대상별 프로그램이 비교적 또렷합니다. 가족 관계 회복, 마음 건강, 시니어 웰라이프처럼 세부 주제가 나뉘어 있어 “누구에게 맞는지”를 고르기 쉽습니다. 암 치료 후 회복 캠프도 이런 대상 맞춤형 운영의 연장선에서 보는 편이 이해가 빠릅니다...",
-   "url": "https://blog.naver.com/kkombee/224450744225",
-   "engine": "naver_blog",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "초보자 & 일반 등산객 과정 안전 산행 및 트레킹 기초: 지도 및 등산 앱 보는 법, 보행법, 스틱 사용법, 산악 조난 시 대처 요령 등 청소년 & 가족 등산 캠프: 가족 단위나 청소년들이... 프로그램, 숲체원, 산림치유원 등 등산·휴양 시설 이용 시 사용 가능 4. 산악구조 및 안전 활동 장비/운영 지원 지역 산악구조대나 의용소방대 산악구조 봉사 활동을",
-   "url": "https://blog.naver.com/policemoneyzip/224450187930",
-   "engine": "naver_blog",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "친구가 같이 예약하자고 했는데 친구는 다른 캠프 돼서 신청을 안했고 나는 신청했는데 떨어졌다가 이틀전 추가당첨... 합류ㅎㅎ 가족당 10만원이라 2인이나 5인이나 동일하게 10만원이고, 숙소도 더 큰 독채 숙소로 배정되어서 좋았다 팀명 정하고 게임도 하고 오리엔티어링. 숲을 돌아다니며 퀴즈풀기. 숲체원 아이들과 산책하기 좋았다 우리는 꾀꼬리방. 복층이고..",
-   "url": "https://blog.naver.com/serenwhisper/224449888904",
-   "engine": "naver_blog",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "안녕하세요 지난 여름에 다녀온 교보교육재단 가족참여프로그램 톡톡가족소통캠프 후기를 남겨보려고 해요 교보교육재단이 가족의 소통을 위해 누구나 신청하면 랜덤으로 뽑아서... 국립숲체원은 집에서도 멀지 않아서 부담이 덜 되고 너무 좋았어요 다만 비가 너무 많이 와서 ㅠㅠ 아쉬웠네요 도착해서 먼저 밥부터 주셨구요 점심을 먹고 강당에 모였답니다 비가오면... 새 창",
-   "url": "https://blog.naver.com/mayajiyea/224448722134",
-   "engine": "naver_blog",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "원래 횡성숲체원이였는데 강우로 취소되서 고른 춘천숲체원! 가깝고 안가봤어서 골랐다 ㅎ (횡성, 대전은 가봄) 엄청 깨끗한 개울이 있고 여기 저기 숲놀이시절이 잘 되어있다 날씨가 너무 좋았고 4끼 맛있었다 ㅎㅎ 셋이 줄로 엮어서 일어나시 성공! 잘 놀다왔슈 ㅎㅎ새 창 열림",
-   "url": "https://blog.naver.com/unmeyumi/224447156059",
-   "engine": "naver_blog",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "신청기간: 2026년 10월 19일(월) - 11월 01일(일) 모집대상: 초등학생 이상 자녀가 있는 가족 모집인원: 가족소통캠프 총 15가족 / 디지털윤리캠프 총 20가족 캠프일시 및 장소: 가족소통캠프 11월 19일(목)~20일(금) 국립대전숲체원(대전) / 디지털윤리캠프 11월 14일(토)~ 15일(일) 국립횡성숲체원(횡성) 참고사항: 총4식 제공(1",
-   "url": "https://blog.naver.com/kyobofoundation/224446663280",
-   "engine": "naver_blog",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "[2026년 10월 19일~ 25일] 주간 주요일정 ※ 본 행사 예정표는 형편에 따라 변동사항이 있을 수 있습니다. 전남광주통합특별시 전남광주통합특별시교육청 날 짜 시 간 행 사 명 장 소 10/19(월) 09:00 10:45 주요정책회의 앰코코리아 광주 첨단 반도체 신규 제조라인 착공식 상황실 광주앰코테크놀로지코리아 20(화) 10:00 2026년 국정감",
-   "url": "https://blog.naver.com/inhyangin/224446009036",
-   "engine": "naver_blog",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "네이버뉴스새 창 열림",
-   "url": "https://n.news.naver.com/mnews/article/087/0001226165?sid=102",
-   "engine": "naver_news",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "국립횡성숲체원(원장:노희부)이 만 55세 이상 중장년층 장기요양시설 종사자와 그 가족을 대상으로 진행한 산림치유캠프가 성황리에 마무리됐다. 25일 횡성숲체원에 따르면 지난 4월부터 10월까지 총 11회에 걸쳐 진행된 이번 산림치유캠프에는 중장년층 장기요양기관에서 근무하는 요양보호사, 사회복지사... 새 창 열림",
-   "url": "https://www.kwnews.co.kr/article/20261023500144",
-   "engine": "naver_news",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "정종근 국립장성숲체원장은 \"이번 캠프는 지역을 찾은 가족들이 다양한 프로그램을 체험하며 행복감을 느낄 수 있도록 준비했다\"며 \"앞으로도 지역사회와 협력해 산림복지서비스를 발전시키는 데 앞장서겠다\"고 말했다. ▮ CBC뉴스ㅣCBCNEWS새 창 열림",
-   "url": "https://www.cbci.co.kr/news/articleView.html?idxno=619053",
-   "engine": "naver_news",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "가족소통캠프 7차 일정: 2026년 9월 12일~13일 / 장소: 국립횡성숲체원 / 모집: 15가족 가족 공감 질문카드 활동과 숲 체험·산림교육 프로그램 숲e랑 디지털윤리 가족캠프 4차 일정: 2026년 9월 12일~13일 / 장소: 국립나주숲체원 / 모집: 20가족 디지털 윤리 골든벨과 숲속 디지털 디톡스 활동 공통: 초등학생 이상 자녀가 있는 가족, 1",
-   "url": "https://cafe.naver.com/bongcheheom/2084?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvbmdjaGVoZW9tIiwiYXJ0aWNsZUlkIjoyMDg0LCJpc3N1ZWRBdCI6MTc5Mjk1Nzg1MDE3MH0.uwUqQ8yhW4WBosyGyw4q-70U-aPpx3nYUR_Y8GmCetE&q=%ec%88%b2%ec%b2%b4%ec%9b%90%20%ea%b0%80%ec%a1%b1%20%ec%ba%a0%ed%94%84&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "가족소통캠프 7차 일정: 2026년 9월 12일~13일 / 장소: 국립횡성숲체원 / 모집: 15가족 가족 질문카드 활동과 숲 체험·산림교육 프로그램으로 구성되었습니다. ② 숲e랑 디지털윤리 가족캠프 4차 일정: 2026년 9월 12일~13일 / 장소: 국립나주숲체원 / 모집: 20가족 디지털 윤리 활동과 숲 체험·디지털 디톡스 프로그램으로 구성되었습니다. ",
-   "url": "https://cafe.naver.com/bongcheheom/2083?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvbmdjaGVoZW9tIiwiYXJ0aWNsZUlkIjoyMDgzLCJpc3N1ZWRBdCI6MTc5Mjk1Nzg1MDE3MH0.913_YZYpipa1hIXEjIqRtVesyUBkQjhSMCXdChZ7Zqo&q=%ec%88%b2%ec%b2%b4%ec%9b%90%20%ea%b0%80%ec%a1%b1%20%ec%ba%a0%ed%94%84&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "국립횡성숲체원 「숲향 캠프」 참가자 모집 안내입니다. 캠프 일정과 모집은 종료됐습니다. ■ 일정: 2026년 8월 15일~16일 (1박 2일) ■ 장소: 국립횡성숲체원 (강원 횡성군 둔내면 청태산로 777) ■ 모집: 선착순 ■ 프로그램: 국순당 주향로 체험 포함 정확한 참가 대상과 세부 일정은 공식 공지의 첨부 안내를 확인해 주세요. 모집과...",
-   "url": "https://cafe.naver.com/bongcheheom/2073?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvbmdjaGVoZW9tIiwiYXJ0aWNsZUlkIjoyMDczLCJpc3N1ZWRBdCI6MTc5Mjk1Nzg1MDE3MH0.97tYBphWi-6S9AgDDAzUdAMgRkiuNytuLFxNDYFWMWs&q=%ec%88%b2%ec%b2%b4%ec%9b%90%20%ea%b0%80%ec%a1%b1%20%ec%ba%a0%ed%94%84&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "일정: 2026년 10월 3일(토)~4일(일), 1박 2일 장소: 국순당 횡성양조장 주향로 및 국립횡성숲체원 (강원특별자치도 횡성군 둔내면 청태산로 777) 대상: 숲향캠프 참여 가족 (운영 안내 기준 10가족, 최대 40명) 1일차 · 10월 3일 14:00~16:00 주향로 전통주 체험(필수) → 16:00~16:30 생활안내·안전교육 → 16:30~1",
-   "url": "https://cafe.naver.com/bongcheheom/1783?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvbmdjaGVoZW9tIiwiYXJ0aWNsZUlkIjoxNzgzLCJpc3N1ZWRBdCI6MTc5Mjk1Nzg1MDE3MH0.EJOOcielth-ZB0CxWQI7NEKxQgMZn6hTYBz-1179jcE&q=%ec%88%b2%ec%b2%b4%ec%9b%90%20%ea%b0%80%ec%a1%b1%20%ec%ba%a0%ed%94%84&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "가족소통캠프」 모집 정보를 연도별 기록으로 남깁니다. 일정: 2026년 10월 17일(토)~18일(일), 1박 2일 장소: 국립춘천숲체원 (참가 가족 개별 집결) 대상: 초등학생 이상 자녀가 있는 가족 모집: 20가족, 가족당 2~6명 참가비: 1인 15,000원 제공: 1박 2일 4식 및 숲 체험 프로그램 가족 간 대화와 상호 이해를 돕는 「톡!톡!톡!(",
-   "url": "https://cafe.naver.com/bongcheheom/1752?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvbmdjaGVoZW9tIiwiYXJ0aWNsZUlkIjoxNzUyLCJpc3N1ZWRBdCI6MTc5Mjk1Nzg1MDE3MH0.dY6sU884XLyd1YWcwju0PbBxBfLEZ8ZXYKjBrWwu3LA&q=%ec%88%b2%ec%b2%b4%ec%9b%90%20%ea%b0%80%ec%a1%b1%20%ec%ba%a0%ed%94%84&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "횡성 둔내면에 갈 일이 있어 횡성 홈드림캠프 스크린을 골랐어요. 펜션이에요. 펜션 둔내역 6.2km 10월 26일 1박은 조회 당시 요금이... 횡성 숲체원까지도 차로 이동하면 부담 없이 다녀올 수 있었어요. 주변에 큰 상가가 많지는 않아서 장은 미리 보고 가는 편이 좋아요. 저는... 이런 분께 맞아요 가족이나 지인들과 함께 바베큐를 즐기며 쉬고 싶은 여",
-   "url": "https://cafe.naver.com/ckfkflsj/46807?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNrZmtmbHNqIiwiYXJ0aWNsZUlkIjo0NjgwNywiaXNzdWVkQXQiOjE3OTI5NTc4NTAxNzB9.NHrbLxOZpGSOZmeVC2j7qqPZCNiKhwsjXH0R-t4n55E&q=%ec%88%b2%ec%b2%b4%ec%9b%90%20%ea%b0%80%ec%a1%b1%20%ec%ba%a0%ed%94%84&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "국립장성숲체원에서는 여름 휴양객들에게 여행 속 숲에서의 온전한 쉼을 제공하고자 특별 숙박 이벤트를 제공합니다. 많은 관심 부탁드립니다. 1. 사업명: 2026년 국립장성숲체원「숲을 담다, 숲담(談)」 2. 접수기간: 2026. 7. 29.(수) 18:00까지, 선착순 마감 3. 운영내용: 회차별 8객실(5인실 기준) 모집 4. 숙박일자 -(1차) 2026.",
-   "url": "https://www.sooperang.go.kr/pot/bbs/selectNticBbrssDetail.do?nttId=10012&bbsId=BBSMSTR_000000000221&hmpgId=FA00002",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "교보교육재단www.kbedu.or.kr›work새 창 열림",
-   "url": "https://www.kbedu.or.kr/",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "가족참여프로그램 톡!톡!톡! 가족소통캠프, 디지털윤리 가족캠프 숲e랑 ; 인성교육을 접목한 가족소통 프로그램 및 디지털 윤리 체험 활동을 통해 가족 간 상호 이해와 소통의 시간을 제공합니다. 한국산림복지진흥원과 함께 숲과 자연을 매개로 가족 구성원들이 올바른 인성과 생태 감수성, 소통 역량을 키울 수 있도록 지원하고 있습니다.새 창 열림",
-   "url": "https://www.kbedu.or.kr/work.html?id=2_11&s=31",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "숲과 함께하는 특별한 1박 2일 숲에서 놀고, 마음을 담아 만들고, 가족과 추억까지 남기는 힐링 캠프! 운영일자 : 2026. 6. 19.(금) ~ 6. 20.(토) / 1박 2일 장소 : 국립대전숲체원 모집대상 : 본원 재활의학과 이용...새 창 열림",
-   "url": "https://www.dpcrh.or.kr/prog/bbsArticle/BBSMSTR_000000000371/view.do?nttId=B000000006617Ui5kN4&mno=sub03_01_02",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "광산구 평생교육원PDFedu.gwangsan.go.kr›lecture.cs새 창 열림",
-   "url": "https://edu.gwangsan.go.kr/index.cs",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "숲에시 기족과 행복한 교김을 니누는 특별한 시긴 국립장성숲체원 가족 캠프 참가자 모집 대상 임신부 및 그가족(미혼모, 다문화가정, 취약계층 모두 포함 목적 건강회복 및 가족 유대감 형성 국립장성숲체원에서 준비한 특별한 프로그램을 만나보세요! 국립장성숲체원은 생애주기별 산림복지서비스를 제공하고 있습니다. 숲에서 가족과... 새 창 열림",
-   "url": "https://edu.gwangsan.go.kr/lecture.cs?act=fileDownload&fid=2698&id=5049",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "국립장성숲체원에서는 여름 휴양객들에게 여행 속 숲에서의 온전한 쉼을 제공하고자 특별 숙박 이벤트를 제공합니다. 많은 관심 부탁드립니다. 1. 사업명: 2026년 국립장성숲체원「숲을 담다, 숲담(談)」 2. 접수기간: 2026. 7. 29.(수) 18:00까지, 선착순 마감 3. 운영내용: 회차별 8객실(5인실 기준) 모집 4. 숙박일자 -(1차) 2026.",
-   "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=12&bbsId=9047",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "✔ 최대 5인 가족까지 신청 가능 아이와 함께 숲에서 하루를 보내며 여유와 추억을 만들고 싶은 가족이라면 관심 있게 살펴보세요. 어떤 지원을 받을 수 있나요? 캠프에 참여하는... 아이와 자연을 만나고, 부모도 잠시 쉬어갈 수 있는 국립횡성숲체원 「겨울愛 숲, 가족캠프」에서 우리 가족만의 특별한 겨울 추억을 만들어보세요. #횡성군 #횡성 #국립횡성숲체원..",
-   "url": "https://blog.naver.com/hsg_3402114/224419796497",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "쿠키뉴스=이재형 기자 | 산림청 한국산림복지진흥원(이하 진흥원)이 국립장성숲체원에서 먹거리와 숲 체험을 결합한 1박 2일 가족 치유 캠프를 운영한다. 국립장성숲체원은 장성미식산업진흥원과 함께 ‘숲을 담다, 장성을 맛보다: 장성 치유 가족 캠프’를 개최한다. 이번 캠프는 학업과 직장생활로... 새 창 열림",
-   "url": "https://www.kukinews.com/article/view/kuk202610190220",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "한국산림복지진흥원, '치유 가족 캠프' 및 '청소년 동반 가족캠프' 운영새 창 열림",
-   "url": "https://www.cstimes.com/news/articleView.html?idxno=724471",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "가을에 아이들과 어디로 갈지 찾고 있다면, 단풍이 깊어지는 10월 말 강원 횡성에서 열리는 1박 2일 가족캠프를 눈여겨볼 만합니다. 국립횡성숲체원이 2026년 10월 24일부터 25일까지 산림문화축제 ‘숲, 하루를 빚다’를 열고 가족 단위 참가자를 모집하고 있습니다. 이번 캠프는 단순히 숲길을 걷는 체험이 아니라 자연과 강원 지역문화를 함께 경험할 수 있도",
-   "url": "https://blog.naver.com/sumine-/224423365580",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "가능한 가족캠프 개요 국립장성숲체원에서 운영하는 이번 프로그램은 「숲안애(愛)가족」 캠프다 이름 그대로 가족이 함께 숲에서 1박 2일을 보내면서 자연을 체험하고 목공 프로그램까지 즐기는 알찬 구성으로 운영 일정은 2026년 9월 28일 월요일부터 9월 29일 화요일까지다 장소는 국립장성숲체원 산림교육센터이며 산림복지서비스이용권 발급받은 가족을... 새 창 ",
-   "url": "https://blog.naver.com/tak9024/224409658563",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "숲과 함께하는 특별한 1박 2일 숲에서 놀고, 마음을 담아 만들고, 가족과 추억까지 남기는 힐링 캠프! 운영일자 : 2026. 6. 19.(금) ~ 6. 20.(토) / 1박 2일 장소 : 국립대전숲체원 모집대상 : 본원 재활의학과 이용...새 창 열림",
-   "url": "https://dpcrh.or.kr/prog/bbsArticle/BBSMSTR_000000000371/view.do?nttId=B000000006617Ui5kN4",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "□ 캠프 개요 o 기 간: 2026.10.4.(토)~10.5.(일) 또는 10.23(토)~10.24(일) ※ 두개 일정 중 1개 선택 참여 o 장 소: 국립대전숲체원 / 유성구 숲체원로 124 o 내 용: 7~15세 느린학습자와 그 가족 / 10가족 o 캠프내용: 숲에서 심리지원부터 산림직무 진로체험까지 '3단계 토탈서비스' □ 유의사항 안내 ★ 프로그램 ",
-   "url": "https://www.donggu.go.kr/lll/www/selectUserEduView.do?key=733&schId=1887",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "반가운 소식이 메일로 와서 공유합니다!^^ 저는 아이들 어릴 때 강원도 횡성숲체원 한번 다녀왔었는데, 1박 2일 동안 숙식 제공 및 참여 프로그램 알차고 재밌었거든요~~ 관심있는 분들 사이트 들어가서 사연 작성하시면 추첨 선발이니 참고하세요~* (인당 참가비 있으니 꼼꼼하게 읽어보시구요^^)새 창 열림",
-   "url": "https://cafe.naver.com/mom79/1470296?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbTc5IiwiYXJ0aWNsZUlkIjoxNDcwMjk2LCJpc3N1ZWRBdCI6MTc5Mjk1Nzg1Mjc4MX0.0F_-iH_q3EQp3kBRvLGie15EsBWfgD1yTbDd_C4rPUk",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "광주북구 가족센터gjbukgu.familynet.or.kr›우리가족 숲속 힐링캠프새 창 열림",
-   "url": "https://gjbukgu.familynet.or.kr/center/index.do",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "센터정보 : 전남광주 > 광주북구, 행사기간 : 2026-06-12 ~ 2026-06-12, 접수기간 : 2026-06-02 09:00 ~ 2026-06-11 18:00, 정원 : 33명, 대기인원 : 10명, 행사내용 : 우리가족 숲속 힐링캠프, 회기정보 : 총 1회차, 진행장소 : 전라남도 나주시 금성산길 116 (경현동) 국립나주숲체원 · 오시는길새 ",
-   "url": "https://gjbukgu.familynet.or.kr/center/lay1/program/S295T322C451/recruitReceipt/view.do?seq=265034&progNm=%EC%9A%B0%EB%A6%AC%EA%B0%80%EC%A1%B1%20%EC%88%B2%EC%86%8D%20%ED%9E%90%EB%A7%81%EC%BA%A0%ED%94%84",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "광주서구 가족센터gjseogu.familynet.or.kr›center새 창 열림",
-   "url": "https://gjseogu.familynet.or.kr/center/index.do",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "센터정보 : 전남광주 > 광주서구, 행사기간 : 2026-07-25 ~ 2026-07-25, 접수기간 : 2026-07-28 00:00 ~ 2026-08-06 00:00, 참여대상 : 사례가정 9가정 25명, 행사내용 : 가족과 함께하는 국립나주숲체원 나들이, 회기정보 : 총 1회차, 진행장소 : 전남광주통합특별시 나주시 금성산길 116 (경현동) 국립나주",
-   "url": "https://gjseogu.familynet.or.kr/center/lay1/program/S295T322C451/recruitReceipt/view.do?seq=272610",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "광산구청소년상담복지센터(센터장 하영자)는 지난 7일부터 3일간 국립나주숲체원에서 초등학교 저학년 자녀와 보호자 등 51명이 참여한 가운데 ‘스마트폰 가족치유캠프’를 성공적으로 마무리했다고 밝혔다.여성가족부 산하 한국청소년상담복지개발원과 협력해 진행된 이번 캠프는 ‘건강한 미디어 사용’을 주제로 마련됐다. 참여 가족들은 스마트폰 자기 조절 능력을 키우....",
-   "url": "http://www.bokjitimes.com/news/articleView.html?idxno=44026",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "공주시 가족센터gongju.familynet.or.kr›center새 창 열림",
-   "url": "https://gongju.familynet.or.kr/center/index.do",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "센터정보 : 충남 > 공주시, 행사기간 : 2026-10-22 ~ 2026-10-23, 접수기간 : 2026-09-30 10:00 ~ 2026-10-22 12:00, 참여대상 : 공주시 거주 1인가구와 지인, 정원 : 35명, 대기인원 : 5명, 행사내용 : 1박2일 힐링캠프(숲체험), 회기정보 : 총 4회차, 진행장소 : 대전광역시 유성구 숲체원로 124",
-   "url": "https://gongju.familynet.or.kr/center/lay1/program/S295T322C451/recruitReceipt/view.do?seq=280952",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "여름방학 가족캠프! 아름다운 숲나드리 시즌5 활동으로 함께하였습니다. 지난 8월 7일(금) ~ 8일(토) 일정으로 국립청도숲체원으로 아름다운 숲나드리 시즌5 활동을 다녀왔습니다~ 푸른... 탐구하며 가족간의 협력을 통해 즐거운 추억을 쌓는 시간을 보냈습니다! 총 6가정, 21명의 청소년과 가족이 함께하였으며 1박 2일 동안 숲 속 활동으로 자연을 경험하며 ",
-   "url": "https://areumdree.or.kr/aboard/view.html?a_tname=aboard_list_gallery&b_idx=294",
-   "engine": "naver_all",
-   "query": "숲체원 가족 캠프",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "신세계, 중앙일보 인수 다우키움·CJ 컨소시엄에 참여 - 매일경제 마켓",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BSVdUTjltdm01RzYwRGJWSlFOaUNWanpjenRfYjVxNHpOT3dGSXRQVDVpVEtqbzkydmc4M3BMLTVNZFllLWpHa0xpbnVWSEJCcmc?oc=5",
-   "pub": "Tue, 20 Oct 2026 02:50:11 GMT",
-   "engine": "gnews",
-   "query": "다키움",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "증시 큰 변동성에도 버티는 보험주…배당·방어주로 부각된다는데 - 매일경제 마켓",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xMkFKeXpxaW1td3o5YWQ1elhfTzJMNVpqWjQtVk0wdkljNzlncHZxZFBxQWlmaXZCYWNKamg4XzhmbDhuZ3JPa19mSzctMVVNQ3c?oc=5",
-   "pub": "Sat, 24 Oct 2026 14:11:45 GMT",
-   "engine": "gnews",
-   "query": "다키움",
-   "first_seen": "2026-10-26T04:28:55+09:00"
-  },
-  {
-   "title": "4년 연속 꼴찌 팀이 부상자는 리그 최다…키움, 이번엔 '7억팔' 1순위 박준현 무릎 부상 \"회복만 2개월\" - 더게이트",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yVlc4NHFwbjE1UFlFSTZMaEExc3NFTGpvWmZ0Y0h0TDNfQzlDRDQ2cW91Um1EUjd1SC0xa0FuZlN6X1BLMnd5eGlfSDU3TkkxS0dNYkhLbjNpNEZCaHNBSWRTbnktY2JXZVE?oc=5",
-   "pub": "Fri, 23 Oct 2026 06:40:18 GMT",
-   "engine": "gnews",
-   "query": "다키움",
    "first_seen": "2026-10-26T04:28:55+09:00"
   }
  ],
