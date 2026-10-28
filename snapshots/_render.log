@@ -1,56 +1,39 @@
-[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.ticketlink.co.kr/product/22471", waiting until "domcontentloaded"
-
-[gongjeon-kids] rendered 548 chars CHANGED
-[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
-[katc-schedule] rendered 687 chars CHANGED
-[fsale-main] rendered 5274 chars CHANGED
-[fsale-onnuri] rendered 411 chars same
-[gcfct-schedule] rendered 370 chars CHANGED
-[mokwon-events] rendered 948 chars CHANGED
-[science-reservation] rendered 1042 chars CHANGED
-[khs-notice] rendered 309 chars same
-[blog-dooglami-224434696671] rendered 4996 chars CHANGED
-[dsecc-programs-p3] rendered 1962 chars CHANGED
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 95 chars CHANGED
-[mommom-place-6a2b94f5] rendered 95 chars CHANGED
-[mommom-place-6a2b9455] rendered 95 chars CHANGED
-[nol-product-phantom-40th] rendered 5577 chars CHANGED
-[daejeontour-bread-festival] rendered 1245 chars CHANGED
-[visitisland-main] rendered 1010 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1644 chars CHANGED
-[visitkorea-tour50-notice] rendered 616 chars CHANGED
-[mommom-place-6a7d51b7] rendered 95 chars CHANGED
-[blog-first_seogu-224428074790] rendered 3291 chars CHANGED
-[blog-dooglami-224433357728] rendered 4891 chars CHANGED
-[yes24-genre-children] rendered 196 chars CHANGED
-[pyoungsong-event-feed] rendered 34079 chars same
-[pyoungsong-monthly] rendered 634 chars same
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 170388 chars same
-[pyoungsong-event-list] rendered 322 chars same
-[docomomokorea-main] rendered 293 chars same
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[seocheon-halftour-apply] rendered 1324 chars CHANGED
-[komsco-shop-cate2284] rendered 6776 chars CHANGED
-[mcst-culture-71983] rendered 1181 chars CHANGED
-[aircanada-korea] rendered 22818 chars CHANGED
-[yes24-perf-60278] rendered 198 chars CHANGED
-[chuncheon-notice-announcement] rendered 3410 chars CHANGED
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[chuncheon-municipal-news] rendered 1748 chars CHANGED
-[mokwon-general-notice] rendered 1586 chars CHANGED
-[templestay-main] rendered 2630 chars CHANGED
-[hwadong-main] rendered 8653 chars CHANGED
-[mokpo-harborfestival-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://mokpoharborfestival.com/", waiting until "domcontentloaded"
-
-[blog-gotaekmusicfesta-224428285877] rendered 2923 chars CHANGED
-[blog-gotaekmusicfesta-224426135103] rendered 3650 chars CHANGED
-[vol-djv1365-main] rendered 5832 chars CHANGED
-[leis-ski-muju-school] rendered 863 chars CHANGED
-[leis-ski-skiland-lessons] rendered 599 chars CHANGED
-[leis-ski-mentor-lessons] rendered 4778 chars same
+[baekje-schedule] rendered 1513 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[woosongart-schedule] rendered 590 chars CHANGED
+[pyeongtaek-main] rendered 21821 chars CHANGED
+[mnd-main] rendered 16968 chars CHANGED
+[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[expo-park] rendered 765 chars CHANGED
+[nol-upcoming-notice] rendered 14297 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 14297 chars CHANGED
+[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
+[ticketlink-notice-mobile] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://m.ticketlink.co.kr/help/notice']' timed out after 75 seconds
+[pyoungsong-performance] rendered 1161 chars same
+[kopis-time-beyond-daejeon] rendered 8087 chars same
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[dsecc-programs] rendered 1962 chars CHANGED
+[zeropay-events] rendered 526 chars CHANGED
+[galleria-timeworld-culture] rendered 2213 chars CHANGED
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[pyoungsong-event-piglets] rendered 484 chars same
+[pyoungsong-event-sandmagic] rendered 480 chars same
+[pyoungsong-event-stonesoup] rendered 317 chars same
+[donghae-dhdmo-program] rendered 1803 chars CHANGED
+[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (21 chars)
+[daejeon-okr-edu] rendered 1504 chars same
+[daejeon-okr-hanbatlib] rendered 1644 chars CHANGED
+[komsco-shop-medal] rendered 7330 chars CHANGED
+[komsco-shop-coin] rendered 6799 chars CHANGED
+[ticketlink-notice-65862] rendered 278899 chars CHANGED
+[pyoungsong-event-rudolph] rendered 424 chars same
+[pyoungsong-event-snowwhite] rendered 413 chars same
+[blog-namuac21-224427113169] rendered 4730 chars CHANGED
+[aircanada-kr-so-hub] rendered 2738 chars CHANGED
+[aircanada-kr-kbcard] rendered 27332 chars CHANGED
+[aircanada-kr-moretotravel] rendered 3095 chars CHANGED
+[nol-product-26012487] rendered 1439 chars CHANGED
+[hanbat-library-media-friend] rendered 506 chars CHANGED
+[kopis-place-pyoungsong-small] rendered 10154 chars same
+[bok-press-list] rendered 801 chars CHANGED
+[blog-seogu-artfest-fringe-cvovz] rendered 5353 chars CHANGED
