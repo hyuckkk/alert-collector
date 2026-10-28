@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T05:07:48+09:00",
+ "updated": "2026-10-29T07:08:28+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -996,14 +996,6 @@
    "engine": "gnews",
    "query": "대전 자원봉사센터 가족 봉사",
    "first_seen": "2026-10-22T10:07:46+09:00"
-  },
-  {
-   "title": "시흥시자원봉사센터, ‘글로벌 자원봉사 활성화 공론회’ 참가자 모집 - 프레스뉴스",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IMXRKVVU5TDhlM21MQUxkRjJQZHJTX2RJZGh0d1NCZGo3VlBBRF9JV0JyWWd4Um8yRGdXMHZVOWwtT2tDRnhIZWFaUDhGWEpnZEtXd19US3dFV3BrYlZWQ2dnRzlQWjU1eVF4UzJubEwzdw?oc=5",
-   "pub": "Thu, 15 Oct 2026 22:59:11 GMT",
-   "engine": "gnews",
-   "query": "대전 자원봉사센터 가족 봉사",
-   "first_seen": "2026-10-22T07:07:48+09:00"
   }
  ],
  "errors": []
