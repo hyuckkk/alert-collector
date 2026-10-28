@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-28T08:07:47+09:00",
+ "updated": "2026-10-28T09:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 2,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "[축제] 메이커 플레이 - 스페셜타임스",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SMV9WcXNFb2JYTmFRbkdMWklGcmZ1dkZTVXFTREZzY3pOYTlQTlRiRnk5azl6cERvQW1EY0tDX0tKeHVBbHdsVlNnVHEyWVZjWm1uaTRlcDYwLUM1Y2Z4bUhHSHRYQWRITWp5Tkc1ZHdrT0E?oc=5",
+   "pub": "Wed, 28 Oct 2026 00:00:08 GMT",
+   "engine": "gnews",
+   "query": "국립중앙과학관 공연",
+   "first_seen": "2026-10-28T09:07:46+09:00"
+  },
   {
    "title": "“국화 향기에 공연의 즐거움까지”…2026 대한민국 국향대전 볼거리 ‘풍성’ - 일등방송",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lelZVSGZvMExObE9XUFY3cERXWHlKYzBmODNSaXFVbjRVMTRKcWs3NXBxaDh0aDd6T3VYczlSZ2RRTlRrSUVwQm16S2lCckJZ?oc=5",
@@ -21264,19 +21272,13 @@
    "engine": "naver_all",
    "query": "대전 전래동화 뮤지컬",
    "first_seen": "2026-10-25T21:07:49+09:00"
-  },
-  {
-   "title": "[충청신문=대전] 황천규 기자 = 23일 오후 대전 동구 가양동에 위치한 대전동대전도서관에서 친숙한 전래동화를 낭독과 판소리, 가야금, 고수의 연주로 구성한 퓨전 국악 '은혜갚은 호랑이' 가 공연되자 도서관을 찾은 어린이 등이 추임새를 따라하며 즐거운 시간을 보내고 있다. (사진=황천규 기자)새 창 열림",
-   "url": "https://www.dailycc.net/news/articleView.html?idxno=873426",
-   "engine": "naver_all",
-   "query": "대전 전래동화 뮤지컬",
-   "first_seen": "2026-10-25T21:07:49+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }
