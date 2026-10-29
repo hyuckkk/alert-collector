@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T01:07:48+09:00",
+ "updated": "2026-10-30T02:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -1066,14 +1066,6 @@
    "engine": "gnews",
    "query": "대전 나무심기 시민 참여",
    "first_seen": "2026-10-23T07:07:47+09:00"
-  },
-  {
-   "title": "경남자원봉사센터, 한화에어로스페이스와 어르신 이동 돕는 ‘사랑의 구르미카’ 100대 전달 - 파이낸셜경제",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00cUVRXzVydDhnNzVaV095NDMwaUFrLTd5VmlVX2VWczBNNjY5MkRqMERBQmphZkpGdzlaaTI5c1JqSGdqN1NCM0xZSHNKbEVfRGRZbXpTNU1jXzBsWkt2UDFlTGFhUklnUWFLYkI4WkE?oc=5",
-   "pub": "Mon, 19 Oct 2026 10:40:30 GMT",
-   "engine": "gnews",
-   "query": "대전 자원봉사센터 가족 봉사",
-   "first_seen": "2026-10-23T01:07:49+09:00"
   }
  ],
  "errors": []
