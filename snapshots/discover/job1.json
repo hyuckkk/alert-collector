@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-30T00:07:48+09:00",
+ "updated": "2026-10-30T01:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 2,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "예산군, 내포서 '신 보부상 장마당' 개최…전통문화 체험 한마당 - 신아일보",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5POWl4d0ZzRzNvVFhOQUN1emVMU0gzV1JUWk1oeTNJVGZ6SFRaTlp4NE1qbVp0MDNTbjA2anBEeFUxb3hudUVnWnZVR0QzNl84MDFlamhiRVhDZnRJTDdQaFdZdjZwemJjUEFlNWhTZW4?oc=5",
+   "pub": "Thu, 29 Oct 2026 03:07:26 GMT",
+   "engine": "gnews",
+   "query": "대전 마술쇼 가족",
+   "first_seen": "2026-10-30T01:07:48+09:00"
+  },
   {
    "title": "“상상한 자동차가 달리고 AI가 미래를 만든다” ㅡ 국립중앙과학관 ‘2026 메이커 PLAY’ 개최 - 뉴스N연합",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84bHROOUY3dnVBUUloaW5abnJENUZHQi1DUlprNm1wN1ltbFJsYmtBdW1KazRxNV9jenUtYTgxZS1sSnZDVkxTaXJmTGRFak0?oc=5",
@@ -21230,20 +21238,11 @@
    "engine": "naver_all",
    "query": "대전 어린이 공연 무료 예약",
    "first_seen": "2026-10-27T14:07:46+09:00"
-  },
-  {
-   "title": "운영기간 2026년 08월 29일 ~ 2026년 08월 29일 접수기간 2026년 08월 24일 11시 00분 (월) ~ 2026년 08월 27일 23시 00분 (목) 공연시간 15시 관람대상 청소년 및 어린이 관람가 러닝타임 60분 공연장소 사이언스홀 공연문의 042-601-7858 * 관람비는 무료!! https://rsvn.science.go.kr/n",
-   "url": "https://cafe.naver.com/dodamdadam1004/2793710?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZGFtZGFkYW0xMDA0IiwiYXJ0aWNsZUlkIjoyNzkzNzEwLCJpc3N1ZWRBdCI6MTc5MzA3NzY3ODc0OX0.mX7gMi8R_ddUr0Mquav-pE-mM0el4LirjSz_vk6tMB4",
-   "engine": "naver_all",
-   "query": "대전 어린이 공연 무료 예약",
-   "first_seen": "2026-10-27T14:07:46+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
