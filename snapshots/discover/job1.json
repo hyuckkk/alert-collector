@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-30T04:07:47+09:00",
+ "updated": "2026-10-30T05:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "“신화의 국화동산으로”…함평군, ‘2026 대한민국 국향대전’ 화려한 개막 - 퍼블릭뉴스통신",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmX3hHV240Yi0wQko2c0tCdlNjQjhQQkY1UUw1TUUyTmxJWndrOWlCYjA4aS1IWWNfU1hmcmJZRE5qVWt3X1dFbkY1VF9ramU3T3VtOWdPM0hSUFlfZzJGVklSRGozZDZib3JZ?oc=5",
+   "pub": "Mon, 26 Oct 2026 23:39:01 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 퍼포먼스 공연",
+   "first_seen": "2026-10-30T05:07:48+09:00"
+  },
   {
    "title": "경기도의회 문승호 의원 “희귀질환 가족이 홀로 견디지 않도록 경기도 지원 이어가야” - 굿타임즈",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9meGRJOVVHR2dLMVJjYkdPOUJnTU52b0ZyWXVndzFRRHcwNUlfRDd3UXE1cUNZalhlMEswUjlEbUZKelk2RzBSODF0eXE0MzIybXlzb3kwdWZWZDZUUlF2NFdBaFJpQXowdHZxTm9MUQ?oc=5",
@@ -21233,18 +21241,13 @@
    "engine": "naver_cafe",
    "query": "대전 어린이 공연 무료 예약",
    "first_seen": "2026-10-27T14:07:46+09:00"
-  },
-  {
-   "title": "아고다에서 예약할 때는 무료 취소 표시와 조식 포함 여부를 먼저 확인하시면 좋습니다. 세금과 수수료가 포함된 최종 결제 금액으로 비교하는 것이 정확합니다. 요금은 날짜마다 달라지므로 실제 묵을 날짜로 조회해 보면 좋아요. 주말이나 성수기에는 일찍 예약해 두시는 편이 안전합니다. 어린이 동반 시에는 투숙 정책을 미리 확인해 두시면 도움이 됩니다. 자주 묻는 ",
-   "url": "https://cafe.naver.com/buncafea/19520?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJ1bmNhZmVhIiwiYXJ0aWNsZUlkIjoxOTUyMCwiaXNzdWVkQXQiOjE3OTMwNzc2NzU0NjV9.trBkNg9QnCUo3wqMQrqF1tjliIo1BMlg_21z9mqV4Mw&q=%eb%8c%80%ec%a0%84%20%ec%96%b4%eb%a6%b0%ec%9d%b4%20%ea%b3%b5%ec%97%b0%20%eb%ac%b4%eb%a3%8c%20%ec%98%88%ec%95%bd&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 어린이 공연 무료 예약",
-   "first_seen": "2026-10-27T14:07:46+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
  ]
 }
