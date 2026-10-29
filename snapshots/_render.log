@@ -1,39 +1,60 @@
-[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
-[djkids-musical] rendered 1618 chars CHANGED
-[djkids-notice] rendered 1025 chars CHANGED
-[dctf] rendered 1476 chars same
-[nol-family] rendered 3979 chars CHANGED
-[ticketlink-notice] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/help/notice']' timed out after 75 seconds
-[hanbat-library-culture] rendered 2609 chars CHANGED
-[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
-[pyoungsong-event-nunkkot] RENDER ERROR rendered but too little text (19 chars)
-[pyoungsong-event-piglets] RENDER ERROR rendered but too little text (19 chars)
-[pyoungsong-event-sandmagic] RENDER ERROR rendered but too little text (19 chars)
-[pyoungsong-event-stonesoup] RENDER ERROR rendered but too little text (19 chars)
-[donghae-dhdmo-program] rendered 1803 chars CHANGED
-[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
-[sejong-notice-birdwatch] rendered 1339 chars CHANGED
-[yangyang-cafe-balloon-15331] rendered 4889 chars CHANGED
-[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
+[ticketlink-notice] rendered 100060 chars CHANGED
+[kmusic-calendar-2026-12] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
+  - navigating to "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceCalendarMList.do?menuSeq=5308&searchYearMonth=2026-12", waiting until "domcontentloaded"
 
-[woorisb-tok7-product] rendered 2810 chars CHANGED
-[mommom-sandmagic-a] rendered 4945 chars CHANGED
-[mommom-sandmagic-b] rendered 84 chars CHANGED
-[sejong-notice-imnansu-play] rendered 869 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
-[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
-[ticketlink-notice-65862] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/help/notice/65862']' timed out after 75 seconds
-[aircanada-kr-kbcard] rendered 27303 chars CHANGED
-[aircanada-kr-moretotravel] rendered 3224 chars CHANGED
-[nol-product-26012487] rendered 1439 chars CHANGED
-[hanbat-library-media-friend] rendered 506 chars CHANGED
-[kopis-place-pyoungsong-small] rendered 10154 chars same
-[bok-press-list] rendered 801 chars CHANGED
-[blog-seogu-artfest-fringe-cvovz] rendered 5653 chars CHANGED
-[blog-seogu-artfest-blu2sky7] rendered 6121 chars CHANGED
-[kwater-realtime-sumun] rendered 2290 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 6090 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 4537 chars CHANGED
-[kmusic-calendar-2026-11] rendered 1516 chars CHANGED
+[kmusic-calendar-year] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceCalendarYList.do?menuSeq=5309", waiting until "domcontentloaded"
+
+[nol-product-26001112] rendered 3666 chars CHANGED
+[blog-daedeokgu-224432911721] rendered 2608 chars CHANGED
+[blog-namuac21-224424725714] rendered 4491 chars CHANGED
+[blog-youneed4613-224436099074] rendered 3068 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
+[pyoungsong-tribe-events-api-p2] rendered 28156 chars same
+[kopis-pf297232] rendered 7859 chars same
+[dgdr-festival] rendered 203 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3651 chars CHANGED
+[vol-djv1365-main] rendered 5826 chars CHANGED
+[leis-ski-muju-school] rendered 863 chars CHANGED
+[oworld-notice] rendered 1746 chars same
+[baekje-schedule] rendered 1513 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[woosongart-schedule] rendered 590 chars CHANGED
+[pyeongtaek-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.pyeongtaek.go.kr/", waiting until "domcontentloaded"
+
+[kopis-daejeon-kids] rendered 31037 chars CHANGED
+[kwater-realtime-multidam] rendered 10521 chars CHANGED
+[ticketlink-kids-cat-daejeon] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[gongjeon-kids] rendered 548 chars CHANGED
+[navy-visit-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000", waiting until "domcontentloaded"
+
+[seogu-exprn-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub03_01/list.do", waiting until "domcontentloaded"
+
+[seogu-event-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub02_01/list.do", waiting until "domcontentloaded"
+
+[seogu-edu-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.seogu.go.kr/prog/exprnLnbns/yeyak/sub01_02/list.do", waiting until "domcontentloaded"
+
+[daejeon-okr-edu] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.daejeon.go.kr/okr2019/OkrExpList.do?menuSeq=8201", waiting until "domcontentloaded"
+
+[daejeon-okr-hanbatlib] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.daejeon.go.kr/okr2019/OkrEduList.do?menuSeq=8101", waiting until "domcontentloaded"
+
+[science-edu-reservation] rendered 2205 chars CHANGED
+[sejong-notice] rendered 2433 chars CHANGED
+[sejong-notice-greenfamily] rendered 1799 chars CHANGED
