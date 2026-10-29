@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-29T22:07:47+09:00",
+ "updated": "2026-10-29T23:07:49+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 3,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "음악으로 전한 감사…대전 희망나눔콘서트 '성료' - 노컷뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1naktfbUJjay1qX2xQT2p2MVlxR3R5ZGxNN0lmX3RGSzdwWXJHeGdEeFVEdjBoQ2tvUUVVWEc2eU1ZT1dNbW56eTVQbUx3aWRRdWc?oc=5",
+   "pub": "Thu, 29 Oct 2026 12:59:44 GMT",
+   "engine": "gnews",
+   "query": "평송청소년문화센터 공연",
+   "first_seen": "2026-10-29T23:07:49+09:00"
+  },
   {
    "title": "전주국제발효식품엑스포, 휴일맞아 단체 등 관람객 '북적북적' - 뉴시스",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sWHRZNXRkNzlJWGxWTFpwTS1aMHFsLXgtd0VsZHg3S0hWTUhsZVI2TjNLY01jaml2aDdFREhkMWgwMW1Ub1BONXYxeWc4MWZSU0lMUzllNWhtQkZJcjFrZ9IBeEFVX3lxTE9hWEltZFRKUUNlWkdtaW5jOTlDbnBBclFVeml5UjRQZFRtZ1lXWXREQkxDbUZIcUplaEpRWEdEbUxhWnJ2VGtsWFlZRUFjeF9IRkZfOXZBQzRtUXZpcURmYnlmNC1heV9PVFdrYmRCeW5rcGFfMVgtZQ?oc=5",
@@ -21226,18 +21234,13 @@
    "engine": "naver_all",
    "query": "대전 어린이 공연 무료 예약",
    "first_seen": "2026-10-27T14:07:46+09:00"
-  },
-  {
-   "title": "한밭수목원과 엑스포다리 야경을 감상하고, 야외 공연과 자전거·인라인을 즐기기 좋습니다. 카페와 매점도 있어서 누구나 편하게 방문하기 좋은 공원입니다. 【한밭수목원 어린이 물놀이장】 대전 서구 둔산대로 169(대전엑스포시민광장) 1부 10:00~13:00 / 2부 14:00~17:00 (점심시간 13:00~14:00) ☆ 이용 기간 : 7.23~8.16 ☆ ",
-   "url": "https://blog.naver.com/first_seogu/224369937467",
-   "engine": "naver_all",
-   "query": "대전 어린이 공연 무료 예약",
-   "first_seen": "2026-10-27T14:07:46+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
  ]
 }
