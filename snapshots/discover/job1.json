@@ -1,8 +1,24 @@
 {
- "updated": "2026-10-30T06:07:48+09:00",
+ "updated": "2026-10-30T07:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "대청호 가을 물들인 음악의 향연… 대덕대청호물결축제 성료 - 메가충청뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80NTNwZ3dCOE9IOHlSeFhIOTc3ZWNTREZOWC0wOHBhdnpYWV9LUjVfcllxdVZmYmJPdHRuZzF6U3ppd3dqdDVrWjFnUjJ5UjJvd3QwREx5S2o1Q19ORXdFNlBRbDhnYW1ZalBBdA?oc=5",
+   "pub": "Sun, 25 Oct 2026 00:51:58 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-10-30T07:07:48+09:00"
+  },
+  {
+   "title": "산림청, 내달 대전 유림공원서 '2026 산림문화페스티벌' 개최 - 머니투데이 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jTkhfMFpab0JsNXNCdXItTDF6RFlDUTEzT2Z3QXNIaVRFcG05TzZoeDNpcXBPUko4NVNhZVZOODFhekk4OXVBbllSbEZZRUlaNWh2RXJCamFfMWhjcTJadFZnNldTWGRSdXfSAW9BVV95cUxNQ0I5S2tBbU50N2NIRWxkcnNxazRnMHhiU2F2M1YydXVjMDd5cWQ4SHdzOW9wVGpfSWFQZHJ2a21FZDRDRXlfLTAtWmVrZGNBSFhpR0JzV1JEQ3U4Q0E2OGdKT2I1NDBMX2hQSjZ3ZUk?oc=5",
+   "pub": "Mon, 26 Oct 2026 07:41:27 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 퍼포먼스 공연",
+   "first_seen": "2026-10-30T07:07:48+09:00"
+  },
   {
    "title": "“신화의 국화동산으로”…함평군, ‘2026 대한민국 국향대전’ 화려한 개막 - 퍼블릭뉴스통신",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmX3hHV240Yi0wQko2c0tCdlNjQjhQQkY1UUw1TUUyTmxJWndrOWlCYjA4aS1IWWNfU1hmcmJZRE5qVWt3X1dFbkY1VF9ramU3T3VtOWdPM0hSUFlfZzJGVklSRGozZDZib3JZ?oc=5",
@@ -21227,27 +21243,11 @@
    "engine": "naver_blog",
    "query": "대전 어린이 공연 무료 예약",
    "first_seen": "2026-10-27T14:07:46+09:00"
-  },
-  {
-   "title": "사진 출처: 예당사과원예농업협동조합 10월 30일(금)~31일(토), 입장 무료 첫날 저녁 6시 개막식, 특별공연은 이찬원 낮엔 농가 사과를 고르고 디저트를 맛보고, 해가 지면 호숫가에서... — 사과 이야기로 꾸민 연기자들과 게임·퀴즈, 맞히면 경품 · 예산사과 애플페스타 — 다 같이 하는 사과게임 바로 옆 예당호 어린이 모험시설은 오전 10시부터 저녁 ",
-   "url": "https://blog.naver.com/mugimy/224451558079",
-   "engine": "naver_blog",
-   "query": "대전 어린이 공연 무료 예약",
-   "first_seen": "2026-10-27T14:07:46+09:00"
-  },
-  {
-   "title": "개막퍼포먼스, 삑삑이 공연, 버스킹, 마술공연, 버블공연, 어린이 다례 시연, 분청도자대전 국제심포지엄이 소개되어 있습니다. 유명 가수 무대를 기대하고 가면 결이 다를 수... https://blog.naver.com/info-82/224451004103 ▶ “국화 보러 가는데 돈 드나요?” 부여국화축제 10일간, 입장료는 무료 https://blog.na",
-   "url": "https://blog.naver.com/info-82/224455106194",
-   "engine": "naver_blog",
-   "query": "대전 어린이 공연 무료 예약",
-   "first_seen": "2026-10-27T14:07:46+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
