@@ -53,12 +53,10 @@
 "https://blog.naver.com/poongsan_hwadong",
 "/new/customer/purchaseCurrency.jsp",
 "https://www.hwadong.com/new/product/curr_RecommendGoodsList.jsp?planId=100002404",
+"https://www.hwadong.com/new/product/curr_RecommendGoodsList.jsp?planId=100001529",
 "https://www.hwadong.com/new/magazine/magazineInfo.jsp?planId=100002488",
-"https://www.hwadong.com/new/product/curr_RecommendGoodsList.jsp?planId=100002491",
-"https://www.hwadong.com/new/product/goodsDetail.jsp?Good_id=100121398",
 "https://www.hwadong.com/new/product/curr_RecommendGoodsList.jsp?planId=100002494",
-"https://www.hwadong.com/new/product/goodsDetail.jsp?Good_id=100121390",
-"https://www.hwadong.com/new/product/curr_RecommendGoodsList.jsp?planId=100002496",
+"https://www.hwadongauction.com/ai/auctionList",
 "/new/currency/curr_CurationList.jsp",
 "javascript:slideTest('');",
 "javascript:slideTest('');",
@@ -398,5 +396,7 @@
 "javascript:jsGoodsDetail('100121367');",
 "javascript:jsGoodsDetail('100121367');",
 "javascript:onOrderRegister('100121367');",
-"javascript:onBasketRegister('100121367');"
+"javascript:onBasketRegister('100121367');",
+"#none",
+"javascript:jsGoodsDetail('100121368');"
 ]
