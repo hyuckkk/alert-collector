@@ -1,42 +1,62 @@
-[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[yes24-perf-60278] rendered 199 chars CHANGED
+[chuncheon-notice-announcement] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
+  - navigating to "https://www.chuncheon.go.kr/cityhall/administrative-info/notice-info/notice-announcement/", waiting until "domcontentloaded"
 
-[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[chuncheon-notice-announcement-76219] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
+  - navigating to "https://www.chuncheon.go.kr/cityhall/administrative-info/notice-info/notice-announcement/view/?notAncmtMgtNo=76219", waiting until "domcontentloaded"
 
-[blog-gotaekmusicfesta-224426168539] rendered 2682 chars CHANGED
-[leis-ski-skiland-lessons] rendered 599 chars CHANGED
-[leis-ski-mentor-lessons] rendered 4778 chars same
-[leis-ski-jb-sports] rendered 1322 chars CHANGED
-[leis-ski-sejong-sports] rendered 816 chars CHANGED
-[oworld-notice] rendered 1746 chars same
-[baekje-schedule] rendered 1513 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[woosongart-schedule] rendered 590 chars CHANGED
-[pyeongtaek-main] rendered 22200 chars CHANGED
-[kopis-daejeon-kids] rendered 31038 chars CHANGED
-[kwater-realtime-multidam] rendered 10538 chars CHANGED
-[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/22471']' timed out after 75 seconds
-[donghae-dhdmo-program] rendered 1803 chars CHANGED
-[daejeon-familycenter-programs] rendered 1254 chars CHANGED
-[sejong-notice-birdwatch] rendered 1339 chars CHANGED
-[yangyang-cafe-balloon-15331] rendered 5045 chars CHANGED
-[komsco-shop-card] rendered 7348 chars CHANGED
-[komsco-shop-currency-set] rendered 6683 chars CHANGED
-[cnu-jsh-schedule] rendered 854 chars CHANGED
-[bok-commemorative-coin-news] rendered 715 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 8082 chars CHANGED
-[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
-[nol-notice-10111] rendered 16954 chars CHANGED
-[naver-entertain-018-0006379428] rendered 45484 chars CHANGED
-[pyoungsong-event-rudolph] rendered 424 chars same
-[pyoungsong-event-snowwhite] rendered 413 chars same
-[blog-namuac21-224427113169] rendered 4743 chars CHANGED
-[komsco-shop-cate2284] rendered 6776 chars CHANGED
-[mcst-culture-71983] rendered 1181 chars CHANGED
-[aircanada-korea] rendered 22909 chars CHANGED
-[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
-[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
-[ticketlink-product-65585] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/65585']' timed out after 75 seconds
+[chuncheon-municipal-news] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/cityhall/administrative-info/notice-info/municipal-news", waiting until "domcontentloaded"
+
+[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
+
+[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
+[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
+[leis-cycling-kcf] rendered 2121 chars CHANGED
+[sje-life-events] rendered 64278 chars CHANGED
+[gongjeon-kids] rendered 548 chars CHANGED
+[navy-visit-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000", waiting until "domcontentloaded"
+
+[katc-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.katc.mil.kr/katc/guide/schedule.jsp", waiting until "domcontentloaded"
+
+[fsale-main] rendered 5284 chars CHANGED
+[melon-artist-songsohee] rendered 2082 chars CHANGED
+[interpark-artist-leejuck] rendered 10105 chars CHANGED
+[yctf-show] rendered 502 chars CHANGED
+[sejong-notice-science-concert] rendered 1017 chars CHANGED
+[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
+[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
+[yangyang-cafe-balloon-15331-m] rendered 31868 chars CHANGED
+[hanbat-gongdong-science-form] rendered 622 chars CHANGED
+[daejeon-cafe-dodam-2801968] rendered 9222 chars CHANGED
+[cnu-jsh-schedule-178] rendered 1760 chars CHANGED
+[dmzforest-main] rendered 6459 chars CHANGED
+[sejong-notice-dance-free] rendered 1711 chars CHANGED
+[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
+[melon-christmas-carol-212575] rendered 1852 chars CHANGED
+[woorisb-tok7-product] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://m.woorisavingsbank.com/product/deposite/view.do?prdSn=325", waiting until "domcontentloaded"
+
+[mommom-sandmagic-a] rendered 2565 chars CHANGED
+[mommom-sandmagic-b] rendered 95 chars CHANGED
+[sejong-notice-imnansu-play] rendered 869 chars CHANGED
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[ticketlink-notice-65862] rendered 348712 chars CHANGED
+[aircanada-kr-so-hub] rendered 2866 chars CHANGED
+[aircanada-kr-kbcard] rendered 27046 chars CHANGED
+[aircanada-kr-moretotravel] rendered 3223 chars CHANGED
+[mokwon-general-notice] rendered 1584 chars CHANGED
+[templestay-main] rendered 2630 chars CHANGED
+[hwadong-main] rendered 9429 chars CHANGED
+[mokpo-harborfestival-main] rendered 7759 chars CHANGED
