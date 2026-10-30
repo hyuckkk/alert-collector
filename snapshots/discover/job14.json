@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T16:09:24+09:00",
+ "updated": "2026-10-30T17:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -199,22 +199,6 @@
    "engine": "gnews",
    "query": "에어프레미아 미주 특가",
    "first_seen": "2026-10-24T08:11:01+09:00"
-  },
-  {
-   "title": "\"한국행 특가 항공권과 기내면세 할인 놓치지 마세요\" - 미주조선일보",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY3BubmVzZEFuUG9BUE9zSE5WLVJzUDRaM1BVNW4zWEkxZVNNUjBsWlhOemlYY2NpQ0tNLUItMEV2Y251UUl1YmJvdmptNWxwZ0lZMzhKbENkQU1Zd1BqMDhEdXB4UU5IM2czdE9lblNZU2FJVU5BR0JUWFR2RVVDRUNpRmhkVjA4ZWY3VlFiYzRpVjBKc3VvUnA3b3Z6RUlEb25IdHEzTS11eXpHZzAtaVJjeGNNc0d6d2NZQmc4QU56UjB2bTMydVh6WlBUUnhOZUVtRWQ4LUZvanU0cDRLdUZn?oc=5",
-   "pub": "Wed, 21 Oct 2026 15:55:43 GMT",
-   "engine": "gnews",
-   "query": "아시아나 미주 특가",
-   "first_seen": "2026-10-23T17:07:46+09:00"
-  },
-  {
-   "title": "Korean Air to Strengthen Incheon Transfer Hub Ahead of December Integration - 인사이트코리아",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hNkVtbnY3OEFKNWdCMHVjdm9GTFBzTFVVMG9xNTlidXY4V0prN1NCeHZFaU41TTRxT08yOV9hU2VES1pwV280bnVjSlFobmVGSTFsR2FWS0M0ckdtS21MMC1DSG5qS0o3Ul9PbHJQMG9zUzjSAXdBVV95cUxPVWNRVnlQS0ttekRrdmgyWXZteU54cl9ZSURmLVI0Y1NFT3B6Z0xha1VtNDBmWG40TWYtOXJjdVBxdDh6Y0FsUkhrR05jZGxueTZJZWVFeUJaN1pPQWZWMEN1bmdVRU5vLWN2b25ralNPaGZEMzd3QQ?oc=5",
-   "pub": "Fri, 23 Oct 2026 01:00:00 GMT",
-   "engine": "gnews",
-   "query": "Korean Air US sale",
-   "first_seen": "2026-10-23T17:07:46+09:00"
   }
  ],
  "errors": []
