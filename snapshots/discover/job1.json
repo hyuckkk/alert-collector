@@ -1,8 +1,22 @@
 {
- "updated": "2026-10-30T17:07:47+09:00",
+ "updated": "2026-10-30T18:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 4,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "홍보부스도 함께 꾸려진다. 방문객들의 눈과 귀를 사로잡을 공연 프로그램도 화려하다. 행사 첫날에는 육군훈련소, 학생군사학교...도전골든벨'과 체력과 의지를 겨루는 '피지컬 100'을 비롯해 서커스와 코미디를 결합한 넌버벌 퍼포먼스가 관람객에게 색다른 즐거움...",
+   "url": "http://v.daum.net/v/20261030174621923",
+   "engine": "daum_news",
+   "query": "대전 서커스 공연",
+   "first_seen": "2026-10-30T18:07:48+09:00"
+  },
+  {
+   "title": "감소했다. 전년 동기에 열린 대형 라이선스 뮤지컬과 해외 서커스 공연이 올해 없었던 영향으로 분석된다. 강원과 인천은 1만석 이상...지역은 서울 11개, 경기 4개, 인천 2개, 부산·대구·대전 각 1개였다. 대중음악과 뮤지컬을 제외한 상위 10개 작품은 연극 7개...",
+   "url": "http://v.daum.net/v/20261030171232589",
+   "engine": "daum_news",
+   "query": "대전 서커스 공연",
+   "first_seen": "2026-10-30T18:07:48+09:00"
+  },
   {
    "title": "대전시사회서비스원, ‘2026 희망나눔콘서트’ 개최 - 뉴스밴드",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NYWdCbHpXX3RQZlZWdkl3cXJPY2lRdW5VYUZOTS1KVjBmVnJfR0dXUnNOa1U0djM1a2VXOHpkM0NIWWdfNmVSZW1wUmU5YkkyTzhfMUJTRFZEZUN2a01BSnR0YnRkbkFpbFE?oc=5",
@@ -21158,27 +21172,13 @@
    "engine": "naver_blog",
    "query": "대전 발레 가족 공연 11월",
    "first_seen": "2026-10-28T23:07:49+09:00"
-  },
-  {
-   "title": "10월 29일부터 11월 11일까지 2주 동안 진행되는 이번 행사는 신선식품부터 가공식품, 한정 기획 상품까지 최대 60%에... 여기에 해양수산부와 함께하는 수산대전 할인과 행사카드 할인이 중복 적용되는 품목이 있고, 2개 이상 구매 시 40%에서 50... 큰 초밥과 연어새우 초밥 등 인기 초밥 5종은 엘포인트 회원 적립 시 30% 할인이 적용되며, 온",
-   "url": "https://blog.naver.com/sherry7777/224457017445",
-   "engine": "naver_blog",
-   "query": "대전 발레 가족 공연 11월",
-   "first_seen": "2026-10-28T23:07:49+09:00"
-  },
-  {
-   "title": "유성한가족요양병원~홈플러스 ※ KAIST·KISTI 칸의 「18시 이후, 주말만 이용 가능」은 리플릿 문구를 그대로... 버스킹 공연이 열려요. 시각은 아직 공지되지 않았어요. 행사장 지도에는 드로잉 캐리커처 로봇과 국화체험부스가 주말... 정리하면 대전 유성국화축제는 11월 1일(일)까지, 오전 10시~밤 10시, 입장료는 무료예요. 유림공원 주차장은..",
-   "url": "https://blog.naver.com/wildmind_kr/224448913177",
-   "engine": "naver_blog",
-   "query": "대전 발레 가족 공연 11월",
-   "first_seen": "2026-10-28T23:07:49+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }
