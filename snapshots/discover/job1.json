@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-30T09:07:46+09:00",
+ "updated": "2026-10-30T09:51:26+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 20,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "과천과학관, 시민 참여형 재즈 콘서트 ‘물질의 떨림, 음악의 울림’ 개최 - 데일리안",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LUUFxcFU4aGFzUjMyMkUxZXlpU19fZXIyOE5fMzhsS3pGbEtoQjlHanJ4MjdaNG5IZXpaeVpiZERGdTJlbjFpNmxveTNlc09tS0ZfTQ?oc=5",
+   "pub": "Fri, 30 Oct 2026 00:49:00 GMT",
+   "engine": "gnews",
+   "query": "국립중앙과학관 공연",
+   "first_seen": "2026-10-30T09:51:26+09:00"
+  },
   {
    "title": "환자와 가족을 뮤지컬 ‘조선 마법사관 진준’으로 초대합니다. 해당 공연은 11월 13일 오전 11시 국립중앙박물관 극장 용(서울 용산...모집합니다. 1인당 티켓 2매까지 받을 수 있습니다. 한국백혈병어린이재단 홈페이지 내 구글폼(l1nk.dev/v16nxi6)을 통해 신청...",
    "url": "http://v.daum.net/v/20261030090239237",
@@ -21241,19 +21249,13 @@
    "engine": "naver_blog",
    "query": "대전 어린이 공연 무료 예약",
    "first_seen": "2026-10-27T14:07:46+09:00"
-  },
-  {
-   "title": "팝콘 무료로 주는 이벤트 하길래 받아왔는데 정작 나는 배아파서 안먹었고 동행인 먹으라고 줬었음 이날 최유리님이랑... 이때까지만 해도 서구 농성동 근처에 있었던 부부더상록을 갔다 여기 케익이 워낙 빨리 품절이라서 미리 예약주문... 18 새벽에 집에 들어가고 갑자기 성심당 빵 사다주고 싶어서 대전을 다녀옴 배달하고 집에 감 내가 만든 가죽 지갑 2024.1",
-   "url": "https://blog.naver.com/blue_seaweed/224455329970",
-   "engine": "naver_blog",
-   "query": "대전 어린이 공연 무료 예약",
-   "first_seen": "2026-10-27T14:07:46+09:00"
   }
  ],
  "errors": [
   "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
   "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
   "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }
