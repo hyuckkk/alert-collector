@@ -1641,5 +1641,20 @@
     "url": "https://m.archery.or.kr/",
     "render": true,
     "note": "양궁 현행 공식 메인/경기일정·공지 탐색 시작점. JS 본문 확인 필요; 단일 과거 공문만 감시하지 말고 최신 링크/공식 도메인 검색 병행. 관람·장소·60분 조건 별도 검증."
+  },
+  {
+    "id": "leis-hands-on-ddcc-notices",
+    "url": "https://ddcc.or.kr/문화원소식/공지사항/",
+    "note": "공식문화원 신규모집·전통체험 공지. 과거신탄진은발견단서만; 실제불/아이직접/연령/안전운영 검증전알림금지. LED·관람대체 제외."
+  },
+  {
+    "id": "leis-hands-on-daejeon-museum-notices",
+    "url": "https://www.daejeon.go.kr/his/board/musBoardDataList.do?bbsCode=hisnews&menuSeq=677",
+    "note": "시립박물관 공식특별체험 모집. 어린이직접행동·실제재료·연령·가격·가족자격 검증, 전시관람/모형대체만 제외."
+  },
+  {
+    "id": "leis-hands-on-daejeon-museum-booking",
+    "url": "https://www.daejeon.go.kr/his/musEduList.do?menuSeq=654",
+    "note": "공식교육 신청기간 목록. 접수상한과 실제추첨팀 정원 구분; 로그인전상세만으로 비용/자격추정금지."
   }
 ]
