@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-30T20:07:46+09:00",
+ "updated": "2026-10-30T21:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 4,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "군(軍), 대전 시민곁으로...2026 민관군 화합페스티벌 개최 - 현대경제",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82bThoRkdVU0RDcnk4Y1M2VmVEdm1CSGNJMUZFNmE0cVQ5V0dfSkhEc1JDYi1qLUFIcjZtYmpfR0NUakR4a1FtT1FhRXo5LUx0YXBrQks4REVRNTZfZUd1bnFzU1Bldjc1dDNV?oc=5",
+   "pub": "Mon, 26 Oct 2026 07:53:57 GMT",
+   "engine": "gnews",
+   "query": "대전 서커스 공연",
+   "first_seen": "2026-10-30T21:07:46+09:00"
+  },
   {
    "title": "한남대 ‘드림’, 제1회 손소리 수어예술제 대상…수어공연·뮤지컬 선봬 - www.sejongmedia.com",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wamNiUFc1Vlp6Vk82aTdmMHRNSjBtQ05OYkZXWHdtaUhyckh3ajFvZ0FlazZSRnVWUlp0S241NVVkYU1VQmlPRGVwMHRray1PQU13eHMwc2JoeXpNWS1GNGczNWF4MnBpa0UxNXB3?oc=5",
@@ -21170,20 +21178,13 @@
    "engine": "naver_blog",
    "query": "대전 발레 가족 공연 11월",
    "first_seen": "2026-10-28T23:07:49+09:00"
-  },
-  {
-   "title": "먹고 일하고 야구 보고, 축구 보고 가족들이랑 꽁냥거리다보니 어느새 제가 좋아하는 가을이 왔어요. 이번 일상도... 마라는 역시 하이디라오인것인가 대전에도 매장 오픈하면 좋겠어요.. 삼촌이랑 원래 가던 동네 고깃집 갔는데 문 닫아서 동네... 가을야구 또 가주세요 피날레 공연 중에 잘 자는 막둥이 나눠주신 형광.. 음.. 야광봉..? 이날 처음으로 리퀴드 ",
-   "url": "https://blog.naver.com/hyo3o3o/224457088685",
-   "engine": "naver_blog",
-   "query": "대전 발레 가족 공연 11월",
-   "first_seen": "2026-10-28T23:07:49+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }

@@ -1,8 +1,56 @@
 {
- "updated": "2026-10-30T20:07:46+09:00",
+ "updated": "2026-10-30T21:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 3,
+ "new_this_run": 6,
  "hits": [
+  {
+   "title": "[대전소식] 중구, 지역화폐 중구통 인센티브 15%로 확대 등 - 뉴시스",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HMG1seHNuQVhJcTN0QUdweUs3c2RvVkw5Nkh6My1XcHRLUzJWWHQ3VWNfcmNkRXVwd3VHUEt1YkVwMlBZN1RPVTJYVV9OdmduRll3MVlra1RWdDdmcDBnamRtRVd3bHl6VmZTcl9BSzI3Q3BmWGFLWtIBeEFVX3lxTE1HMG1seHNuQVhJcTN0QUdweUs3c2RvVkw5Nkh6My1XcHRLUzJWWHQ3VWNfcmNkRXVwd3VHUEt1YkVwMlBZN1RPVTJYVV9OdmduRll3MVlra1RWdDdmcDBnamRtRVd3bHl6VmZTcl9BSzI3Q3BmWGFLWg?oc=5",
+   "pub": "Fri, 30 Oct 2026 08:12:05 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-10-30T21:07:46+09:00"
+  },
+  {
+   "title": "대전평생교육진흥원, 다함께돌봄센터 6개소와 업무협약 - 메가충청뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95aW5oS1p0NkMtM0RuZF91X3Y4eEZtZ1dOUTJlelowTUhpNXhhZ2NENHQzeXdMdlk3aGFoXzJqakYzcXd0X2U0T0hLY1Bmc1IzYU01cDR0UkpvaEREUW9za2VMSDJwSWo1ek44Tg?oc=5",
+   "pub": "Fri, 30 Oct 2026 07:59:52 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-10-30T21:07:46+09:00"
+  },
+  {
+   "title": "대전 중구, 퇴원환자·거동불편 주민에 '온마을 돌봄꾸러미' 지원 개시 - 피디언뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJTmxJUjlZWEloYXZEQ2tOelE4ZTlfNkdoSEFFUlpwRndVWWI3b1FCTmhlcEg0TmFDQVQ5dThrVVhYcTFKbmtEMnNZUTJtM0xZOTlla1pRclpfUmU5?oc=5",
+   "pub": "Fri, 30 Oct 2026 07:52:20 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-10-30T21:07:46+09:00"
+  },
+  {
+   "title": "키움제10호스팩, 이티에스와 합병 결정·합병비율 1대 0.1912442 - 데이터투자",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12LWhwSjBuM2I5MmR2LWM0Y0NDT19WbjAyTWk5VkVvQlN5d1NQTkZRSk15V0VJenlrX1hVZzFkUnJvMUhiVVo3MzdlTm5pNmdYcVJYLXVkVElhSnJ2T2VacmMzN0xTSlJMUGNsN3FBUXM5M2s?oc=5",
+   "pub": "Fri, 30 Oct 2026 09:14:26 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-10-30T21:07:46+09:00"
+  },
+  {
+   "title": "전주김장문화축제 내달 27일 개막… 사전예약 시작 - 전라매일",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KOWM3Z1FINXlNLTE3X3lmZ3RWZG12ZDZfYk1GY1hPanFHWlBCZ0pPTVB4VjV4c1hmN0dTX1JiQy1lcE1Ec2ZXbmw2OVNuR21mZUE?oc=5",
+   "pub": "Mon, 26 Oct 2026 06:45:00 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-10-30T21:07:46+09:00"
+  },
+  {
+   "title": "전주김장문화축제, 11월 27~29일 개최 - 세계일보",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rSFZaMzhZaTgtRUJRa2xyNll3NVdxOTl0VXR5Q3ozUS1odTZqNzNMbkpwSjlzMHlSdEdoeWpWV1BPZGppTEp4V05lYVNheEl1WlQzS1NyVHDSAVRBVV95cUxNMzRiMkx6RmdrdVRzNmNfeG52YXdWOUNsU19reFh0WDZRTU9xcXR3aEFleVlsdGJzVENydDR5VUp0Q2g2ZmJsaVZIczZYRFU2d0JleFE?oc=5",
+   "pub": "Mon, 26 Oct 2026 04:02:09 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-10-30T21:07:46+09:00"
+  },
   {
    "title": "산림청 11월 7~8일 대전 유림공원서 '산림문화 페스티벌' 개최 - 뉴스1",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxcFNMa0k4WnplMExNNDY5ZlZTaThZM0ZRbWlzS1hhWHVNdkxLbmNROXVKRklKUGFVS0hXSV9wbFc4ZVZHa2JCYzFsdFY2UU0zdUVVV05UWGpKU3ZWT2xCZA?oc=5",
@@ -21933,48 +21981,6 @@
    "title": "공동육아 나눔터(5개소) — 대상: 18세 미만 (손)자녀와 (조)부모 · 내용: 육아정보 나눔 공간, 자녀양육 품앗이 그룹 연계·리더교육, 육아놀이 체험 프로그램, 양육상담 · 담당: 인구전략담당관 ☎ 041-630-1635 1??3?? 방과후돌봄센터(다함께돌봄센터) — 대상: 돌봄이 필요한 초등학생 전학년 · 내용: 기본 돌봄·놀이·학습 프로그램·급간식",
    "url": "https://cafe.naver.com/naepopedia/567?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5hZXBvcGVkaWEiLCJhcnRpY2xlSWQiOjU2NywiaXNzdWVkQXQiOjE3OTI3OTExMTY2NzZ9.iFCpQ9Kk1XWtPlzoIi6DijRbQvLGT_GSxiFBZK_8Ong&q=%eb%8c%80%ec%a0%84%20%ec%95%84%eb%b9%a0%20%ec%9e%90%eb%85%80%20%ec%b2%b4%ed%97%98&tc=naver_search",
    "engine": "naver_cafe",
-   "query": "대전 아빠 자녀 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "· 대상: 영유아·초등 자녀를 키우는 엄마·아빠·할머니·할아버지 · 일정(4회) - 1기 11/3~24 매주 화 오전 10~12시 (공동육아나눔터 1호점) · 인원: 기수별 7가구 - 2기 11/4~25 매주 수 오전 10~12시 (공동육아나눔터 2호점) · 인원: 기수별 7가구 ※ 양육자만 참여하는 프로그램이에요. 편한 복장으로 오세요. 모두음악 – 가족",
-   "url": "https://cafe.naver.com/usem/2600795?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVzZW0iLCJhcnRpY2xlSWQiOjI2MDA3OTUsImlzc3VlZEF0IjoxNzkyNzkxMTE2Njc2fQ.mjmq4olBxya2E4fgIgeA3tX1rSpQ4aOt8gFiAFzcflQ&q=%eb%8c%80%ec%a0%84%20%ec%95%84%eb%b9%a0%20%ec%9e%90%eb%85%80%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 아빠 자녀 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "많은 학부모들이 둔산동 라이딩해주시는데 트램 공사전 보다 1시간 더걸립니다. 그럼 왕복 2시간인데 둔산동 사는 아이들보다 매일 2시간씩 손해보는겁니다. 부자는 시간이 금이라고 합니다. 매일 2시간씩 길바닥에 시간버리는것보다, 그시간에 공부하면 명문대 갈 확률이 훨씬 높아지겠네요. 벌써부터 부동산에는, 라이딩 못하겠다며 둔산동 집 매매하려는 학부모들로인해 정",
-   "url": "https://cafe.naver.com/boodongsan0114/330168?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvb2RvbmdzYW4wMTE0IiwiYXJ0aWNsZUlkIjozMzAxNjgsImlzc3VlZEF0IjoxNzkyNzkxMTE2Njc2fQ.VykpCNW3TRRRihh3XeH2KLSha5XATkQ2drU_0cScjzw&q=%eb%8c%80%ec%a0%84%20%ec%95%84%eb%b9%a0%20%ec%9e%90%eb%85%80%20%ec%b2%b4%ed%97%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 아빠 자녀 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "가족센터www.familynet.or.kr›아빠와 한 걸음!새 창 열림",
-   "url": "https://www.familynet.or.kr/web/index.do",
-   "engine": "naver_all",
-   "query": "대전 아빠 자녀 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "대전서구 가족센터daejeonseogu.familynet.or.kr›아빠는 숲 속 히어로새 창 열림",
-   "url": "https://daejeonseogu.familynet.or.kr/center/index.do",
-   "engine": "naver_all",
-   "query": "대전 아빠 자녀 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "대덕구 육아종합지원센터www.daedeokchildcare.or.kr›homesupport새 창 열림",
-   "url": "https://www.daedeokchildcare.or.kr/",
-   "engine": "naver_all",
-   "query": "대전 아빠 자녀 체험",
-   "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "부모-자녀 체험프로그램 ; 교육명 : 엄마랑 아빠랑 함께 놀아요 [2023년생~2024년생], 교육일시 : 2026-08-24 ~ 2026-08-24, 신청가능연령 : 2023년생~2024년생, 신청기간 : 2026-08-10 10:00 ~ 2026-08-17 18:00, 장소 : 대덕구육아종합지원센터 세미나실, 강사 : 바른인성행복연구소 이유영 강사, 교",
-   "url": "https://www.daedeokchildcare.or.kr/sub/homesupport/experience_calendar.asp?seq=5274",
-   "engine": "naver_all",
    "query": "대전 아빠 자녀 체험",
    "first_seen": "2026-10-24T06:07:46+09:00"
   }
