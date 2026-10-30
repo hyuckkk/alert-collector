@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T05:07:47+09:00",
+ "updated": "2026-10-31T06:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -5317,14 +5317,6 @@
    "engine": "daum_news",
    "query": "기념주화 한정판매",
    "first_seen": "2026-10-24T08:11:01+09:00"
-  },
-  {
-   "title": "정지 화면만으로 파악할 수 있는 과천 경마공원 데이트 구성 요소 - Calgary Roughnecks",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PM2prZmxZclByaDIzdkJuLWRoVkdvV0xQRHNzX2stcGtjcXdEZy0yRW5jVWE3NjZEbXlVSmFuSnF6bjBZUzdlNTdFV1BGWUxmajFOZ1hNNUVxUVVvb1NJR0Z3REU3MXpv?oc=5",
-   "pub": "Sun, 18 Oct 2026 15:13:52 GMT",
-   "engine": "gnews",
-   "query": "개인투자용 국채 금리",
-   "first_seen": "2026-10-24T06:07:46+09:00"
   }
  ],
  "errors": []
