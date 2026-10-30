@@ -1,8 +1,24 @@
 {
- "updated": "2026-10-31T06:07:48+09:00",
+ "updated": "2026-10-31T07:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "광양시 용강도서관, 어린이 문학 공연 ‘입체낭독극’ 열어 > 뉴스 - 더코리아",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE40SlRqM09NaklQR0h6NHRJSExHcEh3NVlFcXZrTUl1Q2JmVDJnSVJDMm5mVmJKSjd3TGQwWUdSeExkSjVa?oc=5",
+   "pub": "Fri, 30 Oct 2026 20:02:00 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 연극",
+   "first_seen": "2026-10-31T07:07:47+09:00"
+  },
+  {
+   "title": "여수시, 아름다운 분재의 향연 '여수분재산업대전' 개최 > 뉴스 - 더코리아",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9jV3FrQ25TdThkNko0REY2b2p4N3V0aTNoNjM0NHE2UFREQXhNaExTNW1DWlp4LXJTWkIzemp0X2FQRXFZ?oc=5",
+   "pub": "Fri, 30 Oct 2026 20:06:00 GMT",
+   "engine": "gnews",
+   "query": "대전 도서관 어린이 공연 시간표",
+   "first_seen": "2026-10-31T07:07:47+09:00"
+  },
   {
    "title": "예산앤유행복센터, 할로윈데이 '코스튬데이'·'샌드아트 매직쇼' 연다 - 충청일보",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qdk9VczE4LXVaRjMtZkdOR1gxT29GenFKNUcxckg3SzJoMFNqaUVweGZESDBhNmdzOEhXSjRQdzAteUp5eDdnd2hGMFhQODhLZGJpNXJBU2VvbksxT3NKemxJMzZsYi15SjRwZkFQaDg?oc=5",
@@ -21166,27 +21182,11 @@
    "engine": "naver_blog",
    "query": "대전 버블쇼 인형극 샌드아트",
    "first_seen": "2026-10-28T23:07:49+09:00"
-  },
-  {
-   "title": "저희 비버컴퍼니는 다양한 공연을 다양한 주제로 진행하고 있는데요 솜사탕쇼, 코믹클래식 처럼 비버컴퍼니에서만 만나볼수 있는 공연부터 마술쇼, 매직인형극, 버블쇼, 벌룬쇼, 서커스, 샌드아트 등 다양한 공연을 다문화이해, 장애이해, 보건교육, 인성, 새친구사귀기 등 수많은 주제로 진행하고 있습니다. 오늘 포스팅하는 김천부곡초등학교는 올해 진행된... 새 창 열",
-   "url": "https://blog.naver.com/eunji6043/224454405761",
-   "engine": "naver_blog",
-   "query": "대전 버블쇼 인형극 샌드아트",
-   "first_seen": "2026-10-28T23:07:49+09:00"
-  },
-  {
-   "title": "010-****-**** #어린이집 #유치원 #초등학교 #중학교 #고등학교 #교회 #성경학교 #히즈쇼드림스타 #신앙수련회 #친구초청행사 #입학식 #졸업식 #송년회 #생일파티 #키즈카페 #영어학원 #태권도장 #합숙 #참관수업 #승단심사 #문화센터 #도서관 #교회 #요양원 #흡연예방 #학교폭력 #장애이해 #진로특강 #멘토 #멘티 #생일파티 #마술공연 #벌룬쇼 ",
-   "url": "https://blog.naver.com/noname2135/224446915696",
-   "engine": "naver_blog",
-   "query": "대전 버블쇼 인형극 샌드아트",
-   "first_seen": "2026-10-28T23:07:49+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
