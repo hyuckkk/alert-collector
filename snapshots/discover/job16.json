@@ -1,39 +1,15 @@
 {
- "updated": "2026-10-31T04:07:47+09:00",
+ "updated": "2026-10-31T04:15:33+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 4,
+ "new_this_run": 1,
  "hits": [
-  {
-   "title": "대청호오백리길 걷기대회 31일 개최... 1600명 참가 - 아이뉴스24",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oVk56M3YxVFlHOHN0cDhxbDhBMWotdThralh1MEVVNTgwc09zc0NYaG85Z3JxM2RNLVFHMHZIYjN4VkwwTFNkN1ItOA?oc=5",
-   "pub": "Thu, 29 Oct 2026 00:23:12 GMT",
-   "engine": "gnews",
-   "query": "자전거 대회 대전",
-   "first_seen": "2026-10-31T04:07:47+09:00"
-  },
   {
    "title": "영동 ‘펀앤런’, 1,000여 명 참여 속 성황리에 마무리… 스포츠와 축제로 영동 매력 알려 - 이런뉴스",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfSnlYZE84NGtka0tmdUduQVdCczh0MHhGeFo1VWg3N0xjQlFoNy1lWi1CWU5hc1JCNUNlOFFpUHRfY1ZibXVRckZ1NGZVZ3VSM2RqeC02NlBkbWp6UEE?oc=5",
    "pub": "Wed, 28 Oct 2026 23:30:02 GMT",
    "engine": "gnews",
    "query": "충북 마라톤 10km 5km 참가자 모집",
-   "first_seen": "2026-10-31T04:07:47+09:00"
-  },
-  {
-   "title": "대전의 첫 관문, 동구의 성장 기반 튼튼하게 - 대전광역시청",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUHNCZF8zRzBOXzZwNFh4TnZZSVVGay1VUEJUOWxtY1pkbWR4WDNvM3ZRWWR2Zno5OUE5TVJsdkZEMDZZSGZhNVZBVzV4cmtUQmFDYTBTeXdJYTdQNkdvc0xPeXZQcGpoLWphTjVfRnZCWklfeWRsV2FlRGNsU3VKS0stb00tS2hQczVZUTRmWkltbG5NdDFjZnpnc3B1eDFKdklRbmZnVnQ0MGRMOXRNWUNzTjlKQjd5ZnU5SGRCZHU3MDZGMGk0ZDdPMldCWWc3a3pOVGRpWFpaa1F1cHNTaGh4MGpiME1wX3hYOVRNSXlPR080WGNDU0Y2UmhHZGEzWkRr?oc=5",
-   "pub": "Fri, 23 Oct 2026 20:12:59 GMT",
-   "engine": "gnews",
-   "query": "site:daejeon.go.kr 어린이 체험 모집",
-   "first_seen": "2026-10-31T04:07:47+09:00"
-  },
-  {
-   "title": "온통대전 정보무늬 (QR) 결제로 간편하게 - 대전광역시청",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNW5lQmdhS1pjY2l5UENnZHNmOFR0eXBmUS1ockdPMm5HQ2dIeXhZSk9NUHlKck5JLTg1c0JUM252UUxMbDNaek82WjNIVXh5b21CMnZsVm5Ea1NuS1J3LXVWcHF2emphV1dwYWw0R3h6WVVDTzFhOEtCWnpaNVZuZ1o3Q2ItYUxVZXJ1aExlTjZxdURyUk5mTU9kVHR6TEk1S3BkTFlNYmtwZFExVUc0SzNONjBRUFBvT0x4YzJ5amhlR3VrRmFnNmFTX3VfeW53NFEyc3Q1eWhIazhSU1ZQTHZiOXZ1OFM4RzZ6aEZ6c3ZrdzZVMEpKWjRzSThBREhrMmlZ?oc=5",
-   "pub": "Tue, 27 Oct 2026 04:26:08 GMT",
-   "engine": "gnews",
-   "query": "site:daejeon.go.kr 어린이 체험 모집",
-   "first_seen": "2026-10-31T04:07:47+09:00"
+   "first_seen": "2026-10-31T04:15:33+09:00"
   },
   {
    "title": "대전 중구, 신채호 마라톤 코스 사전 정비로 참가자 맞이 만전 - 피디언뉴스",
@@ -2934,5 +2910,7 @@
    "first_seen": "2026-10-24T05:07:46+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '검도 대회 일정 대전 세종 공주 계룡 논산 옥천 금산 관람 공식': <urlopen error _ssl.c:993: The handshake operation timed out>"
+ ]
 }
