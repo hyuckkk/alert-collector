@@ -19,7 +19,7 @@
 const CATS = ["show", "sale", "military", "fireworks", "dam", "invest", "leisure"];
 const BOT_LABEL = { show: "Show", sale: "Sale", military: "Military experience", fireworks: "Fireworks", dam: "Dam", invest: "Invest", leisure: "Leisure" };
 let lastOrigin = null; // learned from incoming requests; the address is not kept in the public code
-const BUILD = "2026-10-30-sender-v10-safemerge";
+const BUILD = "2026-10-30-sender-v10b-safemerge";
 // Free plan: 50 subrequests per invocation. Every GitHub/Telegram call is counted; optional work stops
 // early so that the claim commit (4) and the result commit (8 per attempt) always fit.
 let SUB = 0;
@@ -572,6 +572,7 @@ async function mergeClaudeBranches(env) {
       let copied = 0, skipped = 0;
       if (!stale) {
         for (const x of (cmp.files || [])) {
+          if (/^(outbox|state|relay-v2\/queue|runs)\//.test(x.filename)) { skipped++; continue; }
           if (x.status !== "added") { skipped++; continue; }
           if (calls > 44) break;
           const path = x.filename.split("/").map(encodeURIComponent).join("/");
