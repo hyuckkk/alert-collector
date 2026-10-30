@@ -19,7 +19,7 @@
 const CATS = ["show", "sale", "military", "fireworks", "dam", "invest", "leisure"];
 const BOT_LABEL = { show: "Show", sale: "Sale", military: "Military experience", fireworks: "Fireworks", dam: "Dam", invest: "Invest", leisure: "Leisure" };
 let lastOrigin = null; // learned from incoming requests; the address is not kept in the public code
-const BUILD = "2026-10-13-sender-v9-alias";
+const BUILD = "2026-10-30-sender-v10-safemerge";
 // Free plan: 50 subrequests per invocation. Every GitHub/Telegram call is counted; optional work stops
 // early so that the claim commit (4) and the result commit (8 per attempt) always fit.
 let SUB = 0;
@@ -550,9 +550,9 @@ async function tickCollector(env, which) {
 const WORKER_OWNED = new Set(["state/notifications.json", "state/sending.json", "state/events.json", "state/recipients.json", "state/counter.json"]);
 async function mergeClaudeBranches(env) {
   const h = { authorization: `Bearer ${env.GH_TOKEN}`, accept: "application/vnd.github+json", "user-agent": "telegram-relay-worker", "content-type": "application/json" };
-  const out = [];
-  let calls = 0;
+  const out = []; let calls = 0;
   const f = async (url, opt = {}) => { calls++; return fetch(url, { ...opt, headers: h }); };
+  const MAX_AGE_MS = 72 * 3600 * 1000;
   for (const repo of [env.GH_REPO, COLLECTOR]) {
     const lr = await f(`https://api.github.com/repos/${repo}/branches?per_page=100`);
     if (!lr.ok) { out.push({ repo, list: lr.status }); continue; }
@@ -560,36 +560,33 @@ async function mergeClaudeBranches(env) {
     for (const name of names) {
       if (calls > 40) break;
       const enc = name.split("/").map(encodeURIComponent).join("/");
+      const del = () => f(`https://api.github.com/repos/${repo}/git/refs/heads/${enc}`, { method: "DELETE" });
       const mr = await f(`https://api.github.com/repos/${repo}/merges`, { method: "POST", body: JSON.stringify({ base: "main", head: name, commit_message: `merge ${name} [skip ci]` }) });
-      let res = mr.status;
-      if (mr.status === 409) {
-        // conflict: copy job-written files (outbox, runs, docs, watch...) except files the sender owns
-        const cr = await f(`https://api.github.com/repos/${repo}/compare/main...${enc}`);
-        if (!cr.ok) { out.push({ repo, name, compare: cr.status }); continue; }
-        const files = ((await cr.json()).files || []).filter((x) => !WORKER_OWNED.has(x.filename));
-        let copied = 0;
-        for (const x of files) {
+      if (mr.status === 201 || mr.status === 204) { await del(); out.push({ repo, name, res: mr.status }); continue; }
+      if (mr.status !== 409) { out.push({ repo, name, res: mr.status }); continue; }
+      const cr = await f(`https://api.github.com/repos/${repo}/compare/main...${enc}`);
+      if (!cr.ok) { out.push({ repo, name, compare: cr.status }); continue; }
+      const cmp = await cr.json();
+      const last = cmp.commits && cmp.commits.length ? Date.parse(cmp.commits[cmp.commits.length - 1].commit.committer.date) : 0;
+      const stale = !last || Date.now() - last > MAX_AGE_MS;
+      let copied = 0, skipped = 0;
+      if (!stale) {
+        for (const x of (cmp.files || [])) {
+          if (x.status !== "added") { skipped++; continue; }
           if (calls > 44) break;
           const path = x.filename.split("/").map(encodeURIComponent).join("/");
           const cur = await f(`https://api.github.com/repos/${repo}/contents/${path}?ref=main`);
-          const sha = cur.ok ? (await cur.json()).sha : undefined;
-          if (x.status === "removed") {
-            if (sha) await f(`https://api.github.com/repos/${repo}/contents/${path}`, { method: "DELETE", body: JSON.stringify({ message: `copy ${name}: rm ${x.filename} [skip ci]`, sha }) });
-            copied++; continue;
-          }
+          if (cur.ok) { skipped++; continue; }
           const src = await f(`https://api.github.com/repos/${repo}/contents/${path}?ref=${encodeURIComponent(name)}`);
           if (!src.ok) continue;
           const content = (await src.json()).content.replace(/\n/g, "");
-          await f(`https://api.github.com/repos/${repo}/contents/${path}`, { method: "PUT", body: JSON.stringify({ message: `copy ${name}: ${x.filename} [skip ci]`, content, sha }) });
-          copied++;
+          const put = await f(`https://api.github.com/repos/${repo}/contents/${path}`, { method: "PUT", body: JSON.stringify({ message: `add from ${name}: ${x.filename} [skip ci]`, content }) });
+          if (put.ok) copied++;
         }
-        res = `conflict-copied-${copied}/${files.length}`;
-        if (copied < files.length) { out.push({ repo, name, res }); continue; } // keep branch, finish next run
+        if (calls > 44) { out.push({ repo, name, res: "partial", copied }); continue; }
       }
-      if (mr.status === 201 || mr.status === 204 || String(res).startsWith("conflict-copied")) {
-        await f(`https://api.github.com/repos/${repo}/git/refs/heads/${enc}`, { method: "DELETE" });
-      }
-      out.push({ repo, name, res });
+      await del();
+      out.push({ repo, name, res: stale ? "stale-deleted" : "conflict-added-only", copied, skipped });
     }
   }
   return { at: nowIso(), calls, out };
