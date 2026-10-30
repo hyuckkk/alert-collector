@@ -1635,5 +1635,11 @@
     "id": "leis-spectator-youth-history",
     "url": "https://meet.sports.or.kr/history/event/list.do?searchGubun=Y",
     "note": "관람 보조공식 경로; 소년체전 실제종목경기장으로 판단, 과거는발견단서"
+  },
+  {
+    "id": "leis-spectator-archery-current",
+    "url": "https://m.archery.or.kr/",
+    "render": true,
+    "note": "양궁 현행 공식 메인/경기일정·공지 탐색 시작점. JS 본문 확인 필요; 단일 과거 공문만 감시하지 말고 최신 링크/공식 도메인 검색 병행. 관람·장소·60분 조건 별도 검증."
   }
 ]
