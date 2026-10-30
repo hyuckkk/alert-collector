@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T21:07:46+09:00",
+ "updated": "2026-10-30T22:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -9634,30 +9634,6 @@
    "engine": "daum_news",
    "query": "수산물 할인 쿠폰",
    "first_seen": "2026-10-24T00:07:54+09:00"
-  },
-  {
-   "title": "김장철 농축산물 수급 상황 ‘전반적으로 양호’ - 전업농신문",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0blhvcGxZalVtVXUwNVpHN3ZOYk40NG0xdm12REVhZEFjVnFIU3BjajJzaUI3dk9Bc1N1TTgxdXplSkZ4SHFNcE1KRG9zVVNyUkhPNkktaDhRNUNHanBUY1lQZTF2SmJ2MExv?oc=5",
-   "pub": "Fri, 23 Oct 2026 08:30:00 GMT",
-   "engine": "gnews",
-   "query": "수산대전",
-   "first_seen": "2026-10-23T21:07:47+09:00"
-  },
-  {
-   "title": "경남 청년어업인 굴·가리비, GS SHOP서 20% 할인 판매 - 뉴시스",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhZ2NodDJGdXpfeFhnUzdnX0VBZUVrc29GY1NGT1JOMTJVNHVhejJvNGZESzJkb0tMQ2hIY09HeUhRbElrN3ZtZ0p5OHphdzk1cmstcnBDa3l3dFkzanM5QtIBeEFVX3lxTE9WZ3hUUmpxWXhVeHA4SFp2X3BkQkstOFpRQ1JlWFlfWHdUazRqbjMydWo5VnlKY2FsVkROUlE5aEZmVmJDWF9RQ0Q2QTB3SmJPMVlOSDJ6NE8tWVkyeVJHY0xsbWpzS05uOWU5NmhKVVRXel9yUGFmdA?oc=5",
-   "pub": "Mon, 19 Oct 2026 06:34:35 GMT",
-   "engine": "gnews",
-   "query": "수산물 할인 쿠폰",
-   "first_seen": "2026-10-23T21:07:47+09:00"
-  },
-  {
-   "title": "마산가고파국화축제 연계 창원 시티투어버스 특별노선 운행 - 경남포스트",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4S0pHZ3czNUYzQXFaMGM0R0JZZjk4SE9nTHd6WE9QNjQ1ZHFSTkNiUVBaN090VXJGS1oySjZwWnZQbXlmTzZGMURHb3FMQzFF?oc=5",
-   "pub": "Fri, 23 Oct 2026 05:49:00 GMT",
-   "engine": "gnews",
-   "query": "전통시장 수산물 환급",
-   "first_seen": "2026-10-23T21:07:47+09:00"
   }
  ],
  "errors": []
