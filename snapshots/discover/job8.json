@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T04:15:33+09:00",
+ "updated": "2026-10-31T05:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "[제도] 코리아 그랜드 페스티벌, 할인별 신청 시점 놓치지 않는 법 - willawip.com",
@@ -8585,14 +8585,6 @@
    "engine": "naver_web",
    "query": "대전 세종 충남 전통시장 수산물 환급 일정",
    "first_seen": "2026-10-24T06:07:46+09:00"
-  },
-  {
-   "title": "어업인과 수산업계가 실제 체감할 수 있는 사업 내실 있게 추진 - 수산인신문",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXMW9KYUVvZ2poVVU5NnJfclZZVGxpaEhVb2VLODc0RHoxeWlocnVLMUVOUWRQRGZXNHBDSzdzaHFCakduUXJWX1BROXVPbHhveGpxNnhVbndGU0MtaE85WEx6UFhjYmFid1E?oc=5",
-   "pub": "Sun, 18 Oct 2026 07:00:00 GMT",
-   "engine": "gnews",
-   "query": "수산대전",
-   "first_seen": "2026-10-24T05:07:46+09:00"
   }
  ],
  "errors": []

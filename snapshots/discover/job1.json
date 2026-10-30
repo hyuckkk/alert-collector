@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T04:15:33+09:00",
+ "updated": "2026-10-31T05:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 25,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "이번 투어, 부산 말고 어느 지역을 도나 이번 조용필 & 위대한탄생 콘서트는 서울을 시작으로 부산, 대구, 대전, 광주, 인천 등으로 이어지는 전국 투어 형태로 진행된다. 서울 공연은 11월 27일부터... 같은 투어라도 지역마다 티켓 오픈 시점이 다를 수 있다. 관람 포인트와 소요시간, 가볼 땐 뭘 챙기나 공식 정보에 따르면 관람시간은 약 130분 안팎으",
@@ -21182,8 +21182,10 @@
   }
  ],
  "errors": [
-  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
  ]
 }
