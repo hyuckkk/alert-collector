@@ -43,6 +43,7 @@
 "https://www.daejeon.go.kr/okr2019/expRsvtList.do?menuSeq=8201&ntatcDelYn=Y&boardUseYn=N&menuUseYn=N#none",
 "javascript: pageViewTypeReLoad('image');",
 "javascript: pageViewTypeReLoad('text');",
+"javascript: moveToFcltInfoMngDetail('I100000',339,17243,38331,'001','002','','tab2');",
 "javascript: moveToFcltInfoMngDetail('I100000',298,17188,38115,'001','002','','tab2');",
 "javascript: moveToFcltInfoMngDetail('I100000',230,17184,38096,'001','002','','tab2');",
 "javascript: moveToFcltInfoMngDetail('I100000',230,17172,38048,'001','002','','tab2');",
@@ -52,7 +53,6 @@
 "javascript: moveToFcltInfoMngDetail('I100000',298,17134,37877,'001','002','','tab2');",
 "javascript: moveToFcltInfoMngDetail('I100000',184,17088,37808,'001','002','','tab2');",
 "javascript: moveToFcltInfoMngDetail('I100000',184,17085,37804,'001','002','','tab2');",
-"javascript: moveToFcltInfoMngDetail('I100000',184,17083,37801,'001','002','','tab2');",
 "https://www.daejeon.go.kr/okr2019/expRsvtList.do?menuSeq=8201&ntatcDelYn=Y&boardUseYn=N&menuUseYn=N#this",
 "https://www.daejeon.go.kr/okr2019/expRsvtList.do?menuSeq=8201&ntatcDelYn=Y&boardUseYn=N&menuUseYn=N#this",
 "https://www.daejeon.go.kr/okr2019/expRsvtList.do?menuSeq=8201&ntatcDelYn=Y&boardUseYn=N&menuUseYn=N#this",
@@ -87,5 +87,5 @@
 "onclick: 9 => fcltSearch(9); return false;",
 "onclick: 10 => fcltSearch(10); return false;",
 "onclick:  => fcltSearch(11); return false;",
-"onclick:  => fcltSearch(31); return false;"
+"onclick:  => fcltSearch(32); return false;"
 ]
