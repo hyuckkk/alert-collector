@@ -1,47 +1,57 @@
-[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[pyoungsong] rendered 840 chars same
-[djkids-musical] rendered 1618 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[kopis-daejeon-kids] rendered 30222 chars same
-[kwater-realtime-multidam] rendered 10542 chars CHANGED
-[ticketlink-kids-cat-daejeon] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
-[pyeongtaek-news-board] rendered 3135 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 4823 chars CHANGED
-[pyeongtaek-gosi] rendered 1655 chars CHANGED
-[hanbat-library-culture] rendered 2626 chars CHANGED
-[chuncheon-festival-news-465019] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view
+[fsale-onnuri] RENDER ERROR rendered but too little text (19 chars)
+[gcfct-schedule] rendered 372 chars CHANGED
+[mokwon-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 484 chars same
-[pyoungsong-event-sandmagic] rendered 480 chars same
-[pyoungsong-event-stonesoup] rendered 317 chars same
-[donghae-dhdmo-program] rendered 1804 chars CHANGED
-[daejeon-familycenter-programs] rendered 1280 chars CHANGED
-[daejeon-okr-edu] rendered 1496 chars same
-[daejeon-okr-hanbatlib] rendered 1654 chars same
-[science-edu-reservation] rendered 2234 chars CHANGED
-[sejong-notice] rendered 2437 chars CHANGED
-[sejong-notice-greenfamily] rendered 1799 chars CHANGED
-[sejong-notice-birdwatch] rendered 1339 chars CHANGED
-[yangyang-cafe-balloon-15331] rendered 5013 chars CHANGED
-[komsco-shop-medal] rendered 7360 chars CHANGED
-[komsco-shop-coin] rendered 6799 chars CHANGED
-[komsco-shop-bar] rendered 6839 chars CHANGED
-[komsco-shop-card] rendered 7330 chars CHANGED
-[andong-halftour] rendered 2548 chars CHANGED
-[aircanada-kr-kbcard] rendered 26478 chars CHANGED
-[aircanada-kr-moretotravel] rendered 3097 chars CHANGED
-[yes24-perf-60278] rendered 199 chars CHANGED
-[chuncheon-notice-announcement] rendered 3733 chars CHANGED
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[chuncheon-municipal-news] rendered 1718 chars CHANGED
-[sje-life-events] rendered 60411 chars CHANGED
-[nol-nutcracker-daejeon] rendered 5047 chars CHANGED
-[mara1080-goldrun-geumsan] rendered 4293 chars CHANGED
-[runningon-schedule-open] rendered 12264 chars CHANGED
-[djkids-notice] rendered 1025 chars CHANGED
-[dctf] RENDER ERROR rendered but too little text (15 chars)
-[woosongart-schedule] rendered 590 chars CHANGED
-[pyeongtaek-main] rendered 22491 chars CHANGED
+  - navigating to "https://www.mokwon.ac.kr/kr/html/sub03/030102.html", waiting until "domcontentloaded"
+
+[science-reservation] rendered 1165 chars CHANGED
+[khs-notice] rendered 309 chars same
+[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[expo-park] rendered 737 chars CHANGED
+[nol-upcoming-notice] rendered 16288 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 16324 chars CHANGED
+[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
+[ticketlink-notice-mobile] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://m.ticketlink.co.kr/help/notice']' timed out after 75 seconds
+[blog-tjrudska82-224434527430] rendered 4514 chars CHANGED
+[blog-dooglami-224434696671] rendered 4705 chars CHANGED
+[dsecc-programs-p2] rendered 1954 chars CHANGED
+[dsecc-programs-p3] rendered 1954 chars CHANGED
+[mommom-place-6a868bff] rendered 95 chars CHANGED
+[mommom-place-6a2b946b] rendered 84 chars CHANGED
+[mommom-place-6a2b94f5] rendered 84 chars CHANGED
+[mommom-place-6a2b9455] rendered 84 chars CHANGED
+[nol-product-phantom-40th] rendered 5577 chars CHANGED
+[daejeontour-bread-festival] rendered 1245 chars CHANGED
+[visitisland-main] rendered 1010 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1654 chars same
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[mommom-place-6a7d51b7] rendered 84 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3286 chars CHANGED
+[blog-dooglami-224433357728] rendered 5204 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-monthly] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-wp-event-api] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-tribe-events-api] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-list] RENDER ERROR rendered but too little text (19 chars)
+[mokwon-general-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.mokwon.ac.kr/kr/html/sub06/0601.html", waiting until "domcontentloaded"
+
+[templestay-main] rendered 2630 chars CHANGED
+[hwadong-main] rendered 9352 chars CHANGED
+[mokpo-harborfestival-main] rendered 8982 chars CHANGED
+[nol-product-26012487] rendered 1439 chars CHANGED
+[hanbat-library-media-friend] rendered 506 chars CHANGED
+[kopis-place-pyoungsong-small] rendered 10205 chars same
+[leis-ski-snowon] rendered 593 chars CHANGED
+[leis-ski-snowon-notices] rendered 1021 chars CHANGED
+[leis-ski-snowon-youth] rendered 766 chars CHANGED
+[leis-ski-muju-school] rendered 863 chars CHANGED
+[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
+[leis-spectator-archery] rendered 3173 chars CHANGED
+[leis-spectator-archery-current] rendered 8362 chars CHANGED
+[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
+
