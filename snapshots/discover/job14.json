@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-31T09:07:46+09:00",
+ "updated": "2026-10-31T10:07:49+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "에어프레미아, 전 노선 항공권 최대 72% 할인 - 뉴스투데이",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fZ3NKMHV6NWZTR0lWbGZzR2lSOTJfUmozWTJnekZQc0pPYTk3WU1tSURRMk1KOThveWlPZ1hXYklfeVNXME93b3ZTNl8xTVk4NERrT2JOTXl6SkJVelBwZnlWNVEyVTdfZUhmTG9HblFBaVNxNlY3Q09B?oc=5",
+   "pub": "Fri, 30 Oct 2026 10:00:00 GMT",
+   "engine": "gnews",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-10-31T10:07:49+09:00"
+  },
   {
    "title": "에어캐나다 항공편 특가 및 착한 운임 | 에어캐나다 - Air Canada",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1PclkxLW5LaWVqTF92S3NIeXdHX01QaVJvUXowbHVSRWtmZ2ttUzRFWWduelRVTXFtWUs1SGxpUGFmdmVJZmlr?oc=5",
