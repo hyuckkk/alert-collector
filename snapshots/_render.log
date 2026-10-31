@@ -1,50 +1,61 @@
-[oworld-notice] rendered 1780 chars same
-[baekje-schedule] rendered 1513 chars CHANGED
-[dsecc-programs] rendered 1954 chars CHANGED
-[seogu-exprn-list] rendered 1339 chars CHANGED
-[seogu-event-list] rendered 1339 chars CHANGED
-[seogu-edu-list] rendered 1345 chars CHANGED
-[daejeon-its-board] rendered 3362 chars CHANGED
-[zeropay-events] rendered 564 chars CHANGED
-[chuncheon-festival-news] rendered 884 chars CHANGED
-[chuncheon-festival-news-459539] rendered 801 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[geumriver-dam] rendered 4513 chars CHANGED
+[woosongart-schedule] rendered 590 chars CHANGED
+[pyeongtaek-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
+  - navigating to "https://www.pyeongtaek.go.kr/", waiting until "domcontentloaded"
 
-[melon-artist-songsohee] rendered 2042 chars CHANGED
-[interpark-artist-leejuck] rendered 10105 chars CHANGED
-[yctf-show] rendered 502 chars CHANGED
-[sejong-notice-science-concert] rendered 1017 chars CHANGED
-[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31583 chars CHANGED
-[hanbat-gongdong-science-form] rendered 622 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 7350 chars CHANGED
-[cnu-jsh-schedule-178] rendered 1604 chars CHANGED
-[dmzforest-main] rendered 6459 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[melon-christmas-carol-212575] rendered 1902 chars CHANGED
-[woorisb-tok7-product] rendered 2803 chars CHANGED
-[mommom-sandmagic-a] rendered 7758 chars CHANGED
-[mommom-sandmagic-b] rendered 84 chars CHANGED
-[sejong-notice-imnansu-play] rendered 869 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
-[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
-[ticketlink-notice-65862] rendered 317837 chars CHANGED
-[aircanada-kr-so-hub] rendered 2740 chars CHANGED
-[pyoungsong-tribe-events-api-p2] rendered 42842 chars same
-[kopis-pf297232] rendered 7859 chars same
-[dgdr-festival] rendered 203 chars CHANGED
-[yuseong-lib-lecture-12604] rendered 1523 chars CHANGED
-[yuseong-lib-lecture-list] rendered 2295 chars CHANGED
-[leis-ski-skiland-lessons] rendered 599 chars CHANGED
-[leis-ski-mentor-lessons] rendered 4778 chars same
-[leis-ski-jb-sports] rendered 1292 chars CHANGED
-[leis-ski-sejong-sports] rendered 829 chars CHANGED
-[pyoungsong] rendered 840 chars same
-[djkids-musical] rendered 1618 chars CHANGED
-[djkids-notice] rendered 1025 chars CHANGED
-[dctf] rendered 1469 chars same
-[ticketlink-notice] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/help/notice']' timed out after 75 seconds
+[kopis-daejeon-kids] rendered 30222 chars CHANGED
+[kwater-realtime-multidam] rendered 10508 chars CHANGED
+[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.ticketlink.co.kr/product/22471", waiting until "domcontentloaded"
+
+[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
+[pyeongtaek-news-board] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.pyeongtaek.go.kr/pyeongtaek/board/post/list.do?mid=0401010000&bcIdx=41", waiting until "domcontentloaded"
+
+[pyeongtaek-festival-alrimi] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.pyeongtaek.go.kr/alrimi/festival/list.do?mid=0101000000", waiting until "domcontentloaded"
+
+[pyeongtaek-gosi] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.pyeongtaek.go.kr/pyeongtaek/saeol/gosi/list.do?mid=0401020100", waiting until "domcontentloaded"
+
+[hanbat-library-culture] rendered 2626 chars CHANGED
+[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
+[pyoungsong-event-nunkkot] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-piglets] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-sandmagic] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-stonesoup] RENDER ERROR rendered but too little text (19 chars)
+[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[daejeon-familycenter-programs] rendered 1280 chars CHANGED
+[daejeon-okr-edu] rendered 1496 chars same
+[daejeon-okr-hanbatlib] rendered 1654 chars same
+[science-edu-reservation] rendered 2225 chars CHANGED
+[sejong-notice] rendered 2439 chars CHANGED
+[sejong-notice-greenfamily] rendered 1799 chars CHANGED
+[sejong-notice-birdwatch] rendered 1339 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 4885 chars CHANGED
+[komsco-shop-medal] rendered 7360 chars CHANGED
+[komsco-shop-coin] rendered 6799 chars CHANGED
+[komsco-shop-bar] rendered 6839 chars CHANGED
+[komsco-shop-card] rendered 7330 chars CHANGED
+[andong-halftour] rendered 2548 chars CHANGED
+[aircanada-kr-kbcard] rendered 26379 chars CHANGED
+[aircanada-kr-moretotravel] rendered 3097 chars CHANGED
+[ysfesta-main] rendered 152 chars CHANGED
+[khs-main] rendered 1728 chars same
+[khs-eventinfo] rendered 1144 chars CHANGED
+[kopis-pf302030] rendered 7840 chars same
+[blog-gotaekmusicfesta-224428285877] rendered 2924 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3651 chars CHANGED
+[vol-djv1365-main] rendered 5826 chars CHANGED
+[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
+[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
+[leis-cycling-kcf] rendered 2125 chars CHANGED
+[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
+
