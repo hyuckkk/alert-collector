@@ -227,8 +227,6 @@
 "#none",
 "javascript:jsGoodsDetail('100121341');",
 "javascript:jsGoodsDetail('100121341');",
-"javascript:onOrderRegister('100121341');",
-"javascript:onBasketRegister('100121341');",
 "#none",
 "javascript:jsGoodsDetail('100121342');",
 "javascript:jsGoodsDetail('100121342');",
@@ -398,5 +396,7 @@
 "javascript:jsGoodsDetail('100121368');",
 "javascript:jsGoodsDetail('100121368');",
 "javascript:onOrderRegister('100121368');",
-"javascript:onBasketRegister('100121368');"
+"javascript:onBasketRegister('100121368');",
+"#none",
+"javascript:jsGoodsDetail('100121401');"
 ]
