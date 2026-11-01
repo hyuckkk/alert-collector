@@ -1,8 +1,15 @@
 {
- "updated": "2026-11-01T10:09:48+09:00",
+ "updated": "2026-11-01T11:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 28,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "브로드웨이월드 집계에 따르면 지난 18일 기준 누적 입장권 매출은 ‘위대한 개츠비’ 약 1억4499만달러(약 1918억7000만원...극작가 게오르크 뷔히너의 희곡을 바탕으로 2014년 국내 초연한 뮤지컬 ‘보이첵’이 출발점이다. ‘네로’는 한국 제작사의 참여로 중단...",
+   "url": "http://v.daum.net/v/20261101110241278",
+   "engine": "daum_news",
+   "query": "타임월드 뮤지컬",
+   "first_seen": "2026-11-01T11:07:46+09:00"
+  },
   {
    "title": "환자와 가족을 뮤지컬 ‘조선 마법사관 진준’으로 초대합니다. 해당 공연은 11월 13일 오전 11시 국립중앙박물관 극장 용(서울 용산...모집합니다. 1인당 티켓 2매까지 받을 수 있습니다. 한국백혈병어린이재단 홈페이지 내 구글폼(l1nk.dev/v16nxi6)을 통해 신청...",
    "url": "http://v.daum.net/v/20261030090239237",
@@ -21108,18 +21115,13 @@
    "engine": "naver_blog",
    "query": "대전 인형극 예매",
    "first_seen": "2026-10-30T15:07:46+09:00"
-  },
-  {
-   "title": "블루마운틴&제놀란동굴 투어는 유네스코 세계문화유산인 산악 자연과 세계에서 가장 오래된 석회암 동굴을 함께 둘러보는 투어이다. 블루마운틴 Blue Mountains 블루마운틴 투어에서 만나는 궤도열차와 산책로는 과거 치열했던 카툼바 탄광의 흔적으로, 시닉 레일웨이는 과거 광부들이 석탄을 가득 싣고 절벽 위로 끌어 올리던 화물 궤도열차이다. 1920~30년대부",
-   "url": "https://blog.naver.com/ob_trip/224455466342",
-   "engine": "naver_blog",
-   "query": "대전 인형극 예매",
-   "first_seen": "2026-10-30T15:07:46+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
  ]
 }
