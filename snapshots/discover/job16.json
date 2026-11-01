@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T14:07:45+09:00",
+ "updated": "2026-11-01T15:07:49+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -3021,22 +3021,6 @@
    "engine": "gnews",
    "query": "세종 마라톤 대회 10km",
    "first_seen": "2026-10-25T15:30:50+09:00"
-  },
-  {
-   "title": "사천시자원봉사단체협의회, 다문화 가정 100세대에 밑반찬 전달하는 나눔 활동 진행~ - 진주인터넷뉴스",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ScWVhR3RVTkFjZlltMldrcHc1bE5Xd3Ruc2Z2ZFh3RThGVER6dktxNjhIWkduajhRcEVBTF9DcG1qTU5LX1hsaFNfeWhHT2FZbkhYQ3kzZlB3c0t1UGxiam5CcGtseDd4N0RUeTBNVm91TEMwWmFV?oc=5",
-   "pub": "Tue, 20 Oct 2026 07:00:00 GMT",
-   "engine": "gnews",
-   "query": "자전거 대회 2026 참가자 모집",
-   "first_seen": "2026-10-25T14:07:47+09:00"
-  },
-  {
-   "title": "무림파워텍(주), 진주시복지재단에 안마의자 6대 기탁 - 진주인터넷뉴스",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02NjM3WlVFSWwtU2ZDMVN6a0Z3TDQtMHBUUjc4Q1lKeGxHcVhTZ3k1RlNNamxiZkMyZDJ1NnVBcUJVQ3psTTRiY2htNnl4ZlQ5TDRHbGhEYVlxaUJmMHM4UnNmYjdpcGN5U0FTUlRYRkxCLUM1ZXIw?oc=5",
-   "pub": "Tue, 20 Oct 2026 07:00:00 GMT",
-   "engine": "gnews",
-   "query": "자전거 대회 2026 참가자 모집",
-   "first_seen": "2026-10-25T14:07:47+09:00"
   }
  ],
  "errors": []
