@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-01T16:07:46+09:00",
+ "updated": "2026-11-01T16:26:22+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 6,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "대전 서구의회, 어린이·청소년 대상 의회 견학 프로그램 운영 - 더시그널뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fUG5LQXk3ek45enZUeVU4cjFkblZDUmJrdklfT1JzRHNKaVd0ODRlaDI3Tlc3OGg0a2tQY0NzSC1NclVNZmlnTzJ2aw?oc=5",
+   "pub": "Wed, 28 Oct 2026 09:39:00 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-11-01T16:26:22+09:00"
+  },
   {
    "title": "대전 동구, 아빠와 자녀 50가정 참여 ‘파파데이’ 개최 - 타임뉴스",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwM2dXcDRCZXpJZ3Z2TmVwVnJvQzIxQURHcVAxcGM3TlR3QlEtVVBzd2d3cnlqNzIySGhjMFpFd1VCWXk4eGIxcGpJXzRjYUh5eGxKTg?oc=5",
