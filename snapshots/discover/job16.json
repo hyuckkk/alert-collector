@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T09:07:46+09:00",
+ "updated": "2026-11-01T10:02:03+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 5,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "대전소방, 어린이 불조심 포스터 공모전 - 대전광역시청",
@@ -3021,14 +3021,6 @@
    "engine": "gnews",
    "query": "달리기 대회 세종 가족 접수",
    "first_seen": "2026-10-25T13:07:48+09:00"
-  },
-  {
-   "title": "진주시, ‘제37회 경남 생활체전’ 최종보고회 개최 - www.jinju.news",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wRGNoSGxHaXl0S2dMZlVlUFBnbjNReWx5aV9FblBzUEpmSVFpN1U2cThtYkZZQkRuVEtWQ1NGN3ZCVzBkYTdPWUs2RXBOTV9obk5fa2U4S3ZJU0pHdEZIbkNYY1dXdjN4VzNJRk9Sa3ZRdUY0Snc?oc=5",
-   "pub": "Tue, 20 Oct 2026 08:00:05 GMT",
-   "engine": "gnews",
-   "query": "자전거 대회 2026 참가자 모집",
-   "first_seen": "2026-10-25T09:07:48+09:00"
   }
  ],
  "errors": []
