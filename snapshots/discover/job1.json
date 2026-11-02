@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-02T22:07:47+09:00",
+ "updated": "2026-11-02T23:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 1,
  "hits": [
+  {
+   "title": "뮤지컬 ‘레베카’ 9계단 올라 주말 1위…엑소 콘서트 4위 [10월 30일~11월 1일 주말 공연 예매순위] - ER 이코노믹리뷰",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zbEJpZTQyUTRRWUJ0MTYwenR2N2d6MENlR1lQYVlFZmNFM2NKbWhDQUwtTVNsS2wtZnZyQmVEb1ZBYzI2RUYzb1pRenp4bzRMWWlqVlNHb2NEVVNmWG1IRE1aUzdxNmRubmxucw?oc=5",
+   "pub": "Mon, 02 Nov 2026 01:19:59 GMT",
+   "engine": "gnews",
+   "query": "유니버설발레단 호두까기인형 대전",
+   "first_seen": "2026-11-02T23:07:48+09:00"
+  },
   {
    "title": "남양주문화재단, ‘우리동네 문화나들이’ 찾아가는 공연 개최 - 한국소통투데이",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjY09NZ1NoSkJvR2lQdjFVUzNGLTJSMDV5TnFpYnA5UUZNWnVaaWlIZWVLZUl3V2FyLUExWGdJRzNxWHBXNl93UVZTZTRvaUc0bVpxS2o4SGktd0E?oc=5",
@@ -21126,18 +21134,13 @@
    "engine": "naver_blog",
    "query": "대전어린이회관 공연",
    "first_seen": "2026-10-31T14:38:05+09:00"
-  },
-  {
-   "title": "유치원·어린이·경로 3,000원입니다. 함평군민과 만 4세 미만 영유아 등 무료입장 대상도 별도로 안내돼 있어요. 11월 8일에 종료되므로 꽃구경을 계획한다면 방문 날짜부터 정해두세요. 대한민국 국향대전 공식 안내 2. 제주올레걷기축제｜제주를 천천히 걷는 여행 기간: 11월 5일~7일 장소: 제주올레 19·20코스 올레길을 걸으며 공연과 전통문화 체험, 마",
-   "url": "https://blog.naver.com/05_01_/224460004670",
-   "engine": "naver_blog",
-   "query": "대전어린이회관 공연",
-   "first_seen": "2026-10-31T14:38:05+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
  ]
 }
