@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-03T06:07:45+09:00",
+ "updated": "2026-11-03T07:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 17,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "파킨슨 환우와 시민·대학생 참여한 의료뮤지컬 '파칸토' 성료 - 중도일보",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPdXBDUHkwUmkyZ3NVSTJ6RlpQdEtwbXNrM1hSNldzQXBSTlZsaTZNQVd3cGxyRFFaMGdMT2hFUGg3YWI4S1V5eGo3eGNqaVFtdktLUnhEMEpQUG1qQXp1SXpMcUo?oc=5",
+   "pub": "Sat, 31 Oct 2026 04:57:42 GMT",
+   "engine": "gnews",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-11-03T07:07:46+09:00"
+  },
   {
    "title": "어린이 뮤지컬 <렛잇고> - 대전 공연기간 : 2026.08.29(토) 단하루 관람 가능 연령 24개월이상 공연시간 : 11시, 14시, 16시(3타임) 러닝타임 : 70분 장소 : 대전 평송 청소년문화센터 어울림홀 ㅡㅡㅡㅡㅡㅡㅡㅡ초대 일정ㅡㅡㅡㅡㅡㅡㅡㅡㅡ 8월 29일(토) 11시, 14시, 16시 원하는 시간 신청 가능 / 1인 4매까지 제공 ㅡㅡㅡㅡㅡㅡ",
    "url": "https://cafe.naver.com/gotogether0508/376213?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvdG9nZXRoZXIwNTA4IiwiYXJ0aWNsZUlkIjozNzYyMTMsImlzc3VlZEF0IjoxNzkzNjUzNjc2NjAwfQ.-o03RhWq3vZUFIu_sYAIosIkZvydJMlK4sdpegONXtI",
@@ -21128,19 +21136,11 @@
    "engine": "naver_all",
    "query": "대전 캐릭터 공연",
    "first_seen": "2026-10-31T14:38:05+09:00"
-  },
-  {
-   "title": "대전시는 16일부터 18일까지 3일간 대전컨벤션센터(DCC) 제2전시장에서 ‘2026 대전콘텐츠페어’를 개최한다.대전시가 주최하고 대전관광공사와 대전정보문화산업진흥원이 주관하는 이번 행사는 공공캐릭터, 기능성게임, 서브컬처를 중심으로 다양한 전시·체험·공연과 비즈니스 프로그램을 선보인다.올해는 149개 기업·기관이 298개 부스로 참여해 지난해(96개...",
-   "url": "https://www.pwnews.co.kr/news/articleView.html?idxno=108176",
-   "engine": "naver_all",
-   "query": "대전 캐릭터 공연",
-   "first_seen": "2026-10-31T14:38:05+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
