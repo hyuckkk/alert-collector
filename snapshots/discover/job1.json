@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-03T01:07:51+09:00",
+ "updated": "2026-11-03T02:07:57+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 2,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "온 가족이 함께한 AI·미디어 체험과 할로윈 파티 ‘2026 화성시 미디어 페스티벌’ 1만 관람객 호응 - 미디어투데이",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wbl9BdW54QnJza1lnMm02ZndVd1kzQTNMTnZ5a3VIYnZmVnA1YWIyeFJ4Z1NkYWtTOVZDMzJWOGVZWDFnMGJxOU53?oc=5",
+   "pub": "Mon, 02 Nov 2026 09:29:00 GMT",
+   "engine": "gnews",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-11-03T02:07:57+09:00"
+  },
   {
    "title": "건축대전'은 4~8일 울산문화예술회관 제1~3전시장에서 진행된다. 심사위원장 특강 등 다양한 프로그램을 통해 건축문화에 대한 시민들...향토문화 계승발전을 위한 '민속예술경연대회 및 향토문화공연'이 펼쳐진다. 울산의 전통 민속예술을 보존하고 지역 고유의...",
    "url": "http://v.daum.net/v/20261103004547939",
@@ -21130,18 +21138,13 @@
    "engine": "naver_blog",
    "query": "대전어린이회관 공연",
    "first_seen": "2026-10-31T14:38:05+09:00"
-  },
-  {
-   "title": "11/6~15 전시 소제동 상상바캉스 관사16호 외 11/10 공연 아침을 여는 클래식 대전예술의전당 11/14 공연 윤종신 콘서트 우송예술회관 ~11/15 전시 은유의 시학 DTC아트센터 11/20 공연 국악 오페라 《버섯전》 연정국악원 11/21~22 공연 가족뮤지컬 《인싸가족》 우송예술회관 11/27~28 공연 대전시립무용단 《Re 11 이중의 울림》",
-   "url": "https://blog.naver.com/whitepapi/224460032350",
-   "engine": "naver_blog",
-   "query": "대전어린이회관 공연",
-   "first_seen": "2026-10-31T14:38:05+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
  ]
 }
