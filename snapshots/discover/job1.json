@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-03T08:07:49+09:00",
+ "updated": "2026-11-03T08:27:16+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "대전시향, 라흐마니노프 교향곡 제2번으로 깊어가는 가을 수놓는다 - 충청뉴스큐",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QX3cwLWJyZWhmUTFRYndlYUNIeTFRU1pyczBJb29SOHc1TjM2aERvMkZ2UFBzbHU0MGxfMWktbVZ5ZWpfcTdRYjdMQ191VFJVSGlSTkVhcm5WQlVocGc?oc=5",
+   "pub": "Mon, 02 Nov 2026 21:50:00 GMT",
+   "engine": "gnews",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-11-03T08:27:16+09:00"
+  },
   {
    "title": "파킨슨 환우와 시민·대학생 참여한 의료뮤지컬 '파칸토' 성료 - 중도일보",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPdXBDUHkwUmkyZ3NVSTJ6RlpQdEtwbXNrM1hSNldzQXBSTlZsaTZNQVd3cGxyRFFaMGdMT2hFUGg3YWI4S1V5eGo3eGNqaVFtdktLUnhEMEpQUG1qQXp1SXpMcUo?oc=5",
@@ -21129,20 +21137,12 @@
    "engine": "naver_all",
    "query": "대전 캐릭터 공연",
    "first_seen": "2026-10-31T14:38:05+09:00"
-  },
-  {
-   "title": "캐릭터를 만나고 게임을 즐긴 뒤 빵 향기 가득한 야외 축제로 발걸음을 옮기는 가을 주말이 대전에 펼쳐진다. 실내 전시장과 엑스포과학공원을 잇는 동선에 콘텐츠와 먹거리, 놀이가 함께 채워질 전망이다.대전관광공사는 16~18일 사흘간 대전컨벤션센터 제2전시장에서 '2026 대전콘텐츠페어'를 연다. 대전시가 주최하고 대전관광공사가 주관하는 복합 콘텐츠 축제...",
-   "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2444950",
-   "engine": "naver_all",
-   "query": "대전 캐릭터 공연",
-   "first_seen": "2026-10-31T14:38:05+09:00"
   }
  ],
  "errors": [
   "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
   "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
   "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
  ]
 }
