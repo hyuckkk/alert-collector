@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-02T21:07:48+09:00",
+ "updated": "2026-11-02T22:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 2,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "남양주문화재단, ‘우리동네 문화나들이’ 찾아가는 공연 개최 - 한국소통투데이",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjY09NZ1NoSkJvR2lQdjFVUzNGLTJSMDV5TnFpYnA5UUZNWnVaaWlIZWVLZUl3V2FyLUExWGdJRzNxWHBXNl93UVZTZTRvaUc0bVpxS2o4SGktd0E?oc=5",
+   "pub": "Mon, 02 Nov 2026 06:11:20 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 공연 문화센터 도서관",
+   "first_seen": "2026-11-02T22:07:47+09:00"
+  },
   {
    "title": "\"어린이 참여형 생활안전 뮤지컬\" 성남시, “12월 어린이 안전 뮤지컬 공연 관람 신청하세요” - 뉴스21 통신",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KQ2dOV080clJwbGlHaWVBaHpQY1VyRlRXdTdnQW1GRVVtbDlYdjdpaGJTN2RWT1BWT09KRE1aS2lrNUJXNWpCWlNIZ2Z2OEpCa19Ib013?oc=5",
@@ -21125,20 +21133,11 @@
    "engine": "naver_blog",
    "query": "대전어린이회관 공연",
    "first_seen": "2026-10-31T14:38:05+09:00"
-  },
-  {
-   "title": "드론과 로봇을 직접 체험하고, 실제 군용 장비를 가까이에서 관람하며, 장갑차 탑승과 군 공연까지 즐길 수 있는 민... 임시주차장 안내 ① 백석생활체육공원 ② 양주문화예술회관 위 두 곳에 주차한 뒤 행사장으로 이동하는 무료... 모자 ✔ 어린이용 귀마개 또는 귀 보호구 ✔ 작은 돗자리(반입 및 사용 가능 여부 확인) 특히 헬기 축하비행과 군 장비 시범...",
-   "url": "https://blog.naver.com/tnitani/224460003569",
-   "engine": "naver_blog",
-   "query": "대전어린이회관 공연",
-   "first_seen": "2026-10-31T14:38:05+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
