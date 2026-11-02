@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-03T03:07:47+09:00",
+ "updated": "2026-11-03T04:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "드론으로 산불 예찰 - 세종시민일보",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oUnk0NTllUE5CWk5nQl8yRWhZNkg4QmRmOU9aTWJVSDduQURyekpreGRlblBoMGMwbjAya0I5aExxQ19MMjJNSVpPdHVCemJRR1NNd2JLekdmLXJPYTlBaEVCZDViS29NTUNqaGtvVzFwUzg?oc=5",
+   "pub": "Fri, 30 Oct 2026 07:00:00 GMT",
+   "engine": "gnews",
+   "query": "세종 불꽃",
+   "first_seen": "2026-11-03T04:07:48+09:00"
+  },
   {
    "title": "한우·한돈에 셰프 요리까지…홍성 바비큐축제 11월 1일 폐막 - 축제뉴스",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xZVhMbGxtdHZUamo4T3ZtdnM1dDZfdkozclIzZ1dWMzF1ZkU2XzRQX3RJVDloNHprVV9McXJxajNWWmdGRjFWYUxtajQxWkpPdzk1VnB5cXNVank4amEycEw1T3RsR0R6V0E?oc=5",
