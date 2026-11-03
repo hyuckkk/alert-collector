@@ -1,44 +1,55 @@
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 484 chars same
-[pyoungsong-event-sandmagic] rendered 498 chars same
-[pyoungsong-event-stonesoup] rendered 335 chars same
-[donghae-dhdmo-program] rendered 1804 chars CHANGED
-[interpark-artist-leejuck] rendered 10105 chars CHANGED
-[yctf-show] rendered 502 chars CHANGED
-[sejong-notice-science-concert] rendered 1017 chars CHANGED
-[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31827 chars CHANGED
-[hanbat-gongdong-science-form] rendered 622 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 9155 chars CHANGED
-[cnu-jsh-schedule-178] rendered 5942 chars CHANGED
-[dmzforest-main] rendered 6477 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[kfe-main] rendered 3615 chars CHANGED
-[mommom-place-6a2b94f5] rendered 95 chars CHANGED
-[ticketlink-notice-65862] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/help/notice/65862']' timed out after 75 seconds
-[pyoungsong-event-rudolph] rendered 424 chars same
-[pyoungsong-event-snowwhite] rendered 414 chars same
-[khs-main] rendered 1728 chars CHANGED
-[seogu-yeyak] rendered 3012 chars CHANGED
-[djkids-musical] rendered 1618 chars CHANGED
-[pyeongtaek-main] rendered 15300 chars CHANGED
-[kopis-daejeon-kids] rendered 30657 chars CHANGED
-[kwater-realtime-multidam] rendered 10544 chars CHANGED
-[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[blog-namuac21-224427113169] rendered 4770 chars CHANGED
+[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[taean-halftour-apply] rendered 3078 chars CHANGED
+[seocheon-halftour-apply] rendered 1324 chars CHANGED
+[komsco-shop-cate2284] rendered 6776 chars CHANGED
+[mcst-culture-71983] rendered 1181 chars CHANGED
+[aircanada-korea] rendered 22910 chars CHANGED
+[aircanada-kr-so-hub] rendered 2866 chars CHANGED
+[aircanada-kr-kbcard] rendered 27066 chars CHANGED
+[aircanada-kr-moretotravel] rendered 3223 chars CHANGED
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[ticketlink-product-65585] rendered 230209 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
+[pyoungsong-tribe-events-api-p2] rendered 42842 chars same
+[ysfesta-main] rendered 152 chars CHANGED
+[khs-eventinfo] rendered 1144 chars CHANGED
+[kopis-pf302030] rendered 7840 chars same
+[blog-gotaekmusicfesta-224428285877] rendered 2921 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3648 chars CHANGED
+[vol-djv1365-main] rendered 9962 chars CHANGED
+[gongjeon-kids] rendered 548 chars CHANGED
+[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
+[komsco-shop-medal] rendered 7342 chars CHANGED
+[komsco-shop-coin] rendered 6751 chars CHANGED
+[komsco-shop-bar] rendered 6898 chars CHANGED
+[komsco-shop-card] rendered 7413 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
+[cnu-jsh-schedule] rendered 1431 chars same
+[bok-commemorative-coin-news] rendered 715 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 5966 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
+[nol-notice-10111] rendered 15918 chars CHANGED
+[naver-entertain-018-0006379428] rendered 43961 chars CHANGED
+[melon-artist-songsohee] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/artist/index.htm?artistId=672059
 Call log:
-  - navigating to "https://www.ticketlink.co.kr/product/22471", waiting until "domcontentloaded"
+  - navigating to "https://ticket.melon.com/artist/index.htm?artistId=672059", waiting until "domcontentloaded"
 
-[daejeon-familycenter-programs] rendered 1280 chars CHANGED
-[daejeon-okr-edu] rendered 1493 chars same
-[daejeon-okr-hanbatlib] rendered 1646 chars CHANGED
-[science-edu-reservation] rendered 2225 chars CHANGED
-[sejong-notice] rendered 2383 chars CHANGED
-[sejong-notice-greenfamily] rendered 1799 chars CHANGED
-[sejong-notice-birdwatch] rendered 1339 chars CHANGED
-[yangyang-cafe-balloon-15331] rendered 4857 chars CHANGED
-[mommom-sandmagic-a] rendered 84 chars CHANGED
-[mommom-sandmagic-b] rendered 84 chars CHANGED
-[sejong-notice-imnansu-play] rendered 869 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
+Call log:
+  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
+
+[woorisb-tok7-product] rendered 2807 chars CHANGED
+[andong-halftour] rendered 2548 chars CHANGED
+[yes24-perf-60278] rendered 199 chars CHANGED
+[chuncheon-notice-announcement] rendered 3494 chars CHANGED
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1718 chars CHANGED
+[mokwon-general-notice] rendered 1586 chars CHANGED
+[templestay-main] rendered 2630 chars CHANGED
+[hwadong-main] rendered 11176 chars CHANGED
+[mokpo-harborfestival-main] rendered 8982 chars CHANGED
+[nol-product-26012487] rendered 1439 chars CHANGED
