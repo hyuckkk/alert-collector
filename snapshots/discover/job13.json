@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:00:51+09:00",
+ "updated": "2026-11-04T00:08:37+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -2419,14 +2419,6 @@
    "engine": "gnews",
    "query": "특판 적금 고금리",
    "first_seen": "2026-10-28T01:07:51+09:00"
-  },
-  {
-   "title": "\"주식보다 이게 낫다고?\" JP모건이 콕 찍은 '연 8% 수익' 자산 대체 뭐길래 - 나남뉴스",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VczR4TVdKZVJOTkEyc25NbUVuWWJMQkp5WFlVd1Z4Y0hZMi1mSHhtTDkyNk5rQ1FHLWRkNVBGWXdTM0I1Z2ZqU1BtN3V5OWpHZ1FFckZ4M3dpYzBUb0lxdnpkWF9kV0VtLXlyYg?oc=5",
-   "pub": "Tue, 27 Oct 2026 12:26:44 GMT",
-   "engine": "gnews",
-   "query": "특판 적금 고금리",
-   "first_seen": "2026-10-28T00:07:47+09:00"
   }
  ],
  "errors": []

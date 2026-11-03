@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T00:00:51+09:00",
+ "updated": "2026-11-04T00:08:37+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 4,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "어린이 뮤지컬 <렛잇고> - 대전 공연기간 : 2026.08.29(토) 단하루 관람 가능 연령 24개월이상 공연시간 : 11시, 14시, 16시(3타임) 러닝타임 : 70분 장소 : 대전 평송 청소년문화센터 어울림홀 ㅡㅡㅡㅡㅡㅡㅡㅡ초대 일정ㅡㅡㅡㅡㅡㅡㅡㅡㅡ 8월 29일(토) 11시, 14시, 16시 원하는 시간 신청 가능 / 1인 4매까지 제공 ㅡㅡㅡㅡㅡㅡ",
@@ -21182,6 +21182,7 @@
   "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
   "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
   "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }
