@@ -1,8 +1,24 @@
 {
- "updated": "2026-11-03T08:27:16+09:00",
+ "updated": "2026-11-03T09:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "대전시향, 가을은 라흐마니노프와 함께 - www.mediatoday.asia",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSElRS2tER2psWXByRzlUY2Rlb0s3RU5SM1MyOV9oSHJ3UzNNaXRUVk8tcWgxQ050TTZGS21TTGFWOGx5a0JHdEsyQ1JnbXVVcFZESWVMQnBMQl8xbEZWWGdpOEFkMnFZcERqd1hXZWthV1ZoM2FNZnllYTlYVnR3Z3BoQUhFNU1pdm9KMTRYc2hPUVpPWFZuc3RIdUhUVEF2UWk1Xw?oc=5",
+   "pub": "Mon, 02 Nov 2026 21:37:00 GMT",
+   "engine": "gnews",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-11-03T09:07:46+09:00"
+  },
+  {
+   "title": "좌절 딛고 탄생한 명곡…대전시향 가을무대 - 충청일보",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nSkxLMUZHRUt2WGJSMGh5V2FHczhHV3d2SEZmTzVTRFdCeU9tQU9zX3o5YWJtRGdaWjhIUWREamY5UUVPWnJITHlRMnVzWUJTaVdEdmRkWFc1SzJ5d2pCODRNanQ3TTF5dktwM3dFQy0?oc=5",
+   "pub": "Mon, 02 Nov 2026 23:26:59 GMT",
+   "engine": "gnews",
+   "query": "대전예술의전당 가족",
+   "first_seen": "2026-11-03T09:07:46+09:00"
+  },
   {
    "title": "대전시향, 라흐마니노프 교향곡 제2번으로 깊어가는 가을 수놓는다 - 충청뉴스큐",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QX3cwLWJyZWhmUTFRYndlYUNIeTFRU1pyczBJb29SOHc1TjM2aERvMkZ2UFBzbHU0MGxfMWktbVZ5ZWpfcTdRYjdMQ191VFJVSGlSTkVhcm5WQlVocGc?oc=5",
@@ -21123,26 +21139,13 @@
    "engine": "naver_all",
    "query": "대전 캐릭터 공연",
    "first_seen": "2026-10-31T14:38:05+09:00"
-  },
-  {
-   "title": "DCC 제2전시장서 18일까지 개최… 149개 기업·298개 부스 역대 최대 빵축제·PMPS 결승전과 동선 연계… 관람객 1만 2000명 방문 기대 [로컬투데이=이지윤 기자]대전시가 단순히 보고 즐기는 일회성 행사를 넘어 지역 콘텐츠 산업의 체질을 바꾸고 관광·경제적 파급 효과를 극대화하는 '융복합 콘텐츠 전략'에 본격 시동을 걸었다. 16일 대전컨벤션센터",
-   "url": "https://www.localtoday.co.kr/news/articleView.html?idxno=416296",
-   "engine": "naver_all",
-   "query": "대전 캐릭터 공연",
-   "first_seen": "2026-10-31T14:38:05+09:00"
-  },
-  {
-   "title": "서밋’과 캐릭터 IP 컨설팅, 비즈니스 매칭도 마련된다. 17일에는 코스튬 퍼레이드와 코스플레이어 팬사인회, 전국 24개 팀의 코스프레 런웨이가 열린다. 18일에는 애니 가요제와 DJ 공연이 이어진다. 행사 기간 이타샤 차량 전시와 가족 체험 프로그램도 운영한다. 시는 17~18일 DCC 인근 물빛광장에서 열리는 대전 빵축제와 관람 동선을 연결한다.... ",
-   "url": "https://www.newstnt.com/news/articleView.html?idxno=723353",
-   "engine": "naver_all",
-   "query": "대전 캐릭터 공연",
-   "first_seen": "2026-10-31T14:38:05+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }
