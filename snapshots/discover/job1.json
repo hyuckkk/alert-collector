@@ -1,8 +1,15 @@
 {
- "updated": "2026-11-03T14:17:58+09:00",
+ "updated": "2026-11-03T15:07:45+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 2,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "반영될 수 있도록 함께하겠다는 뜻을 전했다. 시는 앞으로도 중앙행정기관 이전과 관련한 정부의 정책 추진 과정을 주시하며 지역의...과학관서 복합재난 대응훈련 실시 과천시는 지난 2일 국립과천과학관 중앙홀에서 화재와 인파사고, 시설물 붕괴 등 복합재난에...",
+   "url": "http://v.daum.net/v/20261103145630706",
+   "engine": "daum_news",
+   "query": "국립중앙과학관 공연",
+   "first_seen": "2026-11-03T15:07:45+09:00"
+  },
   {
    "title": "이들은 중앙시장 곳곳을 누비며, 상인들로부터 프렌즈 캐릭터, 명소, 특산물 등 천안 관련 퀴즈를 풀어내는 미션을 해결해 나갔다...진행하기도 했다. 저녁 시간 캠핑 분위기에 어울리는 음악공연과 천문해설사 주도하에 별자리 관측이 이어졌다. 참가자들이 즐거움...",
    "url": "http://v.daum.net/v/20261103140353186",
@@ -21147,20 +21154,13 @@
    "engine": "naver_cafe",
    "query": "대전 캐릭터 공연",
    "first_seen": "2026-10-31T14:38:05+09:00"
-  },
-  {
-   "title": "이외에도 마치 수만 마리의 반딧불이 내려앉은 듯한 착각을 불러일으키는 반딧불 조명길, 송파구 캐릭터 ‘하하호호’의 귀여운 모습을 생동감 있게 담은 미디어아트도 많은 관람객들이 즐겼습니다. 루미나리에 축제는 개막식과 축하공연을 시작으로 개막 첫 주말 동안 마술쇼, 버블쇼, 버스킹 등 다양한 문화공연과 체험, 플리마켓, 푸드트럭 등을 운영합니다. 두 계절을 품",
-   "url": "https://cafe.naver.com/daejeonsensemom/46689?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRhZWplb25zZW5zZW1vbSIsImFydGljbGVJZCI6NDY2ODksImlzc3VlZEF0IjoxNzkzNDI1MTA4ODA5fQ.XgAQHazYIn7HFvN1dc24MmdQAWKeO-64hLHirZBSZX4&q=%eb%8c%80%ec%a0%84%20%ec%ba%90%eb%a6%ad%ed%84%b0%20%ea%b3%b5%ec%97%b0&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 캐릭터 공연",
-   "first_seen": "2026-10-31T14:38:05+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }
