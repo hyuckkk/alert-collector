@@ -1,8 +1,24 @@
 {
- "updated": "2026-11-04T02:07:49+09:00",
+ "updated": "2026-11-04T03:07:55+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "대전어린이연극축제 10주년, 동심과 상상력이 꽃피는 특별한 무대 열린다 - 굿모닝충청",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44Y2Z1bVpLSjZjZXVzUWF2X05icXBMRE9oRFVEUmhEMXJwMk02dG1hUG1fVVlwLXA5bjBlZFh2UWxacDhzWVdBUGM3aWZTWFpCNmRScUhxTUwxNnQta3R4LUxhVE9fQzdPT095UTVYOFZFQQ?oc=5",
+   "pub": "Tue, 03 Nov 2026 17:41:11 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 뮤지컬",
+   "first_seen": "2026-11-04T03:07:55+09:00"
+  },
+  {
+   "title": "대전일자리경제진흥원, 문창시장에서 열린 첫 ‘문창 떡 축제’ 성료 - 아시아뉴스통신",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jdGZzb3k5UzIxV2hTdkpQTmxmeUI5TnVFOTZVUEpoV3JZVFU5cDBLcktQeS1HYWJTWGlfcE1Rd01NeGVuUTNpSmctUmVmVi1KMGFUY3piY0c1dEM2Qlc0Z2MxaHJlbURRVWR6UGhySEtaMUVv?oc=5",
+   "pub": "Mon, 02 Nov 2026 10:33:37 GMT",
+   "engine": "gnews",
+   "query": "대전 마술쇼 가족",
+   "first_seen": "2026-11-04T03:07:55+09:00"
+  },
   {
    "title": "동대문구, 중랑천서 카약·SUP 대회…수상스포츠 페스타 성료 - 파이낸셜경제",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83eUZlQU1kMEF6Zk81c0w4VHVDajMtT3ROTURUSkR4UFE1R0ZjZFZPVEFtZG1DdHBQLURBdkllaFlFczc1NE1vOGFYZDJYM2Y4T1k2UHpCVTlXRkdiTGc5UlNKSVZKRVhaUU1PNk5SbFk?oc=5",
@@ -21165,27 +21181,13 @@
    "engine": "naver_blog",
    "query": "대전 캐릭터 공연",
    "first_seen": "2026-10-31T14:38:05+09:00"
-  },
-  {
-   "title": "5살 아이에게는 좋아하는 캐릭터 공연을 보고 하늘에서 펼쳐지는 비행 공연까지 관람하는 특별한 하루가 될 수 있겠어요. 다만 블랙이글스 에어쇼는 전투기 소음이 상당히 클 수... 5살 아이와는 무리한 등산보다 입구와 대전사 주변의 짧은 산책을 추천해요. 주산지 물속에 자라는 왕버들과 고요한 호수 풍경이 아름다운 곳이에요. 아이와 자연을 관찰하거나... 새 창",
-   "url": "https://blog.naver.com/adias2/224459924482",
-   "engine": "naver_blog",
-   "query": "대전 캐릭터 공연",
-   "first_seen": "2026-10-31T14:38:05+09:00"
-  },
-  {
-   "title": "서울부터 경기, 인천, 부산, 대구, 대전, 강원도까지 지역별 추천 장소와 실제 운영되는 주요 행사를 정리했습니다. ※ 아래 장소는 공식 축제 일정이 확인된 곳과 할로윈 분위기를... 좀비와 공포 캐릭터가 등장하는 공연부터 테마 구역 탐험까지 다양한 방식으로 할로윈 분위기를 느낄 수 있습니다. ✅ 2026년 행사 정보 운영 기간 : 9월 12일~11월 22",
-   "url": "https://blog.naver.com/hitnews89/224459553182",
-   "engine": "naver_blog",
-   "query": "대전 캐릭터 공연",
-   "first_seen": "2026-10-31T14:38:05+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }
