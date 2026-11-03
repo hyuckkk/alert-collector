@@ -212,7 +212,7 @@
    "selection": "선착순",
    "event_period": "2026-11-14 ~ 2026-11-14",
    "apply_period": "2026-11-03 13:00 ~ 2026-11-13 23:40",
-   "capacity": "0/6",
+   "capacity": "4/6",
    "waiting": "대기 0/1",
    "status": "접수중"
   },
@@ -224,7 +224,7 @@
    "selection": "선착순",
    "event_period": "2026-11-21 ~ 2026-11-21",
    "apply_period": "2026-10-28 17:00 ~ 2026-11-20 16:53",
-   "capacity": "2/7",
+   "capacity": "4/7",
    "waiting": "대기 0/1",
    "status": "접수중"
   },
@@ -236,7 +236,7 @@
    "selection": "선착순",
    "event_period": "2026-11-14 ~ 2026-11-14",
    "apply_period": "2026-10-28 17:00 ~ 2026-11-13 23:50",
-   "capacity": "0/8",
+   "capacity": "4/8",
    "waiting": "대기 0/2",
    "status": "접수중"
   },
@@ -260,7 +260,7 @@
    "selection": "선착순",
    "event_period": "2026-11-14 ~ 2026-11-14",
    "apply_period": "2026-11-03 13:00 ~ 2026-11-13 23:40",
-   "capacity": "0/6",
+   "capacity": "4/6",
    "waiting": "대기 0/1",
    "status": "접수중"
   },
@@ -272,7 +272,7 @@
    "selection": "선착순",
    "event_period": "2026-11-21 ~ 2026-11-21",
    "apply_period": "2026-10-28 17:00 ~ 2026-11-20 16:53",
-   "capacity": "2/7",
+   "capacity": "4/7",
    "waiting": "대기 0/1",
    "status": "접수중"
   },
@@ -284,7 +284,7 @@
    "selection": "선착순",
    "event_period": "2026-11-14 ~ 2026-11-14",
    "apply_period": "2026-10-28 17:00 ~ 2026-11-13 23:50",
-   "capacity": "0/8",
+   "capacity": "4/8",
    "waiting": "대기 0/2",
    "status": "접수중"
   },
@@ -308,7 +308,7 @@
    "selection": "선착순",
    "event_period": "2026-11-14 ~ 2026-11-14",
    "apply_period": "2026-11-03 13:00 ~ 2026-11-13 23:40",
-   "capacity": "0/6",
+   "capacity": "4/6",
    "waiting": "대기 0/1",
    "status": "접수중"
   },
@@ -320,7 +320,7 @@
    "selection": "선착순",
    "event_period": "2026-11-21 ~ 2026-11-21",
    "apply_period": "2026-10-28 17:00 ~ 2026-11-20 16:53",
-   "capacity": "2/7",
+   "capacity": "4/7",
    "waiting": "대기 0/1",
    "status": "접수중"
   },
@@ -332,7 +332,7 @@
    "selection": "선착순",
    "event_period": "2026-11-14 ~ 2026-11-14",
    "apply_period": "2026-10-28 17:00 ~ 2026-11-13 23:50",
-   "capacity": "0/8",
+   "capacity": "4/8",
    "waiting": "대기 0/2",
    "status": "접수중"
   },
@@ -387,6 +387,20 @@
    ],
    "target": "관내 어린이집, 유치원, 지역아동센터 등 어린이보육기관",
    "status": "접수중",
+   "apply_period": "2026. 10. 13. ~ 2026. 11. 11.",
+   "capacity": "73/80 명 (대기자수 : 0/10 명)"
+  },
+  {
+   "source": "yuseong-lib-lecture-list",
+   "list_url": "https://lib.yuseong.go.kr/web/program/lectureList.do",
+   "title": "[노은]액티브 인문학 <명화로 보는 희·노·애·락, 마음을 읽는 시간> with 이윤서 작가",
+   "event_period": "2026. 11. 14. ~ 2026. 11. 14.",
+   "tags": [
+    "노은",
+    "성인"
+   ],
+   "target": "중장년층 및 성인",
+   "status": "접수중",
    "apply_period": "2026. 9. 22. ~ 2026. 11. 5.",
    "capacity": "8/15 명 (대기자수 : 0/5 명)"
   },
@@ -401,7 +415,7 @@
    ],
    "target": "초등 1~2학년 15명",
    "apply_period": "2026. 11. 3. ~ 2026. 11. 13.",
-   "capacity": "10/10 명 (대기자수 : 1/6 명)"
+   "capacity": "10/10 명 (대기자수 : 3/6 명)"
   },
   {
    "source": "yuseong-lib-lecture-list",
@@ -453,21 +467,7 @@
     "전민",
     "성인"
    ],
-   "target": "시니어 40명",
-   "status": "접수종료",
-   "apply_period": "2026. 10. 21. ~ 2026. 11. 3.",
-   "capacity": "15/15 명 (대기자수 : 5/5 명)"
-  },
-  {
-   "source": "yuseong-lib-lecture-list",
-   "list_url": "https://lib.yuseong.go.kr/web/program/lectureList.do",
-   "title": "[전민] 멀티리터러시 프로그램 \"AI로 만드는 이야기와 영상\"",
-   "event_period": "2026. 11. 4. ~ 2026. 11. 18.",
-   "tags": [
-    "전민",
-    "성인"
-   ],
-   "target": "성인 누구나"
+   "target": "시니어 40명"
   }
  ]
 }
