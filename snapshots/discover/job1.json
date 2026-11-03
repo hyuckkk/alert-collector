@@ -1,8 +1,24 @@
 {
- "updated": "2026-11-04T04:08:00+09:00",
+ "updated": "2026-11-04T05:08:00+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "11월 되니 '빼빼로데이 대전'… 포켓몬·산리오·호빵맨·재혼황후 IP 총출동 - 한국일보",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZRnJ6a2RmYmtVazJmRGhhcHpDb1pLUDhpb0drYnVaNHVwbDRqbUotWVNUT191ZHhSbzdmR0dsR3JFVnI2NDFteHI1YnJXdGxlMDhEbXI2S3hCYlNyRlVwcnV2eEVsN2VlWkxsODRB0gFzQVVfeXFMT2cyS2szNG51b0VOLV93aUZLVThSdzNIaExfa1FIWjJCaEJFN2M4RS1UMHRoRHB4YmFGcmp1bV9qTE9iTHc0MEJiM0MyYkVCdGhGbkFzRUIwYWpmX0dpdDNNd2xoNlRWV0d4eEhCbnUzVGQyUQ?oc=5",
+   "pub": "Mon, 02 Nov 2026 06:33:00 GMT",
+   "engine": "gnews",
+   "query": "대전 캐릭터 공연",
+   "first_seen": "2026-11-04T05:08:00+09:00"
+  },
+  {
+   "title": "관저동 먹자골목 상인이 만든 첫 야장 - 충청일보",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Bclc2dVlIa0lOMTIwWFFHYkFUXy1rUkU2QXAxN2EyTmVqS3c3UWVPS2ZEZG9BMXpkZEttNG9zSklHMGFINThSRWl4WE8zdlRJQ0VPQlRFdXU5bWJBRzYtMzZRY09sZGd3VTM1ZUY2QQ?oc=5",
+   "pub": "Mon, 02 Nov 2026 03:02:44 GMT",
+   "engine": "gnews",
+   "query": "대전 서커스 공연",
+   "first_seen": "2026-11-04T05:08:00+09:00"
+  },
   {
    "title": "대전어린이연극축제 10주년, 동심과 상상력이 꽃피는 특별한 무대 열린다 - 굿모닝충청",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44Y2Z1bVpLSjZjZXVzUWF2X05icXBMRE9oRFVEUmhEMXJwMk02dG1hUG1fVVlwLXA5bjBlZFh2UWxacDhzWVdBUGM3aWZTWFpCNmRScUhxTUwxNnQta3R4LUxhVE9fQzdPT095UTVYOFZFQQ?oc=5",
@@ -21167,25 +21183,12 @@
    "engine": "naver_blog",
    "query": "대전 캐릭터 공연",
    "first_seen": "2026-10-31T14:38:05+09:00"
-  },
-  {
-   "title": "세인트키츠 네비스 네비스 컬투라마 언제: 7월/8월 제2차 세계대전 이후 수천 명의 네비시아인들이 노동력 부족을 해결하기 위해 떠나면서 이주가 급증하면서, 크리스마스와 연관된 계절별 무용단과 같은 섬의 전통이 사라지고 있다는 우려가 있었습니다. 이에 대한 대응으로 1974년에 만들어진 컬투라마가 있었으며, 8월 해방 주말에 열리며 해외에 거주하는 이들의 귀",
-   "url": "https://blog.naver.com/worldguidebbj/224459939320",
-   "engine": "naver_blog",
-   "query": "대전 캐릭터 공연",
-   "first_seen": "2026-10-31T14:38:05+09:00"
-  },
-  {
-   "title": "다른 일정이 있어 분위기는 못 찍었네요^^ 친구들이 좋아하는 풍선으로 공연을 하고 기쁨은 주고 관객과 함께 즐거운 시간을 만드는 공연입니다.~~ 다양하네 캐릭터 그리고 즐거운... com/myzhf0710/224458789058 #조이플러스 #재미있는공연 #전주공연 #익산공연 #군산공연 #남원공연 #대전공연 #보령공연 #서천공연 #장항공연 #부여공연 #논산",
-   "url": "https://blog.naver.com/myzhf0710/224459931265",
-   "engine": "naver_blog",
-   "query": "대전 캐릭터 공연",
-   "first_seen": "2026-10-31T14:38:05+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
  ]
 }
