@@ -1,8 +1,24 @@
 {
- "updated": "2026-11-03T22:07:47+09:00",
+ "updated": "2026-11-03T23:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 3,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "대전 중구, 드림스타트 아동 대상 할로윈 파티·마술공연 개최 - 국제뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PQVBGSzFMWVVUb3NtT0RRVFhrTGlsRS1uRmNJUlZwRDdyU0tyYk9MWG5iU3I1WS1oUTROTXRPQjhvb1pxclpEMjQ5SjBzYUw2ZDQ4bUx5VUUxY0F3S0pLZEUwUTd4QmNRZ0M0QUh3?oc=5",
+   "pub": "Sun, 01 Nov 2026 06:46:44 GMT",
+   "engine": "gnews",
+   "query": "대전 캐릭터 공연",
+   "first_seen": "2026-11-03T23:07:46+09:00"
+  },
+  {
+   "title": "장성군, 어린이 공연 ‘더 매직 서커스’ 14일 개최 - 웹이코노미",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VbXg0M1RtN2xRbllYUG5uMUplZ3N5LXlIWGozTjZGVF9XRWFweHZ6enkxTVd0dFRZZUhsYXdpeWswM2ZDN1dQZkxaWGVGOGNuVkV4SWFBV2docDA5ZjJYZGkxLUNnaUFVRHVvQUZMS0hPdw?oc=5",
+   "pub": "Tue, 03 Nov 2026 11:08:37 GMT",
+   "engine": "gnews",
+   "query": "대전 12월 어린이 공연 예매",
+   "first_seen": "2026-11-03T23:07:46+09:00"
+  },
   {
    "title": "화성시문화관광재단, 가족뮤지컬 매직 판타지아 – 도로시 리턴즈 공연 - 저널25방송",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FSHM4MC1RWHRwWnRKVThObUxhVVNXQUhPQnEwQlBsaG5sTFE2QXdMRDYtUnhkbEFqaEJuTmZrdTAyX0s3UE9HWDhaaldGWlVmTHZiWUpiR1FwTDY5ekRPT3I1MEV0RHc5UEpadg?oc=5",
@@ -21159,25 +21175,13 @@
    "engine": "naver_blog",
    "query": "대전 캐릭터 공연",
    "first_seen": "2026-10-31T14:38:05+09:00"
-  },
-  {
-   "title": "특별공연으로 진행됩니다. 무려 2,000대의 드론이 아이언맨을 비롯한 마블 캐릭터와 영화 속 장면들을 밤하늘에 표현할 예정인데요. 낮에는 마블 포토존과 SNS 이벤트도... 포천 한탄강 가든페스타 공식 홈페이지 ⑧ 함평 대한민국 국향대전｜전남 함평 기간: 10/23(금)~11/8(일) 장소: 함평엑스포공원 입장료: 성인 7,000원 ️ 청소년·군인 5,00",
-   "url": "https://blog.naver.com/twinstar76/224459619115",
-   "engine": "naver_blog",
-   "query": "대전 캐릭터 공연",
-   "first_seen": "2026-10-31T14:38:05+09:00"
-  },
-  {
-   "title": "이후 파자마를 입고 저녁을 먹기도 하고, 공연하기도 함 왼쪽은 오르골인데 대전 굿즈샵에서 26000원에 샀다(괜찮은듯?) 남아 있는게 치이카와 뿐이였삼 랜덤 아니고 무려 '확정' (C타입 충전) 우와와 파자마파티즈 노래 나옴 ㄹㅇ 희귀템 ㅡㅡㅡ 사실 .. 이 오르골은 치이카와 입덕에 시작이였다 때는 대전에서 그이 친구 부부와 쿠지하러 굿즈샵을 돌아다니고 있",
-   "url": "https://blog.naver.com/6oeo6/224459748533",
-   "engine": "naver_blog",
-   "query": "대전 캐릭터 공연",
-   "first_seen": "2026-10-31T14:38:05+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
  ]
 }
