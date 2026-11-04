@@ -1,49 +1,58 @@
-[kmusic-calendar-2026-11] rendered 1558 chars CHANGED
-[leis-ski-snowon-notices] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[mnd-main] rendered 17987 chars CHANGED
+[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
+[pyeongtaek-news-board] rendered 3197 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 4630 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4474 chars CHANGED
+[blog-dooglami-224434696671] rendered 4697 chars CHANGED
+[dsecc-programs-p2] rendered 1962 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1168 chars CHANGED
+[kmusic-calendar-year] rendered 6196 chars CHANGED
+[nol-product-26001112] rendered 3666 chars CHANGED
+[blog-daedeokgu-224432911721] rendered 2670 chars CHANGED
+[blog-namuac21-224424725714] rendered 4519 chars CHANGED
+[blog-youneed4613-224436099074] rendered 4488 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[leis-spectator-archery] rendered 3992 chars CHANGED
+[leis-spectator-archery-current] rendered 8392 chars CHANGED
+[foresttrip-notice] rendered 141 chars same
+[pyeongtaek-gosi] rendered 1683 chars CHANGED
+[hanbat-library-culture] rendered 1350 chars CHANGED
+[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
+[pyoungsong-event-nunkkot] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-piglets] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-sandmagic] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-stonesoup] RENDER ERROR rendered but too little text (19 chars)
+[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[daejeon-familycenter-programs] rendered 1232 chars CHANGED
+[daejeon-okr-edu] rendered 1493 chars same
+[daejeon-okr-hanbatlib] rendered 1646 chars same
+[dsecc-programs-p3] rendered 1962 chars CHANGED
+[mommom-place-6a868bff] rendered 95 chars CHANGED
+[mommom-place-6a2b946b] rendered 95 chars CHANGED
+[mommom-place-6a2b9455] rendered 95 chars CHANGED
+[nol-product-phantom-40th] rendered 6205 chars CHANGED
+[daejeontour-bread-festival] rendered 1636 chars CHANGED
+[visitisland-main] rendered 1010 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1646 chars same
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[mommom-place-6a7d51b7] rendered 95 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3284 chars CHANGED
+[blog-dooglami-224433357728] rendered 4891 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-monthly] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-wp-event-api] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-tribe-events-api] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-list] RENDER ERROR rendered but too little text (19 chars)
+[ticketlink-notice-65862] rendered 221193 chars CHANGED
+[docomomokorea-main] rendered 293 chars same
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[ticketlink-product-65585] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.snowon.or.kr/bbs/board.php?tbl=bbs41", waiting until "domcontentloaded"
+  - navigating to "https://www.ticketlink.co.kr/product/65585", waiting until "domcontentloaded"
 
-[leis-ski-muju-school] rendered 863 chars CHANGED
-[leis-ski-skiland-lessons] rendered 599 chars CHANGED
-[leis-ski-mentor-lessons] rendered 4778 chars same
-[leis-ski-jb-sports] rendered 1300 chars CHANGED
-[leis-ski-sejong-sports] rendered 829 chars CHANGED
-[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
-[kwater-realtime-multidam] rendered 2015 chars CHANGED
-[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.ticketlink.co.kr/product/22471", waiting until "domcontentloaded"
-
-[gongjeon-kids] rendered 548 chars CHANGED
-[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
-[katc-schedule] rendered 736 chars CHANGED
-[fsale-main] rendered 4893 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[gcfct-schedule] rendered 372 chars CHANGED
-[mokwon-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.mokwon.ac.kr/kr/html/sub03/030102.html", waiting until "domcontentloaded"
-
-[science-reservation] rendered 1392 chars CHANGED
-[khs-notice] rendered 309 chars same
-[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[expo-park] rendered 729 chars CHANGED
-[nol-upcoming-notice] rendered 15056 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 15025 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.15/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://m.ticketlink.co.kr/help/notice']' timed out after 75 seconds
-[pyoungsong-performance] rendered 651 chars CHANGED
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[dsecc-programs] rendered 1962 chars CHANGED
-[seogu-exprn-list] rendered 1347 chars CHANGED
-[seogu-event-list] rendered 1347 chars CHANGED
-[seogu-edu-list] rendered 1353 chars CHANGED
-[daejeon-its-board] rendered 3363 chars CHANGED
-[zeropay-events] rendered 560 chars CHANGED
-[chuncheon-festival-news] rendered 880 chars CHANGED
-[chuncheon-festival-news-459539] rendered 801 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
-
+[yes24-perf-60278] rendered 198 chars CHANGED
+[chuncheon-notice-announcement] rendered 3639 chars CHANGED
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1718 chars CHANGED
