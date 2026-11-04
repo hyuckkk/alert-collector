@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:07:50+09:00",
+ "updated": "2026-11-05T02:16:24+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 1,
  "hits": [
@@ -9,7 +9,7 @@
    "pub": "Mon, 02 Nov 2026 07:19:35 GMT",
    "engine": "gnews",
    "query": "한국은행 기념주화 발행 보도자료",
-   "first_seen": "2026-11-05T02:07:50+09:00"
+   "first_seen": "2026-11-05T02:16:24+09:00"
   },
   {
    "title": "조폐공사, ‘11월, 행운을 담은 특별한 선물’ 기획전 진행 - 글로컬타임스",

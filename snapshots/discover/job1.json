@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T02:07:50+09:00",
+ "updated": "2026-11-05T02:16:24+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 2,
+ "new_this_run": 3,
  "hits": [
   {
    "title": "뮤지션 공모부터 선곡까지, 시민의 댓글이 콘서트가 됐다 - 메가충청뉴스",
@@ -9,7 +9,7 @@
    "pub": "Fri, 30 Oct 2026 03:02:35 GMT",
    "engine": "gnews",
    "query": "국립중앙과학관 공연",
-   "first_seen": "2026-11-05T02:07:50+09:00"
+   "first_seen": "2026-11-05T02:16:24+09:00"
   },
   {
    "title": "빅뱅은 블루스, 양자역학은 프리 재즈…음악으로 치환한 물리학 - 뉴스컬처",
@@ -17,7 +17,15 @@
    "pub": "Fri, 30 Oct 2026 06:19:07 GMT",
    "engine": "gnews",
    "query": "국립중앙과학관 공연",
-   "first_seen": "2026-11-05T02:07:50+09:00"
+   "first_seen": "2026-11-05T02:16:24+09:00"
+  },
+  {
+   "title": "음악과 발레로 피어나는 평화의 울림… ‘2026 서울도봉 평화울림페스티벌’ 개최 - 국민기자뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzRUdaVlFHSGVpdDNCR0lscS1PbVRsRjNua0tpTGRUaF9PTzVjSVRDWDM4Mnkwd0xwQmIyUVlibnFLY1BQSHJqcmt0cWZ3cThQbTY0dlJ2ejBnaWgyNE03bndNVEXSAWdBVV95cUxNb1pWQUdmN09aWEJwYVNyVDEyaHY0Y1RyRThKRm90ZlBXNHVXTHkyUE9fSC1uTFNWRmUtaE92RzJoM1U2VkNCQ2hxeUlncVBST0stVEt0WEVsN3ZJZmgzd3BkSXVZN3BF?oc=5",
+   "pub": "Fri, 30 Oct 2026 06:00:00 GMT",
+   "engine": "gnews",
+   "query": "대전 발레 가족 공연 11월",
+   "first_seen": "2026-11-05T02:16:24+09:00"
   },
   {
    "title": "2026-2027 ] - 대전 / 16:00 · 일반예매 [콘서트] 자우림 단독 콘서트 [ MIDNIGHT EXPRESS 2026-2027 ] - 대구 / 18:00 · 일반예매... [아동/가족] 어린이 성장 뮤지컬 『빨간 사과가 먹고 싶다면』-군산 / 10:00 ■ 멜론티켓 (5) [콘서트] 2026 N.Flying LIVE... 7) / 14:00 수",
@@ -21209,18 +21217,13 @@
    "engine": "naver_cafe",
    "query": "대전 샌드매직쇼",
    "first_seen": "2026-11-01T01:07:46+09:00"
-  },
-  {
-   "title": "대전오월드 「금지된 동화」는 10월 31일(토)이 마지막이에요. 1. 경주월드 위치스 할로윈 날짜 : 9월 5일(토)~11월 15일(일) 위치스 할로윈 파티 9월 19일(토)~11월 15일(일) 위치스 할로윈 타운 주말... 있음 매직 버블 쇼·EDM PARTY·버스킹은 주말·공휴일 중 진행 예정 곳 : 창원시 마산합포구 경남마산로봇랜드 값 : 입장권 필요",
-   "url": "https://cafe.naver.com/ansanhopetoy/10491?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFuc2FuaG9wZXRveSIsImFydGljbGVJZCI6MTA0OTEsImlzc3VlZEF0IjoxNzkzNDYyOTYyNjgyfQ.O7-Wq1rM8MhvEp51aGX3fPCuksUSscDZQC6SiwzBlm0&q=%eb%8c%80%ec%a0%84%20%ec%83%8c%eb%93%9c%eb%a7%a4%ec%a7%81%ec%87%bc&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 샌드매직쇼",
-   "first_seen": "2026-11-01T01:07:46+09:00"
   }
  ],
  "errors": [
   "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
   "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
  ]
 }
