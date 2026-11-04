@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T18:01:54+09:00",
+ "updated": "2026-11-04T18:09:40+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 2,
  "hits": [
   {
    "title": "[지역축제] 2026년 11월 - '2026 단단단페스티벌’ 外 - 숙박매거진",
@@ -9,7 +9,15 @@
    "pub": "Wed, 04 Nov 2026 06:25:34 GMT",
    "engine": "gnews",
    "query": "대전 불꽃놀이",
-   "first_seen": "2026-11-04T18:01:54+09:00"
+   "first_seen": "2026-11-04T18:09:40+09:00"
+  },
+  {
+   "title": "김해진영단감축제, 10월 30일 개막 - 국제뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OdnFRckJFLW1HZWNxLTI5Z3QxODMwNEtrUTcyalBZV2JXR2ZOajlaVFZRQ2M3SVRTU0lpdER6S0ZFNEUzSy16UE5VcTVndnE2ZjAtSmhQUU5GVnlhd3ZEVS13MGM4SUExZUduQmlR?oc=5",
+   "pub": "Thu, 29 Oct 2026 07:20:43 GMT",
+   "engine": "gnews",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-04T18:09:40+09:00"
   },
   {
    "title": "부산에서 서울까지, 세종호텔 해고 노동자들의 34일 - OhmyNews",
@@ -8460,21 +8468,6 @@
    "engine": "naver_web",
    "query": "유성국화축제 드론쇼",
    "first_seen": "2026-10-28T23:07:49+09:00"
-  },
-  {
-   "title": "포항국제불빛축제'의 중계와 홍보를 지원한다. 특히 21일 국제불꽃쇼 등 주요 행사를 중계할 계획이다. 앞서 11월 7~8일에는 '제27회...11월 8일까지 전남 함평에서 열리는 '2026 대한민국 국향대전'을 특집방송으로 제작한다. 진행자가 직접 현장을 찾아 국화 전시...",
-   "url": "http://v.daum.net/v/20261028155646036",
-   "engine": "daum_news",
-   "query": "대전 불꽃쇼",
-   "first_seen": "2026-10-28T18:08:28+09:00"
-  },
-  {
-   "title": "2026 청주원도심골목길축제 '가을:잔치집,대성' 11월 개최 - 웹이코노미",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hc1ZkYjRuNzJQSkhXWXUxRjZWSFlWS2R1Q2lTNFl5c0hLRzZzWmFiRXd1R2dhYU5HdGRTbWV1cGlLWEFKb1RDMGpTZFU4bjVldWJzMkZDQjJYZkp5Z2hnclhVM1pUMTgzXzZkcUtzaE02Zw?oc=5",
-   "pub": "Wed, 28 Oct 2026 00:49:01 GMT",
-   "engine": "gnews",
-   "query": "청주 불꽃축제",
-   "first_seen": "2026-10-28T18:08:28+09:00"
   }
  ],
  "errors": []
