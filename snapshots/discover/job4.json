@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T05:07:46+09:00",
+ "updated": "2026-11-05T06:07:57+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "디슘(Dishoom), 디왈리를 맞아 칠라 버만(Chila Burman)과 협업 진행 - Hypebae",
@@ -5397,22 +5397,6 @@
    "engine": "gnews",
    "query": "대전 축제 개막식 불꽃놀이",
    "first_seen": "2026-10-29T19:07:53+09:00"
-  },
-  {
-   "title": "산사캠프·낙화놀이...문화로 즐기는 가을 사찰 - 아시아투데이",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3aUdwbTI5dE1UeUVJaG4yU291Uk9jMXNEQVRndmx3eDlBUFJLT0R4OFJwTWNadHM0cXg1Ry1iYnloQmFPMG5XbnZZOVdERHhVZEJidk1MakRlRW9WaHZFeVNfSGZnN1Z3ZFZ1UEdn?oc=5",
-   "pub": "Thu, 22 Oct 2026 21:00:00 GMT",
-   "engine": "gnews",
-   "query": "세종 불꽃",
-   "first_seen": "2026-10-29T05:07:48+09:00"
-  },
-  {
-   "title": "충북 보은군 마로면·서울 중곡2동, 서로의 축제 오가며 우정 다져 - 청주일보",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DN2JaMEN6RlZac0RaRGZqeFQtZHRienNhSXpTckpxNXhKVWIwMFo2NVk0VzVxcXBkbGdIQlFEZjBYREE0WnQ3dHR4cXZGRGpnSmFSOThMS3NrM2tOdmpvd196Y0hiaTljRnBR?oc=5",
-   "pub": "Fri, 23 Oct 2026 08:15:34 GMT",
-   "engine": "gnews",
-   "query": "청주 불꽃축제",
-   "first_seen": "2026-10-29T05:07:48+09:00"
   }
  ],
  "errors": []
