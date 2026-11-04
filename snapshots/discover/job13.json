@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T23:07:46+09:00",
+ "updated": "2026-11-05T00:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -2505,14 +2505,6 @@
    "engine": "gnews",
    "query": "개인투자용 국채 청약",
    "first_seen": "2026-10-29T05:07:48+09:00"
-  },
-  {
-   "title": "퇴직연금 점유율 20% 깨진 보험사…사후 자산관리로 집토끼 잡는다 - 브릿지경제",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10QV9FMWVkazdpNGxtdW9tVjczODU5NXNic19ITUNLdXRoUmFEOG5mN1RBakNNTjBXR180eWRmaWtXOGNyeVFZeER3V2RWR0JrMzdCcGlOakF0QQ?oc=5",
-   "pub": "Wed, 28 Oct 2026 05:42:00 GMT",
-   "engine": "gnews",
-   "query": "개인투자용 국채 금리",
-   "first_seen": "2026-10-28T23:07:49+09:00"
   }
  ],
  "errors": []

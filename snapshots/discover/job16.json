@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T23:07:46+09:00",
+ "updated": "2026-11-05T00:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 5,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "대전 동구, AI·반도체 진로체험 참가 고교생 모집 - 뉴스파고",
@@ -3919,14 +3919,6 @@
    "engine": "gnews",
    "query": "청주 무심천 마라톤 접수",
    "first_seen": "2026-10-29T05:07:48+09:00"
-  },
-  {
-   "title": "금성개발㈜, '포(4)유 마라톤 축제' 5천만원 기탁 - 청주노컷",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTOTBmMi1WZmxKWlZvMERGdlc0akhaV2JPRVkwVkEzZ2c0THVvMkRKcWtLQnNFRktsbEhsSS1zcUo4THljVVB5eU01c3BRdGFB?oc=5",
-   "pub": "Wed, 28 Oct 2026 10:15:32 GMT",
-   "engine": "gnews",
-   "query": "청주 무심천 마라톤 접수",
-   "first_seen": "2026-10-28T23:07:49+09:00"
   }
  ],
  "errors": []

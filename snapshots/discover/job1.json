@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T23:07:46+09:00",
+ "updated": "2026-11-05T00:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 14,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "개막공연 무료 일반 공연 정가 20,000원 공식 예매 화면 확인 할인가 12,000원 (40% 타임세일) ▶ 주최 · 주관 대전어린이청소년연극축제 사회적협동조합 ▶ 후원 대전광역시... 무료 공연이라는 사실과 예약 없이 입장할 수 있다는 것은 구분할 필요가 있어요. ❚ 10주년 기념 끼페스티벌 ❚ 올해는 축제 10주년을 맞아 어린이와 청소년이 직접 무대에",
@@ -21222,8 +21222,10 @@
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }
