@@ -60,7 +60,6 @@
 "https://www.hwadong.com/new/product/curr_RecommendGoodsList.jsp?planId=100002509",
 "https://www.hwadong.com/new/product/curr_RecommendGoodsList.jsp?planId=100002514",
 "https://www.hwadong.com/new/product/curr_RecommendGoodsList.jsp?planId=100001529",
-"https://www.hwadongauction.com/ai/auctionList",
 "/new/currency/curr_CurationList.jsp",
 "javascript:slideTest('');",
 "javascript:slideTest('');",
@@ -398,5 +397,6 @@
 "javascript:onBasketRegister('100121456');",
 "#none",
 "javascript:jsGoodsDetail('100121457');",
-"javascript:jsGoodsDetail('100121457');"
+"javascript:jsGoodsDetail('100121457');",
+"javascript:onOrderRegister('100121457');"
 ]
