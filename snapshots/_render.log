@@ -1,49 +1,59 @@
-[djkids-musical] rendered 1618 chars CHANGED
-[djkids-notice] rendered 1026 chars CHANGED
-[dctf] rendered 1408 chars CHANGED
-[baekje-schedule] rendered 1512 chars CHANGED
-[science-reservation] rendered 1410 chars CHANGED
-[khs-notice] rendered 309 chars same
-[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[expo-park] rendered 727 chars CHANGED
-[nol-upcoming-notice] rendered 16010 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 16041 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] rendered 266302 chars CHANGED
-[pyoungsong-performance] rendered 1292 chars same
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[dsecc-programs] rendered 1954 chars CHANGED
-[seogu-exprn-list] rendered 1232 chars CHANGED
-[seogu-event-list] rendered 1232 chars CHANGED
-[seogu-edu-list] rendered 1238 chars CHANGED
-[daejeon-its-board] rendered 3363 chars CHANGED
-[zeropay-events] rendered 564 chars CHANGED
-[chuncheon-festival-news] rendered 868 chars CHANGED
-[chuncheon-festival-news-459539] rendered 801 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[blog-namuac21-224424725714] rendered 4520 chars CHANGED
+[khs-main] rendered 1728 chars CHANGED
+[khs-eventinfo] rendered 1144 chars CHANGED
+[sje-life-events] rendered 55372 chars CHANGED
+[nol-nutcracker-daejeon] rendered 5046 chars CHANGED
+[mara1080-goldrun-geumsan] rendered 4294 chars CHANGED
+[nol-family] rendered 4123 chars CHANGED
+[oworld-notice] rendered 1745 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[woosongart-schedule] rendered 740 chars CHANGED
+[pyeongtaek-main] rendered 19232 chars CHANGED
+[kopis-daejeon-kids] rendered 17501 chars CHANGED
+[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
+[pyeongtaek-news-board] rendered 3135 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 4711 chars CHANGED
+[pyeongtaek-gosi] rendered 1722 chars CHANGED
+[hanbat-library-culture] rendered 1379 chars CHANGED
+[chuncheon-festival-news-465019] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view
 Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[pyoungsong-event-piglets] rendered 484 chars same
+[pyoungsong-event-sandmagic] rendered 498 chars same
+[pyoungsong-event-stonesoup] rendered 335 chars same
+[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[daejeon-familycenter-programs] rendered 1235 chars CHANGED
+[daejeon-okr-edu] rendered 1493 chars same
+[daejeon-okr-hanbatlib] rendered 1650 chars CHANGED
+[science-edu-reservation] rendered 2154 chars CHANGED
+[sejong-notice] rendered 2358 chars CHANGED
+[sejong-notice-greenfamily] rendered 1799 chars CHANGED
+[melon-artist-songsohee] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/artist/index.htm?artistId=672059
+Call log:
+  - navigating to "https://ticket.melon.com/artist/index.htm?artistId=672059", waiting until "domcontentloaded"
 
-[cnu-jsh-schedule-178] rendered 5807 chars CHANGED
-[dmzforest-main] rendered 6477 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[mommom-sandmagic-a] rendered 95 chars CHANGED
-[mommom-sandmagic-b] rendered 95 chars CHANGED
-[sejong-notice-imnansu-play] rendered 869 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
-[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
-[andong-halftour] rendered 2548 chars CHANGED
-[kfe-main] rendered 3589 chars CHANGED
-[bok-press-list] rendered 801 chars CHANGED
-[blog-seogu-artfest-fringe-cvovz] rendered 5664 chars CHANGED
-[blog-seogu-artfest-blu2sky7] rendered 6353 chars CHANGED
-[kwater-realtime-sumun] rendered 2310 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 5807 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 4602 chars CHANGED
-[kmusic-calendar-2026-11] rendered 1558 chars CHANGED
-[kmusic-calendar-2026-12] rendered 1168 chars CHANGED
-[kmusic-calendar-year] rendered 6196 chars CHANGED
-[nol-product-26001112] rendered 3666 chars CHANGED
-[blog-daedeokgu-224432911721] rendered 2670 chars CHANGED
+[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
+Call log:
+  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
+
+[mommom-place-6a2b94f5] rendered 84 chars CHANGED
+[ticketlink-notice-65862] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[pyoungsong-event-rudolph] rendered 424 chars same
+[pyoungsong-event-snowwhite] rendered 414 chars same
+[blog-namuac21-224427113169] rendered 4770 chars CHANGED
+[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[blog-youneed4613-224436099074] rendered 4779 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
+[pyoungsong-tribe-events-api-p2] rendered 42842 chars same
+[kopis-pf297232] rendered 7859 chars same
+[dgdr-festival] rendered 203 chars CHANGED
+[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
+
+[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
+
