@@ -1,62 +1,44 @@
-[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
-[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
-[leis-cycling-kcf] rendered 2139 chars CHANGED
-[sje-life-events] rendered 50300 chars CHANGED
-[nol-nutcracker-daejeon] rendered 5045 chars CHANGED
-[mara1080-goldrun-geumsan] rendered 4294 chars CHANGED
-[runningon-schedule-open] rendered 11597 chars CHANGED
-[leis-ski-snowon] rendered 593 chars CHANGED
-[leis-ski-snowon-notices] rendered 1021 chars CHANGED
-[leis-ski-snowon-youth] rendered 766 chars CHANGED
-[foresttrip-notice] rendered 141 chars same
-[pyoungsong] rendered 827 chars same
-[djkids-musical] rendered 1618 chars CHANGED
-[djkids-notice] rendered 1026 chars CHANGED
-[dctf] rendered 1408 chars same
-[mokwon-events] rendered 948 chars CHANGED
-[chuncheon-festival-news] rendered 868 chars CHANGED
-[chuncheon-festival-news-459539] rendered 801 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
-
-[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_RESET at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "d
-[pyeongtaek-news-board] rendered 3315 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 4667 chars CHANGED
-[pyeongtaek-gosi] rendered 1580 chars CHANGED
-[hanbat-library-culture] rendered 1937 chars CHANGED
-[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 484 chars same
-[pyoungsong-event-sandmagic] rendered 498 chars same
-[pyoungsong-event-stonesoup] rendered 335 chars same
-[donghae-dhdmo-program] rendered 1804 chars CHANGED
-[daejeon-familycenter-programs] rendered 1235 chars CHANGED
-[cnu-jsh-schedule-178] rendered 5251 chars CHANGED
-[dmzforest-main] rendered 6477 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[mommom-sandmagic-a] rendered 95 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1650 chars same
-[visitkorea-tour50-notice] rendered 616 chars CHANGED
-[mommom-place-6a7d51b7] rendered 95 chars CHANGED
-[blog-first_seogu-224428074790] rendered 3331 chars CHANGED
-[blog-dooglami-224433357728] rendered 5287 chars CHANGED
-[yes24-genre-children] rendered 196 chars CHANGED
-[pyoungsong-event-feed] rendered 34079 chars same
-[pyoungsong-monthly] rendered 634 chars same
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 170815 chars same
-[pyoungsong-event-list] rendered 300 chars same
-[ticketlink-notice-65862] rendered 229627 chars CHANGED
-[docomomokorea-main] rendered 293 chars same
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[seocheon-halftour-apply] rendered 1324 chars CHANGED
-[komsco-shop-cate2284] rendered 6776 chars CHANGED
-[mcst-culture-71983] rendered 1181 chars CHANGED
-[aircanada-korea] rendered 23002 chars CHANGED
-[aircanada-kr-so-hub] rendered 2992 chars CHANGED
-[aircanada-kr-kbcard] rendered 26643 chars CHANGED
-[aircanada-kr-moretotravel] rendered 3349 chars CHANGED
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[nol-family] rendered 4395 chars CHANGED
+[oworld-notice] rendered 1753 chars CHANGED
+[baekje-schedule] rendered 1512 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[mnd-main] rendered 17749 chars CHANGED
+[daejeon-okr-edu] rendered 1493 chars same
+[daejeon-okr-hanbatlib] rendered 1648 chars CHANGED
+[science-edu-reservation] rendered 2149 chars CHANGED
+[sejong-notice] rendered 2478 chars CHANGED
+[sejong-notice-greenfamily] rendered 1799 chars CHANGED
+[sejong-notice-birdwatch] rendered 1339 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 4880 chars CHANGED
+[komsco-shop-medal] rendered 7342 chars CHANGED
+[komsco-shop-coin] rendered 6751 chars CHANGED
+[komsco-shop-bar] rendered 6839 chars CHANGED
+[komsco-shop-card] rendered 7440 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
+[cnu-jsh-schedule] rendered 1090 chars same
+[bok-commemorative-coin-news] rendered 715 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 5863 chars CHANGED
+[mommom-sandmagic-b] rendered 95 chars CHANGED
+[sejong-notice-imnansu-play] rendered 869 chars CHANGED
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[andong-halftour] rendered 2548 chars CHANGED
+[kfe-main] rendered 3589 chars CHANGED
+[ticketlink-product-65585] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[yes24-perf-60278] rendered 198 chars CHANGED
+[chuncheon-notice-announcement] rendered 3796 chars CHANGED
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1737 chars CHANGED
+[mokwon-general-notice] rendered 1575 chars CHANGED
+[templestay-main] rendered 2631 chars CHANGED
+[hwadong-main] rendered 9771 chars CHANGED
+[leis-ski-muju-school] rendered 863 chars CHANGED
+[leis-ski-skiland-lessons] rendered 599 chars CHANGED
+[leis-ski-mentor-lessons] rendered 4778 chars same
+[leis-ski-jb-sports] rendered 1299 chars CHANGED
+[leis-ski-sejong-sports] rendered 829 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[woosongart-schedule] rendered 740 chars CHANGED
+[pyeongtaek-main] rendered 18492 chars CHANGED
