@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-09T01:07:45+09:00",
+ "updated": "2026-11-09T04:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 44,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "2026 AKMU CONCERT [소문의 낙원] ENCORE 개최 안내 (+ENG) - Weverse",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UaHN2T25MMlNxYmVQOFh6Y185S2J1dFF1VF8xQ29DaC10VURoWlNRekE2OG10bjk5MDByVDlER2FIV0dPcFZKVXZmWU0?oc=5",
+   "pub": "Thu, 05 Nov 2026 05:46:43 GMT",
+   "engine": "gnews",
+   "query": "앙코르 콘서트 예매 일정 공지",
+   "first_seen": "2026-11-09T04:07:48+09:00"
+  },
   {
    "title": "가오픈 기간에 돈까스도 타고 마음에 안들었던 음식점이 있는데, 오랜만에 팀원들과 함께 방문하니 단점들이 개선되어서 맛집이 되어있었다! 보통 한번의 기대가 무너지고 나면 다시... 그동안 비행기와 기차는 제법 타봤지만, 투어사를 끼지 않고 티켓을 예매해서 버스를 타보는 건 처음이었는데, 무사히 유후인에 도착해서 온천도 하고, 먹방투어도 하고 기념품도 사고..",
    "url": "https://blog.naver.com/ria_eatlog/224469252478",
@@ -2779,12 +2787,5 @@
    "first_seen": "2026-11-02T05:08:22+09:00"
   }
  ],
- "errors": [
-  "naver_web '브랜든 최 공연': HTTP Error 403: Forbidden",
-  "naver_blog '이적 콘서트': HTTP Error 403: Forbidden",
-  "naver_news '이적 콘서트': HTTP Error 403: Forbidden",
-  "naver_cafe '이적 콘서트': HTTP Error 403: Forbidden",
-  "naver_all '이적 콘서트': HTTP Error 403: Forbidden",
-  "naver_web '이적 콘서트': HTTP Error 403: Forbidden"
- ]
+ "errors": []
 }
