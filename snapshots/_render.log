@@ -1,55 +1,53 @@
-[mnd-main] rendered 17749 chars CHANGED
-[blog-dooglami-224434696671] rendered 4665 chars CHANGED
-[mommom-place-6a2b94f5] rendered 95 chars CHANGED
-[pyoungsong-event-rudolph] rendered 442 chars same
-[pyoungsong-event-snowwhite] rendered 432 chars same
-[blog-namuac21-224427113169] rendered 4769 chars CHANGED
-[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[chuncheon-municipal-news] rendered 1737 chars CHANGED
-[mokwon-general-notice] rendered 1576 chars CHANGED
-[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
-[pyeongtaek-news-board] rendered 3314 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 4528 chars CHANGED
-[pyeongtaek-gosi] rendered 1583 chars CHANGED
-[hanbat-library-culture] rendered 1896 chars CHANGED
-[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 484 chars same
-[pyoungsong-event-sandmagic] rendered 498 chars same
-[pyoungsong-event-stonesoup] rendered 335 chars same
-[donghae-dhdmo-program] rendered 1804 chars CHANGED
-[daejeon-familycenter-programs] rendered 1235 chars CHANGED
-[daejeon-okr-edu] rendered 1493 chars same
-[daejeon-okr-hanbatlib] rendered 1648 chars same
-[science-edu-reservation] rendered 2149 chars CHANGED
-[sejong-notice] rendered 2466 chars CHANGED
-[sejong-notice-greenfamily] rendered 1799 chars CHANGED
-[sejong-notice-birdwatch] rendered 1339 chars CHANGED
-[yangyang-cafe-balloon-15331] rendered 4834 chars CHANGED
-[komsco-shop-medal] rendered 7342 chars CHANGED
-[komsco-shop-coin] rendered 6751 chars CHANGED
-[woorisb-tok7-product] rendered 2808 chars CHANGED
-[dsecc-programs-p2] rendered 1954 chars CHANGED
-[dsecc-programs-p3] rendered 1954 chars CHANGED
-[mommom-place-6a868bff] rendered 84 chars CHANGED
-[mommom-place-6a2b946b] rendered 95 chars CHANGED
-[mommom-place-6a2b9455] rendered 95 chars CHANGED
-[nol-product-phantom-40th] rendered 6009 chars CHANGED
-[daejeontour-bread-festival] rendered 1636 chars CHANGED
-[visitisland-main] rendered 1010 chars CHANGED
-[templestay-main] rendered 2631 chars CHANGED
-[hwadong-main] rendered 9771 chars CHANGED
-[mokpo-harborfestival-main] rendered 8982 chars CHANGED
-[nol-product-26012487] rendered 1439 chars CHANGED
-[hanbat-library-media-friend] rendered 506 chars CHANGED
-[kopis-place-pyoungsong-small] rendered 10133 chars same
-[bok-press-list] rendered 801 chars CHANGED
-[blog-seogu-artfest-fringe-cvovz] rendered 5638 chars CHANGED
-[blog-seogu-artfest-blu2sky7] rendered 6357 chars CHANGED
-[kwater-realtime-sumun] rendered 2286 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 4959 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 4602 chars CHANGED
-[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
-[kmusic-calendar-2026-12] rendered 1172 chars CHANGED
-[ysfesta-main] rendered 152 chars CHANGED
+[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
+[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
+[leis-cycling-kcf] rendered 2139 chars CHANGED
+[sje-life-events] rendered 46996 chars CHANGED
+[cwg-dmz-crane-notice] rendered 886 chars CHANGED
+[royalmint-lotr] rendered 5086 chars CHANGED
+[djkids-notice] rendered 1026 chars CHANGED
+[dctf] rendered 1408 chars same
+[nol-family] rendered 4179 chars CHANGED
+[kopis-daejeon-kids] rendered 30661 chars same
+[kwater-realtime-multidam] rendered 10292 chars CHANGED
+[ticketlink-kids-cat-daejeon] rendered 230162 chars CHANGED
+[gongjeon-kids] rendered 548 chars CHANGED
+[navy-visit-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000", waiting until "domcontentloaded"
+
+[katc-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.katc.mil.kr/katc/guide/schedule.jsp", waiting until "domcontentloaded"
+
+[komsco-shop-bar] rendered 6839 chars CHANGED
+[komsco-shop-card] rendered 7440 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
+[cnu-jsh-schedule] rendered 956 chars CHANGED
+[bok-commemorative-coin-news] rendered 715 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 5931 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
+[nol-notice-10111] rendered 14229 chars CHANGED
+[cnu-jsh-schedule-178] rendered 4810 chars CHANGED
+[dmzforest-main] rendered 6560 chars CHANGED
+[sejong-notice-dance-free] rendered 1711 chars CHANGED
+[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
+[mommom-sandmagic-a] rendered 95 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1648 chars same
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[mommom-place-6a7d51b7] rendered 95 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3329 chars CHANGED
+[blog-dooglami-224433357728] rendered 5287 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] rendered 34079 chars same
+[pyoungsong-monthly] rendered 634 chars same
+[pyoungsong-wp-event-api] rendered 208 chars same
+[pyoungsong-tribe-events-api] rendered 170815 chars same
+[pyoungsong-event-list] rendered 300 chars same
+[ticketlink-notice-65862] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/help/notice/65862']' timed out after 75 seconds
+[docomomokorea-main] rendered 293 chars same
+[taean-halftour-apply] rendered 3078 chars CHANGED
+[seocheon-halftour-apply] rendered 1324 chars CHANGED
+[komsco-shop-cate2284] rendered 6776 chars CHANGED
+[kmusic-calendar-year] rendered 6213 chars CHANGED
+[nol-product-26001112] rendered 3666 chars CHANGED
+[blog-daedeokgu-224432911721] rendered 2668 chars CHANGED
