@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T04:07:48+09:00",
+ "updated": "2026-11-09T06:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 3,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "한국마사회 기부금으로 골목상권 장보기 응원… 5만원 사면 1만원 돌려준다 - 뉴스N제주",
@@ -4101,14 +4101,6 @@
    "engine": "gnews",
    "query": "모바일 농할상품권 20% 할인 판매",
    "first_seen": "2026-11-02T17:07:46+09:00"
-  },
-  {
-   "title": "코리아 그랜드 페스티벌, 11월 소비행사 확대…한우·김장재료부터 자동차·가전까지 - 강릉뉴스",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUQUVlY29lR0JjRER6eDhIT0YtZThFMS00V3BTRzlmcHJZeXRqclAtY0NPNVQybUQ2VFdPREp5RF9mSWs5UFFaTkNDSGFVTzhqMmNMaEViOWtLZ09IamEwVVBCczJ0ek9mQ3ZERmhfSHZoZ9IBckFVX3lxTFBUQUVlY29lR0JjRER6eDhIT0YtZThFMS00V3BTRzlmcHJZeXRqclAtY0NPNVQybUQ2VFdPREp5RF9mSWs5UFFaTkNDSGFVTzhqMmNMaEViOWtLZ09IamEwVVBCczJ0ek9mQ3ZERmhfSHZoZw?oc=5",
-   "pub": "Sun, 01 Nov 2026 15:26:04 GMT",
-   "engine": "gnews",
-   "query": "수산대전상품권",
-   "first_seen": "2026-11-02T05:08:22+09:00"
   }
  ],
  "errors": []

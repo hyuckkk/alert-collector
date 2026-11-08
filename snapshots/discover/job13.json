@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-09T04:07:48+09:00",
+ "updated": "2026-11-09T06:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "한국조폐공사, 이달 선물세트 5종 최대 15% 할인 - 대전일보",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iaVV6cjloamozSUV3U3l2aFU3azE3Tk1nQkxCRHdkYi1CNTN3R1R4aEhnV1ZWNkJxTDctOEIxbkxMbGtLRTZieU9BM0xheGZfQUVlblhfbWx0M1NIbzEydlJ4WFEzaVRfSjlKQWszZ9IBc0FVX3lxTE1qRUpqaEV4bGVoZkdvSno3R21qU1gwdEdJcHBBVEszNENXYnFtMGNhZHJMWXRRVkYwaDJLS2V2ZjJlSFBoVjZuZ0VSR045cEtYb0lKU1lWTHFIMzFCalZHbXVqd3pKTzhfVVJ6QVBBR1pKeWM?oc=5",
+   "pub": "Wed, 04 Nov 2026 07:01:00 GMT",
+   "engine": "gnews",
+   "query": "조폐공사 기념메달 판매",
+   "first_seen": "2026-11-09T06:07:47+09:00"
+  },
   {
    "title": "[사진] 풍산화동양행 ‘붉은 양의 해’ 기념주화 - 미주중앙일보",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41cXEza0ZBb054S0phdms3b3gwR1hoamk0b1NScVAtNG5jcmhrWUlzYWtleXNhdFh0Y215WlZmTUNrdmw1alplNmh6WVVpLU51RWZmZkdNcTNlV2pZWVVvN2NB?oc=5",
@@ -1958,14 +1966,6 @@
    "engine": "gnews",
    "query": "한국은행 기념주화 발행 보도자료",
    "first_seen": "2026-11-02T17:07:46+09:00"
-  },
-  {
-   "title": "[은행권 풍향계] 신한은행, 한국형 녹색채권 1,500억원 발행 - 에너지경제신문",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16S1lGZEtEWnFzMDlZcnBkUVIyUDJTUnZjRWRvV1NPSmR5bGFuR3pBMGViRWxGQnBQVFhNZFpJek9NQVJseDFpWUFwMG1GbjBoYmplZzRlOTdRalk?oc=5",
-   "pub": "Wed, 28 Oct 2026 06:46:47 GMT",
-   "engine": "gnews",
-   "query": "기념은행권 발행",
-   "first_seen": "2026-11-02T05:08:22+09:00"
   }
  ],
  "errors": []
