@@ -1,56 +1,50 @@
-[blog-namuac21-224427113169] rendered 4769 chars CHANGED
-[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[chuncheon-municipal-news] rendered 1737 chars CHANGED
-[yuseong-cultprfr-list] rendered 634 chars CHANGED
-[ysfesta-main] rendered 152 chars CHANGED
-[khs-main] rendered 1728 chars same
-[seogu-yeyak] rendered 2975 chars CHANGED
-[pyoungsong] rendered 827 chars same
-[djkids-musical] rendered 1618 chars CHANGED
-[djkids-notice] rendered 1026 chars CHANGED
-[dctf] rendered 1428 chars CHANGED
-[nol-family] rendered 4076 chars CHANGED
-[kopis-daejeon-kids] rendered 29801 chars same
-[kwater-realtime-multidam] rendered 10520 chars CHANGED
-[expo-park] rendered 730 chars CHANGED
-[nol-upcoming-notice] rendered 14590 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 14552 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://m.ticketlink.co.kr/help/notice']' timed out after 75 seconds
-[pyoungsong-performance] rendered 1251 chars CHANGED
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
-[nol-notice-10111] rendered 14497 chars CHANGED
-[naver-entertain-018-0006379428] rendered 44941 chars CHANGED
-[melon-artist-songsohee] rendered 2194 chars CHANGED
-[interpark-artist-leejuck] rendered 10105 chars CHANGED
-[yctf-show] rendered 417 chars CHANGED
-[sejong-notice-science-concert] rendered 1017 chars CHANGED
-[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] RENDER ERROR k (most recent call last):
-  File "/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py", line 181, in <module>
-    print(json.dumps(out, ensure_ascii=False), flush=True)
-UnicodeEncodeError: 'utf-8' codec can't encode character '\ud83c' in position 11245: surrogates not allowed
-
-[hanbat-gongdong-science-form] rendered 622 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 7299 chars CHANGED
-[cnu-jsh-schedule-178] rendered 4992 chars CHANGED
-[dmzforest-main] rendered 6561 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[melon-christmas-carol-212575] rendered 1936 chars CHANGED
-[mommom-sandmagic-a] rendered 95 chars CHANGED
-[mommom-sandmagic-b] rendered 95 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1648 chars same
-[visitkorea-tour50-notice] rendered 616 chars CHANGED
-[mommom-place-6a7d51b7] rendered 84 chars CHANGED
-[blog-first_seogu-224428074790] rendered 3329 chars CHANGED
-[blog-dooglami-224433357728] rendered 4908 chars CHANGED
-[yes24-genre-children] rendered 196 chars CHANGED
-[pyoungsong-event-feed] rendered 34079 chars same
-[pyoungsong-monthly] rendered 634 chars same
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 170815 chars same
+[pyoungsong-event-list] rendered 300 chars same
+[ticketlink-notice-65862] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[docomomokorea-main] RENDER ERROR rendered but too little text (23 chars)
+[taean-halftour-apply] rendered 3078 chars CHANGED
+[seocheon-halftour-apply] rendered 1324 chars CHANGED
+[khs-eventinfo] rendered 1144 chars CHANGED
+[kopis-pf302030] rendered 7840 chars same
+[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
+[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
+[leis-cycling-kcf] rendered 2146 chars CHANGED
+[sje-life-events] rendered 49647 chars CHANGED
+[cwg-dmz-crane-notice] rendered 886 chars CHANGED
+[royalmint-lotr] rendered 5086 chars CHANGED
+[yuseong-round-event] rendered 1320 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[oworld-notice] rendered 1718 chars CHANGED
+[baekje-schedule] rendered 1512 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[ticketlink-kids-cat-daejeon] rendered 220573 chars CHANGED
+[gongjeon-kids] rendered 548 chars CHANGED
+[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
+[dsecc-programs] rendered 1962 chars CHANGED
+[sejong-notice-imnansu-play] rendered 869 chars CHANGED
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[andong-halftour] rendered 2550 chars CHANGED
+[kfe-main] rendered 3589 chars CHANGED
+[komsco-shop-cate2284] rendered 6776 chars CHANGED
+[mcst-culture-71983] rendered 1181 chars CHANGED
+[aircanada-korea] rendered 22910 chars CHANGED
+[aircanada-kr-so-hub] rendered 2864 chars CHANGED
+[aircanada-kr-kbcard] rendered 27606 chars CHANGED
+[aircanada-kr-moretotravel] rendered 3221 chars CHANGED
+[mokwon-general-notice] rendered 1576 chars CHANGED
+[templestay-main] rendered 2631 chars CHANGED
+[hwadong-main] rendered 9733 chars CHANGED
+[mokpo-harborfestival-main] rendered 8982 chars CHANGED
+[nol-product-26012487] rendered 1439 chars CHANGED
+[hanbat-library-media-friend] rendered 506 chars CHANGED
+[kopis-place-pyoungsong-small] rendered 10106 chars same
+[bok-press-list] rendered 801 chars CHANGED
+[blog-seogu-artfest-fringe-cvovz] rendered 5792 chars CHANGED
+[blog-seogu-artfest-blu2sky7] rendered 6371 chars CHANGED
+[kwater-realtime-sumun] rendered 2304 chars CHANGED
+[cnu-jsh-schedule-178-2026-11] rendered 4992 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 4579 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1172 chars CHANGED
+[kmusic-calendar-year] rendered 6213 chars CHANGED
+[blog-gotaekmusicfesta-224428285877] rendered 2922 chars CHANGED
