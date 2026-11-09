@@ -1,60 +1,56 @@
-[woosongart-schedule] rendered 740 chars CHANGED
-[nol-product-26008375] rendered 1746 chars CHANGED
-[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
-[pyoungsong-tribe-events-api-p2] rendered 42842 chars same
-[kopis-pf297232] rendered 7859 chars same
-[dgdr-festival] rendered 203 chars CHANGED
-[yuseong-lib-lecture-12604] rendered 1523 chars CHANGED
-[yuseong-lib-lecture-list] rendered 2313 chars same
-[blog-gotaekmusicfesta-224426168539] rendered 2680 chars CHANGED
-[leis-ski-mentor-lessons] rendered 4778 chars same
-[leis-ski-jb-sports] rendered 1271 chars CHANGED
-[leis-ski-sejong-sports] rendered 817 chars CHANGED
-[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
-[leis-spectator-archery] rendered 3992 chars CHANGED
-[leis-spectator-archery-current] rendered 8360 chars same
-[fsale-main] rendered 4893 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[gcfct-schedule] rendered 372 chars CHANGED
-[mokwon-events] rendered 948 chars CHANGED
-[science-reservation] rendered 1446 chars CHANGED
-[khs-notice] rendered 309 chars same
-[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[daejeon-familycenter-programs] rendered 1235 chars CHANGED
-[daejeon-okr-edu] rendered 1493 chars same
-[daejeon-okr-hanbatlib] rendered 1648 chars CHANGED
-[science-edu-reservation] rendered 2149 chars CHANGED
-[sejong-notice] rendered 2113 chars CHANGED
-[sejong-notice-greenfamily] rendered 1799 chars CHANGED
-[sejong-notice-birdwatch] rendered 1339 chars CHANGED
-[yangyang-cafe-balloon-15331] rendered 4722 chars CHANGED
-[komsco-shop-medal] rendered 7342 chars CHANGED
-[komsco-shop-coin] rendered 6751 chars CHANGED
-[komsco-shop-bar] rendered 6871 chars CHANGED
-[komsco-shop-card] rendered 7423 chars CHANGED
-[komsco-shop-currency-set] rendered 6683 chars CHANGED
-[cnu-jsh-schedule] rendered 1138 chars same
-[bok-commemorative-coin-news] rendered 715 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 5893 chars CHANGED
-[woorisb-tok7-product] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://m.woorisavingsbank.com/product/deposite/view.do?prdSn=325", waiting until "domcontentloaded"
+[blog-namuac21-224427113169] rendered 4769 chars CHANGED
+[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1737 chars CHANGED
+[yuseong-cultprfr-list] rendered 634 chars CHANGED
+[ysfesta-main] rendered 152 chars CHANGED
+[khs-main] rendered 1728 chars same
+[seogu-yeyak] rendered 2975 chars CHANGED
+[pyoungsong] rendered 827 chars same
+[djkids-musical] rendered 1618 chars CHANGED
+[djkids-notice] rendered 1026 chars CHANGED
+[dctf] rendered 1428 chars CHANGED
+[nol-family] rendered 4076 chars CHANGED
+[kopis-daejeon-kids] rendered 29801 chars same
+[kwater-realtime-multidam] rendered 10520 chars CHANGED
+[expo-park] rendered 730 chars CHANGED
+[nol-upcoming-notice] rendered 14590 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 14552 chars CHANGED
+[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
+[ticketlink-notice-mobile] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://m.ticketlink.co.kr/help/notice']' timed out after 75 seconds
+[pyoungsong-performance] rendered 1251 chars CHANGED
+[kopis-time-beyond-daejeon] rendered 8087 chars same
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
+[nol-notice-10111] rendered 14497 chars CHANGED
+[naver-entertain-018-0006379428] rendered 44941 chars CHANGED
+[melon-artist-songsohee] rendered 2194 chars CHANGED
+[interpark-artist-leejuck] rendered 10105 chars CHANGED
+[yctf-show] rendered 417 chars CHANGED
+[sejong-notice-science-concert] rendered 1017 chars CHANGED
+[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
+[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
+[yangyang-cafe-balloon-15331-m] RENDER ERROR k (most recent call last):
+  File "/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py", line 181, in <module>
+    print(json.dumps(out, ensure_ascii=False), flush=True)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\ud83c' in position 11245: surrogates not allowed
 
-[blog-dooglami-224434696671] rendered 4703 chars CHANGED
-[dsecc-programs-p2] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://dsecc.djsch.kr/djsecc/lm/appl/lectList.do?mi=1115&pageIndex=2", waiting until "domcontentloaded"
-
-[dsecc-programs-p3] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://dsecc.djsch.kr/djsecc/lm/appl/lectList.do?mi=1115&pageIndex=3", waiting until "domcontentloaded"
-
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 95 chars CHANGED
-[mommom-place-6a2b94f5] rendered 95 chars CHANGED
-[mommom-place-6a2b9455] rendered 84 chars CHANGED
-[nol-product-phantom-40th] rendered 6009 chars CHANGED
-[daejeontour-bread-festival] rendered 1636 chars CHANGED
-[visitisland-main] rendered 1010 chars CHANGED
-[pyoungsong-event-rudolph] rendered 442 chars same
-[pyoungsong-event-snowwhite] rendered 432 chars same
+[hanbat-gongdong-science-form] rendered 622 chars CHANGED
+[daejeon-cafe-dodam-2801968] rendered 7299 chars CHANGED
+[cnu-jsh-schedule-178] rendered 4992 chars CHANGED
+[dmzforest-main] rendered 6561 chars CHANGED
+[sejong-notice-dance-free] rendered 1711 chars CHANGED
+[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
+[melon-christmas-carol-212575] rendered 1936 chars CHANGED
+[mommom-sandmagic-a] rendered 95 chars CHANGED
+[mommom-sandmagic-b] rendered 95 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1648 chars same
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[mommom-place-6a7d51b7] rendered 84 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3329 chars CHANGED
+[blog-dooglami-224433357728] rendered 4908 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] rendered 34079 chars same
+[pyoungsong-monthly] rendered 634 chars same
+[pyoungsong-wp-event-api] rendered 208 chars same
+[pyoungsong-tribe-events-api] rendered 170815 chars same
