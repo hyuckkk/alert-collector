@@ -1,8 +1,38 @@
 {
- "updated": "2026-11-09T19:07:47+09:00",
+ "updated": "2026-11-09T20:07:45+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 815,
+ "new_this_run": 4,
  "hits": [
+  {
+   "title": "이라면서 공개한 자료를 근거로 중국 함정들이 대만과 주요 동맹국 사이에 집중 배치돼 고립 작전을 훈련중인 것으로 분석했다. 첫 번째 집결지는 대만과 괌 사이로 중국군 동부·북부·남부전구 사령부 소속 4개 기동함대와 랴오닝 항공모함 전단이 배치됐다. 유사...",
+   "url": "http://v.daum.net/v/20261109193419816",
+   "engine": "daum_news",
+   "query": "잠수함 공개",
+   "first_seen": "2026-11-09T20:07:45+09:00"
+  },
+  {
+   "title": "현지 조선업계와 미 정부 사정을 잘 아는 인력이 한화에 유리하게 작용할 수 있다고 전했다. 와일드캣은 인수 자금을 댈 후원자를 공개하지 않았다고도 보도했다. 와일드캣은 지난 9월 제안 발표 당시 오스탈USA가 미 잠수함 공급망에서 맡은 역할을 강조하며 미국...",
+   "url": "http://v.daum.net/v/20261109193239788",
+   "engine": "daum_news",
+   "query": "잠수함 공개",
+   "first_seen": "2026-11-09T20:07:45+09:00"
+  },
+  {
+   "title": "[SF 포커스] 초대형 무인잠수정(XLAUV)이 여는 해전의 미래...단순 정찰 넘어 ‘치명적 타격자’ - 시큐리티팩트",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iLWhsYndROUJuS2lfTEVmUTBQNmJLRllpc1ZMUmF5UkNrR2x4bGs1OVlkN0o0TkFYTnEtX09PUjI5WFh5WThzT3gwbUJhSTFtb1pmV0poWHpjNXc0?oc=5",
+   "pub": "Tue, 03 Nov 2026 05:05:00 GMT",
+   "engine": "gnews",
+   "query": "잠수함 공개",
+   "first_seen": "2026-11-09T20:07:45+09:00"
+  },
+  {
+   "title": "‘2026 경기‧양주‧지작사 드론봇 페스티벌’ 성황리에 마무리...수도권 대표 축제로 결실 - 세계로컬타임즈",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvbUFQZ01LUUhBeC1PdG8zOGVoNkVXTWtpNFhnRDRGYnlpSkVOMXRzRTFqMlBoNkNGMl9qVTNXS3c4N1pXaHFaV1Q1cE9VczNhZE1Cbm5oS0oxNFZTdVNkQ9IBXkFVX3lxTFBlU3B0MW9mV2gtZllUV3c3WkJQbkFaWS1jSC1rMGFWQVJrRTNWR2FfV3IteE5PM0MzdTFMRGtGRXZqUVpsd1JPT2dUYy1PQmNMeWUxX25HMk5xcXlTemc?oc=5",
+   "pub": "Fri, 06 Nov 2026 08:45:35 GMT",
+   "engine": "gnews",
+   "query": "장갑차 탑승 체험",
+   "first_seen": "2026-11-09T20:07:45+09:00"
+  },
   {
    "title": "네이버폼을 통한 신청 방법과 준비 사항 헬기탑승 체험 신청은 QR코드를 이용한 네이버폼 접수 방식으로 안내되어 있습니다. 신청 과정에서는 안내된 신청 양식에 따라 필요한 정보를 입력하면 됩니다. 온라인 신청이 익숙하지 않은 경우에는 접수 화면의 항목을 하나씩 확인하면서 작성하는 것이 좋아요. 신청 시에는 이름과 연락처 등 기본 정보가 정확하게... 새 창 ",
    "url": "https://blog.naver.com/yym1014/224425641938",
@@ -15411,13 +15441,5 @@
    "first_seen": "2026-11-02T20:07:46+09:00"
   }
  ],
- "errors": [
-  "naver_news '전승행사 장비탑승 운영시간': HTTP Error 403: Forbidden",
-  "naver_cafe '전승행사 장비탑승 운영시간': HTTP Error 403: Forbidden",
-  "naver_all '전승행사 장비탑승 운영시간': HTTP Error 403: Forbidden",
-  "naver_web '전승행사 장비탑승 운영시간': HTTP Error 403: Forbidden",
-  "naver_blog '군문화축제 탑승체험 운영시간': HTTP Error 403: Forbidden",
-  "naver_news '군문화축제 탑승체험 운영시간': HTTP Error 403: Forbidden",
-  "naver_cafe '군문화축제 탑승체험 운영시간': HTTP Error 403: Forbidden"
- ]
+ "errors": []
 }
