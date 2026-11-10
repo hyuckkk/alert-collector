@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T20:07:48+09:00",
+ "updated": "2026-11-10T22:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 32,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "[Pocus 전시 해설] 한국은행 화폐박물관 《기념주화에 새겨진 세계유산》… 작은 금속 동전에 기록한 우리 역사의 가장 빛나는 순간들 - 얼리어답터뉴스",
@@ -1170,30 +1170,6 @@
    "engine": "gnews",
    "query": "세계청년대회 기념주화",
    "first_seen": "2026-11-03T23:07:46+09:00"
-  },
-  {
-   "title": "기념주화에 새겨진 세계유산...화폐박물관서 1년간 전시 - 재외동포신문",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxVERxV1hNU2VPTWZiS0x2dGlCcFU2ZEE1Q1QyX01XalM5UzNXQnpCelV5QjFIMkdWT0w2bXNRQWs4OTJJdDRQd29SLTZudDduRXZfTHA0bENIR2JCOGdiOTZhU2Z6YndLYmxtaw?oc=5",
-   "pub": "Tue, 03 Nov 2026 12:28:14 GMT",
-   "engine": "gnews",
-   "query": "한국은행 기념주화",
-   "first_seen": "2026-11-03T22:07:47+09:00"
-  },
-  {
-   "title": "농협카드, LPBA 2연속 우승…김보미 선수 첫 우승 기념 이벤트 개최 - 비즈월드",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90Nnc2SUI2bDNpM1NIdWNQMDlFQkZPbnBka21XQ2dIUVhiaHJpZllVb1ROT0VReWJLVVdzbGxWT0hmd0gwYU1JQTU2akJ2TDZscUlJaG5rOUd1UVdLTkdRR19iTGdlb0Y2Z29Z?oc=5",
-   "pub": "Tue, 03 Nov 2026 11:34:00 GMT",
-   "engine": "gnews",
-   "query": "은행 기념 골드바 출시",
-   "first_seen": "2026-11-03T22:07:47+09:00"
-  },
-  {
-   "title": "NH농협은행, 최고 연 3.9%… 가입금액 10만원부터 최대 10억원 - 매일경제",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwNDNWb2ZnM0JyUDZTcVhmdU9lek1VUXZKcjljaUVPczdmaUZ2MEVITnlCRDU2eC1JcUlCSndDWldjNzB6cEZDZ1k5eVRuN1NvVElsdjU1UVpJM1pmQ0Vr?oc=5",
-   "pub": "Sun, 01 Nov 2026 07:01:03 GMT",
-   "engine": "gnews",
-   "query": "특판 예금 연 7%",
-   "first_seen": "2026-11-03T21:07:46+09:00"
   }
  ],
  "errors": []
