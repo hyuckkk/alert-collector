@@ -1,8 +1,2521 @@
 {
- "updated": "2026-11-10T04:07:47+09:00",
+ "updated": "2026-11-10T20:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 3,
+ "new_this_run": 355,
  "hits": [
+  {
+   "title": "충남도, 백제문화단지 낙화놀이 성료 - 뉴스밴드",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXQlBiQ0tOazQ3cG9EbFdmTzdJUy02MUp0UXN1NmtoZV9kVkg0U2hKOG5rRXVqdDd1cG5DUUJ5U1JRdWNnVE1zaXRBR3VPLXNMQ2VEUGN2MVM4WXR6Q3BCeXRoWmY4czJX?oc=5",
+   "pub": "Sun, 08 Nov 2026 10:44:55 GMT",
+   "engine": "gnews",
+   "query": "대전 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "삼양그룹·양영재단, 대전 초등생 80명 대상 과학캠프 개최 - 부산파이낸셜뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5NXpGVXlJMWwxQTRDMkVLNjlhaUtlS1dtbnBDQVozYnJDd0V0YUtpS2gyZ01TbDRxMnE1dkN6ZDk5UzNtVXNBSzllREkyeHV1MHE2SVV3QXJ2R3RP?oc=5",
+   "pub": "Mon, 09 Nov 2026 00:12:00 GMT",
+   "engine": "gnews",
+   "query": "대전 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "머무는 상황에서 자연배수 방식이라는 이유로 설치 대상에서 제외된 8개 지하차도의 침수 위험성을 캐물었다. 대전 불꽃축제 당시 엑스포다리 불꽃쇼 취소 경위와 다중운집 행사 안전관리 절차도 살폈다. 산건위 민생경제국·농업기술센터 감사에서는 소상공인 지원...",
+   "url": "http://v.daum.net/v/20261110191310878",
+   "engine": "daum_news",
+   "query": "대전 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "진입차단시설 설치를 완료할 것을 주문했다. 대규모 행사 안전관리 문제도 도마 위에 올랐다. 권 의원은 2026년 대전 불꽃축제 당시 엑스포다리 불꽃쇼가 취소된 경위를 질의하고 다중운집 행사에 적용되는 안전관리 기준과 관계기관 심의 절차가 적절하게 이뤄...",
+   "url": "http://v.daum.net/v/20261110164831600",
+   "engine": "daum_news",
+   "query": "대전 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "대전 지하차도 8곳 차단시설 제외…권인호 대전시의회 의원, 침수 안전성 재점검 촉구 - 타임뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxQ3FDSXdFUE02clAzVnlTSVhiR0JJcURla1pvTUdNbWFjbXJHSk45UXkyN2UyNE1mcV92YXpYazdvbWFpMnpwcDhoaWxiNkc1czNHbg?oc=5",
+   "pub": "Tue, 10 Nov 2026 09:25:48 GMT",
+   "engine": "gnews",
+   "query": "대전 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "대전시의회 권인호 의원, “침수사고 발생한 지하차도...안전시설 설치 제외 기준 재점검 필요” - 굿뉴스365",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rZ0pFWlZ0clhfQUNURVNmM0hPaHVOWl9MdUVLejZVM3BhM041a1RsQXF4Z2JYS2lnTklKVFJWdkRNbWhmNkIwbjNMNl84WllsaUVpazB3MjNacjYzbjdKOEVfanRvTTkwckhxWnNGRnpoTHJqYXc?oc=5",
+   "pub": "Tue, 10 Nov 2026 07:16:00 GMT",
+   "engine": "gnews",
+   "query": "대전 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "권인호 대전시의원 \"침수사고 지하차도가 안전시설 설치 제외 대상…재점검해야\" - 더팩트",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16UVN0RXhSQlEtQ2xDZGpTbDZPMEdyUWw1TEltbW9ER2tWeFJobHZFYndTLVRpZzc4QUhNMkZWU0lEUzBtc3hKVXFFWWxlcTVJRUVtWl9R0gFWQVVfeXFMTXpRU3RFeFJCUS1DbENkalNsNk8wR3JRbDVMSW1tb0RHa1Z4UmhsdkVid1MtVGlnNzhBSE0yRlZTSURTMG1zeEpVcUVZbGVxNUlFRW1aX1E?oc=5",
+   "pub": "Tue, 10 Nov 2026 07:46:00 GMT",
+   "engine": "gnews",
+   "query": "대전 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "권인호 “대전 지하차도 침수예방 시설 재점검 필요” - 디트NEWS24",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PZzJicWZad0ZXZ09TZXFGbUVqZE4wd1lPSVVrOC1PZlNjbVFpTjhCeE9BeTZiZTQ5SkJLQUNsbVVVSUtreThpUHZzVGNrc19IanFLYlBlZ1RmZUVMcTc3ZnkzWmlOaVRiZk1R?oc=5",
+   "pub": "Tue, 10 Nov 2026 08:22:29 GMT",
+   "engine": "gnews",
+   "query": "대전 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "안전 허점·재정 부실 우려까지…대전시의회 행감 '송곳 추궁' - 대전일보",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXdlV4NlMzcUNVTE40OFlHZDRLc2hmaDhSb3E5UVBaRmV5clhMZkRyWG8xZmJQcjdzWnRXcmEzSG8wOVlMZmtaQ0RuTVFqc2dnSnhVRmdBNFN2eWZ3LUU5Rnp0NjNlc2dvME85bk9zRdIBc0FVX3lxTE1oOGJ1RGdlN18xRTVpaUp3UXA2VlhsVDRnT2tDYkhvTlB3NW5FYzEwbHBleTR1Zk1WQkdia0QzaHZxbXJLa2FyZDBuVDh2cUlsR1V4cDNfd1YtaGdic1hGVVU2YUo2RGxFOUpRMVN6MldJMDA?oc=5",
+   "pub": "Tue, 10 Nov 2026 09:28:00 GMT",
+   "engine": "gnews",
+   "query": "대전 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "권인호 대전시의원 “지하차도 침수 예방시설 전면 재점검해야” - 충남일보",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pQV8tWEVmeGlYYTRVWjRFQzNzZ3VDcEtPUVc2b1NYMWVqaFR4LVBnWktGaEVDOVdqQ1VTRFhldVp1SGRKSkI2REFVaFFBTFlEd1JJOXNmbXgtUC1PTFdnb3lGOVBzdDROSkVvcVVSZV9DNVE?oc=5",
+   "pub": "Tue, 10 Nov 2026 08:22:29 GMT",
+   "engine": "gnews",
+   "query": "대전 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "권인호 대전시의원 “침수사고 난 지하차도… 안전시설 제외 기준 재검토해야” - 뉴스파고",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5NSkdVRzdmcTNXcFZMbHFBSzNaUld6UnlJYzQ3ekxzenl5QjRiSXNlZ0k3ejhlMlFjRVBWQ2o2Y0lfT0JV?oc=5",
+   "pub": "Tue, 10 Nov 2026 07:43:00 GMT",
+   "engine": "gnews",
+   "query": "대전 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "권인호 대전시의원 “침수 이력 지하차도 안전시설 제외 기준 재점검해야” - 뉴스홈(newshome)",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MdFpxSzkyUDdGckZhaXlwV3g1QXU4bkhQTTBsekRJT1VORmZoNU1INC0tR3V6VEtKanFOcWIzeWExYUJ6cmdWUzFZMXpFaVdFQkxaTnhQWmxrTmR4c0RnVmxpd1BZYkdsSTNnSG5R?oc=5",
+   "pub": "Tue, 10 Nov 2026 07:52:48 GMT",
+   "engine": "gnews",
+   "query": "대전 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "권인호 대전시의원, 지하차도 차단시설 제외 기준 재점검 요구 - 뉴스티앤티",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Nby1pa1NINUpRYkctY1V0WHpPTTUzTTZsVWI4OGxBUjFsSF9xdzhELTMta2k0MFAybmV1bUhmZmJjb0FsUHhJdXhwbmdmaEJ1WlAyaHhQU1B1Qi1tRExHaTVZVlVPQllxQ2c?oc=5",
+   "pub": "Tue, 10 Nov 2026 08:58:51 GMT",
+   "engine": "gnews",
+   "query": "대전 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "그래서 스카프 같은거 나눠줬는데 지윤이 다 주고 사진 찍어주기 오랜만에 잠실 원샷 먹어주고 퇴근하고 옴 + 자꾸 주자 쌓아서 힘든 나와 학교에서 옴 + 지고있어 힘든 지윤이 이거... 그리고 바로 담날 4월 10일 금요일~ 또 야구 보러^^ 대전 갔네요 야무지게 빵 털고 넘 추워서 다들 빡빡 입고 옴 타이것스로 간 태양아조씨와,,, 내 포수 주황소세지 최재",
+   "url": "https://blog.naver.com/allrang2/224471719867",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "아까 페더데일에서 캥거루 보고왔는데 캥거루 고기를 시켰다ㅋㅋㅋ 리조또랑 어니언링도 함께 시켜먹었는데 오 정말 맛있었다. 캥거루가 근육질이라 맛이 없다고 하는데 여기는... (달링하버에서 불꽃놀이를 기다리는 저녁 8시에 쓴다.)마지막 일정을 앞둔 날이 밝았다ㅠㅅㅠ 아침에 실감이 나지는 않았다. 그냥 빠르게 준비를 하고 아침부터 피쉬마켓에 갈 준비를... 새 ",
+   "url": "https://blog.naver.com/nightowldesigner/224459114523",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "퀴즈 온 더 블럭 특별판 245회 04:55 잡학자들 45화 TV조선 01:30 살맛나는 세상(881회) 04:10 금타는 금요일 특별판(2회) 05:00 명의보감 닥터스(21회) 06:00 한 컷의 비밀(45회) 11:40... 불붙었다염유리X이소나 '불꽃처럼' JTBC 00:00 냉장고를 부탁해 since 2014 96회 블랙핑크 지수 출격! 월드 스타",
+   "url": "https://blog.naver.com/pessimo/224470566693",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": ": 어 누나 닮았다 썅 ㅋ 기장의 목적 롯데월드 ♡ 이케아-용궁사-롯데월드를 하루만에 다 가는 장원영스케쥴을 소화하고 집가서 기절함 .. 심지어 난 놀이기구를 좋아하지도않는데 바이킹 맨 뒷자리와 2시간 대기해서 롤러코스터 같이 타준 나 .. 레전드 안정형 여친아님? ㅋㅋ 암튼 불꽃놀이도 보고 행복했우요 우리집 앞에 미미가 생겼어요 ♡ 동파육덮밥과 쏸라탕 여",
+   "url": "https://blog.naver.com/baeminjeong1004/224470538677",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "Oh, and Mrs. Spencer, you too. 아, 스펜서 부인, 당신도 포함이에요. Oh, I knew they wouldn't forget me. 오, 날 잊지 않을 줄 알았어. C'mon, Dad, let's get out of here. 이봐요, 아빠, 어서 여기서 나가요. Slow down, boy. What's your hurry? 천천",
+   "url": "https://blog.naver.com/jsenglishworld/224469674285",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "10월 31일자 쇼!음악중심 음악방송을 통해 8년만에 뭉친 베스티 지난주 주말 동안 어쩌면 가장 큰 파장의 소식이었죠? 지난달 소식때 언급했던 <연애의 조건>으로 역주행을 했던... 보통 그런 경우는 시상식 시즌으로 인해 컴백 그룹이 없어서 기존의 1위 곡이 꾸준히 롱런을 하는 연말 연초에 많은데 이번 A2O LITE의 9관왕은 무려 연말 시즌 이전 마지막",
+   "url": "https://blog.naver.com/sunnewstar22/224469222363",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "야간개장 날 오월드는 09:30부터 21:00까지 열어요. 불꽃쇼는 매주 토요일 19:30 플라워랜드에서, 11월 21일이 올해 마지막입니다. 야간개장 입장권은 성인 13,000원, 자유이용권은 26,000원이에요. 플라워랜드의 나이트 유니버스는 12~2월엔 쉽니다. 12월부터 2월까지는 밤 산책 코스가 빠진다는 뜻이에요. 평일과 겨울 운영시간은 날짜마다 ",
+   "url": "https://blog.naver.com/bit_blog/224469109589",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "제공된 기사에는 롯데월드 일대의 세 가지 코스와 에버랜드의 가을 콘텐츠가 소개돼 있습니다. 다만 기사에 행사 연도가 명시되지 않아 소개된 11월 종료일을 2026년 운영 일정으로... 기사에는 낮 퍼레이드 ‘스마일리 펌킨 퍼레이드’, 실내 서커스 ‘윙즈 오브 메모리’, 야간 ‘문라이트 퍼레이드’와 불꽃쇼가 소개돼 있어요. 낮과 밤의 볼거리가 다른 만큼 공연",
+   "url": "https://blog.naver.com/foxldh/224468905214",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "이것이 바로 베이스-12, 12차원 에카샤 갓-월드(God-World) 머카바인 '크룩센세이타(Eternal Life Field: The 'Ankh')'입니다. 이는 단순한 에너지 장이 아니라, 영원한... 이는 6~12개의 서브 주파수 밴드만을 가지며 베카 월드(Veca Worlds) 내부에 속박되는 반면, 에카샤 갓-월드 머카바(크룩센세이타)는 삼중 축",
+   "url": "https://blog.naver.com/hostmasters/224468510850",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "보니 불꽃놀이가 한창이었다 불꽃놀이 보면 너무 예쁘지만 사람이 많아서 갈 엄두가 안 났는데 집에서 볼 수 있다니..! 비록 오빠방 창문으로 빼꼼 보인거지만 너무 행복 하지만 오빠는 불꽃놀이보다 치킨이 중요해보였다 1분 보고 배고프다며 끝..ㅋㅋㅋㅋㅋㅋㅋ 개편 후 첫 교회 팀모임 새로운 사람들 알아가는 것은 언제나 재밌어 팀리더를 하면 하고 싶은 걸 맘껏 할",
+   "url": "https://blog.naver.com/yh_han121/224468570205",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "어떻게 감쪽같이 사라질 수 있죠? 아줌마 2: 그러게요 정말 귀신이 곡할 노릇 아니에요? 아줌마 1: 아유 무서워서 살겠나 지호: 혹시 그 이사 온 집 말하는 건가? 이름이 아마 요섭 이랬는데 현우: 아 몰라.... 배지 빼앗기 내가 뭘 알겠어..? (현우는 그렇게 말하며 간다.) 게이츠: 저 녀석 다이키 녀석 때문에 힘든가 보네 셀레네: 그러게 하리: 야",
+   "url": "https://blog.naver.com/yejune627/224468448270",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "이제는 플란넬 셔츠와 시애틀, 그리고 비 내리는 날씨가 대세였어요.” Dino Cazares, (피어 팩토리): “1995년, 피어 팩토리의 두 번째 앨범인 Demanufacture가 발매됐을 때, 샤론과 오지는 우리를 거둬들여 월드 투어에 함께 데려갔습니다. 그러던 중 샤론을 통해 롤라팔루자 측이 오지의 출연을 거절했다는 이야기를 들었어요. 오지가 ‘너무",
+   "url": "https://blog.naver.com/surek-/224468313408",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "드론쇼와 불꽃놀이 보고 기 빨려서 바로 집으로 귀가햇어 이 때 개막식에 리센느 온다해서 사람들 5만명 왔다고 들었는데 공연 보고싶었지만 더 이상 기다릴 자신이 없어서 드론쇼, 불꽃놀이만 보고 빨리 집으로 갔다 축제 갔다오고 집에 와서 샤워 후 레몬진으로 마무리했다 혼자 마신 거 아니고ㅎㅎ 엄마랑 같이 마셨어요♡ 다음날 일요일 오후, 우연히 내가 쓴 8월..",
+   "url": "https://blog.naver.com/mandy1016/224467922806",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "차 탈때마다 기절 엄마가 정주니 집에도 한박스 주고 오라 그래서 배달옴 ㅎㅎ 나만 먹기 아까운 맛이야 널리 알려야해 용가훠궈 또 옴 ㅎ 새우완자 추가는 필수임 나는 3번 추가해 먹음 오늘의 채린소스 별점 5점 드립니다 ~ 해산물간장4 굴소스0.5 고추기름1.5 참기름1 설탕마니 태국고추1 다진마늘1 다진파1 ((공익을 위해 레시피 뿌릴게요 ㅋㅋ)) 너무 배",
+   "url": "https://blog.naver.com/dearlinyy/224467805019",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "불꽃놀이나 드론쇼도 원천호수쪽에서 한다. 가끔 버스킹 공연도 하고 대부분 놀러 오시면 원천호수 쪽을 둘러보고 가시는 듯. 광교호수공원 원천호수 야경 원천호수 단풍 풍경... 가끔 옴) ☑️ 화장실도 곳곳에 있음 원천호수는 수원컨벤션센터와 갤러리아백화점과 가깝기 때문에 신분당선을 타고 지하철로 오시는 분들은 원천호수쪽으로 즐기시는 것을 추천! 물론... 새 ",
+   "url": "https://blog.naver.com/rabbit_nn_artist/224467301556",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "불꽃놀이도 해주었읍니다 우리 불꽃놀이하는 거 세 개만 샀는데 너무 아쉬움 근데 더 하기엔 돈없숴~ 그래도 ㄱㅊ음 옆에서 다 불꽃놀이 중이라 무료로 감상 ㄱㄴ함ㅋㅋㅋㅋㅋㅋㅋㅋ... 아 놀이공원 가고 싶다ㅏ 했는데 우리 다 롯데월드 ㄱ-??? 해서 롯월감 후렌치 기다리는데 대기시간 2시간 30분..; 후렌치 기다리기 힘드니 그네로 이행시 가겠습니다 . . . ",
+   "url": "https://blog.naver.com/minji0597/224467242172",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "토요일 오후 8시 40분에 한 불꽃놀이✨ 근데 진짜 짧음 주의 한 3분..? ⭐️⭐️ 오월드 동선 추천 ⭐️⭐️ 09:30 오픈런 - 사파리 탑승 - 10번 와일드스톰(⭐️꿀잼 강추) -17번 후룸라이드... 대구로 올 때쯤에는 비가 왔다 하도 짐을 바리바리 들고 있었더니 어디 긁혀서 피가 철철 남 ㅋㅋㅋㅋㅋ 가을의 중심에서 재밌게 놀고 먹고싶은 거 다 먹",
+   "url": "https://blog.naver.com/lgl10422/224467201078",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "<14화> 지싱엄마의 강요(?)로 새해맞이 불꽃 놀이를 보러가게 되었던 지싱과 한팅 아직 사귀기 전이긴 하지만 이때부터... 칭다오홍수림리조트월드 山东省青岛市黄岛区隐珠街道滨海大道3588号 여긴 칭다오에서 차로 한시간 거리인 황다오에... 비록 관광지랑은 많이 떨어져 있어 쉽지 않은 다카장소이긴 했지만 드라마의 핵심이 되는 곳을 직접 담고 온 내 자신을 계속",
+   "url": "https://blog.naver.com/bogus1223/224467002508",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "잠실 롯데타운 크리스마스 마켓 예약, 11월 9일이에요 2026 롯데타운 크리스마스 마켓 사진 출처: 롯데백화점몰 롯데타운 크리스마스마켓 페이지 올해 콘셉트는 19세기 영국의 크리스마스예요 기간: 2026년 11월 19일(목)~2027년 1월 3일(일) 시간: 매일 11:30~22:00 장소: 잠실 롯데월드타워 앞 월드파크 잔디광장 입장: 일반 입장권 무료",
+   "url": "https://blog.naver.com/hiomogi/224466877890",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "퇴근하고 불꽃놀이 한다길래 같이 공원 햄버거 떵개했어여 롯데리아 불고기 버거 좋앙~ 불꽃놀이랑 드론쇼 재밌었어요... 롯데월드몰을 갔어요 롯데월드몰에 티원이 너무 많아요 월즈 화이팅이다 얘들아 잘하고 와라 우승하고 오면 더 좋겠다!!!!!... (나도 퇴사...) 전부 공개는 못 하고 일부 공개합니다 못 온 친구들 한마디씩 받아서 포스트잇으로 꾸몄어요 하하",
+   "url": "https://blog.naver.com/wintermh1103/224466643109",
+   "engine": "naver_blog",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "147 (보만 스님 1부) 지식인사이드 133만4개월 전 30:04 사랑스러운 아기가 거대한 개와 귀여운 ‘대화’를 나누는 순간 PetArmy 86만10개월 전 1:08 라이브 \"무신사 채용 합격하셨습니다\"…인사총무팀에서 받은 연락, 알고 보니 [지금이뉴스] / YTN YTN 43546분 전 42:54 방송에서 고백한 최불암의 진심 \"내 인생 최고의 운명은",
+   "url": "https://cafe.naver.com/jmsong0829/76321?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imptc29uZzA4MjkiLCJhcnRpY2xlSWQiOjc2MzIxLCJpc3N1ZWRBdCI6MTc5NDMwOTM4NjUwNH0.-4krr-mjGbleJvbCdRk175h1HLXUvuHo1vP5IFYQ-C8&q=%ec%98%a4%ec%9b%94%eb%93%9c%20%eb%b6%88%ea%bd%83%ec%87%bc&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "ㅎ 1일 1랍스터 하고파요 ㅎ 동선 및 주문 팁 북부 일정 (럭키쉬림프) 빈원더스, 빈펄 사파리, 그랜드월드 방문 날에 함께 방문하기 좋습니다. 어린이가 매운 음식을 못 먹을 경우 버터갈릭 양념이나 크림... 남부 일정 (크랩이지) 혼똠섬 케이블카나 선셋타운 쇼 감상 일정에 맞추기 좋습니다. 저녁 불꽃놀이 시간대에 맞춰 창가석을 사전 예약하면 식사와 공연 ",
+   "url": "https://cafe.naver.com/minecraftpe/4010422?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1pbmVjcmFmdHBlIiwiYXJ0aWNsZUlkIjo0MDEwNDIyLCJpc3N1ZWRBdCI6MTc5NDMwOTM4NjUwNH0.IEC_4kgtj6nMxX_ID5aIc2ij5DXsEDtW19b5Qz9AC34&q=%ec%98%a4%ec%9b%94%eb%93%9c%20%eb%b6%88%ea%bd%83%ec%87%bc&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "오랜 시간 이어져 온 발효의 지혜는 우리 몸에 어떤 변화를 가져올까? . 2026년 11월 4일 수요일 밤 10시 KBS 1TV <생로병사의 비밀> K-슈퍼푸드 2부 ‘삭 : 죽어야 사는 음식’에서는... 한국에서 온 배우를 보고 잘생겼다며 연신 칭찬을 하는 주인... www.ebs.co.kr ------ 05:00 왕초보 영어 제2840회 직업 – AI를",
+   "url": "https://cafe.naver.com/dlxogns01/446639?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6NDQ2NjM5LCJpc3N1ZWRBdCI6MTc5NDMwOTM4NjUwNH0.09K4FQ7zjbDPuGJUhhHyPOkMTNEEFLEMt3JF9FYFjmk&q=%ec%98%a4%ec%9b%94%eb%93%9c%20%eb%b6%88%ea%bd%83%ec%87%bc&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "[영어 스피킹/발음 팁] ordinary: '오-더-내-리'보다 '오-더-내-러-리' 또는 미국식 발음으로 [오-더-네-리]처럼 자연스럽게 이어 연습해 보세요. Trace Middle: 학교 이름이므로 '트레이스 미들(중학교)'로 읽으시면 됩니다. 1장 로이는 평소 등교 버스 창밖을 내려다보지 않았기 때문에, 데이나 매더슨이 아니었다면 그 이상한 소년을 알",
+   "url": "https://cafe.naver.com/lifelongenglish/4439?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxpZmVsb25nZW5nbGlzaCIsImFydGljbGVJZCI6NDQzOSwiaXNzdWVkQXQiOjE3OTQzMDkzODY1MDR9.i1l1ZgRFxdOj6nwQLYKRWDexhNpHszTLGjytm0W5jsw&q=%ec%98%a4%ec%9b%94%eb%93%9c%20%eb%b6%88%ea%bd%83%ec%87%bc&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "3️⃣ 성의 있는 댓글을 남겨주세요 4️⃣ 참여한 글과 댓글은 유지해 주세요 5️⃣ 카페 운영 원칙 준수 ...... ♤딱 7일간만 열린다는 오월드 여름축제♤ 오월드로 고고요~ 7일간 열리는 오월드에서 아이들과 함께 낮과 밤의 신나는 여름축제가 있대요 시원한 물총놀이와 밤의 불꽃쇼까지~ 재밌는 시간 될꺼 같아요 저도 시원한 야간 개장 불꽃쇼 보러갈까봐요~새",
+   "url": "https://cafe.naver.com/dodamdadam1004/2792787?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZGFtZGFkYW0xMDA0IiwiYXJ0aWNsZUlkIjoyNzkyNzg3LCJpc3N1ZWRBdCI6MTc5NDMwOTM4ODk3MH0.dqGU0m524wKEq1M9dYLvIgZOEU8gM6Pr0ZrnITASweA",
+   "engine": "naver_all",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "조명 켜진 오월드 구경하면서 천천히 돌아다니기도 좋았어요. 그리고 제일 기대했던 불꽃쇼! 밤까지 기다린 보람 있었습니다ㅎㅎ 애들도 불꽃 터질 때마다 엄청 좋아하고, 하루 마무리하기 딱 좋았어요 여름축제 + 야간개장 + 불꽃쇼까지 한 번에 즐길 수 있어서 아이들이랑 하루 제대로 놀다 오고 싶은 분들은 괜찮을 것 같아요~ 저희는 생각보다 오래 놀다 왔네요새 창",
+   "url": "https://cafe.naver.com/ksn82599/364871?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtzbjgyNTk5IiwiYXJ0aWNsZUlkIjozNjQ4NzEsImlzc3VlZEF0IjoxNzk0MzA5Mzg4OTcwfQ.f5x8G7L51AMHfir3Dw8AwdbcRhMjMOv7-DkTaiX6RJc",
+   "engine": "naver_all",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "카톡으로 온 바코드만 보여주시면 끝입니다 ㅎㅎ 온라인 구매 고객용 무인매표소가 정문 오른쪽에 따로 있어서 QR 찍고 바로 들어가는 구조입니다 ㅎㅎ 아 그리고 컵라면, 킥보드... 저라면 토요일 오전에 들어가서 사파리랑 설명회 챙기고 밤 8시 40분 불꽃쇼 보고 나오는 걸로 잡겠습니다 >>오월드 10월 야간개장 자유이용권 예약<< 대전 오월드 자유이용권...",
+   "url": "https://blog.naver.com/mojji486_/224441615362",
+   "engine": "naver_all",
+   "query": "오월드 불꽃쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "체결을 기념해 이날 저녁에는 대형 크리스마스 트리 점등식과 불꽃놀이가 열렸다. 배우 구시후의 캐럴 공연과 마칭밴드 퍼레이드...여주의 다른 관광자원과 연계하는 방안도 추진한다. 세종대왕과 한글 관련 역사문화 자산, 남한강의 자연경관 등에 크리스마스...",
+   "url": "http://v.daum.net/v/20261110180230991",
+   "engine": "daum_news",
+   "query": "세종 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "세종 휴게음식점서 불, 1시간만 진화…9200만원 피해 - 뉴시스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLVnJrQWpkcWhYc0o3eUhoNlZIN2c0VEZiS28xZ3hXQ3k0VnQzcnB5ZklmMTdLZk9wQlI3dU5MblB5LWMxUncxNm4wclB0OEJHeFRqNTRZU25DU1Zac1dSQ9IBeEFVX3lxTE0wR3RVQVA3cWFXNmJaemFlZWdaWURLdmNvR0hOMVY4VVR4ZkJJR3RvVDRwN3JjaXBNdlpXSEZITmYyM281dl9jOG1DWl9mRExmQlA3T0s4Uk9zX1otNzMza012clBEOWRjTGdMS0ctQVV5ZWpGbkZfNQ?oc=5",
+   "pub": "Thu, 05 Nov 2026 23:54:41 GMT",
+   "engine": "gnews",
+   "query": "세종 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "세종 금남면 카페용담 인접 건물 화재…9,276만원 피해 - 대전인터넷신문",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11eGtJSms1bFJ0SVh4Rmp3V0hYcXY4a2V5UE9FRkpra3FrYlNubmxnWVlDM2lkVTFjS0w4aEFYUFB6aFpLTXRjdmxpLWYxckVNaEEw?oc=5",
+   "pub": "Thu, 05 Nov 2026 23:40:43 GMT",
+   "engine": "gnews",
+   "query": "세종 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "고대·홍대 세종캠퍼스 신입생 '5명 중 1명 이상' 서울 출신 - 메트로세종",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02NExyeTVfZVAwcy1nRlN3VU1zLUltcnd0TDBqR0I1ekhDdEpMamVyRkg4X1JsRDY1SElrbnY1OHljOTdoZmwxS3ZvSVJkTEhGbXFaaDJkVDZmWWI5aTBPR09fVENkWnEyTnl3ctIBb0FVX3lxTE1raWp0dkFHTTZLcjFWd2l0S2U5b0tHUVdNQUs4dG0zYXRuTEFycXlERDNfMmYxWEpwZWFJRUlUdWk5ZlEzR29kdWR5TGVNbzZMQ2RLLWt5M1lNRWlqbk5SQl9lRE44bUlJTjNzTzFYUQ?oc=5",
+   "pub": "Sun, 08 Nov 2026 09:00:48 GMT",
+   "engine": "gnews",
+   "query": "세종 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "세종 휴게음식점서 불, 1시간만 진화…9200만원 피해 - 뉴시스",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CLTdPM21KYTktbjFIQk9QUnN5S0hMd1BaVy1DbXZpS1ctUzdWZnJwMUdWenBta2dyR2QteHhvaE9KempDN0dFYm5hMnRMMjc2aDVQZmFrYm9Jd1VGbWphNGZR?oc=5",
+   "pub": "Thu, 05 Nov 2026 23:54:41 GMT",
+   "engine": "gnews",
+   "query": "세종 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "전국 시·도 중 9년 새 '날씬한 주민 비율 높아진 지역'은 세종 뿐 - 메트로세종",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrSVpIQmFKeWpKRC1BX083LVFIOTE4VmNjQ2RUbWZWNndJZTR6TTFBemVDZGpzYTB0azN4QmhNX2NfQnpnQ2gyQlhSTG9NTkV0WE5NZWs4WF9HT0l0azdTR1E3dmZMbTM2RGd2UNIBb0FVX3lxTE9XekE1QWxpX2RYRFRtbU9lX3hEZFp6VC1seVoxWFJtblFjLS1PY1k0MFpJUVI1SUoyM2NaTzV3MXBuVmNKdko5SWw5MjRTTWNlMGdnTFh6Z1h3SVBlbmI2V19qMlV5c0dqXzBHYjlOQQ?oc=5",
+   "pub": "Mon, 09 Nov 2026 07:43:10 GMT",
+   "engine": "gnews",
+   "query": "세종 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "iH와 계룡건설 관계자들이 AI 기반 스마트 안전 시스템 도입을 위한 설계협의회의를 진행하고 있다. 인천도시공사(iH)가 서구 검암...차 충전소 화재 예방시스템, AI 지능형 방범카메라, 주차장 불꽃·연기 감지시스템 등으로 구성된다. 사고가 발생하면 즉시 통합...",
+   "url": "http://v.daum.net/v/20261110113551035",
+   "engine": "daum_news",
+   "query": "계룡 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "화재 예방 시스템, AI 지능형 방범 카메라 시스템, 주차장 불꽃 및 연기감지 시스템 등을 통해 사고 발생 즉시 통합 관제센터에...대한 예방 및 신속한 후속 조치가 가능하다. 이를 위해 iH와 계룡건설 등 사업 관계자들은 지난달 28일 시스템 구축 회의를 개최하는...",
+   "url": "http://v.daum.net/v/20261110103623650",
+   "engine": "daum_news",
+   "query": "계룡 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "전기차 충전소 화재 예방, AI 지능형 방범 카메라, 주차장 불꽃·연기 감지 기능 등을 갖췄다. 사고 발생 시 통합관제센터에 비상벨...낙상과 폭행 등 안전사고 예방에도 활용한다. iH와 계룡건설 등 사업 관계자들은 지난달 28일 구축 회의를 열고 시스템 도입과...",
+   "url": "http://v.daum.net/v/20261110103044240",
+   "engine": "daum_news",
+   "query": "계룡 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "배터리 과열로 인한 화재 위험을 사전에 차단한다. 주차장 내 불꽃과 연기 감지 장치도 함께 설치된다. 아이들과 노인이 주로 이용...위급 상황에 신속히 대처할 수 있다. iH는 시공사인 계룡건설 컨소시엄과 실무 회의를 이어가며 세부 안전 기준을 조율하고...",
+   "url": "http://v.daum.net/v/20261110102421886",
+   "engine": "daum_news",
+   "query": "계룡 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "위험을 줄인다. 단지 내 놀이터와 보행로에는 AI 지능형 카메라를 설치해 낙상과 폭행 등 안전사고를 감지하고, 지하주차장에는 불꽃·연기 감지 시스템을 도입해 화재 발생 시 신속한 대응을 지원한다. 시스템의 안정적인 구축을 위해 iH와 계룡건설 등 사업 관계자...",
+   "url": "http://v.daum.net/v/20261110094622718",
+   "engine": "daum_news",
+   "query": "계룡 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "인천도시공사, 검암 S2BL에 AI 스마트 안전시스템 구축…공공주택 확대 검토 - 녹색경제신문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5VUp6VjhOaGdLSUUwREFVM0NwLXJRelVFZDJBU3BZZkJHV1hpbm12Q0czanlYeUxxajdmTzJPcmhoSm5qMkowT2lxbmtrX0dqUURPOV9VbzJWX19TWkl3ZVR1RUtyY1Nu?oc=5",
+   "pub": "Tue, 10 Nov 2026 09:40:24 GMT",
+   "engine": "gnews",
+   "query": "계룡 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "iH, 검암 S2BL에 AI 스마트 안전 시스템 구축한다 - 뉴시스",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xQmdmN3hlQlp2VDlBMGhEYzR0eXB1ZTR2WWVrRXdzZ1pEeUpFNUw0dWp1U1dUQzd4YkloLTBpNTB1YXVDTFBwUFNYWG04X1kzVkdQc0NZa1JmMEVEcHZzc2VKSEtaczJHTjZvWkVTbmN5dkRPTzhxSNIBeEFVX3lxTE8xQmdmN3hlQlp2VDlBMGhEYzR0eXB1ZTR2WWVrRXdzZ1pEeUpFNUw0dWp1U1dUQzd4YkloLTBpNTB1YXVDTFBwUFNYWG04X1kzVkdQc0NZa1JmMEVEcHZzc2VKSEtaczJHTjZvWkVTbmN5dkRPTzhxSA?oc=5",
+   "pub": "Tue, 10 Nov 2026 01:28:52 GMT",
+   "engine": "gnews",
+   "query": "계룡 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "인천도시공사, 검암 S2BL에 전기차 화재 예방 AI 시스템 구축 - 경인미래신문",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zSWRpWE9iQlN2T1dweEQzaXdOU2cwd3VWUUtjTEdGa1dnTElQbE1zZ29TRjZYcGFod2VhNFFBdDgzUTh2NVE4bTl5WkpDaGozVndleU00RkJSd0ZoVnl1WjBn?oc=5",
+   "pub": "Tue, 10 Nov 2026 06:25:07 GMT",
+   "engine": "gnews",
+   "query": "계룡 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "인천 검암 공공주택에 AI 안전망…화재·생활사고 사전 차단 - 데일리안",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVlhLVE5fVkplNXJ4MUJkUi11bWxEYW9yLS1raHI3VHNRcGpnTGdhUEdkZU9UMDljSmhldWhudG9ocXpnaEN6elRkMFYyZHpoUlhOc2l3bGlwOVFLdzdmbi1TT0xRNlJKRXo0dy13eGhMSWFFLVJDN2tWeWYwRDVEM0plR1BieVFRMlEySkZIV3U2cmlJZG53OTMwVGY1NFAwZUh6bjdSeWxzVllsNHprSE5fTHBGTzFtSF94VkE2MGdDdE42c01jQVItREZoLTdFcWZuMW9seno1VW42QWNlUFprWkg2aFNWdmZCclN1bS11X2NUTndISlNWVVNfYmJfY1lHMUFJbFFsQjd0Unc?oc=5",
+   "pub": "Tue, 10 Nov 2026 00:45:00 GMT",
+   "engine": "gnews",
+   "query": "계룡 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "집에서 구경한 에어쇼, 불꽃놀이 에어쇼 처음보는데 넘 멋졌음 김밥나라 하남점 치즈떡볶이 진짜 맛있고 고추참치김밥... 날 놀이기구보다 가챠에 진심인 그녀 ㅋㅋ 귀여운 머리띠도 하구 얄루얄루~ 츄러스도 먹구~ 사파리에서 사자, 호랑이두... 울집 공주님 선자띠랑 떠난 순천여행~ 열심히 서치하고 찾아간 덕분에 대 만족이었던 횟집 ㅎㅎ 햄 볶아염~*^^* 행복한",
+   "url": "https://blog.naver.com/tlstjswk33/224471877605",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "나를 이렇게 안정적이게 만드시는지 이 계절 냄새.. 시원함.. 긴팔.. 참 설레게 만듭니다 : 9월과 10월을 사랑하는 이유들 전에 먹었던 하티 무화과 샌드위치가 또 먹고싶어서 부랴부랴 운동 끝나고 다녀왔어요 날씨가 정말 사랑이에요 보이나요 무려 맨 투 맨 ! 장례식 갔다가 늦게 합류했는데.. 혜지 언니집 참 뷰맛집이다 ㅜㅜ 나도 서울에 집 한채만 ..ㅎ?",
+   "url": "https://blog.naver.com/zeeun_i/224471847208",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "있는거니 공주야 호동이 꼬리는 언제부터 저렇게 동그랗고 예쁘게 말려있었지 무의식의 흐름 오늘도 맛있는~ 사장님과 직원분 다 친절하셔서 갈 때마다 행복하다↕️ 산책 후... 아기 친구들이 놀이터에서 열매 주워서 챗지피티한테 물어봐달라 할 때 가방에서 딱 꺼내면 최고일텐데 그물 놀이터에서 놀다가 비가 와서 집으로 오후엔 돼지 만나 교보문고... 새 창 열림",
+   "url": "https://blog.naver.com/blewwhite/224471804605",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "아무튼 구경햇다 반짝반짝 근데 앞에 커플분들 찍어준 거 절대 아님 ,, 근데 나름 예쁘게 나온 것 같은디 불꽃놀이도 환상적 ! 도연정을 잊기 위해 다른 곳을 갔지만 난 도연정이... 운동복차림 이제 춥다 근데 7부 바지 포기 못함 ❌❌ 요즘 빠져버린 노래 내 취향 ,, 쌤덕에 한 ~ 거 먹은 날 간술 못했음 ~ ,, 출근 덕분에(?) 일찍 귀가 토마토 빼고",
+   "url": "https://blog.naver.com/como1176/224471751812",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "것마냥 불꽃만 보며 걷고걷고걸어서 불꽃놀이 짜 - 잔 생각보다 힘들었지만 집에 오는 내내 불꽃만 되새기는 걸 보니 하루가 예쁘게 마무리되는 느낌이라 좋았습니다 + 냐옹이 불꽃... 하고 뒷걸음치던게 여전히 웃기다 아웃백커의 기억을 되살려서 토마 썰기와 컵 쌓기 포즈 그나저나 공주님들 이쁘시다 닭도리탕 맛있게 다 먹고 스토리 꾸민 거 자랑하려고 폰 내밀다가.",
+   "url": "https://blog.naver.com/god-yeeun/224471715716",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "초록불꽃소년단 초불소도 에너지 대박 캐릭터 로고 귀여움 이번 페스티벌에서 카디에 푹 빠졌다. 멤버들 다 너무 개성... 개웃김 놀이도감 등장 놀이도감 노래 잔잔하면서 김춘추 보컬 너무 좋아요 베이스 치는 사람 느낌 개쩔음 잠깐 쉴 겸... 우비 입고 출격 비가 와도 즐거워 키라라 공주에서 짬뽕 먹다가 조금 늦게 왔는데 노래 둠칫 둠칫 신남 잘생겼다 솔루션스",
+   "url": "https://blog.naver.com/msg0907/224471648876",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "하지만 그대의 일주를 살펴보면 산 위의 불꽃이라 불리는 병술로, 발밑에 화개살과 백호대살을 함께 품고 있도다. 화개는 홀로 침잠하여 세상의 이면과 고독을 곱씹는 깊은 사색의... 스스로 즐거워서 몰입한 놀이가 곧 세상의 쓰임이 되고 밥벌이가 되는 복록을 타고났지. 년지에 자리한 학당귀인과 복성귀인은 어린 시절부터 남다른 배움의 감각을 열어주어, 세 살 적부",
+   "url": "https://blog.naver.com/d_in_i/224471584981",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "공주 부자떡집 갓어유. 알밤모찌 진짜 개마딧음. 고딩 때 먹었던 밤 에끌레어를 아직도 잊지 못해서 갔는데 ㄹㅈㄷ 웨이팅을 했지만 에끌레어는 품절이라서 못사고 밤파이만 샀어요...... 울고 싶다.. 먹으러 다시 가야함요 이건. 공산성을 예전에 처음 보고 예쁘다고 생각했었는데 오랜만에 보니까 좋았어요. 엄마가 찾은 카페인데 넓고 굿임 케이크도 마싯음. 그리고",
+   "url": "https://blog.naver.com/135kirio/224471543065",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "이제 막 시작해서 뭐가 필요한지 모르는 초보들! 만지작 풀카탈이 하고싶은데 도저히 방법을 모르겠는 사람들! 금도구를 갖고 싶은데 어려운 분들! 레시피를 쉽게 배우고 싶은 분들! 무주식이 힘들어서 쉽게 벨을 얻고 싶은 분들! 아래 메뉴 확인하시고편하게 문의주세요~~ https://ameblo.jp/ririyyririyy/entry-12978136528.htm",
+   "url": "https://blog.naver.com/nmm98638/224471541109",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "군산에 살아도 아이랑 밤에 내항을 걸을 일은 많지 않은데, 이번엔 저녁 먹고 공주랑 같이 걸어가 보고 싶어요. 불꽃이 처음 터질 때 공주가 어떤 표정을 지을지도 궁금하고요.... ♥ #군산불꽃축제 #2026군산불꽃축제 #군산불꽃놀이 #군산불꽃축제시간 #군산불꽃축제주차 #군산주차통제 #군산내항친수공원 #군산근대역사박물관 #동백대교 #군산아이와가볼만한곳... ",
+   "url": "https://blog.naver.com/onemoreday_7/224471499160",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "놀이 시간: 약 25~30분 참여 인원: 아이 3명 + 엄마 1명 준비물: 공주 인형 또는 왕관, 마법봉, 작은 동물 인형, 블록, 천이나 쿠션 오늘의 이야기 평화로운 마법... Fire Princess — 불 프린세스 불꽃으로 장애물을 없애고 얼음을 녹일 수 있습니다. Fire power! 불의 힘! Fireball! 파이어볼! I can melt it!",
+   "url": "https://blog.naver.com/sahel23/224471433121",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "망한 불꽃놀이 사진 ㅋ 아 그래두 꽤 볼만했음 ㅋ 셋다 추구미 다른것도 웃겨 ㅋ 아니 ? 나만 다른건가 ㅜ? 역시 빠질 수 없는 인생네컷 ㅜ 그리고 우리의 시그니처 포즈 . . 나 왜캐 작니?> 근데 내가 작은게 아니라 니네가 큰 거임 ㅡㅡㅋ 꺼억 ~!! 울집 고양이 보세요 귀엽죠 길고양이 같죠 ㅋㅋ 실제로 길고양이 데려다 키운거임 ㅋ ㅋ 놀고 집에갔더니 ",
+   "url": "https://blog.naver.com/yujin_3627/224471393889",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "유일하게 공주 대접 받는 시간이랄까.. 마트에서 자만추한 황치즈 미쯔 개당 990원 밖에~? 재고 털이 해왔구요 촉촉한 황치즈칩처럼 날 감동시킬 맛은 아니지만 황치즈 is 뭔들!!!!! & 집... (최근 원피스 최애 캐릭터 말투임 누군지 맞추면 나랑 영원히 애니 친구 하는 거야) 내 시점.. 부담.. 방석 해드리는 대가로 이런 재밌는 놀이도 가능합니다 ㅎ",
+   "url": "https://blog.naver.com/saigon97/224471378137",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "완벽한 놀이공원 룩으로 오셨어여 집 가기 전 듀오링고 타임 빈이 한달 프로그램이 나보다 알차서 깜짝 놀라요 이번 가을 첫 후리스 입니당 난 슬기가 아니야 오랜만에 농구 봤어요... 어쩌죠 불꽃놀이는 언제 봐도 좋아요 세븐일레븐 초코쿠키 전부 예약해버리기 다 다른 키티 나와서 기분이 좋잖아여 저녁에는 숯불에 닭 갔어여 윤아 언니랑 야구 보러 서귀포 가기 +안",
+   "url": "https://blog.naver.com/tjekgml984/224471347731",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "쟈니가 좋아하는 불꽃놀이를 볼 수 있는 구리 코스모스축제는 매년 빼놓지않고 챙겨다니고있다 동윤이는 아이 걸음으로... 공놀이 한 날 너네 둘 사이에 나도 좀 껴주겠어? 두 분 사랑 영원하심. ♥행복♥ 그거 평생 하세요~~ 나이트 출근 할 때... (애들 속마음)편의점 가야하는데 빨리 출근해버리지 버스 왜케 안 오는고징ㅠㅠ 기염댕이 공주 엄마 품 떨어져 처음",
+   "url": "https://blog.naver.com/starjian_/224471303305",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "네 첫시작 부터 야무지게 다 두고왔다네요 그것도 IC 진입해서 알았음 그니까 왜 여권케이스는 굳이굳이 때안타게한다고 고이 집어넣고 한지민께서 나 상하이 갈 때 딱 쓰라고 기가막히게 선물해주신건데 걍 미친놈이되 근데 그냥 조만간 또 가면되잖아? 혜진적사고 깃털가방도 털빠지지말라고 굳이굳이 포장해두고 고이 두고옴 이것도 러블리정원이가 사준건데 내... 새 창 ",
+   "url": "https://blog.naver.com/teinteniz/224471193228",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "동화/공주/스타워즈 팬 청소년, 성인, 스릴/영화/게임(해리포터, 마리오) 팬 대표 명소 스타워즈: 바투 행성, 신데렐라/오로라 성 해리포터 호그와트 성, 슈퍼 닌텐도 월드... 저녁: 불꽃놀이 및 야간 쇼(불꽃놀이, 판타즈믹)를 보기 위해 최소 1시간 전 명당자리를 확보합니다. 유니버설 스튜디오 추천 동선 슈퍼 닌텐도 월드 (Super Nintendo W",
+   "url": "https://blog.naver.com/vivid_rabbit/224471074309",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "블로그 할 생각이 없는 듯 ㅠ 암튼 한강 함 걷자길래 걸어가는데 사람들이 엄청 많은 것이였다 엥 뭐지 싶었는데 불꽃축제 보려고 나온 사람들이였다 대박박 그리고 얻어 걸린 그 영상 몬가 디즈니 공주님들 나올 거 같은 배경같지 응응 아무튼 넘넘 원하던 수영복도 드디어 가졌고 예쁜 불꽃놀이도 봐서 정말 완벽했던 하루 였다 그리고 며칠 뒤 . . . 보르도 다음으",
+   "url": "https://blog.naver.com/hiy0umi/224471063283",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "ㅠ) (하루종일 웨이팅 ㅠ 이게 다 불꽃축제 때문임) 꺄-오빠랑 첨 오는 합정 이가네 양꼬치 우린 이게 수도권에만 있는지 몰랐제.. 진쨔.. 양등심? 넘 맛있어서 소맥 가온나. 오빠랑... 진짜 다름 그렇다네요 저는 남자친구 앞에서 수다쟁이거덩요 올해는 에어팟끼고 유튜브로 불꽃놀이 시청❤️ 가기전: 꺅 설렌다 or 사람 많겠지..? 불꽃놀이 중: 꺄악 우와",
+   "url": "https://blog.naver.com/wjdthf413/224471046556",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "2026년 12월 전국 트로트 콘서트 일정 12월에는 서울과 수도권뿐 아니라 대구, 공주, 인천, 부산 등에서도 트로트 공연이 열린다. 12월 5일 조항조 — 성남아트센터 오페라하우스... 데뷔곡부터 최근 발표한 곡까지 지난 10년의 음악을 돌아보는 무대와 밴드 라이브, 드론쇼, 불꽃놀이 등이 대형 스크린으로 펼쳐진다. 일반 2D 상영과 함께 SCREENX",
+   "url": "https://blog.naver.com/daso-5/224471024378",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "진짜 입어보긴 했지만(도전이었음) 알러지나는 공주옷이었음.. 두번째옷 약간 로판에 나올 것 같은 공작딸래미 잠옷같아요 패쓰. 이러고 용산에서 맛커 찐커 즐기면서 여유를 즐기다가... 불꽃놀이를 내가 참 죠아했구나를 알았다! 예쁘고 벅차고 ..뭔느알?! 스미마셍을 백번 외쳐서야 집에 돌아올수 있었지만말이죠 그 여름 .. 뺀만큼 다시 채우는 일명 ‘생맥보존의법",
+   "url": "https://blog.naver.com/cheauen0123/224471011081",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "안녕하세요 리베에요. 이번주는 너무 바빠서 블로그 포스팅을 많이 못 했네요. 미루고미루던 한달 일기 9월 시작 할게요. 남편이들 새로운 곳 좋은 거 숙소를 잘 찾는 편이라 작년에는 유원재를 다녀왔고 올해는 사담재를 다녀왔습니다. 자세한 이야기는 다른 포스팅 할게요. #문경사담재 #미우미우스니커즈 가을이 생각보다 늦던 9월. 너무 더웠어서 그래도 항상 시즌을",
+   "url": "https://blog.naver.com/house_beige/224470991047",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "(드라이기 성능 좋더라구요) 객실뷰는 가든뷰인데 체크인 날은 밤이라 아무것도 보이지 않았지만 저 멀리 디즈니랜드 불꽃놀이가 객실에서 보이더라구요. (일본 디즈니랜드에 이어 상해에서도 객실관람) 조식은 1층 Sunnyside cafe에서 6:30-11:00 까지 이용 가능합니다. (2026년 1월 기준) 만 3세미만: 무료(성인과 함께 이용시) 만3세-11세",
+   "url": "https://blog.naver.com/arum17k/224470971276",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "아인공주 남자 아기 같지만 여자랍니다 집순이 엄마, 큰맘 먹고 산책 나왔는데 역시나 유모차에서 잠든 내 딸 커피나... 3박 4일 너도 나도 잘 버텨야 해 아직까지는 기분 좋구 다이소에서 거울 사 오길 잘했다 불꽃놀이하네? 병실 창문으로 불꽃... 그리고 추석 전 날 육아로 윷놀이 못해서 아쉽지만 그래도 아인이랑 함께해서 좋았다! ❤️ 집에 아기가 있으니 ",
+   "url": "https://blog.naver.com/tjd-0226/224470947987",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "덕흥리고분벽화 에는 말을 타며 활을 쏘아 과녁을 가장 많이 맞힌 사람이 이기는 놀이인 기마 궁술 대회가 실감나게 그려져 있다. 화려한 공연예술 북 장단에 맞추어 나팔을 불며 마상 묘기를 펼치는 사람, 화려한 검술을 뽐내며 격투를 벌이는 사람, 장대걷기를 하거나 완함으로 반주를 하는 사람 등 축제의 한 순간을 생생하게 재현하고 있다. 한 손을 사용해서 큰..",
+   "url": "https://blog.naver.com/britneyarmy/224470946575",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "하면 공주님 소리 나올듯.. 퍼 카라는 후크로 되어있어서 넣고 빼기 쉽고 필요에 따라 퍼 카라를 탈부착할 수 있어서 실용성까지 챙겼어요 아 일단 아묻따 패딩은 일단 보이는게 첫... 대망의 착장샷 21개월 뽀물이 83cm 11kg ✔️ 미루퍼카라후드패딩점퍼 핑크 100 저희는 바로 에버랜드 다녀왔어요 날이 꽤 추웠는데 이 패딩입고 방한용품 챙기고 퍼레이드에",
+   "url": "https://blog.naver.com/wooridasonii/224470940831",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "이 사실은 처음 밝힌다 사랑해 애기공쥬랑 만나면 1일 1연어 해야함 우리의 단골맛집 천사 공주는 우리 엄마까지... 눈 불꽃놀이 보러 간건데 비와서 비 맞으면서 봄 나름 ㅋㅋㅋㅋ추억(?) 맞지? 그리고 ㅋㅋㅋㅋ 사람 진짜 많아서 화면백지영 봄... 앞 놀이터에서 흙 직접 파서 장수풍뎅이 애벌레 잡아왔다 유치원에 있는 반찬통에 키우기로 했다 톳밥도 흙도 가져",
+   "url": "https://blog.naver.com/leehj2616/224470889014",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "또 어느 날 용산 가서 놀다가 스포츠 바에 갔심다 또 어느 날 야경도 봤심다 언니가 키티 팔레트를 사줬슈 감사해유 냐옹 팡팡팡 불꽃놀이도 봐줬어용 엄마랑 언니랑 먹은 한식 in 안국 너무 비싸고 양 적은.. 공항 촬영도 다녀와용 올림픽공원 피크닉도 했어용 웹드라마 촬영! 단편 촬영!! 맥날맥날 이때 진짜 정신력으로 버텼다.. 혼자 한리버 구경구경!! 공주 ",
+   "url": "https://blog.naver.com/dlrkdbs0525/224470831445",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "함양에 못 가는 나를 위해 불꽃놀이 보라고 찍어서 보내주는 자식 너무 귀엽지 않나요 정말 얘를 어쩌면 좋아 ㅠㅠ 보고싶숭.. 박가영유치한티내지마라진짜 제가 없는 틈을 타 엄마가... 일하다 백설공주 됨. 일하는데 사장님이 사과 먹으라고 주셨습니다 껍질째로는 안 먹는 편인데 일단 주셨으니.. 얌전히 먹었어요 많이 안 걷는 분들께 찰리를 추천드립니다 이 친구는",
+   "url": "https://blog.naver.com/dlsxldx/224470815642",
+   "engine": "naver_blog",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "게임에는 딸기 공주와 크루아상 기사, 쿠키 닌자 등 디저트를 콘셉트로 한 영웅 50명이 등장하며, 총 200장의 카드를 수집할 수 있다. 각 카드는 번개와 얼음, 초콜릿 분수, 불꽃놀이 등 다양한 효과를 가지고 있으며 전투 중 필드 위에서 직접 발동된다. 광고는 이용자가 추가 보상을 원할 때 선택적으로... 새 창 열림",
+   "url": "https://www.gamechosun.co.kr/webzine/article/view.php?no=227388",
+   "engine": "naver_news",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "아파트 가치가 올라간다는 말은 “집값이 상승할거다” 라는 의미로 보이는데 많은 분들도 그렇게 받아들이지 않을까 싶습니다. 앱을 설치하면 편리할 수 있지만, 어차피 비용이 발생하고 해킹이나 개인정보 유출, 방문 차량 사전등록 악용, 외부인 출입 통제 약화 등 보안 측면에서도 걱정되는 부분이 있습니다. 앱을 도입하면 비용 절감이 된다는데, 절감이란 인건비를 말",
+   "url": "https://cafe.naver.com/jingwansa/120?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imppbmd3YW5zYSIsImFydGljbGVJZCI6MTIwLCJpc3N1ZWRBdCI6MTc5NDMwOTM5OTg2N30.1Jwp-lBGOmsnk9B0CvyOH_t059E1-tG79qYDV4B2wR0&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "공급업체 모집 공고 농축산국 농식품유통과 2026-11-09 공고 2026-726 수의견적 제출 안내 공고(2026년 [부여]국도40호 정동교 보수보강공사) 건설본부 건설사업부 동부사무소 2026-11-09 공고 2026-725 수의견적 제출 안내 공고「2026년 천안 제설전진기지 염수저장탱크 구입」 건설본부 건설사업부 북부사무소 2026-11-09 공고 ",
+   "url": "https://cafe.naver.com/jungamironware/21177?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTE3NywiaXNzdWVkQXQiOjE3OTQzMDkzOTk4Njd9.dOG_vBsGWLYT4T6eev72tOq2FiZF-aITG3Su4mr5jXg&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "옆에 공주의 유명 떡이 있다길래 갔는데 저리 줄이 있을줄이야 40분정도 소요된듯합니다 떡으로 저녁을 때우고 낙화보기 위해 줄서서 입장을 했는데 정작 낙화는 6시반에 시작 1시간반동안 한다는데 앉지도 못하고 서서 봐야하고 불꽃이 확 떨어지는 포인트는 4번 그거 다 보기엔 발바닥 다리 터지기 일부직전이라고 3번째 포인트 보곤 나왔습니다 배경이 멋진거 빼고는 너",
+   "url": "https://cafe.naver.com/mindy7857/5526339?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1pbmR5Nzg1NyIsImFydGljbGVJZCI6NTUyNjMzOSwiaXNzdWVkQXQiOjE3OTQzMDkzOTk4Njd9.VhY0-j-3kZZXaOqON8Q5VE77l_pwPZ473g9LD-Mzxb0&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "청양을 중심으로 충청 전지역(공주, 세종, 대전, 보령/대천, 홍성, 예산, 부여, 당진, 서산, 논산, 아산/온양 등)을 누비며 완벽한 행사를 만들어드리는 한울기획이 함께합니다. 주요 서비스 및 품목 안내 - 행사 기획 및 대행 (종합 이벤트) · 지역축제, 문화행사, 공연, 체육대회, 각종 이벤트 기획 및 대행 · 전문 사회자 섭외, 화려한 무대·조명·",
+   "url": "https://cafe.naver.com/orento/11174?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im9yZW50byIsImFydGljbGVJZCI6MTExNzQsImlzc3VlZEF0IjoxNzk0MzA5Mzk5ODY3fQ.UmEiVXtrplNiqOtAAFC6n94PmamJ6q3D2HeCEoBetz0&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "둘 다 봤습니다 음~ 결론부터 말씀드리면 저희 가족은 키스 오브 더 씨가 더 만족입니다 -키스 오브 더 씨 우주에서 온 공주님과 남자인간이 사랑에 빠지고 불의 괴물과 싸우는 다소 유치한 내용과 다양한 효과(물,불,레이저)가 있는 쇼입니다 연기자들의 춤과 묘기가 아주 볼만해요 보는 내내 정신을 놓고 봤어요 마지막에 불꽃놀이를 하는데 크게 여러번 빵빵빵빵 터트",
+   "url": "https://cafe.naver.com/minecraftpe/4013223?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1pbmVjcmFmdHBlIiwiYXJ0aWNsZUlkIjo0MDEzMjIzLCJpc3N1ZWRBdCI6MTc5NDMwOTM5OTg2N30.O3M-NKQyITeBvYFvPOvf_CSZWwG-nf0a8n4OKp9IpVw&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "공주님들은 아이들 손잡고 워킹도 해주고 하니 그걸 노려보세요~ 4. 픽시더스트 - 80개정도 다이소용품(휴지, 물티슈, 손난로, 문구류, 스티커 등)과 50개정도 답례할 것(파우치, 봉제인형, 손수건 등)... 불꽃놀이 - 불꽃놀이 좋은 자리 맡으시려면 적어도 1시간~30분전에는 가셔야할거 같아요. 크루즈타고 본 사람들 중에 제일 많은 인파였어요 ㅎ 저희는",
+   "url": "https://cafe.naver.com/disneyadventure/1373?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpc25leWFkdmVudHVyZSIsImFydGljbGVJZCI6MTM3MywiaXNzdWVkQXQiOjE3OTQzMDkzOTk4Njd9.C3SEPMMFnUIee-f2xVTsaQYnKqlJWya26nbB4h9uf6o&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "마치 바닷속 인어공주가 된 듯 예쁜 비눗방울을 온몸으로 느끼며 신비롭고 환상적인 오감놀이를 즐겼답니다.♀️ 알록달록 가을 나뭇잎과 예쁜 꽃을 손으로 만져보고 향기도 맡으며 가을을 오감으로... 옷을 입고 어두운 공간에 모여 알록달록 반짝이는 빛을 만나보았어요. 어둠 속에서 더욱 선명하게 빛나는 형형색색의 불빛을 흔들어 보며 마치 밤하늘에 펼쳐진 아름다운 불",
+   "url": "https://cafe.naver.com/dakyungkids/31720?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRha3l1bmdraWRzIiwiYXJ0aWNsZUlkIjozMTcyMCwiaXNzdWVkQXQiOjE3OTQzMDkzOTk4Njd9.KLSDfipZkCeyHjfYHT-OCtkZhikA2uGpxpRyjWm6czI&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "참고로 제민천 불꽃쇼는 10월까지 운영한다고 적혀 있어서, 11월에는 볼 수 없어요. ▶ 공주 원도심 투어 가격, 인원별로 보면 이야기 골목 투어는 간단해요. 11월 14일 토요일 기준 1인 25,000원이에요 (10/31 조회). 원도심 놀이터는 함께 가는 인원이 많을수록 1인 가격이 내려가요 (11/14 조회, 10/31 기준). ✔ 1명: 1인 100",
+   "url": "https://cafe.naver.com/dkrnl2/2050?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRrcm5sMiIsImFydGljbGVJZCI6MjA1MCwiaXNzdWVkQXQiOjE3OTQzMDkzOTk4Njd9.1KREL-0Lq6iDhy_9GGLHjHPjHYZCa3rxIzE3upSuCG8&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "공기놀이, 고개넘어 1129 공군납치, 꽃길남쪽, 꿀꿀농장 1131 꼬꼬댁꼬 1132 꽃길동네, 국군대표 1133 국군떵떵 1134 꿈길따라... 그네놀이, 궁녀나이 1229 궁녀눈총, 강남남쪽 1231 그네달고, 그네뛰기 1232 그네타네 1233 건너뛰다 1234 그녀다리, 가나다라... 1324 그대노래, 갈대노래 1325 감탕나무, 광대나물 1326",
+   "url": "https://cafe.naver.com/numbersworld/40?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im51bWJlcnN3b3JsZCIsImFydGljbGVJZCI6NDAsImlzc3VlZEF0IjoxNzk0MzA5Mzk5ODY3fQ.bs6exKU8RGjVIk8JMWoUfa2Dj52HwnaOah1AiplihFI&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "문꾸부터 픽시 나눠주고 받은거 확인하며 답방가고..캐릭터들 만나고 놀이기구, 수영장, 공연 등등 애들보다 사실 제가 더 행복했던... 전날 불꽃놀이 여파로 뻗어서 자고 있던중 깜짝 놀랬네요. 룸서비스 시킬예정이라면 미리 준비하고 계셔야 합니다.ㅠ ❤️ 공연 공연3개... 공주는 옆에서 지나가도 쳐다보지도 않았.. 스파이더맨 만나고 싶어했지만 계속 돌아다니는",
+   "url": "https://cafe.naver.com/disneyadventure/1369?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpc25leWFkdmVudHVyZSIsImFydGljbGVJZCI6MTM2OSwiaXNzdWVkQXQiOjE3OTQzMDkzOTk4Njd9.iHnYcQR7AhiIYxUqatu5J1pD8qV72jSFWdr54AB7WFw&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "6128 불꽃놀이, 붓꽃놀음, 밤길네온 6129 빨간낙조, 불꽃낙조, 비구니중 6130 빨간단추, 복권당첨, 반공대책 6131 빨간토끼, 벗꽃동지, 빨간딸기 6132 빨간단풍(6136) 6133 뱅글돌다, 뱃길동동... 6228 별님놀이, 부녀나이, 백년낙원 6229 백년내조, 백년농장, 별님누이 6230 별님도착, 배낭도착, 발표당첨 6231 별님토끼, ",
+   "url": "https://cafe.naver.com/numbersworld/33?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im51bWJlcnN3b3JsZCIsImFydGljbGVJZCI6MzMsImlzc3VlZEF0IjoxNzk0MzA5Mzk5ODY3fQ.W3c14DdJcqThmAvP-sghlmW7oM-GqEH0mbs11bNjbSI&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "선화공주, 사회교육 7019 산호가지 7020 산행난초 7022 새해낙농 7023 생활풍토(7063) 7024 새해노래 7026 산행나방 7027 새해뉴스 7029 생활내조 7030 사회대책 7032 상포대표(7636) 7034 신세타령(7734)... 소꼽놀이 7129 시간내자, 사공낙조, 시골낭자 7130 사과당첨, 설교대책 7131 새콤달콤, 상글방글",
+   "url": "https://cafe.naver.com/numbersworld/32?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im51bWJlcnN3b3JsZCIsImFydGljbGVJZCI6MzIsImlzc3VlZEF0IjoxNzk0MzA5Mzk5ODY3fQ.Qec2XBLekxstC6WKKUVElymMbETEnQvW-iv8xnfE1QE&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "악기놀이, 영감나이 8129 아기낙지, 얼굴넓적, 앵콜날짜 8130 영감독창, 인기단체 8131 연극티켓, 아기토끼, 인기동경 8132 아기단풍(8136), 연극동네, 인간대표(8136) 8133 인간답다, 아카데미 8134 안경다리, 잉꼬뜨락, 아기대화(8130) 8135 아기도미, 영감도미 8136 아기돌봄, 아기뚱보, 아기동백, 아기단풍, 인간대표 8",
+   "url": "https://cafe.naver.com/numbersworld/31?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im51bWJlcnN3b3JsZCIsImFydGljbGVJZCI6MzEsImlzc3VlZEF0IjoxNzk0MzA5Mzk5ODY3fQ.xQ0neqAqB5AeqY9YGp_sdtFblYxFbCLRUpE_85vA3m4&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "정화공주가 먼저 손을 뻗어 저를 해치려 들었다. 태자는 그 모든 죄악을 제 목에 뒤집어씌우려 혈안이 되어 있었다. 기댈 언덕 하나 없는... 황제가 사사로운 핏줄에 눈이 멀어 정화공주와 태자 사용연을 대놓고 감싸고돌지만 않는다면 말이다. “그만두어라.” 건정제가 미간을... 설령 네 누이가 패악을 부렸다 한들, 네가 직접 손을 써서 물속에 처박을 일은 아니",
+   "url": "https://cafe.naver.com/onestar0927/2009?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im9uZXN0YXIwOTI3IiwiYXJ0aWNsZUlkIjoyMDA5LCJpc3N1ZWRBdCI6MTc5NDMwOTM5OTg2N30.UBtOdYJCcjbUjFzZMVwb-bq93plWSE6e9BBihMrxvCE&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "감탄만 나와요 백제문화관광단지 낙화놀이는 처음이었는데 하늘에서 불꽃이 내리는데 너무 너무 이뻤어요. 3500명이 한자리에 모여 보는거라 편하게 관람하기는 쉽지 않았지만 한번쯤은 볼만한 특별한 경험이었어요. 다음번에 안동에서 하는 낙화를 보고 싶습니다. 부여에 숙소가 없어서 (예약풀) 공주에 숙소를 잡았어요 평소 공주여행가고 싶었기에 내심기뻣어요 ㅎㅎㅎ SN",
+   "url": "https://cafe.naver.com/ysm5828/9646498?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InlzbTU4MjgiLCJhcnRpY2xlSWQiOjk2NDY0OTgsImlzc3VlZEF0IjoxNzk0MzA5Mzk5ODY3fQ.ZC9l1SohvEy2T-4ErgP2TGhvhniI6iipexxgU35wEbA&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "ㅋㅋ 공세리성당 곡교천 은행나무길 언더힐까페 부여 사랑나무 국립부여박물관 부여중앙시장 굿뜨레 글램핑장(행복한곰다섯마리님 감사합니다.) 낙화놀이 궁남지 정릉사지 공주 부자떡집 집으로... 좀 늦게 늘어가서 좋은 자리는 아쉽게도 실패했지만 어둠이 내려앉은 시간 불꽃이 흩날리는 모습이 정말 특별했답니다. 좋은정보 소개해주신 리체아님. 가까운 숙소 나눔주신 행복한",
+   "url": "https://cafe.naver.com/awrara/240426?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImF3cmFyYSIsImFydGljbGVJZCI6MjQwNDI2LCJpc3N1ZWRBdCI6MTc5NDMwOTM5OTg2N30.OEgZQcuZoHWLieJWLxLkPr5dVzTbPsfB4b5RCbbv2zg&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "아이가 디즈니 공주들 너무 너무 좋아해요 남편은 워낙 바빠서 시간 빼기가 어렵구.. 맘 같아선 싱가포르 디즈니 크루즈 너무 너무 가고싶어요 하지만 단 둘이 가기엔 빡센 것 같아서 디즈니랜드 정도는 해볼만 할 것 같은데.... 단 둘이 가보신 분들 계신가요 몇살 때 가셨나요",
+   "url": "https://cafe.naver.com/mapomommy/1424645?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hcG9tb21teSIsImFydGljbGVJZCI6MTQyNDY0NSwiaXNzdWVkQXQiOjE3OTQzMDkzOTk4Njd9.U4n3Rhyryaltm2xTsly0XKi0Qc8o_RmN8LwTZA4cRn8&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "한 왕자가 아름다운 러시아 공주와 결혼하게 됩니다. 결혼식 날 자정에는 성대한 불꽃놀이가 열립니다. 폭죽들은 탁자 위에 모여 기다리며 이야기를 나눕니다. 그중에 키가 크고 콧대 높은 로켓 폭죽이 있습니다. 로켓은 자기가 세상에서 가장 중요한 폭죽이라고 생각합니다. “왕자님은 결혼식에 나를...",
+   "url": "https://cafe.naver.com/tfellow/983?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRmZWxsb3ciLCJhcnRpY2xlSWQiOjk4MywiaXNzdWVkQXQiOjE3OTQzMDkzOTk4Njd9.wJikjNnhduyl7u9GLG4ubBbTWcG3vHvkSo6SUpv0Yys&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "들어가서 뽈뽈구경하고 방탈출이 있어서 처음보는분하고 열심히 해서 깨서요!(깨면 예쁜 백설공주가 기달리고있고 사진도 같이 찍을수도 있어요≧∀≦) 깨서 올라가면 달의자도 있어서 예쁘게... 되기전에 불꽃놀이 하신다고 해서 아는동생이랑 요술지팡이 들고 흔들고 댄스타임가지고 마지막으로 불꽃놀이 구경해서요^-^(요술지팡이들고 흔들고 댄스타임은 사진은 못찍어지만 단체",
+   "url": "https://cafe.naver.com/heartopia/310685?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhlYXJ0b3BpYSIsImFydGljbGVJZCI6MzEwNjg1LCJpc3N1ZWRBdCI6MTc5NDMwOTM5OTg2N30.lNeE6t4wSxBInp5dhRMJ2TH4ZRlP_QbYxEg2XfhJFiY&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "나선, 낙석, 낙수, 낙시, 난세, 난시, 날세, 닉슨, 남산, 남색, 남송, 내세, 내성, 내손, 내속, 느슨, 노색, 노송, 노승, 녹색, 뇌성, 눈섭, 냉수, 넉살, 냄새 28: 노을, 낙엽, 나이, 남원, 나위, 뉴욕, 나일, 낙안, 누에, 낙원, 낙오, 내용, 내일, 냉이, 너울, 네온, 놀이, 노아, 노엘, 노인, 녹용, 녹음, 넓이, 높이, 누",
+   "url": "https://cafe.naver.com/numbersworld/9?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im51bWJlcnN3b3JsZCIsImFydGljbGVJZCI6OSwiaXNzdWVkQXQiOjE3OTQzMDkzOTk4Njd9.-V_RW9-L-W6gYsVtxIKmSDoL3UCycW46yD6K4xhK5V0&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "인어공주를 모티브로 했고 인간과 인어의 러브 스토리를 다룹니다. 스토리 라인은 무난한 편이지만 그림체가 전혀 호감이 가지 않습니다. 제작기간이 7년씩이나 걸렸다고 하는데 7년 걸려서 만든것치고는... '슈하리' 라는 불꽃을(슈하리는 단순한 불꽃놀이는 아닌걸로 묘사)쏘아 올리기로 결심하고 그걸 행동에 옮기는게 주 내용이죠. 극중 센타로(이름보다 치치라고 불림",
+   "url": "https://cafe.naver.com/lnovel11/353645?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imxub3ZlbDExIiwiYXJ0aWNsZUlkIjozNTM2NDUsImlzc3VlZEF0IjoxNzk0MzA5Mzk5ODY3fQ.UaLXSJo6oukyJEjHwbPB5PFIfc2tOUwSckYNsNHeKIU&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "계속 보이더라구요 돌아다니시는지 ~ 불꽃놀이는 10시반에해서 도저히 볼 시간이 안돼서 퍼레이드 마지막거 보고 근처 사진찍다가 튀었습니다 숙소로.. 택시비는 310달라 나온답니다.(친구 왈), 그런데 전... 총 놀이기구 탄건 버스터, 스몰랜드 2번, 정글탐험보트?, 푸우 기차, 엘사 플레이 어쩌구 2번, 공연 4번 보고, 공주님 사진도 찍고..(공연 안봤으",
+   "url": "https://cafe.naver.com/foreverhk/1443030?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZvcmV2ZXJoayIsImFydGljbGVJZCI6MTQ0MzAzMCwiaXNzdWVkQXQiOjE3OTQzMDkzOTk4Njd9.r_n5sjWW2MmZHy89MVZhK2vR1V0qbGUfoAUcpqijK7U&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "또 한명의 공주?\" \"그래... 너 매티가 매력적이라고 생각해?\" 앤의 표정을 읽을 수가 없었다. 가끔은 질투심이 어린 표정을 하곤 했었지만 지금은 그런 표정이 전혀 아니었고, 게다가 그녀가 먼저 말을 꺼낸 것이었다. \"물론이지. 남자애들이 그녀를 뭐라 부르는 지 알아? 서부에서 가장 가슴이 큰 여자애라고 부른다고. 아마도 한번쯤은 그녀의 가슴을 안아보고 ",
+   "url": "https://cafe.naver.com/erobarx/37259?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVyb2JhcngiLCJhcnRpY2xlSWQiOjM3MjU5LCJpc3N1ZWRBdCI6MTc5NDMwOTM5OTg2N30.58UT_LFOacePEWmbXxvx6NJ7eXMT4sV-LnhwbMGjxPs&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "협박편지 上 작성자 : 앤맥카피 협박편지 01 제1장 - 앤이 산에 오르다. 앤 맥가피는 누구나가 동경하는, 하지만 결코 내 여자가 될 수는 없는 그런 소녀들 중의 하나였다. 그녀는 항상 학교 내에서 무리를 지어 다녔다. 그 무리는 대개 운동선수들, 대학진학을 준비하는 아이들, 혹은 연극반의 스타들이었다. 그들은 점심시간이면 항상 중앙광장의 오크나무 근처에",
+   "url": "https://cafe.naver.com/erobarx/37257?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVyb2JhcngiLCJhcnRpY2xlSWQiOjM3MjU3LCJpc3N1ZWRBdCI6MTc5NDMwOTM5OTg2N30.yuUM3CfXdwmfovRjNwP_yWUSUE6NaGRbCU_E0n2xP8c&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "조명 #불꽃놀이 #개업식 #세미나 #워크숍 #오픈식 #심포지엄 #대구이벤트 #대구이벤트사 #대구이벤트회사 #대구이벤트업체 #서울이벤트 #서울이벤트사 #서울이벤트업체 #서울이벤트회사 #대전이벤트사... 논산이벤트회사 #공주이벤트사 #공주이벤트업체 #공주이벤트회사 #서산이벤트사 #서산이벤트업체 #서산이벤트회사 #청주이벤트사 #청주이벤트업체 #청주이벤트회사 #충",
+   "url": "https://cafe.naver.com/codevent/138?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNvZGV2ZW50IiwiYXJ0aWNsZUlkIjoxMzgsImlzc3VlZEF0IjoxNzk0MzA5Mzk5ODY3fQ.WqQlFiEzlZiFtAyWtPk8AXZgWm001lALSABrgzQrY5k&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "(편한말투&사투리 양해바래요) • 밋앤그릿 - 승선하자마자 구피, 바샤커피 앞 줄서서 도날드 첫날 4시반 앱예약으로 스티치,미키,구피,미니 마지막날 라푼젤 로열개더링(신데렐라,백설공주,티아나) 미키... 불꽃놀이란불꽃놀이는 다보러 다니는 불꽃마스터인데 어벤저스 불꽃놀이는 또다른 장르임 라이온킹 노래가 뽴 나오면서 바로 눈앞에서 터지는게 감동의 눈물 포인트임",
+   "url": "https://cafe.naver.com/disneyadventure/1309?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpc25leWFkdmVudHVyZSIsImFydGljbGVJZCI6MTMwOSwiaXNzdWVkQXQiOjE3OTQzMDkzOTk4Njd9.Bfkom2rnA5t1y6k0UvO2CZluxVIwiQmtoilrOku6D3s&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "하필 영상으로만 남겨놔서 사진이 없네요 불꽃 참 멋진데말이죠..!.!!..!.!.!.!.! 두장있는 사진이라도 올려봅니다",
+   "url": "https://cafe.naver.com/gongju2008/696743?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvbmdqdTIwMDgiLCJhcnRpY2xlSWQiOjY5Njc0MywiaXNzdWVkQXQiOjE3OTQzMDkzOTk4Njd9.ZuJu1XXu9iuSDOkPvzoNabTCBaI_fCnoaxL9j-xcUHw&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "까먹고 불꽃놀이도 하고… 그렇게 아쉬운 할로윈의 밤이 저물어 갔다. (더 아쉬운건 가온맘과의 대화시간에 못 간 것, 다음날 게더링에 못 간 것….) 다음날에는 물놀이를 하지 않고 승유와 서진이는 매점 2층에 있는 트램폴린과 미끄럼틀을 타며 놀았다. 빗물에 젖어있었지만 대충 털어내고, 아무도 없어서 둘이 아주 신나게 뛰어다녔다는ㅋㅋㅋ 승유가 서진이를 너무 좋",
+   "url": "https://cafe.naver.com/averie/4201?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImF2ZXJpZSIsImFydGljbGVJZCI6NDIwMSwiaXNzdWVkQXQiOjE3OTQzMDkzOTk4Njd9.EG5r1r_wv4MJRcvGlpWSUHkmWK5Hm_zxRtGOXmLGyho&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "-> 46만원 -불꽃놀이가 제일 잘보이는방으로 주셨는데ㅋㅋ 불꽃놀이 이틀동안 안하더라구요ㅎㅎ푸하하하ㅋㅋ 디즈니씨와 랜드 입장권 (디즈니공홈에서 성인1일권 정가 1개구매) 디즈니DPA구매목록 디즈니씨(오후1시입장): 라푼젤,엘사 디즈니랜드(오후12시입장): 곰돌이푸, 미녀와야수, 밤 퍼레이드자리구매 디즈니씨 입장하자마자 자스민공주,라푼젤, 피터팬 웬디만나서 ",
+   "url": "https://cafe.naver.com/jpnstory/4431074?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImpwbnN0b3J5IiwiYXJ0aWNsZUlkIjo0NDMxMDc0LCJpc3N1ZWRBdCI6MTc5NDMwOTM5OTg2N30.TtPd4FfJGYCZqYiXXAXs5lIItfe0RpAN4l7TAaKAnxY&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "6초간의 궤적 ~불꽃놀이 장인 모치즈키 세이타로의 우울~ 2023 3. 6초간의 궤적 ~불꽃놀이 장인 모치즈키 세이타로의 두번째 우울~ 2024 / 믿고 보는 타카하시 잇세이 4. 호텔 컨시어지 2015 5. 한바탕 소동이라면 기꺼이! 2023 6. 재회: 사일런트 트루스 2026 / 타케우치 료마가 나온다해서 바로 시청했던 드라마. 제 최애인 ‘키타 카나",
+   "url": "https://cafe.naver.com/jddcbn/223608?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImpkZGNibiIsImFydGljbGVJZCI6MjIzNjA4LCJpc3N1ZWRBdCI6MTc5NDMwOTM5OTg2N30.v6osNaqegE7y0z_557C7Mf1GbB4VbJN8EvyPrntUhXg&q=%ea%b3%b5%ec%a3%bc%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "10월 3일 개막일 저녁, 2026 백제문화제를 보러 공주에 다녀왔어요. 서울에서 고속버스를 타고 내려간 1박 2일 공주... 등불에는 공주시 로고가 찍혀 있고, 뒤로는 강 건너 불빛이 물 위에 길게 비쳐요. 둔치에는 백제 무사와 말 탄 사람, 백제... 드론쇼와 불꽃은 몇 시쯤인가요? 개막일엔 드론쇼가 8시 20분 전후, 불꽃놀이가 밤 10시였고 폐막일 ",
+   "url": "https://blog.naver.com/goollre/224432058285",
+   "engine": "naver_all",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "드론 라이트쇼 & 대형 불꽃놀이 명당: 공주 불꽃놀이 최고 명당: 금강교 위 또는 금강신관공원 둔덕 언덕배기 잔디밭! 돗자리 하나 깔고 앉아서 보면 밤하늘을 수놓는 불꽃이 바로 머리 위로 떨어지는 느낌입니다. 5. 축제장에서 놓치면 서운한 먹거리 & 별미 금산에 인삼튀김이 있다면, 백제문화제에는 지역 색이 팍팍 들어간 별미들이 가득합니다! 공주 알밤파이 &",
+   "url": "https://blog.naver.com/100vs100328/224431497635",
+   "engine": "naver_all",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "드론과 불꽃놀이까지 보고 싶다면 마지막 날인 10월 11일을 눈여겨보면 됩니다. 10월 9일에는 이찬원, 10일에는 에일리·어반자카파·하이키가 기다리고 있고, 11일 폐막식에는 김의영·너드커넥션·하하&스컬 공연에 이어 1,000대 드론쇼와 불꽃쇼까지 예정돼 있습니다. 날짜마다 분위기가 완전히 다른 만큼 올해 공주 백제문화제는 ‘아무 날이나’ 가기보다 보고 ",
+   "url": "https://blog.naver.com/kiwitrust/224432266486",
+   "engine": "naver_all",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "수많은 관람객과 함께 공주시의 가을 밤하늘이 화려하게 빛났습니다. 공산성(좌)ㆍ미르공원 조형물ㆍ금강철교 루미나래(우) 제72회 공주 백제문화제 개막식은 전통과 현대의 공연이... 약 10여 분간 이어진 불꽃이 공주의 밤하늘을 가득 채우며 연이어 터져 올랐습니다. 붉은색, 황금빛, 은빛 불꽃이 밤하늘을 수놓고 강물과 주변 풍경까지 아름답게 밝혀주면서 관람객들",
+   "url": "https://cafe.naver.com/kfair/416?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtmYWlyIiwiYXJ0aWNsZUlkIjo0MTYsImlzc3VlZEF0IjoxNzk0MzA5NDAyNTI2fQ.AsblSfMLNGuTFlcShN0nc5q48bb3ULEEnuFgH5pR-vc",
+   "engine": "naver_all",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "수많은 관람객과 함께 공주시의 가을 밤하늘이 화려하게 빛났습니다. 공산성(좌)ㆍ미르공원 조형물ㆍ금강철교 루미나래(우) 제72회 공주 백제문화제 개막식은 전통과 현대의 공연이... 약 10여 분간 이어진 불꽃이 공주의 밤하늘을 가득 채우며 연이어 터져 올랐습니다. 붉은색, 황금빛, 은빛 불꽃이 밤하늘을 수놓고 강물과 주변 풍경까지 아름답게 밝혀주면서 관람객들",
+   "url": "https://cafe.naver.com/kfair/416?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtmYWlyIiwiYXJ0aWNsZUlkIjo0MTYsImlzc3VlZEF0IjoxNzk0MzA5NDA1OTI3fQ.R7V2v8uzqiPCMlS0lvtxwe3x-YFNcRyVdyLRvjwObNY",
+   "engine": "naver_web",
+   "query": "공주 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "\"계속 이동해주세요\"…'100만 예상' 부산불꽃축제, 안전 관리 총력 - 뉴스1",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyVlY2Zzl1UW1Jbnk5SklNOWJDQUpycmhqWFdzalpWdFlsX2ZtR3pFVXdIeXpUOTBUOTZzbkpmSTVRSloxRnh4X0kyYmwwMnp0eHNKNmcwZnZELWdYZTZn?oc=5",
+   "pub": "Sat, 07 Nov 2026 09:25:01 GMT",
+   "engine": "gnews",
+   "query": "청주 불꽃축제",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "청주서 SUV가 신호등 들이받아…차량 전소 - news.sbs.co.kr",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GLTd4WXpVM0hkYk1leE1GeG9lWXcwZElGZVU4T3RuQ1N4UUg1Ynoza0JHRlY3M0NOdUR5VmVKcUJTeUlTWXBfVWZfVXJ5M1dHR0dpVzJ4T3h1aDlZRjFYRTNuaDJrdw?oc=5",
+   "pub": "Mon, 09 Nov 2026 18:35:00 GMT",
+   "engine": "gnews",
+   "query": "청주 불꽃축제",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "[천살의 부동산 칼럼] '확장 경기도'의 명암과 청주의 선택: 메가시티 담론 뒤에 가려진 내부 양극화를 직시하라 - 시사매거진",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TemFaX0ZOVWU2Z1VrUmRad0NZQ1E4clFJMjNJLTc0bmVmYkppcWVqVG1kRmNvM3RUZWIzMU5oTk1Ha0xzcVlna1NOaXlwTm5xRlRVMC1fRWFJeFFhR2JyZzB3?oc=5",
+   "pub": "Tue, 10 Nov 2026 01:15:15 GMT",
+   "engine": "gnews",
+   "query": "청주 불꽃축제",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "SKT, 부산불꽃축제 120만 인파 대비… 통신망 ‘체감품질’ 지표로 관리 - 동아일보",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKdVNyMXBNTERqeVgtQ2t2UGs4SVU0OWpXYzIzMEREc01kV1lubEktNkVmdGV3RVNvWXQwZ3lWNFdkSkluLTRRTXJrdDVTQjg1VmVDRDV1ZVcydktwZHdwaS1hcmNRZTNrVmtOYkFXUdIBZkFVX3lxTE1SR3dZZGoxenB3a3doVFpRM0llSldQbThTbXZSMzZ2V1hsdTRpZm40NG8wM0gtVUp1Y1ZKeXNMMUNnOWVfNUxDMTVzbThDQ2szRzViLTRPWFdJeXRaMWZqdEVLQ2Zkdw?oc=5",
+   "pub": "Thu, 05 Nov 2026 01:01:34 GMT",
+   "engine": "gnews",
+   "query": "청주 불꽃축제",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "'청주 환경미화원 사망 사고' 쓰레기 수거차량 운전자 입건 - news.sbs.co.kr",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBROVM2WUlCdmdOaUZrdXVHLXJoZTVtYjgxWXp1ZGxaZy1GMWZIS0hZX0k3YUhoMUpKTXRBelMtQmtJSUNuN19MLUptaG5YVE8wdXRELUZ4bEpHa3FsU2VhVzF2MzZ4UQ?oc=5",
+   "pub": "Tue, 10 Nov 2026 08:42:00 GMT",
+   "engine": "gnews",
+   "query": "청주 불꽃축제",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "광안리해수욕장서 ‘부산불꽃축제’ - 동아일보",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Hd2l0TWZSNWhUajR1SEVGZUNuQmpBYjlEYTAyLWxmWVhSaWpFcUdzV1hYZ04xdTlabDB0bTZvU1VMNUQxemQwRzI1NUYzSE9vYlhmZUtEV2V1djdmRndhd0xRaVU5aWUwWHMw0gFmQVVfeXFMTnJRb0tWNllEU1ltUmRnSUhudFBSOGZSWXprQWRqZkpFWmtkaWRkU081d09tdFZFQmRIc1ViYkMzcE0wLVRNNmZRV2d0UG1LRkZwUFRyX2owQkNqb1Q5SXo5UGt0ZVlB?oc=5",
+   "pub": "Sun, 08 Nov 2026 19:30:00 GMT",
+   "engine": "gnews",
+   "query": "청주 불꽃축제",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "청주서 “여자친구 살해했다” 직접 신고한 20대男 - 동아일보",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0aTE2aUxWM1JlNTZiUjRqdmY1Umt6WFlvbktRdmI5R01EOHVlS2UwMWtGVXlPeUNpTWEydzJCd2xHeVItMC1mcVlhN21tdXd1Ry11TGRkWUdjcE5SSkpvM19TZkRIMWJ3b1VGVy10aU5pZU5kWmfSAWZBVV95cUxQT1FUSVhXZGRWRmpYUExDbnNSczJ2aEQ5RFduTGJRbEFQT2N0Z3RWc1Z3eTR4MDNaQnlXQTlyd2ZvRjhwTE5zRF9TbTRtaFBjeUN3YS1qU3BlQWswMU4ycHNxc3Z4bXc?oc=5",
+   "pub": "Sun, 08 Nov 2026 22:05:00 GMT",
+   "engine": "gnews",
+   "query": "청주 불꽃축제",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "만든 불꽃 모양이에요. 흔히 말하는 '출자형 금동관'과는 다른 형식이에요 · 성왕 – 538년 사비(지금의 부여)로 도읍을 옮기고 국호를 남부여라 해요 · 551년 신라와 함께 한강 유역을 되찾지만 곧 신라에 빼앗기고, 554년 관산성(지금의 옥천 일대)에서 전사해요 · 무왕 – 익산에 미륵사를 세워요. 미륵사지 서탑은 지금도 남아 있어요 ※ 원래 부재가 ",
+   "url": "https://blog.naver.com/romanticism-capybara/224471892382",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "보라매공원에서 진행한 대전 서구 아트페스티벌입니다 밤에는 불꽃놀이도 한다고 하던데 저희는 낮에 방문해서 여러 부스 구경했어요! DIY가 엄청 많더라구요! 귀여운 수저 받침부터... 맛있게 잘 먹었당 (><) 다음 날 부지런한 친구들은 아침부터 성심당 케익부띠끄가서 케이크를 포장했더라구요 전 잠을 선택했습니다~ 점심 - 장원갑칼국수 대전중구점 원래 옥천뼈구이",
+   "url": "https://blog.naver.com/interior_ari/224471849397",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "린나이 가스레인지 서비스센터 접수 점화 손잡이를 돌려도 불꽃이 튀지 않거나 삐삐 경고음이 울려 린나이 가스레인지... 청소 직후 불꽃이 튀지 않거나 금방 꺼지는 사례도 흔합니다. 물청소를 하면서 점화 플러그나 열전대 센서 부위에 습기가... 고장 증상 분류창에서 '점화 안됨', '불꽃 꺼짐', '경고음 울림', '가스 냄새' 중 일치하는 항목을 고릅니다. ",
+   "url": "https://blog.naver.com/thedundun/224471846009",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "에어컨 외에도 콘센트 또는 플러그에서 발생할 수 있는 냄새나 불꽃도 주의해야 합니다. 전기업체의 시공 불량이나 노후된 배선, 과부하로 인한 접점의 헐거움 등이 주된 원인입니다.... 전기공사, 옥천동 주변 전기출장수리, 광주시 인근 누전수리, 송정동 전기배선수리, 서울 전기고장수리업체, 행촌동 근처 전기출장수리, 가산동전기차단기고장수리, 가산동 전기공사..",
+   "url": "https://blog.naver.com/marahok6/224471798011",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "짐을 풀고 차로 10분 거리인 아메리칸 빌리지로 이동해 토요일 밤의 화려한 주말 조명과 불꽃놀이를 구경하며 저녁을 먹습니다. 호텔로 돌아와 2층 온수풀 밤수영과 대욕장 목욕으로... 동양 최대 규모의 천연 종유석 동굴인 옥천동을 걷고, 신나는 전통 에이서 북춤 공연을 관람합니다. 늦은 오후에는 나하 공항 바로 옆 우미카지테라스로 이동해 바다 위로 비행기가.",
+   "url": "https://blog.naver.com/3040wannabe/224471366343",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "기본적인 작동 원리는 일반 파티오난로와 동일하지만, 내부 글라스 공간에서 불꽃이 타오르는 모습을 감상할 수 있다는 차이가 있습니다. 시각적인 효과가 뛰어나 고급스러운... 천안 대전 공주 보령 아산 서산 논산 예산 태안 당진 금산 부여 서천 홍성 충주 제천 보은 옥천 영동 증평 진천 청주 괴산 음성 단양 충북 충남 전라도/경상도/강원도 전국 어디라도 달려갑",
+   "url": "https://blog.naver.com/sjt0727/224470189784",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "국회에서는 정책 효과가 충분히 검증되지 않은 채 예산만 대폭 늘었다는 지적이 나온다. 인구 증가 효과를 두고도 일시 전입과 실제 정착을 구분하지 못한다는 비판이 있고, 비교군으로 설정한 지역 상당수가 내년 신규 지원 대상에 포함돼 효과 검증 체계가 흔들린다는 우려도 제기된다. 충북 옥천군 등 일부 지자체는 지 새 창 열림",
+   "url": "https://blog.naver.com/hanyjuny/224471145112",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "따라서 지금 화왕산은 불꽃 행사가 아니라, 가을 산행을 하며 억새평원과 화왕산성의 풍경을 감상하는 여행지로 생각하면 좋습니다. ▶ 화왕산 가는 길 화왕산 등산은 주로 창녕읍 쪽 자하곡 방면이나 옥천리의 옥천 방면에서 시작합니다. 어느 쪽으로 갈지 정한 뒤 내비게이션에 들머리나 주차장을 검색하면 편리해요. 자하곡 방면: ‘화왕산 자하곡주차장’ 또는... 새 ",
+   "url": "https://blog.naver.com/candojko/224470768630",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "그래서 선쉐이드는 두고, 순천만 내부까지 들어가기엔 시간이 좀 걸릴 것 같아서 순천만을 가는 대신 바로 옆에 있는 순천 오천 그린광장으로 피크닉을 갔습니당 열번 째 추천 장소 제가 학교 다닐 때 한화 불꽃축제를 보러온 적이 있어서, 넓은 공원이 있다는 걸 기억하고 오게 됐는데요 아침에 오니까 또 새롭더라구요.. 진짜 넓고 한적하고 기온도 딱 맞고.. 그냥.",
+   "url": "https://blog.naver.com/codeisu0365/224470738381",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "객실마다 독립된 울타리 정원이 둘러싸여 있어 외부의 방해 없이 프라이빗한 바비큐 파티와 소소한 야외 불꽃놀이를 누릴 수 있습니다. 큰 창 너머로 쏟아지는 시골 풍경을 감상하며 따뜻한 온돌 바닥에서 맛있는 음식을 나누어 먹는 소박한 힐링의 가치를 온전히 전해줍니다. 다락방 책방과 쾌적한 복층 구조의 쉼하우스펜션 옥천면에 위치한 쉼하우스펜션은 1층과 2층에..",
+   "url": "https://blog.naver.com/saibi1122/224469704316",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "앤틱 카페 들려서 독서하며 따뜻한 카푸치노 한 잔 마시고 왔네요 ㅎㅎ 양평군 옥천면에 위치한 신복리790 카페입니다. 벽 한 면을 꽉 채운 헌책들이 분위기를 더해 줍니다. 이런... 내 사랑 샹들리에 저는 어릴 때부터 꼬마전구, 조명, 불꽃, 야경 이런 것들을 좋아했어요 ㅎㅎ 반짝반짝 빛나는 것들이 좋습니다. 따뜻한 아메리카노와 시나몬 가득 카푸치노 리뷰 ",
+   "url": "https://blog.naver.com/newsunny__/224470390650",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "오륙도의 푸른 바다, 블랙이글스의 장대한 비행, 광안리 밤하늘을 수놓은 불꽃의 향연. 그 모든 감동을 가슴에 품고 부산역에서 새마을호에 올랐다. 좌석이 넉넉하지 않은... 옥천 — 부소담악, 다음 여행을 기약하다 옥천역을 지나며 지도 속 부소담악을 발견했다. 대청호 물길을 따라 펼쳐진 아름다운 절경. 언젠가 꼭 찾아가야 할 곳이다. 전국에는 아직도 보고 싶",
+   "url": "https://blog.naver.com/gichage33/224469564079",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "특히 콘센트에서 나는 냄새나 불꽃은 즉각적으로 조치를 취해야 할 필요가 있습니다. 이 외에도 콘센트 주위에 검은 그을음이 보이거나, 플러그를 꽂을 때 불꽃이 튀는 경우도 위험... 전기스위치수리, 옥천동 하왕십리동 전기차단기고장수리, 남구 인근 전기스위치수리, 송학동 전기업체, 월성동전기콘센트수리, 수송동 근처 전기수리, 옥천동 근처 전기스위치수리... 새",
+   "url": "https://blog.naver.com/scissors1478/224469419623",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "대구광역시 중구 동일동의 전원주택에서 세탁기 콘센트에서 전기수리업체 관련 문제가 발생한다면, 타는 냄새나 불꽃이 보일 수 있습니다. 이럴 경우 화재 위험이 크기 때문에 즉시... 동일동 인근 전기수리업체, 동일동조명공사수리업체, 동일동 근처 전기차단기고장수리, 화성시 근처 전기업체, 미추홀구 근처 전기고장수리업체, 중구 인근 전기고장수리, 옥천동 인근...",
+   "url": "https://blog.naver.com/taeluk/224469078363",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "주방에서 매일 사용하는 가스레인지는 작은 이상이라도 발생하면 상당히 불편해집니다.특히 음식을 조리하려고 손잡이를 돌렸는데 불꽃이 올라오지 않거나 점화가 여러 번 반복되는... 고양 일산 용인 처인 수지 만안 안양 소사 오정 원미 천안 아산 당진 서산 세종 대전 충주 청주 음성 괴산 옥천 보은 원주 춘천 홍천 횡성 평창 영월 철원 화천 #강서구가스레인지고장교",
+   "url": "https://blog.naver.com/himchanhouse/224468483845",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "이런 곳이라면 바쁜 일상 속에서 잠시 벗어나 재충전의 시간을 갖기에 완벽한 옥천 워크숍 장소가 될 것 같아요. 특히 저녁이 되면 운치 있는 불멍 공간에서 따뜻한 온기를 느끼며 하루를 마무리할 수 있어요. 활활 타오르는 불꽃을 바라보며 깊은 생각에 잠기거나, 소중한 사람들과 도란도란 이야기를 나누기 정말 좋겠죠. 야외 바비큐 시설도 깔끔하게 잘 갖춰져 있어서",
+   "url": "https://blog.naver.com/assa2144/224468392426",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "실외 콘센트에서 타는 냄새가 나거나, 플러그를 꽂을 때 불꽃이 튀는 경우는 절대 무시할 수 없는 신호입니다. 특히 콘센트 주변이 검게 변색되거나 검은 그을음이 보이는 경우, 즉각... 전기업체, 옥천면 근처 전기수리업체, 구암동전기고장수리, 중구 인근 전기고장수리업체, 용두동 근처 누전차단기고장수리, 울산 주변 24시전기수리, 원천동 인근 전기공사업체, 안",
+   "url": "https://blog.naver.com/zbdfgedre753/224468339289",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "경기도 안성시 옥천동 전기공사와 긴급출장 사례를 더 보고 싶다면 아래 페이지를 눌러보세요. 욕실의 콘센트에서 나는 타는 냄새와 함께 불꽃이 일어나는 것을 경험했다면, 이는 매우 위험한 상황입니다. 특히 오래된 집에서는 전선의 노후화로 인해 이러한 증상이 발생할 수 있습니다. 콘센트의 외피가 누렇게 변색되거나, 접촉 불량으로 인해 스파크가 발생할 수 있어..",
+   "url": "https://blog.naver.com/zqac0cszyq/224468208130",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "오랜만에 친구들과 다 같이 모여 여행 가기로 했는데, 인원도 많고 다 같이 즐길 수 있는 곳을 찾다 보니 옥천 단체펜션이 눈에 들어오더라고요. 그러다 인스타그램에서 우연히 발견한... 따뜻한 불꽃을 보니 저절로 힐링이 되는 기분이었답니다. 밤공기가 쌀쌀했는데 불멍 덕분에 몸도 마음도 따뜻하게 녹일 수 있었어요. 모닥불 옆에 앉아 도란도란 이야기 나누기 정말",
+   "url": "https://blog.naver.com/kmj0050/224467600266",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "국물 넘친걸 그냥 두면 불꽃이 삐뚤어지기 쉽걸랑요 ㅋㅋ 오늘은 서울 동대문구 일체형가스오븐 철거와 가스레인지, 하부수납장 제작설치 후기를 작성해봤습니다. 오븐 은퇴시키고... 충주 옥천 영동 음성 증평 괴산 단양 보은 제천 진천 청주 인천 전지역 미추홀구 연수구 서구 부평구 강화군 제물포구 남동구 영종구 계양구 검단구 옹진군 경기 전지역 성남 중원구... ",
+   "url": "https://blog.naver.com/hanszipdosa/224467511100",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "옥천에서 교체를 알아보는 중이라면 직접 작업할지, 도움을 요청할지 먼저 판단하고 차량 설명서와 배터리 규격을 확인하는 편이 안전합니다. 자가 교체는 부품 비용을 조절할 수... 작업 도중 불꽃이 생기거나 단자가 뜨거워지면 즉시 중단하고 접촉 상태를 점검해야 합니다. 배터리가 부풀었거나 액체가 새고, 케이블이 손상된 경우에는 직접 만지지 말고 정비업체에...",
+   "url": "https://blog.naver.com/rhsgono/224466864033",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "3단계 보양작업: 바닥, 벽, 유리 등 주변을 보호해 불꽃과 분진을 막습니다. 4단계 하지작업: 녹과 오염을 제거하고 접합면을 정리합니다. 5단계 스테인리스 용접: 재질에 맞는 방식으로... 창북 옥천 성남 흥덕 조치원 공주 논산 보령 홍성 세종 괸 산 충주 장호원 원주 양편 구리 다산 김포 강화 당진 서산 태안 천안 안성 안산 진촌 여주 용문 양서 서종 ",
+   "url": "https://blog.naver.com/winrepairs/224466803235",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "주방에서 냉장고와 전자레인지를 연결한 콘센트에서 타는 냄새가 나거나 플러그를 꽂을 때 불꽃이 보이면 심각한 문제일 수 있습니다. 콘센트 외피가 누렇게 변색되거나 검은 그을음이... 상동 근처 전기누전점검업체, 상동 근처 전기배선수리, 상동전기콘센트수리, 도동 주변 전기수리, 옥천면 근처 24시전기수리, 고양 인근 전기수리, 경기 전기차단기고장수리, 부평구.",
+   "url": "https://blog.naver.com/sdazxcz33796/224466718421",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "이날은 경찰관과 새벽 드라이빙겸 옥천에 난폭운전 및 식품위생법 위반 여부 파악 실습(?)에 다녀온 날. 흐흐 생선국수~~ 도리뱅뱅뱅~~~ 옥천에서 생선국수를 먹었다. 자세한 이야기는 옥천 드라이빙기에 적어두었으니 참고하길 바란다. 저 아저씨 말투가 기본 장착이 되어버렸다. 좋은하루~ 장난감 영입 기회를 주는 전국 다우니 1등 딜러 경찰관 ㄷㄷ 못참고 구매해",
+   "url": "https://blog.naver.com/sjuny2003/224466630696",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "옥천공장? 출장 중 들린 생선국수 집에서 경기를 봤다ㅎㅎ 골 넣는 장면은 야무지게 다 봄✌ 오빠랑 간 영등포 최고맛집들 저 설탕토마토 어떻게 참는데 할머니가 나 준다고 챙겨두셨던 멜론 나 할머니 살앙해 나 멜론 살앙해 이수에서 회사 98친구들 모임 같이 퇴근하고 지하철타고 복잡한 이수역을 선훈이 뒤 졸졸 따라다니며 걷고 나는 이틀 뒤인가 건강검진이어서 술.",
+   "url": "https://blog.naver.com/50dbswl/224466519004",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "이후 그의 화면에서 빛은 색채와 명암, 그리고 수직·수평 대각의 선이 만드는 공간으로 거듭 형상화된다, 하동철은 충청북도 옥천에서 태어나 대전중학교와 대전고등학교를 다녔다. 대전고등학교에서는 미술교사 김철호의 지도와 영향을 받았다. 서울대학교 미술대학 회화과에서 석사학위를 받았다. 1963년 제12회 국전에서는 입선, 1974년 제23회... 새 창 열림",
+   "url": "https://blog.naver.com/sej962/224466508332",
+   "engine": "naver_blog",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "찬바람이 부는 날 보일러에서 에러코드가 뜨거나 가스레인지 불꽃이 튀지 않으면 일상이 곧바로 멈춰 버립니다. 기사를 무작정 부르기 전에 집에서 직접 점검할 항목부터 당일 방문 시간대를 확보하는... 10월 옥천군 화성시 고령 광양시 양산 산청군 세종시 함양 동두천시 창원 진천군 진천 순천시 연천군 부천시 월요일 성남시 하남시 11월 봉화군 안동시 고령군 태안",
+   "url": "https://cafe.naver.com/cyberhosin/919?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImN5YmVyaG9zaW4iLCJhcnRpY2xlSWQiOjkxOSwiaXNzdWVkQXQiOjE3OTQzMDk0MTQxMTl9.0FDi88sVoFquJ6kKuz3qQV0C700BTN76VlsFTALyQrU&q=%ec%98%a5%ec%b2%9c%20%eb%b6%88%ea%bd%83&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "건강면에서도 최상의 컨디션 아가들을 분양 약속 도와드릴게요~ (사진보단 실물이 훨씬 예쁜 아가에요 ㅠㅠ) [포토샵 떡칠한 사진 아이들과 비교말아주세요 100%핸드폰실사진] 견종 : 폼스키 [뚱순] 성별 : 공주님 개월수 : 2개월령 병력 : 종합백신1차/ 이어마이트 1회 / 원구충 3회 완료 분양가 : 85 불꽃마크 제대로 들어간 폼스키 공주님 중장모 아이",
+   "url": "https://cafe.naver.com/perrodogdog/12806?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBlcnJvZG9nZG9nIiwiYXJ0aWNsZUlkIjoxMjgwNiwiaXNzdWVkQXQiOjE3OTQzMDk0MTQxMTl9.PYLVD21_OyuB4RUZlclUfNwWc0rydvz-tm7-5tyREZ8&q=%ec%98%a5%ec%b2%9c%20%eb%b6%88%ea%bd%83&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "조명 #불꽃놀이 #개업식 #세미나 #워크숍 #오픈식 #심포지엄 #대구이벤트 #대구이벤트사 #대구이벤트회사 #대구이벤트업체 #서울이벤트 #서울이벤트사 #서울이벤트업체 #서울이벤트회사 #대전이벤트사 #대전이벤트업체 #대전이벤트회사 #부산이벤트사 #부산이벤트업체 #부산이벤트회사 #광주이벤트사 #광주이벤트업체 #광주이벤트회사 #세종이벤트사 #세종이벤트업체 #세종이",
+   "url": "https://cafe.naver.com/codevent/138?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNvZGV2ZW50IiwiYXJ0aWNsZUlkIjoxMzgsImlzc3VlZEF0IjoxNzk0MzA5NDE0MTE5fQ.Tr8ISu_GMShlc_piaFoBRYOu2jbnfmb08PTv8AgQpMw&q=%ec%98%a5%ec%b2%9c%20%eb%b6%88%ea%bd%83&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "바로 충북 옥천군 청성면에서 열리는 제2회 청성산성 문화축제입니다! 올해 축제는 10월 31일 토요일, 오후 1시부터... 낙화놀이는 불꽃이 흩날리는 아름다운 장면을 통해 전통 불꽃문화의 매력을 전하는 놀이입니다. 하늘과 땅 사이로 쏟아지는... 가족과 함께, 친구와 함께, 소중한 사람과 함께 충북 옥천 청성으로 떠나보세요. 역사도 만나고, 공연도 즐기고,",
+   "url": "https://blog.naver.com/ksson1008_/224458128103",
+   "engine": "naver_all",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "“다음에 또 가자.” 장사에서 가장 듣기 좋은 불꽃 소리다. #양평맛집 #양평냉면 #양평냉면맛집 #옥천맛집 #옥천냉면 #옥천냉면맛집 #냉면맛집 #몽실냉면 #몽실100%순메밀냉면 #양평옥천냉면몽실면당 #양평한쌈불고기냉면 #불고기냉면 #소불고기냉면 #옛날불고기 #순메밀냉면 #100퍼센트순메밀 #갓성비맛집 #양평가족식사 #양평단체식사 #양평회식 #양평연회석 #양",
+   "url": "https://blog.naver.com/ehddnsvs/224405096703",
+   "engine": "naver_all",
+   "query": "옥천 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "대전시의회 권인호 의원, “침수사고 난 지하차도가 안전시설 설치 제외 대상이라니...재점검 필요” - 굿뉴스365",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BRWt2b0dHVEEyZUZYdjRId2VSMDFqRDlsVWVyX1RJVG9qUVlZWjRMSVJkSGFVc0ptdElVYXU1SzhINlZORkplcUVBU2lZVTZFSWw4WFRiRDZ1MmpPQ1Z2TXlXb2k2TE1SSDV0MnBUNmg4RG1GVEE?oc=5",
+   "pub": "Tue, 10 Nov 2026 06:42:00 GMT",
+   "engine": "gnews",
+   "query": "엑스포다리 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "부산, 대전 등에서 군산을 오신다는- 군산 불꽃놀이 전에 가기좋은 군산맛집 TOP2. 군산의 재료들로 음식을 만들어... 군산 불꽃축제가 열리는 군산 내항 친수공원에서 키친후가까지의 거리는 차로 약 5분-7분인데요, 주차장이 협소하고... 버거'빵'을 구매하시면 직원들이 착용하고 있는 키친후가 반다나를 선물로 드려요! (소진 시 종료) 2)따끈한 '직접 끓",
+   "url": "https://blog.naver.com/kitchenhygge/224472058177",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "학생분이 집을 제공(감사ㅠ) 초청받은 집에 뭐라도 사 가야 할 것 같아서, 나도 일부러 오송역이 아닌 대전역으로 갔지요~ 성심당 들러 선물 사가기! 일욜 아침부터 역시나 성심당 줄... 위아래 다 바다 느낌남~ 광안리 구경 야무지게 하고 ㅋㅋㅋㅋㅋㅋ 아~ 전날에 부산 불꽃축제였는데, 그때 오지 못한 것에 아쉬워 하며...(그런데 어쩔 수 없었어ㅠ 일정이 있",
+   "url": "https://blog.naver.com/junnie0508/224472032994",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "비슷한 시기 대전에서는 서대전시민광장을 중심으로 다채로운 면요리를 다루는 누들 축제가 펼쳐집니다. 세계 각국의... 날씨 부담 없는 실내 전통문화와 야간 불꽃, 노려볼 만할까 11월 중순으로 접어들면 쌀쌀해지는 바깥 날씨 탓에 야외 활동이... 밀립니다 #축제일정 #11월축제 #가을축제 #김장축제 #빵축제 #서울무료축제 #주말가볼만한곳 #전통문화행사 #미식",
+   "url": "https://blog.naver.com/hunimo88/224470572508",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "2026 군산불꽃축제 일정·시간·주차 총정리! 군산 내항 불꽃쇼 관람 꿀팁 가을밤 바다 위로 화려하게 펼쳐지는 불꽃쇼를 기다려온 분들 많으시죠? 오는 11월 14일 토요일, 군산 내항 일원에서 처음으로 2026 군산불꽃축제 ‘군산의 밤을 물들이다’가 개최돼요. 군산은 근대 골목과 역사적 건축물을 따라 여행하기 좋은 대표적인 감성 도시인데요. 이번에는 동백대",
+   "url": "https://blog.naver.com/besttutor/224471501166",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "갑자기 대전왓고, 국밥먹을게 간과 허파가 무한일게 정동문화사 이미친 도대체 언제 번호표를 배부하는지 사람마다 말이 다 달라서 혼란그자체였을게싸갈 그래도 잘 받앗긔... 은혁이 생일이라서밥먹으러갓는데 코앞에서 불꽃놀이?가 아니라 불꽃축제? 아 뭐라고 하지? 축복?아니 이름이 뭐지 ? 이젠 감튀를 너무 사랑한 나머지 집에서 직접 만들어 튀기는 수준에... 새 ",
+   "url": "https://blog.naver.com/leb946/224471451220",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "만나러 대전 나들이하고 옴 전에 먹은 손의손 너무 감격스러워서 앵콜왔는데 냉면 이제 안 한대서 우울(...)해짐 사이좋게... 학교 축제 구경했어욥 이 아랑스런 자태를 좀 봐 ... 의도치 않았는데 명당석 앉음 ; 기대 1도 안했는데 드론쇼 ㄹㅇ 개재밌더라 ㅋㅋㅋㅋ 불꽃도 눈앞에 쏴줌 좌석 운 ㄹㅈㄷ 선미웅니 ... 제대로 홀림 뒤에 영지소녀도 나왔는데 자",
+   "url": "https://blog.naver.com/bbomari_/224471363864",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "여의도 불꽃축제 갔다왓삼~ 자리 잡으려고 점심에 출발했다요. 점심은 아팤 안에 낙원타코 먹었삼~ 제가 타코 좋아하는 사실을 세상 모두가 알았으면 좋겠음;; 매일 먹을 수 있다고... 아무래도 이채영 박지원과 만나는 것을 아셔서 조심스러우신 듯 ㅋㅋ 플로버들아 고소하지 마세요 제발 (상겸블리 톤으로) 평일에 시간 내서 대전 내려가서 사촌 형과 낚시 갔다 왔습",
+   "url": "https://blog.naver.com/kingseooo/224471357605",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "그럼 저기까지만 걷자. 라는 말을 대충 네번은 반복 하고 결국 공원까지 도착 보기보다 꽤 많이 걸어야 해서 언니가 좀 무리 했을 거 같아 다리 위에 여고생들이 보이네 마네 얘기를 하더니 광안리 불꽃축제 리허설 하는 소리가 들리는 거예요!!! 그래서 얼른 카메라 확대해서 찾아 봤어요 언니가 지도를 보더니 만을 넘어야 해서 안 보일 새 창 열림",
+   "url": "https://blog.naver.com/woshiliyouna/224471341687",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "그녀를 기다리며 웨이팅을 감내해봄 #아그라대전 커리 먹으러 왔는데 이것저것 많이 쥼 근데 찐은 허니, 갈릭난 진짜 미친넘들임 ㅜ 커리랑 난이랑 먹어줘요 플리즈.. 아 그리고 여기... 집에 있는데 폭죽소리 나길래 나가봤더니..ㅎ 집에서 불꽃놀이 구경하는 것도 나름 낭만있음 이날 서구아트페스티벌? 에서 불꽃놀이한 것 같은데 집에서 보는것두 제법 좋더라구요?.",
+   "url": "https://blog.naver.com/c__hong/224471201073",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "이래나 저래 나 반값 여행으로 방문한 지역에서 효율을 뽑는 제로 페이가 가능한 맛집만 가겠다 이것이다 광안리 불꽃축제가 터지기 전날이라, 부산으로 오는 반대편 차선은 막히기 시작했다. 그리고 저렇게 뒤꽁무니 바짝 붙어 가는 차는 앞차가 혹시나 멈추면 어쩌려고 저러나... 항상 신기하다 추월차선 비키라는 무언의 압박까지 덤으로 ㅋㅋㅋㅋㅋㅋ 그렇게... 새 창",
+   "url": "https://blog.naver.com/fly_baby_/224471167346",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "단맛을 줄이고 매운맛을 살린 칼칼한 갈치조림 정식으로 여행을 마무리하고 대전으로 출발했어요. 불꽃축제 날이라 길이 엄청 막혀서, 집에는 밤늦게 도착했어요 ㅠ 엑스포해물삼합 후기 대전↔여수 테슬라 충전 기록 — 숙소 완속 한 번이면 끝 구간 출발→도착 배터리 충전소 방식·시간 충전량 비용 그동안 한 일 대전 → 여수 숙소 약 90% → 약 40% 없음 - -",
+   "url": "https://blog.naver.com/wlgnsdlgkdl/224471151625",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "아기다리고기다리던~ 불꽃축제 보는 날!! (감격) 30년 넘게 부산에 살면서 제 21회 불꽃축제가 될 때까지 단 한 번도 본 적 없었는데ㅎㅎ 온가족이 출동했다! (모두가 처음임ㅋㅋㅋㅋ)... 일요일 대전 간 오빠 데릴러~ 주차장 가려고 대기 중인 차들 보이시나요…? 보초운전자는 부산역에 주차할 자신 없엉! 친수공원에 주차완ㅎㅎ 흐아~ 집에서 여기까지 가는데",
+   "url": "https://blog.naver.com/qhdud6616/224470886441",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "나이대 비슷한 사람도 많고 동기 문화도 잘 돼있어서 회사에 잘 적응 중이심 맛있었는데 당면 다 태움 흥 민콩이랑 여의도 불꽃축제 갔는데 용산에 갇혀서 움직일 수가 없었음 흡사 재난영화 ㅜ 불꽃축제는 걍 집에서 보세요 웨이팅 4시에 걸었는데 하도 안 나와서 아무 집이나 들어가서 안주 나오자마자 전화오는 .. ㅎㅎ .. 봉숭아 언제 가보지 회사 회식 해적창고 ",
+   "url": "https://blog.naver.com/db__an/224470855196",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "자 이번엔 대전으로 가보겠어요~ 휴게소 안들릴 수 없자나 힘들자나 배고프자나 헤헤 언니네 초대해주셔서 감사한 마음으로 선물들고 도착 ! 피자랑 족발 시켜쥬심 ㅠㅠ 흡입... 그리고 대전은 과학의 도시닌까 과학관옴 곰돌이로서 곰 그냥 지나칠수없댜 저녁은 언니야 다시 만나서 양고기 먹음..❤️ 실패한게 하나도 없어..ㅠㅎㅠㅎ 나의사랑 낭만의 사랑 ㅇ야장... ",
+   "url": "https://blog.naver.com/dkgkgk13/224470812241",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "완전 한상차림이여~~ 한달뒤엔 한량이를 못보는게 너무 슬퍼 서진이랑 첨으로 불꽃축제 봤아 또 가자… 오늘 연우랑 나랑 한 과제 교수님이 칭찬해주셔서 행복해했어 ㅋㅋㅋ ㅜㅜ 귀엽다 연두가 대전에서 사다준 빵 ㅜㅜ 리본빵 진짜 너무 맛있는데에 ㅜㅜㅜ 고마워 벌써 11월이냐!!!! ㅜㅜ 다들 힘내❤️❤️ 안녀엉새 창 열림",
+   "url": "https://blog.naver.com/rlaseoji/224470748016",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "우리 막내가 취뽀를 해서 부산에 가게됐는데 마침 또 부산에서 불꽃놀이도 하구 .. 겸사겸사 놀러가기로 했어요 원래는 템플스테이 얘기가 먼저 나왔는데 그건 나중으로 미루고 급하면... 김똥구리가 말아주는 주먹밥 일단 밥부터 먹기로 해서 뼈구이 먹었어요 대전 농민뜨끈이보다 나은데 .. ? 오선경이 소품샵 투어할 동안 난 이런거나 봐 .. 빵이 햇빛 받아서 너무",
+   "url": "https://blog.naver.com/zinkyng/224470644620",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "한 시간 일찍 도착해서 바다 보면서 산책했어요 이날 불꽃축제를 했는데 그래서 그런가 손님이 많았어요 그래도 탁 트인 광안대교 뷰 보면서 힐링 아닌 힐링 했습니당 마치고 나서... 웃어서 안 좋을 거 없잖아요 상욱이라고 동아리에서 친해진 동생이 대전에 학회 보고 오는 길에 성심당 빵 사서 줬어요 저 미친 빵돌인데 나가기 귀찮아서 사실 잘 안 사 먹거든요...",
+   "url": "https://blog.naver.com/gang_256/224470519767",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "마침 이번에 부산 불꽃축제가 있어서 엄마, 오빠와 함께 당일치기로 부산에 다녀오면서 영진국밥 신평본점에 재방문했습니다 작년 불꽃축제 때도 엄마랑 둘이 방문해서 대감탄하고... 국밥대전 TOP3' 포스터와 함께 마이데이들이 가득 붙여놓은 성진이 사진과 스티커를 보며 잇몸 만개하면서 기분 좋게 마무리했습니다!ㅎ (저도 그 국밥대전 TOP3 투표할 때 영진국밥 ",
+   "url": "https://blog.naver.com/misang_lee/224470412644",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "언젠가 부산 불꽃축제도 꼭꼭 가보고 싶습네다 나랑 나중에 지평선 축제 또 가댱 ! 이른아침.. 저는 떡 웨이팅을 합니다 경상도와 전라도 아가씨를 위해 전주의 명물떡을 가져가고... 최정뱅이 담날은 대전에 가욤 우리 뚜니만나렁 ♡ 졸업하고 나니 이제 칭구들을 타지로 보러가야한다는 사실이 슬퍼요.. 입 3-4시간 털라고 들어간 카페 여기 뚜니가 알아봐줬는데 꿈",
+   "url": "https://blog.naver.com/cheeeeeding/224470366471",
+   "engine": "naver_blog",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "아파트 가치가 올라간다는 말은 “집값이 상승할거다” 라는 의미로 보이는데 많은 분들도 그렇게 받아들이지 않을까 싶습니다. 앱을 설치하면 편리할 수 있지만, 어차피 비용이 발생하고 해킹이나 개인정보 유출, 방문 차량 사전등록 악용, 외부인 출입 통제 약화 등 보안 측면에서도 걱정되는 부분이 있습니다. 앱을 도입하면 비용 절감이 된다는데, 절감이란 인건비를 말",
+   "url": "https://cafe.naver.com/jingwansa/120?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imppbmd3YW5zYSIsImFydGljbGVJZCI6MTIwLCJpc3N1ZWRBdCI6MTc5NDMwOTQyNzk5OH0.t6jKP_2cpYMt-vFDohMvJ-6SjDhy-xzC1iaNglsfe6A&q=%eb%8c%80%ec%a0%84%20%eb%b9%b5%ec%b6%95%ec%a0%9c%20%eb%b6%88%ea%bd%83&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "부산 불꽃축제 2026 대전 와인엑스포 서울 전시회 2026 kgma 라인업 성시경 콘서트 2026 성시경 연말 콘서트 성시경 광화문 빵축제 익산 디저트페어 카테고리 · 음악 2026 kgma 라인업 머무르 가수 존박 맥도날드 가사 히로인 가사 만찬가 가사 발음 우사기 랩 가사 꿈꾸던 어른이 되었나요? 곡 정보 베스티 다혜 네온 a20 마이 케미컬 로맨스 ",
+   "url": "https://cafe.naver.com/subadd/763?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InN1YmFkZCIsImFydGljbGVJZCI6NzYzLCJpc3N1ZWRBdCI6MTc5NDMwOTQyNzk5OH0.9rQIztqwqDzPrZZK9b03_enO6b6DQVpdTbuMuw7pIGQ&q=%eb%8c%80%ec%a0%84%20%eb%b9%b5%ec%b6%95%ec%a0%9c%20%eb%b6%88%ea%bd%83&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "배치 규칙(1: ㄱ·ㅋ / 2: ㄴ / 3: ㄷ·ㅌ / 4: ㄹ / 5: ㅁ / 6: ㅂ·ㅍ / 7: ㅅ / 8: ㅇ / 9: ㅈ·ㅊ / 0: ㅎ)에 맞춰 전체 수치-한글 변환 사전 1자리 수치 접두어 1 (ㄱ, ㅋ): 극, 각, 깡, 꽁, 고, 구, 경, 강, 곰, 갓, 개, 군, 가 2 (ㄴ): 난, 냉, 늦, 날, 내 3 (ㄷ, ㅌ): 땡, 딱, 똑,",
+   "url": "https://cafe.naver.com/numbersworld/9?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im51bWJlcnN3b3JsZCIsImFydGljbGVJZCI6OSwiaXNzdWVkQXQiOjE3OTQzMDk0Mjc5OTh9.UvQB8ODYJXXG1QEtZES1JT1px0TNuoKF4Dvwt7mmIwI&q=%eb%8c%80%ec%a0%84%20%eb%b9%b5%ec%b6%95%ec%a0%9c%20%eb%b6%88%ea%bd%83&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "13:00~20:30 ■ 대전 빵축제 이틀 시간표는 어떻게 다른가요? 같은 축제인데 저녁 무대가 완전히 다릅니다. 토요일은 오후 5시 30분 개막 식전공연에 이어 6시 개막식과 15m 대형 빵 커팅 세리머니가 진행되고, 6시 30분부터 개막축하공연이 밤 8시... 존 빵집 수 입점 빵집 예시 A존 30곳 성심당·한스브레드·하레하레 B존 20곳 신라당·역전빵",
+   "url": "https://cafe.naver.com/specup/7942163?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNwZWN1cCIsImFydGljbGVJZCI6Nzk0MjE2MywiaXNzdWVkQXQiOjE3OTQzMDk0MzA0MjB9.3onnmEj8AtyEOxZXSm6I9k-gedY9nX92SPrAdHj57LA",
+   "engine": "naver_all",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "A존은 성심당과 한스브레드처럼 이름난 빵집이 몰려 있고, B존은 밤식빵·단팥빵·대추빵 같은 오래된 인기 빵이... 빵집 라인업이 A~E존에 나뉘어 있으니 원하는 빵집 위치를 미리 확인하세요. ◆ 불꽃놀이는 공식 프로그램에 없고, 공연과 체험·이벤트 중심으로 운영됩니다. 이번 대전 빵축제, 어느 존부터 공략하실 건가요? 댓글로 빵 동선 공유해 주세요.새 창 ",
+   "url": "https://cafe.naver.com/uccplus/2428674?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVjY3BsdXMiLCJhcnRpY2xlSWQiOjI0Mjg2NzQsImlzc3VlZEF0IjoxNzk0MzA5NDMwNDIwfQ.7J_WizZ18MiC4b4-HlbO2gbitBqr1p2zGveO3fA1iVw",
+   "engine": "naver_all",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "대전 빵축제 불꽃놀이, 실제로 있을까 자동완성에 불꽃놀이가 함께 뜨길래 저도 궁금해서 찾아봤는데, 대전시 공식 안내... 사람 많은 축제를 꺼리는 분이라면 개막 당일보다 둘째 날 오후 초반을 노리는 것도 방법입니다. 2026 대전 빵축제 핵심 정보 구분 내용 기간 2026.10.17(토)~10.18(일), 2일간 시간 13:00~21:00 (빵 부스 13:",
+   "url": "https://blog.naver.com/offdutymd/224444693817",
+   "engine": "naver_all",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "운행 대전 빵축제, 아쉬웠던 점도 솔직하게 좋은 점만 늘어놓긴 어려운 게, 인기 부스 줄은 생각보다 훨씬 길었고 오후 시간대엔 이동 자체가 쉽지 않을 만큼 혼잡했습니다. 불꽃놀이를 기대했던 분들에게는 아쉬운 소식이었을 것이고, 사람 많은 걸 싫어한다면 애초에 평일 느낌의 여유로운 축제는 아닙니다. 반면 짧은 기간 안에 빵과 공연, 게임 체험까지 한 번에..",
+   "url": "https://blog.naver.com/cjh566/224444361441",
+   "engine": "naver_all",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "오늘 10월 17일(토) 오후 1시, 드디어 2026 대전 빵축제가 문을 엽니다. 빵의 도시 대전에서 열리는 이틀짜리 빵 잔치라, 주말... 후 불꽃쇼까지! 마무리 빵 좋아하는 분이라면 이번 주말은 대전이 정답이에요. 종료 시각·셔틀 막차는 출발 전 공식 인스타그램(@bakery_festival_daejeon)에서 꼭 확인하세요. 도움이 되셨다면 이웃추가와",
+   "url": "https://blog.naver.com/bku53941/224444609316",
+   "engine": "naver_all",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "2026 대전빵축제는 대전의 우수한 로컬 베이커리와 골목상권이 다 함께 웃는 대한민국 대표 지역상생형 빵 페스티벌이다. 성심당 같은 전국구 대표 브랜드부터 동네 구석구석 숨어있던 실력파 동네 빵집까지, 총 120개 지역 소상공인이 축제의 당당한 주인공으로 참여한다. 축새 창 열림",
+   "url": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=f6a18fe7-6577-4381-b706-16ee01b02bd8",
+   "engine": "naver_all",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "대전 빵축제, 올해도 빵 덕후들 심장 건드렸습니다. 불꽃놀이가 취소됐다는 소식에 잠깐 아쉬웠는데, 빵집 라인업 보는 순간 그 아쉬움이 바로 사라졌어요. 솔직히 불꽃보다 빵이... ◆ 2026 대전 빵축제, 핵심 정보 먼저 이번 대전 빵축제는 개막식 축하공연 가수 라인업과 참여 빵집 구성이 공개되면서 본격적인 기대감이 오르고 있어요. 축제 일정, 참여 빵집 ",
+   "url": "https://blog.naver.com/bbangmorning_/224444558022",
+   "engine": "naver_all",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "올해는 참여 빵집들을 소개하는 브레드 갤러리와 대전 빵 지도도 운영돼요. 각 빵집의 대표 메뉴와 브랜드 이야기를 살펴볼 수 있어요. 제품별 가격과 재고는 현장에서 확인해주세요. 불꽃쇼와 날짜별 공연 2026 대전 빵축제에서는 10월 17일 오후 8시 50분 불꽃쇼가 예정돼 있어요. 이번 축제는 빵 판매가 끝나가는 저녁에도 다양한 공연이 이어져요. 공식...",
+   "url": "https://blog.naver.com/sseobwat/224443132145",
+   "engine": "naver_all",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "✅ 하레하레 대전 사람들에게 성심당만큼이나 익숙한 로컬 베이커리! 저도 종종 가는 곳인데 빵 종류가 다양해서 처음 방문해도 취향에 맞는 빵을 고르기 좋아요. 둔산동 본점이나 갤러리아에도 매장이 있으니 참고하세요. ✅ 르뺑99-1 · 슬로우브레드 두 곳 모두 제가 실제로 다녀온 빵집이에요. 평소 매장에서도 맛있게 먹었던 기억이 있어서 이번 축제에는 어떤 대표",
+   "url": "https://blog.naver.com/do00099/224444442467",
+   "engine": "naver_all",
+   "query": "대전 빵축제 불꽃",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "핵심 프로그램 상세 소개 국제불꽃쇼 · 그랜드피날레 ★ HOT불꽃쇼11/21 축제의 하이라이트는 21일 영일대 밤하늘이에요! 프랑스와 일본 불꽃팀이 참가하고 한국이 그랜드피날레로 마무리하는 구성이라고 안내돼요. 시작 시각은 아직 확인되지 않았어요. 나이트카니발 ★ HOT퍼레이드야간 퍼레이드와 나이트워크가 결합된 야간 프로그램이에요. 20일 밤에... 새 창",
+   "url": "https://blog.naver.com/ssagni/224463899821",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "정보 : 대전광역시 인스타그램 : @byunjinsu 방송 활동 시작 : 2006년 연극 활동 시작 : 2010년 대표적인 영화 데뷔작... 빵실장 불꽃속으로(2014) - 배역 미확인 일부 인터뷰에서 ‘킹덤2’와 ‘더킹’ 출연도 언급됐지만 정확한 배역은 확인되지... ④ 야구와 축구를 즐겼다 2016년 당시 야구와 축구를 즐기며 동료 배우들과 함께 연기 ",
+   "url": "https://blog.naver.com/k-gomdori/224471752961",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "휴대폰 오오기리, 이마짱의 「실은…」, 불꽃의 체육회 TV 기타 활동 진행자, 배우 배우자 없음(미혼) 今田耕司(이마다 코지)는 일본의 오와라이 탤런트이자 진행자입니다. 애칭은 이마짱입니다. 오사카부 오사카시 덴노지구 출신입니다. 요시모토 흥업 소속입니다. NSC 오사카교 4기생입니다. 약력 NSC 입학까지 본가는 오사카시 덴노지구... 새 창 열림",
+   "url": "https://blog.naver.com/chicscene/224471593355",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "7/2 한화 vs kt 26년 첫직관입니다 … 작년 후반기에 좀 보다가 (사실대전사람이라면안볼수x) 올해 전반기에는 진짜 야구 거의 안봤는데 정부회장님 찬스로 응원단석을 가게 되엇슨 저땐... 역시한국화약 불꽃놀이도개크게해주고 경기도 이겨서 (중요) 아주아주 만족스러운 마지막 직관이엇습니다 2026 한화이글스는 엄 정말 엄 이지만 그래도 재밋엇다 직관 이렇",
+   "url": "https://blog.naver.com/dlchaee/224471498353",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 이때 무슨 날인데 놀았냐 너희 왜캐 노냐 그래 초딩은 놀아야지 그러고 열심히 뛰면 되지 발야구에 진심인 편 발야구 뭔지도 모른다고 하던 애 맞냐고 제일 신났음ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 이면지 재활용해서 토요일 농구교실에 게임 했는데 만든 건 30분 없어진 건 30초... 새 창 열림",
+   "url": "https://blog.naver.com/wjsgkswn1/224471478843",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "5.15 새벽부터 나가서 행사하고 체육대회하고 지친 나를 달래준 것은 급식에 나온 빠삐코와 간식으로 배달온 싸이버거 발야구 심판 좀 봤다고 화상 입음 샤갈~~~~~ 5.16 대전시립미술관에... 나도 불꽃놀이 껴주쇼 5. 31 뭔가。。。 거제도 해양 관련 박물관에 갔던 듯 나름 재밌었어요 돌아가는 길에는 진주에서 육전과 함께 막국수를～ 진주 택시엔 하모가 ",
+   "url": "https://blog.naver.com/ytreqa/224471425706",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "대한민국 야구 팬들의 가슴을 뜨겁게 달궜던 2026시즌 프로야구 대장정이 드디어 막을 내렸습니다. 수많은 명승부와 감동의 드라마가 쓰인 이번 시즌의 피날레는 결국 '푸른 피의 명가... 이번 우승의 일등 공신: 불꽃 튀는 활약상 이번 한국시리즈 우승에는 모든 선수의 피와 땀이 녹아있지만, 그중에서도 특히 스포트라이트를 받은 주역들이 있습니다. 바로 팀의..",
+   "url": "https://blog.naver.com/happygood77777/224471294790",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "야구팬 여러분, 마운드 위에서 160km에 육박하는 불꽃 강속구를 스트라이크 존 구석구석 꽂아 넣는 선발 투수를 보고 있으면 가슴속까지 시원해지는 쾌감이 느껴지지 않으신가요?... 2026 한화 이글스 가을야구를 이끌 완성형 1선발의 길 한화 이글스가 오랜 암흑기를 뚫고 대전 신구장에서 가을야구의 깃발을 꽂기 위해서는 문동주 선수의 확실한 1선발 도약이..",
+   "url": "https://blog.naver.com/souhohoho/224464171808",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "261109 불꽃야구 시즌2 군산상일고전 경기결과 승리투수 신재영 MVP 정의윤 정훈 불꽃야구2 니퍼트 복귀 등판 강릉영동대전 예고 월요일예능 출처 불꽃야구 시즌2 방송분 최강야구 1. 불꽃야구 시즌2 파이터즈군산상일고전 경기결과 라인업 선발투수 신재영선수 vs 함석헌선수 오늘은 불꽃야구 시즌2 군산상일고전 이어서 포스팅 해보려고 하구요 ㅋㅋ 이날 방송에서",
+   "url": "https://blog.naver.com/chopa1394/224471047291",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "미니 응원봉 키링 led 7색 콘서트 야구 주문제작 갤럭시 창원레이저공방 naver.me 2. 2026-2027 악뮤 전국투어 및 지역별 상세 일정 안내 이번 [소문의 낙원] 투어는 서울을 시작으로 전국... 장소: 대전컨벤션센터(DCC) 제2전시장 * 부산 공연: * 장소: 부산 벡스코(BEXCO) 오디토리움 / 컨벤션홀 * 광주 피날레 공연: * 일시:",
+   "url": "https://blog.naver.com/yama_kko/224470979426",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "프롤로그: 1999년 11월 9일 화요일 새벽 6시, 세기말의 고독 1999년 11월 9일 화요일 새벽 6시, 서울 동대문구 이문동의 낡고 좁은 단층 자취방 안. 얇은 유리창 틈새로 불어오는 알싸하고 차가운 가을바람에 서늘한 한기가 방 안 가득 서서히 스며들었다. 마루 한구석에 놓인 석유곤로는 이미 온기를 잃은 지 오래였고, 이불 밖으로 잠깐 꺼낸 코끝과 ",
+   "url": "https://blog.naver.com/toonavi/224470943206",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "(구라야 (장소연 야구 입문 2탄) 대전에서 하는 승요 ~ 아 맛나다 ~ 장소연성지효 어떠냐 히어로즈의 맛이 ㅋㅋ 성심당 나 그런거 모르겟구요 몽심 휘낭시에;;;; 담에 대전 또 가면 몽심만... 잠실에서 이르케 재밌게 놀앗서요 여의도 불꽃축제 못 본 사람 ? 내가 야무지게 찌거옴 ㅎㅎ 여의나루에서 밥먹구 한강까지 ~ 따릉이 타고 용산까지 가밧니? 난 해냇",
+   "url": "https://blog.naver.com/1130rin/224470766875",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "마지막 불꽃놀이두 해주심 노을 맛집이네요 요트투어.. 한번쯤 해보시길 꼬옥 추천..♥ 잼컨 찾아줘서 고마오용... 동기들이라 대전여행~.~ 귤시루 먹니마니 하더니 키리쉬케이크로 걸파하기 커여운 메뉴판 아빠랑 소꿉장난한다고 딸이 만든 것... 갬성 맞나 이거 야구 보고 기차시간까지 스벅엔딩 얘돌아 담 여행은 제주도야 그때 또 잼께 놀쟈 벌써 또 보고시퍼엉 ~",
+   "url": "https://blog.naver.com/yujoug/224470664727",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "특히 오늘 입고 온 유니폼을 보고 야구 좋아하냐, 스포츠 뭐 본다, 내가 좋아하는 팀에 한국인 선수가 있다 등등 여러 가지로 많이 대화했다! (이제 못 보는데 같이 사진 좀 찍을 걸... 벌써 피날레까지 이어졌다. 당연히 영상이랑은 다를 거라곤 생각했지만, 이렇게 차이가 날 줄은 꿈에도 몰랐다. 인생 첫 불꽃놀이를 일본에서 본 것도 모자라 엄청난 규모...",
+   "url": "https://blog.naver.com/kdjmutjoo/224469515980",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "퇴근하는데 역에 이런게 있어서 뭘까 고민했는데 아무래도 불꽃놀이 때문에 미리 설치해둔 것 같았다. 역시.. 그런날은... 명절에 대전가려고 케텍 예약할라고 했더니 요가하다가 까먹구 부랴부랴 들어가기. 근데14만?응안해~! . . 두산키움전. 거의... 저렴하고 맛있고 어쩌고저쩌고 그래서 비닐장갑 안주신다는 후기에 바리바리 싸들고 출동 야구도 게장도 포기못하",
+   "url": "https://blog.naver.com/1102seongsu/224470481102",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "나도 대전시 임영웅 제 나이 또래에게는 수요가 없지만 어른들에게는 수요 있는 상견례 프리패스상 나한테 릴스 그만 보내 인성 쓰레기 찬우 저의 권력을 하나 말씀드리자면 집에서... ㅋ 불꽃야구를 좋아하는 누나 때문에 관심도 없는 엄마랑 저는 강제로 인천까지 와버렸어요 근디 멀리서 봐도 공명 이 형님 비율이 미친 사람임 아 .. 공명으로 태어날껄 까비 라면..",
+   "url": "https://blog.naver.com/cksdn0892/224470475681",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "한화 이글스의 정규 시즌 피날레를 장식한 롯데 자이언츠와의 마지막 승부, 그리고 대전월드컵경기장을 자주색 함성으로 가득... 멋진 새 구장 전광판에 승리의 불꽃 LED가 쉴 새 없이 반짝이길 바라봅니다. 대전하나시티즌 vs 전북 현대: ‘축구특별시’의 부활을 알린 퍼플아레나의 혈투 야구의 여운이 가시기도 전에 찾은 곳은 '퍼플아레나' 대전월드컵경기장이었습니",
+   "url": "https://blog.naver.com/storydaejeon/224470352587",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "프롤로그 서문(序文) : 지나온 길을 돌아보며 내 살아온 이야기를 적어보려 책상 앞에 앉았으나, 밀려오는 아쉬움에 가만히 펜을 내려놓게 된다. 유년의 반짝이던 기억을 지나 어른이 된 이후의 삶은, 눈부신 자취 대신 바람 한 번 불면 이내 쓸려가 버릴 희미한 발자국에 불과했다. 누구의 기억에도 오래 남지 않을, 세상에 널리고 널린 흔한 이야기 중 하나가 바로",
+   "url": "https://blog.naver.com/nest0918_/224470289991",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "대전 미술관도 충분히 크다 생각했는데 부산 미술관도 대빵 크네요. 역시 광역시는 다릅니다. 로비 여기저기도 예뻐서 사진 많이 찍음. 전시실이 총 3개였나 그랬다. 거기에 특별 전시... 지난 번에 대전을 갔을 때는 대전시에서 소장하고 있는 작품을 중점적으로 볼 수 있었고 작가별로 전시도 잘 돼있어서 그 발자취를 따라 갔다. 그런데 부산 미술관은 뭐랄까...",
+   "url": "https://blog.naver.com/i_hayden/224470265473",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "들어가니까 자리 탈탈 털려있고 원정자리밖에 안남았시요 이거시 홈피날레? 가을잠바=경문잠바 봄에 사서 봄만 입고 끝날줄 알았는데 ... 결국 이렇게 가을잠바를 입긴해요? 사실 아직... 자나깨나 야구 생각 자나깨나 대전?생각 이글스는 꿈돌이랑만 콜라보해서 그런가 이글스=꿈돌이 같은 요~~상한 그런것이 있은 별안간 길에 사람이 조오오오오올~~~~~~라 서있기래",
+   "url": "https://blog.naver.com/cjo1317/224470220775",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "\"피날레 무대인가?\" 감탄…'우리들의 발라드2', 450만 뷰 김소연vs13세 박진서 격돌 '우리들의 발라드2'가 1라운드 최상위권 화제의 참가자들과 함께 또 한 번 감동의 무대를 선사한다.... 피날레 무대인가요?\"라며 감탄을 연발했고, 로이킴은 \"21살에 휘트니 휴스턴이 될 것 같다\"라며 호언장담해 기대를 끌어올렸다. 이 밖에도 성악가 카라 손의 외동아",
+   "url": "https://blog.naver.com/wonogi/224469440720",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "마지막 아웃카운트가 잡히는 순간 하늘을 뒤덮은 금빛 꽃가루와 팬들의 뜨거운 함성이 경기장을 가득 채웠는데요. 치열했던 명승부 끝에 들어 올린 우승 트로피와 눈부신 챔피언십 반지, 그리고 밤하늘을 수놓은 승리의 불꽃축제까지 그야말로 드라마 같은 피날레였습니다. 올 시즌 끝까지 멋진 승부를 보여준 선수들 모두에게 박수를 보냅니다!새 창 열림",
+   "url": "https://blog.naver.com/kirze/224470123320",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "[시즌 넘버 업그레이드] 불꽃야구 3, 뭉찬 5 등 한 단계 격상된 스케일과 파동 3. [메카닉스 & 미식 진화] 어깨 힘을 뺀 '툭 쓸어 치는 반동' & 초겨울 프리미엄 페어링 [시즌2 오프닝... 제11회 [피날레] 시간과 파동 콘서트 2 : 남녀 주역 12인과 10만 관객의 3D 대합창 19:00 | 제12회 [에필로그] 계절이 지나간 자리 2 : 시",
+   "url": "https://blog.naver.com/golden-poop/224470061932",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "ㅜㅜ 26시즌 피날레 피켓팅 성공했순 900으로 들어가서 개망햇긔 ,, 했는데 결국 4층예매ㅠㅠ 그와중에 꼬삐는 알바끝나고 온대서,, 4층에서 혼야구하규 ,, 꼬삐 포카 댈구해주다가 호기심에 두개 뽑았는데 ㅁㅊ 대부님과 동주님 잘가 ...(지마...) 마지막날이라 사진도 찌거쥬고 오빠가 또 대전와쑤 ㅎㅎ 사진찌거달라고 안햇는데 너무 이쁘게 찍어주심이 , 보",
+   "url": "https://blog.naver.com/syoung5812/224469967016",
+   "engine": "naver_blog",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "아파트 가치가 올라간다는 말은 “집값이 상승할거다” 라는 의미로 보이는데 많은 분들도 그렇게 받아들이지 않을까 싶습니다. 앱을 설치하면 편리할 수 있지만, 어차피 비용이 발생하고 해킹이나 개인정보 유출, 방문 차량 사전등록 악용, 외부인 출입 통제 약화 등 보안 측면에서도 걱정되는 부분이 있습니다. 앱을 도입하면 비용 절감이 된다는데, 절감이란 인건비를 말",
+   "url": "https://cafe.naver.com/jingwansa/120?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imppbmd3YW5zYSIsImFydGljbGVJZCI6MTIwLCJpc3N1ZWRBdCI6MTc5NDMwOTQ3MDc5Nn0.yHDRX5nFQgKZnSPOB2yrBRMM992WebGVvbwPydj5x3M&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "폐리튬이온배터리도 화재 위험…열폭주 실험 확인 소방청 국립소방연구원이 수명을 다한 리튬이온배터리를 대상으로 실험한 결과, 일부 조건에서 불꽃을 동반한 열폭주 현상이 확인됐습니다. 열폭주는 배터리 내부 온도가 급격하게 올라 화재로 이어질 수 있는 현상입니다. 알아둘 포인트: 폐배터리는 일반 쓰레기에 섞어 버리지 말고 지정된 수거 방식에 따라 배출해야 합니다.",
+   "url": "https://cafe.naver.com/philsogoodman/32627?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBoaWxzb2dvb2RtYW4iLCJhcnRpY2xlSWQiOjMyNjI3LCJpc3N1ZWRBdCI6MTc5NDMwOTQ3MDc5Nn0.JIUILf1h1YkQ1tTtGOjKMgxHBOaTi4eOS7T-8L9DlCM&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "이제 남은 야구 일정이 [APBC 팀코리아] 11/12 (목) 12:00 호주 11/13 (금) 19:00 일본 11/14 (토) 19:00 대만 11/15 (일) 19:00 1위vs2위전 [잠실 더 라스트 이닝] 11/14 (토) 14:00 [2026 희망더하기 자선야구대회] 11/28일 (토) (?)[두산 곰들의모임] 11/28일 (토) 공식xx [NC",
+   "url": "https://cafe.naver.com/lottevictory/191658?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxvdHRldmljdG9yeSIsImFydGljbGVJZCI6MTkxNjU4LCJpc3N1ZWRBdCI6MTc5NDMwOTQ3MDc5Nn0.82j6hmKYb-A-PNWcGKkH93rWlNnpiDfpAR7QMcxC0Fk&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "마법같은 불꽃쇼가 하늘에서 팡팡 터지는데 어두운 밤하늘을 수놓는 화려한 불꽃들이 폭포 위로 쏟아지고 그 빛이 폭포 물안개와... 블루제이스 야구단이 있는 곳이구요 도시 전체가 유네스코 세계문화유산으로 지정된 올드퀘벡은 실존하고 있는 동화속 그 자체 가을(계절)... 세계2차대전 때 루스벨트 대통령과 영국 처칠 총리가 회담한 그 장소 여기서 투숙했는데 들어가",
+   "url": "https://cafe.naver.com/idongsin/8075?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imlkb25nc2luIiwiYXJ0aWNsZUlkIjo4MDc1LCJpc3N1ZWRBdCI6MTc5NDMwOTQ3MDc5Nn0.trwxDckE-ZJqf3uWMatnqS8UgT3yfcf-9cengWqUUFc&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "빨간태양, 불꽃담요 6139 배구대전, 번개대장, 빵구대장 6141 번게로켓 6143 빌클린턴 6146 빨간루비 6149 밤그림자, 빨간로즈 6150 삘긴마차, 뻐꾹명창, 백계무책 6151 빨간물감, 번개민감, 밤길모기 6152 밤길모녀, 북국만남, 빨간무늬 6153 불꽃무대, 바깥마당 6154 복권문화(6150), 빨간매화(6150), 빨간머리 6155 ",
+   "url": "https://cafe.naver.com/numbersworld/33?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im51bWJlcnN3b3JsZCIsImFydGljbGVJZCI6MzMsImlzc3VlZEF0IjoxNzk0MzA5NDcwNzk2fQ.IHz8gyRDaKm9cR4pSQy4G2S0sn7IGV9afjE3AOPnC-U&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "알아둘 포인트: 삼성은 타선의 집중력과 투수진의 활약을 앞세워 2026년 프로야구 최종 우승팀이 됐습니다. 15. ⚾ 한국시리즈 종료…6·7차전 열리지 않아 삼성이 5차전에서 4승을 먼저 달성하면서 당초 11월 10일과 11일로 예정됐던 한국시리즈 6·7차전은 열리지 않습니다. 2026년 KBO리그의 공식 포스트시즌 일정도 마무리",
+   "url": "https://cafe.naver.com/philsogoodman/32607?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBoaWxzb2dvb2RtYW4iLCJhcnRpY2xlSWQiOjMyNjA3LCJpc3N1ZWRBdCI6MTc5NDMwOTQ3MDc5Nn0.XteqrgGdgz5gyFJz_VlTPLkLsOEhCTJUWuqeyX0Thqs&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "전 오늘부로 겨울취미생활로 전환ㅎㅎㅎㅎㅎ 겨울취미생활인 겨울스포츠 농구 배구 직관다니다보면 봄이 오더라구요 대충 일정보니 17일 화성 Ibk알토스 홈경기 21일 부산 Bnk썸 홈경기 24일 대전 정관장 레드스파크스 홈경기 직관갈 계획입니다~~화성 부산 대전 또 떠돌아다녀야하네요ㅎㅎㅎㅎㅎ 우리의 야구가 멋있게 피날레를 날렸으니 아쉬움없이 맘편하게 겨울스포츠 ",
+   "url": "https://cafe.naver.com/lionsball/6053808?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imxpb25zYmFsbCIsImFydGljbGVJZCI6NjA1MzgwOCwiaXNzdWVkQXQiOjE3OTQzMDk0NzA3OTZ9.fQTMjzJuk499ObGIR5QCusiij8dRyD8E9Cq8R9cklqM&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "973 - 2 ▲ 달달리틀서영야구단 98 14 2 .875 11.5 3 ▲ 고기먹는스님 97 16 1 .858 13.0 4 심송라이온즈 93 21 0 .816 17.5... 5 5 불꽃자이언츠 90 24 0 .789 18.0 6 GIA 80 34 0 .702 28.0 7 머니힐스 73 40 1 .646 34.5 8 타이거즈윈 69 45 0 .605 39.0",
+   "url": "https://cafe.naver.com/baseballmb/724?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJhc2ViYWxsbWIiLCJhcnRpY2xlSWQiOjcyNCwiaXNzdWVkQXQiOjE3OTQzMDk0NzA3OTZ9.0bTZixbwIkrLBliODpzsMZExSV7_huUV2tTQe8kV6VY&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "[原文] 〈大傳〉曰：“井，德之地也。【巽伏爲坎德之基】 井，居其所而遷。【於坎位成坎】 井以辨義。” 【兩互爲睽，兌義而离辨】 [번역] **〈계사대전(大傳)〉에서 말하기를 \"정(井)이라는 것은 거룩한... 【두 호괘를 묶으면 화택규 睽 괘가 되니, 태위택 兌 이 칼날 같은 의리요 중화리 离 가 불꽃처럼 분별하는 것이다.】** [주석] 호괘 화택규(태위택 의리 + 중화",
+   "url": "https://cafe.naver.com/iching100/3559?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImljaGluZzEwMCIsImFydGljbGVJZCI6MzU1OSwiaXNzdWVkQXQiOjE3OTQzMDk0NzA3OTZ9.6BgXI9R2B9n3Ar5qFJoWYem8c6cuqI1SRmEA3ToLcmM&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "11.09 월 -- KBS 인간극장--다시 뜨겁게 레슬링 삼부자 KBS--인간극장,6시내고향,가요무대,전유성특집 TV 편성표 | 디지털 KBS 인간극장 > 미리보기 | 디지털 KBS 인간극장 보통 사람들의 실제 삶을 밀착취재하여 제작한 휴먼다큐프로그램. 타인의 삶에 대한 공감의 폭을 넓히고, 자신의 삶을 성찰할수 있는 계... program.kbs.co.k",
+   "url": "https://cafe.naver.com/dlxogns01/448175?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6NDQ4MTc1LCJpc3N1ZWRBdCI6MTc5NDMwOTQ3MDc5Nn0.rVCRt2HHj7xMkAEOlbuKBjUhz-HTgeHe8xTGBejfDzE&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "저는 한화 팬이라 그런가 타 팀 누구가 끼던 말던 관심 없고 감흥도 없구요 저는 오직 류현진 선수가 우승 반지 끼기만을 염원해요 김영결 우승 반지 못 끼고 은퇴한 것도 섭섭한데 류현진 선수는 꼭 끼워서 보내고 싶네요 그 생각 밖에 없습니다",
+   "url": "https://cafe.naver.com/hanwhaeaglesfancafe/1838067?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhbndoYWVhZ2xlc2ZhbmNhZmUiLCJhcnRpY2xlSWQiOjE4MzgwNjcsImlzc3VlZEF0IjoxNzk0MzA5NDcwNzk2fQ.HQ8qdbgzRgciKSJ78jzJnx1QCQboakECdG-E7B4nVm8&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "어제 초칠까봐 못올렸던 어제의 부산불꽃축제 피날레!! 집관하는데도 눈물나네요!! 선수모두들 축하하고 팬들도 너무 수고많으셨어요^^",
+   "url": "https://cafe.naver.com/lionsball/6048288?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imxpb25zYmFsbCIsImFydGljbGVJZCI6NjA0ODI4OCwiaXNzdWVkQXQiOjE3OTQzMDk0NzA3OTZ9.CUlBEoFroJG6r4z20Po1BFU5nRJILG8-fOCE7I7uhzI&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "프로야구에서는 삼성이 한국시리즈 우승까지 단 1승을 남겨두고 있습니다. 필리핀에서는 강한 열대폭풍 츰파카가 서북서쪽으로 이동하고 있습니다. 세계적으로는 중동의 군사적 긴장과 폴란드 총격 사건, 일본 지진이 주요 소식입니다. ━━━━━━━━━━━━━━━━━━ 한국 | 사건·사고 및 사회 1. 충남 태안 9층 상업시설 화재…22명 대피 7일 오후 8시 46분께",
+   "url": "https://cafe.naver.com/philsogoodman/32591?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBoaWxzb2dvb2RtYW4iLCJhcnRpY2xlSWQiOjMyNTkxLCJpc3N1ZWRBdCI6MTc5NDMwOTQ3MDc5Nn0.9phqzWZt6HIQzi9FQ8xm7IwmVhMWLoO8_QrM0b2MhnY&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "부산 불꽃축제 2026 대전 와인엑스포 서울 전시회 2026 kgma 라인업 성시경 콘서트 2026 성시경 연말 콘서트 성시경 광화문 빵축제 익산 디저트페어 카테고리 · 음악 2026 kgma 라인업 머무르 가수 존박 맥도날드 가사 히로인 가사 만찬가 가사 발음 우사기 랩 가사 꿈꾸던 어른이 되었나요? 곡 정보 베스티 다혜 네온 a20 마이 케미컬 로맨스 ",
+   "url": "https://cafe.naver.com/subadd/763?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InN1YmFkZCIsImFydGljbGVJZCI6NzYzLCJpc3N1ZWRBdCI6MTc5NDMwOTQ3MDc5Nn0.KLAzFepyQVAS2R-dWX-5nA61oZ3d4Xfsbehv3IPsKOk&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "직업 특성상 여기 저리 근무지가 바뀌다 보니, 올해 5월에 아산에서 오산으로 옮기게 되었는데, 오산에 와서 보니 수원이랑 너무 가까운거에요~ 직선거리 14km ㅋㅋ 아산에서는 대전이 그나마 가까워서 표... 중간 중간에 불꽃도 터져 주고 진짜 멋진 인생경기를 봤습니다. 마지막으로 우리 찬승이 세이브 올리고 불펜에 들어와서 선수들이랑 끌어 안는데 나도 안아주",
+   "url": "https://cafe.naver.com/lionsball/6001066?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imxpb25zYmFsbCIsImFydGljbGVJZCI6NjAwMTA2NiwiaXNzdWVkQXQiOjE3OTQzMDk0NzA3OTZ9.OpyguMVdhV0vbr2KUGvo_p2_yR-_lIa4PI-AplZC6QE&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "배치 규칙(1: ㄱ·ㅋ / 2: ㄴ / 3: ㄷ·ㅌ / 4: ㄹ / 5: ㅁ / 6: ㅂ·ㅍ / 7: ㅅ / 8: ㅇ / 9: ㅈ·ㅊ / 0: ㅎ)에 맞춰 전체 수치-한글 변환 사전 1자리 수치 접두어 1 (ㄱ, ㅋ): 극, 각, 깡, 꽁, 고, 구, 경, 강, 곰, 갓, 개, 군, 가 2 (ㄴ): 난, 냉, 늦, 날, 내 3 (ㄷ, ㅌ): 땡, 딱, 똑,",
+   "url": "https://cafe.naver.com/numbersworld/9?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im51bWJlcnN3b3JsZCIsImFydGljbGVJZCI6OSwiaXNzdWVkQXQiOjE3OTQzMDk0NzA3OTZ9.SrYaIkvYB6brC8ij5c-5mxnUIDaxwmne7tDlTptH5Rw&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "2026년 11월 6일 금요일 | 오늘의 주요 뉴스 한국 중심 · 필리핀 · 세계 11월 첫째 주 금요일입니다. 한국에서는 강원 인제 산불과 고속도로 방음벽 충돌사고, 부산 아파트 노동자 추락사고 등 각종 사건·사고가 잇따랐습니다. 서울 구룡마을 화재 당시 소방용수 공급에 문제가 있었다는 사실도 새롭게 드러났습니다. 경제에서는 미국 기술주 급락 여파로 한국",
+   "url": "https://cafe.naver.com/philsogoodman/32575?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBoaWxzb2dvb2RtYW4iLCJhcnRpY2xlSWQiOjMyNTc1LCJpc3N1ZWRBdCI6MTc5NDMwOTQ3MDc5Nn0.YBG_kxD3Tjlp84tkgGEG3zv1F5e3L07kATjobj_qHAk&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "❌10글자 미만 게시글: 무통보 삭제 ❌미허가 링크 게시: 활동정지 ❌감정 섞인 게시글: 감정배출 휴지통이용 대전도 그렇고 야구장 근처 숙박시설이 다 그렇죠 흐규 미리미리 예약이 답이었겠죠 서비스가 달라지는것도 아닌데",
+   "url": "https://cafe.naver.com/hanwhaeaglesfancafe/1837370?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhbndoYWVhZ2xlc2ZhbmNhZmUiLCJhcnRpY2xlSWQiOjE4MzczNzAsImlzc3VlZEF0IjoxNzk0MzA5NDcwNzk2fQ.Kiw4JSrw_QKVg6I45pQ3IBdkDuIL013g-OfFOY-X3C8&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "11월5일 삼성화재 현대캐피탈 V리그 왕빈 호키 쌍포화력 레오 허수봉 삼각편대 국내배구분석 11월5일 대전 충무체육관에서 펼쳐지는 이번 매치업은 V리그 전통의 라이벌전이자 영원한 클래식 매치로 배구... 이번 경기는 승점 3점 이상의 상징성을 지니고 있으며, 양 팀이 새롭게 구축한 공격 옵션과 세터진의 조율 능력이 코트 위에서 정면으로 충돌하는 불꽃 튀는 ",
+   "url": "https://cafe.naver.com/qmffhtjq/57541?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InFtZmZodGpxIiwiYXJ0aWNsZUlkIjo1NzU0MSwiaXNzdWVkQXQiOjE3OTQzMDk0NzA3OTZ9.OswUH067sXS8vBIMzoAGdDiCHacveiRtS-8o_ygVoRc&q=%eb%8c%80%ec%a0%84%20%ec%95%bc%ea%b5%ac%20%eb%b6%88%ea%bd%83%20%ed%94%bc%eb%82%a0%eb%a0%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "네이버뉴스새 창 열림",
+   "url": "https://m.sports.naver.com/kbaseball/article/656/0000188230",
+   "engine": "naver_all",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "프로야구 한화 이글스가 대전 홈에서 정규시즌 마지막 경기도 승리하며 1위 LG 트윈스 추격을 이어갔다. 실낱같은 대역전 우승 희망을 이어가며 홈 피날레 불꽃 축제를 벌였다. 김경문 감독이 이끄는 한화는 30일 대전 한화생명볼파크에서 열린 2025 신한 SOL Bank KBO리그 롯데 자이언츠와의 홈경기를 연장... 새 창 열림",
+   "url": "http://www.osen.co.kr/article/G1112668245",
+   "engine": "naver_all",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "네이버뉴스새 창 열림",
+   "url": "https://m.sports.naver.com/kbaseball/article/109/0005403125",
+   "engine": "naver_all",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "스페셜 요금에 형광봉ㅋㅋㅋㅋ ㅡ불꽃놀이야 매년 하던거고 일회용 형광봉은 진짜 맥빠지더라구요ㅋㅋㅋ그것도 공연용이지 선물도 아닌ㅎ 긴시간 먼길 달려서 대전 다녀왔는데 경기력 포함 모든게 실망 투성이었네요ㅎㅎㅎ 내년엔 새 감독님 지도하에 팀도 다시 날아오르고. 팬들에 대한 성의도 다시 날아오르는 이글스가 되길요 야구빼고 다 잘한다는 이글스였는데... 새 창 열림",
+   "url": "https://cafe.naver.com/hanwhaeaglesfancafe/1831357?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhbndoYWVhZ2xlc2ZhbmNhZmUiLCJhcnRpY2xlSWQiOjE4MzEzNTcsImlzc3VlZEF0IjoxNzk0MzA5NDQxMzQ3fQ.7UQ3bJh43XxL6DWL8a_ziaoNQ4jdBA_SEOx1ixIG9SQ",
+   "engine": "naver_all",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "스페셜 요금에 형광봉ㅋㅋㅋㅋ ㅡ불꽃놀이야 매년 하던거고 일회용 형광봉은 진짜 맥빠지더라구요ㅋㅋㅋ그것도 공연용이지 선물도 아닌ㅎ 긴시간 먼길 달려서 대전 다녀왔는데 경기력 포함 모든게 실망 투성이었네요ㅎㅎㅎ 내년엔 새 감독님 지도하에 팀도 다시 날아오르고. 팬들에 대한 성의도 다시 날아오르는 이글스가 되길요 야구빼고 다 잘한다는 이글스였는데... 새 창 열림",
+   "url": "https://cafe.naver.com/hanwhaeaglesfancafe/1831357?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhbndoYWVhZ2xlc2ZhbmNhZmUiLCJhcnRpY2xlSWQiOjE4MzEzNTcsImlzc3VlZEF0IjoxNzk0MzA5NDYwMjUyfQ.nMyxL9lg7pffCh203Xw6myqTcdgW4X-jQJBpiCj-mgk",
+   "engine": "naver_web",
+   "query": "대전 야구 불꽃 피날레",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "서커스놀이터 주요 수상 2015 안산국제거리극축제 최우수작품상 추천 행사 지역축제, 어린이행사, 기업행사, 거리공연 섭외 상담 콜마이스타 Call My Star 이성형은 서커스... 2025년 마린보이 공연 이력 행사명 지역·기관 주요 내용 K-컬처박람회 충남 천안 광대 마린보이 거리공연 울산옹기축제 울산 거리서커스 초청공연 대전 어린이날 초청공연 대전 어",
+   "url": "https://blog.naver.com/psoul8575/224472057639",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "날짜 시간 프로그램 11월 27일(금) 14:00~16:00 개막식 & 가래떡 뽑기 11월 28일(토) 14:00~18:30 줄타기 & 가요제 11월 29일(일) 15:30~18:30 폐막공연 & 불꽃놀이 축제 기본정보 제30회 파주장단콩축제는 2026년 11월 27일(금)부터 29일(일)까지 3일간 열립니다. 개막식은 11월 27일 금요일 오후 2시, 장",
+   "url": "https://blog.naver.com/forever_luck_blog/224472015145",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "화려한 야경이 좋은지, 대형 크리스마스 축제를 보고 싶은지, 조용하게 산책하며 연말 분위기를 즐기고 싶은지에 따라 추천하는 장소가 달라집니다. 이번 글에서는 타이베이 12월 여행에서 방문하기 좋은 크리스마스 명소 TOP 5와 함께 여행 전에 알아두면 유용한 연말 행사 정보를 꼼꼼하게 정리했습니다. 1. 타이베이 신이구(信義區) 크리스마스 타이베이에서... ",
+   "url": "https://blog.naver.com/thisgothatgo/224472006671",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "아침고요수목원 오색별빛정원전 2026은 12월 4일(금)에 개막해 2027년 3월 14일(일)까지 열려요. 그동안 '일정 미정'이었는데, 11월 10일 아침고요수목원이 개막일을 알리면서 올겨울... 겨울 축제를 시작해요, 남한강 불꽃놀이 날짜까지 확인해 보세요 ▶ 남쪽으로 여행을 간다면 해운대 빛축제 점등식 시간과 볼거리도 같이 챙겨 보세요 도움이 되셨다면",
+   "url": "https://blog.naver.com/dears_91/224471659910",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "2026 군산 불꽃축제 공식 일정표 가장 중요한 부분은 불꽃쇼 시간입니다. 오후 8시에 행사가 시작되지만 실제 불꽃쇼는 오후 8시 10분부터 20분 동안 진행됩니다. 시간 프로그램 16:00~18:00 행사 준비 18:00~20:00 관람객 입장 20:00~20:03 개막식 오프닝 20:03~20:05 주요 내빈 소개 20:05~20:10 개막 선언 및 퍼",
+   "url": "https://blog.naver.com/ysb97302/224471941752",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "(일부 체험료 2만 원 선) 일정별 주요 볼거리: 11월 19일(목): 축제의 시작을 알리는 길놀이, 풍어제 및 개막식 11월 21일(토): 축제의 하이라이트인 대방어 해체쇼와 대방어 먹방대회 11월 22일(일): 방어가요제 결선 및 화려한 폐막 불꽃놀이 마라도와 가파도 사이의 거센 물살을 헤엄치며 자란 모슬포 방어는 이 시기에 육질이 단단하고 기름져 겨울",
+   "url": "https://blog.naver.com/akvh8989/224471920187",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "날짜별 주요 프로그램 올해 축제는 3일 동안 날짜별로 서로 다른 행사가 준비되어 있습니다. 11월 19일 목요일 축제의 시작을 알리는 개막 행사입니다. - 송도부두 미디어파사드... 일정과 교통 및 주차 안내를 꼭 확인하시기 바랍니다. #포항불꽃축제 #포항국제불빛축제 #2026포항축제 #포항여행 #영일대해수욕장 #포항가볼만한곳 #11월축제 #경북축제 #불꽃",
+   "url": "https://blog.naver.com/bk871024/224471910833",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "오늘은 호남 최대 규모로 펼쳐지는 드넓은 바다와 동백대교 야경의 축제, 2026 군산 불꽃축제 소식을 들고 왔습니다. 이번 축제는 형식적인 개막 행사를 과감히 생략하고 오직 화려한 불꽃 연출에만 집중하여 기획된 만큼 더욱 기대를 모으고 있는데요. 방문 전 반드시 확인해야 할 행사 일정, 불꽃 관람 추천 명당, 주차장 위치 및 가볼 만한 꿀팁까지 한눈에 알아",
+   "url": "https://blog.naver.com/skhyss/224471831845",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "제26회 최남단 방어축제는 올해 11월 19일(목)부터 22일(일)까지 나흘 동안 서귀포시 대정읍 모슬포항 일원에서... 개막식은 오후 5시부터 5시 50분, 식후 공연은 6시부터 7시까지입니다. 그런데 무대행사 쪽 넷째 날에는 「폐막식 및 불꽃놀이」가 밤 8시부터 8시 30분으로 잡혀 있습니다. 공지의 저녁 7시와 한 시간 차이가 납니다. 불꽃놀이를 보러",
+   "url": "https://blog.naver.com/issue-nam/224469046550",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "(가요제·불꽃놀이)은 귀가 수단을 따로 챙기세요. 기본 정보 항목 내용 행사명 대한민국 대표 콩 \"장단콩 페스티벌\" 기간 11/27(금) ~ 11/29(일), 3일간 개막식 11/27(금) 14:00 장소 임진각 광장 (경기도 파주시 문산읍 임진각로 177) 주최·주관 파주시 / 파주장단콩축제추진위원회 문의 농업기술센터 농업교육팀 031-940-5281 ️",
+   "url": "https://blog.naver.com/by_yamee/224471810731",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "① 방어 맨손잡기·가두리 낚시 ② 방어 경매 체험 ③ 대방어 해체쇼와 불꽃놀이까지, 핵심만 정리해 볼게요. 왜 모슬포... 개막일인 19일에 가면 참여할 수 없다는 점도 알아두세요. 날짜별 놓치면 아쉬운 무대 • • • • • • • 첫날 19일은 오후 3시 길트기 퍼레이드로 시작해 오후 5시 개막식과 축하공연이 이어집니다. 둘째 날 20일(금)에는 지역 ",
+   "url": "https://blog.naver.com/reese_2/224471008209",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "길놀이와 풍어제가 열리고, 오후 5시 개막식 뒤 지역 공연과 축하공연이 이어져요. 문의는 축제위원회 064-794-8032로 할... 어린이 맨손잡기와 경매 체험은 20일 금요일부터라, 개막일인 19일에만 가면 참여할 수 없어요. 공식 누리집에도 일정은... 마지막 날에는 폐막식과 불꽃놀이가 예정돼 있어요. 제주도 발표에는 대방어 해체쇼와 해녀문화 행사도 ",
+   "url": "https://blog.naver.com/andostay/224471167712",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "이번 2026 군산 불꽃축제는 동백대교와 금강하구를 배경으로 음악과 불꽃이 어우러지는 해상 멀티미디어 불꽃쇼예요. 별도의 긴 개막식이나 축사보다 약 30분 동안 진행되는 불꽃... 두꺼운 외투와 목도리 아이용 담요 또는 무릎담요 차가운 바닥을 막아줄 방석 비 예보에 대비한 우비 따뜻한 물과 간단한 간식 휴대전화 보조배터리 아이 이름과 보호자 연락처가 적힌.",
+   "url": "https://blog.naver.com/5kim_family/224471763602",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "11월 중순, 부산시민공원에서 우리 전통문화를 가까이에서 만나볼 수 있는 축제가 열립니다. 평소 접하기 어려운 무형유산 공연을 관람하고, 전통 공예와 놀이까지 직접 체험할... 공연 일정 한눈에 보기 시간 프로그램 11:00~16:30 부산 및 타지역 무형유산 공연 11:10~11:30 경성대학교 동래야류 11:30~12:00 축제 개막식 12:20~15:",
+   "url": "https://blog.naver.com/green2707/224471744432",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "※ AI 생성 이미지 사용 시: AI 생성 이미지 · 실제 행사 사진이나 공식 포스터가 아닙니다. ️ 해시태그 #2026포항국제불빛축제 #포항국제불빛축제 #포항불꽃축제 #11월축제 #11월가볼만한곳 #포항여행 #영일대해수욕장 #포항불꽃놀이 #국제불꽃쇼 #정인공연 #포항축제 #경북축제 #무료축제 #불꽃놀이명당 #주말여행 #국내여행 #오늘의이 새 창 열림",
+   "url": "https://blog.naver.com/nba4578/224471715563",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "퍼레이드, 개막식, 초대가수 공연 11월 20일(금) 어르신 경기, 방어가요제 예심 11월 21일(토) 대방어 해체쇼, 먹방대회, 해녀 행사, 초청가수 공연 11월 22일(일) 방어가요제 결선, 경품 추첨, 폐막식, 불꽃놀이 날짜별로 즐길 거리가 조금씩 다르기 때문에 방문 날짜를 정할 때 참고하면 좋겠습니다. 특히 주말에는 해체쇼와 먹방대회, 해녀 관련 행",
+   "url": "https://blog.naver.com/white_3018/224471690034",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "2026 제주 모슬포 최남단 방어축제 일정 11월 19일(목) 길놀이·풍어제, 개막식, 축하공연 11월 20일(금) 방어 체험, 방어가요제 예심, 무료 시식회 11월 21일(토) 대방어 해체쇼, 먹방대회, 해녀 관련 프로그램 11월 22일(일) 방어가요제 결선, 폐막식, 불꽃놀이 자세한 시간표는 이 사진들을 참고하세요 ! 출처 : http://www.ban",
+   "url": "https://blog.naver.com/abab991219/224471674701",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "올해로 네 번째를 맞은 누들대전축제는 대전 칼국수와 세계 여러 나라의 면 요리를 한자리에서 맛보고, 셰프 쿠킹쇼와 체험까지 즐길 수 있는 축제입니다. 2026 누들대 전축제... 누들오감대전은 관객이 함께 참여하는 놀이 무대라 아이와 어른 모두 가볍게 즐길 수 있어요. 버스킹은 사흘 내내 이어지니 어느 날 가도 공연 한 무대쯤은 만날 수 있습니다.... 새",
+   "url": "https://blog.naver.com/shinhantalk/224471673775",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "개 놀이기구가 거대한 크리스마스 동화 마을로 탈바꿈해요. 2026 이월드 크리스마스 일루미네이션 축제 개막 구분 2026... (토) 개막식 타임테이블: 점등식 & 그랜드 불꽃쇼 개막 당일인 11월 21일 토요일은 많은 인파가 모이는 하이라이트 행사가... 메인 불꽃놀이가 10여 분간 펼쳐져요. 개막 불꽃쇼 관람 3대 명당 & 인생샷 포토존 인파가 가장 몰",
+   "url": "https://blog.naver.com/annfam25/224471668253",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "2026 루덴시아 크리스마스 축제 일정 올해 루덴시아 크리스마스 시즌은 2026년 10월 24일(토) 첫 점등식을 시작으로 개막했습니다. 유럽의 작은 마을을 연상시키는 건물과 거리... 크리스마스이브·당일 불꽃놀이! 이번 축제에서 가장 기대되는 부분이죠. 12월 24일과 25일에는 특별 크리스마스 프로그램이 공식 안내되어 있습니다. 크리스마스 트리 점등식 ",
+   "url": "https://blog.naver.com/hadakogu/224471621209",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "온 축제입니다. 이후 해외 불꽃팀이 참여하는 국제적인 행사로 발전했으며, 최근에는 불꽃놀이뿐 아니라 미디어파사드와 야간 퍼레이드 등 다양한 문화예술 콘텐츠를 함께... 주요 프로그램 및 날짜별 볼거리 이번 축제에서는 국제불꽃쇼와 미디어파사드, 나이트카니발 등 다양한 프로그램이 준비되어 있습니다. 11월 19일(목) - 개막 행사 - 미디어파사드 점등식...",
+   "url": "https://blog.naver.com/infospoon_note/224471618171",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "26년파주장단콩축제 날짜별 프로그램 날짜마다 성격이 꽤 다르다. 금요일은 개막식이 중심이고, 토요일은 공연이 촘촘하고, 일요일은 폐막공연과 불꽃놀이로 끝난다. 날짜 주요 프로그램 11/27(금) 오전 문화예술공연, 개막식 14:00~15:00, 장단콩 가래떡 뽑기 15:00~16:00 11/28(토) 콩타작 난타공연(오전~정오 3회), 랜덤플레이 댄스 12",
+   "url": "https://blog.naver.com/kkamsun8573/224471594037",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "뽑기 개막 첫날에는 오후 2시 개막식이 진행됩니다. 이후 장단콩 가래떡 뽑기 행사가 예정되어 있어 축제 분위기를 즐기기 좋습니다. 11월 28일 토요일 시간 주요 행사 09:30~12:00... 11월 29일 일요일 시간 주요 행사 10:00~11:00 문화예술공연 12:00~13:00 문화예술공연 14:00~15:00 문화예술공연 15:30~18:00 폐",
+   "url": "https://blog.naver.com/meeth86/224470860875",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "사과로 물들다 날짜 주요 행사 11월 4일(수) 개막식 및 축하공연 11월 5일(목) 초대가수 공연 및 체험행사 11월 6일(금) 축하공연 및 불꽃놀이 11월 7일(토) 사과 퍼레이드 및 축하공연 11월 8일(일) 블랙이글스 에어쇼 및 폐막 행사 청송 사과축제 현장 먼저, 축제장에 도착하니 축제 참가 행사 부스들이 길게 늘어서 있었고 저 멀리 보이는 폭포뷰",
+   "url": "https://blog.naver.com/sena_vlog/224471565388",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "반대로 행사 전체 흐름을 보고 싶다면 오후 6시 입장 시작과 오후 8시 개막식 사이의 간격을 인지해 두면 됩니다. 출발 전에 확인할 항목은 두 가지면 됩니다 이번 군산 불꽃축제에서 날짜·장소·시간은 공식 안내로 확인됐습니다. 반면 비용과 예약은 확인된 자료에 명시된 정보를 찾지 못했으므로, 방문 결정을 내리기 전에는 이 두 항목의 최신 공지를 우선 살펴야.",
+   "url": "https://blog.naver.com/sukwon82/224471559760",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "동백대교와 금강 하구를 배경으로 음악에 맞춰 불꽃이 터지는 해상 불꽃쇼예요. 오후 6시 관람객 입장 → 밤 8시 개막... 6시부터 개막식·퍼포먼스 오후 8시~8시 10분 해상 멀티미디어 불꽃쇼 오후 8시 10분~8시 30분 분산 퇴장 오후 8시 30분~9시... #군산불꽃축제 #2026군산불꽃축제 #군산불꽃놀이 #군산내항친수공원 #군산불꽃축제주차 #군산근",
+   "url": "https://blog.naver.com/estateagent3/224471540369",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "11월 중순 국내 축제 일정 한눈에 보기 축제명 지역 축제 기간 고흥유자축제 전남 고흥 11/12~11/15 아산 은행나무길 거리예술제 충남 아산 11/14~11/15 누들대전축제 대전 11/13~11/15... 가야금산조기념관 주변에서는 국화 분재를, 어린이놀이터 주변에서는 다양한 꽃 조형물을 감상할 수 있습니다. 억새 포토존과 꽃길도 조성돼 있어 늦가을",
+   "url": "https://blog.naver.com/twinstar76/224471526103",
+   "engine": "naver_blog",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "네이버뉴스새 창 열림",
+   "url": "https://n.news.naver.com/mnews/article/586/0000141913?sid=102",
+   "engine": "naver_news",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "◇ 하동군, 한국철도공사와 '지역사랑 철도여행' 업무협약 경남 하동군은 최근 대전 한국철도공사 본사에서 한국철도공사와 인구감소지역의 관광... 이번 축제는 악양면청년회가 주관하고 하동군 등이 후원했다. 대봉감 품평회와 전국 힐링댄스 경연대회, 개막식 축하공연, 불꽃놀이 등 다양한 프로그램이... 새 창 열림",
+   "url": "https://www.sisajournal.com/news/articleView.html?idxno=393343",
+   "engine": "naver_news",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "아파트 가치가 올라간다는 말은 “집값이 상승할거다” 라는 의미로 보이는데 많은 분들도 그렇게 받아들이지 않을까 싶습니다. 앱을 설치하면 편리할 수 있지만, 어차피 비용이 발생하고 해킹이나 개인정보 유출, 방문 차량 사전등록 악용, 외부인 출입 통제 약화 등 보안 측면에서도 걱정되는 부분이 있습니다. 앱을 도입하면 비용 절감이 된다는데, 절감이란 인건비를 말",
+   "url": "https://cafe.naver.com/jingwansa/120?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imppbmd3YW5zYSIsImFydGljbGVJZCI6MTIwLCJpc3N1ZWRBdCI6MTc5NDMwOTQ2ODM5M30.ANRkfk93ELiaOCYGiX2UhNS2ngtwBZn_yozW2iHCC60&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "번호 보도제목 담당부서 제공일자 3148 충남도, 내포신도시 도시바람길숲 조성 본격 추진 기후환경산림국 산림정책과 2026-11-10 3147 충남소방, 클래식으로 청렴 의식 높인다. 소방본부 소방청렴감사과 2026-11-10 3146 “천안 종축장 부지, 충남 랜드마크로 개발” 자치행정국 자치행정과 2026-11-10 3145 첨단산업 키우고 광역교통망 ",
+   "url": "https://cafe.naver.com/jungamironware/21177?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTE3NywiaXNzdWVkQXQiOjE3OTQzMDk0NjgzOTN9.MIJxbc97RFs60lM18ucEMesssvQmMSWNanbiK9an7c8&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "15.(일) 세일러허니문 양치기소년단 까치산 소란 너드커넥션 불꽃놀이 화려한 불꽃이 원주 밤하늘을 수놓습니다! • 개막식 불꽃놀이: 11. 13.(금) 19:00 • 폐막식 불꽃놀이: 11. 15.(일) 19:45... 15.(일) 축제 종료 시까지 • 축제 기간뿐만 아니라 준비 기간에도 주차장 이용이 제한되니, 평소 댄싱공연장 주차장을 이용하시는 시민분들",
+   "url": "https://cafe.naver.com/bluegraydnbk8/158437?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJsdWVncmF5ZG5iazgiLCJhcnRpY2xlSWQiOjE1ODQzNywiaXNzdWVkQXQiOjE3OTQzMDk0NjgzOTN9.H-sKzSjVTBcQpJga5HZ4QLyE7QbAO-WMTOHy2DG_lYM&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "축제 개막식 11월 21일 오후 4시 30분: 전통 행사 11월 22일 오후 4시: 탓루앙 사원 길상 의식 11월 23일 오후 2시: 왓 시 무앙에서 탓루앙 사원까지 파삿 풍(밀랍 성) 행렬 의식 11월 24일 – 보름날, 축제의 하이라이트 오전 7시: 전국 각지에서 모인 승려들의 탁발 및 종교 의식 오후 1시: 부적 운반 의식 및 전통 체육 경기 오후 7",
+   "url": "https://cafe.naver.com/lighthouseatlaos/43582?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxpZ2h0aG91c2VhdGxhb3MiLCJhcnRpY2xlSWQiOjQzNTgyLCJpc3N1ZWRBdCI6MTc5NDMwOTQ2ODM5M30.iXCijMpjmKOsxNco6iVGxnm34bSt1oZnMASkvt0IoEI&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "국회의원 박지원 46분전 이재명 대통령께서 감옥을 갔습니까, 내란을 일으켰습니까?_261109 이재명 대통령께서 감옥을 갔습니까, 내란을 일으켰습니까? 정신나간 장동혁 국힘당 대표가 탈옥, 탄핵 등 막말을 계속합니다. 그렇게 하면 국힘 당 대표는 재선되리라 예측합니다 제발 재선 당대표 되시길 기원합니다만 국민은 당신과 국힘을 버립니다. 차가운 날씨에 효과없",
+   "url": "https://cafe.naver.com/jungamironware/21114?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTExNCwiaXNzdWVkQXQiOjE3OTQzMDk0NjgzOTN9.F3-9T63AdYNC13UmR9umVpZZ8u7_mDz1ttDy0ynJ_sU&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "그런데 가족끼리 유료 라이트 축제에 다녀오면 입장료만 해도 꽤 부담스러워요. 그래서 준비했어요! 입장료 없이... 11월 21일(토) 개막 행사 * 오후 5시~8시 * 산타·사스콰치와 사진 * 캐럴 공연 * 강아지 퍼레이드 * 오후 6시 45분 불꽃놀이 * 선착순... 11월 27일(금) 개막 행사 * 오후 5시~8시 * 라이브 음악과 합창 공연 * 특별 ",
+   "url": "https://cafe.naver.com/woorivan/322?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indvb3JpdmFuIiwiYXJ0aWNsZUlkIjozMjIsImlzc3VlZEF0IjoxNzk0MzA5NDY4MzkzfQ.n0xKOQpVCH-_FgCTBC6QnLIqmTKp1sxAbNZKhoTMi1M&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "다대포 해수욕장에서 바다축제 개막식이 열린날 불꽃놀이 보러 다녀왔습니다. 원래는 편하게 차 끌고 가고 싶었는데 도로 통제를 한다고해서 대중교통으로 다녀왔는데 아휴... 사람에 치이고 이동하느라 정말 힘들긴 했습니다ㅠㅠ 그 넓은 다대포 백사장에 사람들이 계속 빽빽하게 들어오는데 다대포에 이렇게 사람 많은건 진짜 처음 보는 광경이였습니다. 그래도 해 질 무렵 ",
+   "url": "https://cafe.naver.com/mindy7857/5525313?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1pbmR5Nzg1NyIsImFydGljbGVJZCI6NTUyNTMxMywiaXNzdWVkQXQiOjE3OTQzMDk0NjgzOTN9.dq8p_fiyMhGbrZQlD3yuuxL5xRWYV-bmpsY48EtffUk&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "푸드트럭들 왜 동네 야시장축제에 피콜로랑 마인부우가....? 소고기꼬치구이 생각보다 기름지다. 소금을 겁나 뿌린다 주의 금붕어 낚시! 근데 못데려간다. 민트초코크레페...우리 중 민초파가 있더라...... 삼겹살을 돌돌말은 오니기리. 근데 속은 그냥 맨밥이다. 불꽃놀이 개막! 근데 바로 옆에서 터트려서 꽤 놀랬다. 공항에서 발견한 시큐리티 로봇. 마치 스타",
+   "url": "https://cafe.naver.com/ldy818/9192?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxkeTgxOCIsImFydGljbGVJZCI6OTE5MiwiaXNzdWVkQXQiOjE3OTQzMDk0NjgzOTN9.ZtozWMnTurRzgOsCyiptw2CYv_NVegHPkWm6PCGnaqc&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "행사 주요 일정 및 프로그램 11월 20일 16:30 : 2026년도 탓루앙 대축제 개막식 11월 21일 16:30 : 전통 축하 의식 11월 22일 16:00 : 탓루앙 사원에서의 빠릿따(Paritta, 축원·보호) 경전 독송 의식 11월... 축하 불꽃놀이(방파이독) 점화 탓루앙 축제는 불교 신도들과 일반 국민이 종교 의식에 함께 참여하고, 라오스의 아",
+   "url": "https://cafe.naver.com/bugandanimal/342135?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJ1Z2FuZGFuaW1hbCIsImFydGljbGVJZCI6MzQyMTM1LCJpc3N1ZWRBdCI6MTc5NDMwOTQ2ODM5M30.ag6f_hWdVi0OmAclbWYJfI2YGdV4lVPJjmgJ_D_kYp8&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "11월 7일 개막식과 함께한 무대 올해 축제는 11월 6일부터 8일까지 죽변항 일원에서 열렸고, 공식 개막식은 둘째 날인 7일에 진행됐습니다. 개막행사에는 풍어와 만선을 기원하는 어선 퍼레이드와 불꽃놀이도 마련됐으며, 가수들의 축하공연이 이어졌습니다. 축제 첫날에는 나태주의 공연이 있었고 마지막 날에는 MBN ‘전국스타탄생’ 본심 공개 녹화와 군민 화합 한",
+   "url": "https://cafe.naver.com/trotfanvote/559?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRyb3RmYW52b3RlIiwiYXJ0aWNsZUlkIjo1NTksImlzc3VlZEF0IjoxNzk0MzA5NDY4MzkzfQ.mOA48f6pGGsBCJu4qo9uhbRR3pjgliJkqt2eXSvB-2Y&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "공기놀이, 고개넘어 1129 공군납치, 꽃길남쪽, 꿀꿀농장 1131 꼬꼬댁꼬 1132 꽃길동네, 국군대표 1133 국군떵떵 1134 꿈길따라... 그네놀이, 궁녀나이 1229 궁녀눈총, 강남남쪽 1231 그네달고, 그네뛰기 1232 그네타네 1233 건너뛰다 1234 그녀다리, 가나다라... 1324 그대노래, 갈대노래 1325 감탕나무, 광대나물 1326",
+   "url": "https://cafe.naver.com/numbersworld/40?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im51bWJlcnN3b3JsZCIsImFydGljbGVJZCI6NDAsImlzc3VlZEF0IjoxNzk0MzA5NDY4MzkzfQ.2qYWtRH78mgazojRkMeKsNkmWWcIUZhdOjlfcHQxWdg&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "14:00 개막식 15:00 장단콩 가래떡 뽑기 11월 28일(토) 오전 콩타작 난타공연 12:30 랜덤플레이 댄스 14:00 줄타기 공연 15:30 제2회 파주 장단콩 가요제 11월 29일(일) 문화예술공연 15:30 폐막공연 '화합과 번영의 한마당' 18:00 불꽃놀이 이번 축제는 토요일에 제2회 파주 장단콩 가요제가 열리고, 마지막 날인 일요일에는 폐",
+   "url": "https://cafe.naver.com/nayeon950922/17227?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5heWVvbjk1MDkyMiIsImFydGljbGVJZCI6MTcyMjcsImlzc3VlZEF0IjoxNzk0MzA5NDY4MzkzfQ.fbJphXUBTTW-ZyQt782PrCpLKdIk1GUlFiY7CeFsDGg&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "개막식 보러 2박 3일 일정으로 왔다가 어찌어찌하다가 9박 10일 !! 이제 하노이 로 컴백합니다 ㅋ 타이응우엔 랜드마크라 해도 괜찮을 깃발탑 ✔️ 시시각각 조명이 바뀐답니다 ㅎ 밤이 되면 현지인들... ( 대박 예약? ) 화려한 불꽃놀이를 끝으로 축제의 마지막을 알리고 현지인들 틈에 섞여 집으로 가는 길 내일은 하노이 갈 수 있겠죠? ㅎㅎ 혹시 궁금해하시",
+   "url": "https://cafe.naver.com/guitarnsong/297244?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imd1aXRhcm5zb25nIiwiYXJ0aWNsZUlkIjoyOTcyNDQsImlzc3VlZEF0IjoxNzk0MzA5NDY4MzkzfQ.rtGpmfORw9rwaXc14Wp1d-yjFYB4elcZTWlEIn6683k&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "전통공연부터 미술전시, 거리축제, 3D 미디어쇼에 불꽃놀이까지 준비되어 있다고 하네요. 주요 행사 일정 ✅ 응우옌후에 거리 문화축제 - 기간 : 11월 18일~24일 - 장소 : 응우옌후에 보행자 거리 - 베트남 전통문화 공연과 지역별 문화체험, 문화교류 행사 등이 진행됩니다. - 공식 개막식은 11월 22일 저녁에 열릴 예정이에요. ✅ 3D 미디어쇼 - ",
+   "url": "https://cafe.naver.com/vinpearl/566281?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InZpbnBlYXJsIiwiYXJ0aWNsZUlkIjo1NjYyODEsImlzc3VlZEF0IjoxNzk0MzA5NDY4MzkzfQ.nfXjSoGkYDhEH7eDbMgrdYbf1yONRXhW-XnIadf0UQI&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "개막 축하공연이 열리는 7일 저녁에 불꽃놀이가 마련된다. Q. 축제장 근처에 더 둘러볼 곳이 있나요? 죽변등대와 하트해변이 가깝다. 공연이 없는 시간대에 해안을 산책하며 들르기 좋다. 죽변항 수산물축제 다녀오셨거나 가보실 계획이신가요? 댓글로 현장 분위기나 꿀팁 나눠주세요. [ 사진 출처 : 네이버 포토뉴스 ] 함께 보면 좋은 글 죽변항 수산물축제 11월 ",
+   "url": "https://cafe.naver.com/goodinfo53/1706?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imdvb2RpbmZvNTMiLCJhcnRpY2xlSWQiOjE3MDYsImlzc3VlZEF0IjoxNzk0MzA5NDY4MzkzfQ.1gexnlT7Ph_nd38UwzTE_vRNAgDtVXHTvPrPtUy96bA&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "김장도 놀이가 되는 괴산 통 하나로 완성하는 괴산의 김장 2026 괴산김장축제가 11월 5일부터 11월 8일까지 괴산종합운동장 일원에서 열린다. 올해... 11월 6일 공연과 개막 무대 낭만콘서트 5080은 여러 세대가 함께 들을 수 있는 대중음악 무대로 꾸며진다. 저녁 개막식에서는 축하공연과 불꽃놀이가 이어져 축제의 시작을 알린다. 11월 7일 웃음과 모",
+   "url": "https://cafe.naver.com/chungbukzine/944?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNodW5nYnVremluZSIsImFydGljbGVJZCI6OTQ0LCJpc3N1ZWRBdCI6MTc5NDMwOTQ2ODM5M30.Xfz5_B84NFFDoOlWQcnAbaHPDeZ2-m2Mfxx8IM2w-Ps&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "밤하늘 수놓은 마지막 불꽃 개막축하콘서트가 끝난 뒤에는 불꽃놀이가 이어졌다. 밤하늘로 올라간 불꽃이 여러 빛으로 번지며 둘째 날 행사의 마지막을 장식했다. 관람객들은 축제장 위로 펼쳐지는 불꽃을 함께 바라봤다. 낮의 김장 체험에서 시작해 먹거리와 개막식, 축하공연으로 이어진 하루는 밤하늘을 밝힌 불꽃과 함께 마무리됐다. 김치를 버무리던 손길과 모닥불 주변의",
+   "url": "https://cafe.naver.com/chungbukzine/940?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNodW5nYnVremluZSIsImFydGljbGVJZCI6OTQwLCJpc3N1ZWRBdCI6MTc5NDMwOTQ2ODM5M30.xD3Wyi3GtjddAE8MECO2OEqkXZPo8rHaJKmqZcISCTo&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "나선, 낙석, 낙수, 낙시, 난세, 난시, 날세, 닉슨, 남산, 남색, 남송, 내세, 내성, 내손, 내속, 느슨, 노색, 노송, 노승, 녹색, 뇌성, 눈섭, 냉수, 넉살, 냄새 28: 노을, 낙엽, 나이, 남원, 나위, 뉴욕, 나일, 낙안, 누에, 낙원, 낙오, 내용, 내일, 냉이, 너울, 네온, 놀이, 노아, 노엘, 노인, 녹용, 녹음, 넓이, 높이, 누",
+   "url": "https://cafe.naver.com/numbersworld/9?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im51bWJlcnN3b3JsZCIsImFydGljbGVJZCI6OSwiaXNzdWVkQXQiOjE3OTQzMDk0NjgzOTN9.tRSxqD5M73WKNCJHccWPFdQr6vNOgU6_eakXS7VLOB4&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "빛 조형물과 함께 천천히 둘러보면 축제의 분위기를 더 느낄 수 있습니다. 작품 앞에서는 짧게 멈춰서 감상해보세요. TIP. 작품은 사람이 몰리지 않는 옆쪽에서 여유 있게 보는 게 좋아요. ■ 5. 지금 즐길 수 있는 것 — 개막식 이후에도 빛은 계속 개막식과 불꽃놀이는 10월 30일에 진행됐어요. 주말 공연과 플리마켓은 10월 31일~11월 1일에 마무리됐",
+   "url": "https://cafe.naver.com/tircampfireradio/464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRpcmNhbXBmaXJlcmFkaW8iLCJhcnRpY2xlSWQiOjQ2NCwiaXNzdWVkQXQiOjE3OTQzMDk0NjgzOTN9.n8vYs2Bt-gEy6uVa4EDt6PeMBM7vr_EIS8-B4w80wwk&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "대봉감을 주제로 한 참여형 퀴즈와 주민들이 함께하는 전통놀이가 어우러지는 일정이다. 슬로우워크 현장 이벤트도 이날 마련된다. 축제 개막식은 11월 7일 오후 7시에 열린다. 개막식과 함께 현진우, 지나, 피어나 등이 참여하는 축하공연이 이어진다. 오후 9시에는 불꽃놀이가 예정돼 있다. 저녁 시간대 공연과 불꽃이 이어지면서 축제 둘째 날의 주요 장면을 만든다",
+   "url": "https://cafe.naver.com/gyeongnamzine/991?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imd5ZW9uZ25hbXppbmUiLCJhcnRpY2xlSWQiOjk5MSwiaXNzdWVkQXQiOjE3OTQzMDk0NjgzOTN9.NviAaPArkmtzo42GvIAJT-FlGT_YjtCEaDs6JN2nlaA&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "맛나는구마 다낭 새해 축제, 12월 30일부터 5일간 다낭시가 2027년 새해를 맞는 축제 개최 계획을 발표했습니다. 기간은 2026년 12월... 개막식과 새해 카운트다운 개막식은 12월 31일 현지 시각 오후 7시-10시, 바익당 보행자 거리의 반원형 광장 주무대에서 진행될... 사진 촬영 공간과 민속놀이, 문화·예술 체험도 예고됐습니다. 4. 여행 전",
+   "url": "https://cafe.naver.com/warcraftgamemap/3529843?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndhcmNyYWZ0Z2FtZW1hcCIsImFydGljbGVJZCI6MzUyOTg0MywiaXNzdWVkQXQiOjE3OTQzMDk0NjgzOTN9.s8AMo6qIVZPporzRVI1CiLTTs1JQ2IHcFy7XZrb1ki8&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "파주장단콩축제 기간 : 2026년 11월 27일(금) ~ 11월 29일(일) 장소 : 경기도 파주시 임진각 광장 및 평화누리 개막식 : 11월 27일(금) 오후 2시 파주장단콩은 파주 임진강쌀, 파주개성인삼과 함께... 18:00~18:30 불꽃놀이 가수 공연은 있는 듯 한데 초대가수 명단은 아직 미확정! 장단콩 축제 판매가격 2026년 판매가격은 아직 별",
+   "url": "https://cafe.naver.com/ungsangjang/884987?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVuZ3NhbmdqYW5nIiwiYXJ0aWNsZUlkIjo4ODQ5ODcsImlzc3VlZEF0IjoxNzk0MzA5NDY4MzkzfQ.nY67oAtYo5cGY1jHUTJLfCM_9-ws9dDyGkNsxUxr25Y&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "2026 김해분청도자기축제를 찾는다면 올해는 행사장부터 다르게 확인해야 해요. 이번 축제는 장유에서 열립니다라는 점이 가장 먼저 볼... 흙을 직접 만지는 활동부터 꾸미기와 발굴 놀이까지 성격이 달라서 아이 취향에 맞춰 고르기 좋겠어요. 가족 대회도 미리 봐야 하나요?... 개막식은 11월 6일 오후 4시에 열립니다. 개막 퍼포먼스와 한복 패션쇼를 비롯해 ",
+   "url": "https://cafe.naver.com/urisports/13206?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVyaXNwb3J0cyIsImFydGljbGVJZCI6MTMyMDYsImlzc3VlZEF0IjoxNzk0MzA5NDY4MzkzfQ.ekwz1K8ykjGwJp_YWgwqGruHW4Qke7teZR99nK2Ntrg&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "2026 김해분청도자기축제를 찾는다면 올해는 장소부터 다시 확인해야 해요. 축제장은 장유 롯데가든파크입니다. 진례면... 개막식과 공개경매 일정도 놓치지 마세요 개막식은 11월 6일 오후 4시에 열리고, 한복 패션쇼와 대중가요 공연이 함께 진행됩니다. 행사장에서는 분청역사주제관, 도자 명장관, 대한민국분청도자대전 수상작 전시, 청년도예교류관도 만날 수 있어",
+   "url": "https://cafe.naver.com/urisports/13174?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVyaXNwb3J0cyIsImFydGljbGVJZCI6MTMxNzQsImlzc3VlZEF0IjoxNzk0MzA5NDY4MzkzfQ.nsi9WXns1qGt9PlwJBh7KA5QQ1bz5Q9LOps8uCjzAUY&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "지사협 한마당부터 나주에서 열린 장거리 자전거 대회(그란폰도), 어르신들이 주축이 되는 실버태권도 대회, 수완동에서의 젊은이들을 위한 틴틴 페스티벌, 비아에서 가족들을 위한 시크로비아 축제까지. 이제 조금씩 얼굴이 낯익고, 이름도 아는 분들이 하나둘 늘어갑니다. TV에서 봤다며 반가워 하는 분들도 많아졌습니다. 주민들의 한마디, 한마디가 주권자의 목소리임을",
+   "url": "https://cafe.naver.com/jungamironware/20875?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMDg3NSwiaXNzdWVkQXQiOjE3OTQzMDk0NjgzOTN9.IfYGBs9j-4PdSfKx_u7sNVcPhRA9V5QlFfuzeljHJjI&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "문화의 날 축제부터 불꽃놀이까지 총정리 안녕하세요! 호치민 현지 여행 정보와 핫플레이스를 소개하는 호치민MRPARK입니다. 11월 호치민 여행을 계획하고 계신 분들이라면 이번 소식을 꼭 확인해... ━━━━━━━━━━━━━━ 5. 호치민 여행객을 위한 방문 팁 ✔️ 11월 22일: 문화축제 개막식 ✔️ 11월 21~24일: 3D 미디어아트 공연 ✔️ 11월",
+   "url": "https://cafe.naver.com/hcmhp/356?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhjbWhwIiwiYXJ0aWNsZUlkIjozNTYsImlzc3VlZEF0IjoxNzk0MzA5NDY4MzkzfQ.fQTgKh3gGGI5e3nLS5u2ve_ZmxSLNHKF1n4LpeGqC5c&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "체험별 비용, 연령 제한, 남은 인원은 확인되지 않았습니다. 창원시 공식 축제 안내 https://www.changwon.go.kr/cwportal/depart/11063/14383/15463.web ☎ 문의: 055-225-2341 참고사항 개막식 불꽃쇼와 해상 낙화놀이는 이미 진행됐으니, 남은 주말 행사와 국화 전시를 중심으로 방문 계획을 세워보세요. ",
+   "url": "https://cafe.naver.com/100papa/42563?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjEwMHBhcGEiLCJhcnRpY2xlSWQiOjQyNTYzLCJpc3N1ZWRBdCI6MTc5NDMwOTQ2ODM5M30.ldicVolWij_583987x3_yfz_44mVMbOrWfXMg9ddtoI&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "조명과 불꽃쇼가 펼쳐지는 수도권 최대 테마파크 축제입니다. 가평 아침고요수목원 오색별빛정원전 (경기도 가평): 시기: 12월 초순 ~ 3월... 페스타 (대전): 시기: 12월 중순 ~ 2월 특징: 엑스포시민광장의 야외 스케이트장과 꿈돌이 야간 조명, 따뜻한 길거리 음식 푸드트럭이 결합된 중부권 대표 도심 겨울 축제입니다. 대구 이월드 스노우 판타지 & 일",
+   "url": "https://cafe.naver.com/bosiking/974?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvc2lraW5nIiwiYXJ0aWNsZUlkIjo5NzQsImlzc3VlZEF0IjoxNzk0MzA5NDY4MzkzfQ.LqGSgP0Gg181ZtN52S4EtCxdnpRy6QsMMBknMwClp7s&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "국화축제에 가서 말이지요 ㅎㅎ 오픈하는 날에 밤에 불꽃축제도 한다고 하더라구요 그래서 축제 시작하는 날 개막식 하는 날에 출동을 했다지요 ㅎㅎ 오랜만에 불꽃 축제를 보는데 완전 너무 예뻤다지요 좀 다른데서 본것 보다는 좀 시시하긴 했지만 말이지요 그래도 불꽃을 보니 예쁘긴 하더라구요 ~ 국화축제 할때 불꽃놀이 보러 간건 처음이었구만유 ㅎ",
+   "url": "https://cafe.naver.com/dnjscl/402340?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRuanNjbCIsImFydGljbGVJZCI6NDAyMzQwLCJpc3N1ZWRBdCI6MTc5NDMwOTQ2ODM5M30.LNdGRMfeFHQ6bB2AbdT5CCXIgggu1ju0YDpUjGGznNU&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "개원식업체 #축제 #전시 #박람회 #현판식 #제막식 #특수효과 #무대 #음향 #조명 #불꽃놀이 #개업식 #세미나 #워크숍 #오픈식 #심포지엄 #대구이벤트 #대구이벤트사 #대구이벤트회사 #대구이벤트업체 #서울이벤트 #서울이벤트사 #서울이벤트업체 #서울이벤트회사 #대전이벤트사 #대전이벤트업체 #대전이벤트회사 #부산이벤트사 #부산이벤트업체 #부산이벤트회사 #광주",
+   "url": "https://cafe.naver.com/codevent/138?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNvZGV2ZW50IiwiYXJ0aWNsZUlkIjoxMzgsImlzc3VlZEF0IjoxNzk0MzA5NDY4MzkzfQ.hMDMB_NRgRIU7ewdxHm6Q1eCTOLwXB_6i7cKW7qwytM&q=%eb%8c%80%ec%a0%84%20%ec%b6%95%ec%a0%9c%20%ea%b0%9c%eb%a7%89%ec%8b%9d%20%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "가수 라인업부터 주차 불꽃놀이까지 총정리 2026 대전 빵축제 가수 라인업 효린 개막 무대 대전 빵축제 불꽃놀이... 2026 대전 빵축제 가수 라인업 개막 무대는 17일 엑스포과학공원 메인무대에서 열려요. 오후 5시 30분 개막 식전공연... 같은 놀이에도 참여할 수 있어요. 직접 만드는 체험도 준비됐어요. '베이커리 연구소'에서는 지역 대학과 연계한..",
+   "url": "https://blog.naver.com/issuemax/224444268224",
+   "engine": "naver_all",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "첫날에는 마술공연과 소상공인 가요제, 개막식과 초대가수 공연, 불꽃쇼가 편성됐어요. ▶13:00~14:00 : 마술공연 ▶14:00~15:00... 4일까지이며 불꽃쇼는 토요일 일정으로 안내됐어요. 방문 전에는 원하는 공연 시간과 부스 마감 시간, 현장 주차 안내를 함께 확인해 주세요. #2026대전소상공인대축제 #대전소상공인대축제일정 #대전소상공인대축제불",
+   "url": "https://blog.naver.com/jini4998/224430886616",
+   "engine": "naver_all",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "장식했던 불꽃놀이가 올해는 취소됐습니다. 축제를 기다리던 분들 입장에서는 아쉬운 소식일 수밖에 없는데, 대신 개막식에서 높이 15m짜리 대형 롤케이크를 자르는 행사가 준비됐다고 합니다. 공교롭게도 같은 기간 대전이스포츠경기장에서는... 주차·셔틀, 미리 알고 가야 편하다 개막 첫날부터 인파가 몰려 축제장 입구에서부터 걸음을 옮기기 힘들었다는 현장... 새 ",
+   "url": "https://blog.naver.com/jwheon/224444758317",
+   "engine": "naver_all",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "공연 프로그램과 불꽃놀이 진행 여부 개막 축하공연 가수 라인업과 타임테이블 축제 첫날인 10월 17일(토) 오후 6시 개막식에 이어 메인무대에서 개막 축하공연이 진행됩니다. 이번... 둘째 날인 10월 18일(일) 저녁에는 지역 음악인들의 열정이 담긴 '대전부르스 창작가요제'가 오후 7시부터 9시까지 메인무대를 장식합니다. 엑스포다리 불꽃놀이(불꽃쇼) 공식",
+   "url": "https://blog.naver.com/smallhabitslab/224442038189",
+   "engine": "naver_all",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "저녁엔 개막식이 있어요. 10월 17일 오후 5시 30분 식전공연, 오후 6시 개막식과 15m 대형 빵 커팅 세리머니, 오후 6시... (2) 불꽃쇼는 취소됐고, 17일 저녁 개막 공연에 효린이 나와요. (3) 주차가 좁아서 1,000원 셔틀(정부청사역·대전역)이 편해요. 같이 보면 좋은 글 진주남강유등축제 불꽃놀이 날짜·주차 정리 부산불꽃축제 11월 7일",
+   "url": "https://blog.naver.com/c5719519/224440548957",
+   "engine": "naver_all",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "대전 빵축제 불꽃놀이는 언제 하나요? A. 올해는 하지 않습니다. 17일 갑천변에 예정돼 있던 불꽃쇼가 교통 혼잡과 안전관리 여건을 이유로 취소됐습니다. 같은 자리의 버스킹 공연은 예정대로 열립니다. Q. 개막식에는 누가 나오나요? A. 위드유싱어즈와 독특크루, 붐비트 브라스밴드, 효린이 개막축하공연에 출연합니다. 17일 오후 6시 30분부터 엑스포과학공원",
+   "url": "https://cafe.naver.com/specup/7942163?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNwZWN1cCIsImFydGljbGVJZCI6Nzk0MjE2MywiaXNzdWVkQXQiOjE3OTQzMDk0NTQ5ODJ9.CqI8NSfdVKr2WiYc8CuJ_cNqQRJF1QSIPPoWngEhirU",
+   "engine": "naver_all",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "공연과 불꽃쇼를 중심으로 볼지에 따라 움직이는 시간이 달라지니 방문 목적부터 정하는 편이 낫습니다. 불꽃놀이는 아직 취소 확정으로 볼 수 없습니다라는 점도 함께 짚어볼게요. 축제 전 일정과 주차 정보를 더 자세히 확인해보세요 2026 대전... 반대로 개막식과 공연을 우선하면 늦은 시간에 들어가게 되는데, 그때는 일부 제품이 남아 있지 않을 가능성을 염두에",
+   "url": "https://blog.naver.com/rbngpw/224439471915",
+   "engine": "naver_all",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "대전 낭만상회 가을장에서 불꽃놀이도 즐길 수 있나요? 가을밤을 더욱 특별하게 만들어 줄 불꽃놀이까지 준비되어 있다면 축제의 즐거움은 배가 되겠죠! 다채로운 가수들의 공연과 버스킹으로 분위기를 즐긴 뒤, 개막식때 펼쳐지는 밤하늘을 수놓는 화려한 불꽃까지 감상한다면 잊지 못할 가을 추억이 될 것 같습니다. 가족, 연인, 친구와 함께 음악과 볼거리가... 새 창",
+   "url": "https://blog.naver.com/drawing_ram/224456822525",
+   "engine": "naver_all",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "제가 방문한 10월 9일 개막식에는 쿨 이재훈과 포레스텔라가 출연했답니다. 맛있는 먹거리부터 라이브 공연, 밤하늘을... 유료 콘서트가 아닌 지역 축제에서 이 정도의 공연을 즐길 수 있다는 점이 참 좋았답니다. 대전 서구 아트페스티벌 불꽃놀이 그리고 이날의 마지막을 장식한 건 바로 개막 축하 불꽃놀이! 공연이 끝난 뒤 밤하늘에 화려한 불꽃이 펼쳐졌어요...",
+   "url": "https://blog.naver.com/go_gosoon/224437059782",
+   "engine": "naver_all",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "날짜 시간 프로그램 출연진 10월 17일 17:30 식전공연 지역 공연팀 10월 17일 18:00 개막식·대형 빵 커팅 개막 행사 10월... 2026 대전 빵축제 불꽃놀이는 취소 17일 오후 8시 50분 예정됐던 엑스포다리 인근 갑천변 불꽃쇼는 취소됐어요. 교통 혼잡과 관람객 안전관리 문제로 취소됐어요. 빵 판매와 체험, 개막식과 축하공연은 진행해요. 빵",
+   "url": "https://blog.naver.com/lovestalog/224444808617",
+   "engine": "naver_all",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "#대전서구아트페스티벌 #대전가을축제 #쿨이재훈 #포레스텔라 한글날부터 3일 연휴라 그저 신난 월평새댁입니다. 오늘 원래 방콕... 불꽃놀이 개막식을 보고와서 황홀한 연휴를 시작했어요. 제가 글 마지막쯤 불꽃놀이 명당을 알려드리겠습니다. 사람 없고 보기 좋은 곳~ 축제를 위해 보라매공원 차도는 전부 통제됐어요. 차도였던 곳이 푸드트럭이 있어서 식사 안하고..",
+   "url": "https://blog.naver.com/yu87808/224437170253",
+   "engine": "naver_all",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "대전 빵축제 불꽃놀이는 언제 하나요? A. 올해는 하지 않습니다. 17일 갑천변에 예정돼 있던 불꽃쇼가 교통 혼잡과 안전관리 여건을 이유로 취소됐습니다. 같은 자리의 버스킹 공연은 예정대로 열립니다. Q. 개막식에는 누가 나오나요? A. 위드유싱어즈와 독특크루, 붐비트 브라스밴드, 효린이 개막축하공연에 출연합니다. 17일 오후 6시 30분부터 엑스포과학공원",
+   "url": "https://cafe.naver.com/specup/7942163?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNwZWN1cCIsImFydGljbGVJZCI6Nzk0MjE2MywiaXNzdWVkQXQiOjE3OTQzMDk0NzM1Njh9.Jeknw6Kl7unkfpk0fB1ltr8hwgAEEFSXr7iaOjhQ4e8",
+   "engine": "naver_web",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "경남 축제를 정리해보았어요 밤하늘을 수놓는 드론쇼부터 가을 풍경을 따라 걷는 우포늪 걷기대회, 알록달록 국화와 가을꽃 전시까지! 『 2026년 11월 둘째 주 부산 경남 축제... 러닝에 입문하고 싶으시다면 이번 기회를 놓치지 마세요 부산 수영구｜광안리 M 드론×레이저쇼 - 위치: 광안리해수욕장 일원 - 주소: 부산광역시 수영구 광안해변로 219 - 기간:",
+   "url": "https://blog.naver.com/nyanggom_land/224472018149",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "유림공원2026년 11월8일 오후 출처 나만의 공간 이순금 원글 사랑 합니다새 창 열림",
+   "url": "https://blog.naver.com/jjks48420/224472011542",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "“ 고흥 유자축제에서는 무엇을 즐길 수 있나요? ” 고흥 유자축제에서는 유자따기 체험, 가수 공연, 드론쇼를 한 번에 즐길 수 있습니다. 11월이 되면 고흥의 유자밭은 노랗게 물드는데, 유자 향을 맡으며 걷기만 해도 가을 여행의 기분이 납니다. 나무마다 유자가 가득 달려 있는 시기라 눈으로 보는 재미도 큽니다. 유자밭 방문객 / 출처: 네이버 포토뉴스 낮에",
+   "url": "https://blog.naver.com/khj700529/224471937447",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "2026 유성국화축제 오랜만에 찾은 유성국화축제. 21년도에 와서 보고, 24년도에 근처 지나갈 일이 있어 훑듯이 봤던 게 전부였는데 오랜만에 국화축제가 가고 싶어 마지막 날 유림공원을 찾았다. 늦은 오후에 가니 대전 사람들이 다 모였는지 북새통을 이뤘고, 사진의 레터링 조형물 뒤로 푸드트럭과 각종 행사부스가 늘어서 있었다. 동편광장으로 들어가니, 제일 먼",
+   "url": "https://blog.naver.com/hyun-dori/224469702240",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "고흥 유자축제 주요 프로그램 이번 축제는 가수 공연만 보고 돌아오기에는 즐길 거리가 꽤 다양하게 구성되어 있어요. 공식 프로그램은 크게 공연, 유자밭 프로그램, 체험 프로그램, 전시, 부대행사로 나뉩니다. ① 공연 프로그램 주무대 콘서트 외에도 유자밭 곳곳에서 여러 공연이 진행됩니다. 대표 프로그램은 다음과 같아요. · 멀티미디어 드론쇼 · 불의 서사...",
+   "url": "https://blog.naver.com/mybitelog/224471635068",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "오빠는 서울대병원에서 진료하고 저녁에나 도착한다고 해서 기다리는 동안 대전 유성 유림공원에서 국화축제를 하고 있어서 다녀왔지요. 오직 국화꽃만으로 꾸며 놓았는데 참 예뻤답니다. 몇 년 전에도 다녀왔었는데 해마다 더 예뻐지고 있어요. 국화꽃으로 표현해낸 일월오봉도 유성온천족욕장에서 발 담그고 있던 언니를 불러서 같이 갔는데 언니가 무척 좋아했어요.... 새 ",
+   "url": "https://blog.naver.com/moonjkang/224471599741",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "문의: 유성구청 042-611-2080 크리스마스 장식품과 소품을 구경하고, 다양한 체험과 공연을 즐길 수 있는 겨울축제입니다. 지난해에는 대형 트리와 회전목마, 드론 라이트쇼 등도 선보였습니다. 다만 올해 드론쇼 개최 여부와 초대가수, 세부 공연시간은 아직 공식 확인되지 않았습니다. 특정 가수가 나온다고 알려진 게시물을 보더라도 올해 출연진인지 확인하고.",
+   "url": "https://blog.naver.com/vipheaven/224471492271",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "☐ 출발 전 날씨·드론쇼 변경 공지 확인 ☐ 편한 신발·겉옷·보조배터리 준비 ☐ 유자밭 보행로와 주민 생활 골목 배려 ☐ 공연 종료 전 귀가 교통편 재확인 노란 열매를 보고 손으로 한 병을 만들고, 저녁에는 좋아하는 노래를 듣는 하루. 고흥유자축제는 서두르지 않고 머무는 일정으로 잡을수록 계절의 맛과 풍경을 함께 챙길 수 있겠어요. #고흥유자축제... 새 ",
+   "url": "https://blog.naver.com/away1004/224471436611",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "대전 유성구 유림공원에도 완연한 가을이 찾아왔습니다. 당초 예정되었던 국화축제가 연장되면서 유림공원에서는 국화꽃의 향기와 함께 또 하나의 행사가 열렸습니다. 바로 11월... 누군가는 체험에 참여하고, 누군가는 국화꽃을 배경으로 사진을 남기며 가을날의 추억을 담았습니다. 드론으로 내려다본 유림공원은 또 다른 풍경을 보여주었습니다. 공원 한가운데 자리한...",
+   "url": "https://blog.naver.com/yuseonggu/224470995541",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "빛초롱축제 12월 중순부터 토끼가 1위로 고른 이유 12월 서울은 저녁마다 갈 데가 생겨요. 청계천에 등이 켜지고... 서울빛초롱축제 청계광장부터 삼일교까지 물길을 따라 커다란 등 조형물이 이어져요. 아이 손 잡고 천천히 걸으면서 등 하나하나 구경하면 한 시간이 금방 가요. 보통 12월 중순에 불을 켜서 1월까지 이어져요. 올해 날짜는 서울빛초롱축제... ",
+   "url": "https://blog.naver.com/golden-carrot/224471316793",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "요새 한참 유림공원에서 국화축제를 하고 있는데 그래서인지 점심 시간엔 평일이라도 어디든 식당은 붐빈다. 워낙 유성구청 직원들이나 한빛아파트 주민도 있겠지만 카이스트 학생들이 워낙 많이 나와서 먹는 곳이어서 맛집으로만 인정 받으면 꾸준히 장사가 되는 골목! 유성불백이 너무 맛있어서 정기적으로(?) 일부러 가서 먹고는 했는데 좀 더 가까운 곳에 불백집이... ",
+   "url": "https://blog.naver.com/yummommy/224471289355",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "대전 가을 가볼만한곳 | 유성국화축제 Q. 유성국화축제 밤에 가도 괜찮아요? 오히려 밤이 더 예뻐요. 국화 아치와 대형 국화 조형물에 조명이 들어오고, 연못 옆 정자까지 은은하게 빛나요. 국화길, 국화분재전시장까지 천천히 걸으며 소화시키기 좋았어요. 퇴근 후 저녁에 도착해도 충분히 즐길 수 있는 대전 야경 명소예요. 대전 유성구 유림공원 일원 / 입장료..",
+   "url": "https://blog.naver.com/sksseoul03/224471231338",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "✨ 유자밭 야간 빛정원과 드론쇼 이번 고흥유자축제는 밤에 방문해도 즐길 거리가 있습니다. 유자밭에 미디어아트 조명과 경관 조형물이 설치되고, 해가 지면 빛정원으로 분위기가 달라지는 프로그램이 준비되어 있어요. 또한 멀티미디어 드론쇼도 11월 12일부터 15일까지 나흘 동안 예정되어 있습니다. 다만 드론쇼는 날짜별 정확한 시작 시간을 출발 전에 공식... 새",
+   "url": "https://blog.naver.com/mytoday4864/224471192446",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "전국 곳곳에서 국화축제, 단풍축제, 지역 특산물 축제, 야간 문화행사 등 다양한 행사가 열립니다. 특히 11월에는... 축제 11.16까지 부산 사하 예술제 11.29까지 경남 거제 섬 꽃축제 11.9~11.22 대구 수성 국제비엔날레 11.22까지 대전 유성 온... 사하 예술제: 10월 20일~11월 29일, 부산 사하구 광안리 M(Marvelous) ",
+   "url": "https://blog.naver.com/yong_0912/224470816200",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "이사한 사진 못 찍어서 아쉽아쉽 ㅜ 이삿짐 센터 사장님 착하고 말 많아서 이사할때 안 심심했음 ㅜㅡㅜ 진짜 이거땜에 대전으로 이사 간건 안비밀~ 이사 하고 바로 요거 진짜 갖고 싶어서 만들러 도서관 갔는데 색깔은 좀 밤틴데 귀여움 ㅜㅜ 요건 유성 국화축제 간건데 백아가 온다는거임!! 글애서 보러갔는데 뭔 전시 조형물이랑 드론쇼는 개밤티였음;;;;;;; 글애",
+   "url": "https://blog.naver.com/quocuil/224471118028",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "진단 드론·AI게임 디지털 기술 체험 초당대학교와 목포가톨릭대학교를 비롯한 여러 대학과 청년단체가 참여해 다양한 경험을 제공합니다. 단순히 구경하는 축제보다 직접 만지고... 축제장에서는 늦가을의 정취를 느낄 수 있는 국화 전시와 지역 농수특산물 판매장도 운영될 예정입니다. 무안은 양파와 고구마, 갯벌낙지 등 다양한 농수산물로 잘 알려진 곳입니다.... 새",
+   "url": "https://blog.naver.com/hibabyle/224469124854",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "광주 양동시장에서는 12~14일 양동 홍탁페스타, 충남 서산에서는 15일까지 서산국화축제가 이어져요. 불꽃과 드론쇼로 반짝이는 토요일 밤도 좋고, 책과 꽃 사이를 천천히 걷는 주말도 좋아요. 여러분은 이번 주 어디로 떠나실 건가요? 댓글로 이번 주말 계획 알려주세요~ 이상 히도리 였습니다 #11월축제 #11월둘째주축제 #이번주축제 #주말가볼만한곳 #울산축제",
+   "url": "https://blog.naver.com/hidori-/224471041657",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "바로 유성온천 크리스마스축제예요. 지난 2025년에는 화려한 드론 라이트쇼부터 반짝반짝 빛나는 루미나리에 거리, 크리스마스 마켓과 다양한 체험 프로그램까지 운영했어요. 특히 밤하늘을 아름답게 수놓았던 드론쇼와 빛으로 물든 거리는 겨울밤의 낭만을 느끼기에 충분했어요. 크리스마스 분위기가 가득한 거리를 걷다 보면 어디에서 사진을 찍어도 예쁜... 새 창 열림",
+   "url": "https://blog.naver.com/82illusion/224470932821",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "이 글을 읽는 분들도 이번 주말에는 멀리 떠나는 대신, 우리 동네를 천천히 한 바퀴 둘러보시면 어떨까요? ♀️ #충청남도 #충남이라 #충남정책 #당진 #당진여행 #당진국화전시회 #합덕농촌테마공원 #충남여행 #가을나들이 #생활속여행 #가족나들이 #지역축제 #드론라이트쇼 #물놀이 #관람차새 창 열림",
+   "url": "https://blog.naver.com/yun4819b/224470837465",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "영암 월출산 국화축제 주소: 전남 영암군 영암읍 기찬랜드로 19-10 기찬랜드 일원 행사기간: 2026년 10월 30일 - 11월 15일 운영시간: 10:00 - 18:00 입장료 및 주차: 무료 입장 / 기찬랜드... 저녁에는 야간 불 퍼포먼스와 드론쇼 콘서트까지 이어진다고 하니 남편과 퇴근 후 주말 드라이브로 다녀와도 참 좋겠더라고요. 벌교 꼬막축제 주",
+   "url": "https://blog.naver.com/army2323/224470288425",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "멀티미디어 드론쇼는 나흘 내내 주무대에서 열린다고 공지돼 있어요. 시작 시각은 공식 안내에 따로 없어 현장 일정표를 봐야 해요. 출처 고흥유자축제 공식 홈페이지(공연 일정·출연진) https://www.goheungyuja.com/sub.do?menuCd=02_01 전남일보(고흥군 콘서트 출연진 발표, 2026.11.4) https://www.jnilbo.",
+   "url": "https://blog.naver.com/ririhuhu/224469823522",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "구분 핵심 내용 행사 기간 2026.11.07 ~ 11.08 개최 장소 양산 물금 황산공원 일대 운영 시간 오전 10시부터 야간까지 방문 규모 누적 관람객 6만 명 돌파 황산공원 국화축제와 연계되어 진행되어 더욱 풍성한 볼거리를 제공했다는 평가며 양산시의 브랜드 가치를 높여주었습니다. 첫째 날의 열기 빈첸 공연과 쿠킹클래스 축제 첫날인 11월 7일 토요일에",
+   "url": "https://blog.naver.com/pch67078/224469854708",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": ": 네이버블로그 & [아산 피나클랜드 국화축제] \"3만 평에 펼쳐.. : 네이버블로그 \" \" [독립기념관 단풍나무숲길] \"3.2km 붉은 .. : 네이버블로그 \" \" [아산 곡교천] \"60년 이상 된 350여 그.. : 네이버블로그 \" \" [계룡산 갑사 단풍] \"춘마곡 추갑사, 160.. : 네이버블로그 \" \" \" \" [공주 불장골저수지] \"수면에 비친 오",
+   "url": "https://blog.naver.com/all-about-travel/224469593924",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "대구수목원 국화축제 기다리셨나요 매년 가을만 되면 정말 문의가 많았던 행사가 바로 열려요. 2026 대구수목원 국화전시회가 드디어 시작된다는 소식이에요. 개인적으로도 이번 가을에 꼭 가보고 싶어서 찾아보았답니다. 올해로 벌써 25회째를 맞이하는 전통 있는 축제라고 하더라고요. 가을 나들이 계획을 세우는 분들께 아주 반가운 소식이 아닐까 싶어요. 정확한...",
+   "url": "https://blog.naver.com/linkersungsil/224469807655",
+   "engine": "naver_blog",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "안녕하세요 오늘은 대전 유성 국화 축제 보러가는 날이에요 (8일까지 전시) 원래는 유람이의 방송을 못 본다는 마인드여서 마음 한구석에 아쉬움이 남았는데 유람이가 오늘 휴방한다고 해서 마음 편히 밤에 부모님과 같이 꽃놀이 하러 갔어요~~ 먼저 저녁은 어제 유람이 방송에서 순대가 나와서 순대 국밥 먹으러 왔어요!! 돼지 내장과 순대의 기름짐과 깍두기 시원함, ",
+   "url": "https://cafe.naver.com/hayurngitam/3016?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhheXVybmdpdGFtIiwiYXJ0aWNsZUlkIjozMDE2LCJpc3N1ZWRBdCI6MTc5NDMwOTQ5NTcyNn0.m01oxaQPF4VLO1xTjfIG9o384BJ91TFc19rV91LY6hU&q=%ec%9c%a0%ec%84%b1%ea%b5%ad%ed%99%94%ec%b6%95%ec%a0%9c%20%eb%93%9c%eb%a1%a0%ec%87%bc&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "안녕하세요~~ 오늘은 끝난줄 알았던 유성국화축제 다녀왔습니다 둘째랑 같이 있어야 하기에 어디갈까? 하다 회사 근처로 와버렸네요 주차후 유림공원 가는길 강에 물고기 봐야하는 둘째... 질문을 합니다 물고기는 졸리면 어떻게자? 전 그냥 눈감고 자는거 아닐까? 했더니 그러다 상어가 잡아먹으면'? 이러는데 답을 못했습니다ㅜㅜ 경치를 봐야 한다고 기어코 올라가네요 ",
+   "url": "https://cafe.naver.com/joycamping/973216?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImpveWNhbXBpbmciLCJhcnRpY2xlSWQiOjk3MzIxNiwiaXNzdWVkQXQiOjE3OTQzMDk0OTU3MjZ9.YcubUNdnYJ5v3LnCSFxCijhz9TrukaQ447n2BOAyjbw&q=%ec%9c%a0%ec%84%b1%ea%b5%ad%ed%99%94%ec%b6%95%ec%a0%9c%20%eb%93%9c%eb%a1%a0%ec%87%bc&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "안녕하세요 한창 막바지의 유성 국화축제 갔다왔습니다 제가 알기론 끝난줄 알았는데 연장을 했더라구요 그래서 작은아이와 함께 둘이 갔다왔네요 주차후 유림공원 건너기전 물고기를 봐야겠다고 하며 강가를 들여다 보네요 배고프다고 타꼬야끼도 먹고 꽃이 참으로 많습니다 마지막 징검다리도 건너봐야겠다고 굳이 돌아가게 만드네요 야간엔 불빛이 있지만 어둡다보니 사진찍기 힘들",
+   "url": "https://cafe.naver.com/goodrving/1128?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imdvb2RydmluZyIsImFydGljbGVJZCI6MTEyOCwiaXNzdWVkQXQiOjE3OTQzMDk0OTU3MjZ9.slP-8IPjHq65Ft7fYXdBLSIDWZ5H1qOiK-20_VAsNrw&q=%ec%9c%a0%ec%84%b1%ea%b5%ad%ed%99%94%ec%b6%95%ec%a0%9c%20%eb%93%9c%eb%a1%a0%ec%87%bc&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "대전 나들이 유성국화축제^^ 유림공원에서 하는 국화축제를 왔어요. 꽃내음 뭃씬. 알록달록 형형 색색의 꽃들~~~ 은은한 조명아래 너무 예쁜꽃들보며 힐링했네요. 축제간김에 신인아이돌 어센더의 공연도보구 KCM노래도 듣구 아주 행복한 하루 입니다. 하나 아쉬웠던건 성심당에 사람이 너~~~무 많아서 먹지못한게 슲프네요 ㅡㆍㅡ",
+   "url": "https://cafe.naver.com/maximumimpactgaming/100095?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1heGltdW1pbXBhY3RnYW1pbmciLCJhcnRpY2xlSWQiOjEwMDA5NSwiaXNzdWVkQXQiOjE3OTQzMDk0OTU3Mjd9.ukfxYgTSA6Tq-1Q3g1Y4iyzjmIJge048tNnup4qTWbI&q=%ec%9c%a0%ec%84%b1%ea%b5%ad%ed%99%94%ec%b6%95%ec%a0%9c%20%eb%93%9c%eb%a1%a0%ec%87%bc&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "2022년부터 대전시 대표축제로 선정된 대전 유성구 대표 가을축제인 「제17회 유성국화축제」가 10월 17일부터 11월 1일까지 16일간 유림공원 일원에서 개최된다. 일주일이 연장되어 11월 8일까지 유림공원의 멋진 가을 풍경을 감상할 수 있다는 기쁜 소식이 전해졌습니다. 국화 본연의 아름다움과 과학도시 유성의 특색을 담은 다채로운 전시와 체험, 공연을 만",
+   "url": "https://cafe.naver.com/browneahnt/60527?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJyb3duZWFobnQiLCJhcnRpY2xlSWQiOjYwNTI3LCJpc3N1ZWRBdCI6MTc5NDMwOTQ5NTcyN30.locvjWnZ7Poe2-9C2Z0KMogPX1OkZas4Opwfmto68Sk&q=%ec%9c%a0%ec%84%b1%ea%b5%ad%ed%99%94%ec%b6%95%ec%a0%9c%20%eb%93%9c%eb%a1%a0%ec%87%bc&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "2022년부터 대전시 대표축제로 선정된 대전 유성구 대표 가을축제인 「제17회 유성국화축제」가 10월 17일부터 11월 1일까지 16일간 유림공원 일원에서 개최된다. 일주일이 연장되어 11월 8일까지 유림공원의 멋진 가을 풍경을 감상할 수 있다는 기쁜 소식이 전해졌습니다. 국화 본연의 아름다움과 과학도시 유성의 특색을 담은 다채로운 전시와 체험, 공연을 만",
+   "url": "https://cafe.naver.com/chcamping/666355?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNoY2FtcGluZyIsImFydGljbGVJZCI6NjY2MzU1LCJpc3N1ZWRBdCI6MTc5NDMwOTQ5NTcyN30.yl3AoLMWPQHQXR2jNRWTXrA9ihUerNeOWSfJI16Wp0A&q=%ec%9c%a0%ec%84%b1%ea%b5%ad%ed%99%94%ec%b6%95%ec%a0%9c%20%eb%93%9c%eb%a1%a0%ec%87%bc&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "방문객들은 공원을 걸으며 꽃을 살펴보고 조형물 앞에서 사진을 남겼다. 제17회 유성 국화축제는 국화의 아름다움과 대전의 지역 상징, 시민 참여형 프로그램을 함께 선보인 가을 행사였다. 16일 동안 이어진 축제는 낮의 화사한 꽃밭과 밤의 조명 풍경을 차례로 보여주며 유림공원을 계절의 변화를 체감하는 공간으로 꾸몄다. 같이 보면 좋은 글 원문: 국화로 물든 유",
+   "url": "https://cafe.naver.com/daejeonzine/937?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRhZWplb256aW5lIiwiYXJ0aWNsZUlkIjo5MzcsImlzc3VlZEF0IjoxNzk0MzA5NDk1NzI3fQ.SHSKg8UD2tF69xK8S6Se7c6FCIJeVoPzRM80-9eAyEk&q=%ec%9c%a0%ec%84%b1%ea%b5%ad%ed%99%94%ec%b6%95%ec%a0%9c%20%eb%93%9c%eb%a1%a0%ec%87%bc&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "어제사진이예요~ 볼일있어 유성구청근처갔다가 야경이너무이뻐서 홀리듯 가서 아이와 산책했어요~~ 다행이 늦은시간이라그런지 다녀갈사람은 다녀갔겠거니하며 걷는데 한가롭고 여유롭게 다닐수있어 사진도편하게 찍어보고했어요^^ 축제기간이 연장되어서 이쁜국화꽃 실컷보고왔네요 함께하면 언제나 좋은사람들♡",
+   "url": "https://cafe.naver.com/djnoen/1350527?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRqbm9lbiIsImFydGljbGVJZCI6MTM1MDUyNywiaXNzdWVkQXQiOjE3OTQzMDk0OTU3Mjd9.SQinxF-7mn082O4AIVfjGsEwgkydKDE9TeDCL8AuOSA&q=%ec%9c%a0%ec%84%b1%ea%b5%ad%ed%99%94%ec%b6%95%ec%a0%9c%20%eb%93%9c%eb%a1%a0%ec%87%bc&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "12 \"축제·크리스마스·무료 행사\" 총정리새 창 열림 2026 노원달빛산책 무료로 즐기는 서울 야간 빛축제! 장소 : 노원구 당현천 당현1교~양지교 일대 일정 : 2026년 10월 16일~11월 8일 점등시간 : 17:30~22:00... 창 열림 12 새 창 열림 새 창 열림 리뷰 한 스푼새 창 열림5일 전 2026년 10월 31일 오늘 서울·경기 행사 ",
+   "url": "https://cafe.naver.com/city6/9594?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNpdHk2IiwiYXJ0aWNsZUlkIjo5NTk0LCJpc3N1ZWRBdCI6MTc5NDMwOTQ5NTcyN30.hOP0iTJYDvBoE9_VIgbALhryi0PKDTk9ajlCT2AmAHI&q=%ec%9c%a0%ec%84%b1%ea%b5%ad%ed%99%94%ec%b6%95%ec%a0%9c%20%eb%93%9c%eb%a1%a0%ec%87%bc&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "11월 대전 근교 축제, 가을 나들이 가볼만한 곳 대전 유성구 한의원 안녕하세요. <우리가족 바른 주치의> 365일 진료하는 바른부부한의원 대전점입니다. 어느덧 11월입니다. 단풍은 깊어지고 아침저녁... 11월 축제 PICK ① 관평동 한의원 대전역에서 1시간 안팎으로 즐기는 늦가을 나들이 부여국화축제 기간: 2026.10.30.(금) ~ 2026.11.",
+   "url": "https://cafe.naver.com/msbabys/5060848?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1zYmFieXMiLCJhcnRpY2xlSWQiOjUwNjA4NDgsImlzc3VlZEF0IjoxNzk0MzA5NDk1NzI3fQ.tsjzmMumtYqluaM-o6WzbXUYKzv57EGzi9SMxixYTXc&q=%ec%9c%a0%ec%84%b1%ea%b5%ad%ed%99%94%ec%b6%95%ec%a0%9c%20%eb%93%9c%eb%a1%a0%ec%87%bc&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "유성국화축제 야경(夜景)",
+   "url": "https://cafe.naver.com/worldtour200/8518?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndvcmxkdG91cjIwMCIsImFydGljbGVJZCI6ODUxOCwiaXNzdWVkQXQiOjE3OTQzMDk0OTU3Mjd9.SqKROLmzwGwn5aK72z4T0NzHNkmKJHTKWjKsuxE4lLA&q=%ec%9c%a0%ec%84%b1%ea%b5%ad%ed%99%94%ec%b6%95%ec%a0%9c%20%eb%93%9c%eb%a1%a0%ec%87%bc&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "가을꽃의 차분한 정취와 야간조명의 화려함이 한데 겹쳐지면서 유림공원의 밤은 낮과 구별되는 축제 공간으로 변했다. 1500대 드론이 수놓은 개막식 2026년 10월 17일 열린 개막식에서는 가수들의 축하공연과... 멀리 이동하지 않고도 도심 속 공원에서 계절의 변화를 느낄 수 있다는 점도 유성국화축제의 매력으로 꼽혔다. 꽃을 따라 걷고, 공연을 감상하고, 해",
+   "url": "https://cafe.naver.com/daejeonzine/918?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRhZWplb256aW5lIiwiYXJ0aWNsZUlkIjo5MTgsImlzc3VlZEF0IjoxNzk0MzA5NDk1NzI3fQ.D0-BgWS4gbg98i8pcbgWOqoco789WuD744hO_iCsiqU&q=%ec%9c%a0%ec%84%b1%ea%b5%ad%ed%99%94%ec%b6%95%ec%a0%9c%20%eb%93%9c%eb%a1%a0%ec%87%bc&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "RE안그래도 지난 주말 비오는 바람에 못가서 아쉬웠어요 넘 잘됐네요!",
+   "url": "https://cafe.naver.com/happy1555/93696?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhcHB5MTU1NSIsImFydGljbGVJZCI6OTM2OTYsImlzc3VlZEF0IjoxNzk0MzA5NDk1NzI3fQ.8FA4x3QUB_qr6ebTfEAzmP5Svo65ChFTzWEULB3bkl8&q=%ec%9c%a0%ec%84%b1%ea%b5%ad%ed%99%94%ec%b6%95%ec%a0%9c%20%eb%93%9c%eb%a1%a0%ec%87%bc&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "오늘은 제가 직접 다녀온 경험을 바탕으로 축제 일정부터 주차장 위치와 이용 방법, 가수 라인업, 드론쇼 정보와 실시간 개화 상태까지 소개해 드리겠습니다. 그럼 함께 알아볼까요? <목차> 1. 2026 대전 유림공원 유성국화축제 기본정보 2.... 특히 공연 이후에는 약 1,500대 규모의 드론라이트쇼가 준비되어 축제 첫날을 화려하게 장식하는 프로그램으로..",
+   "url": "https://blog.naver.com/ggulmyung/224445650164",
+   "engine": "naver_all",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "축제의 마지막은 1,500대의 드론쇼 공연이 끝난 뒤에는 드론쇼가 펼쳐졌습니다. 무려 1,500대의 드론이 밤하늘을 수놓았습니다. 수많은 불빛이 음악에 맞춰 움직이며 하늘에 그림을 그려... #유성국화축제 #유성구축제 #대전가볼만한곳 #대전축제 #국화축제 #가을축제 #가을나들이 #꽃축제 #국화꽃 #꽃구경 #박정현공연 #국화음악축제 #드론쇼 #대전여행 #주말",
+   "url": "https://blog.naver.com/djforesti/224445287497",
+   "engine": "naver_all",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "DAEJEON 2026년 17회 대전 유성국화축제 글/사진 © 우야 방문 일자 : 2026년 10월 15일 오후 안녕하세요! 선선한 가을바람과... 개막일 드론 라이트 쇼 놓치지 말기 ✅주말 방문 시 KAIST/유성구청 임시주차장 활용하기 ✅반려 동물 목줄 & 배변봉투 챙겨 산책 즐기기 알록달록 국화의 향연과 밤하늘을 수놓을 드론 쇼까지 다채로운 즐길 거리",
+   "url": "https://blog.naver.com/sag0023/224443471182",
+   "engine": "naver_all",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "발사되는 드론쇼 장면을 보니 가슴이 웅장해졌습니다 2026 유성국화축제 첫날 방문 해봤는데 꽃들도 예쁘고 조명 분위기도 좋아서 인근에 거주하거나 대전 놀러오시는 분들은 한번쯤 가보시기 추천드려요 유성국화축제는 유림공원에서 11월 1일 까지 계속 되구요 특히 주말 방문하시는 분들은 각종 체험프로그램과 이벤트들이 많으니 유성구 공식 계정 참고해주세요 \" \" \"",
+   "url": "https://blog.naver.com/jeggange/224446780668",
+   "engine": "naver_all",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "다녀오면 또 멋진사진 올릴게요^^ 어제는 빵축제도 있다보니 이동인구가 많다보니 갈자신이 없었어오! 드론쇼 보고 싶었지만 말이죠 ㅠ.ㅠ ️ 추천 해시태그 #유성국화축제 #2026유성국화축제 #대전유림공원 #대전국화축제 #대전가볼만한곳 #가을꽃축제 #대전데이트코스 #가을나들이 #국화꽃밭 #유성구축제 #대전핫플새 창 열림",
+   "url": "https://cafe.naver.com/ungsangjang/881237?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVuZ3NhbmdqYW5nIiwiYXJ0aWNsZUlkIjo4ODEyMzcsImlzc3VlZEF0IjoxNzk0MzA5NDg0NjYwfQ.UbStrnOrjoPLMt2uJv9yOqcEeDpwwlnaPBCDttrRC7M",
+   "engine": "naver_all",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "유성국화축제 일정 한눈에 보기 날짜 주요 프로그램 10월 17일(토) 개막 국화음악회, 드론쇼 1,500대 (종료) 10월 24일(토) 지역 예술인 버스킹 10월 31일(토) 지역 예술인 버스킹 11월 1일... #유성국화축제 #유성국화축제2026 #유성국화축제일정 #유림공원 #유림공원국화축제 #대전국화축제 #대전축제 #대전가볼만한곳 #유성구가볼만한곳 #국",
+   "url": "https://blog.naver.com/dudures/224445473841",
+   "engine": "naver_all",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "일부지만 공유해봅니다 제가 많은 드론쇼를 봐왔지만 이번 드론쇼는 진짜 예쁘고 역대급이었어요~ 내년에도 기대해봅니다 정준일 ‘고백’에 이미 몽글한데 박정현의 꿀성대에 진짜 감동감동 감동이었어요ㅠㅠ 세상에 정현 언니 성대는 여전합니다 ‘꿈에’듣고 기절 진짜 이번엔 더 예쁘게 잘 꾸며놓은것 같아요 개막식의 감동이새 창 열림",
+   "url": "https://cafe.naver.com/doanmom1004/904637?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvYW5tb20xMDA0IiwiYXJ0aWNsZUlkIjo5MDQ2MzcsImlzc3VlZEF0IjoxNzk0MzA5NDg0NjYwfQ.IErMeurhqPum3o30KyJGTxZrhXgYIjCX6a-SF1HoYDI",
+   "engine": "naver_all",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "다녀오면 또 멋진사진 올릴게요^^ 어제는 빵축제도 있다보니 이동인구가 많다보니 갈자신이 없었어오! 드론쇼 보고 싶었지만 말이죠 ㅠ.ㅠ ️ 추천 해시태그 #유성국화축제 #2026유성국화축제 #대전유림공원 #대전국화축제 #대전가볼만한곳 #가을꽃축제 #대전데이트코스 #가을나들이 #국화꽃밭 #유성구축제 #대전핫플새 창 열림",
+   "url": "https://cafe.naver.com/ungsangjang/881237?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVuZ3NhbmdqYW5nIiwiYXJ0aWNsZUlkIjo4ODEyMzcsImlzc3VlZEF0IjoxNzk0MzA5NDg3NTk3fQ.Jz6pUT1fqc9cwlLSqzxctwXdlMmWedpoXhUL1iMgsso",
+   "engine": "naver_web",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "일부지만 공유해봅니다 제가 많은 드론쇼를 봐왔지만 이번 드론쇼는 진짜 예쁘고 역대급이었어요~ 내년에도 기대해봅니다 정준일 ‘고백’에 이미 몽글한데 박정현의 꿀성대에 진짜 감동감동 감동이었어요ㅠㅠ 세상에 정현 언니 성대는 여전합니다 ‘꿈에’듣고 기절 진짜 이번엔 더 예쁘게 잘 꾸며놓은것 같아요 개막식의 감동이새 창 열림",
+   "url": "https://cafe.naver.com/doanmom1004/904637?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvYW5tb20xMDA0IiwiYXJ0aWNsZUlkIjo5MDQ2MzcsImlzc3VlZEF0IjoxNzk0MzA5NDg3NTk3fQ.JH-d-7DeqaTdnwAjvAPj50xDDhPE75r7ZSX1Vo0aOHU",
+   "engine": "naver_web",
+   "query": "유성국화축제 드론쇼",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
   {
    "title": "[속보] 대전 `스토킹 신고` 전 연인 살해범 신상공개…43세 권종필 - 부산일보",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLNF84Ml9lZmdPUzlMM3NuTFhaLXpmQ3E0QTZMQkNPdVJGeWRFd1N2ejlCLU1kZXpHTUNuamM1b0N3NGZwRzRiaVhTTjJnVnlWNWxTeTJQd2FZTHRtcEVmc3EwN2l1UGVWRk9fMXExczg0d0dVam95X01YNEU?oc=5",
@@ -10976,93 +13489,6 @@
    "engine": "gnews",
    "query": "대전 축제 개막식 불꽃놀이",
    "first_seen": "2026-11-03T21:07:46+09:00"
-  },
-  {
-   "title": "옥천 청성 산성 문화축제 성황… 주민 500여명 한자리 - 충청도민일보",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45Z0VUbEZKRFZaamtZc2RCaVFTenVfcEp0ZXRaZzc2M2xqRTlBWWtjNUs0STRxOFFGdEdiY2R6Z2NmbmZyM1pNQzNPWDhyRnM0UVdpUjVSVVY4TU1yX2tNNFBuRW5pRmhLeFRNVg?oc=5",
-   "pub": "Tue, 03 Nov 2026 06:34:36 GMT",
-   "engine": "gnews",
-   "query": "옥천 불꽃",
-   "first_seen": "2026-11-03T17:07:47+09:00"
-  },
-  {
-   "title": "허태정 대전시장 “공공기관 유치에 시청사도 내줄 각오”, 지역경제 살리기 속도전 - 경남도민뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93N3RoM1l3Z3JJb3Y5TkF5OF9tREJ1NjU4b085c3BYY0J3ZzRIS2pBVm9iNDI1RFVFUmVlZ2dKc0xudk01V2lNSnZic0UzdFd5cnlfbUxDYmw4LVg5RWYyeExSVQ?oc=5",
-   "pub": "Tue, 03 Nov 2026 03:11:10 GMT",
-   "engine": "gnews",
-   "query": "대전 불꽃놀이",
-   "first_seen": "2026-11-03T15:07:45+09:00"
-  },
-  {
-   "title": "1428년(세종 10년) 청송읍 덕리 보광산에 있는 청송심씨 시조묘의 사계절 제사 때 용전천 물이 불어나자 유사와 후손들이 강을 건널 수 있도록 섶나무를 엮어 다리를 놓았다는 전설에서 유래한 것으로 전해진다. ▲ 청송사과축제장과 강변 임시주차장을 연결하는...",
-   "url": "http://v.daum.net/v/20261103141349776",
-   "engine": "daum_news",
-   "query": "세종 불꽃",
-   "first_seen": "2026-11-03T14:17:58+09:00"
-  },
-  {
-   "title": "\"야구 예능 포맷은 독점 못한다\"…오픈넷, '불꽃야구' 손 들어줬다 - 이데일리",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObFp5el9GWFpGZWxFQ25id1cyaVBkRFhta1lfdlJpaWNIZV9zSFQyUHNyN2s4Q3NMeW15RlRSLVBZc0xObVN4R0dFNUhpcmFfTjJpdnY2dTNfVENzVlFnOUNOZXl3RjlmSldaWVhzN1lOX1FuZXhzZjc3N1ZyWno4Uw?oc=5",
-   "pub": "Mon, 02 Nov 2026 07:02:51 GMT",
-   "engine": "gnews",
-   "query": "세종 불꽃",
-   "first_seen": "2026-11-03T14:17:58+09:00"
-  },
-  {
-   "title": "청주시, 벼 수확 후 볏짚 환원·가을 논갈이 당부 - 경남도민뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wX0I3VF9aZW5YWWNZVUxIX1JuVGprUm9NanM1djVqNUZKLWhPWGIxdHJHWGFXV0VMa3ZmVVBHZld3SmpYYjB6X2x4NkY0eDNHRzdrTWxLRVBiVS1NczMwZmlBbw?oc=5",
-   "pub": "Mon, 02 Nov 2026 23:10:23 GMT",
-   "engine": "gnews",
-   "query": "청주 불꽃축제",
-   "first_seen": "2026-11-03T14:17:58+09:00"
-  },
-  {
-   "title": "백화점 밖으로 나온 '흰디'···현대백화점 캐릭터 굿즈 매출 73%↑ - 스마트비즈",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCcnZ1TzZEekdxQ2RDLW9rVmgwaGJ4YWdNWDhheFNWcS12LUJaSUpya216SVFvbUVXbWpGanBTTDVveWd1dE1UU0ZYcXZkV1N3RDBPQmxzd2ZNRGV6ZURpbzNRQ05RU1hhc0NDZQ?oc=5",
-   "pub": "Tue, 03 Nov 2026 02:08:10 GMT",
-   "engine": "gnews",
-   "query": "대전 불꽃놀이",
-   "first_seen": "2026-11-03T13:07:46+09:00"
-  },
-  {
-   "title": "공주시, 국립소방연구원 개청 환영…소방·재난안전 클러스터 조성 속도 - 뉴시니어",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xel9CR3BaZG9fYlV0VWVLbV9vNms3QVdQay1uZHUxWHppRE1xdnNwN2d2MlFZZzBHZlp4M2RnRU9KMUtMTkdxN21kUHBzMWZha3I3Z2k3UW5Cel82anUzQzlfMA?oc=5",
-   "pub": "Tue, 03 Nov 2026 00:48:54 GMT",
-   "engine": "gnews",
-   "query": "공주 불꽃놀이",
-   "first_seen": "2026-11-03T10:07:46+09:00"
-  },
-  {
-   "title": "대전시의회 행정자치위원회, 의정자문위원 간담회 열어 - 웹이코노미",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ba1ZnaTlMOGoxZkZ6dGxRQzZGY1VzZjQ1c2FSanJ3STdtRTByQmpNRV9Yci1VQjVXMERuazdQaElUYy04Z1ppQjVlUlloSnljY3BqcFJVbnQwZklTZjhDaW9IdHhDTWVsdm1Bb2VvTXoxQQ?oc=5",
-   "pub": "Mon, 02 Nov 2026 12:54:05 GMT",
-   "engine": "gnews",
-   "query": "대전 빵축제 불꽃",
-   "first_seen": "2026-11-03T10:07:46+09:00"
-  },
-  {
-   "title": "청주시, 2027년 제1단계 공공근로사업 참여자 모집 - 경남도민뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxMjRTZ1dfRHdxQ2QxSG8wRkp3Q0F6bmdEaUcwR2VpN2owaTUxYjlqLTAwcktjOHlKVXlHcExSRGhqbzZ2c3BqNVhTSHZuWW9taDlyR0FsN24wb1NpeWlOWEpPZw?oc=5",
-   "pub": "Mon, 02 Nov 2026 23:10:22 GMT",
-   "engine": "gnews",
-   "query": "청주 불꽃축제",
-   "first_seen": "2026-11-03T08:27:16+09:00"
-  },
-  {
-   "title": "11월 첫 주말 국화·불꽃축제…부산은 7일 도로 통제 - https://www.diarypoint.com/",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9paVN5WU5CRGowUVVlUDR5dERxLUpCNnJNbWhIY19CWElHSGVvY2JzWTUwWjdJZ2pCWmJ5M3QxLXZSSlR0N1ROamZZTFotYWpCeXAxTlRmNGg4ZEk2dUhkTzFSeXZENkxUZEtv?oc=5",
-   "pub": "Mon, 02 Nov 2026 09:40:00 GMT",
-   "engine": "gnews",
-   "query": "대전 불꽃놀이",
-   "first_seen": "2026-11-03T08:07:49+09:00"
-  },
-  {
-   "title": "드론으로 산불 예찰 - 세종시민일보",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oUnk0NTllUE5CWk5nQl8yRWhZNkg4QmRmOU9aTWJVSDduQURyekpreGRlblBoMGMwbjAya0I5aExxQ19MMjJNSVpPdHVCemJRR1NNd2JLekdmLXJPYTlBaEVCZDViS29NTUNqaGtvVzFwUzg?oc=5",
-   "pub": "Fri, 30 Oct 2026 07:00:00 GMT",
-   "engine": "gnews",
-   "query": "세종 불꽃",
-   "first_seen": "2026-11-03T04:07:48+09:00"
   }
  ],
  "errors": []

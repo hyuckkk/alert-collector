@@ -1,8 +1,31 @@
 {
- "updated": "2026-11-10T04:07:47+09:00",
+ "updated": "2026-11-10T20:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 3,
  "hits": [
+  {
+   "title": "[항공 Pick] LCC 업계, 국제선 신규 취항 및 지역공항 이용객 대상 판촉 - 라이센스뉴스",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JV2NFVTZ5U3ZPcjBkMV9wSVQ2RTNzem9FTWVzcmpjSGdHejRVSzd0dmRYR1J0NnFDcXpqWFNiaW4yQTlOMlRkaml2Qkc0T1ZMOHRyWUthTzZ4TEVVcWlVeXJXcnFwb3JnMkFB?oc=5",
+   "pub": "Tue, 10 Nov 2026 02:40:00 GMT",
+   "engine": "gnews",
+   "query": "대한항공 미주 프로모션 2027",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "[플라이H!] 파라타항공·에어프레미아, 중국 노선서 네트워크 확장 시동 - 한국정경신문",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2M3dUYXhJRF9OMENzeVhIS0x3aFVIcHdPLUVBVEkwUVgtMlRkM3FGTXNkTnZYUnQwbEtzZm9nbzhsVkVUb0dlT0RfVFFGUk1YdVE?oc=5",
+   "pub": "Tue, 10 Nov 2026 06:07:31 GMT",
+   "engine": "gnews",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
+  {
+   "title": "따르면 한국 여행객의 70%는 더 좋은 가격에 여행하기 위해 날짜나 목적지를 조정할 의향이 있다고 답했다. 이에 맞춰 숙박 할인 적용...적용되며 세금과 추가 서비스 비용은 제외된다. 다른 프로모션과 중복 적용도 불가능하다. 하나투어·여기어때, 일본·동남아...",
+   "url": "http://v.daum.net/v/20261110094245562",
+   "engine": "daum_news",
+   "query": "알래스카항공 한국 프로모션",
+   "first_seen": "2026-11-10T20:07:48+09:00"
+  },
   {
    "title": "에어프레미아, 中 톈진항공과 인터라인 협력…”중국 환승 네트워크 확대\" - 팍스경제TV",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43NjVLRmkyNFV3T3RjRDM1RmU1VUt6S2xPN0hRWkNlcHVaU19hTXBiTm1rN3ZMc2tKUzM1WC1ydVF1YjkxdGZEZk5pMk12dDE4akJhSzlON25iRE4yZ2lzUmdiWmxPdnRK?oc=5",
@@ -143,30 +166,6 @@
    "engine": "gnews",
    "query": "대한항공 미주 특가",
    "first_seen": "2026-11-04T15:07:45+09:00"
-  },
-  {
-   "title": "에어프레미아, 내달 2일부터 항공권 특가···미주·아시아 10개 노선 - 팍스경제TV",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFLTRGMkE5UG43WExRTlFjbElCWEh6cGJGcFhfZk4tYUM2MkFiMmY3SUNrZlJMVlRrOTZmZEs5RHc1VjhoNVNKMDkyU09tTEp6bFZOeWpFYURHMkJJSVI5cFROVnRlTzB4?oc=5",
-   "pub": "Fri, 30 Oct 2026 00:39:52 GMT",
-   "engine": "gnews",
-   "query": "에어프레미아 미주 특가",
-   "first_seen": "2026-11-03T19:08:00+09:00"
-  },
-  {
-   "title": "[컨콜] 현대제철 \"HPLS 美 제철소, 첨단산업 등 고부가 산업으로 판매처 확대\" - 데일리안",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0Q0xMZ0Z2c29XRzA1QlFIRG0wNVlQcXBVR09mLTVzYU9IOFp6aGpJd3FFOXV5S1hFelZZRmhKTXZtTllQUUx1cXdmYU5id29UQjI1SQ?oc=5",
-   "pub": "Fri, 30 Oct 2026 05:58:00 GMT",
-   "engine": "gnews",
-   "query": "에어프레미아 미주 특가",
-   "first_seen": "2026-11-03T09:07:46+09:00"
-  },
-  {
-   "title": "에어프레미아, 좌석 수 줄이고 이코노미 간격 넓혔다 - 팍스경제TV",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92RC1XbWdGbFJ4QzRWX1pGck1iX0loVG0tQW1aTmdCaDFzRFdYMXJGUDk3QjhiSl9lbnZBWm5fQV8wZ1dLV1BVV3RoVlc2T18yTERGU2UzMmJ1WGZMMXJzdTUtS3ZCQ3M?oc=5",
-   "pub": "Mon, 02 Nov 2026 00:44:00 GMT",
-   "engine": "gnews",
-   "query": "에어프레미아 프로모션 LA",
-   "first_seen": "2026-11-03T04:07:48+09:00"
   }
  ],
  "errors": []
