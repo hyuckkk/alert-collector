@@ -1,8 +1,24 @@
 {
- "updated": "2026-11-11T02:07:46+09:00",
+ "updated": "2026-11-11T04:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 3,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "전주시, 독서대전 시민공모전·어린이 독후활동 대회 시상 - 전북도민일보",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN2ZJWmdiYktCd1NMMlRPdTFJSDR0NHUwSHpRN09HUFk1RmNkaEJkdVRwdGFpVWRFZUwtZ0FrU2M0YmpXNjY1ajRKUzRWcGl0c2d2YWF3MUpnQk5sRXozRHpXNldNeDhVNWZxWlZEdlAxXzJUcVFJRFpubTVKSkFmd0ljWFNuSEU?oc=5",
+   "pub": "Sun, 08 Nov 2026 04:02:00 GMT",
+   "engine": "gnews",
+   "query": "대전 독서대전 어린이 공연",
+   "first_seen": "2026-11-11T04:07:48+09:00"
+  },
+  {
+   "title": "독서대전의 열기, 11월 춘천시립도서관에서 잇는다 - 케이에스피뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ibHRHM1BzUncxVUtGb1ZLc0FzSm9qLTJlcmFkR2dOOWdYc0pFNlVJOEVEZmZoUVN6b3RhRkhteEFxNXJKLXc?oc=5",
+   "pub": "Wed, 04 Nov 2026 00:40:00 GMT",
+   "engine": "gnews",
+   "query": "대전 독서대전 어린이 공연",
+   "first_seen": "2026-11-11T04:07:48+09:00"
+  },
   {
    "title": "창원특례시, 「창동×부림 오감만족 개촌 축제」 성황리에 개최 - m.sisakoreanews.kr",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZb2tYRWpBNmw5ZVU0ZnNLVGlWLVR2Q0NrSnY3ME1KVWl2cFh0TkdDYUxZSi05WWNIZzFQazZZd19BdDZOVktmc25R?oc=5",
@@ -21134,27 +21150,11 @@
    "engine": "naver_web",
    "query": "대전 축제 어린이 인형극",
    "first_seen": "2026-11-09T20:07:45+09:00"
-  },
-  {
-   "title": "──────────────────── 책으로 공간을 채우고, 이야기로 지역을 잇고, 사람으로 축제를 완성하다 대전 중구 북페스티벌 ♥1장: 야외도서관 행사 -일시: 26.9.12... 공연 : 어린이 인형극 3. 마켓 부스 : 북마켓, 중고마켓 4. 체험 프로그램 : 독서와 책을 주제로한 체험 프로그램 5. 책골목 투어 : 책과 관련된 지역 골목, 공간을 ",
-   "url": "https://cafe.naver.com/ccmomedu/4400?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNjbW9tZWR1IiwiYXJ0aWNsZUlkIjo0NDAwLCJpc3N1ZWRBdCI6MTc5NDIyMjU2NTczNn0.MunF9TlAn-bws7XMbvWySfYVaW3uKEWH7MiWVNzNevw",
-   "engine": "naver_web",
-   "query": "대전 축제 어린이 인형극",
-   "first_seen": "2026-11-09T20:07:45+09:00"
-  },
-  {
-   "title": "함께 활동지, 사진 촬영 공간 등 체험 프로그램도 마련해 어린이와 가족들이 그림책 속 장면을 생생하게 경험할 수 있도록 했다. 이번...된다. 김선애 춘천시립도서관장은 \"대한민국 독서대전을 통해 확인한 시민들의 독서 열기가 도서관을 중심으로 일상에서도...",
-   "url": "http://v.daum.net/v/20261104100715419",
-   "engine": "daum_news",
-   "query": "대전 독서대전 어린이 공연",
-   "first_seen": "2026-11-09T20:07:45+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_news '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 가족 뮤지컬 티켓오픈': HTTP Error 403: Forbidden"
  ]
 }
