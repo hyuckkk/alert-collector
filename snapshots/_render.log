@@ -1,60 +1,45 @@
-[mnd-main] rendered 17737 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 9462 chars CHANGED
-[cnu-jsh-schedule-178] rendered 4993 chars CHANGED
-[dmzforest-main] rendered 6561 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
+[pyeongtaek-festival-alrimi] rendered 4555 chars CHANGED
+[pyeongtaek-gosi] rendered 1545 chars CHANGED
+[hanbat-library-culture] rendered 1896 chars CHANGED
+[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[pyoungsong-event-piglets] rendered 484 chars same
+[pyoungsong-event-sandmagic] rendered 498 chars same
+[pyoungsong-event-stonesoup] rendered 335 chars same
+[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4519 chars CHANGED
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[ticketlink-product-65585] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[mokwon-general-notice] rendered 1576 chars CHANGED
+[templestay-main] rendered 2631 chars CHANGED
+[hwadong-main] rendered 9733 chars CHANGED
+[mokpo-harborfestival-main] rendered 8982 chars CHANGED
+[nol-product-26012487] rendered 1439 chars CHANGED
+[hanbat-library-media-friend] rendered 506 chars CHANGED
+[kopis-place-pyoungsong-small] rendered 10106 chars same
+[bok-press-list] rendered 801 chars CHANGED
+[blog-seogu-artfest-fringe-cvovz] rendered 5728 chars CHANGED
+[blog-seogu-artfest-blu2sky7] rendered 6428 chars CHANGED
+[kwater-realtime-sumun] rendered 2277 chars CHANGED
+[cnu-jsh-schedule-178-2026-11] rendered 4993 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 4580 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1172 chars CHANGED
+[kmusic-calendar-year] rendered 6213 chars CHANGED
+[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
+  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
 
-[mommom-sandmagic-a] rendered 95 chars CHANGED
-[mommom-sandmagic-b] rendered 84 chars CHANGED
-[sejong-notice-imnansu-play] rendered 869 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
-[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
-[andong-halftour] rendered 2550 chars CHANGED
-[kfe-main] rendered 3586 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1650 chars CHANGED
-[visitkorea-tour50-notice] rendered 616 chars CHANGED
-[mommom-place-6a7d51b7] rendered 95 chars CHANGED
-[blog-first_seogu-224428074790] rendered 3329 chars CHANGED
-[blog-dooglami-224433357728] rendered 5283 chars CHANGED
-[yes24-genre-children] rendered 196 chars CHANGED
-[pyoungsong-event-feed] RENDER ERROR rendered but too little text (19 chars)
-[pyoungsong-monthly] RENDER ERROR rendered but too little text (19 chars)
-[pyoungsong-wp-event-api] RENDER ERROR rendered but too little text (19 chars)
-[pyoungsong-tribe-events-api] RENDER ERROR rendered but too little text (19 chars)
-[pyoungsong-event-list] RENDER ERROR rendered but too little text (19 chars)
-[ticketlink-notice-65862] rendered 260405 chars CHANGED
-[docomomokorea-main] rendered 293 chars same
-[blog-namuac21-224427113169] rendered 4769 chars CHANGED
-[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[seocheon-halftour-apply] rendered 1324 chars CHANGED
-[komsco-shop-cate2284] rendered 6776 chars CHANGED
-[mcst-culture-71983] rendered 1181 chars CHANGED
-[aircanada-korea] rendered 22913 chars CHANGED
-[aircanada-kr-so-hub] rendered 2876 chars CHANGED
-[aircanada-kr-kbcard] rendered 27088 chars CHANGED
-[aircanada-kr-moretotravel] rendered 3233 chars CHANGED
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[chuncheon-municipal-news] rendered 1737 chars CHANGED
-[yuseong-round-event] rendered 1320 chars CHANGED
-[nol-family] rendered 4073 chars CHANGED
-[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[seogu-exprn-list] rendered 1233 chars CHANGED
-[seogu-event-list] rendered 1233 chars CHANGED
-[seogu-edu-list] rendered 1239 chars CHANGED
-[daejeon-its-board] rendered 3365 chars CHANGED
-[zeropay-events] rendered 564 chars CHANGED
-[chuncheon-festival-news] rendered 863 chars CHANGED
-[chuncheon-festival-news-459539] rendered 801 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[ysfesta-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
+  - navigating to "http://ysfesta.com/", waiting until "domcontentloaded"
 
-[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "
-[pyeongtaek-news-board] rendered 3300 chars CHANGED
+[khs-main] rendered 1728 chars CHANGED
+[khs-eventinfo] rendered 1144 chars CHANGED
+[oworld-notice] rendered 1718 chars CHANGED
+[baekje-schedule] rendered 1512 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[woosongart-schedule] rendered 740 chars CHANGED
+[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[daejeon-familycenter-programs] rendered 1235 chars CHANGED
