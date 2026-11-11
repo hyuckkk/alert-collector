@@ -317,6 +317,7 @@ async function run(env) {
 
   const sentIds = new Set(notifs.map((n) => n.outbox_id));
   const plan = [];
+  const plannedNewEvents = new Set();
   let skips = null;
   let suppressedLog = null;
   for (const f of (paused ? [] : outbox.slice(0, 4))) {
@@ -340,6 +341,12 @@ async function run(env) {
     const kept = [], dropped = [];
     items.forEach((it, i) => {
       if (!it.event_id) { dropped.push([i + 1, "missing event_id"]); return; }
+      // A second producer can submit the same NEW before phase 3 records the first.
+      // Scope this guard to standalone NEW messages; never suppress a different change.
+      if (items.length === 1 && (it.change_type || "NEW") === "NEW" && plannedNewEvents.has(it.event_id)) {
+        dropped.push([i + 1, "duplicate NEW already planned in this batch"]);
+        return;
+      }
       const [ok, why] = decide(events[it.event_id], it, textHash);
       (ok ? kept : dropped).push([i + 1, why]);
     });
@@ -365,6 +372,10 @@ async function run(env) {
     const nid = `n${String(counter.seq).padStart(5, "0")}`;
     sending[oid] = { at: nowIso(), nid, done: false };
     plan.push({ oid, nid, data, category, text, items, textHash, kept: kept.map((k) => k[0]), dropped: dropped.map((d) => d[0]) });
+    for (const [itemNo] of kept) {
+      const item = items[itemNo - 1];
+      if ((item.change_type || "NEW") === "NEW") plannedNewEvents.add(item.event_id);
+    }
   }
   files["state/events.json"] = dumpJson(events);
   files["state/notifications.json"] = dumpJson(notifs);
