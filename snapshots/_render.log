@@ -1,54 +1,57 @@
-[daejeon-familycenter-programs] rendered 1235 chars CHANGED
-[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
-[nol-notice-10111] rendered 15494 chars CHANGED
-[naver-entertain-018-0006379428] rendered 45442 chars CHANGED
-[melon-artist-songsohee] rendered 2194 chars CHANGED
-[interpark-artist-leejuck] rendered 10105 chars CHANGED
-[yctf-show] rendered 417 chars CHANGED
-[sejong-notice-science-concert] rendered 1017 chars CHANGED
-[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31094 chars CHANGED
-[hanbat-gongdong-science-form] rendered 622 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 9093 chars CHANGED
-[cnu-jsh-schedule-178] rendered 4839 chars CHANGED
-[dmzforest-main] rendered 6561 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[melon-christmas-carol-212575] rendered 1923 chars CHANGED
-[mommom-sandmagic-a] rendered 84 chars CHANGED
-[mommom-sandmagic-b] rendered 95 chars CHANGED
-[sejong-notice-imnansu-play] rendered 869 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
-[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
-[andong-halftour] rendered 2550 chars CHANGED
-[kfe-main] rendered 3563 chars CHANGED
-[blog-tjrudska82-224434527430] rendered 4869 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1651 chars same
-[visitkorea-tour50-notice] rendered 616 chars CHANGED
-[pyoungsong-event-snowwhite] rendered 432 chars same
-[yes24-perf-60278] rendered 198 chars CHANGED
-[chuncheon-notice-announcement] rendered 3543 chars CHANGED
-[kmusic-calendar-2026-12] rendered 1195 chars CHANGED
-[kmusic-calendar-year] rendered 6240 chars CHANGED
-[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[gongjeon-kids] rendered 548 chars CHANGED
+[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
+[katc-schedule] rendered 736 chars CHANGED
+[fsale-main] rendered 4912 chars CHANGED
+[fsale-onnuri] rendered 361 chars same
+[gcfct-schedule] rendered 371 chars CHANGED
+[mokwon-events] rendered 948 chars CHANGED
+[daejeon-okr-edu] rendered 1496 chars same
+[daejeon-okr-hanbatlib] rendered 1651 chars same
+[science-edu-reservation] rendered 2147 chars CHANGED
+[mommom-place-6a7d51b7] rendered 95 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3333 chars CHANGED
+[blog-dooglami-224433357728] rendered 5271 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] rendered 34079 chars same
+[pyoungsong-monthly] rendered 634 chars same
+[pyoungsong-wp-event-api] rendered 208 chars same
+[pyoungsong-tribe-events-api] rendered 170815 chars same
+[pyoungsong-event-list] rendered 300 chars same
+[ticketlink-notice-65862] rendered 218836 chars CHANGED
+[docomomokorea-main] rendered 293 chars same
+[blog-namuac21-224427113169] rendered 4769 chars CHANGED
+[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[taean-halftour-apply] rendered 3078 chars CHANGED
+[seocheon-halftour-apply] rendered 1324 chars CHANGED
+[komsco-shop-cate2284] rendered 6776 chars CHANGED
+[mcst-culture-71983] rendered 1181 chars CHANGED
+[aircanada-korea] rendered 23004 chars CHANGED
+[aircanada-kr-so-hub] rendered 2994 chars CHANGED
+[aircanada-kr-kbcard] rendered 27351 chars CHANGED
+[nol-product-26001112] rendered 3666 chars CHANGED
+[blog-daedeokgu-224432911721] rendered 2670 chars CHANGED
+[blog-namuac21-224424725714] rendered 4519 chars CHANGED
+[blog-youneed4613-224436099074] rendered 4764 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
+[pyoungsong-tribe-events-api-p2] rendered 42842 chars same
+[kopis-pf297232] rendered 7859 chars same
+[dgdr-festival] rendered 203 chars CHANGED
+[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
 
-[cwg-dmz-crane-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.cwg.go.kr/dmzmpt/selectBbsNttList.do?bbsNo=123&key=1242", waiting until "domcontentloaded"
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
 
-[royalmint-lotr] rendered 5061 chars CHANGED
-[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
-
-[seogu-yeyak] rendered 3004 chars CHANGED
-[nol-family] rendered 4251 chars CHANGED
-[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[woosongart-schedule] rendered 740 chars CHANGED
-[pyeongtaek-main] rendered 19088 chars CHANGED
-[kopis-daejeon-kids] rendered 31143 chars CHANGED
-[kwater-realtime-multidam] rendered 10531 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 241277 chars CHANGED
+[ysfesta-main] rendered 152 chars CHANGED
+[khs-main] rendered 1728 chars same
+[khs-eventinfo] rendered 1144 chars CHANGED
+[kopis-pf302030] rendered 7840 chars same
+[blog-gotaekmusicfesta-224428285877] rendered 2922 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3648 chars CHANGED
+[vol-djv1365-main] rendered 5397 chars CHANGED
+[mnd-main] rendered 17732 chars CHANGED
+[science-reservation] rendered 1446 chars CHANGED
+[khs-notice] rendered 309 chars same
