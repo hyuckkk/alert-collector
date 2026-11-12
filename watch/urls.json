@@ -1603,7 +1603,7 @@
  },
  {
   "id": "leis-spectator-kumdo",
-  "url": "https://www.kumdo.org/bbs/board.php?bo_table=schedule_guide&sca=대회",
+  "url": "https://www.kumdo.org/bbs/board.php?bo_table=schedule_guide&sca=%EB%8C%80%ED%9A%8C",
   "note": "검도 대회 관람정보원. 실제경기장·일반관람·입장조건은 개별공식상세 검증; 목록/오류는 확정알림 아님."
  },
  {
@@ -1618,7 +1618,7 @@
  },
  {
   "id": "leis-spectator-rowing",
-  "url": "https://rowing.sports.or.kr/대회요강/",
+  "url": "https://rowing.sports.or.kr/%eb%8c%80%ed%9a%8c%ec%9a%94%ea%b0%95/",
   "note": "조정 대회 관람정보원. 실제경기장·일반관람·입장조건은 개별공식상세 검증; 목록/오류는 확정알림 아님."
  },
  {
@@ -1718,5 +1718,17 @@
   "url": "https://booking.naver.com/booking/12/bizes/1773949",
   "render": true,
   "note": "조이컬처(평송청소년문화센터 가족공연 제작·예매처) 네이버예약 상품 목록 — 신규 대전 가족뮤지컬 티켓오픈 감시 (JOB1) | 2026-11-12 JOB11 추가"
+ },
+ {
+  "id": "namwon-missiontour",
+  "url": "https://namwon.missiontour.kr",
+  "render": true,
+  "note": "남원 반값 미션투어 신청 사이트 — 모집 변경 감시 (JOB7) | 2026-11-13 추가"
+ },
+ {
+  "id": "oworld-notice-list",
+  "url": "https://www.oworld.kr/newkfsweb/cop/bbs/selectViewPage.do?bbsId=BBSMSTR_1470&mn=KFS_34_04_01",
+  "render": true,
+  "note": "대전오월드 공지사항 목록 (홈페이지 감시 0자 반복 대체, JOB4) | 2026-11-13 추가"
  }
 ]
