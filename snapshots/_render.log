@@ -1,53 +1,58 @@
-[pyoungsong-event-stonesoup] rendered 335 chars same
-[donghae-dhdmo-program] rendered 1804 chars CHANGED
-[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
-[daejeon-okr-edu] rendered 1496 chars same
-[daejeon-okr-hanbatlib] rendered 1651 chars same
-[science-edu-reservation] rendered 2147 chars CHANGED
-[komsco-shop-card] rendered 7423 chars CHANGED
-[komsco-shop-currency-set] rendered 6683 chars CHANGED
-[cnu-jsh-schedule] rendered 774 chars same
-[bok-commemorative-coin-news] rendered 715 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 7234 chars CHANGED
-[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
-[nol-notice-10111] rendered 15952 chars CHANGED
-[naver-entertain-018-0006379428] rendered 45568 chars CHANGED
-[melon-artist-songsohee] rendered 2223 chars CHANGED
-[interpark-artist-leejuck] rendered 10105 chars CHANGED
-[yctf-show] rendered 417 chars CHANGED
-[sejong-notice-science-concert] rendered 1017 chars CHANGED
-[hwadong-main] rendered 9737 chars CHANGED
-[mokpo-harborfestival-main] rendered 8982 chars CHANGED
-[nol-product-26012487] rendered 1439 chars CHANGED
-[hanbat-library-media-friend] rendered 506 chars CHANGED
-[kopis-place-pyoungsong-small] rendered 10162 chars same
-[bok-press-list] rendered 801 chars CHANGED
-[blog-seogu-artfest-fringe-cvovz] rendered 5700 chars CHANGED
-[dgdr-festival] rendered 203 chars CHANGED
-[yuseong-lib-lecture-12604] rendered 1523 chars CHANGED
-[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[daejeon-cafe-dodam-2801968] rendered 9276 chars CHANGED
+[cnu-jsh-schedule-178] rendered 4474 chars CHANGED
+[dmzforest-main] rendered 6561 chars CHANGED
+[sejong-notice-dance-free] rendered 1711 chars CHANGED
+[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
+[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
 Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
+  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
 
-[pyoungsong] rendered 827 chars same
-[djkids-musical] rendered 1618 chars CHANGED
-[djkids-notice] rendered 1026 chars CHANGED
-[nol-family] rendered 4162 chars CHANGED
-[woosongart-schedule] rendered 740 chars CHANGED
-[pyeongtaek-main] rendered 19627 chars CHANGED
-[kopis-daejeon-kids] rendered 30286 chars same
-[kwater-realtime-multidam] rendered 10523 chars CHANGED
-[ticketlink-kids-cat-daejeon] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[gongjeon-kids] rendered 548 chars CHANGED
-[navy-visit-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[woorisb-tok7-product] rendered 2808 chars CHANGED
+[mommom-sandmagic-a] rendered 95 chars CHANGED
+[mommom-sandmagic-b] rendered 95 chars CHANGED
+[sejong-notice-imnansu-play] rendered 869 chars CHANGED
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[andong-halftour] rendered 2550 chars CHANGED
+[kfe-main] rendered 3598 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4464 chars CHANGED
+[blog-dooglami-224434696671] rendered 5091 chars CHANGED
+[dsecc-programs-p2] rendered 1988 chars CHANGED
+[dsecc-programs-p3] rendered 1988 chars CHANGED
+[mommom-place-6a868bff] rendered 95 chars CHANGED
+[mommom-place-6a2b946b] rendered 95 chars CHANGED
+[mommom-place-6a2b94f5] rendered 95 chars CHANGED
+[mommom-place-6a2b9455] rendered 95 chars CHANGED
+[nol-product-phantom-40th] rendered 6229 chars CHANGED
+[daejeontour-bread-festival] rendered 1651 chars CHANGED
+[visitisland-main] rendered 1010 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1651 chars CHANGED
+[blog-gotaekmusicfesta-224426168539] rendered 2679 chars CHANGED
+[ysfesta-main] rendered 133 chars CHANGED
+[khs-main] rendered 1721 chars CHANGED
+[khs-eventinfo] rendered 1144 chars CHANGED
+[kopis-pf302030] rendered 7840 chars same
+[blog-gotaekmusicfesta-224428285877] rendered 2921 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3647 chars CHANGED
+[vol-djv1365-main] rendered 5438 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[seogu-exprn-list] rendered 1235 chars CHANGED
+[seogu-event-list] rendered 1235 chars CHANGED
+[seogu-edu-list] rendered 1241 chars CHANGED
+[daejeon-its-board] rendered 3367 chars CHANGED
+[zeropay-events] rendered 564 chars CHANGED
+[chuncheon-festival-news] rendered 845 chars CHANGED
+[chuncheon-festival-news-459539] rendered 801 chars CHANGED
+[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000", waiting until "domcontentloaded"
+  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
 
-[katc-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.katc.mil.kr/katc/guide/schedule.jsp", waiting until "domcontentloaded"
-
-[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31874 chars CHANGED
-[hanbat-gongdong-science-form] rendered 622 chars CHANGED
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[mommom-place-6a7d51b7] rendered 84 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3343 chars CHANGED
+[blog-dooglami-224433357728] rendered 5190 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] rendered 34079 chars same
+[pyoungsong-monthly] rendered 634 chars same
+[pyoungsong-wp-event-api] rendered 208 chars same
+[pyoungsong-tribe-events-api] rendered 170933 chars CHANGED
