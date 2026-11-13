@@ -1,53 +1,53 @@
-[chuncheon-festival-news] rendered 853 chars CHANGED
-[chuncheon-festival-news-459539] rendered 801 chars CHANGED
-[pyeongtaek-news-board] rendered 3235 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 4706 chars CHANGED
-[pyeongtaek-gosi] rendered 1744 chars CHANGED
-[hanbat-library-culture] rendered 2164 chars CHANGED
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[komsco-shop-coin] rendered 6751 chars CHANGED
-[komsco-shop-bar] rendered 6929 chars CHANGED
 [ticketlink-notice-65862] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[seocheon-halftour-apply] rendered 1385 chars CHANGED
-[komsco-shop-cate2284] rendered 6776 chars CHANGED
-[mcst-culture-71983] rendered 1181 chars CHANGED
-[aircanada-korea] rendered 22911 chars CHANGED
-[aircanada-kr-so-hub] rendered 2872 chars CHANGED
-[yes24-perf-60278] rendered 197 chars CHANGED
-[chuncheon-notice-announcement] rendered 3596 chars CHANGED
-[templestay-main] rendered 2631 chars CHANGED
-[hwadong-main] rendered 9745 chars CHANGED
-[mokpo-harborfestival-main] rendered 8982 chars CHANGED
-[nol-product-26012487] rendered 1439 chars CHANGED
-[hanbat-library-media-friend] rendered 506 chars CHANGED
-[kopis-place-pyoungsong-small] rendered 10162 chars same
-[bok-press-list] rendered 801 chars CHANGED
-[blog-seogu-artfest-fringe-cvovz] rendered 5732 chars CHANGED
-[blog-seogu-artfest-blu2sky7] rendered 6034 chars CHANGED
-[nol-product-26001112] rendered 3666 chars CHANGED
-[blog-daedeokgu-224432911721] rendered 2670 chars CHANGED
-[blog-namuac21-224424725714] rendered 4520 chars CHANGED
-[blog-youneed4613-224436099074] rendered 4776 chars CHANGED
-[nol-product-26008375] rendered 1746 chars CHANGED
-[englishegg-eggshow] rendered 3225 chars CHANGED
-[nol-family] rendered 4043 chars CHANGED
-[oworld-notice] rendered 1703 chars CHANGED
-[baekje-schedule] rendered 1512 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[woosongart-schedule] rendered 740 chars CHANGED
-[fsale-main] rendered 432 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[gcfct-schedule] rendered 371 chars CHANGED
-[mokwon-events] rendered 948 chars CHANGED
-[science-reservation] rendered 1189 chars CHANGED
-[khs-notice] rendered 309 chars same
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
+[daejeon-okr-edu] rendered 1496 chars same
+[daejeon-okr-hanbatlib] rendered 1651 chars same
+[science-edu-reservation] rendered 2147 chars CHANGED
+[komsco-shop-card] rendered 7426 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
+[cnu-jsh-schedule] rendered 774 chars same
+[bok-commemorative-coin-news] rendered 715 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 6582 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
+[nol-notice-10111] rendered 14820 chars CHANGED
+[kwater-realtime-sumun] rendered 2311 chars CHANGED
+[cnu-jsh-schedule-178-2026-11] rendered 4474 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 4757 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1215 chars CHANGED
+[kmusic-calendar-year] rendered 6264 chars CHANGED
+[pyoungsong-tribe-events-api-p2] rendered 50228 chars same
+[kopis-pf297232] rendered 7859 chars same
+[dgdr-festival] rendered 203 chars CHANGED
+[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
 
-[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
-[pyoungsong-event-piglets] rendered 484 chars same
-[pyoungsong-event-sandmagic] rendered 498 chars same
-[pyoungsong-event-stonesoup] rendered 335 chars same
-[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
+
+[blog-gotaekmusicfesta-224426168539] rendered 2680 chars CHANGED
+[leis-spectator-archery] rendered 3992 chars CHANGED
+[leis-spectator-archery-current] rendered 8360 chars CHANGED
+[cwg-dmz-crane-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.cwg.go.kr/dmzmpt/selectBbsNttList.do?bbsNo=123&key=1242", waiting until "domcontentloaded"
+
+[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
+
+[seogu-yeyak] rendered 2979 chars CHANGED
+[pyeongtaek-main] rendered 19246 chars CHANGED
+[kopis-daejeon-kids] rendered 31814 chars same
+[kwater-realtime-multidam] rendered 10543 chars CHANGED
+[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.ticketlink.co.kr/product/22471", waiting until "domcontentloaded"
+
+[gongjeon-kids] rendered 548 chars CHANGED
+[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
+[katc-schedule] rendered 736 chars CHANGED
+[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[naver-entertain-018-0006379428] rendered 45131 chars CHANGED
