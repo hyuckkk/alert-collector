@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-14T02:08:21+09:00",
+ "updated": "2026-11-14T03:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 2,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "대전사회혁신센터, '우리가족 자원순환 페스티벌' 개최 예정 - 뉴스티앤티",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwNl9ZYnN0dHp2Rjh1M2kxX05oaXl4eHNZVVpWMlRxRUtyYmNXdmZyekNkWnI3SXJzYWhFMWlwam9XaXBmOHdJWGpGanl4UnFTVG9rOHlNWjZOSVpIQ0ZUSXhwNUJtWXNPS1E?oc=5",
+   "pub": "Fri, 13 Nov 2026 17:22:00 GMT",
+   "engine": "gnews",
+   "query": "대전어린이회관 공연",
+   "first_seen": "2026-11-14T03:07:46+09:00"
+  },
   {
    "title": "공연장이 학교로…찾아가는 '빵미터 예술 교실' - 티제이비",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzblZqV0pUeWFvb09pVmVhOW1jZkdyTDdEOTNmYzN0ZHowSmJrN1RTZEdxYVZSdno5YjNBNVRzYVh5MUZUZlRZbnlsZ1VFbVAzQ1lPbkZJREFGOGdzX0lrYWd4eVBCNGNHQnR1NQ?oc=5",
@@ -21146,20 +21154,13 @@
    "engine": "naver_cafe",
    "query": "대전 동화 콘서트 가족",
    "first_seen": "2026-11-10T22:07:47+09:00"
-  },
-  {
-   "title": "8일#다문화고부열전 #알고e즘 #다문화 #다문화가정 #다문화가족 #국제결혼 #국제부부 #한국살이 #며느리 #시어머니 #고부 #외국인며느리 #캄보디아며느리 #고부갈등 #가족 #감동 #사랑 #행복 KBS 뉴스 19시간19시간 전, 2026. 11. 9. 오후 6:18 도로에 상어가? '미국판 부캉이' 등장 [경제콘서트] / KBS 2026.11.09 물바다가 ",
-   "url": "https://cafe.naver.com/jmsong0829/76316?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imptc29uZzA4MjkiLCJhcnRpY2xlSWQiOjc2MzE2LCJpc3N1ZWRBdCI6MTc5NDMxNjI3MjUwMX0.0zrJFjWOa0zuPentAspbPOkOViz-5Wahlwt2zmK6--Y&q=%eb%8c%80%ec%a0%84%20%eb%8f%99%ed%99%94%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ea%b0%80%ec%a1%b1&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 동화 콘서트 가족",
-   "first_seen": "2026-11-10T22:07:47+09:00"
   }
  ],
  "errors": [
-  "naver_blog '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_news '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_cafe '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_all '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden",
-  "naver_web '대전 어린이 공연 무료 예약': HTTP Error 403: Forbidden"
+  "naver_blog '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_news '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_cafe '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_all '대전 어린이 뮤지컬': HTTP Error 403: Forbidden",
+  "naver_web '대전 어린이 뮤지컬': HTTP Error 403: Forbidden"
  ]
 }
