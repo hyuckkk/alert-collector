@@ -1,58 +1,52 @@
-[nol-product-26008375] rendered 1746 chars CHANGED
-[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
-[pyoungsong-tribe-events-api-p2] rendered 132622 chars same
-[kopis-pf297232] rendered 7859 chars same
-[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[dgdr-festival] rendered 203 chars CHANGED
+[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
 
-[seogu-yeyak] rendered 2825 chars CHANGED
-[pyeongtaek-main] rendered 19016 chars CHANGED
-[kopis-daejeon-kids] rendered 30864 chars CHANGED
-[kwater-realtime-multidam] rendered 10531 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 250542 chars CHANGED
-[gongjeon-kids] rendered 548 chars CHANGED
-[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
-[katc-schedule] rendered 735 chars CHANGED
-[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
-[pyeongtaek-news-board] rendered 3286 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 4572 chars CHANGED
-[pyeongtaek-gosi] rendered 1672 chars CHANGED
-[hanbat-library-culture] rendered 2181 chars CHANGED
-[chuncheon-festival-news-465019] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view
+[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 484 chars same
-[pyoungsong-event-sandmagic] rendered 498 chars same
-[pyoungsong-event-stonesoup] rendered 335 chars same
-[donghae-dhdmo-program] rendered 1804 chars CHANGED
-[sejong-notice] rendered 2208 chars CHANGED
-[sejong-notice-greenfamily] rendered 1799 chars CHANGED
-[sejong-notice-birdwatch] rendered 1339 chars CHANGED
-[yangyang-cafe-balloon-15331] rendered 4839 chars CHANGED
-[komsco-shop-medal] rendered 7342 chars CHANGED
-[komsco-shop-coin] rendered 6751 chars CHANGED
-[komsco-shop-bar] rendered 6862 chars CHANGED
-[melon-christmas-carol-212575] rendered 1913 chars CHANGED
-[dsecc-programs-p2] rendered 1994 chars CHANGED
-[dsecc-programs-p3] rendered 1994 chars CHANGED
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 84 chars CHANGED
-[mommom-place-6a2b94f5] rendered 84 chars CHANGED
-[mommom-place-6a2b9455] rendered 84 chars CHANGED
-[nol-product-phantom-40th] rendered 6043 chars CHANGED
-[daejeontour-bread-festival] rendered 1239 chars CHANGED
-[visitisland-main] rendered 993 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1657 chars same
-[visitkorea-tour50-notice] rendered 616 chars CHANGED
-[mommom-place-6a7d51b7] rendered 95 chars CHANGED
-[blog-first_seogu-224428074790] rendered 3344 chars CHANGED
-[blog-dooglami-224433357728] rendered 5189 chars CHANGED
-[yes24-genre-children] rendered 196 chars CHANGED
-[pyoungsong-event-feed] rendered 34079 chars same
-[pyoungsong-monthly] rendered 634 chars same
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 170933 chars same
-[pyoungsong-event-list] rendered 297 chars same
-[ticketlink-notice-65862] rendered 269076 chars CHANGED
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
+
+[blog-gotaekmusicfesta-224426168539] rendered 2679 chars CHANGED
+[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
+
+[ysfesta-main] rendered 133 chars CHANGED
+[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
+[ssg-fsale-coupon] rendered 10076 chars CHANGED
+[djac-perf-5603] rendered 3235 chars CHANGED
+[pyoungsong] rendered 840 chars same
+[djkids-musical] rendered 1642 chars CHANGED
+[djkids-notice] rendered 1026 chars CHANGED
+[dctf] rendered 1495 chars same
+[nol-family] rendered 3946 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
+[daejeon-okr-edu] rendered 1501 chars same
+[daejeon-okr-hanbatlib] rendered 1657 chars same
+[science-edu-reservation] rendered 2147 chars CHANGED
+[komsco-shop-card] rendered 7426 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
+[cnu-jsh-schedule] rendered 774 chars same
+[bok-commemorative-coin-news] rendered 715 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 5822 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
+[docomomokorea-main] rendered 293 chars same
+[pyoungsong-event-rudolph] rendered 442 chars same
+[pyoungsong-event-snowwhite] rendered 432 chars same
+[blog-namuac21-224427113169] rendered 4770 chars CHANGED
+[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[taean-halftour-apply] rendered 3078 chars CHANGED
+[seocheon-halftour-apply] rendered 1385 chars CHANGED
+[komsco-shop-cate2284] rendered 6776 chars CHANGED
+[mcst-culture-71983] rendered 1181 chars CHANGED
+[aircanada-kr-kbcard] rendered 26255 chars CHANGED
+[aircanada-kr-moretotravel] rendered 2792 chars CHANGED
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[ticketlink-product-65585] rendered 220942 chars CHANGED
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[khs-main] rendered 1720 chars same
+[khs-eventinfo] rendered 1144 chars CHANGED
