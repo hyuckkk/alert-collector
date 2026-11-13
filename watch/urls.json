@@ -1740,5 +1740,47 @@
   "id": "djac-performance-2027-01",
   "url": "https://www.daejeon.go.kr/djac/performanceList.do?listCondition=&menuSeq=6709&pageIndex=&type=image&yyyymm=202701",
   "note": "대전예술의전당 월간 공연 목록 2027-01 (JOB1·2) — p2~p4는 JS 페이징이라 1쪽과 동일, 다음 달 이후 대관 가족공연 누락 방지 | 2026-11-13 JOB11 추가"
+ },
+ {
+  "id": "donggu-yeyak-exprn-list",
+  "url": "https://www.donggu.go.kr/yeyak/www/selectTnExprnListU.do?key=215&rcpp=6",
+  "render": true,
+  "note": "대전 동구 통합예약 체험 목록 (JOB10) — 자격 제한 없는 동구 가족·어린이 체험 | 2026-11-13 JOB11 추가"
+ },
+ {
+  "id": "djac-perf-5603",
+  "url": "https://www.daejeon.go.kr/djac/performanceView.do?menuSeq=6709&code=5603&yyyymm=202701&type=image&listCondition=&pageIndex=1",
+  "render": true,
+  "note": "대전예술의전당 공연 상세 2027-01 (JOB1) — 지브리 영화음악 콘서트 추정 | 2026-11-13 추가"
+ },
+ {
+  "id": "djac-perf-5606",
+  "url": "https://www.daejeon.go.kr/djac/performanceView.do?menuSeq=6709&code=5606&yyyymm=202701&type=image&listCondition=&pageIndex=1",
+  "render": true,
+  "note": "대전예술의전당 공연 상세 2027-01 (JOB1) — 지브리&디즈니 오케스트라 추정 | 2026-11-13 추가"
+ },
+ {
+  "id": "djac-perf-5441",
+  "url": "https://www.daejeon.go.kr/djac/performanceView.do?menuSeq=6709&code=5441&yyyymm=202612&type=image&listCondition=&pageIndex=1",
+  "render": true,
+  "note": "대전예술의전당 공연 상세 2026-12 (JOB1) — 시립교향악단 디스커버리 크리스마스 콘서트 추정, 가족 대상 여부 확인용 | 2026-11-13 추가"
+ },
+ {
+  "id": "nol-product-ghibli-love-daejeon-2027",
+  "url": "https://nol.yanolja.com/ticket/products/26015494",
+  "render": true,
+  "note": "NOL 지브리 영화음악 콘서트 2027 대전 (JOB1) | 2026-11-13 추가"
+ },
+ {
+  "id": "nol-product-ghibli-disney-daejeon-2027",
+  "url": "https://nol.yanolja.com/ticket/products/26014638",
+  "render": true,
+  "note": "NOL 지브리&디즈니 영화음악 FESTA 2027 대전 (JOB1) | 2026-11-13 추가"
+ },
+ {
+  "id": "nol-product-dorothy-oz-sejong",
+  "url": "https://nol.yanolja.com/ticket/products/26016029",
+  "render": true,
+  "note": "NOL 도로시의 대모험 OZ 세종 (JOB10) | 2026-11-13 추가"
  }
 ]
