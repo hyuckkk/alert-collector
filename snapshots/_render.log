@@ -1,31 +1,56 @@
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 84 chars CHANGED
-[aircanada-kr-kbcard] rendered 27328 chars CHANGED
-[aircanada-kr-moretotravel] rendered 3231 chars CHANGED
-[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
-[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
-[ticketlink-product-65585] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/65585']' timed out after 75 seconds
-[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
-[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
-[leis-cycling-kcf] rendered 2141 chars CHANGED
-[nol-product-26011246] rendered 1720 chars CHANGED
-[namwon-missiontour] RENDER ERROR Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://namwon.missiontour.kr/
+[sejong-notice-birdwatch] rendered 1339 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 5000 chars CHANGED
+[komsco-shop-medal] rendered 7342 chars CHANGED
+[melon-christmas-carol-212575] rendered 1911 chars CHANGED
+[mommom-place-6a2b94f5] rendered 95 chars CHANGED
+[mommom-place-6a2b9455] rendered 84 chars CHANGED
+[nol-product-phantom-40th] rendered 6081 chars CHANGED
+[daejeontour-bread-festival] rendered 1651 chars CHANGED
+[visitisland-main] RENDER ERROR Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.visitisland.kr/
 Call log:
-  - navigating to "https://namwon.missiontour.kr/", waiting until "domcontentloaded"
+  - navigating to "https://www.visitisland.kr/", waiting until "domcontentloaded"
 
-[oworld-notice-list] rendered 1058 chars CHANGED
-[pyoungsong] rendered 840 chars CHANGED
-[djkids-musical] rendered 1642 chars CHANGED
-[djkids-notice] rendered 1026 chars CHANGED
-[dctf] rendered 1495 chars same
-[ticketlink-notice] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/help/notice']' timed out after 75 seconds
-[mnd-main] rendered 17771 chars CHANGED
-[expo-park] rendered 728 chars CHANGED
-[nol-upcoming-notice] rendered 15168 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 15203 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://m.ticketlink.co.kr/help/notice']' timed out after 75 seconds
-[pyoungsong-performance] rendered 1318 chars same
-[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
-[sejong-notice] rendered 2234 chars CHANGED
-[sejong-notice-greenfamily] rendered 1799 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1651 chars CHANGED
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[mommom-place-6a7d51b7] rendered 84 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3343 chars CHANGED
+[blog-dooglami-224433357728] rendered 5320 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] rendered 34079 chars same
+[pyoungsong-monthly] rendered 634 chars same
+[pyoungsong-wp-event-api] rendered 208 chars same
+[pyoungsong-tribe-events-api] rendered 170933 chars CHANGED
+[pyoungsong-event-list] rendered 322 chars same
+[docomomokorea-main] rendered 293 chars same
+[pyoungsong-event-rudolph] rendered 442 chars same
+[pyoungsong-event-snowwhite] rendered 432 chars same
+[blog-namuac21-224427113169] rendered 4770 chars CHANGED
+[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1745 chars CHANGED
+[mokwon-general-notice] rendered 1593 chars CHANGED
+[sje-life-events] rendered 32597 chars CHANGED
+[nol-nutcracker-daejeon] rendered 5045 chars CHANGED
+[mara1080-goldrun-geumsan] rendered 4294 chars CHANGED
+[runningon-schedule-open] rendered 9769 chars CHANGED
+[leis-ski-snowon] rendered 593 chars CHANGED
+[leis-ski-snowon-notices] rendered 1022 chars CHANGED
+[leis-ski-snowon-youth] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.snowon.or.kr/program/list.php?ca_id=20", waiting until "domcontentloaded"
+
+[leis-ski-muju-school] rendered 863 chars CHANGED
+[leis-ski-skiland-lessons] rendered 599 chars CHANGED
+[leis-ski-mentor-lessons] rendered 4778 chars same
+[leis-ski-jb-sports] rendered 1309 chars CHANGED
+[leis-ski-sejong-sports] rendered 816 chars CHANGED
+[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
+[ssg-fsale-coupon] rendered 10398 chars CHANGED
+[kopis-time-beyond-daejeon] rendered 8087 chars same
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[dsecc-programs] rendered 1994 chars CHANGED
+[seogu-exprn-list] rendered 1232 chars CHANGED
+[seogu-event-list] rendered 1232 chars CHANGED
+[seogu-edu-list] rendered 1238 chars CHANGED
+[daejeon-its-board] rendered 3367 chars CHANGED
+[zeropay-events] rendered 560 chars CHANGED
