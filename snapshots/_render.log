@@ -1,60 +1,44 @@
-[pyoungsong-performance] rendered 1318 chars CHANGED
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[dsecc-programs] rendered 1994 chars CHANGED
-[seogu-exprn-list] rendered 1232 chars CHANGED
-[seogu-event-list] rendered 1232 chars CHANGED
-[seogu-edu-list] rendered 1238 chars CHANGED
-[daejeon-its-board] rendered 3367 chars CHANGED
-[zeropay-events] rendered 564 chars CHANGED
-[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
-[sejong-notice] rendered 2236 chars CHANGED
-[sejong-notice-greenfamily] rendered 1799 chars CHANGED
-[sejong-notice-birdwatch] rendered 1339 chars CHANGED
-[yangyang-cafe-balloon-15331] rendered 4928 chars CHANGED
-[komsco-shop-medal] rendered 7342 chars CHANGED
-[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
+[donggu-yeyak-exprn-list] rendered 2091 chars CHANGED
+[djac-perf-5603] rendered 3235 chars CHANGED
+[djac-perf-5606] rendered 2968 chars CHANGED
+[djac-perf-5441] rendered 3930 chars CHANGED
+[nol-product-ghibli-love-daejeon-2027] rendered 2864 chars CHANGED
+[nol-product-ghibli-disney-daejeon-2027] rendered 3505 chars CHANGED
+[nol-product-dorothy-oz-sejong] rendered 2307 chars CHANGED
+[fsale-main] rendered 4893 chars CHANGED
+[fsale-onnuri] rendered 361 chars same
+[gcfct-schedule] rendered 372 chars CHANGED
+[mokwon-events] rendered 948 chars CHANGED
+[science-reservation] rendered 1189 chars CHANGED
+[khs-notice] rendered 309 chars same
+[chuncheon-festival-news] rendered 853 chars CHANGED
+[chuncheon-festival-news-459539] rendered 801 chars CHANGED
+[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
+  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
 
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 84 chars CHANGED
-[mommom-place-6a2b94f5] rendered 95 chars CHANGED
-[mommom-place-6a2b9455] rendered 95 chars CHANGED
-[nol-product-phantom-40th] rendered 6081 chars CHANGED
-[daejeontour-bread-festival] rendered 1239 chars CHANGED
-[visitisland-main] rendered 993 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1657 chars CHANGED
-[visitkorea-tour50-notice] rendered 616 chars CHANGED
-[mommom-place-6a7d51b7] rendered 95 chars CHANGED
-[blog-first_seogu-224428074790] rendered 3343 chars CHANGED
-[blog-dooglami-224433357728] rendered 5290 chars CHANGED
-[yes24-genre-children] rendered 196 chars CHANGED
-[pyoungsong-event-feed] rendered 34079 chars same
-[pyoungsong-monthly] rendered 634 chars same
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 170933 chars CHANGED
-[pyoungsong-event-list] rendered 297 chars CHANGED
-[docomomokorea-main] rendered 293 chars same
-[pyoungsong-event-rudolph] rendered 442 chars same
-[pyoungsong-event-snowwhite] rendered 432 chars same
-[blog-namuac21-224427113169] rendered 4770 chars CHANGED
-[aircanada-kr-kbcard] rendered 27054 chars CHANGED
-[aircanada-kr-moretotravel] rendered 3232 chars CHANGED
-[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
-[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
-[ticketlink-product-65585] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/65585']' timed out after 75 seconds
-[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
-[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
-[leis-cycling-kcf] rendered 2141 chars CHANGED
-[nol-product-26011246] rendered 1720 chars CHANGED
-[namwon-missiontour] RENDER ERROR Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://namwon.missiontour.kr/
-Call log:
-  - navigating to "https://namwon.missiontour.kr/", waiting until "domcontentloaded"
-
-[oworld-notice-list] rendered 1058 chars CHANGED
-[nol-family] rendered 4026 chars CHANGED
-[oworld-notice] rendered 1712 chars CHANGED
-[baekje-schedule] rendered 1512 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[woosongart-schedule] rendered 740 chars CHANGED
+[pyeongtaek-news-board] rendered 3290 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 4707 chars CHANGED
+[pyeongtaek-gosi] rendered 1730 chars CHANGED
+[hanbat-library-culture] rendered 2164 chars CHANGED
+[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[pyoungsong-event-piglets] rendered 484 chars same
+[pyoungsong-event-sandmagic] rendered 498 chars same
+[pyoungsong-event-stonesoup] rendered 335 chars same
+[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[komsco-shop-coin] rendered 6751 chars CHANGED
+[komsco-shop-bar] rendered 6929 chars CHANGED
+[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[taean-halftour-apply] rendered 3078 chars CHANGED
+[seocheon-halftour-apply] rendered 1385 chars CHANGED
+[komsco-shop-cate2284] rendered 6776 chars CHANGED
+[mcst-culture-71983] rendered 1181 chars CHANGED
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1745 chars CHANGED
+[mokwon-general-notice] rendered 1593 chars CHANGED
+[sje-life-events] rendered 32584 chars CHANGED
+[nol-nutcracker-daejeon] rendered 5045 chars CHANGED
+[mara1080-goldrun-geumsan] rendered 4294 chars CHANGED
+[runningon-schedule-open] rendered 9769 chars same
+[leis-ski-snowon] rendered 593 chars CHANGED
