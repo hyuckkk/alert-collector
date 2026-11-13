@@ -1730,5 +1730,15 @@
   "url": "https://www.oworld.kr/newkfsweb/cop/bbs/selectViewPage.do?bbsId=BBSMSTR_1470&mn=KFS_34_04_01",
   "render": true,
   "note": "대전오월드 공지사항 목록 (홈페이지 감시 0자 반복 대체, JOB4) | 2026-11-13 추가"
+ },
+ {
+  "id": "djac-performance-2026-12",
+  "url": "https://www.daejeon.go.kr/djac/performanceList.do?listCondition=&menuSeq=6709&pageIndex=&type=image&yyyymm=202612",
+  "note": "대전예술의전당 월간 공연 목록 2026-12 (JOB1·2) — p2~p4는 JS 페이징이라 1쪽과 동일, 다음 달 이후 대관 가족공연 누락 방지 | 2026-11-13 JOB11 추가"
+ },
+ {
+  "id": "djac-performance-2027-01",
+  "url": "https://www.daejeon.go.kr/djac/performanceList.do?listCondition=&menuSeq=6709&pageIndex=&type=image&yyyymm=202701",
+  "note": "대전예술의전당 월간 공연 목록 2027-01 (JOB1·2) — p2~p4는 JS 페이징이라 1쪽과 동일, 다음 달 이후 대관 가족공연 누락 방지 | 2026-11-13 JOB11 추가"
  }
 ]
