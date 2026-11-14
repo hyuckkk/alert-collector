@@ -1,48 +1,55 @@
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31417 chars CHANGED
-[hanbat-gongdong-science-form] rendered 622 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 6960 chars CHANGED
-[cnu-jsh-schedule-178] rendered 4183 chars CHANGED
-[dmzforest-main] rendered 6561 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[woorisb-tok7-product] rendered 2809 chars CHANGED
-[mommom-sandmagic-a] rendered 95 chars CHANGED
-[mcst-culture-71983] rendered 1181 chars CHANGED
-[aircanada-korea] rendered 22633 chars CHANGED
-[aircanada-kr-so-hub] rendered 2434 chars CHANGED
-[aircanada-kr-kbcard] rendered 26183 chars CHANGED
-[aircanada-kr-moretotravel] rendered 2791 chars CHANGED
-[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
-[kmusic-calendar-year] rendered 6264 chars CHANGED
-[nol-product-26001112] rendered 3666 chars CHANGED
-[blog-daedeokgu-224432911721] rendered 2670 chars CHANGED
-[blog-namuac21-224424725714] rendered 4520 chars CHANGED
-[blog-youneed4613-224436099074] rendered 4797 chars CHANGED
-[leis-ski-muju-school] rendered 863 chars CHANGED
-[leis-ski-skiland-lessons] rendered 599 chars CHANGED
-[leis-ski-mentor-lessons] rendered 4778 chars same
-[foresttrip-notice] rendered 141 chars same
-[cwg-dmz-crane-notice] RENDER ERROR Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.cwg.go.kr/dmzmpt/selectBbsNttList.do?bbsNo=123&key=1242
+[pyoungsong-event-piglets] rendered 484 chars same
+[pyoungsong-event-sandmagic] rendered 498 chars same
+[pyoungsong-event-stonesoup] rendered 335 chars same
+[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
+[mommom-sandmagic-b] rendered 95 chars CHANGED
+[sejong-notice-imnansu-play] rendered 869 chars CHANGED
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[andong-halftour] rendered 2550 chars CHANGED
+[kfe-main] rendered 3599 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4508 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[leis-ski-jb-sports] rendered 1287 chars CHANGED
+[leis-ski-sejong-sports] rendered 816 chars CHANGED
+[nol-product-26011246] rendered 1720 chars CHANGED
+[namwon-missiontour] RENDER ERROR Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://namwon.missiontour.kr/
 Call log:
-  - navigating to "https://www.cwg.go.kr/dmzmpt/selectBbsNttList.do?bbsNo=123&key=1242", waiting until "domcontentloaded"
+  - navigating to "https://namwon.missiontour.kr/", waiting until "domcontentloaded"
 
-[royalmint-lotr] rendered 5172 chars CHANGED
-[sejong-youth-prog-list] rendered 3092 chars CHANGED
-[naver-booking-joyculture-daejeon] rendered 2674 chars CHANGED
-[miraeasset-kids-economic-class] rendered 578 chars CHANGED
-[aircanada-kr-flights-from-korea] rendered 24129 chars CHANGED
-[pyoungsong] rendered 859 chars same
-[djkids-musical] rendered 1642 chars CHANGED
-[djkids-notice] rendered 1026 chars CHANGED
-[dctf] RENDER ERROR rendered but too little text (15 chars)
-[nol-family] rendered 4032 chars CHANGED
-[katc-schedule] rendered 736 chars CHANGED
-[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
-[pyeongtaek-news-board] rendered 3279 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 4573 chars CHANGED
-[pyeongtaek-gosi] rendered 1672 chars CHANGED
-[hanbat-library-culture] rendered 2181 chars CHANGED
-[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
-[pyoungsong-event-nunkkot] rendered 454 chars same
+[oworld-notice-list] rendered 1058 chars CHANGED
+[donggu-yeyak-exprn-list] rendered 2091 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[oworld-notice] rendered 1722 chars same
+[baekje-schedule] rendered 1512 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[daejeon-okr-edu] rendered 1501 chars same
+[daejeon-okr-hanbatlib] rendered 1657 chars same
+[science-edu-reservation] rendered 2147 chars CHANGED
+[sejong-notice] rendered 2210 chars CHANGED
+[sejong-notice-greenfamily] rendered 1799 chars CHANGED
+[sejong-notice-birdwatch] rendered 1339 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 4683 chars CHANGED
+[komsco-shop-medal] rendered 7342 chars CHANGED
+[komsco-shop-coin] rendered 6751 chars CHANGED
+[komsco-shop-bar] rendered 6862 chars CHANGED
+[komsco-shop-card] rendered 7426 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
+[cnu-jsh-schedule] rendered 774 chars same
+[bok-commemorative-coin-news] rendered 715 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 5621 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
+[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
+Call log:
+  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
+
+[blog-dooglami-224434696671] rendered 5027 chars CHANGED
+[dsecc-programs-p2] rendered 1994 chars CHANGED
+[dsecc-programs-p3] rendered 1994 chars CHANGED
+[mommom-place-6a868bff] rendered 84 chars CHANGED
+[mommom-place-6a2b946b] rendered 95 chars CHANGED
+[ticketlink-product-65585] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/65585']' timed out after 75 seconds
+[yes24-perf-60278] rendered 199 chars CHANGED
+[chuncheon-notice-announcement] rendered 3876 chars CHANGED
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
