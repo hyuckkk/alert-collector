@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T03:07:46+09:00",
+ "updated": "2026-11-17T04:07:58+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 36,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "있다. 대회 사무국(010-8985-1591) 또는 금천구청 문화체육과(02-2627-2363)로 문의해도 된다. ◇ 시화호 청소년 '유스 앰배서더...가능파트너십(대표 서정철)은 한국수자원공사와 공동으로 운영한 ‘2026 시화호 유스 앰배서더’ 참가 청소년 20명이 지난 11월 9일...",
@@ -1277,15 +1277,16 @@
    "engine": "gnews",
    "query": "site:daejeon.go.kr 어린이 체험 모집",
    "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "고시 - 대전광역시청",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdGs4UnhlLTBSczVvSWhVT2RxQjE1dWJnX1VPMnRQM0xjMF9QVG81VzZqNldDSnJuUlV5dy1NZ2tMekVrYVByTkVYZm9xUW9NWGlEYXNPTnNYeEMybUxmS201RkZUMlJydjlnY3NYelhLa1ZYVjV2aWI1RU9LTUZhMjFKcFVKb3BwYklQUkVDMDc1X2xkWU1SMGtwZGY2dVdubjlYV0d6Z1g3alpKbW83NnRtNEpCRmJSakJRR2Z5NUpSRTN4MTUzbC02c3d6SnZ5UkFEZXgtclg?oc=5",
-   "pub": "Mon, 09 Nov 2026 15:25:52 GMT",
-   "engine": "gnews",
-   "query": "site:daejeon.go.kr 어린이 체험 모집",
-   "first_seen": "2026-11-10T04:07:47+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '대전 신탄진 쥐불놀이 공식 체험 모집': HTTP Error 429: Too Many Requests",
+  "gnews '대덕구 정월대보름 쥐불놀이 실제불 어린이 안전구역': HTTP Error 429: Too Many Requests",
+  "gnews '대전 정월대보름 실제 불 깡통 체험 보호자': HTTP Error 429: Too Many Requests",
+  "gnews '세종 공주 어린이 채집 제작 체험 모집': HTTP Error 429: Too Many Requests",
+  "gnews 'site:ddcc.or.kr 정월대보름 공지': HTTP Error 429: Too Many Requests",
+  "gnews '공주 계룡 논산 금산 옥천 어린이 로프 모험시설 이용조건': HTTP Error 429: Too Many Requests",
+  "gnews '세종 땀범벅 놀이터 모험 코스 운영 공지': HTTP Error 429: Too Many Requests",
+  "gnews '대전 인근 숲속 어드벤처 어린이 코스 키 나이 체중 보호자': HTTP Error 429: Too Many Requests"
+ ]
 }
