@@ -1,37 +1,52 @@
-[daejeon-cafe-dodam-2801968] rendered 7063 chars CHANGED
-[cnu-jsh-schedule-178] rendered 4183 chars CHANGED
-[pyoungsong-event-snowwhite] rendered 432 chars same
-[blog-namuac21-224427113169] rendered 4780 chars CHANGED
-[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[seocheon-halftour-apply] rendered 1385 chars CHANGED
-[komsco-shop-cate2284] rendered 6776 chars CHANGED
-[mcst-culture-71983] rendered 1181 chars CHANGED
-[aircanada-korea] rendered 22818 chars CHANGED
-[aircanada-kr-so-hub] rendered 2738 chars CHANGED
-[aircanada-kr-kbcard] rendered 25789 chars CHANGED
-[aircanada-kr-moretotravel] rendered 3095 chars CHANGED
-[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
-[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
-[ticketlink-product-65585] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/65585']' timed out after 75 seconds
-[yes24-perf-60278] rendered 198 chars CHANGED
-[chuncheon-notice-announcement] rendered 3552 chars CHANGED
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[chuncheon-municipal-news] rendered 1745 chars CHANGED
-[yuseong-cultprfr-list] rendered 634 chars CHANGED
-[blog-gotaekmusicfesta-224426135103] rendered 3648 chars CHANGED
-[vol-djv1365-main] rendered 1347 chars CHANGED
-[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
-[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
-[leis-cycling-kcf] rendered 2158 chars CHANGED
-[sje-life-events] rendered 31166 chars CHANGED
-[nol-nutcracker-daejeon] rendered 5045 chars CHANGED
-[mara1080-goldrun-geumsan] rendered 4294 chars CHANGED
-[runningon-schedule-open] rendered 8772 chars CHANGED
-[donggu-yeyak-exprn-list] rendered 2186 chars CHANGED
-[yuseong-round-event] rendered 1321 chars CHANGED
-[seogu-yeyak] rendered 2825 chars CHANGED
-[pyoungsong] rendered 859 chars same
-[djkids-musical] rendered 1642 chars CHANGED
-[pyeongtaek-main] rendered 18394 chars CHANGED
-[pyeongtaek-gosi] rendered 1698 chars CHANGED
+[pyoungsong-event-piglets] rendered 484 chars same
+[pyoungsong-event-sandmagic] rendered 498 chars same
+[pyoungsong-event-stonesoup] rendered 335 chars same
+[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
+[daejeon-okr-edu] rendered 1501 chars same
+[daejeon-okr-hanbatlib] rendered 1658 chars same
+[komsco-shop-bar] rendered 6929 chars CHANGED
+[komsco-shop-card] rendered 7426 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
+[cnu-jsh-schedule] rendered 774 chars same
+[bok-commemorative-coin-news] rendered 715 chars CHANGED
+[dmzforest-main] rendered 6561 chars CHANGED
+[sejong-notice-dance-free] rendered 1711 chars CHANGED
+[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
+[mommom-sandmagic-a] rendered 95 chars CHANGED
+[kfe-main] rendered 3599 chars CHANGED
+[blog-dooglami-224434696671] rendered 5108 chars CHANGED
+[mokwon-general-notice] rendered 1597 chars CHANGED
+[templestay-main] rendered 2631 chars CHANGED
+[hwadong-main] rendered 9737 chars CHANGED
+[mokpo-harborfestival-main] rendered 8982 chars CHANGED
+[nol-product-26012487] rendered 1439 chars CHANGED
+[hanbat-library-media-friend] rendered 506 chars CHANGED
+[leis-ski-snowon] rendered 593 chars CHANGED
+[leis-ski-snowon-notices] rendered 1022 chars CHANGED
+[leis-ski-snowon-youth] rendered 766 chars CHANGED
+[leis-ski-snowon-lifestyle] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.snowon.or.kr/program/list.php?ca_id=10", waiting until "domcontentloaded"
+
+[leis-spectator-archery] rendered 3992 chars CHANGED
+[leis-spectator-archery-current] rendered 8360 chars same
+[kspo-svoucher-notice] rendered 1945 chars CHANGED
+[oasis-fsale-coupon] rendered 6549 chars CHANGED
+[djbea-biz-pbnc] rendered 2246 chars CHANGED
+[koreanair-promo-2610prg] rendered 48791 chars CHANGED
+[koreanair-promo-list] rendered 53988 chars CHANGED
+[djkids-notice] rendered 1026 chars CHANGED
+[dctf] RENDER ERROR rendered but too little text (15 chars)
+[nol-family] rendered 3900 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[kopis-daejeon-kids] rendered 30660 chars CHANGED
+[kwater-realtime-multidam] rendered 10545 chars CHANGED
+[ticketlink-kids-cat-daejeon] rendered 211268 chars CHANGED
+[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
+[ticketlink-notice-mobile] rendered 262076 chars same
+[pyoungsong-performance] rendered 1268 chars same
+[science-edu-reservation] rendered 2149 chars CHANGED
+[sejong-notice] rendered 2234 chars CHANGED
+[sejong-notice-greenfamily] rendered 1799 chars CHANGED
+[sejong-notice-birdwatch] rendered 1339 chars CHANGED
