@@ -1,44 +1,34 @@
-[pyoungsong-tribe-events-api] rendered 170933 chars same
-[pyoungsong-event-list] rendered 297 chars same
-[ticketlink-notice-65862] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/help/notice/65862']' timed out after 75 seconds
-[docomomokorea-main] rendered 293 chars same
-[pyoungsong-event-rudolph] rendered 442 chars same
-[pyoungsong-event-snowwhite] rendered 432 chars same
-[blog-namuac21-224427113169] rendered 4779 chars CHANGED
-[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[yuseong-cultprfr-list] rendered 634 chars CHANGED
-[blog-gotaekmusicfesta-224426135103] rendered 3648 chars CHANGED
-[vol-djv1365-main] rendered 5434 chars CHANGED
-[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
-[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
-[leis-cycling-kcf] rendered 2158 chars CHANGED
-[sje-life-events] rendered 17952 chars CHANGED
-[nol-nutcracker-daejeon] rendered 5045 chars CHANGED
-[mara1080-goldrun-geumsan] rendered 4294 chars CHANGED
-[runningon-schedule-open] rendered 8772 chars CHANGED
-[leis-ski-snowon] rendered 593 chars CHANGED
-[donggu-yeyak-exprn-list] rendered 2154 chars CHANGED
-[djkids-notice] rendered 1026 chars CHANGED
-[dctf] RENDER ERROR rendered but too little text (15 chars)
-[nol-family] rendered 3874 chars CHANGED
-[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[kwater-realtime-multidam] rendered 10401 chars CHANGED
-[ticketlink-kids-cat-daejeon] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[gongjeon-kids] rendered 548 chars CHANGED
-[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[seogu-exprn-list] rendered 1024 chars CHANGED
-[seogu-event-list] rendered 1024 chars CHANGED
-[seogu-edu-list] rendered 1030 chars CHANGED
-[daejeon-its-board] rendered 3368 chars CHANGED
-[komsco-shop-coin] rendered 6751 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 30873 chars CHANGED
-[seocheon-halftour-apply] rendered 1385 chars CHANGED
-[komsco-shop-cate2284] rendered 6776 chars CHANGED
-[mcst-culture-71983] rendered 1181 chars CHANGED
-[aircanada-korea] rendered 22820 chars CHANGED
-[aircanada-kr-so-hub] rendered 2740 chars CHANGED
-[aircanada-kr-kbcard] rendered 25864 chars CHANGED
+[aircanada-kr-moretotravel] rendered 3098 chars CHANGED
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[ticketlink-product-65585] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/65585']' timed out after 75 seconds
+[yes24-perf-60278] rendered 199 chars CHANGED
+[chuncheon-notice-announcement] rendered 3651 chars CHANGED
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1745 chars CHANGED
+[mokwon-general-notice] rendered 1593 chars CHANGED
+[templestay-main] rendered 2631 chars CHANGED
+[hwadong-main] rendered 9750 chars CHANGED
+[mokpo-harborfestival-main] rendered 8982 chars CHANGED
+[nol-product-26012487] rendered 1439 chars CHANGED
+[hanbat-library-media-friend] rendered 506 chars CHANGED
+[leis-ski-snowon-notices] rendered 1022 chars CHANGED
+[leis-ski-snowon-youth] rendered 766 chars CHANGED
+[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
+[leis-spectator-archery] rendered 3992 chars CHANGED
+[leis-spectator-archery-current] rendered 8360 chars same
+[kspo-svoucher-notice] rendered 1945 chars CHANGED
+[oasis-fsale-coupon] rendered 6573 chars CHANGED
+[djbea-biz-pbnc] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.djbea.or.kr/mps/bizTskPbnc?menuKey=TOfnnvp207", waiting until "domcontentloaded"
+
+[oworld-notice] rendered 1712 chars same
+[baekje-schedule] rendered 1512 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[katc-schedule] rendered 736 chars CHANGED
+[mnd-main] rendered 17730 chars CHANGED
+[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[dsecc-programs] rendered 1994 chars CHANGED
+[zeropay-events] rendered 560 chars CHANGED
+[chuncheon-festival-news] rendered 853 chars CHANGED
