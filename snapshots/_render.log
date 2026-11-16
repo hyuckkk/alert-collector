@@ -1,59 +1,40 @@
-[nol-product-26015783] rendered 2866 chars CHANGED
-[nol-product-26016080] rendered 2191 chars CHANGED
-[pyeongtaek-news-board] rendered 3118 chars CHANGED
-[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
-Call log:
-  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
-
-[woorisb-tok7-product] rendered 2809 chars CHANGED
-[mommom-sandmagic-b] rendered 95 chars CHANGED
-[sejong-notice-imnansu-play] rendered 869 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
-[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
-[andong-halftour] rendered 2550 chars CHANGED
-[dsecc-programs-p2] rendered 1971 chars CHANGED
-[dsecc-programs-p3] rendered 1971 chars CHANGED
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 84 chars CHANGED
-[mokpo-harborfestival-main] rendered 8982 chars CHANGED
-[nol-product-26012487] rendered 1439 chars CHANGED
-[hanbat-library-media-friend] rendered 506 chars CHANGED
-[leis-ski-snowon] rendered 593 chars CHANGED
-[leis-ski-snowon-notices] rendered 1022 chars CHANGED
-[leis-ski-snowon-youth] rendered 766 chars CHANGED
-[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
-[leis-spectator-archery] rendered 3992 chars CHANGED
-[leis-spectator-archery-current] rendered 8360 chars CHANGED
-[kspo-svoucher-notice] rendered 1945 chars CHANGED
-[oasis-fsale-coupon] rendered 6452 chars CHANGED
-[djbea-biz-pbnc] rendered 2246 chars CHANGED
-[koreanair-promo-2610prg] rendered 48760 chars CHANGED
-[koreanair-promo-list] rendered 53957 chars CHANGED
-[yuseong-round-event] rendered 1321 chars CHANGED
-[seogu-yeyak] rendered 2825 chars CHANGED
-[pyoungsong] rendered 859 chars same
-[djkids-musical] rendered 1642 chars CHANGED
-[pyeongtaek-main] rendered 18747 chars CHANGED
-[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 4311 chars CHANGED
-[pyeongtaek-gosi] rendered 1679 chars CHANGED
-[hanbat-library-culture] rendered 2135 chars CHANGED
-[chuncheon-festival-news-465019] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[komsco-shop-coin] rendered 6751 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31050 chars CHANGED
-[hanbat-gongdong-science-form] rendered 622 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 7282 chars CHANGED
-[cnu-jsh-schedule-178] rendered 4183 chars CHANGED
-[blog-tjrudska82-224434527430] rendered 4472 chars CHANGED
-[mommom-place-6a2b94f5] rendered 95 chars CHANGED
-[mommom-place-6a2b9455] rendered 84 chars CHANGED
-[nol-product-phantom-40th] rendered 5867 chars CHANGED
-[daejeontour-bread-festival] rendered 1260 chars CHANGED
-[visitisland-main] rendered 993 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1658 chars same
-[visitkorea-tour50-notice] rendered 616 chars CHANGED
-[mommom-place-6a7d51b7] rendered 84 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3347 chars CHANGED
+[blog-dooglami-224433357728] rendered 4856 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[mokwon-general-notice] rendered 1597 chars CHANGED
+[kopis-place-pyoungsong-small] rendered 10162 chars same
+[bok-press-list] rendered 801 chars CHANGED
+[blog-seogu-artfest-fringe-cvovz] rendered 5699 chars CHANGED
+[blog-seogu-artfest-blu2sky7] rendered 6555 chars CHANGED
+[kwater-realtime-sumun] rendered 2306 chars CHANGED
+[cnu-jsh-schedule-178-2026-11] rendered 4183 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 4762 chars CHANGED
+[blog-youneed4613-224436099074] rendered 4425 chars CHANGED
+[leis-ski-muju-school] rendered 863 chars CHANGED
+[leis-ski-skiland-lessons] rendered 599 chars CHANGED
+[leis-ski-mentor-lessons] rendered 4778 chars same
+[ssg-fsale-coupon] rendered 10120 chars CHANGED
+[djac-perf-5603] rendered 3243 chars CHANGED
+[djac-perf-5606] rendered 2969 chars CHANGED
+[djac-perf-5441] rendered 3931 chars CHANGED
+[nol-product-ghibli-love-daejeon-2027] rendered 2865 chars CHANGED
+[usmint-product-schedule-2026] rendered 160 chars CHANGED
+[djkids-notice] rendered 1026 chars CHANGED
+[dctf] RENDER ERROR rendered but too little text (15 chars)
+[nol-family] rendered 3926 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[kopis-daejeon-kids] rendered 29566 chars CHANGED
+[kwater-realtime-multidam] rendered 2024 chars CHANGED
+[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/22471']' timed out after 75 seconds
+[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
+[ticketlink-notice-mobile] rendered 282055 chars CHANGED
+[pyoungsong-performance] rendered 1268 chars same
+[pyoungsong-event-piglets] rendered 484 chars same
+[pyoungsong-event-sandmagic] rendered 498 chars same
+[pyoungsong-event-stonesoup] rendered 335 chars same
+[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
+[daejeon-okr-edu] rendered 1501 chars same
+[daejeon-okr-hanbatlib] rendered 1658 chars same
+[science-edu-reservation] rendered 2147 chars CHANGED
+[sejong-notice] rendered 2219 chars CHANGED
