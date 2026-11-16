@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T04:07:58+09:00",
+ "updated": "2026-11-17T05:07:55+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 274,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "기네스 세계기록을 보유하고, 종이비행기로 회사를 설립해 교육과 공연까지 진행하고 있다고 합니다. 처음에는... 카이스트 교수들과 종이비행기를 연구하고, 학생들을 대상으로 강연도 진행하는 종이비행기 전문가입니다. 특히 종이 한... 처음에는 대학 창업 동아리에서 책상 하나와 의자 두 개가 놓인 약 1평 공간에서 출발했다고 합니다. 그런데 현재는 사무실과...",
@@ -5795,5 +5795,13 @@
    "first_seen": "2026-11-10T20:07:48+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '목원대 공연': HTTP Error 429: Too Many Requests",
+  "gnews '목원대 연주회': HTTP Error 429: Too Many Requests",
+  "gnews '한밭대 축제': HTTP Error 429: Too Many Requests",
+  "gnews '한밭대 백련제': HTTP Error 429: Too Many Requests",
+  "gnews '목원대 대동제 2026 라인업': HTTP Error 429: Too Many Requests",
+  "gnews '충남대 백마홀 공연 11월': HTTP Error 429: Too Many Requests",
+  "gnews '대학 원어연극 대전': HTTP Error 429: Too Many Requests"
+ ]
 }

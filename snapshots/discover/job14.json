@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T04:07:58+09:00",
+ "updated": "2026-11-17T05:07:55+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "KB국민카드, 연말 맞아 해외여행 고객 대상 이벤트…호텔 최대 20% 할인·공항 라운지 100원 - 파이낸셜투데이",
@@ -588,6 +588,13 @@
   }
  ],
  "errors": [
-  "daum_news 'Delta Korea promo': <urlopen error timed out>"
+  "gnews 'Air Canada Korea origin USA June 2027 promo code': HTTP Error 429: Too Many Requests",
+  "gnews '에어캐나다 한국 블랙프라이데이 탑승기간 제외일': HTTP Error 429: Too Many Requests",
+  "gnews '에어캐나다 특가': HTTP Error 429: Too Many Requests",
+  "gnews '에어캐나다 할인 이벤트 카드': HTTP Error 429: Too Many Requests",
+  "gnews '유나이티드항공 한국 출발 프로모션': HTTP Error 429: Too Many Requests",
+  "gnews '알래스카항공 한국 프로모션': HTTP Error 429: Too Many Requests",
+  "gnews '일본항공 미주 특가 인천': HTTP Error 429: Too Many Requests",
+  "gnews '미국행 항공권 특가 카드 할인': HTTP Error 429: Too Many Requests"
  ]
 }

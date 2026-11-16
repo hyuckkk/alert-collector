@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T04:07:58+09:00",
+ "updated": "2026-11-17T05:07:55+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 423,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "불꽃이 터지는 성을 바라보는 장원영 (출처: 인스타그램 @_tripgoing) 마지막 영상은 성 앞이에요. 불꽃이 터지는 성을... - 크리스마스 콘서트: 11월 21·22일, 12월 5·6일 - 성 무대 크리스마스 쇼: 11월 19일부터 - 겨울왕국 구역 아렌델 겨울... 아이브 뱅뱅 이야기는 앞 글에 정리해 뒀어요. 함께 보면 좋은 글 아이브 연말 무대",
@@ -12345,5 +12345,14 @@
    "first_seen": "2026-11-10T20:07:48+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '대전 불꽃쇼': HTTP Error 429: Too Many Requests",
+  "gnews '세종 불꽃': HTTP Error 429: Too Many Requests",
+  "gnews '금산 불꽃': HTTP Error 429: Too Many Requests",
+  "gnews '세종 불꽃 예산 사업계획 회의록': HTTP Error 429: Too Many Requests",
+  "gnews 'site:g2b.go.kr 세종 불꽃': HTTP Error 429: Too Many Requests",
+  "gnews '대전 야구 불꽃 피날레': HTTP Error 429: Too Many Requests",
+  "gnews '유성국화축제 불꽃': HTTP Error 429: Too Many Requests",
+  "gnews '유성국화축제 드론쇼': HTTP Error 429: Too Many Requests"
+ ]
 }

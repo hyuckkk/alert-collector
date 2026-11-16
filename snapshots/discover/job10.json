@@ -1,8 +1,32 @@
 {
- "updated": "2026-11-17T04:07:58+09:00",
+ "updated": "2026-11-17T05:07:55+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 10,
+ "new_this_run": 3,
  "hits": [
+  {
+   "title": "‘우리가족 자원순환 페스티벌’ 성료 - www.briefingcc.com",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02Q0JyZkl3ZHl3a0d0YlhuS3pKZ2ZyWHFpQm9VWlBFV3JqTFp3RGJiRWlEZlZFS09hUzJKc2FWQVBYZWtjWnpBa1NCRDBoZVluZ0hQUzVnc1ZhMlFGR3lobzlhVEtjOXQ1ZEZCUQ?oc=5",
+   "pub": "Sun, 15 Nov 2026 03:59:19 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-11-17T05:07:55+09:00"
+  },
+  {
+   "title": "대전사회혁신센터, ‘우리가족 자원순환 페스티벌’ 개최 - 서울경제",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BclhKUTI5R3N2azBDLWdpTkJDb2Q1YXl5QVhoUGxmNmhWWHV5ZjVVWi02WDZaZlVDQklFdzZlbUZMTm1TblZZQklMMkpRN01PN3BJ0gFTQVVfeXFMTUFyWEpRMjlHc3ZrMEMtZ2lOQkNvZDVheXlBWGhQbGY2aFZYdXlmNVVaLTZYNlpmVUNCSUV3NmVtRkxObVNuVllCSUwySlE3TU83cEk?oc=5",
+   "pub": "Mon, 16 Nov 2026 01:08:21 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-11-17T05:07:55+09:00"
+  },
+  {
+   "title": "[오늘의 어린이 소식] 누리호 연구자에게 직접 묻는다, 과천과학관 21일 무료 토크 콘서트 外 - 뉴스N연합",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03ODJYWmpfTnMwR2JwU054VnYweURXS19GOEUwSEc4TVNVR1JrODhRUmEzbjl3TS1nWlQwTFhCYW5Id1EyZUx4cElyeEVVWEE?oc=5",
+   "pub": "Mon, 16 Nov 2026 14:12:00 GMT",
+   "engine": "gnews",
+   "query": "국립중앙과학관 11월 교육 신청",
+   "first_seen": "2026-11-17T05:07:55+09:00"
+  },
   {
    "title": "전남광주, 영암 F1 서킷서 모터페스티벌 개최 - 매일일보",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5UU11c2J1ZVRRd3M1eG9SSGdGbUhpMzhHLWl0cUZobTktVEJvV2ZPNXNQTnVPRjdTYVBHYzNaS1hfSlF2X2trWC1GUnI2WmJLLU54eWQzNy1FV3hwV2pGUnMtblI?oc=5",
@@ -4480,5 +4504,17 @@
    "first_seen": "2026-11-10T20:07:48+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '대전 아빠 참여 프로그램': HTTP Error 429: Too Many Requests",
+  "gnews '대전 가족 프로그램 모집': HTTP Error 429: Too Many Requests",
+  "gnews '유성구 아빠': HTTP Error 429: Too Many Requests",
+  "gnews '대덕구 가족 체험': HTTP Error 429: Too Many Requests",
+  "gnews '대전 과학 체험 가족 신청': HTTP Error 429: Too Many Requests",
+  "gnews '대전 천문대 가족': HTTP Error 429: Too Many Requests",
+  "gnews '다함께돌봄 캠프 대전': HTTP Error 429: Too Many Requests",
+  "gnews '대전 돌봄 페스티벌': HTTP Error 429: Too Many Requests",
+  "gnews '다키움': HTTP Error 429: Too Many Requests",
+  "gnews '대전 가족센터 아빠 자녀 프로그램 선착순': HTTP Error 429: Too Many Requests",
+  "gnews '대전서구가족센터 프로그램 모집': HTTP Error 429: Too Many Requests"
+ ]
 }

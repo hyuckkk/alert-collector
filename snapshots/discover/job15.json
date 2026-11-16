@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T04:07:58+09:00",
+ "updated": "2026-11-17T05:07:55+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 2,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "“군부 넘어 시군 통합 대상”…칠곡군, 경북 자원봉사 평가 2년 연속 최고상 - 열린정책뉴스",
@@ -1172,5 +1172,9 @@
    "first_seen": "2026-11-10T20:07:48+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '갑천 정화활동 가족 봉사': HTTP Error 429: Too Many Requests",
+  "gnews '대전 유기동물보호소 가족 봉사': HTTP Error 429: Too Many Requests",
+  "gnews '1365 대전 가족 봉사': HTTP Error 429: Too Many Requests"
+ ]
 }
