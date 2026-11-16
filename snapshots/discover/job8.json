@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T05:07:55+09:00",
+ "updated": "2026-11-17T05:21:29+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -2858,10 +2858,14 @@
   }
  ],
  "errors": [
-  "gnews '전통시장 수산물 환급': HTTP Error 429: Too Many Requests",
-  "gnews '농할상품권 발행': HTTP Error 429: Too Many Requests",
-  "gnews '모바일 농할상품권 20% 할인 판매': HTTP Error 429: Too Many Requests",
-  "gnews '워케이션 지원 추가모집 11월': HTTP Error 429: Too Many Requests",
-  "gnews '수산대전 오아시스 컬리 쿠팡 쿠폰 기간': HTTP Error 429: Too Many Requests"
+  "gnews '수산대전': HTTP Error 429: Too Many Requests",
+  "gnews '제로페이 수산 이벤트': HTTP Error 429: Too Many Requests",
+  "gnews '대전 세종 충남 전통시장 수산물 환급 일정': HTTP Error 429: Too Many Requests",
+  "gnews '전통시장 가을 온누리상품권 환급행사': HTTP Error 429: Too Many Requests",
+  "gnews '온누리상품권 페이백 재가동 군': HTTP Error 429: Too Many Requests",
+  "gnews '수산대전 쓱 SSG 쿠폰 차수': HTTP Error 429: Too Many Requests",
+  "gnews '컬리 수산대전 할인': HTTP Error 429: Too Many Requests",
+  "gnews '김장철 수산물 온누리상품권 환급 전통시장': HTTP Error 429: Too Many Requests",
+  "gnews '11월 수산물 온누리상품권 환급행사 시장': HTTP Error 429: Too Many Requests"
  ]
 }

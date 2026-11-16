@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T05:07:55+09:00",
+ "updated": "2026-11-17T05:21:29+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 3,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "‘우리가족 자원순환 페스티벌’ 성료 - www.briefingcc.com",
@@ -4508,13 +4508,15 @@
   "gnews '대전 아빠 참여 프로그램': HTTP Error 429: Too Many Requests",
   "gnews '대전 가족 프로그램 모집': HTTP Error 429: Too Many Requests",
   "gnews '유성구 아빠': HTTP Error 429: Too Many Requests",
-  "gnews '대덕구 가족 체험': HTTP Error 429: Too Many Requests",
-  "gnews '대전 과학 체험 가족 신청': HTTP Error 429: Too Many Requests",
   "gnews '대전 천문대 가족': HTTP Error 429: Too Many Requests",
+  "gnews '세종 가족 체험 모집': HTTP Error 429: Too Many Requests",
+  "gnews '세종 아빠 자녀 프로그램': HTTP Error 429: Too Many Requests",
   "gnews '다함께돌봄 캠프 대전': HTTP Error 429: Too Many Requests",
-  "gnews '대전 돌봄 페스티벌': HTTP Error 429: Too Many Requests",
-  "gnews '다키움': HTTP Error 429: Too Many Requests",
-  "gnews '대전 가족센터 아빠 자녀 프로그램 선착순': HTTP Error 429: Too Many Requests",
-  "gnews '대전서구가족센터 프로그램 모집': HTTP Error 429: Too Many Requests"
+  "gnews '대전시립미술관 교육 접수': HTTP Error 429: Too Many Requests",
+  "gnews '세종시 문화유산 체험 참가자 모집': HTTP Error 429: Too Many Requests",
+  "gnews '가족 가죽공예 체험 신청': HTTP Error 429: Too Many Requests",
+  "gnews '김장 축제 체험 사전신청': HTTP Error 429: Too Many Requests",
+  "gnews '겨울 가족매직쇼 버블쇼 예매오픈': HTTP Error 429: Too Many Requests",
+  "gnews '대전 청소년수련관 가족 체험 모집': HTTP Error 429: Too Many Requests"
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T05:07:55+09:00",
+ "updated": "2026-11-17T05:21:29+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 0,
  "hits": [
@@ -16627,19 +16627,19 @@
   }
  ],
  "errors": [
-  "gnews '송소희 콘서트': HTTP Error 429: Too Many Requests",
-  "gnews '송소희 공연': HTTP Error 429: Too Many Requests",
-  "gnews '이적 콘서트': HTTP Error 429: Too Many Requests",
-  "gnews '브랜든 최 색소폰 협연': HTTP Error 429: Too Many Requests",
-  "gnews '송소희 축제 라인업': HTTP Error 429: Too Many Requests",
-  "gnews '이적 대학 축제 게스트': HTTP Error 429: Too Many Requests",
+  "gnews '이해원 소프라노': HTTP Error 429: Too Many Requests",
+  "gnews '이해원 공연': HTTP Error 429: Too Many Requests",
+  "gnews '이해원 소프라노 캐스팅 스케줄': HTTP Error 429: Too Many Requests",
   "gnews '이적 티켓오픈': HTTP Error 429: Too Many Requests",
-  "gnews '브랜든 최 12월 공연': HTTP Error 429: Too Many Requests",
-  "gnews '최예나 콘서트': HTTP Error 429: Too Many Requests",
-  "gnews '최예나 팬콘서트': HTTP Error 429: Too Many Requests",
+  "gnews '앙코르 콘서트 예매 일정 공지': HTTP Error 429: Too Many Requests",
+  "gnews '송소희 페스티벌 라인업 멜론티켓': HTTP Error 429: Too Many Requests",
+  "gnews '락 페스티벌 인천 송소희': HTTP Error 429: Too Many Requests",
+  "gnews '최예나 공연': HTTP Error 429: Too Many Requests",
+  "gnews 'YENA concert Korea': HTTP Error 429: Too Many Requests",
+  "gnews 'YENA festival': HTTP Error 429: Too Many Requests",
+  "gnews '최예나 대학축제': HTTP Error 429: Too Many Requests",
   "gnews 'ILLIT concert Korea': HTTP Error 429: Too Many Requests",
-  "gnews '빌리프랩 아일릿 출연': HTTP Error 429: Too Many Requests",
-  "gnews '아일릿 MMA': HTTP Error 429: Too Many Requests",
-  "gnews '아일릿 시상식 출연': HTTP Error 429: Too Many Requests"
+  "gnews 'ILLIT festival lineup': HTTP Error 429: Too Many Requests",
+  "gnews 'ILLIT Weverse 공개방송 신청': HTTP Error 429: Too Many Requests"
  ]
 }
