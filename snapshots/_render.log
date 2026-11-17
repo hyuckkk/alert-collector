@@ -1,50 +1,59 @@
-[aircanada-kr-so-hub] rendered 2739 chars CHANGED
-[aircanada-kr-kbcard] rendered 26554 chars CHANGED
-[aircanada-kr-moretotravel] rendered 3096 chars CHANGED
-[kopis-pf297232] rendered 7859 chars same
-[dgdr-festival] rendered 203 chars CHANGED
-[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[woorisb-tok7-product] rendered 2804 chars CHANGED
+[mommom-sandmagic-b] rendered 95 chars CHANGED
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[ticketlink-product-65585] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[yes24-perf-60278] rendered 199 chars CHANGED
+[chuncheon-notice-announcement] rendered 3602 chars CHANGED
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1745 chars CHANGED
+[templestay-main] rendered 2631 chars CHANGED
+[hwadong-main] rendered 9214 chars CHANGED
+[yuseong-cultprfr-list] rendered 634 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3647 chars CHANGED
+[vol-djv1365-main] rendered 4864 chars CHANGED
+[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
+[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
+[leis-cycling-kcf] rendered 2178 chars CHANGED
+[sje-life-events] rendered 39908 chars CHANGED
+[nol-nutcracker-daejeon] rendered 5028 chars CHANGED
+[mara1080-goldrun-geumsan] rendered 4293 chars CHANGED
+[runningon-schedule-open] rendered 8853 chars CHANGED
+[baekje-schedule] rendered 1512 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[kopis-daejeon-kids] rendered 30597 chars same
+[kwater-realtime-multidam] rendered 10542 chars CHANGED
+[ticketlink-kids-cat-daejeon] rendered 220976 chars CHANGED
+[gongjeon-kids] rendered 548 chars CHANGED
+[chuncheon-festival-news] rendered 871 chars CHANGED
+[chuncheon-festival-news-459539] rendered 801 chars CHANGED
+[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
+  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
 
-[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
+[pyeongtaek-news-board] rendered 3132 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 4620 chars CHANGED
+[pyeongtaek-gosi] rendered 1659 chars CHANGED
+[hanbat-library-culture] rendered 2135 chars CHANGED
+[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[komsco-shop-coin] rendered 6751 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
+[nol-notice-10111] rendered 16368 chars CHANGED
+[naver-entertain-018-0006379428] rendered 45311 chars CHANGED
+[melon-artist-songsohee] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/artist/index.htm?artistId=672059
 Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
+  - navigating to "https://ticket.melon.com/artist/index.htm?artistId=672059", waiting until "domcontentloaded"
 
-[blog-gotaekmusicfesta-224426168539] rendered 2681 chars CHANGED
-[ysfesta-main] rendered 133 chars CHANGED
-[khs-main] rendered 1724 chars CHANGED
-[khs-eventinfo] rendered 1144 chars CHANGED
-[kopis-pf302030] rendered 7840 chars same
-[blog-gotaekmusicfesta-224428285877] rendered 2921 chars CHANGED
-[leis-ski-jb-sports] rendered 1278 chars CHANGED
-[leis-ski-sejong-sports] rendered 810 chars CHANGED
-[nol-product-26011246] rendered 1720 chars CHANGED
-[namwon-missiontour] RENDER ERROR Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://namwon.missiontour.kr/
-Call log:
-  - navigating to "https://namwon.missiontour.kr/", waiting until "domcontentloaded"
-
-[oworld-notice-list] rendered 1058 chars CHANGED
-[nol-product-lab-concert-daejeon] rendered 5191 chars CHANGED
-[djac-performance-2026-12-p2] rendered 4200 chars CHANGED
-[nol-product-melon-disney-ghibli-christmas-daejeon] rendered 2935 chars CHANGED
-[nol-family] rendered 3906 chars CHANGED
-[oworld-notice] rendered 1712 chars CHANGED
-[pyeongtaek-main] rendered 18869 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 16394 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://m.ticketlink.co.kr/help/notice']' timed out after 75 seconds
-[pyoungsong-performance] rendered 1268 chars same
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[dsecc-programs] rendered 1969 chars CHANGED
-[seogu-exprn-list] rendered 1024 chars CHANGED
-[seogu-event-list] rendered 1024 chars CHANGED
-[seogu-edu-list] rendered 1030 chars CHANGED
-[daejeon-its-board] rendered 3369 chars CHANGED
-[zeropay-events] rendered 564 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31572 chars CHANGED
-[hanbat-gongdong-science-form] rendered 622 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 9000 chars CHANGED
-[cnu-jsh-schedule-178] rendered 4183 chars CHANGED
-[melon-christmas-carol-212575] rendered 1895 chars CHANGED
+[interpark-artist-leejuck] rendered 10133 chars CHANGED
+[yctf-show] rendered 377 chars CHANGED
+[sejong-notice-science-concert] rendered 1017 chars CHANGED
+[sejong-notice-imnansu-play] rendered 869 chars CHANGED
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[andong-halftour] rendered 2551 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4462 chars CHANGED
+[dsecc-programs-p2] rendered 1969 chars CHANGED
+[dsecc-programs-p3] rendered 1969 chars CHANGED
+[mommom-place-6a868bff] rendered 95 chars CHANGED
