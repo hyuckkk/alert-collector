@@ -1,58 +1,51 @@
-[leis-runningwikii] RENDER ERROR rendered but too little text (51 chars)
-[seocheon-halftour-apply] rendered 1385 chars CHANGED
-[komsco-shop-cate2284] rendered 6776 chars CHANGED
-[mokwon-general-notice] rendered 1603 chars CHANGED
-[kopis-place-pyoungsong-small] rendered 10094 chars same
-[bok-press-list] rendered 801 chars CHANGED
-[blog-seogu-artfest-fringe-cvovz] rendered 5888 chars CHANGED
-[blog-seogu-artfest-blu2sky7] rendered 6587 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 3875 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 4762 chars CHANGED
-[blog-youneed4613-224436099074] rendered 4452 chars CHANGED
-[leis-ski-snowon-notices] rendered 1022 chars CHANGED
-[leis-ski-snowon-youth] rendered 766 chars CHANGED
-[leis-ski-muju-school] rendered 863 chars CHANGED
-[leis-ski-skiland-lessons] rendered 599 chars CHANGED
-[leis-ski-mentor-lessons] rendered 4778 chars same
-[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
-[leis-spectator-archery] rendered 3992 chars CHANGED
-[leis-spectator-archery-current] rendered 8321 chars same
-[ssg-fsale-coupon] rendered 10900 chars CHANGED
-[donggu-yeyak-exprn-list] rendered 2311 chars CHANGED
-[djac-perf-5603] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[royalmint-lotr] rendered 5061 chars CHANGED
+[sejong-youth-prog-list] rendered 3053 chars CHANGED
+[naver-booking-joyculture-daejeon] rendered 2674 chars CHANGED
+[djac-perf-5606] rendered 2948 chars CHANGED
+[djac-perf-5441] rendered 3910 chars CHANGED
+[nol-product-ghibli-love-daejeon-2027] rendered 2811 chars CHANGED
+[nol-product-ghibli-disney-daejeon-2027] rendered 3322 chars CHANGED
+[sejong-notice-yeondong-storyfest] rendered 2140 chars CHANGED
+[djkids-main] rendered 1508 chars CHANGED
+[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.daejeon.go.kr/djac/performanceView.do?menuSeq=6709&code=5603&yyyymm=202701&type=image&listCondition=&pageIndex=1", waiting until "domcontentloaded"
+  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
 
-[chuncheon-festival-news] rendered 881 chars CHANGED
-[chuncheon-festival-news-459539] rendered 801 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[seogu-yeyak] rendered 2821 chars CHANGED
+[pyoungsong] rendered 872 chars same
+[djkids-musical] rendered 1642 chars CHANGED
+[djkids-notice] rendered 1027 chars CHANGED
+[dctf] rendered 1480 chars same
+[nol-family] rendered 4068 chars CHANGED
+[pyeongtaek-news-board] rendered 3111 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 4625 chars CHANGED
+[pyeongtaek-gosi] rendered 1593 chars CHANGED
+[hanbat-library-culture] rendered 2135 chars CHANGED
+[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[pyoungsong-event-piglets] rendered 484 chars same
+[pyoungsong-event-sandmagic] rendered 498 chars same
+[pyoungsong-event-stonesoup] rendered 335 chars same
+[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
+[daejeon-okr-edu] rendered 1501 chars same
+[daejeon-okr-hanbatlib] rendered 1660 chars same
+[science-edu-reservation] rendered 2147 chars same
+[komsco-shop-coin] rendered 6751 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
+[nol-notice-10111] rendered 16892 chars CHANGED
+[naver-entertain-018-0006379428] rendered 45441 chars CHANGED
+[yangyang-cafe-balloon-15331-m] rendered 30946 chars CHANGED
+[hanbat-gongdong-science-form] rendered 622 chars CHANGED
+[daejeon-cafe-dodam-2801968] rendered 8664 chars CHANGED
+[cnu-jsh-schedule-178] rendered 3875 chars CHANGED
+[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
 Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
+  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
 
-[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
-[cnu-jsh-schedule] rendered 774 chars CHANGED
-[bok-commemorative-coin-news] rendered 715 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 5961 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[blog-dooglami-224434696671] rendered 5096 chars CHANGED
-[ticketlink-notice-65862] rendered 236208 chars CHANGED
-[mcst-culture-71983] rendered 1181 chars CHANGED
-[aircanada-korea] rendered 2582 chars CHANGED
-[kwater-realtime-sumun] rendered 2306 chars CHANGED
-[kmusic-calendar-2026-11] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceCalendarMList.do?menuSeq=5308&searchYearMonth=2026-11", waiting until "domcontentloaded"
-
-[kmusic-calendar-2026-12] rendered 1260 chars CHANGED
-[kmusic-calendar-year] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceCalendarYList.do?menuSeq=5309", waiting until "domcontentloaded"
-
-[nol-product-26001112] rendered 3666 chars CHANGED
-[blog-daedeokgu-224432911721] rendered 2669 chars CHANGED
-[blog-namuac21-224424725714] rendered 4565 chars CHANGED
-[nol-product-26008375] rendered 1746 chars CHANGED
-[englishegg-eggshow] rendered 3225 chars CHANGED
-[pyoungsong-tribe-events-api-p2] rendered 132622 chars same
-[foresttrip-notice] rendered 141 chars same
-[cwg-dmz-crane-notice] rendered 903 chars CHANGED
+[aircanada-kr-so-hub] rendered 2866 chars CHANGED
+[aircanada-kr-kbcard] rendered 27050 chars CHANGED
+[aircanada-kr-moretotravel] rendered 3223 chars CHANGED
+[kopis-pf297232] rendered 7859 chars same
+[nol-product-dorothy-oz-sejong] rendered 2291 chars CHANGED
+[miraeasset-kids-economic-class] rendered 578 chars CHANGED
