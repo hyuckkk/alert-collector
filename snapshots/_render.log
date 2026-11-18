@@ -1,51 +1,57 @@
-[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[expo-park] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[pyoungsong-performance] rendered 1268 chars same
+[kopis-time-beyond-daejeon] rendered 8087 chars same
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[dsecc-programs] rendered 1969 chars CHANGED
+[seogu-exprn-list] rendered 1128 chars CHANGED
+[seogu-event-list] rendered 1128 chars CHANGED
+[seogu-edu-list] rendered 1134 chars CHANGED
+[cnu-jsh-schedule] rendered 774 chars same
+[bok-commemorative-coin-news] rendered 715 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 5587 chars CHANGED
+[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
+[blog-dooglami-224434696671] rendered 5114 chars CHANGED
+[ticketlink-notice-65862] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.expopark.kr/", waiting until "domcontentloaded"
+  - navigating to "https://www.ticketlink.co.kr/help/notice/65862", waiting until "domcontentloaded"
 
-[nol-upcoming-notice] rendered 16657 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 16665 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[pyoungsong-monthly] rendered 634 chars same
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 170933 chars same
-[pyoungsong-event-list] rendered 297 chars same
-[docomomokorea-main] rendered 293 chars same
-[pyoungsong-event-rudolph] rendered 442 chars same
-[pyoungsong-event-snowwhite] rendered 432 chars same
-[blog-namuac21-224427113169] rendered 4801 chars CHANGED
-[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[seocheon-halftour-apply] rendered 1385 chars CHANGED
-[komsco-shop-cate2284] rendered 6776 chars CHANGED
-[mokwon-general-notice] rendered 1602 chars CHANGED
-[kopis-place-pyoungsong-small] rendered 10094 chars CHANGED
-[bok-press-list] rendered 801 chars CHANGED
-[blog-seogu-artfest-fringe-cvovz] rendered 5733 chars CHANGED
-[blog-seogu-artfest-blu2sky7] rendered 6463 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 4183 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 4762 chars CHANGED
-[blog-youneed4613-224436099074] rendered 4076 chars CHANGED
-[leis-ski-muju-school] rendered 863 chars CHANGED
-[leis-ski-skiland-lessons] rendered 599 chars CHANGED
-[leis-ski-mentor-lessons] rendered 4778 chars same
-[ssg-fsale-coupon] rendered 10431 chars CHANGED
-[djac-perf-5603] rendered 3222 chars CHANGED
-[djac-perf-5606] rendered 2948 chars CHANGED
-[nol-product-ghibli-love-daejeon-2027] rendered 2849 chars CHANGED
-[kspo-svoucher-notice] rendered 1945 chars CHANGED
-[oasis-fsale-coupon] rendered 254 chars CHANGED
-[chungbuk-picturebookgarden-programs] rendered 2962 chars CHANGED
-[koreanair-promo-2610prg] rendered 48996 chars CHANGED
-[koreanair-promo-list] rendered 54193 chars CHANGED
-[nol-product-26015783] rendered 2850 chars CHANGED
-[nol-product-26016080] rendered 2184 chars CHANGED
-[leis-cycling-cbsports-list] rendered 1011 chars CHANGED
-[epost-fsale-coupon] rendered 4819 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[kopis-daejeon-kids] rendered 30421 chars CHANGED
-[kwater-realtime-multidam] rendered 10511 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 271082 chars CHANGED
-[gongjeon-kids] rendered 548 chars CHANGED
-[ticketlink-notice-mobile] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://m.ticketlink.co.kr/help/notice']' timed out after 75 seconds
+[mcst-culture-71983] rendered 1181 chars CHANGED
+[aircanada-korea] rendered 2490 chars CHANGED
+[kwater-realtime-sumun] rendered 2306 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1260 chars CHANGED
+[kmusic-calendar-year] rendered 6309 chars CHANGED
+[nol-product-26001112] rendered 3666 chars CHANGED
+[blog-daedeokgu-224432911721] rendered 2670 chars CHANGED
+[blog-namuac21-224424725714] rendered 4551 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[englishegg-eggshow] rendered 3225 chars CHANGED
+[pyoungsong-tribe-events-api-p2] rendered 132622 chars same
+[foresttrip-notice] rendered 141 chars same
+[cwg-dmz-crane-notice] rendered 903 chars CHANGED
+[royalmint-lotr] rendered 5061 chars CHANGED
+[sejong-youth-prog-list] rendered 3066 chars CHANGED
+[naver-booking-joyculture-daejeon] rendered 4081 chars CHANGED
+[djac-perf-5441] rendered 3910 chars CHANGED
+[nol-product-ghibli-disney-daejeon-2027] rendered 3322 chars CHANGED
+[nol-product-dorothy-oz-sejong] rendered 2291 chars CHANGED
+[miraeasset-kids-economic-class] rendered 578 chars CHANGED
+[aircanada-kr-flights-from-korea] rendered 4276 chars CHANGED
+[sslib-sanseong-lecture] RENDER ERROR rendered but too little text (30 chars)
+[daejeonseogu-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
+[daejeoni-parent-edu-list] rendered 3193 chars CHANGED
+[ktostay-special-disaster-stay] rendered 2054 chars CHANGED
+[nol-product-christmas-film-carol-festa-daejeon] rendered 3539 chars CHANGED
+[nol-product-stagem-christmas-carol-daejeon] rendered 2142 chars CHANGED
+[usmint-product-schedule-2026] rendered 160 chars CHANGED
+[woosongart-schedule] rendered 760 chars CHANGED
+[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
+[katc-schedule] rendered 736 chars CHANGED
+[daejeon-its-board] rendered 3369 chars CHANGED
+[zeropay-events] rendered 560 chars CHANGED
+[chuncheon-festival-news] rendered 881 chars CHANGED
+[chuncheon-festival-news-459539] rendered 801 chars CHANGED
+[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
+
+[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
