@@ -1,50 +1,56 @@
-[usmint-product-schedule-2026] rendered 160 chars CHANGED
-[nol-product-26016080] rendered 2184 chars CHANGED
-[leis-cycling-cbsports-list] rendered 1011 chars CHANGED
-[epost-fsale-coupon] rendered 4957 chars CHANGED
-[kopis-perf-kids-circus-daejeon-2027] rendered 7787 chars same
-[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[oworld-notice] rendered 1712 chars same
-[baekje-schedule] rendered 1512 chars CHANGED
-[pyeongtaek-main] rendered 18359 chars CHANGED
-[mnd-main] rendered 17262 chars CHANGED
-[fsale-main] rendered 4893 chars CHANGED
-[sejong-notice] rendered 2383 chars CHANGED
-[sejong-notice-greenfamily] rendered 1799 chars CHANGED
-[sejong-notice-birdwatch] rendered 1339 chars CHANGED
-[yangyang-cafe-balloon-15331] rendered 4874 chars CHANGED
-[komsco-shop-medal] rendered 7357 chars CHANGED
-[komsco-shop-bar] rendered 6862 chars CHANGED
-[komsco-shop-card] rendered 7426 chars CHANGED
-[komsco-shop-currency-set] rendered 6683 chars CHANGED
-[melon-artist-songsohee] rendered 2194 chars CHANGED
-[interpark-artist-leejuck] rendered 10133 chars CHANGED
-[yctf-show] rendered 417 chars CHANGED
-[sejong-notice-science-concert] rendered 1017 chars CHANGED
-[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
-[dmzforest-main] rendered 6378 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[woorisb-tok7-product] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[djbea-biz-pbnc] rendered 2251 chars CHANGED
+[djac-perf-5487] rendered 3892 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[kopis-daejeon-kids] rendered 30565 chars CHANGED
+[kwater-realtime-multidam] rendered 2036 chars CHANGED
+[fsale-onnuri] rendered 361 chars same
+[gcfct-schedule] rendered 370 chars CHANGED
+[mokwon-events] rendered 948 chars CHANGED
+[science-reservation] RENDER ERROR Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://rsvn.science.go.kr/nsm/evtrsvn/evtrsvnList
 Call log:
-  - navigating to "https://m.woorisavingsbank.com/product/deposite/view.do?prdSn=325", waiting until "domcontentloaded"
+  - navigating to "https://rsvn.science.go.kr/nsm/evtrsvn/evtrsvnList", waiting until "domcontentloaded"
 
-[mommom-sandmagic-a] rendered 95 chars CHANGED
-[mommom-sandmagic-b] rendered 84 chars CHANGED
-[sejong-notice-imnansu-play] rendered 869 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
-[dgdr-festival] rendered 203 chars CHANGED
-[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[khs-notice] rendered 309 chars same
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[andong-halftour] rendered 2550 chars CHANGED
+[kfe-main] rendered 3588 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4508 chars CHANGED
+[dsecc-programs-p2] rendered 1969 chars CHANGED
+[dsecc-programs-p3] rendered 1969 chars CHANGED
+[mommom-place-6a868bff] rendered 95 chars CHANGED
+[mommom-place-6a2b946b] rendered 95 chars CHANGED
+[mommom-place-6a2b94f5] rendered 95 chars CHANGED
+[mommom-place-6a2b9455] rendered 95 chars CHANGED
+[nol-product-phantom-40th] rendered 5627 chars CHANGED
+[daejeontour-bread-festival] rendered 783 chars CHANGED
+[visitisland-main] rendered 993 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1660 chars same
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[mommom-place-6a7d51b7] rendered 84 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3346 chars CHANGED
+[blog-dooglami-224433357728] rendered 5193 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] rendered 34079 chars same
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[ticketlink-product-65585] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
+  - navigating to "https://www.ticketlink.co.kr/product/65585", waiting until "domcontentloaded"
 
-[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[yes24-perf-60278] rendered 198 chars CHANGED
+[chuncheon-notice-announcement] rendered 3288 chars CHANGED
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1719 chars CHANGED
+[templestay-main] rendered 2631 chars CHANGED
+[hwadong-main] rendered 9221 chars CHANGED
+[mokpo-harborfestival-main] rendered 8982 chars CHANGED
+[nol-product-26012487] rendered 1439 chars CHANGED
+[hanbat-library-media-friend] rendered 506 chars CHANGED
+[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
+  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
 
-[blog-gotaekmusicfesta-224426168539] rendered 2681 chars CHANGED
-[ysfesta-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "http://ysfesta.com/", waiting until "domcontentloaded"
-
-[khs-main] rendered 2142 chars CHANGED
-[khs-eventinfo] rendered 1144 chars CHANGED
+[kopis-pf302030] rendered 7840 chars same
+[blog-gotaekmusicfesta-224428285877] rendered 2921 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3647 chars CHANGED
+[vol-djv1365-main] rendered 5265 chars CHANGED
