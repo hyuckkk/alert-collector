@@ -1,8 +1,942 @@
 {
- "updated": "2026-11-17T05:21:29+09:00",
+ "updated": "2026-11-19T07:21:22+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 118,
  "hits": [
+  {
+   "title": "웹투어 '취향여행' 출시... 또래와 달리고, 아이와 체험하고, 호텔에서 쉰다 - 비욘드포스트",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GUVA5ZXQzQ014elF4Um9qVzRsd1FsbF83Y1dPemkwTlF1MF9STS1Gb1dMWllqYlVxUk5hUHlLaVQ5bncybDlIRzhXTDZ4bFZsOUlISmR5NURfVFZtdFV4UXdHNGZ3ZU5qVEtHU1pYRGdyV0djbWZJWUJpcDU?oc=5",
+   "pub": "Wed, 18 Nov 2026 05:04:46 GMT",
+   "engine": "gnews",
+   "query": "대전 아빠 자녀 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전과기대, 지역정주 활성화 위한 '프로그램' 운영 - 충청헤럴드",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BOXplaGsyUW84M0UybVhWcWh6b0NUXzFZY2pka0hpXzJzVktsQXk1SWh4bWlvLXBtM3VDT3J2V2JvYm9mMnpjV1N0LUR3amV0OXg0aVZNTmJxdTJ5Xzl1QWVJcmxBSmgt?oc=5",
+   "pub": "Tue, 17 Nov 2026 03:12:52 GMT",
+   "engine": "gnews",
+   "query": "대전 아빠 참여 프로그램",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "브랜드 대전'을 열고 겨울철 의류와 캠핑용품을 할인 판매한다. 이번 행사에는 스노우피크와 몽벨, 노르디스크 등 주요 아웃도어 브랜드가 참여한다. 수입 브랜드 상품 구매 고객에게는 카드 10% 추가 할인 혜택을 제공한다. 대표 의류 상품은 스노우피크 어패럴의...",
+   "url": "http://v.daum.net/v/20261118103003669",
+   "engine": "daum_news",
+   "query": "대전 가족 체험 선착순",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "참여자를 모집했다. 이후 전문 토의 진행자(퍼실리테이터)가 팀별로 방문해 정보 탐색부터 토의, 제안서 작성, 발표 연습까지 정책...수 있도록 누리집 정비, 장애 아동을 위한 진로·직업 체험 프로그램 확대 등도 제안됐다. 각 제안은 구청 관련 부서의 1차 검토를...",
+   "url": "http://v.daum.net/v/20261117113452121",
+   "engine": "daum_news",
+   "query": "대전 가족 프로그램 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "올겨울 아이․가족과 함께 다양한 체험활동 즐기며 소중한 추억 만들어요! - 데일리대구경북뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OWTNWOTZVQ1lYRDdBYWFwOUNNb2hWSTdweTB6NmRPSm9xdzNWMk5COGdXSUpPbTlrZnlYTzhvX3c0czVHbmo2N0Z2U1dKM0FIMHR0NU9fbnRQWGNDWTc0MzBxbUR5dw?oc=5",
+   "pub": "Mon, 16 Nov 2026 01:34:32 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 프로그램 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "경북도, 겨울에도 돌봄 공백 줄인다…'온동네 돌봄' 주말 가족체험 400명 모집 - 아이뉴스24",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IV2J0STNBY2hmNE9wMjNvemVfXzBaWno0LWZQdWU2QnQyd180OENuN0tWVUVOX2g5eGpHeEZqTk10MHVKX1RYQkFuWQ?oc=5",
+   "pub": "Mon, 16 Nov 2026 00:27:42 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 프로그램 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "건양대 대전학생건강증진센터, 지역 보건 역량 강화 ‘앞장’… 하반기 맞춤형 프로그램 릴레이 성료 - 세종의소리",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NbTBIWW1lbkNDa1VqR2psVUQ5blJibmE1WmxRdFZ1alpGS1BGMWNhT2p2RGNsVzVXRmYtdnd1Zk5OSXBGYmlEVmRrQy1VWjVhV0RRUW1SUWdIWlNrRWNsdkNCSU4za0U?oc=5",
+   "pub": "Mon, 16 Nov 2026 07:56:08 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 프로그램 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "독립기념관, 독립 유공자 후손 초청 가족 캠프 성료 - 대전시티저널",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ub3EzbEM4RVBYSGFfNEwxLS1sd2FVXzliRS13U0RsTjRmbVZMSDNMYVRDcGJ6S0hGRmhteEEwbGVVeHdOOEEySUVSeHlqWmdJQS1YTkNfVmowTUVqX0tITVVnRGFDUQ?oc=5",
+   "pub": "Tue, 17 Nov 2026 12:00:00 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 프로그램 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "한국앤컴퍼니 ‘패밀리데이’…판교·대전서 임직원 가족 750여 명 참여 - 핸드메이커",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EMWZ3dlJ5SmFxN3Y2d3duTjVCckhCRVlESXFmaEhHMWRPUGNwOHJNelFZNTFTVWVlZDBjSTIxbnkzelM2VjFvRk1rZ1VtaUh1THQxb1FPcXduSHZSclBXaVNRdkhycDTSAWtBVV95cUxQZ19ZRTJaa3o1c3JNdGV3b1VRdjZPZWthTGVNcTB0OWVCUWhVYUVjRGUzVHVrY0puUVpqNE5qRHgtbVh6TTlCTEtUNDVRVTRYV0JieDhoZ2tfcTdTUnRtSllOUmlsdXBPSUU3bw?oc=5",
+   "pub": "Tue, 17 Nov 2026 00:16:34 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 프로그램 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "부산 시민도서관, 부모·자녀 가족 체험 프로그램 운영 - 국제뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZcE1BeWJ1TlFOX2pDRWJienlueDB1VHBkelZRWWZfaUhOYi1xWnZCWS00MTl5eXNwWnh4RVdHWnhjVGgwcFZ6LXp3RU9xcTk0bmVCWkdtMlVRRDJuc1ZnVUhWUUVWa0tkOUczN213?oc=5",
+   "pub": "Wed, 18 Nov 2026 02:00:10 GMT",
+   "engine": "gnews",
+   "query": "대전 초등 자녀 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "부산시민도서관,‘하반기 부모·자녀 프로그램’운영 - 미디어투데이",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAxazMzbTBaNlRnSkQ1cHpsR1FkSmc5U2xWYlhJeXFXajhaTXlyVklvTVVQUFVHTEhLZm1yUjdJSHU0SVVEX2Fianpn?oc=5",
+   "pub": "Tue, 17 Nov 2026 23:16:00 GMT",
+   "engine": "gnews",
+   "query": "대전 초등 자녀 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "2026년 생생국가유산 사업 ‘칠곡의 고(古)·금(今)을 잇다’ 성료 - 핸드메이커",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15NGE2bUdReFRseWJDUkhjV1FfTUEtV3ZmdFZGNmMxVkI1OVNhLXE1b2xZVUhaOXdia3hVcTZIR0lETml5TDVQN29JWTREVEhZVndjZmlfc1FuOHNBY1lLVWN0bWI0Q3VlVks00gFrQVVfeXFMTXk0YTZtR1F4VGx5YkNSSGNXUV9NQS1XdmZ0VkY2YzFWQjU5U2EtcTVvbFlVSFo5d2JreFVxNkhHSUROaXlMNVA3b0lZNERUSFlWd2NmaV9zUW44c0FjWUtVY3RtYjRDdWVWSzQ?oc=5",
+   "pub": "Mon, 16 Nov 2026 08:27:29 GMT",
+   "engine": "gnews",
+   "query": "대전 초등 자녀 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "진로·진학 정보 한자리에… 대전 서구 미래교육한마당 학구열 “후끈” - 미디어대전",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMSm93RXFKSGdlcHVzSVI1VHE0QU5GZDdJWWFCYk9OT1lXNE9idWtDVWc1VzJFVUpVRFNLRW9vSmswUlIwdVJVdEt0TnYyOVV0bHpDUVR5Smh4elpYMzRMbFJ2TQ?oc=5",
+   "pub": "Mon, 16 Nov 2026 01:10:00 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전 서구 평생학습관 수강생 작품발표회 성료 - 도민연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lX21zWEZwN0phUnJCOWgwQU84eGVpSmFuN05IWFNCRnQxSUZ3ZU85aXBhNHBYLXNhYW02TW92TV9iaU5VXy1TT05GQW1vTVdnRHRWYk5nM1dEUENVRmE3eFRLYV84aVczN3c?oc=5",
+   "pub": "Tue, 17 Nov 2026 00:42:07 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "서구, 가족형 탄소중립 체험행사 '감탄소풍' 개최 - https://www.theleader.co.kr/",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02TVFkbUFvaHhOTl9Ja2djUzItSXRwcnJWaW5NWUNGMEE0RENWbmFqMEdId2NBQ29WYjFkNl80TnIza2otTl93M1oyQlBDaUVkYzc1dG9pZWlscHZHYk9EQjJrX3RDNFVpNGR2TzVB?oc=5",
+   "pub": "Sun, 15 Nov 2026 12:48:18 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전성모병원, 당뇨인의 날 행사...체험형 부스 운영 - 충청뉴스",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00aFJaRGdvLWtxMU1UNzZTQVNyYmVPRndLbmtoYm5aRUJRSlpyemp3U0FRV3ZZYmlVQ1dFWHdQQnNWVVpGN3VoR256clhuYkFEZTAzdDlIdTNjMzJ6Nkl4V0FBazdKbjRTUi1z?oc=5",
+   "pub": "Tue, 17 Nov 2026 06:00:45 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "[2026 문예상 11월 후보/동시] 아빠의 잔소리 - 어린이동아",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfNk56MlJCVUZONmZzSXJHejRBTXF2RE14MjdTd1BCTnJBM0tOVnE1S2xqVGc1RmJsOThjcVV3eXo3UEc2WnUzdnc1blc3TXpmTTMxMHVJRmoyOW83RXpzN0pMZTU5Ykpt?oc=5",
+   "pub": "Mon, 16 Nov 2026 05:44:34 GMT",
+   "engine": "gnews",
+   "query": "유성구 아빠",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "[대전 24시] 대전시, 1096억 규모 제3회 추경안 편성 - 시사저널",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hbmJMZGpqTndjRzBVNVJreHZOSm5ibVFCemFRaFJNc3NSTkxuRjlPemkza3NTYm5Mdy1PNWM2WjNHVndwZ1RMQkNFWmM4eEpscllOT3Rxek55UDExV3RfOXBsSGRNWFpmdngyYUhtNWFxdTDSAXNBVV95cUxNYW5iTGRqak53Y0cwVTVSa3h2TkpuYm1RQnphUWhSTXNzUk5MbkY5T3ppM2tzU2JuTHctTzVjNlozR1Z3cGdUTEJDRVpjOHhKbHJZTk90cXpOeVAxMVd0XzlwbEhkTVhaZnZ4MmFIbTVhcXUw?oc=5",
+   "pub": "Mon, 16 Nov 2026 03:42:09 GMT",
+   "engine": "gnews",
+   "query": "대전 중구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대구중구가족센터, 찾아가는 중구가족센터 행사 성료 - 씨원뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CQTA1MnFoQmx5V0FxWUQxdGRncHZzWmJOVHRoOFBqY3MxWWcyWnBPbWtGUXhROUdENWRyMV93ZXZqdlEtRHY3ZWFLYVcxZkdrNTRFQk54NE1Ca1hHcEtwUVEzZ1A0MXc?oc=5",
+   "pub": "Mon, 16 Nov 2026 12:18:18 GMT",
+   "engine": "gnews",
+   "query": "대전 중구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대구 중구, ‘근대골목의 밤과 체험’으로 대한민국 지방자치경영대전 문체부 장관상 수상 - 영남신문",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50UmdRZnhVel95blNrTWU0OS1INUN0aUhWU3F6dXMtbHhMOU8wU1ViQS1WTDE0MWtnYk50V3FLNS1sbndlcHNya25zQ1NOM1drOGNqeWNTS2pmNUllc0tveUc4Y01LQXkxTENkYmx3?oc=5",
+   "pub": "Wed, 18 Nov 2026 01:42:34 GMT",
+   "engine": "gnews",
+   "query": "대전 중구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대구 동구. 제15회 동구 지역아동센터연합회 가족 어울림 한마당 개최 - 데일리대구경북뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Tdzh5WmxYVTB1dDJHLUF2bTM2R1FsTDlUNTJWcGJGVGdVM1FudFZBUXVjVGpYeC1kUGtCX09pcFFjYmZtUXBkcnVldzNqb1lJTUZvdWNyUXZNdnppdjdrS2paM25MZw?oc=5",
+   "pub": "Tue, 17 Nov 2026 08:42:00 GMT",
+   "engine": "gnews",
+   "query": "대전 동구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전시교육청, 가족 기능 회복을 위한‘학부모교육’진행 - 미디어투데이",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObnZBSDl3TEg4a3JoV25FbnFETUdfZnBlcjgxSk11eVY0YS1TTzVvX3doX0NKdmFMZEs5SUJiSjJ0MmFnUVZhZmg0Tno1a0lPSWRESG9Jc3VLY1F5SHZGZ1Q0UGpXWkEtanpOQXd5a2J2WmN2LVI1SG9CWDlNNm1MZzZyWUdxQkJFTWM2cEhFQU9NVkoyV090b2ZkV3BfMXhiVjg3ZA?oc=5",
+   "pub": "Wed, 18 Nov 2026 00:13:00 GMT",
+   "engine": "gnews",
+   "query": "대전 동구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "김희선 동구의원, “체험하는 공간에서 머무는 공간으로” - 한국미디어뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4YlFmUmNnd1NVOTRpanphRXBOcC15ZGlmUF9FR0QzVVhRU1ljdXpPUVFDaEdGS1REdDZFSWxQSDVLZFpMMVdITlJ2eUZwODZfSlFhUGtDVU1LOUcxdGt1cnU4VUh1dw?oc=5",
+   "pub": "Tue, 17 Nov 2026 07:10:32 GMT",
+   "engine": "gnews",
+   "query": "대전 동구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전성모병원, 당뇨인의 날 맞아 혈당·안저검사와 건강강좌 운영 - 타임뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2ZHhvMk9fdGJ3U0szX3hQZWR4cDFpMThYbktZNVllLVpETDZfY25YMVBxMFY2Z19NbFc2UU9ub1pqRTFCUGIyVWJGZnV1TGtaWTVycg?oc=5",
+   "pub": "Tue, 17 Nov 2026 04:52:12 GMT",
+   "engine": "gnews",
+   "query": "대전 동구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "함께 배운 일 년… 대전 대덕구, 2026 평생학습도시 성과공유회 개최 - 미디어투데이",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pcF9FZEN0eG1aQ0tCd1BhVHJOR1JOU1dSaG5CZlpneGpJV2JXU0pvTk1mMzhBbmIwYUtZTTF6cFRfVG4zYUFHMmZ3?oc=5",
+   "pub": "Tue, 17 Nov 2026 05:35:00 GMT",
+   "engine": "gnews",
+   "query": "대전 동구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "“아이 낳고 키우기 좋은 도시로” 동해시 맞춤형 가족친화 정책 인기 - 미디어투데이",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tbXNVcmY3RXppNHA1Wkxib3lMTHpnYXY1aG1HaHd3WGhFYW9RY25LT1paZnpyRjNYblJtZ21xaW9wNUtjTF9PUkVR?oc=5",
+   "pub": "Wed, 18 Nov 2026 01:00:00 GMT",
+   "engine": "gnews",
+   "query": "대전 동구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "증평군청소년수련관, ‘나눔을 심는 텃밭’ 결실 - 미디어투데이",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0yOThIeEU3dmYzLU9yUEtpSzJyUnozdWgxTHZ4Z0xlVjVHdHRITlU2aWtZMTZtNldMQnlfeXo1ZDZDb0JmZUJXWVFB?oc=5",
+   "pub": "Tue, 17 Nov 2026 22:11:00 GMT",
+   "engine": "gnews",
+   "query": "대전 동구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "이날 행사에는 장애인 학습자를 비롯해 평생교육 학습자와 가족, 참여기관 관계자, 강사 등 200여 명이 참석한 가운데 한 해 동안...직접 만든 목공예·시화·민화 등 작품 110점도 전시됐다. 체험 부스 6곳에서는 누구나 함께 즐길 수 있는 체험 프로그램을 운영...",
+   "url": "http://v.daum.net/v/20261118104722705",
+   "engine": "daum_news",
+   "query": "대덕구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "간의 친밀감을 높이는 데 도움이 됐다고 느낀 이들이 많았다. 대덕구가족센터의 숲체험 프로그램은 가족이 함께하는 시간의 소중함을 되새기고 건강한 가족문화를 형성하는 계기가 됐다. 앞으로도 가족들이 일상에서 벗어나 서로에게 집중하고 소중한 추억을 쌓을 수...",
+   "url": "http://v.daum.net/v/20261118102546426",
+   "engine": "daum_news",
+   "query": "대덕구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "[대전다문화] 숲에서 하나 되는 가족, 자연 속에서 행복을 만들다 - 중도일보",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tZ1Y0T2tTaFZ5bzZuWU9Oei10Ui1wV2dlVHhwb3gzUHB1ZTFaNWJpWEhaaFZKci1TeHpuaWJqR1IwVXBPMXpEY28wRXl6SXd3SVZ3TVpsR2lwRGlJeEt6el9hTGs5TnF1djd5cg?oc=5",
+   "pub": "Wed, 18 Nov 2026 01:24:59 GMT",
+   "engine": "gnews",
+   "query": "대덕구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전 대덕구, 평생학습도시 성과공유회 개최…장애인·비장애인 교육 참여 확대 - 충청시사신문",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ocVRFMnpVYm5aU3UtVXN1UXBUbUM5Uk5lTEhQek13bzdNTGZvQ3daSFQwcTI4QnZmWEJFbThYdG1qYXZnUEZuWGVoMk9iZUNoZl9RTnRUbVh4b1diVVB6R3o3UUVPbTlCdERZ?oc=5",
+   "pub": "Tue, 17 Nov 2026 05:24:16 GMT",
+   "engine": "gnews",
+   "query": "대덕구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대덕구, 장애인·비장애인 함께한 평생학습 성과 나눠 - 충청매일",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sM08xSU8tVUZ1VENPN3hGTmN1V0I3NFZFZE1CdFVCZXc5dEJ6TEJRN28xN0lSYWI2Z2xoWllZZDkycUo5Z242YzI1UExMU2YwX1ZSVEdXRHBabjBoQW1TcXJjZlE3VHF2MXc?oc=5",
+   "pub": "Tue, 17 Nov 2026 08:20:16 GMT",
+   "engine": "gnews",
+   "query": "대덕구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "함께 배운 일 년… 대전 대덕구, 2026 평생학습도시 성과공유회 개최 - 세계로컬타임즈",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80ZTNQR1pnZzV6bEh6Z2M4aV9kUmg2cXA3ano1WUViWGhOMHEzTTNFX3hob1BEX1lFOWJHRjJhMmgwWWk2ZGg1OG1KMUtFanliTGxlaTBhR3puRjBKZXp4OdIBXkFVX3lxTE5zNk4xQm9feXRyYldrd0tqUGRwLXlFdVZDVjVwV1ZxNnJLLUFCUm5yTm1QR2Z5NjgwVWJhT3Eyenl4aGJvUXpTVXJQSjdhN1lnSzU4RDVBSGVxUE1LTHc?oc=5",
+   "pub": "Tue, 17 Nov 2026 06:10:26 GMT",
+   "engine": "gnews",
+   "query": "대덕구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대덕구, 평생학습 성과 한자리에 - 충청도민일보",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02ZlZjX01EQ3ZqYVNENzM1cmZabGptSXhRQ3drc0ZQMmtOSHUyRzFWWG5xY3BSSlJhUVE2d1dDVVRNdTNscjVqQV9SV3N3c3dpMFZQZ3MtbmRzYVhOVkdZdXNLeUw4Z1MxSXhubA?oc=5",
+   "pub": "Tue, 17 Nov 2026 06:23:11 GMT",
+   "engine": "gnews",
+   "query": "대덕구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "장애 넘어 함께 배운 1년…대덕구 평생학습도시 성과공유회에 200명 - 더퍼블릭",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzQTlhblZjRDRwdS1MaW9td3JBUGVqUm5fZ3BfMEFtdWpjQUZIMDRhVDVrckRkbF95ZUFVSDEtM2VyZXladmQtVVFRNE5UMVVYZ004bF8xV3NKeVlMb0NEZFI5TG9fQlItNkpIeGo1d9IBb0FVX3lxTFBzQTlhblZjRDRwdS1MaW9td3JBUGVqUm5fZ3BfMEFtdWpjQUZIMDRhVDVrckRkbF95ZUFVSDEtM2VyZXladmQtVVFRNE5UMVVYZ004bF8xV3NKeVlMb0NEZFI5TG9fQlItNkpIeGo1dw?oc=5",
+   "pub": "Wed, 18 Nov 2026 08:32:09 GMT",
+   "engine": "gnews",
+   "query": "대덕구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전 대덕구, 외국인 주민 지방세 납부 안내문 6개 언어로 제작 - 투데이플러스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oRWREbm1sOU92azlwdmpXbDlXaXpmdWNXUnlNQkkwTjkxUDFQaHZKTmdkLVFGd2pwd2tSazFoMENQVVJFNFNNYjF4R0xla0h2bExvdHRQM3k3SkRHaFFqMVlvT0JVY0Rm?oc=5",
+   "pub": "Tue, 17 Nov 2026 02:28:00 GMT",
+   "engine": "gnews",
+   "query": "대덕구 가족 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "“공룡 발자국 따라 1박2일 캠핑… 모집 경쟁률 5대 1 돌파”… 의성군, ‘2026 의성 지오패밀리캠프’ 성료 - 이뉴스투데이",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVXNEY09aVHdsaWx4QjhGeW9DRnRpZzFkY1F5ZlFUMUlKZlRPUHZOS0paWEtLQlZwMzlTbC1LQ3E3a2VVNUI4MEF5LXJJRjQzWUJ0NkpPUGNraHlpYV8wLVYwWFVGNm9Gd0xOdVBzcmHSAXRBVV95cUxPN0dha3liNnljT2FFbTFjQzc2ZXduUDZoNVY0WmViYUNKQ05KQTdqcU9BZENZM0lKZ1B4UXFMbXo0V0JiTlFrUTlhbnhjLTV3eGkwOXNkYkgxUUdSZlQ2LVBaZ2o2UEJHQ0FiYkNnRk04SnNITQ?oc=5",
+   "pub": "Tue, 17 Nov 2026 12:17:59 GMT",
+   "engine": "gnews",
+   "query": "대전 캠핑 가족 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전시민천문대 제435회 ‘별빛 속의 시와 음악회’ 성황 - 충청뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95ODY4cGxJNGtGMGVLSjFCU2l2UEU1UWk5eVZVdjBYYkMxMXhhb2RaSmlwRGxsalg5NTMyYXFxTUdVcklUTV9KWnBuTkFOVHR6T241XzlRNDRWRzV1Unl0S1U3d0hYVXFxVTRpUw?oc=5",
+   "pub": "Wed, 18 Nov 2026 15:21:20 GMT",
+   "engine": "gnews",
+   "query": "대전 천문대 가족",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전 ‘온시민 에너지 걷기 한마당’ 1,500명 참여·재생에너지 체험 - 한국사회복지저널",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04ZmFocU5MWER1cE5uVUhrR2hqX0FVNnhsMTZzYUtGMTNGMGMtRE5uNFp0TTBIMFJOYXdjVDFFUnVXeXVQTjVPUDBsc0xHNHROTGF3TFhuVU0xWUI0RGxIY0R0UkV0anhvN3B6Zg?oc=5",
+   "pub": "Sun, 15 Nov 2026 09:55:27 GMT",
+   "engine": "gnews",
+   "query": "한밭수목원 체험 신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "울주군서 '평생학습도시 선정 20주년' 행사…\"배움이 행복으로\" - 연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzdEpTUFM2cndKaVpGT3did25QOTNHVTRwSl9XMlMtdHFRRWxQTEhkTjJCT1VSLV90aDJ3RVdKVlRjZGxkb1ZXYVczMmNDMmFwejVQYUhFWDlkWHA3SFRZatIBYEFVX3lxTFAzdEpTUFM2cndKaVpGT3did25QOTNHVTRwSl9XMlMtdHFRRWxQTEhkTjJCT1VSLV90aDJ3RVdKVlRjZGxkb1ZXYVczMmNDMmFwejVQYUhFWDlkWHA3SFRZag?oc=5",
+   "pub": "Mon, 16 Nov 2026 01:16:17 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전교통공사, 달리는 열차서 시민 비상대응 체험교육 - 타임뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2ZW5sOU9ncTVPa3d3RnZRSWVVN2xoYnpnaURnd29sTmZBMWdfaGRMT0JyZ2c2TXVJSE9oNHVGUkVuNzFjS3FLeVgwTlItQWs4cnpVMg?oc=5",
+   "pub": "Wed, 18 Nov 2026 06:30:55 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전교통공사, 시민과 함께 도시철도 안전체험열차 운영 - 뉴스파고",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBuejhnYkNiTDlyNmpuSHNOYS10c3NVbXZEaVNkTnB0RExQaUdHMXdvUWQxZTFVU0pudUZtZnpBbDVWeDZM?oc=5",
+   "pub": "Wed, 18 Nov 2026 06:25:00 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "비상인터폰부터 출입문 수동개방까지…대전교통공사 시민안전체험열차 - 한국철도일보",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BWXhNY1RULXNwYjZmY094RmxWSTNZVHphZGw2dGRJSHd0MDhDNmF6TThaOW9qbi1mNTh6bmtJVlljQzV6TWZIeGV2a0tJX2hpNGFISlM0NFMwOGJSOXRUUFB2TTJRV3RhTXNwSmY5Vzg?oc=5",
+   "pub": "Wed, 18 Nov 2026 06:38:49 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전교통공사, 시민 참여 안전체험열차 운행 - 충청매일",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OLVpjTGhmVC0tZEl6N3VZYkRUdkxVSEpFakpRaURFdFJ6dkhZZWV5Q2I3OTBkSmVjU0lIV2RjM050TTR6aktVTE1LZUFuUUNFcWtQRVhvd1JDUW9lbjhIOW9ncGppckhIZFE?oc=5",
+   "pub": "Wed, 18 Nov 2026 08:00:05 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전과기대, ‘어울림한마당’서 간호학과 건강 체험부스 운영 - 뉴스밴드",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yUDNmOHl5U1lQYzNCdlhueHZJRkE3NndWM3B3RkV5aUJWcFhFRkhhUjloNmo1Y2NJT2J3akhvd190V2tQTVJUMGdlNWRDUUVWZ2JEM2Y1eE5PMmlBUUZoZ1hfX0J6YmI4X1E?oc=5",
+   "pub": "Tue, 17 Nov 2026 13:48:14 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전교통공사, 시민 참여 안전체험열차 운영 - 충남일보",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hYTRDZmt6T0FpTi00Z001aDNsOFhQdWI2U1RvMTBsS1VlTEtYS0dNbkN3Nl9rOGpLbjdSbV9oV2NtbllKTU85RkdfVG56OHNFbDFkd2kwOF8wZlNMZkUyby1Qc2FJaUdMOXJhTXVUUzVIR3c?oc=5",
+   "pub": "Wed, 18 Nov 2026 05:04:06 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전교통공사, 시민과 함께하는 도시철도 안전체험열차 운행 - 아시아뉴스통신",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SRTloMV84NWk0eFMxRWdoNkhKR1lQTXIwN0Q4b1Bza1JKLVFhQ2xZYUk0YjRFdlNpeFJ2dE1abVFzaERyX2lTMDdNYzI0R0d5V2gzWlI4cG1zbU0wbHFuOWdBeTdQM3JrQW1YVmhhZFJSNmpJ?oc=5",
+   "pub": "Wed, 18 Nov 2026 05:23:23 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "천안서북소방서, 겨울철 화재 예방·대피 요령 및 생활안전 체험 교육 실시 - 파이낸셜경제",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qT0hQZ0hUaHZMTVZYYjl1Z0xhYzJiUEtWS1lwelN5ZF9MbG9pUEgwM0FBckVvZGtoSTNCMnNNTjd4RWd5a2hOMmpMbWpqSlhJeVYwTE9HQnFSTDFkdjNuRWFHQ1huRFhORlNMTmhXb1I?oc=5",
+   "pub": "Tue, 17 Nov 2026 00:05:13 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전교통공사, 판암역서 시민안전체험열차 운행 - 뉴스티앤티",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvdTY0NVVYMzktdEc4cU9fdzRFLVpGd3VUMmJiU0d3MUgzeXZIRFM5RXFVbVFpNE9JYW9rNHhsc19WMnEyb3JDVmhPbDRMMjUwSUlrZUlxcUV2a0lyUEdmSHVScldqNVkwZEE?oc=5",
+   "pub": "Wed, 18 Nov 2026 06:52:03 GMT",
+   "engine": "gnews",
+   "query": "대전 어린이 체험 접수",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "광주·대전 등 대도시 편의점 3만4000여곳으로 늘었고, 18일부터 범위를 전국으로 넓혔다. 제품은 마이크로웨이브로 스틱 안쪽을...스틱은 '나우' 시리즈 5종으로 갑당 4800원이다. ▲CJ도너스캠프가 취약계층 아동을 돕는 CJ ONE 포인트 기부 캠페인 '한끼의 울림...",
+   "url": "http://v.daum.net/v/20261118181052482",
+   "engine": "daum_news",
+   "query": "대전아이 캠프",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "장동혁 캠프에 있었던 건 사실이고. 거기서 좀 막말로 좀 설레발을 치고 다닌 거야. 그러니까 제가 느끼기에는 딱 들어 보니까 약간 명태균과야. ▷ 황형준: 아, 그래요? ▶ 김근식: 명태균과야. 뭔가 정치판이 열리면, 가가지고 ‘내가 이걸 다 안다. 내가 다 해...",
+   "url": "http://v.daum.net/v/20261117202117047",
+   "engine": "daum_news",
+   "query": "대전아이 캠프",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "AI'다. 작품은 세상 모든 것에 AI를 더하겠다는 가상의 스타트업을 설정하고, 어떤 사물에든 지능을 부여할 수 있는 'G+AI 태그'라는...발전할수록 무엇이든 AI와 결합할 수 있다는 기대와 함께, 과연 모든 사물에 지능을 더해야 하는지에 대한 질문도 던진다. AI가...",
+   "url": "http://v.daum.net/v/20261117194708320",
+   "engine": "daum_news",
+   "query": "다함께돌봄 캠프 대전",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "군위읍 다함께돌봄센터, 문화체험프로그램 ‘다돌이의 외출’- 가을캠프로 특별한 추억 - 뉴스21 통신",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85X1lZU3hYWVAySThfLXVWTkFmSlJCZGIyRUlpSGRLdEFvZU5Fd2ZIU3BXXzZBdWJ5bTRYZHVoUGZNQnZnVGFFUnB0MzFUdi1qVGxGS0hB?oc=5",
+   "pub": "Tue, 17 Nov 2026 02:39:49 GMT",
+   "engine": "gnews",
+   "query": "다함께돌봄 캠프 대전",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "군위군 군위읍 다함께돌봄센터, 가을캠프 ‘다돌이의 외출’ 실시 - 코리아투데이뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE45clRfRmdtWFItT0p5NHJ1ODVZalNuMXo2bTBxdVBHZjJEMUhRa1NlNFE1Tno0emRDeHMxRlNTMzJFZm1xMVFz?oc=5",
+   "pub": "Tue, 17 Nov 2026 02:45:00 GMT",
+   "engine": "gnews",
+   "query": "다함께돌봄 캠프 대전",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "아이들에겐 웃음꽃, 이웃에겐 온기...대구 군위 곳곳에 번지는 나눔의 손길 - 프레시안",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUemtUUFpGbGpDUmk5SGsxaUMzWUFtV2RaRjV4YmNnZFdwV1VuY1gtUk9EZHkxTTBWVlI3c1VvMFhxWHlHVlZ3Mnc1TVo5bEgtelFQMGFWR2xqZm9hdnhPZFdFWm96UWRXd2pV?oc=5",
+   "pub": "Tue, 17 Nov 2026 05:43:54 GMT",
+   "engine": "gnews",
+   "query": "다함께돌봄 캠프 대전",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "군위읍 다함께돌봄센터, 아동 대상 가을캠프 진행 - 웹이코노미",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tZE45LW5qRkF1LVRfS2ZteDFFRXpQN1pNd2dPM3daMnEwMm12NThqdFhPaVJyRDNBUHRVS3FyOTZvOE5fRTkzdVpFWHF1U0tMeXBHZHVZcHdtZzdTbmZBZnk1RlBOa0FRejBRaEdIM3UyUQ?oc=5",
+   "pub": "Tue, 17 Nov 2026 06:29:14 GMT",
+   "engine": "gnews",
+   "query": "다함께돌봄 캠프 대전",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "“삼국유사테마파크서 보낸 1박2일의 쉼표”… 군위읍 다함께돌봄센터, 가을캠프 ‘다돌이의 외출’ 성료 - 이뉴스투데이",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzaW5jOTFuWnpNUkhVVWxoYUFqdnZiXzRnb1JUX1JzTWUyYlliV0dyNkY0aUtLM1NXMXg2c1dFd1V1Ul9ic1pfLWpKdFdlZGpqZmpLaVFXaUxQa3dLakdwZl9MaTB2ckk3N3B0emgyNnLSAXRBVV95cUxPV2g4ZnZuSXFSSEU4dUlfZGN6ZzctTkVlVTJzb3Z4Zkt4aVZ5dFBLWS1ibXRrWDBtOUNLbzBHOC1vQzJsZ0pkTnpkcEQ3clNGVm1Td2hTNUtqdlhGMjlSMDA0ZFZfUkNiV21iaFBDc1ZlSWpVUQ?oc=5",
+   "pub": "Tue, 17 Nov 2026 22:00:00 GMT",
+   "engine": "gnews",
+   "query": "다함께돌봄 캠프 대전",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "[강원 ~11/25(수)] 횡성숲체원 가족캠프 참여자 모집 - 느린인뉴스",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzOTh3OVFLY3ZkREZPSWFwQ29TejY0d3NZY19RYWpSUl9GUkRxZ3FYbzROTU9GWEE1VkhJRHBwY3pzejNvZGUxTlFFLWNQbXozbDNWeGVQLV9Nb1RCQ3BuUWV1ekxvdmZuYXpQV3NuNHp4QQ?oc=5",
+   "pub": "Wed, 18 Nov 2026 06:20:32 GMT",
+   "engine": "gnews",
+   "query": "숲체원 가족 캠프",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "강릉시가족센터, 9가족과 횡성 숲서 1박2일 '행복 조립' - 강릉넷TV",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LVUVxNHMzc1FITEtZYXpnNHo0cXR4NTNldXJWRVUzdllhdEJZRVlkU3AxZklkMlcxRWd4U1pJTEdueDNaeFhZZEJidE1lTURSNEdUci1GQnZOVEU1a05OZGpYaHdFT3RxNUE?oc=5",
+   "pub": "Tue, 17 Nov 2026 00:42:35 GMT",
+   "engine": "gnews",
+   "query": "숲체원 가족 캠프",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "김한종 장성군수, 숲을 지역 경제 동력으로…체류형 치유관광 육성 - 서울경제TV",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KREdlMkpHOWw5dDFvMUNwVXhXR1pKTWlsLUFmV01XLXBFNFJFc2hHQjNlUFBnMmVwc3AxQVdfVWlHSDVDei1ramk5VHNFOGZmMndHa0RrNnR6MEhWQVBJcm9BZnE?oc=5",
+   "pub": "Fri, 13 Nov 2026 06:50:13 GMT",
+   "engine": "gnews",
+   "query": "숲체원 가족 캠프",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전 중구, 독거노인 야간돌봄 공백 메운다 - 뉴스파고",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1Vb3BYNW41dnEtUHNfM1AzaGNDU3VHaXdSQjdsMy1oYmd6djBfc0JCbm55V3FmaU13ZHFoOHl2QTBRV2Vv?oc=5",
+   "pub": "Tue, 17 Nov 2026 06:59:00 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전 중구, 슬립웨이브·행복커넥트와 스마트 수면 돌봄 실증사업 업무협약 체결 - 글로컬타임스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GLXh6TTdhc2wtVzdWU2p5Rko5M3dXNVZYT0t0NS1GVlhWSmNwOW1xR0trQVk0MVNEWWdLTFcyTE5aSEVyRDM1d1FoeEUtZm5HVmVLeklJZnBXQ3lFRG42WmtrZ1FtRy1h0gFsQVVfeXFMTjZSeTVsT2tXZmlmY25lMmN3Qng1QkczcGRnQWF5QzdjMHVlU3BYazgtWFRZM3BjR2ZNUFl4Ry05WTY4UGVOQWhZSERjeEJrNlZqaDlRWHBzU1E0UDJ3cGJSRU1OeVlVNlQyQjNm?oc=5",
+   "pub": "Tue, 17 Nov 2026 14:09:14 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전 중구-슬립웨이브·행복커넥트, 스마트 수면 돌봄 실증사업 협약 - 전국매일신문",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VcGNOTU9TMm9rV1d2aUUyNFprSFRFdDFjSXZMQVJlTmk3UlJkNjVjSzVwT2t2TV9NaWtKRkhVUnF6UlFuaGYzQ25JcUExWm9uZ1JiR3VVLTNKYjlKdzFlSjdMTW1RSWh2SVlMekxn?oc=5",
+   "pub": "Tue, 17 Nov 2026 05:55:11 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "괴산증평교육지원청, ‘2026. 괴산 작은학교 어울림 스포츠 축제’ 개최 - 경충일보",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QRWJiQkwtQ3hObFBwQkl5OUVzM2ZVdFZfS1NtbTh3U29QNVgxTmhBYnVJV1hDWW4xcjRZRVJzUk1QTzlBZWhnN0dhYnNWaUNzRE5CSXRYU2k?oc=5",
+   "pub": "Tue, 17 Nov 2026 01:53:36 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전 중구의회, 장애인식개선·정례회 대비 교육으로 의정 역량 다져 - 뉴스파고",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5TNzBneFJ5dmkwZDNqaDB3MnVUcmNkaGpCQUFLNGJzUXlCdkNIMTZZOXZHbV9KM2s1RzhUTnBfQ1VQR19p?oc=5",
+   "pub": "Wed, 18 Nov 2026 06:29:00 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "정상화'다. 2024년 ETF(상장지수펀드) 유동성공급자(LP) 운용손실 사고 이후 소방수로 투입된 이 대표는 위기관리·정상화 TF(태스크포스) 위원장을 맡아 후속 조치를 이끌었다. 올해 실적 개선은 연임에 긍정적인 요소다. 3분기 누적 당기순이익은 6429억원으로...",
+   "url": "http://v.daum.net/v/20261119073404863",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "기록했다. 키움 히어로즈가 19회로 뒤를 이었고, NC 다이노스는 7회, KIA 타이거즈와 KT 위즈는 각각 6회였다. SSG 랜더스는 4회, 한화 이글스는 3회, 롯데 자이언츠는 1회에 그쳤다. LG가 그만큼 많은 부상 변수와 마주했다는 사실을 확인할 수 있는 수치다. 실제로...",
+   "url": "http://v.daum.net/v/20261119033234979",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "2026 프로야구 KBO리그' LG트윈스와 키움히어로즈의 경기. LG 홍창기가 4회말 1사 1,2루서 삼진을 당한 뒤 아쉬워 하고 있다./마이...없다. 히트상품 박재현이 내년에도 호조를 이어간다는 보장 역시 없다. 외국인 3인방을 다 잡고 싶은데 잡는다는 보장도 없고...",
+   "url": "http://v.daum.net/v/20261119005356480",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "“내년 2분기 영업익 정점 찍고 꺾인다”…키움, 삼성전자·하이닉스 목표가 하향 - 디지털데일리",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lemNnZklGRmZrMlplaVE0YTFoS3RrVW1xM0dCMGNORzhxdTFDSEtQdFgyX2VQS0UwSW1HYVhmLTltWUdlSGVRcDgzc2pkczg1enNUYnZPbTlfcjUtRDBMcE1B?oc=5",
+   "pub": "Tue, 17 Nov 2026 05:48:19 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "남해군 다같이키움센터 개관, 17일 시범운영 - 투데이서경",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrTVBKWmRVUDlzdXF0VmhoY29PdFJFNEhUVkRvaUIzX1RtN2t0UHEtVFI3UE5ZMWRYWEJCTEJWVTdmallJTzdING9vLUNiQW5KbUtxdlItb1R6NkNPWEI5ZGdzdGdiODFKZUE?oc=5",
+   "pub": "Wed, 18 Nov 2026 07:38:18 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "남해군, 영유아 실내 놀이공간 ‘다같이키움센터’ 개관 - 메트로신문",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Xelg0dk9SZHllMFF4Zk56M2FWbWI0TVlraGkzQjVVcjlyMkM2S0NQQVpaTm9XSl9MSkVCS05uVDVPY01DeUxFTHVtVUhTb3pSXzBwMzNUOE9KbThxLTM1cw?oc=5",
+   "pub": "Tue, 17 Nov 2026 00:10:29 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "‘영유아 놀이·체험 거점’ 남해 다같이키움센터 개관 - 다바(DABA)뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYMTNOQlhudy1IN2dCVUYySGVtVkQ0MHQ1NU9hUndhSklMU3A0SmRYd2pVajU5eGRxbFBiMmtjTDFfV01SRVVscEktUkZPbVdkX1JXWFhmalVPd1R1SjhaMHUxZTZIbkhpcFZlb9IBcEFVX3lxTE5ReUFuemk3VWJKLVQzWTV2Zkgyc05icklxQWxRSV9UZi1PS25ESmU5SjFnWGlhYW9zVXlROUVYTFNPa1U2aUFOeVEwSzFIVlAzVlVWcFNwclExMEJrY1dVR2tETXF3c3dDQi12VDdjNzM?oc=5",
+   "pub": "Tue, 17 Nov 2026 01:25:44 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "키움證, 연 5.7% 발행어음 200억 특판 ‘완판’ - 서울경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UQ2JOc19hOEswTnNaa3hqdHY2LUttd1FoRXJCczF0ekpTbVBHZEhLaGp0MWZmb25XNElOYVJVWjh1clg1LUdDRTVFSDBIaEVObEHSAVNBVV95cUxOQy1BOTBmTkdoN29VaGdPazVONDJDUGpTUjc4ckMyMmNmRXRsQmV4YmVFWHlJUHpCelE5V0JMUDJDa0RJNHhyVTROSTB5U1F2Q0NBRQ?oc=5",
+   "pub": "Tue, 17 Nov 2026 05:36:10 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "남해군, 87억 투입 ‘다같이키움센터’ 개관···아이·부모 함께하는 육아공간 탄생 - 경남탑뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00RmFpQWtfRGJUNmVpVHQyVDY2ZG9uT1hpbU5Sdkp6SThIYjhBMzBuRXV6MDZvVEN5eEtDdjVUczdjNEhuZ1NFR211Y09RVE1HbDFHYUpHOGdwVi1LN3VVNzFiem1oVWVfWDZJWEtn0gFuQVVfeXFMTTRGYWlBa19EYlQ2ZWlUdDJUNjZkb25PWGltTlJ2SnpJOEhiOEEzMG5FdXowNm9UQ3l4S0N2NVRzN2M0SG5nU0VHbXVjT1FUTUdsMUdhSkc4Z3BWLUs3dVU3MWJ6bWhVZV9YNklYS2c?oc=5",
+   "pub": "Mon, 16 Nov 2026 02:07:08 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "대전시의회 교육위원회, 직속기관 행정사무감사 실시 - 누리일보",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fNm9SZHZfY0dudTY2em5ZLXJCWjMxTXVMOC1YN1lvakd2by1kaGdmX1F3YWxyVGF0RUtQeEg1cXlNZ3N4Vm5NYkFpUG1xMmFhcGNqS2FXQ2FuMm8t?oc=5",
+   "pub": "Mon, 16 Nov 2026 12:50:52 GMT",
+   "engine": "gnews",
+   "query": "대전시립미술관 교육 접수",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "“AI 시대 불확실성, 시민이 묻고 답하다”…국립중앙과학관, 내달 12日 시민 토론회 개최 - 전자신문",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40dmtEcmw3dGpVWmVEQWlFQnpBWi04eHZXZW9fSzhuY1MySUVPbUs4UDdVelZlLURSbmE4Vlo0QWJPem1BY0VFWmpXQWg2Zw?oc=5",
+   "pub": "Wed, 18 Nov 2026 02:39:49 GMT",
+   "engine": "gnews",
+   "query": "국립중앙과학관 교육 접수 선착순",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "[오늘의 어린이 소식] 마술로 배우는 과학, 중앙과학관 콘서트 9일부터 무료 예약 外 - 뉴스N연합",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ndjVGVVpNYUdaQS04NVJpTXJSVWFLM3RrNnpDX0ZhTXJXRVJuRWpZazlFb3NFNDNZVFZUTGhLTjhfZWpXSGk0R3dib0VXTnc?oc=5",
+   "pub": "Mon, 16 Nov 2026 14:12:00 GMT",
+   "engine": "gnews",
+   "query": "국립중앙과학관 교육 접수 선착순",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "[과학기술정보통신부] 국립중앙과학관 ‘시민 참여형 과학 대토론회’ 12월 12일 첫 시범운영… 패널 12월 3일·일반 참여자 11일까지 무료 신청 - 커넥트이천",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43M3JJbm5selAwNHFUZVRRQTRJTDB5azJiUm0wTUhDaXI4bUdLY0lnQmtoSkFQRjlibENKdGRCMzBaeVEzczBTUzN3NkJmaERNclFESWFnNWRNU2RaM3c?oc=5",
+   "pub": "Wed, 18 Nov 2026 14:21:40 GMT",
+   "engine": "gnews",
+   "query": "국립중앙과학관 11월 교육 신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "경북기계공고 \"기술 예술 다 잡았다\" - 대구광역일보",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mdW9ZRkxvaXpXUjdpRHZPazh1WVVCaF8xR3p3NUNsVklaWmJoYlNSWlhBLUxhSmdIalRCQlVPMHZpREhqak1GREY4V0pHaDl6YXA3QXRXQXo?oc=5",
+   "pub": "Tue, 17 Nov 2026 07:41:25 GMT",
+   "engine": "gnews",
+   "query": "국립중앙과학관 11월 교육 신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "증평군, 전통 노동요 ‘증평 길쌈노래’ 향토문화유산 지정 - 이트레블뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA4R3BKQ2ZSNGpYcVZnSVB6V2xfWGV6NC1rbDQ1TVJhT3dFb0NDU2JLUVUzMXYyOU5GcGQtWnRQbTAwb2VN?oc=5",
+   "pub": "Mon, 16 Nov 2026 22:34:00 GMT",
+   "engine": "gnews",
+   "query": "세종시 문화유산 체험 참가자 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "홍성군, 지역 특산물 활용한 김장 체험 프로그램 운영 - 매일일보",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4N2x6cUwxU3cybkxNQWVINHhLRlZoNnpiSkhocUJfNkgxSUJyMU9qcjlrMXBFbFNUV1J4djBMaE5iZnBvWjBpNDh5RDVDSjVOdEZmbFdSREs2UEJOekRwUUVvNTc?oc=5",
+   "pub": "Tue, 17 Nov 2026 02:31:33 GMT",
+   "engine": "gnews",
+   "query": "세종시 문화유산 체험 참가자 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "청주시, 역사문화 스탬프투어 운영… 참가자 100명 모집 - 타임뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pMjl5U2E0V2ZNRC1wbGt5ZmFqaGdLT0lGYTlvT1htd0Q2ZEc1STUyYWtGeXdqb2I5T29xYUNLaFgwOXNrdnpSRUFEZFdFdlNFcWdVTg?oc=5",
+   "pub": "Sun, 15 Nov 2026 23:32:01 GMT",
+   "engine": "gnews",
+   "query": "세종시 문화유산 체험 참가자 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "홍성 배추·광천 새우젓으로 김장문화 체험 - 뉴스세상",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52OWJVVFNadDduQWJ2NkY2eG1teHNoaEFidXA1dExRb0lTc1liTDBiUmpWbTJVbTZLaTJobTZrd01VbmVSM3pMeWlQT0pCLVROc3ZQSmVOR3JldFVudEdUNG90THVzbmpkZTVF0gFvQVVfeXFMTUtOd0NZRmxtSnMwR09yQWpwLXRUdEtaTnVJNlF3ZkFNMzdDcGh6UklPMkVHdTVhZDVnUF9oVC0yRFEwaWQ5Z1JZYzY5alN2NWRPSEVlUHVyTEhad1NhRG4tWGdBck1tRmItcVh2VUsw?oc=5",
+   "pub": "Tue, 17 Nov 2026 00:20:03 GMT",
+   "engine": "gnews",
+   "query": "세종시 문화유산 체험 참가자 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "순천시, 매산등에서 걷고 듣고 쉬어가는 특별한 1박2일 > 뉴스 - 더코리아",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1USk45RWhTYV9oRXlXMWRtZk1mYmZ4NkVJRmZxWlpSdE9PeDNKQXhneGxPLTEyVGZkd3AyZEhJcjFjMkd6X1pWbmdIRQ?oc=5",
+   "pub": "Wed, 18 Nov 2026 13:14:21 GMT",
+   "engine": "gnews",
+   "query": "세종시 문화유산 체험 참가자 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "공주시, 온누리공주시민과 함께 세계유산 문화여행 진행 - 뉴스파고",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5naFI3U3lMYmZ0Z2I3OVNoZnFhT0ZHdS0xV3FFQmd4eEdHZVJSMXk5VmJTRDdBX3M3SkJsbHFVZUYtYUktV29tYThSa2FqSm1oUmc?oc=5",
+   "pub": "Mon, 16 Nov 2026 00:45:00 GMT",
+   "engine": "gnews",
+   "query": "세종시 문화유산 체험 참가자 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "“가을 끝자락, 금정산성으로 떠나자”…남문 성벽길 원정대 모집 - 코리아이글뉴스",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzeHEwVjFSWEgxbnp5XzFvRVZJX3U3Q3huaVZodVYzanlKYW1iRGpBSUtuQVlxYUUwUUpNdkxQU2R1S2c4YnlzbEl6dHQ5Z1Rwd0I4UFA4TnZGelFLVmN4Slp6Z25ucDRUcHJ0X0hnSUZLZEU?oc=5",
+   "pub": "Wed, 18 Nov 2026 00:48:22 GMT",
+   "engine": "gnews",
+   "query": "세종시 문화유산 체험 참가자 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "광양 금호도서관, 12월 음악회·공예 체험…참가 신청은 16일부터 - 작은뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFU3A1aDZweFBEM1pMRXRzRktOTF94OTU1akFXU0w4WWZqeTQ0WFBfTW5ZRHNpaktuMV9Eb0pmQW1yeWxCbUwtOVZVSmhYVlNNTjRXalhpbUUyQTd6S3M3cld2NlZxYlk?oc=5",
+   "pub": "Thu, 12 Nov 2026 07:41:39 GMT",
+   "engine": "gnews",
+   "query": "가족 가죽공예 체험 신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "점자 명함 만들고 거북선에 올라탄 금요일 밤! '스탬프로 야금야금' - 내 손안에 서울",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnVWtocjk3SF9pTHBUcVg2dldQNFVUbE54eHc5SHliZ2tVS3hjMlNqMUtUTnAwTnctUjNxWUNzSEdmRUFhTXhrMV90VEgxZjVIdmJRNmxPLV8?oc=5",
+   "pub": "Thu, 12 Nov 2026 08:00:00 GMT",
+   "engine": "gnews",
+   "query": "노동자 가족 체험 프로그램 신청 서울",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "이번 주말 어디로 떠날까…거제·전주·서울 1박2일 국내여행 추천 3선 - 강릉뉴스",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rN0ZMc0w4bTN0RkZaRFFia3NqZm9rVVFMTkJxVmZuSk5qb2pfa0dwR2NmbFFkZHA1RFUzbGY4Q1FMYXF0d3pvZlZkTjVGMmp3WnlwYzFYU1BwWmFPU3E1VVFxX2piMU9BY3gyNVRCOA?oc=5",
+   "pub": "Wed, 18 Nov 2026 04:57:13 GMT",
+   "engine": "gnews",
+   "query": "노동자 가족 체험 프로그램 신청 서울",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "인천 남동구, ‘2026 소래찬 김장한마당’ 김장키트·체험 사전 접수 - 매일일보",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41VjdmSWdjczF1WHBhbXpIUXZTS0xCLVFjbnlqX2F3VG5heV9ueE1XRm9lNW1lSkQ0dV94R01PaDROUEF3TWYtQmVWUi1zVkZlcHpZTHBhZFlNWThNTDJmVDB3eWs?oc=5",
+   "pub": "Fri, 13 Nov 2026 08:00:00 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "“김장 걱정 뚝“… ‘K-김장문화축제 익산’ 개최 - 전북중앙",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByT0FBMzFDa05KMXNEZTIyMlhPRmUyemNDa1dvQUNJVTBRTWtXVkZkeXp4QmxhNDJKLWwxc3N5ZENlcUxSQ29TMWtHQVZ1V2FVN25ndVdEdnFDdHd6Z0dUMnZUUC0zVG94TTNJ0gFrQVVfeXFMUHJPQUEzMUNrTkoxc0RlMjIyWE9GZTJ6Y0NrV29BQ0lVMFFNa1dWRmR5enhCbGE0MkotbDFzc3lkQ2VxTFJDb1Mxa0dBVnVXYVU3bmd1V0R2cUN0d3pnR1QydlRQLTNUb3hNM0k?oc=5",
+   "pub": "Tue, 17 Nov 2026 08:06:25 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "행복바라미 김장축제…서울 9개 시설에 김치 1000kg 전달 - 불교IN",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByZXNtYnpKUm9zQkZ0bUpxcXFlSXVNa0pTQlI1dTFEdWd2T1ZaMEp5ZFU4aUNZY3hydVJFTHByVGFDSERQN3dWQUI5V1hHeHhNbDR4d0t6ZHQ1N3JncC1FYUYyeWFEQXplWWc?oc=5",
+   "pub": "Sat, 14 Nov 2026 08:00:00 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "태평1동·유천2동, 김장김치 400세대에 전달…산성동은 체험축제 개최 - 충청매일",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yUi00OElZcWEyYjlnb2pNR1dSQ2dldGc4Zjhodm0wQml0VGkydzV6bUJyVnRwX1VTcVYzSDBMZjVsRmxhQ1F0T1JGNkUyc19USVEzQUtta0JDdmkwZEV0UmFleDJiRklvYmc?oc=5",
+   "pub": "Wed, 18 Nov 2026 05:30:17 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "조계종 중신회·날마다좋은날, 김장으로 자비나눔 실천 - 법보신문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JMDl0X2hoY1QwOU9xM0xGUUtmOVVBdFpnaDJHaWJpcHUtemlURDBManowc1BhdHhjV3pXRlYzbnZXREVudDFudW5CMHlyMDNSbm9aeGV0WFFrWUZ3SXBzaGRURGlsMi0z?oc=5",
+   "pub": "Tue, 17 Nov 2026 07:40:28 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "익산서 960가족 함께 김장 담근다…‘K-김장문화축제’ 21일 개막 - 더펜뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43ano1cWlPazF1TFVGYVZocVk0WGlrRzJ3THVrZkp0OEdTYnF3azY5ZTB0Zkd4U3kxSXdycFlDQ3NzcVU3ZUxtN3ZtaGdCbUY1aGFZeDhCaEh3VWw5SmlLcWRvYw?oc=5",
+   "pub": "Tue, 17 Nov 2026 02:35:13 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "안동 풍산시장에서 2026 전통주와 함께하는 김장축제 열려 - m.culturegb.com",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tTXB6UlkxZXh1UjRBTW9DSmhYVTJtTmVnSzJnMnpNRFdvTFRLNE1BV3ZFeEV3bzlzSlMxMXl0V0RLYzdtZVNCWGQ2ZTBjZF9jb2ZJ?oc=5",
+   "pub": "Sat, 14 Nov 2026 05:17:00 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "공주시 바로마켓 김장행사 성료…홀몸 어르신 100세대 전달 - 뉴시니어",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlMWpoOVdaYVZoVVRYR0VoTVlUU3kwa3F4MXNFSndwSGtoMnl6Zi1CQmFkU245ZElTeFNtdmVsalFKcUFxUWhnNEM1cmJ4QzdCaTFhV1cxUXY2cGpfMDczQzF6VQ?oc=5",
+   "pub": "Tue, 17 Nov 2026 00:30:43 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "[익산시] 올겨울 김장 걱정 덜어줄 ‘2026 K-김장문화축제’ 개최 - 투데이안",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3WTZvSTA4YmJMVHhfaTVFc0VoemdrOVBuOUR5Um9NTGdtLTZlLVJmV282R3VRSWF3dGZIOGtEMVA4ZHBiR2RLRDZfVHlPaWhTRlpLVmowZ2JMNlhYOGF3UHRHaDVMZERB?oc=5",
+   "pub": "Tue, 17 Nov 2026 01:47:57 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "세종시 21일 '전의꿈축제' 개최…공연·김장체험 등 다채 - 뉴스1",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5RVJIMWJUZ2ZXaFJLOFU4S2J5UTBvSV9MSldWQTZuXzJvdURUamZ4cUkyWVVMb2dDclk3RldHWWhVX1VCVlhiUE1Hc3F1ZWVKNE9HTlhHWjlLVVZ1bkUw?oc=5",
+   "pub": "Wed, 18 Nov 2026 05:14:32 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "한식진흥원·하나은행, 김치의 날 맞아 김장 나눔...취약계층 150인분 전달 - 푸드투데이",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCNWlSRTV3RldVdjg5RFJySUVuSVpIV3V5N2JUblloclNMQ1lhbW13NVBwMHpla29iV3dwT2dLRlJrUkJMMWdqVzdpYzlNQzRDckpETkpSaHJrUlNUc0EzRS1qYnF0dw?oc=5",
+   "pub": "Wed, 18 Nov 2026 00:56:45 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "공주시, ‘바로마켓 김장행사’ 성황리 마무리 - 미디어투데이",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KSG53c3BDMTVReEJGcnRXLWtuZlRqYVpIRWJmQ1NidEZHM3FKT0pZN3dNVVk0Yk1JOW9hczhBc0h1cW5rbHBSSHRR?oc=5",
+   "pub": "Tue, 17 Nov 2026 00:32:00 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "농협 '2026 K-라이스페스타' 27일 개막…사전등록 무료입장 - 푸드투데이",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56SGRoRjJHbnRXbDBQVTFwbzloa1gtS05SY3dXMmZFR3ZmdThXS0poby1hT0tPdXdkSllweURxTU4xWVFqMkxCOU56MTBZV1BiY0VhRVBBM01QNm9rejFNR1dHYW56Zw?oc=5",
+   "pub": "Wed, 18 Nov 2026 04:59:57 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "[패트롤] 안동시-안동시의회-영주시-영주시의회-예천군-울릉군 - 에너지경제신문",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByaTRkQ1FQWDdPemVRWjZ1VjhMTXBxWnV0VHJrUmxuZDd5UFNMTWI2OGo3c2MzSlVieENiU1RWdnAtNzZ2OXU5cU1yODVzVDNSU1Zzc0RJQ2VyVE0?oc=5",
+   "pub": "Wed, 18 Nov 2026 03:07:34 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "입장 무료·김치 약 30% 할인…제7회 김치의 날, 20일 양재서 열린다 - 여행픽",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVd3doZTNMQ25JVHZaU3VlRFdMVldwMU4wRWZDalRvTm5FYkZQclozblIxZmtwdWdJRWdCU1pSdlUwblJwSmt0VzBIZ1RhRERoMnZLY0k2VkstTnh5SVNfTHFfU2pDZHAtNXVVVw?oc=5",
+   "pub": "Wed, 18 Nov 2026 06:00:00 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "안동 풍산시장서 20~21일 김장축제…전통주 시음·경품 추첨 - 한국사회복지저널",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwRUtWRUEtMUZLenBrWW5rQTMweHBaelBhSGxYUFB4LUh4bGs2ZVB3WWlSdk1TOG9xb3Y1Sk14anpBNTM3anh1c0FORE84Q0k0c3ROWlV2S0xiZjh3TlE2QWJhTzl1NlU1bDBV?oc=5",
+   "pub": "Wed, 18 Nov 2026 01:46:06 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "홍성 배추·광천 새우젓으로 김장문화 체험 - 뉴스세상",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LTndDWUZsbUpzMEdPckFqcC10VHRLWk51STZRd2ZBTTM3Q3BoelJJTzJFR3U1YWQ1Z1BfaFQtMkRRMGlkOWdSWWM2OWpTdjVkT0hFZVB1ckxIWndTYURuLVhnQXJNbUZiLXFYdlVLMNIBb0FVX3lxTE1LTndDWUZsbUpzMEdPckFqcC10VHRLWk51STZRd2ZBTTM3Q3BoelJJTzJFR3U1YWQ1Z1BfaFQtMkRRMGlkOWdSWWM2OWpTdjVkT0hFZVB1ckxIWndTYURuLVhnQXJNbUZiLXFYdlVLMA?oc=5",
+   "pub": "Tue, 17 Nov 2026 01:27:51 GMT",
+   "engine": "gnews",
+   "query": "김장 체험 가족 참가자 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "홍성군 홍주천년문화체험관 김장 체험 특별 프로그램 '오늘은 김장하는 날' 운영 - 타임뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GaWUwdmRzUlVVSENLWWxzSFdVU2tudW9ycmZoYWt3cnJHRG9DUlJVWmpIOXJRblJkZF9QODVvZk1PaFIwLWFYdWhLRGxQZDN4bGRfYw?oc=5",
+   "pub": "Mon, 16 Nov 2026 23:32:02 GMT",
+   "engine": "gnews",
+   "query": "김장 체험 가족 참가자 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "의왕시 포일청소년문화의집, 아빠와 함께하는 김장체험 성황리 마무리 - 웹이코노미",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MUzBHYnU1elEtUXl0NWRjX1NyV0Y5bE9mVmcwSU1NcUFuOENidE1FcGt6RGQyUWFSODgtY2pxT213RG9aWFNydlNaNklSY1VENTNZVEk4bFpHZTVHRm1vNS00T2EzX0xyeFNrV21JMnNUZw?oc=5",
+   "pub": "Tue, 17 Nov 2026 05:58:36 GMT",
+   "engine": "gnews",
+   "query": "김장 체험 가족 참가자 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "진도군, 1박 2일 여행지원금 최대 55만 원… ‘진도나,가게’ 참가자 모집 - 영남신문",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kRE9VRmJaQ3ZrNjdrVmxVNXhPaFFEeGlMbFVZY1Y3SWQ5NlpqdnZIUkdNYzJibVh6MFdqRjdvcDZCVWNlVXhTQVNSaUZNQ3Z0TloydXhNNWc3N3lVaHQ0VkFQWm9EUXhHdDhTbzR3?oc=5",
+   "pub": "Wed, 18 Nov 2026 11:41:40 GMT",
+   "engine": "gnews",
+   "query": "김장 체험 가족 참가자 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "연말연시 가족과 함께하는 국악 나들이 - 광주타임즈",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rVlNVZDZyanFLbmhBMXdzOEVqWG1qdG5lMkl4TDZnOWNkdEpMSzNnOUVSZ0FYS2Z0N2JKMEpObUpIeTdybEdFekpTNGxwd3FQYS1jaWRiNFoxMnFMbWRIdFJtYzdpeUpwNFE?oc=5",
+   "pub": "Wed, 18 Nov 2026 08:29:58 GMT",
+   "engine": "gnews",
+   "query": "김장 체험 가족 참가자 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "청도신화랑풍류마을에서 특별한 겨울 가족캠프 열린다! - 세계로컬타임즈",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOWmc2Mk53cXdlNnNSWmpRM3VJMEJLY0VaRUNFUmRqbGs3RVdoN0xvVlk1RnFEVFlfR0d2TnBtQXRsY0ZsQzR2b2xsN0NnZEwyeGhIa213cnJQMnRoanfSAV5BVV95cUxQTlpnNjJOd3F3ZTZzUlpqUTN1STBCS2NFWkVDRVJkamxrN0VXaDdMb1ZZNUZxRFRZX0dHdk5wbUF0bGNGbEM0dm9sbDdDZ2RMMnhoSGttd3JyUDJ0aGp3?oc=5",
+   "pub": "Tue, 17 Nov 2026 09:20:45 GMT",
+   "engine": "gnews",
+   "query": "김장 체험 가족 참가자 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "구리시청소년수련관, '미리(하는) 메리 크리스마스' 참가자 모집… 만들기 체험·간식 마련 - 타임뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41UXNpSmVBU0VZYU1FNkpNOEZmU0doSmNlX2RjaUFvanBBNHRHcDY2UFUxZkE2Z1RhTnI5NEZPUk93NDl6MVJ6cFBfZTBTbk9MLWVNNg?oc=5",
+   "pub": "Mon, 16 Nov 2026 04:32:01 GMT",
+   "engine": "gnews",
+   "query": "김장 체험 가족 참가자 모집",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "부산해운대도서관, 크리스마스 문화 체험 프로그램 운영 - 미디어투데이",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjZmp6RHV2YXhnTUx1RVZ0LXpzdmQ3dDNvcENGUjEyV1BBZmNfOEJsNEVnb2Z5Ri1vWjhibktEOGhGYzdQM3UzYTJB?oc=5",
+   "pub": "Mon, 16 Nov 2026 23:16:00 GMT",
+   "engine": "gnews",
+   "query": "대전 동구 통합예약 어린이 체험",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "상주시육아종합지원센터, 가족 뮤지컬 개최…영유아·아동 가족 1500명 관람 - 국제뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85NWN3bFBGbzZURkRKLVNCZzA0Vy0tUVRyOGNYNUJxVGdQSkNzN3RDLTdBcEpKNzlkTVdHVGVhY0hCVjNoV2xvWnZnVE04THhjNEwwbXFpMVlEc0huMjR6amdVdlYzZ2o2NlJDNVR3?oc=5",
+   "pub": "Tue, 17 Nov 2026 08:45:58 GMT",
+   "engine": "gnews",
+   "query": "대전아이 육아종합지원센터 가족 체험 접수",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "뮤지컬 ‘베베핀, 두근두근 새친구’ - 데일리대구경북뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4UVBRaUxGenZfZVBSQVgxTEF4YkJ2TmdYaXg4MUpoQTlIUkgxTVQtX194TExob2tEYzR0QVhpT0hpSDhmMUlkQ19qNGNIQm9YTEtXS0RlaUhUYkxITmtYSkluRjdIQQ?oc=5",
+   "pub": "Tue, 17 Nov 2026 06:47:20 GMT",
+   "engine": "gnews",
+   "query": "대전아이 육아종합지원센터 가족 체험 접수",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "아이에게는 놀이공간, 부모에게는 육아 쉼터…인천에 376억 규모 육아복합공간 들어선다 - 베이비뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MQ3N2LVlab2RfQ0NfRDhjR0ZSNWQwRnR6RFFIdVEtTldmajJqdVBRVHFzdzdhRVdsdEZHOVI0bEdLaDVURGo3R2VPTzF3bzVDUzdQekFYTWRTd0dQMTZZeTc4M01SU1ByTTM5bQ?oc=5",
+   "pub": "Thu, 12 Nov 2026 03:34:52 GMT",
+   "engine": "gnews",
+   "query": "대전아이 육아종합지원센터 가족 체험 접수",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "추미애표 아이 행복 프로젝트...경기도청 품에 첨단 놀이터 들어섰다 - 아주경제",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLaDl2NXUwMUQ2Zkx2YkFReFN2bU94djRsVzd3N3h4MEQtNjZOSHRVVkVTYkNrQVZqOEFlVDZLR2x4aXVXY0k3azROazFweVZNTEhyN3FqU3DSAVhBVV95cUxQS2g5djV1MDFENmZMdmJBUXhTdm1PeHY0bFc3dzd4eDBELTY2Tkh0VVZFU2JDa0FWajhBZVQ2S0dseGl1V2NJN2s0TmsxcHlWTUxIcjdxalNw?oc=5",
+   "pub": "Wed, 18 Nov 2026 08:35:40 GMT",
+   "engine": "gnews",
+   "query": "대전아이 육아종합지원센터 가족 체험 접수",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
+  {
+   "title": "경기도의회 이오수 의원, 경기융합타운 ‘맘대로 A+ 놀이터’ 개소 축하...“아이 키우기 좋은 광교 조성” - 누리일보",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sSlVxOE5yNjVRQzdSTjdCMktCSkktX05KZ1d5UExPRUlYSDl4cVFlQ1NRWkV4NU9SV0diaHVTUzFrVnZvUk1PbHFnZVpXNVk5ZkhRZl9IUkNrRGN0?oc=5",
+   "pub": "Wed, 18 Nov 2026 10:10:27 GMT",
+   "engine": "gnews",
+   "query": "대전아이 육아종합지원센터 가족 체험 접수",
+   "first_seen": "2026-11-19T07:21:22+09:00"
+  },
   {
    "title": "‘우리가족 자원순환 페스티벌’ 성료 - www.briefingcc.com",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02Q0JyZkl3ZHl3a0d0YlhuS3pKZ2ZyWHFpQm9VWlBFV3JqTFp3RGJiRWlEZlZFS09hUzJKc2FWQVBYZWtjWnpBa1NCRDBoZVluZ0hQUzVnc1ZhMlFGR3lobzlhVEtjOXQ1ZEZCUQ?oc=5",
@@ -3208,1315 +4142,10 @@
    "engine": "gnews",
    "query": "김장 체험 가족 참가자 모집",
    "first_seen": "2026-11-13T00:07:47+09:00"
-  },
-  {
-   "title": "대전서부소방서, 11월11일 ‘패밀리 데이’ 운영 - 경찰뉴스24",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsZEVCZUpVV21OdFk0a0h3YlA5enNCUlc0S1c5TWlndEF6WHpXSF9ZdzVzc0s4dUtOZXJjVVM1QmlkSF83ZU10TWVtVmhHVlRiU3RUTTVuXzFTT3g0RmNER0czZVI1Q2pZZXNsZHRYOGc?oc=5",
-   "pub": "Wed, 11 Nov 2026 13:21:49 GMT",
-   "engine": "gnews",
-   "query": "대전 아빠 자녀 체험",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "대전서부소방서, 11월11일 ‘패밀리 데이’ 운영 - 일간투데이",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95QmFEWENXcldRcGkzNElLQVZpZER0VzYyTlNQa2ZjMWEtTlVRVVlZb0p6U3RZcW9FZnJHaTNqZ0drbU9XdGxPYnQ4XzBIRU96T1FYT2EtVWtOR3ZDbkxwdHJ4TDFBdDhGZklz?oc=5",
-   "pub": "Wed, 11 Nov 2026 11:44:00 GMT",
-   "engine": "gnews",
-   "query": "대전 아빠 자녀 체험",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "대전서부소방서, 직원 자녀와 11월 11일 소방 체험 - 한국사회복지저널",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZYkQ5djF4TDBvQ3FMc1d4LURKckNIVThIQlZoLXlPcjBaMUJ4dGVSdURDeUVXRlBpTUQ1SXl2SDRYbGFxRWkzZDBjVXdTWGFlbER6QnY1d0R1ZHliV2FUN2NVa0JJeVRoS1RWRg?oc=5",
-   "pub": "Wed, 11 Nov 2026 10:37:32 GMT",
-   "engine": "gnews",
-   "query": "대전 아빠 참여 프로그램",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "예산군 고덕면, 다양한 가족 함께 참여해 예산사과체험 즐겨 - 충남일보",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBic2x6X2o5dXBhZVJnUHVpenk2TWxVWXRRcFEzWjd0b1RMV0o2ci1MeVVxS3lZN1MzVjd3U0Fxbm50ajZkb0JUbk51WmZnYjM0QzdJR0ZRRkRyS3MxQlpCMHpXZTJqR1d6eU0xUklveVZ2Y2M?oc=5",
-   "pub": "Sun, 08 Nov 2026 08:00:00 GMT",
-   "engine": "gnews",
-   "query": "대전 서구 가족 체험",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "대전 중구, '중구통 들고 원도심 탐방'... 제4기 서포터즈 팸투어 - 뉴스워커",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kSGZYUnFPZm85UERpR3lQdE5aNkFYUG9jc3Vha3J2WGVkQnNzc3RsVVFnclQ2YlpSOHZGQTNZNGlVTHlrNlpmVXVXNHVpbVQ3S19DSDQwWVIyVzBTcWYwb0JCb2QtUmdNMWtIQ3RHVE_SAXRBVV95cUxPTFNfRlFyeFpaWTBWZDlCZ1NFWExPRmthZkhPTzR2eFVMSld3NmVZSnBmV1VjZDl2bDRtS2FXMWZqUWtnMmJBaE1BbWxNYVJObk5vWUJCdzhHR3h6SGlGdmVnSGtiaGlyTjRLV05WdDJGY1Faeg?oc=5",
-   "pub": "Wed, 11 Nov 2026 10:05:00 GMT",
-   "engine": "gnews",
-   "query": "대전 중구 가족 체험",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "김해시산림조합, 소방대원 가족에 목재문화 체험…산불 피해목도 재활용 - 농수축산신문",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xMnhTTGJ2NFZ2VWFPcXFRS0Rsb1NGLXRENTFqUFh3LXNrcVYzb0ppeWhmUHhrbnZjSmVFN0FyNDI5Q0hBaWtFcEc1Nk4ybHVReGpkNzRzSHhseGktQm5la1EyU3VDZUpDMzVlcA?oc=5",
-   "pub": "Wed, 11 Nov 2026 01:13:44 GMT",
-   "engine": "gnews",
-   "query": "대전 목공 체험 가족",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "국내 최초 세계태양광총회, 대전에서 막 올린다 - 미래세종일보",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFeUJBTkNuNGtSRzIyOFhHNWpXbEJyY21RYzh2LUxBWDJtMEFDb2s5OFVVeHRadXUxS3N5WEFTRnFNcXZ6TVJaaE1IYmx6M0VGdkR2cWc3LS1zSUxnN0dr?oc=5",
-   "pub": "Wed, 11 Nov 2026 04:27:42 GMT",
-   "engine": "gnews",
-   "query": "대전 과학 체험 가족 신청",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "2026 누들대전 축제…오감만족 가득한 체험 프로그램 - 대전일보",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83R0gzUm5FV0RkYUF6Q2RBU2kzOGtoRXhZOVBMUjRFMDU1LThCWGFYd1VSR2x4VzIyZm5wamppZGtqdkxneEQzZUxVOThkMDMySUxwSEpXYVdsMDFYTTFpWkgxY3BPYS1ndTRUVzRYWFlzYTDSAXNBVV95cUxPN0dIM1JuRVdEZGFBekNkQVNpMzhraEV4WTlQTFI0RTA1NS04QlhhWHdVUkdseFcyMmZucGpqaWRranZMZ3hEM2VMVTk4ZDAzMklMcEhKV2FXbDAxWE0xaVpIMWNwT2EtZ3U0VFc0WFhZc2Ew?oc=5",
-   "pub": "Wed, 11 Nov 2026 10:59:51 GMT",
-   "engine": "gnews",
-   "query": "대전 어린이 체험 접수",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "이끌었다. '대전 예수'라는 별명까지 얻었다. 이후 한화는 물론 메이저리그 여러 팀의 러브콜을 받은 와이스는 휴스턴 애스트로스와 1년 260만 달러 계약을 맺고 미국으로 돌아갔다. 그러나 기대에 못 미쳤다. 올 시즌 휴스턴에서 9경기에 나와 0승3패 평균자책 7.62...",
-   "url": "http://v.daum.net/v/20261111203039718",
-   "engine": "daum_news",
-   "query": "대전아이 캠프",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "대전 중구, 주민이 주인공 되는 「2026 중구 주민자치 페스티벌」 개최 - 미디어대전",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJbjlIZWFlMzR4dXFaZ0FZZnNraDJSME1xUjRTMGI5cG1neDhsd3NPMTNRS3RmVGtaYUN0Yl9zY2M3eVJkR2hGaWsxblZYU1hVYzJ2TXAwTjJ3cFNqVVJwZF9WVExMQQ?oc=5",
-   "pub": "Sun, 08 Nov 2026 09:46:30 GMT",
-   "engine": "gnews",
-   "query": "대전 돌봄 페스티벌",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "대전 서구, 주민 목소리 담긴 내년 통합돌봄 밑그림 그려 - 더뉴스코리아",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE82SE1BZTB1QXpLT1Z0RkJWeDU5ajRPMi02M2RUMjFVZnZSTTdwTFpDZkFQTmlFZDZKei12MGItRkdVU1FPYUxOZnNn?oc=5",
-   "pub": "Wed, 11 Nov 2026 00:45:00 GMT",
-   "engine": "gnews",
-   "query": "대전 돌봄 페스티벌",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "원)다. 2028년 구단 옵션은 400만 달러(53억 원)이며 성적에 따라 최대 550만 달러(약 73억 원)까지 올라갈 수 있다. 와이스에게는 한화를 비롯한 KBO리그 복귀 가능성뿐 아니라 약 6개 메이저리그 구단의 관심이 있었던 것으로 알려졌다. 결국 선택은 미국 잔류였다...",
-   "url": "http://v.daum.net/v/20261111203239759",
-   "engine": "daum_news",
-   "query": "다키움",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "“고점 대비 44% 폭락, 지금 팔아도 실익 적다”…키움證 “반도체주 반등 주목” - 디지털데일리",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92UzZQSHkxbXNFYThOZVUtbGY3TE41TG9KSURnQl9pdHF6V2J2Q1l5YVN4c0xhZ3poU3Z3a1p0NEp5SkJkNkhqekZiYWJnR01MOWdPY19qekhCWnQxLXhZUzBB?oc=5",
-   "pub": "Tue, 10 Nov 2026 04:24:27 GMT",
-   "engine": "gnews",
-   "query": "다키움",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "남해군, 아이·부모 소통 문화공간 문 연다 - 경남매일",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjUXhMai1CdE5FRm0xY0ZkalZmTkUtNm5SS1BaRmFDSHNRM1JnMTRQTDc2UGhraVd0elhYTjBYdjJRWm11VUdaYVQ5NDFaUkVjWk9Kb0lhZU1xUTRQYVMzN1VZdElaekdKMVE?oc=5",
-   "pub": "Sun, 08 Nov 2026 12:19:42 GMT",
-   "engine": "gnews",
-   "query": "다키움",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "기자입니다. [리포트] 진안군이 오는 14일부터 이틀간 로컬푸드직매장 일원에서 진안고원 김치보쌈축제를 개최합니다. 사전예약 김장체험은 4백20가구의 신청이 조기 마감됐으며, 진안 흑돼지 보쌈과 천 원 막걸리 등 다양한 먹거리도 선보입니다. 어린이 놀이터와...",
-   "url": "http://v.daum.net/v/20261111203637879",
-   "engine": "daum_news",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "‘RED하게 세상을 버무리다’… '2026 괴산김장축제', 약 17만명 찾아 성황리 폐막 - 괴산타임즈",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJdWJQVTRNV0I2TVNVT2xxWXh3Q3ltODUwZmdST0NQMWxDc1Z0NlZVTkVmZDk1V3hxY0NLbTRRTFl6UkJCSkVHY01HSllqeEFDMlZISDBwd0MzaVhHc250Y3QxbGZ5TU1Db2l6Qw?oc=5",
-   "pub": "Mon, 09 Nov 2026 06:08:47 GMT",
-   "engine": "gnews",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "평창 클래식 김장축제 11월 12~22일 개최…고랭지 배추·클래식의 만남 - 국제뉴스",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fclJEeXQ1Nnc0a0UzRGppUTdaXzIxR20xYUpVeHJCZzhPQVFUMUI1R00tc0Q4eXpkem00MG5Pc0lYMVg3M3UtY2dPZXBJOEZ0UExsT1lYbnE5c2V4TnBMQ2xDUEdzeXBzVTBUcHln?oc=5",
-   "pub": "Wed, 11 Nov 2026 11:54:33 GMT",
-   "engine": "gnews",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "\"담그고, 배운다\"… 세종시, '김장 나눔·교육축제'로 온기 훈훈 - 충청뉴스",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tM0g5a0tyYm1mSVFYRHNmRGs1d19pbHUxOXl2TEpkQVJneUIwaE1ueWIzQURJN3Z0angxMm1xQ0pZNnQxMG50N2VMUmpqZWd6NnB1REFVallueWh1NXV3dHZrYjVoUXVSUVdPUg?oc=5",
-   "pub": "Sun, 08 Nov 2026 10:13:53 GMT",
-   "engine": "gnews",
-   "query": "남세종종합청소년센터 가족",
-   "first_seen": "2026-11-11T23:06:00+09:00"
-  },
-  {
-   "title": "\"오늘은 나도 소방관\"…대전서부소방서, 직원 자녀 초청 체험행사 - 뉴스핌",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2cmRZWi1UNUlDSGh3RlpnX1FMZnJhUTBIWnhhZEhLMVFwWWRiVjQ3V21Sdlo4c3h0d1VlRnEtV1E5SUQzekt4U0p6QkNaY3c4aktwbE5KVnVKLVdQ?oc=5",
-   "pub": "Wed, 11 Nov 2026 08:48:00 GMT",
-   "engine": "gnews",
-   "query": "대전 아빠 자녀 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전서부소방서, 직원 자녀·보호자 대상 '패밀리 데이' 행사 펼쳐 - 충남일보",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10UWY0Ri1JekRqR05Bb2wyQlhWcWt1Y2lnZE4xSWJvSjlicDVpU1dGaGNfOTVLUlpYWC03Z3pCYnJpVTk3N1ZyT0ZLcFhoU1BmVXo5R2ZjZ3lURnRwYkhoWlRqeURJNFlNc0NlQ3BNOTZnaEU?oc=5",
-   "pub": "Wed, 11 Nov 2026 08:17:55 GMT",
-   "engine": "gnews",
-   "query": "대전 아빠 자녀 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전서부소방서, 직원 자녀 초청 ‘패밀리 데이’ 개최 - 충청매일",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GOWJhamNWV215aXIxMVlUM0tFaTEwOWlvY1l1SlhDR29meDB0elZ5bzRlazBMQklST2tLM2dRcktwdzJleUJ3alNjVWFQR0xDYmt6anJnYW1ILU1jbkdqUjhoZS1VczFpUEE?oc=5",
-   "pub": "Wed, 11 Nov 2026 08:40:10 GMT",
-   "engine": "gnews",
-   "query": "대전 아빠 자녀 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전서부소방서, 11월11일‘패밀리 데이’운영 - 코리아타임뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLMUJCU1R0MG9NeUNzUElyd1hIM3lwSmtxcWxhSzhWcmxlQ1N6bUhHVmRJWEdsNlhSZjl3U1BGSjJxeUd1ZU14T0FJdExPYkVsbjlyMUF5T0ZPUHZwV2lGME9FWVNneXQ1UWc?oc=5",
-   "pub": "Wed, 11 Nov 2026 10:10:10 GMT",
-   "engine": "gnews",
-   "query": "대전 아빠 자녀 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "서부소방서 직원 자녀 초청 ‘패밀리 데이’ 개최 - 금강일보",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aa2JGai1RaXJlRUFyQUlKUnVneHBEQmVGdll3NUllekc4WXlnSDBCanIwYjBvNUlPd0VMLTRGOHM3Z09RRTNKT29kakVPb3duYXhOekVMV1hyLV95RUQtZGIwbG1jRk1FZkE?oc=5",
-   "pub": "Wed, 11 Nov 2026 09:39:32 GMT",
-   "engine": "gnews",
-   "query": "대전 아빠 자녀 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "태양광 분야 최대 국제학술행사 '2026 WCPEC-9' 대전서 개최 - 머니투데이 - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91Q2RldVV4cHZwYlFlMkRHVURhb00xQ2FyYVlXN2xzNVcteFZ4ODJMemxGcFFQLWgyX3JLSWlHSWJ4bzE4WjBxRENEeDYtdHlrdy1BZ3Y2MFhtZTExbVBiWDU1dEh1eFlScWpkUkdUTdIBb0FVX3lxTE91Q2RldVV4cHZwYlFlMkRHVURhb00xQ2FyYVlXN2xzNVcteFZ4ODJMemxGcFFQLWgyX3JLSWlHSWJ4bzE4WjBxRENEeDYtdHlrdy1BZ3Y2MFhtZTExbVBiWDU1dEh1eFlScWpkUkdUTQ?oc=5",
-   "pub": "Wed, 11 Nov 2026 04:07:49 GMT",
-   "engine": "gnews",
-   "query": "대전 아빠 참여 프로그램",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "세계 태양광 전문가, 대전에 모인다 - 충청헤럴드",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EOW8yYjBGYk5SSlhvQ05EQVdHdHgwaWlxdTlMSHJ4QlVDS3lwVTNYczNtLW9qZGt3RHE5bWNiOHBrUlVqdHZ1QlFhWXYtdnA5bFVWZTV5ZThyckhIR0I1bmlZcC1qbENU?oc=5",
-   "pub": "Wed, 11 Nov 2026 05:39:32 GMT",
-   "engine": "gnews",
-   "query": "대전 아빠 참여 프로그램",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "국내 첫 세계태양광총회 15일 대전서 개막…미래 에너지 등 선봬 - 뉴스1",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0eENpNjNaRHA1X3JyTzhnRUs0Qm5vQ2RJVWhfZXNGLWZWVE1jZEdGOWJCNDBINmtTZDlvamRWZVc3RFVKdGdEZi1MVlZwaTRYN1locnk4QVVQb3dCbEtNQw?oc=5",
-   "pub": "Tue, 10 Nov 2026 23:21:36 GMT",
-   "engine": "gnews",
-   "query": "대전 아빠 참여 프로그램",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전서부소방서, 직원 자녀와 11월 11일 소방 체험 - 한국사회복지저널",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UMkF4VElSa21EcGxFdW9ROTU0T3VKSFZrcXF4ZndaQlVRTmh3UUVxSlpHazh6RU8zczcxNVp3ZVZUR2x2ekVZU2x2OWZSdTA5TFdFSlFYSUxRblZ2czVFLVhyTXJMbmFJV0tN?oc=5",
-   "pub": "Wed, 11 Nov 2026 10:37:32 GMT",
-   "engine": "gnews",
-   "query": "대전 아빠 참여 프로그램",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전별서서 가족과 함께 고추장 담그기...21일 무료 체험 - 위키트리",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OSlNTUUZZNHY0SGhMaUZGakE4VmtpN1paakcwM0Q4bGgyX1g4N0REUWpZYzE2VFBoRjFxQ09RRlpvbk9Rd1JiX2NQR3JtTXVFZTF6M3ln?oc=5",
-   "pub": "Wed, 11 Nov 2026 05:00:00 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 체험 선착순",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전별서, 가족과 함께하는 ‘즉석고추장 담그기’ 체험 참가자 모집 - 충청매일",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OekNGcEoxWEtXVnV1WHpSMXlQeWVoM2JlY2JtZGtESlhlUXI3Q25vSXo0Z0NCN0JuZ203MDMtd2pWREtrUU9OdWliMlhrTXpoNFdRZ1lNdG4yR3RqOVJQcTZBUlhMUHhzVmc?oc=5",
-   "pub": "Wed, 11 Nov 2026 05:55:03 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 체험 선착순",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "전통고추장 만들고 떡볶이까지 체험… 전액 무료 진행 - 중부매일",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WRFhSRFVzbUxLajFsbXBoYjNka00tQkFSdjdSSXpXeTVqeXZsdk8tWWNqOE9BTktFTkFxUE5waV85TEdqYU1ZbGYxdnQ1UU9kOVNtdzRlZGRQZzZJcTcwdndpVllvMTBjZ1ZiWmtn0gFuQVVfeXFMT1ZEWFJEVXNtTEtqMWxtcGhiM2RrTS1CQVJ2N1JJeld5NWp5dmx2Ty1ZY2o4T0FOS0VOQXFQTnBpXzlMR2phTVlsZjF2dDVRT2Q5U213NGVkZFBnNklxNzB2d2lWWW8xMGNnVmJaa2c?oc=5",
-   "pub": "Wed, 11 Nov 2026 03:33:35 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 체험 선착순",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전문화재단, 가족과 함께하는 전통 고추장 만들기…참여자 선착순 모집 - 뉴스충청인",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5yV3ZWbTZIckxHTDg5M25RekM0TlR2c0pMN0EwdVBWd3pXZ1BxMnYtWFYtdGRoMkptaGNSbG92aXZEWktKR2c?oc=5",
-   "pub": "Wed, 11 Nov 2026 00:59:15 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 체험 선착순",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "울주군, '평생학습도시 선정 20주년' 평생학습체험대전 - 연합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9adDIxTE9CRm8yZUZwQ05EVGx0bDJMY2FLQXNYcTZDcDZmZ3MzcWMtaFpmLTJrYmNfWndla0F2Yi1MUUowclpKTTI4YmFYcWdvMS1uUjJQWGJvN1JRN3dURNIBYEFVX3lxTE9adDIxTE9CRm8yZUZwQ05EVGx0bDJMY2FLQXNYcTZDcDZmZ3MzcWMtaFpmLTJrYmNfWndla0F2Yi1MUUowclpKTTI4YmFYcWdvMS1uUjJQWGJvN1JRN3dURA?oc=5",
-   "pub": "Wed, 11 Nov 2026 01:14:01 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 체험 선착순",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전별서, '즉석고추장 만들기' 체험 운영 - 충남일보",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqYlBFdXN5QnNzMko3dEhYSmhFOXdMeGJWbjJfdUZqMHlDTzJaWWRuUFBNVUM0ckhGOVhjYzlPMVd0aDFFdlphY0ttaVNHbFIza2ZLbndGWmxWSDkwOFRROFJFbzFaMWxPUWMxQUktczh3bTA?oc=5",
-   "pub": "Wed, 11 Nov 2026 05:28:41 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 체험 선착순",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전별서, 고추장 담그고 떡볶이 만드는 가족체험…21일 무료 운영 - 타임뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1OWZrc3dhdGxJRXVYQkp0WmdpWkJDQWFvalMtTVhiZVRDSS1xU0RvVk1Lem9VRjRJVE50UmhfNy1CWE5jUzhhTVQ4VnNDcGtjanUwNw?oc=5",
-   "pub": "Wed, 11 Nov 2026 00:57:19 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 체험 선착순",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전별서, 가족 대상 즉석고추장 담그기 체험 참가자 모집 - 아이뉴스24",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNUlUtNXZ4ckhoRjIwQk1HYjUyU1BDLWd0VDE3QUh0eXRFOGZaTzhaM2pKVUROYXZ3QS1tbmZtdEliOVBUZkY2Z0ZsWGc?oc=5",
-   "pub": "Wed, 11 Nov 2026 01:03:52 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 체험 선착순",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "울산 울주군, ‘2026 지속가능발전 평생학습체험대전’ 개최 - 울산종합일보",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vS2Zad3ZNZzZPdTlDREUtUFF0MngyQnRUdmdXOXBrNHpFaHVDbU01Wk9kZEYwQm5FWTcwSEZYVC1zOGdjcl9qWWd6LWo0dmxTMFZqdXlvRTQxVWNMU09hREhTSWhjanZCVHgzOVVn?oc=5",
-   "pub": "Wed, 11 Nov 2026 04:08:35 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 체험 선착순",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전별서 앞 마당서 즉석 고추장 담가 보는 행사 진행 - 대전시티저널",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnMjE1VzJlRlo2SVE3UnRfVzVLSzZ2Y3luMGI0M1RfZTJLdEM5UnRrQUtCTmt2ZjFRcVl3V1NOZHNlSlB4NkpjTDFfU2VLZWJrZFR4SXBXWlVOWnUybjVHQ2k5d0E?oc=5",
-   "pub": "Wed, 11 Nov 2026 09:02:38 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 체험 선착순",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전문화재단, 주말가족 시범프로그램 참여자 모집 - 금강일보",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wbzk5OHFzemV4QWhIX1pHc3FBOG5CUUpPdVdHblBmdnpfSVVDc2lFLXJrNGFVdlN0bGtUQ2pwbDVFUU9sdzZpZ1ZxcncyNHFic05fQWRWbW0zN1YyUzNQVTJia250dHZoQ0E?oc=5",
-   "pub": "Wed, 11 Nov 2026 09:28:41 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 체험 선착순",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "‘K-FOOD 기본양념 만들기’ 참여자 모집 - www.briefingcc.com",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqbVRFdHE3RU11eHFSMENIbWNtbmhlUmdTM3ZfNDdRRnRjMDFsbEhRV1FhRDBBV2hZREtaRWdWYzN3ejNrY1RlU3kycmhxejR0MFl3ODhfTEJNZlU5VVBuLWhKOGtreUt5cEZ0Ng?oc=5",
-   "pub": "Wed, 11 Nov 2026 07:35:02 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 체험 선착순",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "의 지원으로 환자 맞춤형 운동 프로그램이 진행된다. 이어 치유상담대학원대학교 박선영 교수의 춤 테라피와 통기타 공연, 윷놀이 등...연대 제공 한국파킨슨희망연대는 환자와 가족, 자원봉사자들이 참가자 모집부터 일정 기획, 안전 대책 마련까지 직접 맡아 행사...",
-   "url": "http://v.daum.net/v/20261111174943377",
-   "engine": "daum_news",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "▲ 대전문화재단 제공 [충청타임즈] 대전문화재단이 '대전별서'의 주말 가족 시범프로그램 <고추장 담그기> 참여자를 모집한다. 오는 21일 유교전통의례관 대전별서에서 열리는 이 프로그램은 전통 고추장을 즉석에서 담궈 떡볶이를 만들어 보는 체험형으로 운영된다...",
-   "url": "http://v.daum.net/v/20261111123405650",
-   "engine": "daum_news",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전교통공사, 수능 앞둔 직원자녀 56명에 응원 격려품 전달 - 매일일보",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JRDVLOHBaWGtHRlRFSk9JQUh6WmpqZG5FdHBxZHlLODRLaWYybE43ZmZRd1IxbDZabUZjTlY3T05zVDByaTBUWERyNDBPUUg5c2VEalJjM1FnMmplSEFQTTAxc0k?oc=5",
-   "pub": "Wed, 11 Nov 2026 04:07:48 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "창원시립마산문신미술관, 가족 예술감상 프로그램 참가자 모집 - 웹이코노미",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUXzFhSmk2djFubDlpSHpVUXZ2REdVd0FGYnFjSlYtNU9qcVdTRDE1ckZWVjZ0eTcwVUY2T0FEbS03OWlaUEc4WEYyZnVWN19qOXozZF9qcWtQSWYtWk40OXYwLVc2aWpBU0l1cHA0clNHQQ?oc=5",
-   "pub": "Wed, 11 Nov 2026 02:54:56 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전 유성구, 치매어르신·가족과 가을 음악회 - 뉴스티앤티",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lOVBNMzRpcGpvQ25jcXV4akNROExXWjNBWlFtdlNtWkJjOUFJN21NcGw0dzM0Ri1iNE5NcmFKZ3FTZklWMHVMYS1aZHpBaGRNSi1EeTFWTGFKazNVa1BtZ1NSaHhmNHVMWHc?oc=5",
-   "pub": "Wed, 11 Nov 2026 04:35:00 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전서구가족센터는 지난 10월 23일 대전월드컵경기장에서 대전 거주 초등학생 이상 자녀와 부모를 대상으로 '대전하나시티즌과 함께...프로그램은 지역 프로스포츠 시설과 연계해 가족에게 색다른 문화체험 기회를 제공하고, 축구라는 공통의 관심사를 통해 부모와...",
-   "url": "http://v.daum.net/v/20261111093935666",
-   "engine": "daum_news",
-   "query": "대전 초등 자녀 가족 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전도마초, 공간혁신과 독서 교육이 빚어낸 ‘가족과 함께하는 독서 캠프’ 개최 - 굿뉴스365",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Fb3NhNGl0a0Riblp3dmhDTnVEZHZ5dENBU3Q0OE1QdlhWR2NKTjJ3Sk9FTDQxR0ZrRkVPMEUtWXBPOHhxY1VWX3BlSngtRDVRbmxkNGFJRlpDd1ZsdXRZcDlwWU44Z2VVdldfYVE2WTQzNWs4Q2c?oc=5",
-   "pub": "Tue, 10 Nov 2026 23:37:00 GMT",
-   "engine": "gnews",
-   "query": "대전 초등 자녀 가족 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "금천구의회 본회의장에 선 초등학생들…가족과 민주주의 체험 - 전국매일신문",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15Uzl4WGQxY0NoN0xXTlF0Zk9MYmRISm02RnJtMFBJa3NNODBxQ3JBcTZMbGpTLUdDQnlfY1N5dS1IeTNSS2hlMEVFWjVQdmlfSllRblhYcDBDZzlWN1QtbVRVRUVuam82TlFDdnlB?oc=5",
-   "pub": "Tue, 10 Nov 2026 23:26:32 GMT",
-   "engine": "gnews",
-   "query": "대전 초등 자녀 가족 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "고흥교육지원청, 다문화학생의 꿈을 넓히고 가족의 마음을 잇다 - 전남인터넷신문",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iWld4ZGQ3ZlYyTXlsZTU4MWg4S192bFZGZlJkVElZTTlNS3d1SHE5RFVxTXBBWVlFZ1A3cDA2ck16bk04eUx6VVpWTjZET3Nud2hlSmIxNA?oc=5",
-   "pub": "Mon, 09 Nov 2026 04:30:00 GMT",
-   "engine": "gnews",
-   "query": "대전 초등 자녀 가족 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전도마초, ‘가족과 함께하는 독서 캠프’ 운영 - 금강일보",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aZi0xazJjTEx5QkwwQjBqQTdnVkVCYkZGR29ZQ1lyUE5uWHExRlQ2bDhrdUYwaTRaZTF4V1dicnl3VWMtR3p3NGJmb2ZFY0IzMF80OEVOUTdyT2I1U1hmVmswdmhXdHFjUWc?oc=5",
-   "pub": "Wed, 11 Nov 2026 09:34:53 GMT",
-   "engine": "gnews",
-   "query": "대전 초등 자녀 가족 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "명예기자 제공 지난 10월 17일, 할로윈을 앞두고 자녀가 대전서구가족센터에서 진행한 「제빵사 미션 임파서블 3 – 오싹한 마들렌을...기회가 많지 않았던 만큼, 이번 활동은 관심 분야를 체험하고 할로윈 분위기까지 즐길 수 있는 뜻깊은 시간이었다. 센터 주방에...",
-   "url": "http://v.daum.net/v/20261111093948680",
-   "engine": "daum_news",
-   "query": "대전 서구 가족 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전 동구, 다자녀가정 가족사랑 걷기대회 개최…100가정 400여명 참여 - 뉴스충청인",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wUU9nWUZsQWRQeElkTmd0VlYwVFNMakNjclh2djREaXViVllDRDJoaTJaSjJhd1hBbDgyQXVPMHA3RWZKM0E?oc=5",
-   "pub": "Mon, 09 Nov 2026 10:54:48 GMT",
-   "engine": "gnews",
-   "query": "대전 서구 가족 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전 동구, 다자녀가정과 함께한 가족사랑 숲길 동행 - 경기뉴스원",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sSXhBVlVxLS1qZ2JBWXpZSk51bWN1MjdsMDY4ZG1Pa1VmMkdNRXdTWjN6bkU3NjlRU1BaaC1hOFlXVm1NcFg3VEpQbGxZOTRNOUxtYURxU1QwRE9odlZpcGx3SQ?oc=5",
-   "pub": "Mon, 09 Nov 2026 03:11:31 GMT",
-   "engine": "gnews",
-   "query": "대전 서구 가족 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전도마초, 가족과 함께하는 독서캠프 개최…책으로 소통하는 교육공동체 - 뉴스충청인",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YWk1IbEdmeFV4QkF4SnAwNDE4dk1GQ2FPbzgweDJocFJrSDl2Z0s1QVZLUEhCV21oaS1tdU92OFhCUXBhbEE?oc=5",
-   "pub": "Wed, 11 Nov 2026 01:07:19 GMT",
-   "engine": "gnews",
-   "query": "대전 서구 가족 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전 유성구, 치매가족 가을 속마음 음악회 개최…소통과 정서적 유대 강화 - 뉴스충청인",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VRmRfWDR6WkJJNDE5Y01YanVBTktFMzVkSHhzU1haNXZndzR5bGJwdmRBU1Jzcmc2dHduREZLMmt0MnNwdkE?oc=5",
-   "pub": "Wed, 11 Nov 2026 01:11:26 GMT",
-   "engine": "gnews",
-   "query": "유성구 가족 프로그램 모집",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "지난해 대전 한빛탑 광장에서 열린 '2025 누들대전 축제'에 가족 단위 관람객들의 발걸음이 북적대고 있다. 김영태 기자 면의 도시...면 요리 과정을 직접 보고, 또 맛보면서 각종 공연과 체험을 할 수 있는 축제로 한 단계 더 도약, 시민들을 맞는다. 익숙한 듯...",
-   "url": "http://v.daum.net/v/20261111194556550",
-   "engine": "daum_news",
-   "query": "대전 중구 가족 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "[나가슈 Random pick] '면발로 음미하는 늦가을' 누들대전축제 - 이슈에디코",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96dDZHNWNNbTRoTGR6ckFpYTJjZDR6VW00UGoxS25WV3YzTDNxSDZ3bTlXQm5XV3RzNVJmNEVyb3V0WnFOXzFuTmQyTWlTNlFsLXY5c1lVMGlXQ04tSzBtQjVIWXVSUQ?oc=5",
-   "pub": "Wed, 11 Nov 2026 08:02:07 GMT",
-   "engine": "gnews",
-   "query": "대전 중구 가족 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전 동구, 농업정책 개선 논의…다자녀가정 400여 명 걷기대회 - 웹이코노미",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xMVVabHdPenRPZkJnWWZoMXhSeUtpZVQ3OURfZHNwRGktZnFhNS1ULVpDRmo4dkpCVEQ0bmdlODBaUDMtMVZ3YjY2Sm15WklrLTlfN2Z2aVVXOVFZYTV3NHVmazMyM2dTb0xEYXVmZ29CUQ?oc=5",
-   "pub": "Mon, 09 Nov 2026 15:47:48 GMT",
-   "engine": "gnews",
-   "query": "대전 동구 가족 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "민주평통 대전대덕구협의회, DMZ서 평화통일 공감캠프 진행 - 충남일보",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SYWlnTlNVUVQtNTZBTEdINkJQLTRNT2NXOWxaQ2RpRklqbEhZOUgyX0NUaE5aWDYxZWlDVU93WXA0amVwd1libDh2NWxjbGVkU3o5dXdXTE5jRnk4N09sQlQzLXF3NDVGbWl0d0FuR0RlQ28?oc=5",
-   "pub": "Sun, 08 Nov 2026 08:00:00 GMT",
-   "engine": "gnews",
-   "query": "대덕구 가족 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "민주평통 대덕구협의회 ‘평화통일 공감캠프’ 성료 - 충청신문",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6VVRRR1pCUng3bTk2WTBxOFlwb2Z6dlJPc29iMUc1TWFwVkNBUmVBRXBKT0VzOEd3NVAwWHhmT0V0UFZlSzRRam9lSDhZZS10eGlYeVA1UDJYM2UzMjVkYlNBRnREaXBnYmhmX2xR0gFuQVVfeXFMUHpVVFFHWkJSeDdtOTZZMHE4WXBvZnp2Uk9zb2IxRzVNYXBWQ0FSZUFFcEpPRXM4R3c1UDBYeGZPRXRQVmVLNFFqb2VIOFllLXR4aVh5UDVQMlgzZTMyNWRiU0FGdERpcGdiaGZfbFE?oc=5",
-   "pub": "Tue, 10 Nov 2026 23:34:23 GMT",
-   "engine": "gnews",
-   "query": "대덕구 가족 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "민주평화통일자문회의 대전대덕구협의회, ‘2026 평화통일 공감캠프’ 성료 - 로컬투데이",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yMUZmb01fdC1uS2ZFODc5YU1qbkQyT3Y2NWY2eEhoTWI0N1o0LW1jd0REU2hRX19kc1RLOFZ1RWtCWGtISlpCa3RQenQyejRPWEI5czB1TG5oZDJaMGNQdEk2d3BGVlVrdU1mY19qN1Q?oc=5",
-   "pub": "Tue, 10 Nov 2026 12:34:53 GMT",
-   "engine": "gnews",
-   "query": "대덕구 가족 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "민주평통 대전대덕구협의회, '평화통일 공감캠프' 성료 - 보도자료 | 기사 - 더팩트",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yRDNScDBibHJ2WHphME12ajVVS0F0YWE4MWlvU3dNN1Nrd0lJTlRpZmNldHNwMGlVNV91VEUxdFhpTzVpbWh4ZzhaTG9ISXJJTGhCVWRRQVJ4Q09adUw0?oc=5",
-   "pub": "Tue, 10 Nov 2026 02:10:11 GMT",
-   "engine": "gnews",
-   "query": "대덕구 가족 체험",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "선보이는 자리로 에너지 토크 콘서트와 태양광 패널 조립 체험 등 가족 단위 관람객을 위한 프로그램도 운영된다. 지역 에너지산업의...허태정 시장은 \"국내 최초로 열리는 세계태양광총회는 대전의 과학기술 역량과 도시의 국제적 위상을 세계에 알릴 수 있는 뜻...",
-   "url": "http://v.daum.net/v/20261111193706335",
-   "engine": "daum_news",
-   "query": "대전 과학 체험 가족 신청",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "전시 기간 에너지 토크 콘서트와 태양광 패널 조립 체험도 마련돼 가족 단위 관람객들도 즐길 수 있다. 17일에는 대전시와 한국에너지...한전KDN와 업무협약도 체결할 예정이다. 시는 이번 총회를 통해 대전의 과학기술 역량과 에너지 전환 의지를 세계에 알릴 방침...",
-   "url": "http://v.daum.net/v/20261111135239813",
-   "engine": "daum_news",
-   "query": "대전 과학 체험 가족 신청",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "건물일체형 태양광(BIPV)과 지역 상생형 태양광 모델을 논의하고, 시와 한전KDN 간 업무협약도 체결될 예정이다. 시는 이번 총회를 통해 대전의 과학기술 역량과 에너지 전환 의지를 알리고, 시민들이 태양광과 탄소중립의 가치를 체험할 수 있도록 지원한다는 계획...",
-   "url": "http://v.daum.net/v/20261111134835600",
-   "engine": "daum_news",
-   "query": "대전 과학 체험 가족 신청",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "에서는 태양광·재생에너지 분야의 기술과 제품을 선보이며, 전시회 기간에는 에너지 토크 콘서트와 태양광 패널 조립 체험도 함께 운영돼 가족 단위 관람객도 즐길 수 있다. 허태정 대전시장은 \"국내 최초로 열리는 세계태양광총회는 대전의 과학기술 역량과 도시의...",
-   "url": "http://v.daum.net/v/20261111123411657",
-   "engine": "daum_news",
-   "query": "대전 과학 체험 가족 신청",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "충남 인구 214만 시대 열었다…대전 분리 이후 최고치 - 광역행정신문",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1qeUtjTHc5ZGQydFlpM1Y5N0VDbmlRUGFRZXhOWWtSX29yX045SnNMUVQzYTZFd1NvQ2VLb0N0dlFhVlBa?oc=5",
-   "pub": "Sat, 07 Nov 2026 22:57:00 GMT",
-   "engine": "gnews",
-   "query": "대전 천문대 가족",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "세종 어린이 교통안전교육, 실제 버스로 위기탈출 체험 - 충청타임즈",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zc2R0ZzJ3b2VTeDJrb3d0YW1lQzJObWg5UFdMWkZIVkh2SFlod3hvNjFTcE42MnVzd0lqWlR0SjVlUmhDdTRDbnJyWC10T05ndEE4RHIwR1E1WkZoS3F5UjhrWWRZbl9a?oc=5",
-   "pub": "Wed, 11 Nov 2026 03:35:00 GMT",
-   "engine": "gnews",
-   "query": "대전 어린이 체험 접수",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "2026 누들대전 축제…오감만족 가득한 체험 프로그램 - 대전일보",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OLUVvWXNyYzR6OUxUUl9NOGo4cXItQVZ1V1RoaF9PWlFmazJ5S3dHbVJ6em5fOTk2X1BuMU9DUThJZ3lvZzhVVzBQYVIwa0p3OHFOd3pFRlhvTnRZYWExMVdnbWFLZ0wzeHFzMkRnONIBc0FVX3lxTE83R0gzUm5FV0RkYUF6Q2RBU2kzOGtoRXhZOVBMUjRFMDU1LThCWGFYd1VSR2x4VzIyZm5wamppZGtqdkxneEQzZUxVOThkMDMySUxwSEpXYVdsMDFYTTFpWkgxY3BPYS1ndTRUVzRYWFlzYTA?oc=5",
-   "pub": "Wed, 11 Nov 2026 10:42:00 GMT",
-   "engine": "gnews",
-   "query": "대전 어린이 체험 접수",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "세종도시교통공사, 어린이 317명 대상 안전교육 진행 - 뉴스엔톡",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82SGxzWWRjU25TTS1oRElHYUY5bjBRWG94NW81d0QzSy1qc2NuZjEyd3RyNWNlRXBNejBDaWdXeHpoX2tfZ0xDU19TdXRIeWFIUk1wNHdjYmR1VnRiNy04bUtqNmk4MjdvZ2ZfWQ?oc=5",
-   "pub": "Wed, 11 Nov 2026 02:20:31 GMT",
-   "engine": "gnews",
-   "query": "대전 어린이 체험 접수",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "울주군, ‘평생학습도시 선정 20주년’ 평생학습체험대전 개최 - 경남도민뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xOG5WaGhMZzN5cDVzS19UdmRGM0lkSEdWbDZBdFdjR3pHSlBTYnQ0QzU1RjhHQVhJcS1SMlhaYWNwQVR1NFlCcXhmQTF5aXlBcVg3Y2FtMW9ocjNiaW9oV1I0TQ?oc=5",
-   "pub": "Wed, 11 Nov 2026 03:30:19 GMT",
-   "engine": "gnews",
-   "query": "대전 어린이 체험 접수",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "세종도시교통공사, 실제 버스로 어린이 교통안전교육…참여자 142% 증가 - 뉴스홈(newshome)",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JRDZUM0RBeXdUQ2c5ajRpLUxRcWVJYzJtZHR1cTlGU3J3OVNTanFPOE5hMFJ2UEtEeDduSkM2cXh5ODc0R214WTlFd0kySWdRRXRHV2VEYnZvcGw5RzRyQUtOQUFtTGF5RFlvT3NR?oc=5",
-   "pub": "Wed, 11 Nov 2026 01:07:06 GMT",
-   "engine": "gnews",
-   "query": "대전 어린이 체험 접수",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "세종도시교통공사, 어린이 교통안전교육 - 충청리뷰",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Mcm1jM3ZPLTk5VmhCdXo4UzE3dU9nc0psUGhySEdLcjJMZGhjcVFrZklwSVBRY1VrNDY3Zk9Ld05DeUVQYmxjeWlmMU45N3JMYTNNdlFhOGJMRktfUUZoX3dSZUpRVUlLc3NUZV9B0gFyQVVfeXFMT2ZOVnYyVDBrSkNkX2VlelItenFzWV9EMXNfUEJDSHY3djNUVWF4V0hGdEtVa2hGWTk3Uk0yR0hQTDRYS1lCb080MzZmX2xWZ1RPd1hoajVMZmVuMjFoV3F4Nk05dGIwb0hfZGhuQnZFcWNn?oc=5",
-   "pub": "Tue, 10 Nov 2026 23:51:44 GMT",
-   "engine": "gnews",
-   "query": "대전 어린이 체험 접수",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "전월산캠핑장, ‘세종의 맛’ 요리대회 열린다 - 유스연합",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5reDV3Vm5Ob0ROZWR0SGlNTER3VWtmc3M5UTY3RmxrVXN0eW5qclJuN19ONkgtRVNVMUhzSlRGOGR0MEdpOFlBX05mR25QWE9uZmRVcjNqWW1XYlJ4d1VjWTVTSC1ZSmUyVlBvc29QOU45U2xPbGc?oc=5",
-   "pub": "Sat, 07 Nov 2026 08:00:00 GMT",
-   "engine": "gnews",
-   "query": "세종 가족 체험 모집",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "주민 목소리 담긴 내년 통합돌봄 밑그림 그려 - www.briefingcc.com",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85a2VYcE1mM2hldmtTNXQ3enA4bDQ3N1N3RWo0R0VCdXJKUk1EV0N5dzFuVXJqcmx5Q204RlZqWE0wMHpYZjdBVzZVODZONFVRbWgySXZSbUJtTnhkdHhoTG9FT09SVkY0MzlYbw?oc=5",
-   "pub": "Wed, 11 Nov 2026 05:43:55 GMT",
-   "engine": "gnews",
-   "query": "대전 돌봄 페스티벌",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전 중구, 주민과 함께 통합돌봄의 내일을 그리다 - 메가충청뉴스",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fdkxNVFZ5dGM4S282U2pMLTBxVHBSVEpCUXY4eFE1YW5nZ0ctb2lnZDN5eTc5c29lM1U3SG9IOU5feEZmUTh3Y3ctTWlKOUlSd0V5SDVzTUFDUVdLOXhYTnZUNno3UlJOX0JVTA?oc=5",
-   "pub": "Wed, 11 Nov 2026 02:14:59 GMT",
-   "engine": "gnews",
-   "query": "대전 돌봄 페스티벌",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "몫이 1조3760억원이다. 미래에셋증권·NH투자증권·KB증권·키움증권·한국투자증권·IBK기업은행·KDB산업은행 7곳은 중대범죄수사청...또 다른 대형 증권사 관계자는 \"업계 공통적인 사안으로 다 억울해할 것\"이라며 \"정부에서 시장조성자 역할을 맡으라고 하여...",
-   "url": "http://v.daum.net/v/20261111161541806",
-   "engine": "daum_news",
-   "query": "다키움",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "1조6266억원을 부과하고 미래에셋증권·NH투자증권·KB증권·키움증권·한국투자증권·IBK기업은행·KDB산업은행 7곳을 중대범죄...크다. 또 다른 대형 증권사 관계자는 \"업계 공통적인 사안으로 다 억울해할 것\"이라며 \"정부에서 시장조성자 역할을 맡으라고 하여...",
-   "url": "http://v.daum.net/v/20261111143143948",
-   "engine": "daum_news",
-   "query": "다키움",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "인터뷰하고 있다./대전=김진성 기자 kkomag@mydaily.co.kr 키움은 전력이 워낙 약해 선발투수가 어지간한 호투가 아니면 승리를...아시아프로야구 챔피언십서 생애 처음으로 단다. 전준표는 “다 잘 하는 형들이고 잘하는 후배들이고 해서, 같이 있으면 잘할 수 있을...",
-   "url": "http://v.daum.net/v/20261111140556608",
-   "engine": "daum_news",
-   "query": "다키움",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "키움투자자산운용, 'KIWOOM 삼성전자&SK하이닉스채권혼합50 ETF' 11월 주당 160원 분배 - 금융계",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMMW5jamo4cDkxQWRlOEIxVGFNTm9xbC03b3V0RFphWU9XUXdOVmp0TjZ3MzgzS3JWTjU5QjBmbWxDTFBHdDNoSU9zNVlBcmE4Smp5STRyakdicWtZcXp5MEFwZTFlTWV5VFY40gFrQVVfeXFMUEwxbmNqajhwOTFBZGU4QjFUYU1Ob3FsLTdvdXREWmFZT1dRd05WanRONnczODNLclZONTlCMGZtbENMUEd0M2hJT3M1WUFyYThKanlJNHJqR2Jxa1lxenkwQXBlMWVNZXlUVjg?oc=5",
-   "pub": "Wed, 11 Nov 2026 02:24:31 GMT",
-   "engine": "gnews",
-   "query": "다키움",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "하현승과 장재영은 전력보강이라고 하기엔…‘200억원+α’ 원태인·구자욱 제외하면, 키움도 제발 FA 쇼핑 좀 - 마이데일리",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yek1ERUJMQkloX0JwOWlhOTVRWXlXSmxTQ2VBUVdaaUVkMUVIU08zUzg3bFJfR2VIekN3dlltbnlCZ0pCWjNDbXlpSG1sWHNXU3U4SkJSZGFDRFlMQ3BKdg?oc=5",
-   "pub": "Wed, 11 Nov 2026 07:00:00 GMT",
-   "engine": "gnews",
-   "query": "다키움",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "세종중앙공원 한놀이마당, 행안부 우수놀이터 선정…안전관리 우수성 인정 - 대전인터넷신문",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kT3hMbDNYZEt4NUZjc2hxQjNFQ2ZzSGRDdlFSQXZfaG5RSkFCaWMzRWtoZFVXbkc0WXhMamdlTDJRelNHNkpibDFvVzRuZw?oc=5",
-   "pub": "Wed, 11 Nov 2026 06:03:04 GMT",
-   "engine": "gnews",
-   "query": "세종 체험놀이 참가자 모집",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "황금배추로 김장하고 클래식 선율 즐긴다…평창 클래식김장축제 - 이뉴스투데이",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDZ1dEN0xfX0FRZXBZeW1tazRpaEwwak12eVp0aWhnWXd2OExYNjM5TklLa2J1MXh3RmJwU2ZGZHNRMm5UVk9JTWJwZGM2aUFMZDJvbV9USUM2X3V3QkhxZV9samJuSUlyVVFBa1NtVTRWT1pt0gF0QVVfeXFMUENnV0Q3TF9fQVFlcFl5bW1rNGloTDBqTXZ5WnRpaGdZd3Y4TFg2MzlOSUtrYnUxeHdGYnBTZkZkc1EyblRWT0lNYnBkYzZpQUxkMm9tX1RJQzZfdXdCSHFlX2xqYm5JSXJVUUFrU21VNFZPWm0?oc=5",
-   "pub": "Wed, 11 Nov 2026 06:15:52 GMT",
-   "engine": "gnews",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "세종평생교육원, 학교 밖 청소년 '흥미·적성 발견' 지원 - 뉴스핌",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hSGNPNC1EaU1JZVp5aF9PTHlkZHZmQ3lMei11TVh5Z0ljLV9CR1g0MHFCa0VXZHJ1cko0OTNWNmMyMDQxWVBxckM4TW1mcUJtME5UeG1QVzhqUHNj?oc=5",
-   "pub": "Mon, 09 Nov 2026 04:58:00 GMT",
-   "engine": "gnews",
-   "query": "세종 청소년센터 가족 프로그램 모집",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "진천군 청소년 방과후아카데미, 2027년 신입생 40명 모집 - 파이낸셜경제",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04TzQ5a09JTkM0a0p3NjhZYkFRd1ZQSlJGSDFiNFk0bHRSb29EZkVkNXF6Q2pUaHB5T19hVlRSUzBKWHNNS2N6Y2NrMVpSQ3V5bGJXRzVIajE1Mk9JR2pwLWV6ME9QT3EwTWxNMUFtNVM?oc=5",
-   "pub": "Tue, 10 Nov 2026 23:05:16 GMT",
-   "engine": "gnews",
-   "query": "세종 청소년센터 가족 프로그램 모집",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "청소년의 재능으로 채운 마을축제 - 충청일보",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VMjdxV0l2NHlXN194d01jandxdXZqRktVY3A1eXlFYWJMWjJYYWZ4YWxTZ0wxMzkxcEh3dXlJbjQtZzBkcXNZeEtMREhHNGJsWENXTnY1ZXRCQlN6SlZveXAwa2tfN0FYNmZaTHFfSWg?oc=5",
-   "pub": "Sun, 08 Nov 2026 00:57:10 GMT",
-   "engine": "gnews",
-   "query": "남세종종합청소년센터 가족",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "남세종종합청소년센터, 아고라교육마을축제 참여 - 세종시민일보",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mRjlDWk93WFdfMkhOUTFWR0pPMXVvc0JOTDFqOHk5X1ZLT2I0dmJWZXBBaTJ4Sk5oUThyaEU2cmxITFN4YWNkdnE5UVhtMDlGVGZQY1lIWjBzWmdUSF9MeDk1anNpYTIzR3FzN3A5bVBldUE?oc=5",
-   "pub": "Sun, 08 Nov 2026 13:22:46 GMT",
-   "engine": "gnews",
-   "query": "남세종종합청소년센터 가족",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "\"소방관님 고맙습니다\" 손수 만든 키링 - 세종시민일보",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zb0NZbmNvaUtsWm5hcTI0aC1jUHd1bDZ0T0FXbnVQR2d3NXZyRF83TmdqQXozckg1cTRTcndUQUtEeUZpU1JBOTRPRnlxT2FNbC15OGl0OHk4VzE3U242cWxyMFlDWjR1Z3pTTnpfV1M5MXM?oc=5",
-   "pub": "Mon, 09 Nov 2026 00:35:43 GMT",
-   "engine": "gnews",
-   "query": "남세종종합청소년센터 가족",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "대전시, 이태원참사 유가족 만나 '안전한 대전' 구축 최선 다짐 - 피디언뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiTlc0UkZ6TEs4dm5kc0dUaFhCYjY1ZXh0SU9NNUFmX2QzUDZsWEJoYjJsaWJlNFFyVFBLUzVocDExanZwZk92aVhWYU9SYXVEQmotck1sU1RCdWlN?oc=5",
-   "pub": "Mon, 09 Nov 2026 08:44:00 GMT",
-   "engine": "gnews",
-   "query": "남세종종합청소년센터 가족",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "열쇠고리에 담은 감사 제복의 삶 기록 - 충청일보",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91YW1IZkdoTWVkNHdzTUlqdjdIcG8yVG5lUF9lYkFBTktCTVBvbTRWbUhaOVJxMUNEX0dCU0NVXzNOdDRDckFId09RMDV1NXdXdmR5WHVzcTVzMWY1Mm5MajltOU5IMC00WDNhNzMyMXo?oc=5",
-   "pub": "Sun, 08 Nov 2026 23:18:58 GMT",
-   "engine": "gnews",
-   "query": "남세종종합청소년센터 가족",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "세종시자원봉사센터, 충주서 국제행사 운영 경험 공유 - 뉴스티앤티",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MUnVNVDFkaHVVdlpLajhUcVVBRlVUUEJiS2FYQi1LV3hLMkNxY3NIRzdabUJTTkpvTmYzQ0FMX29mT19vZmhGbzJ4dUNBTnk5aDk5U0prZ1FxcC1sb3JMSUFzNWVYLXhaYkE?oc=5",
-   "pub": "Tue, 10 Nov 2026 09:54:31 GMT",
-   "engine": "gnews",
-   "query": "세종 가족 봉사 체험 모집",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "진천군 청소년 방과후아카데미 신입생 40명 모집 - 충청타임즈",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwYlVQR1poYmNYTHFNSjNfaW1DZXBmNjRTc29BWEJlS29BbHF2M3JiQUZlS19ta3JuOHg3ZGp4M25BaWRiY3NNNTB0NFlsTGxnMWg0eFlKUTAxU2NZOE5nN1dvNDFHbjZp?oc=5",
-   "pub": "Wed, 11 Nov 2026 02:27:00 GMT",
-   "engine": "gnews",
-   "query": "대전 청소년수련관 가족 체험 모집",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "진천군 청소년 방과후아카데미, 2027년 신입생 40명 모집 - 충청매일",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95aUMtT3VSTmRta3gtVEFsY3BTMW41dEJYQnRTWEJlbUMyb2ZjVml1VU0xejBkaFdxcDA5N08yUlE4ZVpKWngzV1FoSkpPRmpadkFFRENMdGRwNUFZcnJvdXhPUW5hWmpvU2c?oc=5",
-   "pub": "Wed, 11 Nov 2026 06:05:06 GMT",
-   "engine": "gnews",
-   "query": "대전 청소년수련관 가족 체험 모집",
-   "first_seen": "2026-11-11T20:07:47+09:00"
-  },
-  {
-   "title": "데이터, 프로그램 기획·운영 등 전문 직무와 프로젝트 중심으로 운영하는 것이 특징이다. 2027년 1월 모집공고를 시작으로 2월 참여자를 선발하고 3월부터 인턴십을 진행할 예정이다. 공공기관에서 쌓은 경험이 실질적인 취업 경쟁력으로 연결될 수 있도록 직무...",
-   "url": "http://v.daum.net/v/20261111054128204",
-   "engine": "daum_news",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-11T06:07:52+09:00"
-  },
-  {
-   "title": "법동종합사회복지관, 대전시 대덕구와 '온 가족 런데이' 개최 - 보도자료 | 기사 - 더팩트",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xT0VXNmdPRnNTU1k5WHBfbW5wa2hYV0VFakVsc3FjWDlzQjkzOWN1SWtuMm80MWJFbG9oVEFuZ0p6SWxNczM5MHVxbGFDeVF4QUh4b2Y5NV9iUkpQREtF?oc=5",
-   "pub": "Sun, 08 Nov 2026 04:21:16 GMT",
-   "engine": "gnews",
-   "query": "대덕구 가족 체험",
-   "first_seen": "2026-11-11T06:07:52+09:00"
-  },
-  {
-   "title": "둘 다 잡는 것이 최상이지만 현실은 녹록지 않다. 삼성은 10개 구단 가운데 연봉 지출이 가장 높은 팀이다. 여기에 우승 프리미엄이 붙어 내년 연봉은 더 상승할 수밖에 없다. 원태인과 구자욱을 모두 잡을 경우 샐러리캡 상한선을 초과할 것이 불을 보듯 뻔하다...",
-   "url": "http://v.daum.net/v/20261111050506896",
-   "engine": "daum_news",
-   "query": "다키움",
-   "first_seen": "2026-11-11T06:07:52+09:00"
-  },
-  {
-   "title": "대전시교육청, 교육공무직원‘함께할래 힐링연수’실시 - 경충일보",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxOTNFZjdTZHJiRHg1NG9feEd0N0owUDA3ak9QSDA1aWkwaEw3aVVpTjA4ZHM4QTRhbVpkVUhmUnhwWDY1UVdTWGZwUGFCVFppWERza1luMmg?oc=5",
-   "pub": "Mon, 09 Nov 2026 11:01:17 GMT",
-   "engine": "gnews",
-   "query": "대전 어린이 체험 접수",
-   "first_seen": "2026-11-11T04:07:48+09:00"
-  },
-  {
-   "title": "아빠와 함께 벼 베고 단감 따고… 가을 들녘에서 키운 특별한 추억 - m.sisakoreanews.kr",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zODhEZE1wejhOc29rYURoZ245M21McXBnN3ZTSXEwOEtSa0JUMk5wb21kU2p1NmhtWVlMSHhFNnlqek1RTTdiaV9B?oc=5",
-   "pub": "Tue, 10 Nov 2026 12:15:00 GMT",
-   "engine": "gnews",
-   "query": "대전 아빠 자녀 체험",
-   "first_seen": "2026-11-11T02:07:46+09:00"
-  },
-  {
-   "title": "대전 중구새마을부녀회, 다문화가정과 함께 전통 고추장 만들기·나눔 실천 - 세종충청뉴스",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LTnlFbm5VMGZ3YmVYOHFZV0ZDSVZsVXMzZ21qUnhmS2VXalZTLXJSWTRJa0VldThpUnNnU1o2eUcyQ0t3YUJhOTM3RWF6Qm1IQ0xwSWcyZF96VFJIUklNNlhRWTJtaXFNbFdr0gFvQVVfeXFMT1JCemlfXzBvc1RGcU0weVdlMlpCVFhFNkc2YjJyS3hYVjVhTm11MFpnUWZ4TUtpODhIRzdMZVJxMzRWTE1zckN5V19QaGFhNDV3ODJuWW85cWRrdnVTejFLakplTW1FWHJoenBrc1dB?oc=5",
-   "pub": "Tue, 10 Nov 2026 10:44:36 GMT",
-   "engine": "gnews",
-   "query": "대전 중구 가족 체험",
-   "first_seen": "2026-11-11T02:07:46+09:00"
-  },
-  {
-   "title": "“함께 달려서 행복합니다” 대전 대덕구, ‘온(ON, 溫) 가족 런데이(Runday)’ 성료 - 아시아뉴스통신",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GU0hnM1VoNGczVXFBU3JYVEN2MWxFSFRsVWpJV0RHcmo3TmlMWU9yWFpZMHhCUjhhSkhRM3ZuSWJvR0txNVBOdXR1cWpTZno3TjVGZ3hzSVhGazNJLXZuYUh3?oc=5",
-   "pub": "Sun, 08 Nov 2026 06:23:19 GMT",
-   "engine": "gnews",
-   "query": "대덕구 가족 체험",
-   "first_seen": "2026-11-11T02:07:46+09:00"
-  },
-  {
-   "title": "타자 장재영'이 되어 키움 히어로즈로 돌아온다. 지난달 27일 수원 케이티위즈파크에서 연습경기를 앞두고 취재진과 만난 장재영은...좋았다. 감독님과 코치님들도 좋은 분들이고, 함께한 선수들도 다 좋은 선수들이었다\"고 했다. 이어 \"시원섭섭한 느낌이다. 기분은...",
-   "url": "http://v.daum.net/v/20261110225102157",
-   "engine": "daum_news",
-   "query": "다키움",
-   "first_seen": "2026-11-10T23:07:47+09:00"
-  },
-  {
-   "title": "‘RED하게 세상을 버무리다’… '2026 괴산김장축제', 약 17만명 찾아 성황리 폐막 - 괴산타임즈",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zSHFuMVdRNDlTMWNFNjNkWlQ0dGtOd0tIVGJ1dGx4V0w5dUh6bVhiMzFhcFM3TG1aRnJyeGhWZVZCanRrN1VGRzIwN2VaWEpsakFWSThTNmsxMkk1ZnZpYWN6Ti1wbHJxVmJFSXZB?oc=5",
-   "pub": "Mon, 09 Nov 2026 06:08:47 GMT",
-   "engine": "gnews",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-10T23:07:47+09:00"
-  },
-  {
-   "title": "김해시복지재단 청소년수련관, ‘가을밤 가족 별빛축제’ 성황리 - 파이낸셜경제",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85RlRySUZwTnhySHdYNk5Lcy1RcTh5ODkybGpUU0VWQ0dXel9GYmI5RUltWXhYWkZ4U1hmUDlJSzl3NE5DVU9HUzJvNHhveVpOSGxrb0lNUHFsZE9LbDVBbV80VnE1YmQzNVpraFFhcnA?oc=5",
-   "pub": "Tue, 10 Nov 2026 06:15:18 GMT",
-   "engine": "gnews",
-   "query": "대전 과학 체험 가족 신청",
-   "first_seen": "2026-11-10T22:07:47+09:00"
-  },
-  {
-   "title": "키움캐피탈, 부실 줄고 순익 늘고…조달비용은 변수 - IB토마토",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WajJuc2wzZV9NY1hIQ2xQVVhGR3ZIWHdxLUw1Q19Jd0dXN3QwdVp5MzZrNS0yREptWjFEWDZodDJnXzhxYXF6alIxQ1h6NV9oV3JRRTZiRDg3Z0RidXRfMGUxcktKNzF0NXc?oc=5",
-   "pub": "Tue, 10 Nov 2026 05:39:03 GMT",
-   "engine": "gnews",
-   "query": "다키움",
-   "first_seen": "2026-11-10T22:07:47+09:00"
-  },
-  {
-   "title": "“고점 대비 44% 폭락, 지금 팔아도 실익 적다”…키움證 “반도체주 반등 주목” - 디지털데일리",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IdXZQZ0JRVHdFV3pKNnQtbHhkQU9CeG0yY0tUYi02dWxYbGZpOGE0OEVQZ2Ytck5xVFlFRFRDbDZ5NXhvbjdrY2lzeUU5UlRlOGJOWk0zUlN6Yk93dTMtbHdONHY?oc=5",
-   "pub": "Tue, 10 Nov 2026 04:24:27 GMT",
-   "engine": "gnews",
-   "query": "다키움",
-   "first_seen": "2026-11-10T22:07:47+09:00"
-  },
-  {
-   "title": "산림조합, 가족이 함께하는 ‘숲 체험행사’ 개최 - 농민신문",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12bDBENUtlT19MOThDZld3elluU2JYbE5zMW9HUW94UWVPQXVORHkzUElVNi01WG5xZE9FbmoxTUduRTc3STJRYXJvSWZxbGVSTUp6Q2xNaTdhdw?oc=5",
-   "pub": "Tue, 10 Nov 2026 06:34:00 GMT",
-   "engine": "gnews",
-   "query": "김장 체험 가족 참가자 모집",
-   "first_seen": "2026-11-10T22:07:47+09:00"
-  },
-  {
-   "title": "[지역사회가 함께 극복하는 저출생위기] 6. 충북 아빠단 사업 ② - 중부매일",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZVVdhS0VRWWJqRnhNYnNuWVUzTjY4X3RkOXVaN2dJRTlESlcwby1MYnNvNjA3dmF2UHFNMkg5QTM1Qk1qc2Z1ZWY1Z3dvcXVFcWJXdzFpMHVGSjdKbmhKam1tOG9IbHMxSUHSAW5BVV95cUxQMVpWUTFFNzJMbHduV0k4XzNkODBWS0FfRmwxNGVrVzJRcFJ1UUMzQTdLQ3QwVTRvQUw4UUtDMUNuT1ZCZG1wb09fSGdXWFpYWDRNWElNcXJSMXFteUNVRDlIY0Q1YmpwUjBTTVluQQ?oc=5",
-   "pub": "Tue, 10 Nov 2026 08:53:26 GMT",
-   "engine": "gnews",
-   "query": "대전 아빠 자녀 체험",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "창원 아빠단, 가을 농촌 체험으로 자녀와 특별한 추억 쌓아 - STN SPORTS",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YLWZNRUpKTjB1TlhiRGVHcmRHYmZ4ZWJLdXFoQ09tZGtpQ21GUjJqNzJJWVA1RmNndGpzYm1qNzlkTkFfZndZX29URTF1MDhnWHFYNmlxWkhZM2RIcGZaOW5zQVZZbXNIdTk0OTRtRQ?oc=5",
-   "pub": "Tue, 10 Nov 2026 03:35:05 GMT",
-   "engine": "gnews",
-   "query": "대전 아빠 자녀 체험",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "대전 국제와인엑스포 내일까지…12개국 참여 - KBS 뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82N2JCcU1mWVRJZFNsZnpHX3c1S1Q2cnlEUzVUaWkxV3Z6UGlRMzB6RWVkSGdiSWtMaHQtYWJTSGl6R19IVllYQm5veWFoLVppRkpZYzdiME5YMHM?oc=5",
-   "pub": "Sat, 07 Nov 2026 12:55:00 GMT",
-   "engine": "gnews",
-   "query": "대전 아빠 참여 프로그램",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "1월 모집공고를 내고 2월 선발을 거쳐 3~8월 최대 6개월간 운영한다. 대전시 생활임금 기준 월 263만9670원을 지급하고 4대보험을 적용할 계획이다. 단순 사무보조를 지양하고 홍보·디자인, 인공지능(AI)·데이터 분석, 문화관광예술, 프로그램 기획·운영 등 취업...",
-   "url": "http://v.daum.net/v/20261110170311396",
-   "engine": "daum_news",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "1월 모집공고를 시작으로 2월 중 참여자를 선발하고, 3월부터 인턴십을 운영한다. 특히 기존의 단순 사무보조 중심에서 벗어나 홍보·디자인, AI·데이터, 프로그램 기획․운영 등 다양한 분야의 직무와 프로젝트를 중심으로 실질적인 업무경험을 제공할 계획이다...",
-   "url": "http://v.daum.net/v/20261110145028259",
-   "engine": "daum_news",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "1월 모집공고를 시작으로 2월 참여자를 선발하고 3월부터 인턴십을 운영한다. 기존 단순 사무보조 중심에서 벗어나 홍보·디자인, AI·데이터, 프로그램 기획·운영 등 다양한 분야의 직무와 프로젝트 중심으로 업무경험을 제공하고, 공공 분야에서 쌓은 경험이...",
-   "url": "http://v.daum.net/v/20261110131512818",
-   "engine": "daum_news",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "있도록 지원한다. 인턴십 프로그램은 내년 1월 모집공고를 시작으로 2월 참여자 선발을 거쳐 3월부터 정식 운영된다. 청년이 당사자로서 정책과 예산 결정에 직접 참여하는 대전청년의회도 출범했다. 청년의회는 2027년 시범사업 추진을 거쳐 2028년부터 주민참여...",
-   "url": "http://v.daum.net/v/20261110093003867",
-   "engine": "daum_news",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "대전 시민명예석사 도전하세요…27일까지 입학생 모집 - 타임뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IR2FDd3lxOGU0aVRPWUNIQ3QyWnJHejl4NW4tYmthaTBxdF9MaThhZ0VFWHY5YUstY1NQWG1XMEJmdDJLZVhXdlFGTUJBRGhXczFFeg?oc=5",
-   "pub": "Tue, 10 Nov 2026 02:02:04 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "대전평생교육진흥원 시민명예석사 모집 - 대전일보",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94WGpRa05zSTVRNkRwdFRROU1lRWcyWkIwbnJ5d21WLV96WHA2bDcxODA3S0pFeVVsMFBUNnliWjJ3NFB0Q2ZBcGZmeUlaTDlXZ1VTcDBvNkJBS1RndkNRY0duX2c0MWpvZGJhUHpZdlB4NmfSAXNBVV95cUxPeFhqUWtOc0k1UTZEcHRUUTlNZUVnMlpCMG5yeXdtVi1felhwNmw3MTgwN0tKRXlVbDBQVDZ5YloydzRQdENmQXBmZnlJWkw5V2dVU3AwbzZCQUtUZ3ZDUWNHbl9nNDFqb2RiYVB6WXZQeDZn?oc=5",
-   "pub": "Tue, 10 Nov 2026 07:38:39 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "대전발달장애인지원센터, 개소 10주년 성과공유대회 개최…13일까지 참가자 모집 - 한국장애인신문",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wa0k0ZWk3cTZucVlJWEluQTZzV0VPSHV3SlRUMmhPcjJEaDgyd3BNWWtPVWJBM0JYZUp3V3hRUXlMQzdhaHdUZmFUZWhTQ29jNTc0c1c4MkV6S2lBYXFhRk5aVzFYZDFRbkZxMUVVWGZyd1ZTcFRkZNIBeEFVX3lxTE9wa0k0ZWk3cTZucVlJWEluQTZzV0VPSHV3SlRUMmhPcjJEaDgyd3BNWWtPVWJBM0JYZUp3V3hRUXlMQzdhaHdUZmFUZWhTQ29jNTc0c1c4MkV6S2lBYXFhRk5aVzFYZDFRbkZxMUVVWGZyd1ZTcFRkZA?oc=5",
-   "pub": "Mon, 09 Nov 2026 07:14:58 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "대전평생교육진흥원, '2027년 제3기 대전 시민명예석사' 입학생 모집 - 보도자료 | 기사 - 더팩트",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55X1BNdHZ2TmRRR3g0bkFYNnJTajNja1FINWhqU0YwckNYdDJnQlBvQ1Zua3ZyYVBTWjlxaUNBZnRLalZHSzRITEFNLUVYWHFFSlJibXc0enhzZnZEOU1V?oc=5",
-   "pub": "Tue, 10 Nov 2026 01:38:15 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "청주시, 2027 청주독서대전 북마켓 운영 단체 모집 - 메가충청뉴스",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82TEhsbWdRUnlfMUF2UzVMT2hXalNWMjhQWjR1dW5IOWxFdDFCaV9xUHVHMGFVeHN2Z1NPX0padmFBck1HWXljVTQ0LWhLSUhlOGtORXdzdFQzeTJMMUR4M2JrT2tHOUplYU9Xeg?oc=5",
-   "pub": "Mon, 09 Nov 2026 20:11:50 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "청주시, ‘2027 청주독서대전’ 북마켓 운영 16개 단체 모집 - 충청매일",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00UThzOVl6Zjdud0RVUU9qdUJZUGFydnk0VXA0OTNQdGtSNVBjN0JhS25UcV9NcDJidURuenhzejk1MkttOHNpVW40a2pCWGlPeGxnT3pUV1djQW1OMW9sZkthTnpzcDRYQUE?oc=5",
-   "pub": "Tue, 10 Nov 2026 08:25:03 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "서산시립도서관.공립작은도서관 크리스마스 특강 수강생 모집 - 뉴스밴드",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XdGZIbzRxV3BkQ1VVWTF2YWhOTXdKQnlzZGlhUWhPTjNHbnlraThhbWhXZ1M0SEs2RGZuS1hhZUw2bkhYYVBaNkI4VjJicDVla3VZTVJfdzVvdG9HYUUwd0IyQUxSbUd2?oc=5",
-   "pub": "Tue, 10 Nov 2026 10:49:43 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "나홀로 집에? 다 같이 도서관에! 대산도서관 크리스마스 특강 수강생 모집 - 충남일보",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lQzctSGMwVEo2Z3ZlVkFkQnZ4SXBFanN4Y1Z6MkViSTVJLWp5Nk5qTHVaMnpLdTJKRGRUa1dVYjJzTEppLUZMVmg5ei0xRTRfZXgtdUlyNWt5SHRwR2NmZlJQWEFXTTBzZHBvcGhaMnZqVlE?oc=5",
-   "pub": "Sun, 08 Nov 2026 08:00:00 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "대전평생교육진흥원, 시민명예석사 3기 입학생 모집 - 뉴스티앤티",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aZDljZjNFQ3ZuUldwNkd4UTFuM2k5OXhWVEY4MmtwbllhR2ZaV2RYWWc5R0NDdkZscXNRdnQtMXZTejFYZFVfdGNmRG5UNmJ4Um1BWTgybTdWOTB4QmEtbnRoTWxaMi1XZXc?oc=5",
-   "pub": "Tue, 10 Nov 2026 02:00:14 GMT",
-   "engine": "gnews",
-   "query": "대전 가족 프로그램 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "금천구의회, 초등학생 가족과 함께하는 의회 체험 행사 개최 - 여성종합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03eWJLYmszLVN2aUc0SUZtN1lVbHE1a0F1enZxM3ZqeDVGZmpDbkw0b1A2X0oySkwxVmtubzIyUE42eEtPa3VmYVNkNWV0OW51akw3d1ppMXEwSVZKR3diejlvSlc5YVZ0UVVwX0daUQ?oc=5",
-   "pub": "Tue, 10 Nov 2026 00:59:54 GMT",
-   "engine": "gnews",
-   "query": "대전 초등 자녀 가족 체험",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "삼양그룹·양영재단, 대전 초등학생 80명과 ‘미래 과학캠프’ 진행 - 안티에이징뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yUnVqOHBNUFJ5QzhfSVZZNzZkMXhUcWpkVzVlOVE1M0FIbkE5cnFUSWFROWg5UDVHZnpfZ2tsSlkyUHRnTDBvMkhqYUpGeEFUa0JBNDVyREc?oc=5",
-   "pub": "Mon, 09 Nov 2026 07:24:26 GMT",
-   "engine": "gnews",
-   "query": "대전 초등 자녀 가족 체험",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "대전 동구, ‘다다다 문화체험 축제’ 개최… 다양한 문화로 하나 되다 - 뉴스인뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBURUdlbDBVWC1tOElDUDZkN1dFdzFaYkJfVEFCNDdHRDdzczJvSk5XdFo2SWJRWDB3NjJHU01TUkdXX294RFBJTE9vajIxRHdzNEJ3Z1R4UURHeDhMRmxFc011TGF3YlE?oc=5",
-   "pub": "Sun, 08 Nov 2026 14:04:29 GMT",
-   "engine": "gnews",
-   "query": "대전 서구 가족 체험",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "대전 서구, 300여 명 대학생 땀방울 모인 어울림한마당 성황리 종료 - 뉴스워커",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WeDQ0cmFlS09zQjFRekhqNlhWWTJ4NlRkNV9xVFc3bG80NGJIZmxzZ1JQblgtNGQ4SWNUMThFZDE4X3ZKb2xkQ2FKd0E4eFlTeTdJY05jTkUtTEZIdUJOVFJndThIU0FzZTFIM3NPelF0RnBy0gF0QVVfeXFMTVZ4NDRyYWVLT3NCMVF6SGo2WFZZMng2VGQ1X3FUVzdsbzQ0YkhmbHNnUlBuWC00ZDhJY1QxOEVkMThfdkpvbGRDYUp3QTh4WVN5N0ljTmNORS1MRkh1Qk5UUmd1OEhTQXNlMUgzc096UXRGcHI?oc=5",
-   "pub": "Mon, 09 Nov 2026 05:38:00 GMT",
-   "engine": "gnews",
-   "query": "대전 서구 가족 체험",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "서구 부산전통문화체험관 11월 야외 가족 체험 특강 ‘2026 조선형벌체험’ 운영 - 경기뉴스원",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2bl8xNUx3bGpZRHhkbjRwM3h2WXNUYVVFOXB0SFI2TTZkSXVGdDlhOVEtbzgzUExYU3dLMlpaV25ZTXhWU3NmcHhUSzc1NlJjYVRpSFVRTDNRSFpyeGVfdUtsWQ?oc=5",
-   "pub": "Tue, 10 Nov 2026 07:31:43 GMT",
-   "engine": "gnews",
-   "query": "대전 서구 가족 체험",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "아이와 함께하는 슬기로운 주말: 지역 특산물·업사이클링 체험 키트 6선 및 연말 세테크 가이드 - 고향사랑기부제 위기브",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96V015ajZEdnBOS1paTXVCNEhsQVNKcGRMZ3R5QXpTTWxZZS10QWRCSEE2TnpuUS1zYVNkTnpuVUtackNpN2hMdk0wVVN6WGZuRC1TaWh3?oc=5",
-   "pub": "Tue, 10 Nov 2026 09:53:50 GMT",
-   "engine": "gnews",
-   "query": "대전 중구 가족 체험",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "대전 중구, 미래 세대 대상 도시건축 클래스 운영 - 뉴스21일간",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ObkNYd190cGlvTGd5ZmtBeERoMVhTb2VSTEFHQmU4QkZSMmZtVFI5VGdnX0ZDMzQ2NTdCNURTeUxJLXJ6cWNsSzdhX2Zmdw?oc=5",
-   "pub": "Mon, 09 Nov 2026 08:32:41 GMT",
-   "engine": "gnews",
-   "query": "대전 중구 가족 체험",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "대전 중구 용두동, 제10회 마을축제 ‘동네방네 하하하’ 성황리 개최 - 메가충청뉴스",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jR0Rsa2FWWXZ0RzRnN1hlWWVYS1FtOXQ5aWJhOE95WWc2WHBkLU5CVnRnR1BfTWZNZUM1aXZmUXctN3E0YndvMTZyNTcxd01DbzU3aFRQWXVmOXRzNElxUzNaT0NVclZ4S1U4NA?oc=5",
-   "pub": "Sun, 08 Nov 2026 04:02:19 GMT",
-   "engine": "gnews",
-   "query": "대전 중구 가족 체험",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "유성구, 가족과 함께 만드는 추억 ‘DIY 소가구 만들기’ - 뉴스밴드",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHSzZFZWkzWldWYVJXamV1RGdTdXRUckV3YUFITGNwOUlIbGxjOUlud0ZpaDM5RzB2V0V5NnZ4b2pKdlMzWnlWMzJiaGd4Q09BX1d3NnBSRWFLa1MyTzNISHJYQ3FmUEFxbkE?oc=5",
-   "pub": "Sun, 08 Nov 2026 10:48:55 GMT",
-   "engine": "gnews",
-   "query": "대전 중구 가족 체험",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "대전 동구, 다자녀가정과 함께한 가족사랑 숲길 동행 - 글로컬타임스",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CcVBNUXNBWlZLeDBYTzd6YTZQeUhmUU5LX2hNZWg3cEt2bGU2a3FXWlZ6QmFzNldDSGdWQXpTNmxpSG9kWmZsYV9ZZG5BNFhsWkItZlEta1I5UGJaVDNRSm5QdlNuM01l0gFsQVVfeXFMT2pyaXZSaVhaV3JXbExkX0pCeHVkc2NlM0VPNTFPbFBfQnRwbFI1V0dvMWdxTHFBcFNuS3VEbUJfcFl5ODB6Ymp0UWFJODJvSTFMNGZiVzEwWm9uVTVRdU9qN1hEN09HUmExcnVJ?oc=5",
-   "pub": "Mon, 09 Nov 2026 13:44:11 GMT",
-   "engine": "gnews",
-   "query": "대전 동구 가족 체험",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "를 개최했다. 사진은 도라전망대 견학 모습. /민주평통 대전대덕구협의회 [더팩트ㅣ대전=선치영 기자] 민주평화통일자문회의 대전대덕...파주시 DMZ 접경지역과 캠프그리브스 일원에서 자문위원 및 가족 등 35명이 참여한 가운데 '2026 평화통일 공감캠프'를 개최...",
-   "url": "http://v.daum.net/v/20261110111226790",
-   "engine": "daum_news",
-   "query": "대덕구 가족 체험",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "DMZ에서 배우는 평화…민주평통 대덕구협의회, 가족 35명과 역사탐방 - 타임뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BalZEVmdTS1pzVEFPdUZOX00yczhEbVNqMkhEQnJRU1lYNEMwYXRTeFZTMzVKM0lHVDNuQ24zTXFSa1RGMXFNelhVWDlTZDNndFNmSA?oc=5",
-   "pub": "Tue, 10 Nov 2026 01:57:35 GMT",
-   "engine": "gnews",
-   "query": "대덕구 가족 체험",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "대기를 신청하면 된다. 스텔라 아르투아 퓨어 골드는 국내에 새롭게 출시한 프리미엄 라거다. 무설탕·무글루텐 제품으로 알코올 도수는 4.2%다. 330㎖·500㎖ 캔과 500㎖ 병으로 판매한다. 스텔라 아르투아 브랜드 매니저는 “연말을 대표하는 더현대 서울...",
-   "url": "http://v.daum.net/v/20261110090004435",
-   "engine": "daum_news",
-   "query": "대전 과학 체험 가족 신청",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "김해시복지재단 청소년수련관, ‘가을밤 가족 별빛축제’ 성황리 - 한국시사경제",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sWkhPTDdEMUU2RVJXTU13WXdMLUFwR2tFOVhsdFJlWGFJam51c21vWUJwUHdXZEdMUVlZRTExMlZsYXdoWVhGbENSNVI0eXd0cmgwNkV0cVN6ZDA0OHNidlpFX3JlRmZ6Q2c?oc=5",
-   "pub": "Tue, 10 Nov 2026 06:11:37 GMT",
-   "engine": "gnews",
-   "query": "대전 과학 체험 가족 신청",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "군포시, 누리천문대서 '별밤가족여행' 특별관측회 개최 - 한국미디어뉴스통신",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rei1iRVhJdWdGRGltbWUzOGZJemtIUjRUT3RULXlQMkN3aklPVnpJc3h3ZGo4dnBaRVdUbFJFTk9NYXgyVXVuYnB3Ym9ST0l6MWw1MUFfUlM5TUw0d1BTRDhPd0tsQllPTEMzcg?oc=5",
-   "pub": "Thu, 05 Nov 2026 22:22:36 GMT",
-   "engine": "gnews",
-   "query": "대전 천문대 가족",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "군포시, 누리천문대 ‘별밤가족여행’ 특별관측회 15일 개최 - NSP통신",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53SzlpSTUxSFhEaEtFWW5teXN3WDY3Wm9na1p4WUVqN3RTOWszM0RyaTJZV25EaHlVN29qcjIwOXF3bDljOUVjRnBLS1VQTjFFWTZPTUpOZHItSTFWcmJMeQ?oc=5",
-   "pub": "Fri, 06 Nov 2026 05:51:23 GMT",
-   "engine": "gnews",
-   "query": "대전 천문대 가족",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "3일간 입장료 0원, 누들대전축제는 첫날 오후 4시에 열린다 - 여행픽",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rREt4T3RNY3VKcmU3T21QT2lJVUxLa0ZkUE9qWkltVTh2akktQ3ZiUWtFTldtOGZKenNUc2h4WmZ0TVVUXzdfc2c2VmY5QTdYYzQ4N0kwR2ZnLW4yelpkYTBDb3MtLWxIQ0FDVg?oc=5",
-   "pub": "Tue, 10 Nov 2026 06:30:00 GMT",
-   "engine": "gnews",
-   "query": "대전 어린이 체험 접수",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "증평군, 지역 인재와 함께하는 어린이 창의체험 ‘찰흙놀이’ 운영 - 경충일보",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yWndCM3ZJYkdsbi00Mkl6eFZoYk40VVN2ODNybW4zNE5HYUhxRDJucUp0VUlLNkpUQ0U4aGl1NHZ5bHppR2ZzUFRqaTFuc0x5enlBVGV3d1M?oc=5",
-   "pub": "Mon, 09 Nov 2026 22:33:49 GMT",
-   "engine": "gnews",
-   "query": "대전 어린이 체험 접수",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "당진시, 어린이 가을놀이 페스티벌 성료 - 내외뉴스통신",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcEZ4TkpHeU1Kd3FEOTgxVTd4bDNOY09kaWhkUVAzcWtLbGhyS0F0TUdZc2NPcGVfYlFsT3YzNC1aVnQ3amVUX2YzMHk2ZHFmZ1pnQ1JVLVdIVnRab2diRFZOc1FHVTdRdzRnbUh30gFwQVVfeXFMT2pCU3o2bm83ZFZpMUlYOWs2Q2ZKaWhZZDV1YUlIcVFwMmxmbW1qcjlTdGVjbFFtREQybnRBXy1jWmh1eUZKajJ3bGVxTjlsUXRmVUhyOEZibjd6TXJrRFhPUHhta0RVWVRLQ01meHNNLQ?oc=5",
-   "pub": "Tue, 10 Nov 2026 00:57:20 GMT",
-   "engine": "gnews",
-   "query": "대전 어린이 체험 접수",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "광주역사민속박물관, 설화·민속놀이 체험 ‘어린이 박물관학교’ 운영 - 더페어",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yUXJDaVFmT2Zac3dEMW5vZ2trUmptSDlQOVZNOEpUSTZ2UTdaSGJibzZWbzc1X2tlV2tTMEktYU03Qk0xdVhjaUVhcEdxbU5hVGJJLWhSV3duUFY1RWhLamhNeklydW1yQ0w1RWZMY1jSAXRBVV95cUxQbUZ0TWxGdVFTcFpoN21faktSbmN3Q1Mtb0Yxc28xQl9Ta3k5LVRzeHhJaHlxZUgwdXZ5SkxiNDF3ZFBlMGd2bk5wcl9CWjE0c0ZxeHcyNVpGTlNkekJJNXhhLWp6cE9Qb3NESDF1Smc2cktVcQ?oc=5",
-   "pub": "Mon, 09 Nov 2026 03:55:49 GMT",
-   "engine": "gnews",
-   "query": "대전 어린이 체험 접수",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "대전 중구, ‘2026년 통합돌봄 성과공유회’ 개최 - 메가충청뉴스",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtbmFRUF80SXl2OGJ0V1NzVEVubEoxdDFZa1BEdE1uOTdqNVpYTjRmalQ3TV9qSTE0aHR2VEZjbjRJQzFtZXBEOWxyU2N0aDhLZmlvNGxZT0RteGl1VWlXOHNOQUtGT1dLUklaSA?oc=5",
-   "pub": "Tue, 10 Nov 2026 03:19:47 GMT",
-   "engine": "gnews",
-   "query": "대전 돌봄 페스티벌",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "경기를 다 이겨서 좋은 결과를 가지고 들어오는 게 목표”라고 했다. 결국 APBC 우승을 다짐했다. 대표팀의 최대 관심사 중 하나는 김도영 다음에 들어설 중심타자다. 최원호 감독은 지난주 대전에서부터 김도영의 타순보다, 김도영 다음에 들어가는 타자의 역할을...",
-   "url": "http://v.daum.net/v/20261110173156698",
-   "engine": "daum_news",
-   "query": "다키움",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "김웅빈은 “끝내기 홈런은 지금 생각해도 ‘내가 한 게 맞나’ 하는 생각이 들고, 되돌아보면 신기하다”라고 말했다. 키움 김웅빈. 키움 히어로즈 제공 올해 가까스로 반등에 성공했지만, 만족할 만한 성적을 내지는 못했다. 김웅빈은 “돌아보면 전부 다 아쉽다...",
-   "url": "http://v.daum.net/v/20261110151908063",
-   "engine": "daum_news",
-   "query": "다키움",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "AMD'다. 9일 주가가 4.3% 하락한 엔비디아와 달리, AMD 주가는 13.3% 폭등했다. 엔비디아의 경영 불확실성이 확대되면서 AI 반도체 시장에서 경쟁 관계에 있는 AMD가 반사이익을 얻을 수 있다는 기대감이 투자심리에 반영된 것으로 풀이된다. AMD의 성장세는 국내...",
-   "url": "http://v.daum.net/v/20261110144240756",
-   "engine": "daum_news",
-   "query": "다키움",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "전준표는 7일 경기가 끝난 뒤 취재진과 만나 “대표팀에 오니 다 잘하는 형들, 후배들이라서 같이 있으니 저까지 잘하게 되는 느낌...대답을 들은 대로) 계속 연습하고 있다”라고 말했다. 키움 전준표. 키움 히어로즈 제공 선발승을 놓친 경기들이 아쉬울 법도...",
-   "url": "http://v.daum.net/v/20261110141741190",
-   "engine": "daum_news",
-   "query": "다키움",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "둘 다 잡는 것이 최상이지만 현실은 녹록치 않다. 삼성은 10개 구단 가운데 연봉지출이 가장 높은 팀이다. 여기에 우승 프리미엄이 붙어 내년 연봉은 더 상승할 수밖에 없다. 원태인과 구자욱을 모두 잡을 경우 샐러리캡 상한선을 초과할 것이 불을 보듯 뻔하다...",
-   "url": "http://v.daum.net/v/20261110123218973",
-   "engine": "daum_news",
-   "query": "다키움",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "롯데)다. 1999년생으로 28세다. 젊디젊은 대표팀이 출격한다. 2026 아시아프로야구챔피언십(APBC) 야구 국가대표팀 김태형, 성영탁이 9일 서울 강서구 김포공항을 통해 일본으로 출국하고 있다. 사진 | 김포국제공항=연합뉴스 투수는 14명이다. 최초 19명 뽑았다...",
-   "url": "http://v.daum.net/v/20261110122628862",
-   "engine": "daum_news",
-   "query": "다키움",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "남해군, 영유아 ‘다같이키움센터’ 시범 운영 - KBS 뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12ZXlaWmtDM3JPZmU5V0RHUHlfcDd6clNJUDI5bEVXdi04dTdtVnFFdVlseFJvYy16SDlqQnJjMmgxUURXQVlGenl5UWdzWldGRlVqa3RCN0FUQzQ?oc=5",
-   "pub": "Sat, 07 Nov 2026 12:26:00 GMT",
-   "engine": "gnews",
-   "query": "다키움",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "다우키움·CJ·신세계 컨소시엄, 중앙일보 동거…균열 땐 홍석현 4%가 최대변수 - 토요경제",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wVm1weHI0aHhHVEFEWVEyaUhPRFVhUVhLWlRUMXhfTWNaaG5ZQ3lpaEg2NnJEZ003eHFkV3BkaGFsbTNqbFlfb08tRHhsN0lPUXlkNE5lNHdQOWM2MEZrUdIBb0FVX3lxTE9DdHhMXzhUSzUwdjBTWm1WaWttU0ZsMWZGeWVHVDJoNXBTWXFwMGZ4RkJJNVUwQXhEMGgwSVVxYktpOEZxbUxnd0RLb056eG1tSkhkd01qR0liQ0lsZ1hUcy1wd3hLQ0IxQ3BVREVXaw?oc=5",
-   "pub": "Wed, 04 Nov 2026 16:44:05 GMT",
-   "engine": "gnews",
-   "query": "다키움",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "“고점 대비 44% 폭락, 지금 팔아도 실익 적다”…키움證 “반도체주 반등 주목” - 디지털데일리",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84UGdJQ3huUlBSSDR3R01uM2dyVUNiaWZHZnNYem80bGNLSmN6Z1BGNWZiTU1JZUxHNTd5QjF5WmJqYmxzSEdYY3pONUYtZU5hUG1zeXBZTGJGRGZPbnM1akpjUW1JdXc?oc=5",
-   "pub": "Tue, 10 Nov 2026 04:24:27 GMT",
-   "engine": "gnews",
-   "query": "다키움",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "다우키움·CJ·신세계, 중앙일보 공동 인수···경영은 다우키움 주도 - 서울파이낸스",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBETDYwZlg3OU9YRlNZaDlaT2NDSjdHZDBkOUdzamo3UzlvQzZORDBWRk1iQUhDeDJnUnN5SDRHSktpcklCQW5qcDRQeVhOa05RRzZMTHljWEFGVE8wQzlSd0kyU2c4VklvUWc?oc=5",
-   "pub": "Fri, 06 Nov 2026 05:40:55 GMT",
-   "engine": "gnews",
-   "query": "다키움",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "대전시립미술관 이동훈作 ‘미상’, 행방불명 시기도 미상 - 금강일보",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53aFpLY2VaSHY0WXBRS2xUNXg5MjNIVE9rN09GN2w2d3k4NmVKeWVPQmtNcEVXX0lsYUlsWVdiNmItVWtURG1SS3ZFSzNWajk0ejdlMElScFFnVzhqVnItSENhSHctbzJ1SXc?oc=5",
-   "pub": "Tue, 10 Nov 2026 10:22:09 GMT",
-   "engine": "gnews",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "첨단기술과 함께 놀고 즐기며 배워보자 - K스피릿",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CRThocXBTc0Vpd2NadjVQdTdXUGRUQW5CWVlaV0xKTW8zeTJWeFlfTzVnNVNsVmkyTmw2TmNwZ2QzMVppZmVhQ05EOHNyYzNPZ3UwcmI4NFlpVHRPU3pEX0tFd0Etbllob29mNHZIdWkzUkHSAXNBVV95cUxPQkU4aHFwU3NFaXdjWnY1UHU3V1BkVEFuQllZWldMSk1vM3kyVnhZX081ZzVTbFZpMk5sNk5jcGdkMzFaaWZlYUNORDhzcmMzT2d1MHJiODRZaVR0T1N6RF9LRXdBLW5ZaG9vZjR2SHVpM1JB?oc=5",
-   "pub": "Tue, 10 Nov 2026 01:14:04 GMT",
-   "engine": "gnews",
-   "query": "국립중앙과학관 11월 교육 신청",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "휴보·우리별 기록물 등 국가중요과학기술자료 23건 선정…누적 115건 - 데일리뉴스",
-   "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNU1FtZy1UZ1lCcVN2S1dQN1lVRTFxZExRWDdVNEtDSlN4ZG9XSVJNMG1YNmhRWndKamNQX2Z6eElscDNfT2xVWVJuU3hqLWtMQmZIOVVyV09wRzR4VEdsSFZIWGczWW90Smo3UjlzdkFzT3l0QVFuQml4aFFYVE5oNFVIYUM4ekhZd3BveUF1VEJyNDlLMlh3NVJfZGdGUU4xSkhyRUNPMzJ0LVlEV1JBMUdYZmc4eFBNQlBSVzgxZUlEQ2d4dGdXX0dGQ0pHZ29ET3RJdDR6R2h0NFVOUjh5NkNHdHdkbXc0ZW45VDRkbzI3RjNzY1dRMnQtUzFJb1BLaEJ0bDRtcnJTQzNXNEUteHdPSlAtLWoweElmUWtMdjFyMy1jR25aTnd4WXZ6RFpWZDU3NWd1a0Rvd3M1VGFvcHN1cXUwNTk5dXJ2TkcwWndnbjloel9rNG5COXp0T3BmUjcxUUhFNHNFOXlkYXVNcnhCQ3hTdkhIQ0pkSUtmMTRBMWc?oc=5",
-   "pub": "Tue, 10 Nov 2026 08:39:31 GMT",
-   "engine": "gnews",
-   "query": "국립중앙과학관 11월 교육 신청",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "대전문화재단, 2026 아티언스대전 '지능과 지능사이' 개최 - 현대경제",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40QktHdHZXNHExQXBzRmY4cVlkZUloVXFkTjNwaGJESEFCSldlVXVFdE5Nd2MyemRmNThXY0ZXR09yLVBPMG5UR3pEOFBOcnc0OEwxRWdMbUh0MUtvb1JHbmU0TUs0VWlkSWhj?oc=5",
-   "pub": "Tue, 10 Nov 2026 02:13:33 GMT",
-   "engine": "gnews",
-   "query": "국립중앙과학관 11월 교육 신청",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "성장과 가족의 양육에 도움이 되는 정보를 선별해 소개한다. -편집자 말 ◇ 성북청소년센터, 11월 15일 ‘제6회 서울시청소년드론축구...조남억)는 오는 11월 15일 오전 9시부터 오후 6시까지 서울에서 ‘제6회 서울시청소년드론축구대회’를 개최한다고 밝혔다...",
-   "url": "http://v.daum.net/v/20261110110942648",
-   "engine": "daum_news",
-   "query": "노동자 가족 체험 프로그램 신청 서울",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "원도심 상권활성화사업'의 하나로 '삼성희망 김장오쥬'를 개최한다. 행사는 사전 모집한 80팀이 참여한 가운데 오전 11시부터 낮 12시...룰렛 이벤트와 미니 크리스마스트리 만들기 체험도 운영할 계획이다. 참가 신청은 삼성면 원도심 상권 공식 인스타그램 팔로워...",
-   "url": "http://v.daum.net/v/20261110102125715",
-   "engine": "daum_news",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "낮 12시까지, 오후 2시부터 3시까지 두 차례 운영되며, 온라인 사전 모집을 통해 선정된 약 80팀이 참여할 예정이다. 참가자들은 절인...기회를 제공하며, '별별삼성OZ상권' 공식 블로그에서 신청할 수 있다. 김장 체험과 함께 상권 내 소비를 유도하는 부대행사도...",
-   "url": "http://v.daum.net/v/20261110100959055",
-   "engine": "daum_news",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "진안고원 김치보쌈축제 14일 개막…김장체험 420가구 예약 조기 마감 - 신아일보",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jeDZGcnd5cW45dXB6bXE0VHY4RDdxbkxWRkh0cWc0Tmlkd25uNU5HeFNSbFBUQ3Q3V3RtQmw3V2pIREZtMkJuMUp1eXVZczQzemtKd245Mi1HRUpySklHb0dWdTJwMTRIajVmajJXZEg?oc=5",
-   "pub": "Tue, 10 Nov 2026 05:33:19 GMT",
-   "engine": "gnews",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "‘RED하게 세상을 버무리다’… '괴산김장축제' 약 17만명 찾아 성황 - 충청미디어",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFZkl2RDhMUjRmMzZBYXVLRmh4dENRSEZsbE1vN19yVkh6TXQ2OUJHWElqNDVKZFQzQUNWRkhDelNjM0VLTHZfRzFDN1ZBUjZjUEN4V2NEQmR5ZGM4RGdTejhyNUxMUVhSd0HSAWpBVV95cUxQRWZJdkQ4TFI0ZjM2QWF1S0ZoeHRDUUhGbGxNbzdfclZIek10NjlCR1hJajQ1SmRUM0FDVkZIQ3pTYzNFS0x2X0cxQzdWQVI2Y1BDeFdjREJkeWRjOERnU3o4cjVMTFFYUndB?oc=5",
-   "pub": "Mon, 09 Nov 2026 03:53:50 GMT",
-   "engine": "gnews",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "있도록 구성했다. 김장 체험을 마친 뒤에는 자신이 담근 김치를 개별 포장해 가져갈 수 있다. 참가자 한 사람에게 제공되는 김치 분량...일상에서 즐기는 음식에도 다양하게 활용될 수 있다는 점을 알릴 계획이다. 특히 김장철이라는 계절적 특성을 반영해 가족이나...",
-   "url": "http://v.daum.net/v/20261110103758743",
-   "engine": "daum_news",
-   "query": "김장 체험 가족 참가자 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "제천 황기·당귀로 김장 담그는 특별한 체험…160명 무료 모집 - 중도일보",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1weGhlei1pQlAwOE4tSDA5ZC05emhlNTAtcVI2aENnV2lEZk5xQlcwSnhhT2hXWUlOc25ia3YwRi1RREF0UUEtREdnRXFoV3ZNU2hLQko0QXUzWDFndGhPTTVBYUMwcGlUYjVESQ?oc=5",
-   "pub": "Tue, 10 Nov 2026 01:37:38 GMT",
-   "engine": "gnews",
-   "query": "김장 체험 가족 참가자 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "제천한방엑스포공원에서 ‘황당한 김치 담그기’ - 서울일보",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQ3htZ19GZTdqVXpJZU8xbUlXNFBsMlFzZ0N3dzZ0Mk5BUHU4T3BTLUN3ZGNEcFpoeF9tTS1FajE0WHZLTFdSVE5jeXozY1FSdk9nSlBYWVd3YU5xREFvR0xsRzJLaGFRRWk2StIBb0FVX3lxTFBCZVZRTzBlUVhtbHhCT1BxZkxwdnYzZ2d0eTg5ajN2RkNKOUNMODVPUkMxbFhYM0ZPN3pEZkZialYxbkhuSk9VMzdOeUZqNExwa3hMbW9MUTJFa0pydDRPdGdCYWhILXUzOGJMZExocw?oc=5",
-   "pub": "Tue, 10 Nov 2026 08:13:37 GMT",
-   "engine": "gnews",
-   "query": "김장 체험 가족 참가자 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "음성군, ‘희망 김장오쥬’ 개최…김장 나눔으로 상권에 활력 - 뉴시니어",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95ZGx2Uk4yT2c1M2QtcnBTTi02MEp4R29Va1h0TURYTzBoNEpDbVVlR2Q0WUJQamduZmtGYmU3cU9pNlJLN21FLTQ2ZXJBaDVoRWVjdWFCczZTME1LaFZ6dWhPQQ?oc=5",
-   "pub": "Mon, 09 Nov 2026 20:54:50 GMT",
-   "engine": "gnews",
-   "query": "김장 체험 가족 참가자 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
-  },
-  {
-   "title": "음성군, ‘삼성희망 김장오쥬’ 개최…김장김치 800kg 취약계층 기부 - 뉴스티앤티",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tWnBlMVhmRGt3TjdlbDJJa1RxWWphY0RxQmJfRWh1RU5tNU5yeGhtbUZhVmtWajJRWHJLMC1tWHk3WXRFOUJvZkpzQU1GQjNVb0VKM3lWYmozelB6dXV1TlRlaW1TdUsyWVE?oc=5",
-   "pub": "Tue, 10 Nov 2026 02:26:17 GMT",
-   "engine": "gnews",
-   "query": "김장 체험 가족 참가자 모집",
-   "first_seen": "2026-11-10T20:07:48+09:00"
   }
  ],
  "errors": [
-  "gnews '대전 아빠 참여 프로그램': HTTP Error 429: Too Many Requests",
-  "gnews '대전 가족 프로그램 모집': HTTP Error 429: Too Many Requests",
-  "gnews '유성구 아빠': HTTP Error 429: Too Many Requests",
-  "gnews '대전 천문대 가족': HTTP Error 429: Too Many Requests",
-  "gnews '세종 가족 체험 모집': HTTP Error 429: Too Many Requests",
-  "gnews '세종 아빠 자녀 프로그램': HTTP Error 429: Too Many Requests",
-  "gnews '다함께돌봄 캠프 대전': HTTP Error 429: Too Many Requests",
-  "gnews '대전시립미술관 교육 접수': HTTP Error 429: Too Many Requests",
-  "gnews '세종시 문화유산 체험 참가자 모집': HTTP Error 429: Too Many Requests",
-  "gnews '가족 가죽공예 체험 신청': HTTP Error 429: Too Many Requests",
-  "gnews '김장 축제 체험 사전신청': HTTP Error 429: Too Many Requests",
-  "gnews '겨울 가족매직쇼 버블쇼 예매오픈': HTTP Error 429: Too Many Requests",
-  "gnews '대전 청소년수련관 가족 체험 모집': HTTP Error 429: Too Many Requests"
+  "gnews '세종 체험놀이 참가자 모집': HTTP Error 429: Too Many Requests",
+  "gnews '남세종종합청소년센터 가족': HTTP Error 429: Too Many Requests"
  ]
 }
