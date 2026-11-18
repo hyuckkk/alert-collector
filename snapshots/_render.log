@@ -1,59 +1,61 @@
-[blog-gotaekmusicfesta-224426135103] rendered 3647 chars CHANGED
-[vol-djv1365-main] rendered 5265 chars CHANGED
-[djbea-biz-pbnc] rendered 2253 chars CHANGED
-[djac-perf-5487] rendered 3892 chars CHANGED
-[woosongart-schedule] rendered 760 chars CHANGED
-[ticketlink-kids-cat-daejeon] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[gongjeon-kids] rendered 548 chars CHANGED
-[navy-visit-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[nol-product-melon-disney-ghibli-christmas-daejeon] rendered 2897 chars CHANGED
+[chuncheon-festival-news] rendered 881 chars CHANGED
+[chuncheon-festival-news-459539] rendered 801 chars CHANGED
+[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000", waiting until "domcontentloaded"
+  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
 
-[katc-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
 Call log:
-  - navigating to "https://www.katc.mil.kr/katc/guide/schedule.jsp", waiting until "domcontentloaded"
-
-[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[expo-park] rendered 698 chars CHANGED
-[nol-upcoming-notice] rendered 16854 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 16860 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] rendered 282055 chars CHANGED
-[pyoungsong-performance] rendered 1284 chars CHANGED
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[dsecc-programs] rendered 1969 chars CHANGED
-[seogu-exprn-list] rendered 1128 chars CHANGED
-[seogu-event-list] rendered 1128 chars CHANGED
-[seogu-edu-list] rendered 1134 chars CHANGED
-[daejeon-its-board] rendered 3369 chars CHANGED
-[zeropay-events] rendered 564 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[pyoungsong-monthly] rendered 634 chars same
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 170933 chars same
-[pyoungsong-event-list] rendered 297 chars same
-[docomomokorea-main] rendered 293 chars same
-[pyoungsong-event-rudolph] rendered 442 chars same
-[pyoungsong-event-snowwhite] rendered 432 chars same
-[blog-namuac21-224427113169] rendered 4815 chars CHANGED
-[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
-[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
-[leis-cycling-kcf] rendered 2467 chars CHANGED
-[sje-life-events] rendered 37080 chars CHANGED
-[nol-nutcracker-daejeon] rendered 4990 chars CHANGED
-[mara1080-goldrun-geumsan] rendered 4293 chars CHANGED
-[runningon-schedule-open] rendered 8868 chars CHANGED
-[leis-ski-snowon] rendered 593 chars CHANGED
-[leis-ski-jb-sports] rendered 1278 chars CHANGED
-[leis-ski-sejong-sports] rendered 810 chars CHANGED
-[nol-product-26011246] rendered 1720 chars CHANGED
-[namwon-missiontour] RENDER ERROR Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://namwon.missiontour.kr/
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "
+[cnu-jsh-schedule] rendered 774 chars same
+[bok-commemorative-coin-news] rendered 715 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 5964 chars CHANGED
+[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
+[blog-dooglami-224434696671] rendered 5135 chars CHANGED
+[ticketlink-notice-65862] rendered 273889 chars CHANGED
+[seocheon-halftour-apply] rendered 1385 chars CHANGED
+[komsco-shop-cate2284] rendered 6776 chars CHANGED
+[mcst-culture-71983] rendered 1181 chars CHANGED
+[aircanada-korea] rendered 22911 chars CHANGED
+[mokwon-general-notice] rendered 1603 chars CHANGED
+[kopis-place-pyoungsong-small] rendered 10094 chars same
+[bok-press-list] rendered 801 chars CHANGED
+[blog-seogu-artfest-fringe-cvovz] rendered 5763 chars CHANGED
+[blog-seogu-artfest-blu2sky7] rendered 6587 chars CHANGED
+[kwater-realtime-sumun] rendered 2309 chars CHANGED
+[cnu-jsh-schedule-178-2026-11] rendered 3875 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 4762 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1260 chars CHANGED
+[kmusic-calendar-year] rendered 6309 chars CHANGED
+[nol-product-26001112] rendered 3628 chars CHANGED
+[blog-daedeokgu-224432911721] rendered 2669 chars CHANGED
+[blog-namuac21-224424725714] rendered 4565 chars CHANGED
+[blog-youneed4613-224436099074] rendered 4452 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
+[pyoungsong-tribe-events-api-p2] rendered 132622 chars same
+[leis-runningwikii] RENDER ERROR rendered but too little text (51 chars)
+[leis-ski-snowon-notices] rendered 1022 chars CHANGED
+[leis-ski-snowon-youth] rendered 766 chars CHANGED
+[leis-ski-muju-school] rendered 863 chars CHANGED
+[leis-ski-skiland-lessons] rendered 599 chars CHANGED
+[leis-ski-mentor-lessons] rendered 4778 chars same
+[leis-ski-snowon-lifestyle] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_RESET at https://www.snowon.or.kr/program/list.php?ca_id=10
 Call log:
-  - navigating to "https://namwon.missiontour.kr/", waiting until "domcontentloaded"
+  - navigating to "https://www.snowon.or.kr/program/list.php?ca_id=10", waiting until "domcontentloaded"
 
-[oworld-notice-list] rendered 1058 chars CHANGED
-[nol-product-lab-concert-daejeon] rendered 5229 chars CHANGED
-[djac-performance-2026-12-p2] rendered 4200 chars CHANGED
+[leis-spectator-archery] rendered 3992 chars CHANGED
+[leis-spectator-archery-current] rendered 8321 chars same
+[foresttrip-notice] rendered 141 chars same
+[cwg-dmz-crane-notice] rendered 903 chars same
+[ssg-fsale-coupon] rendered 10900 chars CHANGED
+[donggu-yeyak-exprn-list] rendered 2311 chars CHANGED
+[djac-perf-5603] rendered 3222 chars CHANGED
+[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
+
+[seogu-yeyak] rendered 2849 chars CHANGED
+[pyoungsong] rendered 872 chars same
