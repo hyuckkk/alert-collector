@@ -22,7 +22,9 @@ import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import multiprocessing
+import queue
 from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
 from pathlib import Path
@@ -126,86 +128,152 @@ def seen_key(job: str, url: str) -> str:
     return hashlib.sha1(f"{job}|{url}".encode("utf-8")).hexdigest()[:16]
 
 
+def build_tasks(queries, now):
+    # Interleave topics so a slow/large first topic cannot starve later topics.
+    groups = []
+    for job, qs in queries.items():
+        if job.startswith('_') or not qs:
+            continue
+        indices = list(range(len(qs)))
+        # Rotate priority between runs, keeping the original Naver slot membership.
+        offset = (int(now.timestamp()) // 10800) % len(indices)
+        indices = indices[offset:] + indices[:offset]
+        groups.append([(job, qs[i], eng, url) for i in indices
+                       for eng, url in engines(qs[i])
+                       if not eng.startswith('naver') or i % 3 == now.hour % 3])
+    return [group[i] for i in range(max(map(len, groups), default=0))
+            for group in groups if i < len(group)]
+
+
+def search_lane(tasks, output, workers, naver):
+    """Child process: a blocked socket can be terminated without losing parent data."""
+    blocked = False
+
+    def execute(task):
+        nonlocal blocked
+        job, query, engine, url = task
+        if naver and blocked:
+            return job, [], 'skipped', 'Naver circuit open after 403/429'
+        try:
+            return job, search(engine, url, query), 'ok', None
+        except Exception as error:
+            message = f"{engine} {query}: {error}"[:200]
+            if naver and any(word in str(error) for word in ('403', 'Forbidden', '429')):
+                blocked = True
+            return job, [], 'failed', message
+        finally:
+            time.sleep(1.5 if naver else 0.8)
+
+    # One dedicated Naver worker; its wait never occupies Daum/Google workers.
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        futures = [executor.submit(execute, task) for task in tasks]
+        for future in as_completed(futures):
+            output.put(('result', future.result()))
+    output.put(('done', None))
+
+
+def save_results(queries, previous, results, errors, counts, planned, started, finished):
+    cutoff = (started - timedelta(days=7)).isoformat()
+    for job in planned:
+        prev = previous[job]
+        # Preserve the old timestamp when no fresh search succeeded.
+        recent = {h['url']: h for h in prev.get('hits', prev.get('recent', []))
+                  if h.get('first_seen', '') >= cutoff}
+        known = {h['url'] for h in prev.get('hits', prev.get('recent', []))}
+        new = 0
+        for hit in results[job]:
+            if hit['url'] in known or hit['url'] in recent:
+                continue
+            recent[hit['url']] = dict(hit, first_seen=started.isoformat(timespec='seconds'))
+            new += 1
+        stats = counts[job]
+        pending = planned[job] - sum(stats.values())
+        complete = pending == 0 and stats['failed'] == 0 and stats['skipped'] == 0
+        payload = {
+            'updated': datetime.now(KST).isoformat(timespec='seconds') if stats['ok'] else prev.get('updated'),
+            'attempted_at': started.isoformat(timespec='seconds'),
+            'status': 'complete' if complete else ('partial' if stats['ok'] else 'failed'),
+            'run_finished': finished,
+            'coverage': dict(stats, scheduled=planned[job], pending=pending),
+            'note': 'Discovery candidates only. Partial/failed coverage is not no change. first_seen is not the event date.',
+            'new_this_run': new,
+            'hits': sorted(recent.values(), key=lambda h: h['first_seen'], reverse=True)[:3000],
+            'errors': ([f'Incomplete search coverage: {pending} pending, '
+                        f"{stats['failed']} failed, {stats['skipped']} skipped; not no change."]
+                       if not complete else []) + errors[job][:29],
+        }
+        path = OUT / f'{job}.json'
+        temp = path.with_suffix('.json.tmp')
+        temp.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding='utf-8')
+        temp.replace(path)
+
+
 def main() -> int:
     OUT.mkdir(parents=True, exist_ok=True)
-    queries = json.loads(QUERIES.read_text(encoding="utf-8"))
-    # No global "seen" file any more: it grew past 100 MB. A result is new when its URL is not in
-    # this job's previous hit list (last 7 days, up to 1000 entries).
+    queries = json.loads(QUERIES.read_text(encoding='utf-8'))
     now = datetime.now(KST)
-    now_s = now.isoformat(timespec="seconds")
-    # Naver answers 403 once one IP sends too many searches (10/8: blocked after ~2 runs at 5 Naver
-    # tabs x all queries). Naver tabs therefore cover one third of the queries per hourly run
-    # (each query every 3 hours) and go through a single slow lane; Daum/Google cover all every run.
-    slot = now.hour % 3
-    tasks = []
-    for job, qs in queries.items():
-        if job.startswith("_"):
-            continue
-        for qi, q in enumerate(qs):
-            for eng, url in engines(q):
-                if eng.startswith("naver") and (qi % 3) != slot:
-                    continue
-                tasks.append((job, q, eng, url))
-
-    import threading
-    naver_lane = threading.Lock()
-    naver_blocked = threading.Event()
-
-    def run(t):
-        job, q, eng, url = t
-        if eng.startswith("naver"):
-            if naver_blocked.is_set():
-                return job, eng, [], None
-            with naver_lane:
-                try:
-                    return job, eng, search(eng, url, q), None
-                except Exception as e:  # noqa: BLE001
-                    if "403" in str(e) or "Forbidden" in str(e) or "429" in str(e):
-                        naver_blocked.set()   # stop hammering; next run tries again
-                    return job, eng, [], f"{eng} '{q}': {e}"[:200]
-                finally:
-                    time.sleep(1.5)
-        try:
-            return job, eng, search(eng, url, q), None
-        except Exception as e:  # noqa: BLE001
-            return job, eng, [], f"{eng} '{q}': {e}"[:200]
-        finally:
-            time.sleep(0.8)
-
-    results: dict[str, list[dict]] = {}
-    errors: dict[str, list[str]] = {}
-    with ThreadPoolExecutor(max_workers=int(os.environ.get("DISCOVER_WORKERS", "8"))) as ex:
-        for job, eng, hits, err in ex.map(run, tasks):
-            results.setdefault(job, []).extend(hits)
-            if err:
-                errors.setdefault(job, []).append(err)
-
-    cutoff = (now - timedelta(days=7)).isoformat()
-    for job in queries:
-        if job.startswith("_"):
-            continue
-        path = OUT / f"{job}.json"
-        prev = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
-        recent = {h["url"]: h for h in prev.get("hits", prev.get("recent", [])) if h.get("first_seen", "") >= cutoff}
-        new = []
-        known = {h["url"] for h in prev.get("hits", [])}
-        for h in results.get(job, []):
-            if h["url"] in known or h["url"] in recent:
-                continue
-            h["first_seen"] = now_s
-            new.append(h)
-            recent[h["url"]] = h
-        path.write_text(json.dumps({
-            "updated": now_s,
-            "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
-            "new_this_run": len(new),
-            "hits": sorted(recent.values(), key=lambda h: h["first_seen"], reverse=True)[:3000],
-            "errors": errors.get(job, [])[:30],
-        }, ensure_ascii=False, indent=1), encoding="utf-8")
-        print(f"[{job}] {len(results.get(job, []))} results, {len(new)} new, {len(errors.get(job, []))} errors",
-              file=sys.stderr)
+    tasks = build_tasks(queries, now)
+    planned = {job: 0 for job in queries if not job.startswith('_')}
+    for job, *_ in tasks:
+        planned[job] += 1
+    previous = {}
+    for job in planned:
+        path = OUT / f'{job}.json'
+        # Fail before any writes if the existing snapshot is malformed.
+        previous[job] = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
+    results = {job: [] for job in planned}
+    errors = {job: [] for job in planned}
+    counts = {job: dict(ok=0, failed=0, skipped=0) for job in planned}
+    budget = min(1500, max(0.1, float(os.environ.get('DISCOVER_BUDGET_SECONDS', '1440'))))
+    workers = min(16, max(1, int(os.environ.get('DISCOVER_WORKERS', '8'))))
+    context = multiprocessing.get_context('spawn')
+    output = context.Queue()
+    lanes = []
+    for naver in (True, False):
+        subset = [t for t in tasks if t[2].startswith('naver') == naver]
+        if subset:
+            process = context.Process(target=search_lane, args=(subset, output, 1 if naver else workers, naver))
+            process.start()
+            lanes.append(process)
+    deadline = time.monotonic() + budget
+    checkpoint = time.monotonic() + 30
+    done = 0
+    try:
+        while done < len(lanes) and time.monotonic() < deadline:
+            try:
+                kind, value = output.get(timeout=min(0.5, max(0.01, deadline-time.monotonic())))
+                if kind == 'done':
+                    done += 1
+                else:
+                    job, hits, status, error = value
+                    counts[job][status] += 1
+                    results[job].extend(hits)
+                    if error and len(errors[job]) < 30:
+                        errors[job].append(error)
+            except queue.Empty:
+                if all(not p.is_alive() for p in lanes):
+                    break
+            if time.monotonic() >= checkpoint:
+                save_results(queries, previous, results, errors, counts, planned, now, False)
+                print('Discovery checkpoint saved', flush=True)
+                checkpoint = time.monotonic() + 30
+    finally:
+        for process in lanes:
+            if process.is_alive():
+                process.terminate()
+            process.join(timeout=2)
+            if process.is_alive():
+                process.kill()
+                process.join(timeout=2)
+        output.close()
+    save_results(queries, previous, results, errors, counts, planned, now, True)
+    for job in planned:
+        print(f'[{job}] {counts[job]} / scheduled={planned[job]}', flush=True)
+    # A partial result must reach the existing commit step, not be lost to timeout.
     return 0
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     sys.exit(main())
+
+
