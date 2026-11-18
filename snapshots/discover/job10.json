@@ -1,8 +1,48 @@
 {
- "updated": "2026-11-19T07:21:22+09:00",
+ "updated": "2026-11-19T08:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 118,
+ "new_this_run": 5,
  "hits": [
+  {
+   "title": "안동시, 다문화․조손가정과 함께 `안동 바로알기 팸투어` 실시 - 미디어투데이",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55dHRRV1Etc0dwVHExLWJEbUxQVWVuU01PdE9aWWNTOXRtRkxLeUNBbHVIdi03TTItb3JoX2tUSHoyXzFBSTVtSmJn?oc=5",
+   "pub": "Mon, 16 Nov 2026 23:04:00 GMT",
+   "engine": "gnews",
+   "query": "대전 동구 가족 체험",
+   "first_seen": "2026-11-19T08:07:46+09:00"
+  },
+  {
+   "title": "군위읍 다함께돌봄센터, 문화체험프로그램 ‘다돌이의 외출’- 가을캠프로 특별한 추억 - 시사일보",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPUW5TN2U0WXRYYUZrVTdrMk0wVFp2Z2o0eUF1THo5TnhZRXVXRXA0aXd5cE96RWZ2T0J5R2ZXLU1odTVPZDBwMHlZNTg?oc=5",
+   "pub": "Tue, 17 Nov 2026 01:50:00 GMT",
+   "engine": "gnews",
+   "query": "다함께돌봄 캠프 대전",
+   "first_seen": "2026-11-19T08:07:46+09:00"
+  },
+  {
+   "title": "'인공지능과 인간의 미래 논의' 국립중앙과학관, AI 시대 시민 참여형 과학 대토론회 개최 - 한국강사신문",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0V1ZWMHFuTlo0ckhaamFUSk4tcnJIV0prendtMUo1SVRWTVVHODQtc0FsOHhxeEs1YWtkUEFtQkRIZG1rNTNybEEzbGR4SUpkY29EY2V3TXhEdU5VWE1sWlJiZ3hocHMzeWU2LTJDMi0?oc=5",
+   "pub": "Wed, 18 Nov 2026 04:45:00 GMT",
+   "engine": "gnews",
+   "query": "국립중앙과학관 11월 교육 신청",
+   "first_seen": "2026-11-19T08:07:46+09:00"
+  },
+  {
+   "title": "순천시, 매산등에서 걷고 듣고 쉬어가는 특별한 1박2일 > 뉴스 - www.koreajournal.co.kr",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlVVEyOVpHbnlkSjA4UzJfdzdsd19fbURVLVpMVm9rX2x2R01pUXM4T0JCODc4MXNSWFZ0aHlxVl9RdW9vaXdqX2o2dXBrMi1YZV9WU3R1Mk5hanRBaVJTQVE5bEhmWFBsQm5TQlZWTDducG1zblRDTGxB?oc=5",
+   "pub": "Wed, 18 Nov 2026 13:12:00 GMT",
+   "engine": "gnews",
+   "query": "세종시 문화유산 체험 참가자 모집",
+   "first_seen": "2026-11-19T08:07:46+09:00"
+  },
+  {
+   "title": "[성평등가족부] 수능 끝낸 청소년 위한 진로탐색·인문경제·문화예술 프로그램… 전국 청소년시설 운영 - 커넥트이천",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WUkRhSkg5QTc2WFljREhnSlM5WTI0bVQ3Qkd0b001WF82aXlGclExQ3R0OXVTenNfN3BiZUxwOGtGZXdhUEd2dmxVS2h6YWlrVnJ1dHNRYVhvc2J2ZFE?oc=5",
+   "pub": "Wed, 18 Nov 2026 14:20:42 GMT",
+   "engine": "gnews",
+   "query": "대전 청소년수련관 가족 체험 모집",
+   "first_seen": "2026-11-19T08:07:46+09:00"
+  },
   {
    "title": "웹투어 '취향여행' 출시... 또래와 달리고, 아이와 체험하고, 호텔에서 쉰다 - 비욘드포스트",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GUVA5ZXQzQ014elF4Um9qVzRsd1FsbF83Y1dPemkwTlF1MF9STS1Gb1dMWllqYlVxUk5hUHlLaVQ5bncybDlIRzhXTDZ4bFZsOUlISmR5NURfVFZtdFV4UXdHNGZ3ZU5qVEtHU1pYRGdyV0djbWZJWUJpcDU?oc=5",
@@ -4144,8 +4184,5 @@
    "first_seen": "2026-11-13T00:07:47+09:00"
   }
  ],
- "errors": [
-  "gnews '세종 체험놀이 참가자 모집': HTTP Error 429: Too Many Requests",
-  "gnews '남세종종합청소년센터 가족': HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
