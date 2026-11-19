@@ -1674,9 +1674,15 @@
  },
  {
   "id": "foresttrip-notice",
-  "url": "https://www.foresttrip.go.kr/pot/cc/nm/selectNticBbrssList.do?bbrssMsterId=BBRSSMSTER_00000001&hmpgId=FRIP",
+  "url": "https://www.foresttrip.go.kr/pot/cc/nm/selectNticBbrssList.do?bbrssMsterId=BBRSSMSTER_00000001&hmpgId=FRIP&nowPage=1",
   "render": true,
-  "note": "숲나들e 공지사항 목록 (초록여행·휴양림 힐링여행·휴양림 무료/할인 모집 공고) — JOB7"
+  "note": "숲나들e 공지사항 목록 (초록여행·휴양림 힐링여행·휴양림 무료/할인 모집 공고) — JOB7. 11/3부터 404 페이지만 수집되어 nowPage=1 붙여 재시도(JOB7 11/19 23시)"
+ },
+ {
+  "id": "foresttrip-main",
+  "url": "https://www.foresttrip.go.kr/main.do?hmpgId=FRIP",
+  "render": true,
+  "note": "숲나들e 메인(공지·이벤트 배너) — 공지 목록 URL 404 대체 감시(JOB7 11/19 23시)"
  },
  {
   "id": "usmint-morgan-peace-diamond-field-26xs",
