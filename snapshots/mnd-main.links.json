@@ -448,6 +448,7 @@
 "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZhcnRjbExpc3QuZG8lM0Y%3D#",
 "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZhcnRjbExpc3QuZG8lM0Y%3D#",
 "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZhcnRjbExpc3QuZG8lM0Y%3D#",
+"https://www.mnd.go.kr/bbs/mnd/13000005/DPIM_125042/artclView.do",
 "https://www.mnd.go.kr/bbs/mnd/13000005/DPIM_124965/artclView.do",
 "https://www.mnd.go.kr/bbs/mnd/13000005/DPIM_124895/artclView.do",
 "https://www.mnd.go.kr/bbs/mnd/13000005/DPIM_124894/artclView.do",
@@ -457,7 +458,6 @@
 "https://www.mnd.go.kr/bbs/mnd/13000005/DPIM_124703/artclView.do",
 "https://www.mnd.go.kr/bbs/mnd/13000005/DPIM_124633/artclView.do",
 "https://www.mnd.go.kr/bbs/mnd/13000005/DPIM_124632/artclView.do",
-"https://www.mnd.go.kr/bbs/mnd/13000005/DPIM_124476/artclView.do",
 "javascript:page_link('1')",
 "javascript:page_link('2')",
 "javascript:page_link('3')",
@@ -580,6 +580,7 @@
 "https://www.moti.or.kr/",
 "https://www.kida.re.kr/",
 "onclick:  => window.open('https://www.mois.go.kr/frt/sub/popup/p_taegugki_banner/screen.do', 'mndtaegug', 'status=no,menubar=0,scroll",
+"onclick: 연동 테스트 작성\n새글 => jf_viewArtcl('mnd', '13000005', 'DPIM_125042')",
 "onclick: 국방부, 당정협의에서국군사관학교 창설 기본계획 수정안 논의\n새글 => jf_viewArtcl('mnd', '13000005', 'DPIM_124965')",
 "onclick: 국방부장관, 합동군사대학교 및 육해공군대학 총장, 학생장교 간담회 개최\n새글 => jf_viewArtcl('mnd', '13000005', 'DPIM_124895')",
 "onclick: 국방부, NATO 우주발사협력체계(스타리프트(STARLIFT)) 양해각서(MOU) 서명\n새글 => jf_viewArtcl('mnd', '13000005', 'DPIM_124894')",
@@ -589,6 +590,5 @@
 "onclick: 국방홍보원, 「창간 62주년 국방일보 보도사진전」 개최\n새글 => jf_viewArtcl('mnd', '13000005', 'DPIM_124703')",
 "onclick: ｢국방 에너지 전환 계획｣ 최종 검토회의\n새글 => jf_viewArtcl('mnd', '13000005', 'DPIM_124633')",
 "onclick: 국방 분야 혁신제품 최초 지정, 민간 혁신기술의 군 활용 확대\n새글 => jf_viewArtcl('mnd', '13000005', 'DPIM_124632')",
-"onclick: 국방부, 국군사관학교 민간자문특별위원회 회의 개최 => jf_viewArtcl('mnd', '13000005', 'DPIM_124476')",
 "onclick:  => jf_stsfdgExmnSubmit('mnd', '167')"
 ]
