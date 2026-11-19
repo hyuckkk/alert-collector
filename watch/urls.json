@@ -1727,9 +1727,9 @@
  },
  {
   "id": "oworld-notice-list",
-  "url": "https://www.oworld.kr/newkfsweb/cop/bbs/selectViewPage.do?bbsId=BBSMSTR_1470&mn=KFS_34_04_01",
+  "url": "https://www.oworld.kr/newkfsweb/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1445&mn=KFS_34_03_01_01",
   "render": true,
-  "note": "대전오월드 공지사항 목록 (홈페이지 감시 0자 반복 대체, JOB4) | 2026-11-13 추가"
+  "note": "대전오월드 공지사항 목록 (홈페이지 감시 0자 반복 대체, JOB4) | 2026-11-13 추가 | 2026-11-19 URL 교체: 기존 BBSMSTR_1470은 오월드 소개 페이지 → 링크 목록의 뉴스&공지 게시판(BBSMSTR_1445)"
  },
  {
   "id": "djac-performance-2026-12",
