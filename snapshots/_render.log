@@ -1,61 +1,58 @@
-[mommom-place-6a2b9455] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[mommom-place-6a2b9455] rendered 95 chars CHANGED
+[daejeontour-bread-festival] rendered 783 chars CHANGED
+[mommom-place-6a7d51b7] rendered 95 chars CHANGED
+[chuncheon-notice-announcement] rendered 3306 chars CHANGED
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1719 chars CHANGED
+[chuncheon-festival-news] rendered 881 chars CHANGED
+[chuncheon-festival-news-459539] rendered 801 chars CHANGED
+[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://mom-mom.net/travel/places/6a2b9455e96acc1b3fae66f9", waiting until "domcontentloaded"
+  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
 
-[nol-product-phantom-40th] rendered 5627 chars CHANGED
-[daejeontour-bread-festival] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
+[cnu-jsh-schedule] rendered 774 chars same
+[bok-commemorative-coin-news] rendered 715 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 5976 chars CHANGED
+[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
+[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
+[blog-dooglami-224434696671] rendered 5111 chars CHANGED
+[pyoungsong-monthly] rendered 634 chars same
+[pyoungsong-wp-event-api] rendered 208 chars same
+[pyoungsong-tribe-events-api] rendered 170933 chars CHANGED
+[pyoungsong-event-list] rendered 297 chars same
+[ticketlink-notice-65862] rendered 223382 chars CHANGED
+[docomomokorea-main] rendered 293 chars same
+[pyoungsong-event-rudolph] rendered 442 chars same
+[pyoungsong-event-snowwhite] rendered 432 chars same
+[blog-namuac21-224427113169] rendered 4815 chars CHANGED
+[royal-khs-notice] RENDER ERROR TypeError: 'NoneType' object is not iterable
+[taean-halftour-apply] rendered 3078 chars CHANGED
+[seocheon-halftour-apply] rendered 1385 chars CHANGED
+[komsco-shop-cate2284] rendered 6776 chars CHANGED
+[khs-main] rendered 2142 chars CHANGED
+[khs-eventinfo] rendered 1144 chars CHANGED
+[kopis-pf302030] rendered 7840 chars same
+[blog-gotaekmusicfesta-224428285877] rendered 2922 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3648 chars CHANGED
+[vol-djv1365-main] rendered 759 chars CHANGED
+[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
+[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
+[leis-cycling-kcf] rendered 2467 chars CHANGED
+[sje-life-events] rendered 37195 chars CHANGED
+[nol-nutcracker-daejeon] rendered 5028 chars CHANGED
+[mara1080-goldrun-geumsan] rendered 4294 chars CHANGED
+[runningon-schedule-open] rendered 8895 chars CHANGED
+[leis-ski-snowon] rendered 593 chars CHANGED
+[leis-ski-jb-sports] rendered 1278 chars CHANGED
+[leis-ski-sejong-sports] rendered 810 chars CHANGED
+[nol-product-26011246] rendered 1720 chars CHANGED
+[namwon-missiontour] RENDER ERROR Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://namwon.missiontour.kr/
 Call log:
-  - navigating to "https://daejeontour.co.kr/festival_djt/46", waiting until "domcontentloaded"
+  - navigating to "https://namwon.missiontour.kr/", waiting until "domcontentloaded"
 
-[visitisland-main] rendered 993 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1660 chars same
-[visitkorea-tour50-notice] rendered 616 chars CHANGED
-[mommom-place-6a7d51b7] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://mom-mom.net/travel/places/6a7d51b730abb1b0b0a774d6", waiting until "domcontentloaded"
-
-[blog-first_seogu-224428074790] rendered 3347 chars CHANGED
-[blog-dooglami-224433357728] rendered 4848 chars CHANGED
-[yes24-genre-children] rendered 196 chars CHANGED
-[pyoungsong-event-feed] rendered 34079 chars same
-[nol-product-magickids-daejeon] rendered 2127 chars CHANGED
-[nol-product-bubblemagic-daejeon] rendered 1635 chars CHANGED
-[ticketlink-product-65585] rendered 222849 chars CHANGED
-[yes24-perf-60278] rendered 199 chars CHANGED
-[chuncheon-notice-announcement] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/cityhall/administrative-info/notice-info/notice-announcement/", waiting until "domcontentloaded"
-
-[chuncheon-notice-announcement-76219] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/cityhall/administrative-info/notice-info/notice-announcement/view/?notAncmtMgtNo=76219", waiting until "domcontentloaded"
-
-[chuncheon-municipal-news] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/cityhall/administrative-info/notice-info/municipal-news", waiting until "domcontentloaded"
-
-[templestay-main] rendered 2631 chars CHANGED
-[hwadong-main] rendered 9185 chars CHANGED
-[mokpo-harborfestival-main] rendered 8982 chars CHANGED
-[nol-product-26012487] rendered 1401 chars CHANGED
-[hanbat-library-media-friend] rendered 506 chars CHANGED
-[yuseong-cultprfr-list] rendered 634 chars CHANGED
-[sslib-sanseong-lecture] RENDER ERROR rendered but too little text (30 chars)
-[daejeonseogu-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
-[daejeoni-parent-edu-list] rendered 3193 chars CHANGED
-[ktostay-special-disaster-stay] rendered 2054 chars CHANGED
-[kspo-svoucher-notice] rendered 1932 chars CHANGED
-[oasis-fsale-coupon] rendered 254 chars CHANGED
-[nol-product-christmas-film-carol-festa-daejeon] rendered 3539 chars CHANGED
-[nol-product-stagem-christmas-carol-daejeon] rendered 2142 chars CHANGED
-[chungbuk-picturebookgarden-programs] rendered 2975 chars CHANGED
-[koreanair-promo-2610prg] rendered 48739 chars CHANGED
-[koreanair-promo-list] rendered 53936 chars CHANGED
-[nol-product-26015783] rendered 2850 chars CHANGED
-[yuseong-round-event] rendered 1319 chars CHANGED
-[seogu-yeyak] rendered 2849 chars CHANGED
-[pyoungsong] rendered 872 chars same
-[chuncheon-festival-news] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295", waiting until "domcontentloaded"
-
+[oworld-notice-list] rendered 1058 chars CHANGED
+[nol-product-lab-concert-daejeon] rendered 5229 chars CHANGED
+[djac-performance-2026-12-p2] rendered 4200 chars CHANGED
+[usmint-product-schedule-2026] rendered 160 chars CHANGED
+[djbea-biz-pbnc] rendered 2253 chars CHANGED
