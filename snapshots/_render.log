@@ -1,58 +1,55 @@
-[nol-product-dorothy-oz-sejong] rendered 2291 chars CHANGED
-[miraeasset-kids-economic-class] RENDER ERROR Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://develop.investments.miraeasset.com/magi/fund/child/economic/class.do
+[pyoungsong-performance] rendered 1272 chars CHANGED
+[kopis-time-beyond-daejeon] rendered 8087 chars same
+[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
+[dsecc-programs] rendered 1941 chars CHANGED
+[seogu-exprn-list] rendered 1128 chars CHANGED
+[seogu-event-list] rendered 1128 chars CHANGED
+[seogu-edu-list] rendered 1134 chars CHANGED
+[daejeon-its-board] rendered 3369 chars CHANGED
+[zeropay-events] rendered 572 chars CHANGED
+[chuncheon-festival-news] rendered 881 chars CHANGED
+[chuncheon-festival-news-459539] rendered 801 chars CHANGED
+[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://develop.investments.miraeasset.com/magi/fund/child/economic/class.do", waiting until "domcontentloaded"
+  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
 
-[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
 Call log:
-  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "
+[pyeongtaek-gosi] RENDER ERROR rendered but too little text (9 chars)
+[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
+[daejeon-okr-edu] rendered 1501 chars same
+[daejeon-okr-hanbatlib] rendered 1659 chars same
+[science-edu-reservation] rendered 2130 chars same
+[sejong-notice] rendered 2344 chars CHANGED
+[sejong-notice-greenfamily] rendered 1799 chars CHANGED
+[blog-seogu-artfest-fringe-cvovz] rendered 5764 chars CHANGED
+[blog-seogu-artfest-blu2sky7] rendered 6556 chars CHANGED
+[kwater-realtime-sumun] rendered 2265 chars CHANGED
+[cnu-jsh-schedule-178-2026-11] rendered 4060 chars CHANGED
+[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
+[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
+[leis-cycling-kcf] rendered 2168 chars CHANGED
+[sje-life-events] rendered 37317 chars CHANGED
+[nol-nutcracker-daejeon] rendered 5028 chars CHANGED
+[mara1080-goldrun-geumsan] rendered 4293 chars CHANGED
+[runningon-schedule-open] rendered 8916 chars same
+[leis-ski-snowon] rendered 593 chars CHANGED
+[leis-ski-jb-sports] rendered 1264 chars CHANGED
+[leis-ski-sejong-sports] rendered 810 chars CHANGED
+[nol-product-26011246] rendered 1682 chars CHANGED
+[namwon-missiontour] RENDER ERROR Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://namwon.missiontour.kr/
+Call log:
+  - navigating to "https://namwon.missiontour.kr/", waiting until "domcontentloaded"
 
-[expo-park] rendered 723 chars CHANGED
-[nol-upcoming-notice] rendered 17024 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 17010 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[ticketlink-notice-mobile] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://m.ticketlink.co.kr/help/notice']' timed out after 75 seconds
-[hanbat-library-culture] rendered 2164 chars CHANGED
-[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 484 chars same
-[pyoungsong-event-sandmagic] rendered 498 chars same
-[pyoungsong-event-stonesoup] rendered 335 chars same
-[mcst-culture-71983] rendered 1181 chars CHANGED
-[aircanada-korea] rendered 22978 chars CHANGED
-[mokwon-general-notice] rendered 1609 chars CHANGED
-[hanbat-library-media-friend] rendered 506 chars CHANGED
-[kopis-place-pyoungsong-small] rendered 10094 chars same
-[bok-press-list] rendered 801 chars CHANGED
-[dgdr-festival] rendered 203 chars CHANGED
-[yuseong-lib-lecture-12604] rendered 1523 chars CHANGED
-[yuseong-lib-lecture-list] rendered 2283 chars CHANGED
-[blog-gotaekmusicfesta-224426168539] rendered 2681 chars CHANGED
-[yuseong-cultprfr-list] rendered 634 chars CHANGED
-[ysfesta-main] rendered 133 chars CHANGED
-[khs-main] rendered 1729 chars same
-[khs-eventinfo] rendered 1144 chars CHANGED
-[kopis-pf302030] rendered 7840 chars same
-[blog-gotaekmusicfesta-224428285877] rendered 2921 chars CHANGED
-[blog-gotaekmusicfesta-224426135103] rendered 3647 chars CHANGED
-[vol-djv1365-main] rendered 4846 chars CHANGED
-[aircanada-kr-flights-from-korea] rendered 24691 chars CHANGED
-[sslib-sanseong-lecture] RENDER ERROR rendered but too little text (30 chars)
-[daejeonseogu-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
-[daejeoni-parent-edu-list] rendered 3105 chars CHANGED
-[ktostay-special-disaster-stay] rendered 2080 chars CHANGED
-[kspo-svoucher-notice] rendered 1946 chars CHANGED
-[oasis-fsale-coupon] rendered 6545 chars CHANGED
-[nol-product-christmas-film-carol-festa-daejeon] rendered 3539 chars CHANGED
-[nol-product-stagem-christmas-carol-daejeon] rendered 2142 chars CHANGED
-[nol-product-melon-disney-ghibli-christmas-daejeon] rendered 2935 chars CHANGED
-[chungbuk-picturebookgarden-programs] rendered 2975 chars CHANGED
-[koreanair-promo-2610prg] rendered 48740 chars CHANGED
-[koreanair-promo-list] rendered 53937 chars CHANGED
-[nol-product-26015783] rendered 2850 chars CHANGED
-[sejong-notice-yeondong-storyfest] rendered 2161 chars CHANGED
-[djkids-musical] rendered 1642 chars CHANGED
-[djkids-notice] rendered 1027 chars CHANGED
-[dctf] rendered 431 chars CHANGED
-[nol-family] rendered 3994 chars CHANGED
-[oworld-notice] rendered 1712 chars CHANGED
+[oworld-notice-list] rendered 585 chars CHANGED
+[nol-product-lab-concert-daejeon] rendered 5191 chars CHANGED
+[djac-performance-2026-12-p2] rendered 4200 chars CHANGED
+[usmint-product-schedule-2026] rendered 160 chars CHANGED
+[djbea-biz-pbnc] rendered 2206 chars CHANGED
+[djkids-main] rendered 1508 chars CHANGED
+[djkids-program-notice] rendered 1214 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[baekje-schedule] rendered 1512 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
