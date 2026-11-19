@@ -1,42 +1,50 @@
-[djac-perf-5487] rendered 3892 chars CHANGED
-[nol-product-26016080] rendered 2561 chars CHANGED
-[leis-cycling-cbsports-list] rendered 1011 chars CHANGED
-[epost-fsale-coupon] rendered 4958 chars CHANGED
-[kopis-perf-kids-circus-daejeon-2027] rendered 7787 chars same
-[djkids-musical] rendered 1642 chars CHANGED
-[djkids-notice] rendered 1027 chars CHANGED
-[dctf] rendered 1480 chars CHANGED
-[nol-family] rendered 4098 chars CHANGED
-[ticketlink-notice] rendered 167979 chars CHANGED
-[oworld-notice] rendered 1712 chars CHANGED
-[baekje-schedule] rendered 1512 chars CHANGED
-[pyeongtaek-main] rendered 14416 chars CHANGED
-[mnd-main] rendered 17249 chars CHANGED
-[fsale-main] rendered 4893 chars CHANGED
-[pyeongtaek-news-board] rendered 3115 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 4626 chars CHANGED
-[hanbat-library-culture] rendered 2135 chars CHANGED
-[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 484 chars same
-[pyoungsong-event-sandmagic] rendered 498 chars same
-[pyoungsong-event-stonesoup] rendered 335 chars same
-[mcst-culture-71983] rendered 1181 chars CHANGED
-[aircanada-korea] rendered 22910 chars CHANGED
-[mokwon-general-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[sejong-notice-gogohak-festa] rendered 881 chars CHANGED
+[blog-youneed4613-224436099074] rendered 4077 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
+[pyoungsong-tribe-events-api-p2] rendered 132622 chars same
+[leis-ski-snowon-notices] rendered 1022 chars CHANGED
+[leis-ski-snowon-youth] rendered 766 chars CHANGED
+[leis-ski-muju-school] rendered 863 chars CHANGED
+[leis-ski-skiland-lessons] rendered 599 chars CHANGED
+[leis-ski-mentor-lessons] rendered 4778 chars same
+[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
+[leis-spectator-archery] rendered 3992 chars CHANGED
+[leis-spectator-archery-current] rendered 8321 chars CHANGED
+[foresttrip-notice] rendered 141 chars same
+[cwg-dmz-crane-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.mokwon.ac.kr/kr/html/sub06/0601.html", waiting until "domcontentloaded"
+  - navigating to "https://www.cwg.go.kr/dmzmpt/selectBbsNttList.do?bbsNo=123&key=1242", waiting until "domcontentloaded"
 
-[kopis-place-pyoungsong-small] rendered 10094 chars same
-[bok-press-list] rendered 801 chars CHANGED
-[blog-seogu-artfest-fringe-cvovz] rendered 5670 chars CHANGED
-[blog-seogu-artfest-blu2sky7] rendered 6587 chars CHANGED
-[kwater-realtime-sumun] rendered 2306 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 3875 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 4762 chars CHANGED
-[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
-[kmusic-calendar-2026-12] rendered 1260 chars CHANGED
-[kmusic-calendar-year] rendered 6309 chars CHANGED
-[nol-product-26001112] rendered 3666 chars CHANGED
-[blog-daedeokgu-224432911721] rendered 2670 chars CHANGED
-[blog-namuac21-224424725714] rendered 4565 chars CHANGED
+[ssg-fsale-coupon] rendered 11393 chars CHANGED
+[donggu-yeyak-exprn-list] rendered 2311 chars CHANGED
+[djac-perf-5603] rendered 3222 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[kopis-daejeon-kids] rendered 30567 chars same
+[kwater-realtime-multidam] rendered 10546 chars CHANGED
+[fsale-onnuri] rendered 361 chars same
+[gcfct-schedule] rendered 371 chars CHANGED
+[mokwon-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.mokwon.ac.kr/kr/html/sub03/030102.html", waiting until "domcontentloaded"
+
+[science-reservation] rendered 1182 chars same
+[khs-notice] rendered 309 chars same
+[pyeongtaek-gosi] rendered 1614 chars CHANGED
+[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
+[daejeon-okr-edu] rendered 1501 chars same
+[daejeon-okr-hanbatlib] rendered 1658 chars CHANGED
+[science-edu-reservation] rendered 2147 chars same
+[sejong-notice] rendered 2350 chars CHANGED
+[sejong-notice-greenfamily] rendered 1799 chars CHANGED
+[sejong-notice-birdwatch] rendered 1339 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 4878 chars CHANGED
+[komsco-shop-medal] rendered 7357 chars CHANGED
+[komsco-shop-coin] rendered 6751 chars CHANGED
+[komsco-shop-bar] rendered 6929 chars CHANGED
+[komsco-shop-card] rendered 7426 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
+[nol-notice-10111] rendered 16301 chars CHANGED
+[naver-entertain-018-0006379428] rendered 44400 chars CHANGED
