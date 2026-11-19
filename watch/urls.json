@@ -1483,7 +1483,7 @@
  },
  {
   "id": "runningon-schedule-open",
-  "url": "https://runningon.co.kr/schedule?month=전체&status=접수중",
+  "url": "https://runningon.co.kr/schedule?month=%EC%A0%84%EC%B2%B4&status=%EC%A0%91%EC%88%98%EC%A4%91",
   "render": true,
   "note": "JOB16 러닝온 접수중 대회 목록 | 2026-10-18 JOB11 대조에서 추가"
  },
@@ -1519,7 +1519,7 @@
  },
  {
   "id": "leis-ski-mentor-lessons",
-  "url": "https://mentorski.com/강습안내",
+  "url": "https://mentorski.com/%EA%B0%95%EC%8A%B5%EC%95%88%EB%82%B4",
   "note": "JOB16 스키 | 무주 사업자 직접 강습안내; 합반/단체모집만 검토, 고가상시광고 제외",
   "render": true
  },
@@ -1644,7 +1644,7 @@
  },
  {
   "id": "leis-hands-on-ddcc-notices",
-  "url": "https://ddcc.or.kr/문화원소식/공지사항/",
+  "url": "https://ddcc.or.kr/%EB%AC%B8%ED%99%94%EC%9B%90%EC%86%8C%EC%8B%9D/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/",
   "note": "공식문화원 신규모집·전통체험 공지. 과거신탄진은발견단서만; 실제불/아이직접/연령/안전운영 검증전알림금지. LED·관람대체 제외."
  },
  {
@@ -1733,9 +1733,9 @@
  },
  {
   "id": "oworld-notice-list",
-  "url": "https://www.oworld.kr/newkfsweb/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1445&mn=KFS_34_03_01_01",
+  "url": "https://www.oworld.kr/newkfsweb/kfi/kfs/linkage/selectDccoLinkageList.do?mn=KFS_34_01_09_01",
   "render": true,
-  "note": "대전오월드 공지사항 목록 (홈페이지 감시 0자 반복 대체, JOB4) | 2026-11-13 추가 | 2026-11-19 URL 교체: 기존 BBSMSTR_1470은 오월드 소개 페이지 → 링크 목록의 뉴스&공지 게시판(BBSMSTR_1445)"
+  "note": "대전오월드 공지사항 목록 (홈페이지 감시 0자 반복 대체, JOB4) | 2026-11-13 추가 | 2026-11-19 URL 교체: BBSMSTR_1445 | 2026-11-20 URL 교체: BBSMSTR_1445도 스릴체험 페이지 → 메뉴 링크 순서상 이용정보>뉴스&공지(KFS_34_01_09_01)"
  },
  {
   "id": "djac-performance-2026-12",
