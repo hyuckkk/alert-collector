@@ -1,55 +1,53 @@
-[leis-runningwikii] RENDER ERROR rendered but too little text (51 chars)
-[expo-park] rendered 723 chars CHANGED
-[nol-upcoming-notice] rendered 17052 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 16972 chars CHANGED
-[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
-[pyeongtaek-gosi] rendered 1580 chars CHANGED
-[donghae-dhdmo-program] rendered 1804 chars CHANGED
-[daejeon-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
-[daejeon-okr-edu] rendered 1501 chars same
-[daejeon-okr-hanbatlib] rendered 1658 chars same
-[science-edu-reservation] rendered 2130 chars same
-[sejong-notice] rendered 2358 chars CHANGED
-[sejong-notice-greenfamily] rendered 1799 chars CHANGED
-[blog-seogu-artfest-fringe-cvovz] rendered 5701 chars CHANGED
-[blog-seogu-artfest-blu2sky7] rendered 6556 chars CHANGED
-[kwater-realtime-sumun] rendered 2305 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 4060 chars CHANGED
-[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
-[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
-[leis-cycling-kcf] rendered 2168 chars CHANGED
-[sje-life-events] rendered 37317 chars CHANGED
-[nol-nutcracker-daejeon] rendered 5028 chars CHANGED
-[mara1080-goldrun-geumsan] rendered 4294 chars CHANGED
-[runningon-schedule-open] rendered 8821 chars CHANGED
-[leis-ski-snowon] rendered 593 chars CHANGED
-[leis-ski-jb-sports] rendered 1264 chars CHANGED
-[leis-ski-sejong-sports] rendered 810 chars CHANGED
-[nol-product-26011246] rendered 1720 chars CHANGED
-[namwon-missiontour] RENDER ERROR Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://namwon.missiontour.kr/
+[foresttrip-main] rendered 7384 chars CHANGED
+[sejong-notice-gogohak-festa-alt] rendered 1483 chars CHANGED
+[kaist-orchestra-appassionato-booking] rendered 4568 chars CHANGED
+[sejong-notice-birdwatch] rendered 1339 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 5022 chars CHANGED
+[komsco-shop-medal] rendered 7357 chars CHANGED
+[komsco-shop-coin] rendered 6751 chars CHANGED
+[komsco-shop-bar] rendered 6862 chars CHANGED
+[komsco-shop-card] rendered 7426 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
+[cnu-jsh-schedule] rendered 774 chars same
+[bok-commemorative-coin-news] rendered 715 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 5593 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
+[nol-notice-10111] rendered 16988 chars CHANGED
+[naver-entertain-018-0006379428] rendered 45733 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 4762 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1260 chars CHANGED
+[kmusic-calendar-year] rendered 6309 chars CHANGED
+[nol-product-26001112] rendered 3666 chars CHANGED
+[blog-daedeokgu-224432911721] rendered 2670 chars CHANGED
+[blog-namuac21-224424725714] rendered 4565 chars CHANGED
+[blog-youneed4613-224436099074] rendered 4636 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[pyoungsong-tribe-events-api-p2] rendered 132622 chars same
+[leis-ski-snowon-notices] rendered 1022 chars CHANGED
+[leis-ski-snowon-youth] rendered 766 chars CHANGED
+[leis-ski-muju-school] rendered 863 chars CHANGED
+[djac-perf-5487] rendered 3892 chars CHANGED
+[nol-product-26016080] rendered 2561 chars CHANGED
+[leis-cycling-cbsports-list] rendered 1011 chars CHANGED
+[epost-fsale-coupon] rendered 4959 chars CHANGED
+[kopis-perf-kids-circus-daejeon-2027] rendered 7787 chars same
+[djkids-musical] rendered 1642 chars CHANGED
+[djkids-notice] rendered 1027 chars CHANGED
+[dctf] rendered 1480 chars same
+[nol-family] rendered 4028 chars CHANGED
+[ticketlink-notice] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/help/notice']' timed out after 75 seconds
+[oworld-notice] rendered 1712 chars CHANGED
+[baekje-schedule] rendered 1512 chars CHANGED
+[melon-artist-songsohee] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/artist/index.htm?artistId=672059
 Call log:
-  - navigating to "https://namwon.missiontour.kr/", waiting until "domcontentloaded"
+  - navigating to "https://ticket.melon.com/artist/index.htm?artistId=672059", waiting until "domcontentloaded"
 
-[oworld-notice-list] rendered 585 chars CHANGED
-[nol-product-lab-concert-daejeon] rendered 5229 chars CHANGED
-[djac-performance-2026-12-p2] rendered 4200 chars CHANGED
-[usmint-product-schedule-2026] rendered 160 chars CHANGED
-[djbea-biz-pbnc] rendered 2209 chars CHANGED
-[yuseong-round-event] rendered 1319 chars CHANGED
-[ticketlink-notice-mobile] rendered 282055 chars same
-[pyoungsong-performance] rendered 1268 chars same
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[yes24-search-daejeon] RENDER ERROR rendered but too little text (0 chars)
-[dsecc-programs] rendered 1941 chars CHANGED
-[seogu-exprn-list] rendered 1128 chars CHANGED
-[seogu-event-list] rendered 1128 chars CHANGED
-[seogu-edu-list] rendered 1134 chars CHANGED
-[daejeon-its-board] rendered 3369 chars CHANGED
-[zeropay-events] rendered 572 chars CHANGED
-[chuncheon-festival-news] rendered 881 chars CHANGED
-[chuncheon-festival-news-459539] rendered 801 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
-
-[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
+[interpark-artist-leejuck] rendered 10221 chars CHANGED
+[yctf-show] rendered 417 chars CHANGED
+[sejong-notice-science-concert] rendered 1017 chars CHANGED
+[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
+[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
+[yangyang-cafe-balloon-15331-m] rendered 31481 chars CHANGED
+[hanbat-gongdong-science-form] rendered 622 chars CHANGED
+[daejeon-cafe-dodam-2801968] rendered 8365 chars CHANGED
