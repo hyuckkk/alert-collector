@@ -1,76 +1,50 @@
-[sejong-notice-gogohak-festa] rendered 1254 chars CHANGED
-[dmak-main] rendered 524 chars CHANGED
-[mokwon-events] rendered 948 chars CHANGED
-[science-reservation] RENDER ERROR Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://rsvn.science.go.kr/nsm/evtrsvn/evtrsvnList
+[oworld-notice] rendered 1712 chars same
+[baekje-schedule] rendered 1512 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[mommom-sandmagic-a] rendered 95 chars CHANGED
+[mommom-sandmagic-b] rendered 84 chars CHANGED
+[sejong-notice-imnansu-play] rendered 869 chars CHANGED
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[andong-halftour] rendered 2550 chars CHANGED
+[kfe-main] rendered 3554 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 5023 chars CHANGED
+[blog-dooglami-224434696671] rendered 5300 chars CHANGED
+[dsecc-programs-p2] rendered 1944 chars CHANGED
+[dsecc-programs-p3] rendered 1944 chars CHANGED
+[mommom-place-6a868bff] rendered 95 chars CHANGED
+[mommom-place-6a2b946b] rendered 95 chars CHANGED
+[mommom-place-6a2b94f5] rendered 84 chars CHANGED
+[mommom-place-6a2b9455] rendered 84 chars CHANGED
+[nol-product-phantom-40th] rendered 5581 chars CHANGED
+[daejeontour-bread-festival] rendered 783 chars CHANGED
+[visitisland-main] rendered 993 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1659 chars same
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 4573 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1260 chars CHANGED
+[kmusic-calendar-year] rendered 6309 chars CHANGED
+[nol-nutcracker-daejeon] rendered 5028 chars CHANGED
+[mara1080-goldrun-geumsan] rendered 4294 chars CHANGED
+[runningon-schedule-open] rendered 8796 chars CHANGED
+[leis-ski-snowon] rendered 593 chars CHANGED
+[leis-ski-jb-sports] rendered 1264 chars CHANGED
+[leis-ski-sejong-sports] rendered 810 chars CHANGED
+[nol-product-26011246] rendered 1720 chars CHANGED
+[namwon-missiontour] RENDER ERROR Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://namwon.missiontour.kr/
 Call log:
-  - navigating to "https://rsvn.science.go.kr/nsm/evtrsvn/evtrsvnList", waiting until "domcontentloaded"
+  - navigating to "https://namwon.missiontour.kr/", waiting until "domcontentloaded"
 
-[khs-notice] rendered 309 chars same
-[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[pyeongtaek-news-board] rendered 3092 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 4555 chars CHANGED
-[komsco-shop-currency-set] rendered 6683 chars CHANGED
-[cnu-jsh-schedule] rendered 774 chars same
-[bok-commemorative-coin-news] rendered 634 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 5917 chars CHANGED
-[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
-[nol-notice-10111] rendered 16452 chars CHANGED
-[naver-entertain-018-0006379428] rendered 45432 chars CHANGED
-[melon-artist-songsohee] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/artist/index.htm?artistId=672059
-Call log:
-  - navigating to "https://ticket.melon.com/artist/index.htm?artistId=672059", waiting until "domcontentloaded"
-
-[interpark-artist-leejuck] rendered 10133 chars CHANGED
-[yctf-show] rendered 417 chars CHANGED
-[sejong-notice-science-concert] rendered 1017 chars CHANGED
-[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31160 chars CHANGED
-[hanbat-gongdong-science-form] rendered 622 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 8581 chars CHANGED
-[cnu-jsh-schedule-178] rendered 4060 chars CHANGED
-[dmzforest-main] rendered 6380 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
-Call log:
-  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
-
-[woorisb-tok7-product] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://m.woorisavingsbank.com/product/deposite/view.do?prdSn=325", waiting until "domcontentloaded"
-
-[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
-[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
-[leis-cycling-kcf] RENDER ERROR Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.cycling.or.kr/
-Call log:
-  - navigating to "https://www.cycling.or.kr/", waiting until "domcontentloaded"
-
-[sje-life-events] rendered 37302 chars CHANGED
-[djac-perf-5603] rendered 3222 chars CHANGED
-[djac-perf-5606] rendered 3436 chars CHANGED
-[djac-perf-5441] rendered 3415 chars CHANGED
-[miraeasset-kids-economic-class] RENDER ERROR Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://develop.investments.miraeasset.com/magi/fund/child/economic/class.do
-Call log:
-  - navigating to "https://develop.investments.miraeasset.com/magi/fund/child/economic/class.do", waiting until "domcontentloaded"
-
-[aircanada-kr-flights-from-korea] rendered 24689 chars CHANGED
-[sslib-sanseong-lecture] RENDER ERROR rendered but too little text (30 chars)
-[daejeonseogu-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
-[daejeoni-parent-edu-list] rendered 3106 chars CHANGED
-[ktostay-special-disaster-stay] rendered 2080 chars CHANGED
-[kspo-svoucher-notice] rendered 1946 chars CHANGED
-[oasis-fsale-coupon] rendered 6514 chars CHANGED
-[nol-product-christmas-film-carol-festa-daejeon] rendered 3539 chars CHANGED
-[nol-product-stagem-christmas-carol-daejeon] rendered 2142 chars CHANGED
-[nol-product-melon-disney-ghibli-christmas-daejeon] rendered 2935 chars CHANGED
-[chungbuk-picturebookgarden-programs] rendered 2977 chars CHANGED
-[koreanair-promo-2610prg] rendered 48791 chars CHANGED
-[koreanair-promo-list] rendered 53956 chars CHANGED
-[nol-product-26015783] rendered 2850 chars CHANGED
-[sejong-notice-yeondong-storyfest] rendered 2165 chars CHANGED
-[yuseong-round-event] rendered 1318 chars CHANGED
-[djkids-musical] rendered 1642 chars CHANGED
-[djkids-notice] rendered 1027 chars CHANGED
-[dctf] rendered 1480 chars same
-[nol-family] rendered 3873 chars CHANGED
+[oworld-notice-list] rendered 979 chars CHANGED
+[nol-product-lab-concert-daejeon] rendered 5229 chars CHANGED
+[djac-performance-2026-12-p2] rendered 4200 chars CHANGED
+[usmint-product-schedule-2026] rendered 160 chars CHANGED
+[djbea-biz-pbnc] rendered 2248 chars CHANGED
+[djkids-main] rendered 1502 chars CHANGED
+[djkids-program-notice] rendered 1214 chars CHANGED
+[expo-park] rendered 757 chars CHANGED
+[nol-upcoming-notice] rendered 16482 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 16475 chars CHANGED
+[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
+[ticketlink-notice-mobile] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://m.ticketlink.co.kr/help/notice']' timed out after 75 seconds
