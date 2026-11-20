@@ -1,8 +1,32 @@
 {
- "updated": "2026-11-20T12:33:40+09:00",
+ "updated": "2026-11-20T14:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 3,
  "hits": [
+  {
+   "title": "[초점] 동아오츠카 포카리스웨트 잘 나가네…없어서 못 팔자 생산라인↑ - 핀포인트뉴스",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xMEw3bGVwMzhaODJTZVFaTmxxUDZOSlN2VmxMYVNfckhjb2ZIUlhNa3RiSlM5WHI5VEk3UDVWNFFfMlF1VEpER2NXU0Y0bTBfU0hiQU41RlBmdFFJelVCaE45ZnJ1cUQwYjd3aTRuY1dQbEpoMExZ0gF3QVVfeXFMTXEwTDdsZXAzOFo4MlNlUVpObHFQNk5KU3ZWbExhU19ySGNvZkhSWE1rdGJKUzlYcjlUSTdQNVY0UV8yUXVUSkRHY1dTRjRtMF9TSGJBTjVGUGZ0UUl6VUJoTjlmcnVxRDBiN3dpNG5jV1BsSmgwTFk?oc=5",
+   "pub": "Fri, 20 Nov 2026 02:19:27 GMT",
+   "engine": "gnews",
+   "query": "청주 마라톤 대회 접수",
+   "first_seen": "2026-11-20T14:07:46+09:00"
+  },
+  {
+   "title": "제목 위해식품 등 긴급 회수사실 알림 - 대전광역시청",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnBIZ2lJSEdkQTF2V0FIeHN0STlLLTVmWEtKV3FtZGVqTzJMeDVQTTVjNERTQUVfckcxaGN5dmNTbXJCLVg1aURJNHlSWmdpTEhrdTN4ckdleWJNZ09oYTlXVWNId0VNYjZLM3JMMm1jaWlydTZhb2gtQUdDUVBBVFhyeTlOWkk4aVpCUTRDZXBPRXNCOGNWTXY5X1c1UFgtN201SjNXeVN1Z2s?oc=5",
+   "pub": "Fri, 20 Nov 2026 04:34:23 GMT",
+   "engine": "gnews",
+   "query": "site:daejeon.go.kr 어린이 체험 모집",
+   "first_seen": "2026-11-20T14:07:46+09:00"
+  },
+  {
+   "title": "대전광역시 - 대전광역시청",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVFJXTFM2WG9nVFhwTEFUU0hVb3JLaWZJVXQxSlA2bm85Q0twdHpNOS1tVzYzWWprUnpKTDRLRnl0MnZueEprdzVsRGdMTk5MbFItY1BqbDBualN1dkp4NHdjb0NsRHVFeUpCS0V4a3NIMTVtdWNXejBhX3laR3RmQjd0ZWJMbGo3VkJndkdLempicFdERWFMd2lCa28xWXhjYVV2bDg1MFdwbzE1ZU5MaGw3Vktublp2bXhfbTFzaUMtMG5zSE9xV2NYbkJqZjlJSE00?oc=5",
+   "pub": "Fri, 20 Nov 2026 03:34:27 GMT",
+   "engine": "gnews",
+   "query": "site:daejeon.go.kr 어린이 체험 모집",
+   "first_seen": "2026-11-20T14:07:46+09:00"
+  },
   {
    "title": "제목 2026년 11월 대기중금속 오염도 현황 - 대전광역시청",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVk5IY1VRaWpLcFpUZDR0U0VyZVcxR3lIRndpTUNmRkRrZWszVm80MlY2WFZjOHplLU9fTFZ2Ynh6RFh1VENLREJGaF91Nms5ZEdjMlNnc1gzQkZjb05IYmJ3SHdRYXNpUHlLYjRFMXlzSVFfOTM4N0dwWkZOTGs4Y2Rwbzl6WU5lc0tSVnhvSlVQR2JmUTc2TkE1RFBNMUVxb0hKLV9VMHV6VGs?oc=5",
@@ -1450,7 +1474,6 @@
   }
  ],
  "errors": [
-  "gnews '무주 스키 단체강습 2만원 3만원': HTTP Error 429: Too Many Requests",
-  "gnews '충남 교육청 겨울방학 스키캠프 모집': HTTP Error 429: Too Many Requests"
+  "gnews '양궁 대회 일정 대전 세종 공주 계룡 논산 옥천 금산 관람 공식': HTTP Error 429: Too Many Requests"
  ]
 }

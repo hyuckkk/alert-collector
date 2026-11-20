@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T12:33:40+09:00",
+ "updated": "2026-11-20T14:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 146,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "근데 저 케이크 스벅 케이크중에 내 일등 왜 더 안팔아 갑자기 불꽃놀이해서 급 구경 노들섬 축제였나 그랬는데 잘 놀다왔담 아바타야 10/4 마지막까지 왕창 퍼주던 산타 도비 도비... 그치만 나 마지막엔 2등 부자햇다 놀이공원을 짓는다는 친구의 이야기를 백번 들어 진짜징짜진짜 오랜만인데 편하게 대해줘서 고마웠담 10/10 피카츄 보러왔어요 살아 움직이는 거",
@@ -11570,11 +11570,5 @@
    "first_seen": "2026-11-13T20:07:46+09:00"
   }
  ],
- "errors": [
-  "naver_news '대전 불꽃놀이': HTTP Error 403: Forbidden",
-  "naver_blog '청주 불꽃축제': HTTP Error 403: Forbidden",
-  "naver_cafe '청주 불꽃축제': HTTP Error 403: Forbidden",
-  "naver_all '청주 불꽃축제': HTTP Error 403: Forbidden",
-  "naver_web '청주 불꽃축제': HTTP Error 403: Forbidden"
- ]
+ "errors": []
 }
