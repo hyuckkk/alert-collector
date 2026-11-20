@@ -1,8 +1,96 @@
 {
- "updated": "2026-11-20T09:07:47+09:00",
+ "updated": "2026-11-20T11:07:45+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 1,
+ "new_this_run": 11,
  "hits": [
+  {
+   "title": "NH농협은행 경북본부, ‘NH골드채움신탁’ 출시 - 농수축산신문",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aWGxPZE9ZRmFsQkVtaTZrWGp4NF91RDdhZko5dE40c1p0SC0wV19sYmx3NlNZZ1RXZnBBYmJ5Z1dWbWl6bGt2dTdIU2lJTzNleXJtamgzVUtsSnZlTHoxbFNkQzdHMHlIMnM5VA?oc=5",
+   "pub": "Fri, 20 Nov 2026 01:33:34 GMT",
+   "engine": "gnews",
+   "query": "은행 기념 골드바 출시",
+   "first_seen": "2026-11-20T11:07:45+09:00"
+  },
+  {
+   "title": "미래에셋증권, AWS 기반 ‘금융상품 지식 AI 검색’ 서비스 본격 운영 - 인더스트리뉴스",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PcFNLeTRxdVduN0g0LW1VeUlLUE9CSzYzVEFldVFtUng5cDI0Z2xZeWFEdVlSNVNfSnNPUWpjZUxNc2VpYnlVSnRfcWFrRUgwTjQwN3c5TmVCZEZDeW1zT3lzV2FJT0o0YkdsNnVxVTNBQQ?oc=5",
+   "pub": "Fri, 20 Nov 2026 02:06:22 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-11-20T11:07:45+09:00"
+  },
+  {
+   "title": "미래에셋증권 평촌WM, VIP 자산관리 세미나 19일 개최 - 뉴스포스트",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jMnBVb2VpYU5LcklJYUgtbVEyMEZaazhjOUhvU0RXTy1rXzBEcFVCYi1TQm1SWWQtMkVTUEdDLVRlbzVQTTVkamRKVTcyTGM2RWVSZE9waFhLdFdtLVJvVGdsRlJCU0s0SkE?oc=5",
+   "pub": "Tue, 17 Nov 2026 06:08:53 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-11-20T11:07:45+09:00"
+  },
+  {
+   "title": "박현주 미래에셋 회장, '젠슨 황 복귀 청원' 동참 - 스마트투데이",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xZUQ0NDN3bTE2QU9LZWVFMThsSVV2X2FiRXhRMHoxTHRjNWRvV1JOSUJ4M1BZaFBVMVo0Q0xWT19GY2ljOExuVzFmQWI4eEZsR2NxT2pROTY3d2VTbnV3?oc=5",
+   "pub": "Sun, 15 Nov 2026 23:31:00 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-11-20T11:07:45+09:00"
+  },
+  {
+   "title": "NH투자증권 '퇴직연금백서' 발간 - 주간한국",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wSy1uQkstNWFxRmstTjRyWjVuNU85MWR3VjlSUWNDcnE5MTUxbWdSOUVRVk83cEVYZW94dlZkRG9YLUFGbEZvaXd0Z3RLOXRWQ3k2cG1zU0EyZlotMldnT3dPTk92WXhETEJRc3M1TXTSAXRBVV95cUxOa3NmalpWX3hucEhjdnJ3YXZRZjMwNzRWb1M2XzhRZHI2T3p3S0thQk5JOHJ4ZlJ5ZkJ5LUdkMXlKQlZmdno4d1RwMlh0S25pNzlMS3FuSi12VWVPem1qNy1VRVF0Z2hDNm43b1lIVXYwUUlubQ?oc=5",
+   "pub": "Fri, 13 Nov 2026 06:20:34 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-11-20T11:07:45+09:00"
+  },
+  {
+   "title": "미래에셋증권, 평촌서 VIP 세미나…부동산·ETF 전략 공유 - SR타임스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pcFlRc0Exb2pkdG5YWnJibXJxVnM5UXNvTmhENy1yTW5qci0tVjBBVnVPVzJ3eU9mdXpfZXQwRmlxS2w0ZW5kdXFYMllhN2NwTGdmX19kUmpTZ29BalNJVzRuLU43WUlX0gFrQVVfeXFMTUlRY2N5VU9kbXlxRVVtZnJWN1o2UVJwWEVoU0VsdkR5eHczZXh0eTRENHh3Sm5BQklSbUVBMDhycUxzTzlDWS02NWJkUGRiWjB2VGRIcVhPMFE4WXpzWHYyMlNNdERNSjhyNGM?oc=5",
+   "pub": "Tue, 17 Nov 2026 06:04:20 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-11-20T11:07:45+09:00"
+  },
+  {
+   "title": "키움증권, 서울마당서 퇴직연금 팝업 운영 - 주간한국",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2YW9TdG5XWW9sVmlEMVpWX2FOdTBfVld6c2FKSzdjNlRXdUZfZE1DQzJyYVM1dDhNLU1SODRLRmlvR21TWG5BZmhZOXdjMzJTcjVFa29hZFRmdDJuTE85VllsTzFmOWtUVEdqVFU1SFTSAXRBVV95cUxQQjlpRndUb211R0VGM29RTGQxalNrdFF3UllRZXR1clNtMmRxc0xLdF9ub2VsWEM3OFVZbl9UU0k1Sy0tUXdhR0trS0c3VjNBR2FsTldlTjNzc1hkOVlCVTY5OEgxRkhZQkxVZGlOVV9sU1JHTw?oc=5",
+   "pub": "Fri, 13 Nov 2026 06:20:28 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-11-20T11:07:45+09:00"
+  },
+  {
+   "title": "코스피, 5000선 붕괴 - 스마트투데이",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UOFBOVU1SRk1CMnNvTmhBM1d4UklUZFJaWVliUVNxX3gwUE0tWVRjWlZlUTgzenRtdERDR2R0TEpFTmdXN080ODJUM185Q0pQSXhlQml1dzAyN3RPd3g4?oc=5",
+   "pub": "Tue, 17 Nov 2026 07:07:00 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-11-20T11:07:45+09:00"
+  },
+  {
+   "title": "한국투자증권, 개인투자자 대상 오프라인 교육 나서 - 뉴스인사이드",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OYXUzLVQ2STRuU0Fscm9iM2g5X0ZRWVU4Y1BPd1NtcTc3dmxnM2xfWEY1aDUyc2NRUGZxc2pWcW9fTFpTQmNmUW5jd2hrdHZ5YXlSWHF4Ump2dHoxbkpwVUs0U3J1Tk1na19yXzFR?oc=5",
+   "pub": "Wed, 18 Nov 2026 04:44:47 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-11-20T11:07:45+09:00"
+  },
+  {
+   "title": "한국투자증권, 6500억원 주주배정 유상증자 - 뉴스인사이드",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EUktOQkV2WkdKa2ZfSDB2V3ZaMjFuYmFYU3RDcXd0c1NPUFd5Yk02bDNNMjBOZnFFRWtWQnFCZXAxMUxZNHo5MWJhYzkxdkpTS01DRGxmQ1B2ZUhmcFFqVTVVTm91OFhzQ0ZmdzRB?oc=5",
+   "pub": "Wed, 18 Nov 2026 07:47:51 GMT",
+   "engine": "gnews",
+   "query": "개인투자용 국채 청약",
+   "first_seen": "2026-11-20T11:07:45+09:00"
+  },
+  {
+   "title": "‘아는 맛이 무섭다’…클래식의 귀환 - 매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FNEhuUXpQZzQyS19LVFNQR0NyVjR1ZjBIYVBVQ2h1Z2dNRms5eC1Sd1oxSTRiTzY2d1A4N0h1SVdlSnQ5MUhJNXVTSkU2elVvdjd6dA?oc=5",
+   "pub": "Fri, 13 Nov 2026 04:08:05 GMT",
+   "engine": "gnews",
+   "query": "기념주화 한정판매",
+   "first_seen": "2026-11-20T11:07:45+09:00"
+  },
   {
    "title": "연 4%대 정기예금 속속 등장···은행권 수신경쟁 치열 - 서울파이낸스",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VMDdNZE1sTjBXdHR0ejd2Vjh3LWt5a20tdXF5bGZKbFI4UGRfWGozYWdpd29CVE9RZlBWc0FUejlLVmY0dVhoZldzVkVCTy1HT29pcFp1MGJidkcyU2ZfcEttY1NyMFU0RXc?oc=5",
@@ -1145,7 +1233,5 @@
    "first_seen": "2026-11-13T20:07:46+09:00"
   }
  ],
- "errors": [
-  "gnews '기념주화 예약 접수': HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }
