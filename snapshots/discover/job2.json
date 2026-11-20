@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-21T03:07:46+09:00",
+ "updated": "2026-11-21T04:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 222,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "2026 경북창의과학한마당은 학생과 학부모, 도민이 과학을 더욱 친근하게 느끼고 다양한 경험을 함께 나누는 축제의 장입니다. 기초과학부터 첨단기술, 인공지능과 로봇과학에... AI와 미래 생존법, 허성범(KAIST 출신 인기 과학 유튜버) AI가 바꿀 미래 사회의 모습을 소개하고 학생의 진로 설계를 돕는 강의가 진행되었습니다. 특별강연 - AI와 미래 생존",
@@ -16330,8 +16330,5 @@
    "first_seen": "2026-11-14T08:08:21+09:00"
   }
  ],
- "errors": [
-  "gnews 'KAIST 오케스트라 정기연주회': HTTP Error 429: Too Many Requests",
-  "gnews '대전 대학 오케스트라 정기연주회 무료': HTTP Error 429: Too Many Requests"
- ]
+ "errors": []
 }

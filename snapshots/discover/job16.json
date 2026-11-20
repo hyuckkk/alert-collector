@@ -1,8 +1,32 @@
 {
- "updated": "2026-11-21T03:07:46+09:00",
+ "updated": "2026-11-21T04:07:46+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 55,
+ "new_this_run": 3,
  "hits": [
+  {
+   "title": "대전선병원 2026년 ‘QI 학술대회’ 개최 - 미디어대전",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KeVRJWHdxZHMwc3BCRmphT3AwWTF1Z1lKUUtwQ2M0clNMVlRFRWIwLThCVjZkR2diVWRVcXFieC1paW5KY0w1eGxkdFNoTTZJVnFyWHZTb2IxSzBPVTF5WHZtYWUtQQ?oc=5",
+   "pub": "Fri, 20 Nov 2026 05:49:46 GMT",
+   "engine": "gnews",
+   "query": "자전거 대회 대전",
+   "first_seen": "2026-11-21T04:07:46+09:00"
+  },
+  {
+   "title": "조선시대 관리 근무 성적표–포폄단자 - 대전광역시청",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUN1Zkxpc2VveDdEYW4wTVdJOXBSNHhxV21JZWJ0THNHS210NFktU0t4X3FFdU8zTGtUM1VKVmFYTEs4SHgwTHgyNUt4Z1dmU1phUE8xYWhzRld1bnljbGszNEVEVS1hb3FRdEh3TnFwNklVa2x4dkZ5eXRLekltM01ONmF6ajdlZ0NrX0kzRDYzMFBqVlJJb1RYRGFmZG9kbGxUcVFrN0pHMW8?oc=5",
+   "pub": "Fri, 20 Nov 2026 19:11:45 GMT",
+   "engine": "gnews",
+   "query": "site:daejeon.go.kr 어린이 체험 모집",
+   "first_seen": "2026-11-21T04:07:46+09:00"
+  },
+  {
+   "title": "허태정 시장 2027 국비 확보‘마지막 승부수’ - 대전광역시청",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGpqQmJ6LTMtU3FIbV9ERWlBdTJnc25nMlVpNnFYRk5TZjkzMV9vWnNqZTdhaGhIbWlxLUlsX1JsSEVTUGxFUGR0dTE0SHc4TnMwLVZLaUljYThRYVBzdW9PR1NoejdxZjFzbU1FS2pERFZTaWJzOUxNaDhTSWV0dXYyYkw3WFVRcjcydkQ5YTdTNjlyUm5XcTg1TFBYaWJxQzBTbDB3MmlROEk?oc=5",
+   "pub": "Fri, 20 Nov 2026 19:11:44 GMT",
+   "engine": "gnews",
+   "query": "site:daejeon.go.kr 어린이 체험 모집",
+   "first_seen": "2026-11-21T04:07:46+09:00"
+  },
   {
    "title": "대전시의회 장형순 의원, 직업계고 학생 노동인권교육 의무화 추진 - 누리일보",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93U2tQajhTLUxkUmZfX2g1eVNHYVRqTXRIQXYyS1NtVnNYLUVTcHR4US10N2lfLXQ2Rk5FaHFZWEdrLU1iWGJlb1dwdGFrNlFhVTJCSG9RZFFWNWR0cUFNWHpzV2Y?oc=5",
@@ -1889,5 +1913,9 @@
    "first_seen": "2026-11-14T04:07:47+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '무주덕유산리조트 스키학교 어린이 단체강습 모집': HTTP Error 429: Too Many Requests",
+  "gnews '충북 교육청 겨울방학 스키캠프 모집': HTTP Error 429: Too Many Requests",
+  "gnews '전북 체육회 어린이 스키교실 모집': HTTP Error 429: Too Many Requests"
+ ]
 }
