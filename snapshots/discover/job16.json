@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-20T11:07:45+09:00",
+ "updated": "2026-11-20T12:33:40+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "제목 2026년 11월 대기중금속 오염도 현황 - 대전광역시청",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVk5IY1VRaWpLcFpUZDR0U0VyZVcxR3lIRndpTUNmRkRrZWszVm80MlY2WFZjOHplLU9fTFZ2Ynh6RFh1VENLREJGaF91Nms5ZEdjMlNnc1gzQkZjb05IYmJ3SHdRYXNpUHlLYjRFMXlzSVFfOTM4N0dwWkZOTGs4Y2Rwbzl6WU5lc0tSVnhvSlVQR2JmUTc2TkE1RFBNMUVxb0hKLV9VMHV6VGs?oc=5",
+   "pub": "Fri, 20 Nov 2026 02:37:24 GMT",
+   "engine": "gnews",
+   "query": "site:daejeon.go.kr 어린이 체험 모집",
+   "first_seen": "2026-11-20T12:33:40+09:00"
+  },
   {
    "title": "완주군, ‘만경강 메디오폰도 자전거대회’ 성황 - 전라매일",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54MVBKbkg5Y0tqMTdLc1RVNzN6Nll1OVFFd2VETnotV25MMk96WjdpcGJvanVlT29pR19pVzR1d3hSNmZwd0pZQW9rc2xabFllYVJ1a3dINTBsNkFOYTFpc3pCN1BhUXFsQ1A0TDRB?oc=5",
@@ -1441,5 +1449,8 @@
    "first_seen": "2026-11-13T20:07:46+09:00"
   }
  ],
- "errors": []
+ "errors": [
+  "gnews '무주 스키 단체강습 2만원 3만원': HTTP Error 429: Too Many Requests",
+  "gnews '충남 교육청 겨울방학 스키캠프 모집': HTTP Error 429: Too Many Requests"
+ ]
 }
