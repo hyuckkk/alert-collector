@@ -1,54 +1,57 @@
-[sejong-notice-gogohak-festa-alt] rendered 1254 chars CHANGED
-[kopis-perf-kids-circus-daejeon-2027] rendered 7787 chars same
-[kaist-orchestra-appassionato-booking] rendered 4568 chars CHANGED
-[nol-family] rendered 3867 chars CHANGED
-[mokwon-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[nol-product-stagem-christmas-carol-daejeon] rendered 2142 chars CHANGED
+[nol-product-melon-disney-ghibli-christmas-daejeon] rendered 2935 chars CHANGED
+[chungbuk-picturebookgarden-programs] rendered 2977 chars CHANGED
+[koreanair-promo-2610prg] rendered 48847 chars CHANGED
+[koreanair-promo-list] rendered 54012 chars CHANGED
+[nol-product-26015783] rendered 2850 chars CHANGED
+[oworld-notice] rendered 1712 chars CHANGED
+[baekje-schedule] rendered 1512 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[expo-park] rendered 757 chars CHANGED
+[nol-upcoming-notice] rendered 16138 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 16176 chars CHANGED
+[kma-hydro-dam] RENDER ERROR rendered but too little text (39 chars)
+[ticketlink-notice-mobile] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.mokwon.ac.kr/kr/html/sub03/030102.html", waiting until "domcontentloaded"
+  - navigating to "https://m.ticketlink.co.kr/help/notice", waiting until "domcontentloaded"
 
-[science-reservation] rendered 1184 chars same
-[khs-notice] rendered 309 chars same
-[royal-khs-events] RENDER ERROR TypeError: 'NoneType' object is not iterable
-[pyeongtaek-news-board] rendered 3092 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 4555 chars CHANGED
-[komsco-shop-currency-set] rendered 6683 chars CHANGED
-[cnu-jsh-schedule] rendered 774 chars same
-[bok-commemorative-coin-news] rendered 634 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 5905 chars CHANGED
-[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
-[nol-notice-10111] rendered 16119 chars CHANGED
-[naver-entertain-018-0006379428] rendered 45901 chars CHANGED
-[melon-artist-songsohee] rendered 2191 chars CHANGED
-[interpark-artist-leejuck] rendered 10133 chars CHANGED
-[yctf-show] rendered 417 chars CHANGED
-[sejong-notice-science-concert] rendered 1017 chars CHANGED
-[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31526 chars CHANGED
-[hanbat-gongdong-science-form] rendered 622 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 8503 chars CHANGED
-[cnu-jsh-schedule-178] rendered 4060 chars CHANGED
-[dmzforest-main] rendered 6380 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[melon-christmas-carol-212575] rendered 1893 chars CHANGED
-[woorisb-tok7-product] rendered 2804 chars CHANGED
-[vol-ysvc-main] RENDER ERROR rendered but too little text (60 chars)
-[vol-ysvc-ground] RENDER ERROR rendered but too little text (60 chars)
-[leis-cycling-kcf] rendered 2172 chars CHANGED
-[sje-life-events] rendered 37212 chars CHANGED
-[djac-perf-5603] rendered 3222 chars CHANGED
-[djac-perf-5606] rendered 3436 chars CHANGED
-[djac-perf-5441] rendered 3415 chars CHANGED
-[miraeasset-kids-economic-class] RENDER ERROR Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://develop.investments.miraeasset.com/magi/fund/child/economic/class.do
+[mommom-sandmagic-a] rendered 95 chars CHANGED
+[mommom-sandmagic-b] rendered 84 chars CHANGED
+[sejong-notice-imnansu-play] rendered 869 chars CHANGED
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[andong-halftour] rendered 2550 chars CHANGED
+[kfe-main] rendered 3554 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 5002 chars CHANGED
+[blog-dooglami-224434696671] rendered 5187 chars CHANGED
+[dsecc-programs-p2] rendered 1944 chars CHANGED
+[dsecc-programs-p3] rendered 1944 chars CHANGED
+[mommom-place-6a868bff] rendered 84 chars CHANGED
+[mommom-place-6a2b946b] rendered 84 chars CHANGED
+[mommom-place-6a2b94f5] rendered 84 chars CHANGED
+[mommom-place-6a2b9455] rendered 84 chars CHANGED
+[nol-product-phantom-40th] rendered 5581 chars CHANGED
+[daejeontour-bread-festival] rendered 783 chars CHANGED
+[visitisland-main] rendered 993 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1659 chars same
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 4573 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1260 chars CHANGED
+[kmusic-calendar-year] rendered 6309 chars CHANGED
+[nol-nutcracker-daejeon] rendered 5028 chars CHANGED
+[mara1080-goldrun-geumsan] rendered 4294 chars CHANGED
+[runningon-schedule-open] rendered 8874 chars CHANGED
+[leis-ski-snowon] rendered 593 chars CHANGED
+[leis-ski-jb-sports] rendered 1264 chars CHANGED
+[leis-ski-sejong-sports] rendered 810 chars CHANGED
+[nol-product-26011246] rendered 1720 chars CHANGED
+[namwon-missiontour] RENDER ERROR Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://namwon.missiontour.kr/
 Call log:
-  - navigating to "https://develop.investments.miraeasset.com/magi/fund/child/economic/class.do", waiting until "domcontentloaded"
+  - navigating to "https://namwon.missiontour.kr/", waiting until "domcontentloaded"
 
-[aircanada-kr-flights-from-korea] rendered 24451 chars CHANGED
-[sslib-sanseong-lecture] RENDER ERROR rendered but too little text (30 chars)
-[daejeonseogu-familycenter-programs] RENDER ERROR rendered but too little text (15 chars)
-[daejeoni-parent-edu-list] rendered 3106 chars CHANGED
-[ktostay-special-disaster-stay] rendered 2080 chars CHANGED
-[kspo-svoucher-notice] rendered 1946 chars CHANGED
-[oasis-fsale-coupon] rendered 6564 chars CHANGED
-[nol-product-christmas-film-carol-festa-daejeon] rendered 3539 chars CHANGED
+[oworld-notice-list] rendered 979 chars CHANGED
+[nol-product-lab-concert-daejeon] rendered 5229 chars CHANGED
+[djac-performance-2026-12-p2] rendered 4200 chars CHANGED
+[usmint-product-schedule-2026] rendered 160 chars CHANGED
+[djbea-biz-pbnc] rendered 2248 chars CHANGED
