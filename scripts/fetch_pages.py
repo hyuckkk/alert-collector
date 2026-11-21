@@ -136,6 +136,14 @@ def main() -> int:
     SNAP.mkdir(exist_ok=True)
     items = json.loads(WATCH.read_text(encoding="utf-8")) if WATCH.exists() else []
     index = json.loads(INDEX.read_text(encoding="utf-8")) if INDEX.exists() else {}
+    # "disabled": true 항목은 받지 않는다(사이트 폐쇄·해외 차단 등, 사유는 disabled_reason). 목록에서 빠진 항목의 기록은 지운다.
+    ids = {it["id"] for it in items}
+    for k in [k for k in index if not k.startswith("_") and k not in ids]:
+        del index[k]
+    for it in items:
+        if it.get("disabled") and it["id"] in index:
+            index[it["id"]].update(disabled=True, disabled_reason=it.get("disabled_reason"))
+    items = [it for it in items if not it.get("disabled")]
     now = datetime.now(KST).isoformat(timespec="seconds")
     # 정상 페이지(최근 성공)를 먼저, 계속 실패 중인 페이지를 뒤에 두고 병렬로 받는다.
     # 전체 시간 예산을 넘기면 남은 것은 건너뛰어 커밋 단계가 timeout으로 사라지지 않게 한다.

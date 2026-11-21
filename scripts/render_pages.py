@@ -37,7 +37,7 @@ def main() -> int:
     items = json.loads(WATCH.read_text(encoding="utf-8"))
     index = json.loads(INDEX.read_text(encoding="utf-8")) if INDEX.exists() else {}
     todo = [it for it in items
-            if it.get("render") or "too little text" in (index.get(it["id"], {}).get("error") or "")]
+            if not it.get("disabled") and (it.get("render") or "too little text" in (index.get(it["id"], {}).get("error") or ""))]
     # rotate: pages tried least recently first, so the time budget reaches every page over a few runs
     todo.sort(key=lambda it: index.get(it["id"], {}).get("render_tried_at") or "")
     if not todo:
@@ -161,9 +161,10 @@ def render_one(url: str) -> dict:
                 pass
             page.wait_for_timeout(6000)
             text = page.evaluate("document.body ? document.body.innerText : ''") or ""
-        links = page.evaluate("[...document.querySelectorAll('a[href]')].map(a=>a.href).slice(0,600)")
+        # 페이지 스크립트가 배열 동작을 바꿔 두면 evaluate 가 null 을 돌려준다(royal.khs.go.kr: 'NoneType' object is not iterable)
+        links = page.evaluate("Array.from(document.querySelectorAll('a[href]'), a=>a.href).slice(0,600)") or []
         # javascript: links hide detail pages (goDtl(123) etc.) — keep the onclick targets as hints
-        onclicks = page.evaluate("[...document.querySelectorAll('[onclick]')].map(e=>(e.innerText||'').trim().slice(0,60)+' => '+e.getAttribute('onclick').slice(0,120)).slice(0,300)")
+        onclicks = page.evaluate("Array.from(document.querySelectorAll('[onclick]'), e=>(e.innerText||'').trim().slice(0,60)+' => '+(e.getAttribute('onclick')||'').slice(0,120)).slice(0,300)") or []
         text = "\n".join(l.strip() for l in text.splitlines() if l.strip())
         if xhr_texts:
             text += "\n\n[[페이지가 불러온 데이터(JSON)]]\n" + "\n".join(xhr_texts)
