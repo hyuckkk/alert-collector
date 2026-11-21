@@ -1,8 +1,15 @@
 {
- "updated": "2026-11-21T18:07:50+09:00",
+ "updated": "2026-11-21T18:39:15+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 19,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "저: 용담댐은 금강 상류이고, 대청댐(대청호)은 금강줄기에 속해 있습니다. 곧, 용담댐에서 방류한 물이 대청호로 유입된다는거죠. 아래 사진은 용담댐과 대청댐 정보 입니다. ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ 아래 사진은 금강 정보 입니다. ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ 용담댐부터 금강휴게소까지의 경로중 군데군데를 설정하여... 새 창 열림",
+   "url": "https://cafe.naver.com/qotmtkfkd/142188?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InFvdG10a2ZrZCIsImFydGljbGVJZCI6MTQyMTg4LCJpc3N1ZWRBdCI6MTc5NTI1NDY4ODU3NX0.NES3KfrFuwolMEVRCcxhu7hEQaw_1HeOsTV4X1BsUGs",
+   "engine": "naver_web",
+   "query": "대청댐 방류",
+   "first_seen": "2026-11-21T18:39:15+09:00"
+  },
   {
    "title": "지자체 재난 문자 및 방송 상시 주시: 홍수경보나 주의보가 발령된 지역의 주민들은 스마트폰 긴급재난문자(CBS)와 마을 방송, 이·통장의 안내에 귀를 기울이셔야 합니다. 대피 명령이... 태그: #도암교홍수경보 #용수천 #논산천홍수주의보 #미호강홍수주의보 #대청댐방류 #세종폭우 #충남폭우 #청주폭우 #기상특보 #긴급재난속보 #하천범람 #주민대피령 #안전수칙",
    "url": "https://blog.naver.com/bncop24/224341117701",
@@ -805,6 +812,8 @@
    "first_seen": "2026-11-16T02:09:16+09:00"
   }
  ],
- "errors": [],
- "skipped_for_time": 30
+ "errors": [
+  "gnews 'site:kwater.or.kr 대청댐 수문 개방': HTTP Error 429: Too Many Requests"
+ ],
+ "skipped_for_time": 32
 }
