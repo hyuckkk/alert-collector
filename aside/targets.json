@@ -1,0 +1,173 @@
+{
+ "version": 1,
+ "pages": [
+  {
+   "id": "daejeon-familycenter-programs",
+   "url": "https://daejeon.familynet.or.kr/center/lay1/program/S295T322C451/recruitReceipt/list.do",
+   "want": "대전광역시가족센터 프로그램 모집 목록(서버에서 HTTP 400). 새 공지·모집·예약 오픈·일정 변경(제목, 날짜·시간, 장소, 대상 연령, 비용, 신청 기간·방법, 원문 한 줄)"
+  },
+  {
+   "id": "daejeonseogu-familycenter-programs",
+   "url": "https://daejeonseogu.familynet.or.kr/center/lay1/program/S295T322C451/recruitReceipt/list.do",
+   "want": "대전서구가족센터 프로그램 모집 목록(서버에서 HTTP 400). 새 공지·모집·예약 오픈·일정 변경(제목, 날짜·시간, 장소, 대상 연령, 비용, 신청 기간·방법, 원문 한 줄)"
+  },
+  {
+   "id": "vol-ysvc-main",
+   "url": "http://ysvc.or.kr/",
+   "want": "유성구자원봉사센터 메인 공지(서버에서 403). 가족·청소년 봉사 모집"
+  },
+  {
+   "id": "vol-ysvc-ground",
+   "url": "http://ysvc.or.kr/contents/02_volunteer/board.html?board_id=board_ground",
+   "want": "유성구자원봉사센터 봉사 모집 게시판(서버에서 403). 가족·청소년 봉사 모집"
+  },
+  {
+   "id": "flood-dam-branch",
+   "url": "https://n.flood.go.kr/observation/dam/branchList.do",
+   "want": "홍수통제소 댐 방류 현황(서버에서 시간 초과). 대청댐 방류·수문 개방 여부와 시각"
+  },
+  {
+   "id": "kma-hydro-dam",
+   "url": "http://hydro.kma.go.kr/obsStat/obsDamData.do",
+   "want": "기상청 수문 댐 자료(서버에서 내용 없음). 대청댐 방류량·수위"
+  },
+  {
+   "id": "yes24-search-daejeon",
+   "url": "https://ticket.yes24.com/New/Search/Search.aspx?Query=%EB%8C%80%EC%A0%84",
+   "want": "YES24 티켓 '대전' 검색 결과(서버 렌더 0자). 대전 어린이·가족 공연, 티켓 오픈 일시·가격"
+  },
+  {
+   "id": "usmint-morgan-peace-diamond-field-26xs",
+   "url": "https://www.usmint.gov/morgan-and-peace-dollar-2026-diamond-field-two-coin-set-26XS.html",
+   "want": "미국 조폐국 2026 모건·피스 달러 세트 상품 페이지(서버에서 403). 출시일·가격·판매 상태"
+  }
+ ],
+ "searches": [
+  {
+   "id": "naver-job1-01",
+   "site": "search.naver.com",
+   "query": "대전 어린이 뮤지컬",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job1"
+  },
+  {
+   "id": "naver-job1-02",
+   "site": "search.naver.com",
+   "query": "대전 가족 뮤지컬 티켓오픈",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job1"
+  },
+  {
+   "id": "naver-job1-03",
+   "site": "search.naver.com",
+   "query": "대전 어린이 공연 무료 예약",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job1"
+  },
+  {
+   "id": "naver-job1-04",
+   "site": "search.naver.com",
+   "query": "대전어린이회관 공연",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job1"
+  },
+  {
+   "id": "naver-job1-05",
+   "site": "search.naver.com",
+   "query": "대전 크리스마스 가족뮤지컬",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job1"
+  },
+  {
+   "id": "naver-job1-06",
+   "site": "search.naver.com",
+   "query": "대전 12월 어린이 공연 예매",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job1"
+  },
+  {
+   "id": "naver-job1-07",
+   "site": "search.naver.com",
+   "query": "대전시립예술단 무료 공연 어린이",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job1"
+  },
+  {
+   "id": "naver-job1-08",
+   "site": "search.naver.com",
+   "query": "대전 축제 어린이 인형극",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job1"
+  },
+  {
+   "id": "naver-job2-09",
+   "site": "search.naver.com",
+   "query": "대전 합창 축제 무료 입장 누구나",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job2"
+  },
+  {
+   "id": "naver-job4-10",
+   "site": "search.naver.com",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job4"
+  },
+  {
+   "id": "naver-job10-11",
+   "site": "search.naver.com",
+   "query": "대전시립미술관 교육 접수",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job10"
+  },
+  {
+   "id": "naver-job7-12",
+   "site": "search.naver.com",
+   "query": "대전 가족 체험 선착순",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job7"
+  },
+  {
+   "id": "naver-job7-13",
+   "site": "search.naver.com",
+   "query": "대전 어린이 체험 접수",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job7"
+  },
+  {
+   "id": "naver-job7-14",
+   "site": "search.naver.com",
+   "query": "세종 가족 체험 모집",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job7"
+  },
+  {
+   "id": "naver-job7-15",
+   "site": "search.naver.com",
+   "query": "세종 이도마루 가족 프로그램",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job7"
+  },
+  {
+   "id": "naver-job10-16",
+   "site": "search.naver.com",
+   "query": "세종 공연장상주단체 가족 공연",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job10"
+  },
+  {
+   "id": "naver-job10-17",
+   "site": "search.naver.com",
+   "query": "세종 청소년센터 가족 프로그램 모집",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job10"
+  },
+  {
+   "id": "naver-job10-18",
+   "site": "search.naver.com",
+   "query": "노동자 가족 체험 프로그램 신청 서울",
+   "want": "최근 7일 안의 새 글 중 공식 공고·예약 링크가 있는 것(제목, 날짜·시간, 장소, 대상, 비용, 신청 방법, 원문 한 줄, 공식 링크)",
+   "job": "job10"
+  }
+ ]
+}
