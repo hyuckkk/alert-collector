@@ -2123,5 +2123,11 @@
   "url": "https://speedagency.kr/",
   "render": true,
   "note": "자전거 대회 접수 대행(그란폰도 등) 메인 — 대회 접수 공지·마감 상태(JOB16) | 2026-11-21 추가"
+ },
+ {
+  "id": "kywa-camp-reservation-list",
+  "url": "https://booking.kywa.or.kr/reservation/campReservationList.do",
+  "render": true,
+  "note": "한국청소년활동진흥원 국립청소년수련시설(해양센터·농생명센터·우주센터 등) 캠프 예약 목록 — 가족캠프 OPEN·숙박비 지원 판정(JOB7). WebFetch 차단 | 2026-11-21 추가"
  }
 ]
