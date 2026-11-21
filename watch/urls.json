@@ -2099,5 +2099,29 @@
   "url": "https://m.ticket.yes24.com/Notice/18875?order=1&type=1",
   "render": true,
   "note": "YES24 '2027 라이브 가족뮤지컬 빨간모자 [대전]' 티켓오픈 공지(11/24 10:00) — 상품 링크·관람연령·매수 제한 확인용(JOB1)"
+ },
+ {
+  "id": "naver-booking-kids-circus-daejeon",
+  "url": "https://booking.naver.com/booking/12/bizes/1781157",
+  "render": true,
+  "note": "대전 어린이 서커스 쇼(평송) 제작·예매처 네이버예약 상품 목록 — 신규 대전 가족공연 예매 오픈 감시 (JOB1) | JOB11 2026-11-21 서커스 BOOKING_OPEN 대조에서 추가"
+ },
+ {
+  "id": "smart-science-exhibitions-list",
+  "url": "https://smart.science.go.kr/exhibitions/list.action?menuCd=DOM_000000101000000000",
+  "render": true,
+  "note": "국립과학관 통합 행사·캠프 목록(JOB7 가족캠프). JOB11 2026-11-21 국립광주과학관 가족캠프 대조에서 추가. 목록 URL 형식 미검증 — 실패하면 교체"
+ },
+ {
+  "id": "sejong-citylib-main",
+  "url": "https://library.sejong.go.kr/",
+  "render": true,
+  "note": "세종시립도서관 누리집 — 어린이·가족 공연·행사 공지 확인용(JOB10). 실제 공지·행사 목록 URL은 links.json 확인 후 교체"
+ },
+ {
+  "id": "leis-cycling-speedagency",
+  "url": "https://speedagency.kr/",
+  "render": true,
+  "note": "자전거 대회 접수 대행(그란폰도 등) 메인 — 대회 접수 공지·마감 상태(JOB16) | 2026-11-21 추가"
  }
 ]
