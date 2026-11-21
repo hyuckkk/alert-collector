@@ -2123,5 +2123,37 @@
   "url": "https://speedagency.kr/",
   "render": true,
   "note": "자전거 대회 접수 대행(그란폰도 등) 메인 — 대회 접수 공지·마감 상태(JOB16) | 2026-11-21 추가"
+ },
+ {
+  "id": "kywa-camp-reservation-list",
+  "url": "https://booking.kywa.or.kr/reservation/campReservationList.do",
+  "render": true,
+  "note": "한국청소년활동진흥원 국립청소년수련시설(해양센터·농생명센터·우주센터 등) 캠프 예약 목록 — 가족캠프 OPEN·숙박비 지원 판정(JOB7). WebFetch 차단 | 2026-11-21 추가"
+ },
+ {
+  "id": "ccdn-djarts-dance-pinocchio-1104888",
+  "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1104888",
+  "note": "대전시립예술단 무료 선착순 공연(시립무용단 '춤으로 그리는 동화-피노키오', 22일 시립청소년합창단) 보도 원문 — 일시·장소 확인용. JOB1, 클라우드 WebFetch 차단 | 2026-11-21 추가"
+ },
+ {
+  "id": "lecturernews-djarts-dance-pinocchio-212081",
+  "url": "https://www.lecturernews.com/news/articleView.html?idxno=212081",
+  "note": "대전시립무용단 '춤으로 그리는 동화-피노키오' 무료 선착순 공연 보도 원문 — 일시·장소 확인용. JOB1, 클라우드 WebFetch 차단 | 2026-11-21 추가"
+ },
+ {
+  "id": "djstar-program-board",
+  "url": "https://www.djstar.kr/bbs/board.php?bo_table=web_program",
+  "note": "대전시민천문대 프로그램 게시판(토요 별 음악회·특별공연 안내) — JOB10/JOB1. WebFetch 차단 | 2026-11-21 추가"
+ },
+ {
+  "id": "blog-mandoodad-224482518648",
+  "url": "https://blog.naver.com/PostView.naver?blogId=mandoodad&logNo=224482518648",
+  "render": true,
+  "note": "JOB10 '2026 유성 세대이음 AI 페스타'(12/5 용산DX지원센터) 모집 안내 글 — 접수 기간·방법·신청 링크 확인용 | 2026-11-21 추가"
+ },
+ {
+  "id": "chungnamilbo-math-family-905365",
+  "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=905365",
+  "note": "대전수학문화관 '토요 가족 수학체험교실' 5기 모집 보도 원문 — 게재 연도·접수 일정 확인용. JOB10, WebFetch 차단 | 2026-11-21 추가"
  }
 ]
