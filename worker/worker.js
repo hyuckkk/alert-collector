@@ -36,12 +36,34 @@ function token(env, cat) { return env["TOKEN_" + cat.toUpperCase()]; }
 function isOwner(env, id) { return String(id) === String(env.CHAT_ID); }
 function nowIso() { return new Date(Date.now() + 9 * 3600 * 1000).toISOString().replace(/\.\d+Z$/, "+09:00"); }
 
+// sendMessage 는 일시 오류(HTTP 429·500·502·503·504, 연결 실패)에 2초·4초 간격으로 최대 2번 더 시도한다(n00598 502, n00619 504 사례).
+// 재시도는 결과 기록(GitHub 쓰기)용 하위 요청 몫(TG_RETRY_RESERVE)을 남겨 둘 때만 한다. 다른 메서드는 예전처럼 한 번만.
+const TG_RETRY_STATUS = new Set([429, 500, 502, 503, 504]);
+const TG_RETRY_RESERVE = 10;
 async function tg(tok, method, payload) {
-  SUB++;
-  const r = await fetch(`https://api.telegram.org/bot${tok}/${method}`, {
-    method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify(payload || {}),
-  });
-  let d; try { d = await r.json(); } catch { d = { ok: false, description: `HTTP ${r.status}` }; }
+  const tries = method === "sendMessage" ? 3 : 1;
+  let d;
+  for (let i = 0; i < tries; i++) {
+    if (i) {
+      if (SUB + TG_RETRY_RESERVE >= SUB_LIMIT) break;
+      await new Promise((res) => setTimeout(res, 2000 * i));
+    }
+    SUB++;
+    let status = 0;
+    try {
+      const r = await fetch(`https://api.telegram.org/bot${tok}/${method}`, {
+        method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify(payload || {}),
+      });
+      status = r.status;
+      try { d = await r.json(); } catch { d = { ok: false, description: `HTTP ${r.status}` }; }
+    } catch (e) {
+      if (tries === 1) throw e;
+      d = { ok: false, description: `network error: ${String(e && e.message || e).slice(0, 120)}` };
+    }
+    if (d.ok || !(status === 0 || TG_RETRY_STATUS.has(status))) break;
+    if (status === 429 && Number(d.parameters && d.parameters.retry_after) > 5) break; // 긴 제한은 다음 회차에
+    d = { ...d, attempts: i + 1 };
+  }
   return d;
 }
 
