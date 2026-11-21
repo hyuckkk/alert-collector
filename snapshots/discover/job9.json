@@ -1,8 +1,29 @@
 {
- "updated": "2026-11-21T23:07:48+09:00",
+ "updated": "2026-11-22T00:07:49+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 11,
+ "new_this_run": 3,
  "hits": [
+  {
+   "title": "첫 대상은 한국수자원공사가 발주하는 대청댐 발전시설 현대화 사업의 환경영향평가 대행용역입니다. 첫 발표에서 확인되는 세 기관의... 취수·방류 방식이나 공사 시기가 변경됐다고 가정하면 추가 현장조사가 필요한지, 추가 비용은 어떻게 산정할지, 기존 관찰 자료를... 댐 현대화 사업에서 기존 시설의 운영자료를 확보하고 공사 중의 변화와 분리해 본 경험은 단순한",
+   "url": "https://cafe.naver.com/eiass/646?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVpYXNzIiwiYXJ0aWNsZUlkIjo2NDYsImlzc3VlZEF0IjoxNzk1MjczNzgxNTk1fQ.Riko1LNm3xuShQurV9ogVaXHygW9S0IFDm10P9g_35M&q=%eb%8c%80%ec%b2%ad%eb%8c%90%20%eb%b0%a9%eb%a5%98&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대청댐 방류",
+   "first_seen": "2026-11-22T00:07:49+09:00"
+  },
+  {
+   "title": "지난해부터는 홍수기인 매년 6월 21일부터 9월 20일까지 수문 7개를 완전히 개방한 상태에서 유입되는 물을 즉시 방류하는 방식으로 운영되고 있습니다. 이는 댐 수위를 안정적으로... #괴산댐 #괴산댐방류 #충북 #괴산 #집중호우 #홍수 #장마 #댐방류 #괴산군 #기상청 #안전문자 #호우 #침수 #재난 #하천수위 #수문개방 #홍수기 #충북날씨 #폭우 #재난",
+   "url": "https://blog.naver.com/fassionfollow/224338920421",
+   "engine": "naver_all",
+   "query": "대청댐 홍수방류 재난문자",
+   "first_seen": "2026-11-22T00:07:49+09:00"
+  },
+  {
+   "title": "저: 용담댐은 금강 상류이고, 대청댐(대청호)은 금강줄기에 속해 있습니다. 곧, 용담댐에서 방류한 물이 대청호로 유입된다는거죠. 아래 사진은 용담댐과 대청댐 정보 입니다. ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ 아래 사진은 금강 정보 입니다. ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ 용담댐부터 금강휴게소까지의 경로중 군데군데를 설정하여... 새 창 열림",
+   "url": "https://cafe.naver.com/qotmtkfkd/142188?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InFvdG10a2ZrZCIsImFydGljbGVJZCI6MTQyMTg4LCJpc3N1ZWRBdCI6MTc5NTI3NDE4MjkyM30.oo9ZANvnchJhNe5fSqWKuJCY13iD0FWrFV9DT5mwMv8",
+   "engine": "naver_web",
+   "query": "대청댐 방류",
+   "first_seen": "2026-11-22T00:07:49+09:00"
+  },
   {
    "title": "명칭 대청호 위치 대전광역시·충청북도 일대 호수 종류 인공호수 형성 시기 1980년 형성 배경 금강에 대청댐을 건설하면서 만들어진 호수 건설 목적 홍수 조절, 생활용수·공업용수·농업용수 공급, 수력발전 주요 하천 금강 이름 유래 과거 대덕군의 '대'와 청원군의 '청'을 합쳐 대청호로 명명 주요 특징 산과 호수가 어우러진 아름다운 자연경관 별칭 내륙의 바다.",
    "url": "https://blog.naver.com/whun2397/224458341018",
@@ -904,5 +925,5 @@
   }
  ],
  "errors": [],
- "skipped_for_time": 28
+ "skipped_for_time": 34
 }
