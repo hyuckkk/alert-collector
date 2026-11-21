@@ -146,17 +146,30 @@ def main() -> int:
                 if eng.startswith("naver") and (qi % 3) != slot:
                     continue
                 tasks.append((job, q, eng, url))
+    # 시간 예산 때문에 뒤쪽 검색이 매번 빠지지 않도록 회차마다 순서를 섞는다(같은 시각이면 같은 순서)
+    import random
+    random.Random(now.strftime("%Y%m%d%H")).shuffle(tasks)
 
     import threading
+    # 2026-11-21: 검색어가 650개를 넘어 한 회차가 30분 제한을 넘기고 취소되며 결과를 하나도 저장하지 못했다
+    # (11/20~21 discover 23회 취소, 05:32 이후 미갱신). 시간 예산이 지나면 새 요청을 시작하지 않고 모은 결과만 저장한다.
+    deadline = time.monotonic() + float(os.environ.get("DISCOVER_BUDGET_SEC", "1320"))
+    skipped = {}
     naver_lane = threading.Lock()
     naver_blocked = threading.Event()
 
     def run(t):
         job, q, eng, url = t
+        if time.monotonic() > deadline:
+            skipped[job] = skipped.get(job, 0) + 1
+            return job, eng, [], None
         if eng.startswith("naver"):
             if naver_blocked.is_set():
                 return job, eng, [], None
             with naver_lane:
+                if time.monotonic() > deadline:
+                    skipped[job] = skipped.get(job, 0) + 1
+                    return job, eng, [], None
                 try:
                     return job, eng, search(eng, url, q), None
                 except Exception as e:  # noqa: BLE001
@@ -201,8 +214,9 @@ def main() -> int:
             "new_this_run": len(new),
             "hits": sorted(recent.values(), key=lambda h: h["first_seen"], reverse=True)[:3000],
             "errors": errors.get(job, [])[:30],
+            "skipped_for_time": skipped.get(job, 0),
         }, ensure_ascii=False, indent=1), encoding="utf-8")
-        print(f"[{job}] {len(results.get(job, []))} results, {len(new)} new, {len(errors.get(job, []))} errors",
+        print(f"[{job}] {len(results.get(job, []))} results, {len(new)} new, {len(errors.get(job, []))} errors, {skipped.get(job, 0)} skipped(time)",
               file=sys.stderr)
     return 0
 
