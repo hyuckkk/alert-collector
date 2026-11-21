@@ -303,20 +303,6 @@
    ],
    "target": "",
    "status": "접수중",
-   "apply_period": "2026. 11. 21. ~ 2026. 11. 25.",
-   "capacity": "9/10 명 (대기자수 : 0/7 명)"
-  },
-  {
-   "source": "yuseong-lib-lecture-list",
-   "list_url": "https://lib.yuseong.go.kr/web/program/lectureList.do",
-   "title": "[어린이영어마을도서관] 영어로 뚝딱! 상상공작소-하반기(초등4~6학년)",
-   "event_period": "2026. 11. 28. ~ 2026. 11. 28.",
-   "tags": [
-    "구암",
-    "어린이"
-   ],
-   "target": "초등4~6학년",
-   "status": "접수중",
    "apply_period": "2026. 11. 11. ~ 2026. 11. 26.",
    "capacity": "3/8 명 (대기자수 : 0/5 명)"
   },
@@ -401,7 +387,20 @@
     "공통",
     "누구나"
    ],
-   "target": ""
+   "target": "",
+   "apply_period": "2026. 11. 17. ~ 2026. 11. 27.",
+   "capacity": "10/10 명 (대기자수 : 0/5 명)"
+  },
+  {
+   "source": "yuseong-lib-lecture-list",
+   "list_url": "https://lib.yuseong.go.kr/web/program/lectureList.do",
+   "title": "[관평] 초등학생을 위한 인공지능 활용 교육 \"이야기꾼 모여라!\"",
+   "event_period": "2026. 12. 1. ~ 2026. 12. 4.",
+   "tags": [
+    "관평",
+    "어린이"
+   ],
+   "target": "초등 1~3학년"
   }
  ]
 }
