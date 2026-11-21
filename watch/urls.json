@@ -525,11 +525,11 @@
  },
  {
   "id": "daejeon-familycenter-programs",
-  "url": "https://daejeon.familynet.or.kr/center/lay1/program/S295T322C449/receipt/list.do",
+  "url": "https://daejeon.familynet.or.kr/center/lay1/program/S295T322C451/recruitReceipt/list.do",
   "render": true,
   "note": "대전광역시가족센터 프로그램신청 목록 (가족 프로그램 네이버폼 접수 공지) — JOB10, WebFetch 400",
-  "prev_url": "https://daejeon.familynet.or.kr/center/lay1/program/S295T322C451/recruitReceipt/list.do",
-  "url_changed": "2026-11-21 기존 주소 장기 실패로 대체 주소 시험"
+  "disabled": true,
+  "disabled_reason": "2026-11-21 비활성: 가족센터 프로그램 목록이 해외 접근에 HTTP 400·렌더 15자(11/11 이후 실패 321회). 대체 목록 주소(receipt/list.do)도 같은 오류"
  },
  {
   "id": "daejeon-okr-edu",
@@ -1469,10 +1469,10 @@
  },
  {
   "id": "universalballet-notice",
-  "url": "http://www.universalballet.com/kr/bbs/board.php?bo_table=notice",
+  "url": "https://www.universalballet.com/kr/bbs/board.php?bo_table=notice",
   "note": "유니버설발레단 공지 (전국 투어 공연 지역별 티켓오픈)",
-  "prev_url": "https://www.universalballet.com/kr/bbs/board.php?bo_table=notice",
-  "url_changed": "2026-11-21 https 인증서 오류(사이트 인증서 문제)가 장기 지속 → 같은 공식 페이지의 http 주소 시험(인증서 검사는 끄지 않음)"
+  "disabled": true,
+  "disabled_reason": "2026-11-21 비활성: 사이트 https 인증서가 유효하지 않음(실패 1,574회, 성공 기록 없음). http 주소도 https 로 넘겨져 같은 인증서 오류 — 인증서 검사를 끄지 않는 한 받을 수 없음"
  },
  {
   "id": "nol-nutcracker-daejeon",
@@ -1573,14 +1573,14 @@
   "url": "http://www.gymnastics.or.kr/main/main.html",
   "note": "체조 대회 관람정보원. 실제경기장·일반관람·입장조건은 개별공식상세 검증; 목록/오류는 확정알림 아님.",
   "prev_url": "https://www.gymnastics.or.kr/schedule/domestic/",
-  "url_changed": "2026-11-21 기존 주소 장기 실패로 대체 주소 시험"
+  "url_changed": "2026-11-21 기존 주소 장기 실패로 대체 주소 으로 교체(11/21 13:47 수집 성공 확인)"
  },
  {
   "id": "leis-spectator-gyeonggi_gymnastics",
   "url": "http://gyeonggigymnastics.or.kr/page/main_schedule",
   "note": "경기체조 대회 관람정보원. 실제경기장·일반관람·입장조건은 개별공식상세 검증; 목록/오류는 확정알림 아님.",
   "prev_url": "https://gyeonggigymnastics.or.kr/page/main_schedule",
-  "url_changed": "2026-11-21 https 인증서 오류(사이트 인증서 문제)가 장기 지속 → 같은 공식 페이지의 http 주소 시험(인증서 검사는 끄지 않음)"
+  "url_changed": "2026-11-21 https 인증서 오류(사이트 인증서 문제)가 장기 지속 → 같은 공식 페이지의 http 주소 으로 교체(11/21 13:47 수집 성공 확인)(인증서 검사는 끄지 않음)"
  },
  {
   "id": "leis-spectator-fencing",
@@ -1597,14 +1597,14 @@
   "url": "http://kungdo.or.kr/bbs/board.php?bo_table=game_news",
   "note": "궁도 대회 관람정보원. 실제경기장·일반관람·입장조건은 개별공식상세 검증; 목록/오류는 확정알림 아님.",
   "prev_url": "https://kungdo.or.kr/bbs/board.php?bo_table=game_news",
-  "url_changed": "2026-11-21 https 인증서 오류(사이트 인증서 문제)가 장기 지속 → 같은 공식 페이지의 http 주소 시험(인증서 검사는 끄지 않음)"
+  "url_changed": "2026-11-21 https 인증서 오류(사이트 인증서 문제)가 장기 지속 → 같은 공식 페이지의 http 주소 으로 교체(11/21 13:47 수집 성공 확인)(인증서 검사는 끄지 않음)"
  },
  {
   "id": "leis-spectator-judo",
   "url": "http://judo.sports.or.kr/Match/Country/schedule.asp",
   "note": "유도 대회 관람정보원. 실제경기장·일반관람·입장조건은 개별공식상세 검증; 목록/오류는 확정알림 아님.",
   "prev_url": "https://judo.sports.or.kr/Match/Country/schedule.asp",
-  "url_changed": "2026-11-21 https 인증서 오류(사이트 인증서 문제)가 장기 지속 → 같은 공식 페이지의 http 주소 시험(인증서 검사는 끄지 않음)"
+  "url_changed": "2026-11-21 https 인증서 오류(사이트 인증서 문제)가 장기 지속 → 같은 공식 페이지의 http 주소 으로 교체(11/21 13:47 수집 성공 확인)(인증서 검사는 끄지 않음)"
  },
  {
   "id": "leis-spectator-taekwondo",
@@ -1646,7 +1646,7 @@
   "url": "https://rowing.sports.or.kr/",
   "note": "조정 대회 관람정보원. 실제경기장·일반관람·입장조건은 개별공식상세 검증; 목록/오류는 확정알림 아님.",
   "prev_url": "https://rowing.sports.or.kr/%eb%8c%80%ed%9a%8c%ec%9a%94%ea%b0%95/",
-  "url_changed": "2026-11-21 기존 주소 장기 실패로 대체 주소 시험"
+  "url_changed": "2026-11-21 기존 주소 장기 실패로 대체 주소 으로 교체(11/21 13:47 수집 성공 확인)"
  },
  {
   "id": "leis-spectator-youth_games",
@@ -1762,7 +1762,7 @@
   "render": true,
   "note": "남원 반값 미션투어 신청 사이트 — 모집 변경 감시 (JOB7) | 2026-11-13 추가",
   "prev_url": "https://namwon.missiontour.kr",
-  "url_changed": "2026-11-21 https 인증서 오류(사이트 인증서 문제)가 장기 지속 → 같은 공식 페이지의 http 주소 시험(인증서 검사는 끄지 않음)"
+  "url_changed": "2026-11-21 https 인증서 오류(사이트 인증서 문제)가 장기 지속 → 같은 공식 페이지의 http 주소 으로 교체(11/21 13:47 수집 성공 확인)(인증서 검사는 끄지 않음)"
  },
  {
   "id": "oworld-notice-list",
@@ -1828,7 +1828,7 @@
   "render": true,
   "note": "미래에셋 우리아이 경제교실·경제박사 캠프 모집 (JOB7) | 2026-11-13 추가",
   "prev_url": "https://develop.investments.miraeasset.com/magi/fund/child/economic/class.do",
-  "url_changed": "2026-11-21 기존 주소 장기 실패로 대체 주소 시험"
+  "url_changed": "2026-11-21 기존 주소 장기 실패로 대체 주소 으로 교체(11/21 13:47 수집 성공 확인)"
  },
  {
   "id": "etone-miraeasset-camp-notice",
@@ -1852,7 +1852,7 @@
   "note": "산성어린이도서관(대전학생교육문화원 부설) 강좌·행사·공연 접수 목록 — 가족 100명 규모 무료 어린이 공연·프로그램 (JOB10·JOB1)",
   "render": true,
   "prev_url": "https://sslib.djsch.kr/sanseong/lm/appl/",
-  "url_changed": "2026-11-21 기존 주소 장기 실패로 대체 주소 시험"
+  "url_changed": "2026-11-21 기존 주소 장기 실패로 대체 주소 으로 교체(11/21 13:47 수집 성공 확인)"
  },
  {
   "id": "daum-kids-opera-20261113205025476",
@@ -1866,11 +1866,11 @@
  },
  {
   "id": "daejeonseogu-familycenter-programs",
-  "url": "https://daejeonseogu.familynet.or.kr/center/lay1/program/S295T322C449/receipt/list.do",
+  "url": "https://daejeonseogu.familynet.or.kr/center/lay1/program/S295T322C451/recruitReceipt/list.do",
   "render": true,
   "note": "대전서구가족센터 프로그램 신청 목록 (JOB10) — 아빠·자녀, 가족 체험 선착순 | 2026-11-14 JOB11 추가(아빠와 함께하는 가을 운동회 누락)",
-  "prev_url": "https://daejeonseogu.familynet.or.kr/center/lay1/program/S295T322C451/recruitReceipt/list.do",
-  "url_changed": "2026-11-21 기존 주소 장기 실패로 대체 주소 시험"
+  "disabled": true,
+  "disabled_reason": "2026-11-21 비활성: 대전서구가족센터 목록이 HTTP 400·렌더 15자(실패 227회, 성공 기록 없음). 대체 목록 주소도 같은 오류"
  },
  {
   "id": "daejeoni-parent-edu-list",
