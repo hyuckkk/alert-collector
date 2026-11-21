@@ -1,56 +1,54 @@
-[vol-djv1365-bongsadan] rendered 877 chars CHANGED
-[komsco-shop-currency-set] rendered 6683 chars CHANGED
-[cnu-jsh-schedule] rendered 774 chars same
-[bok-commemorative-coin-news] rendered 634 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 5577 chars CHANGED
-[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
-[nol-notice-10111] rendered 16438 chars CHANGED
-[naver-entertain-018-0006379428] rendered 45519 chars CHANGED
-[melon-artist-songsohee] rendered 2190 chars CHANGED
-[interpark-artist-leejuck] rendered 10133 chars CHANGED
-[yctf-show] rendered 417 chars CHANGED
-[sejong-notice-science-concert] rendered 1017 chars CHANGED
-[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31317 chars CHANGED
-[hanbat-gongdong-science-form] rendered 622 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 7546 chars CHANGED
-[cnu-jsh-schedule-178] rendered 3594 chars CHANGED
-[dmzforest-main] rendered 6380 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[melon-christmas-carol-212575] rendered 1900 chars CHANGED
-[woorisb-tok7-product] rendered 2804 chars CHANGED
-[mommom-sandmagic-a] rendered 95 chars CHANGED
-[mommom-sandmagic-b] rendered 95 chars CHANGED
-[sejong-notice-imnansu-play] rendered 869 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
-[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
-[andong-halftour] rendered 2550 chars CHANGED
-[kfe-main] rendered 3584 chars CHANGED
-[blog-tjrudska82-224434527430] rendered 4682 chars CHANGED
-[blog-dooglami-224434696671] rendered 5305 chars CHANGED
-[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[ticketlink-product-64315] rendered 252163 chars CHANGED
+[djbea-biz-pbnc] rendered 2248 chars CHANGED
+[kywa-camp-reservation-list] rendered 3672 chars same
+[blog-mandoodad-224482518648] rendered 3944 chars CHANGED
+[seogu-yeyak] rendered 2841 chars CHANGED
+[pyoungsong] rendered 872 chars same
+[ticketlink-notice] rendered 32827 chars CHANGED
+[oworld-notice] rendered 1720 chars CHANGED
+[baekje-schedule] rendered 1512 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[woosongart-schedule] rendered 760 chars CHANGED
+[pyeongtaek-main] rendered 18455 chars CHANGED
+[gcfct-schedule] rendered 371 chars CHANGED
+[dsecc-programs-p2] rendered 1944 chars CHANGED
+[dsecc-programs-p3] rendered 1944 chars CHANGED
+[mommom-place-6a868bff] rendered 95 chars CHANGED
+[mommom-place-6a2b946b] rendered 95 chars CHANGED
+[mommom-place-6a2b94f5] rendered 95 chars CHANGED
+[mommom-place-6a2b9455] rendered 95 chars CHANGED
+[nol-product-phantom-40th] rendered 5280 chars CHANGED
+[daejeontour-bread-festival] rendered 783 chars CHANGED
+[visitisland-main] rendered 993 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1655 chars same
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[mommom-place-6a7d51b7] rendered 95 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3346 chars CHANGED
+[blog-dooglami-224433357728] rendered 5029 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] rendered 34079 chars same
+[pyoungsong-monthly] rendered 634 chars same
+[pyoungsong-wp-event-api] rendered 208 chars same
+[pyoungsong-tribe-events-api] rendered 170933 chars same
+[pyoungsong-event-list] rendered 297 chars same
+[docomomokorea-main] rendered 293 chars same
+[pyoungsong-event-rudolph] rendered 442 chars same
+[pyoungsong-event-snowwhite] rendered 432 chars same
+[blog-namuac21-224427113169] rendered 4803 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 4573 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1260 chars CHANGED
+[kmusic-calendar-year] rendered 6309 chars CHANGED
+[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
+  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
 
-[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
-
-[leis-spectator-archery-current] rendered 8321 chars CHANGED
-[foresttrip-main] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.foresttrip.go.kr/main.do?hmpgId=FRIP", waiting until "domcontentloaded"
-
-[nol-product-26011246] rendered 1720 chars CHANGED
-[namwon-missiontour] rendered 809 chars CHANGED
-[oworld-notice-list] rendered 981 chars CHANGED
-[nol-product-stagem-christmas-carol-daejeon] rendered 2142 chars CHANGED
-[nol-product-lab-concert-daejeon] rendered 5229 chars CHANGED
-[djac-performance-2026-12-p2] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.daejeon.go.kr/djac/performanceList.do?listCondition=&menuSeq=6709&pageIndex=2&type=image&yyyymm=202612", waiting until "domcontentloaded"
-
-[nol-product-melon-disney-ghibli-christmas-daejeon] rendered 2935 chars CHANGED
-[usmint-product-schedule-2026] rendered 160 chars CHANGED
+[leis-cycling-kcf] rendered 2172 chars CHANGED
+[sje-life-events] rendered 37631 chars CHANGED
+[nol-nutcracker-daejeon] rendered 5028 chars CHANGED
+[mara1080-goldrun-geumsan] rendered 4301 chars CHANGED
+[foresttrip-notice] rendered 141 chars same
+[chungbuk-picturebookgarden-programs] rendered 2966 chars CHANGED
+[koreanair-promo-2610prg] rendered 48800 chars CHANGED
+[koreanair-promo-list] rendered 53965 chars CHANGED
+[djac-perf-5487] rendered 3892 chars CHANGED
