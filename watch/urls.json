@@ -105,7 +105,8 @@
  {
   "id": "yes24-notice",
   "url": "https://ticket.yes24.com/Notice",
-  "note": "YES24 티켓오픈 공지 (JOB1·3)"
+  "note": "YES24 티켓오픈 공지 (JOB1·3). 비렌더 수집은 메뉴만(2.7K)이라 공지 제목이 안 잡혀 render로 전환(JOB11 2026-11-21 빨간모자 대전 대조)",
+  "render": true
  },
  {
   "id": "oworld-notice",
@@ -2048,5 +2049,17 @@
   "url": "https://www.djv1365.or.kr/bbs/board.php?bo_table=bongsadan",
   "render": true,
   "note": "대전광역시자원봉사센터 봉사단 게시판(JOB15)"
+ },
+ {
+  "id": "yes24-mobile-notice-list",
+  "url": "https://m.ticket.yes24.com/Notice?order=1&type=1",
+  "render": true,
+  "note": "YES24 모바일 티켓오픈 공지 목록(JOB1). PC 공지 1면이 메뉴만 수집돼 대전 가족뮤지컬 티켓오픈 공지가 빠짐(JOB11 2026-11-21 빨간모자 대전 대조). 목록 URL 형식 미검증 — 실패하면 교체"
+ },
+ {
+  "id": "yes24-notice-18875",
+  "url": "https://m.ticket.yes24.com/Notice/18875?order=1&type=1",
+  "render": true,
+  "note": "YES24 '2027 라이브 가족뮤지컬 빨간모자 [대전]' 티켓오픈 공지(11/24 10:00) — 상품 링크·관람연령·매수 제한 확인용(JOB1)"
  }
 ]
