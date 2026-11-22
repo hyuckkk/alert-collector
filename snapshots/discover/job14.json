@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-23T00:07:47+09:00",
+ "updated": "2026-11-23T01:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 145,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "[김기자의 V토크] 제2의 전성기? 대한항공 리베로 이상욱 - 미주중앙일보",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wVHZxSlU3MWhFcVhidEgxV2dzc2oyNDBlWXNxN1M5Zmt6ZjMxSjlpTUpydkJaOVpYMkNqeDFUNnFBNjV4QnQ4TEJIUjRKMGVjRzdLRndqWm14RXI1dDZDcDhn?oc=5",
+   "pub": "Thu, 19 Nov 2026 23:50:00 GMT",
+   "engine": "gnews",
+   "query": "대한항공 미주 특가",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
   {
    "title": "It runs without us. How Wren compares A raw LLM agent A traditional BI tool A bare semantic layer WrenAI Writes SQL for you ✅ (often wrong) ❌ ❌ ✅ governed Knows your business... Git Sync turns that sa",
    "url": "https://cafe.naver.com/cloudfrontier/44155?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNsb3VkZnJvbnRpZXIiLCJhcnRpY2xlSWQiOjQ0MTU1LCJpc3N1ZWRBdCI6MTc5NTM2MDE2MjQ4Mn0.X9p0LmhAedQESYfUdmG1YQ3Xs99PNMAk42Xfo3tfRD8&q=Korean%20Air%20US%20sale&tc=naver_search",
@@ -21034,15 +21042,8 @@
    "engine": "naver_cafe",
    "query": "인천 덴버 항공권 특가",
    "first_seen": "2026-11-22T00:07:49+09:00"
-  },
-  {
-   "title": "[12] (신규) 인천→괌 왕복 495,000원 | 11/24~11/28 대한항공 직항 19:45→01:00(+1) / 02:40→06:30 | 잔여 4석 | 우리 30일 매물 398개 중 하위 19% · 중앙값 605,000원 대비 18% 낮음 | 다른 날짜에는 이... [23] (기존) 부산→도쿄(나리타공항) 왕복 372,500원 | 12/8~12/11",
-   "url": "https://cafe.naver.com/loyaltylife/370893?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNzA4OTMsImlzc3VlZEF0IjoxNzk1Mjc0NDQ1MzM1fQ.o3_hAWcaZTk4KCBg5J6RdN7BPjnGJ0c5L_vVNTgaQ4w&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-22T00:07:49+09:00"
   }
  ],
  "errors": [],
- "skipped_for_time": 148
+ "skipped_for_time": 0
 }

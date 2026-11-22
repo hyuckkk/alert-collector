@@ -1,8 +1,634 @@
 {
- "updated": "2026-11-23T00:07:47+09:00",
+ "updated": "2026-11-23T01:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 311,
+ "new_this_run": 80,
  "hits": [
+  {
+   "title": "대전시, ‘온시민 에너지 걷기 한마당’ 성료…시민 1,500명 참여 - 뉴스21 통신",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3dEVZYkZZcEl2VnpKSXdhZ05NUUs5cDU2aVZ1aTdLTjdZN1NpNW52LTl2OVpRQ2VkQXB3Yi00MDVONXV0czFvNkJFdW5mWVlWWHRXX2VR?oc=5",
+   "pub": "Mon, 16 Nov 2026 04:41:52 GMT",
+   "engine": "gnews",
+   "query": "한밭수목원 체험 신청",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "시민 1500명, 대전 도심 '한걸음'…태양광·탄소중립 가치 나눠 - www.gukjenews.com",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnbFY3WU40ajNmYXVkLXRjVlFWRkhSVXpaUC1uRmZNMVQtUmt3U2NCWDhUS2JobWUtN0ZjbkFPLWFKSXE3T0lfWGl0eG5UQWVEWm11TjY0Q3owS21lNHA4MnhNQW8xbE9CcjZpZzNn?oc=5",
+   "pub": "Mon, 16 Nov 2026 04:03:06 GMT",
+   "engine": "gnews",
+   "query": "한밭수목원 체험 신청",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "구성원이라는 의미를 전했다. 학생들의 눈높이에 맞춘 캐릭터와 체험활동도 활용했다. 삼각김밥 캐릭터 '김삼뽕'을 통해 밥알 하나...지역사회와의 협력도 강화하고 있다. 굿네이버스와 함께 가족의 마음을 살피는 생명존중 교육을 진행하고 있으며, 대덕구정신건강...",
+   "url": "http://v.daum.net/v/20261122130136110",
+   "engine": "daum_news",
+   "query": "대덕구 가족 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "이날 행사에는 장애인 학습자를 비롯해 평생교육 학습자와 가족, 참여기관 관계자, 강사 등 200여 명이 참석한 가운데 한 해 동안...직접 만든 목공예·시화·민화 등 작품 110점도 전시됐다. 체험 부스 6곳에서는 누구나 함께 즐길 수 있는 체험 프로그램을 운영...",
+   "url": "http://v.daum.net/v/20261118104722705",
+   "engine": "daum_news",
+   "query": "대덕구 가족 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "대전시의회 교육위원회, 직속기관 행정사무감사 실시 - 누리일보",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fNm9SZHZfY0dudTY2em5ZLXJCWjMxTXVMOC1YN1lvakd2by1kaGdmX1F3YWxyVGF0RUtQeEg1cXlNZ3N4Vm5NYkFpUG1xMmFhcGNqS2FXQ2FuMm8t?oc=5",
+   "pub": "Mon, 16 Nov 2026 12:50:52 GMT",
+   "engine": "gnews",
+   "query": "대전시립미술관 교육 접수",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "태안군, 27일까지 장애인스포츠강좌이용권 신청 접수 - 배리어프리뉴스",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GMDlrNjNEOFJ3QVo5c1NxUDJVWHE0RWZ1eTNQeGQydG5jSXRGQmtZUnVpcm9vUTVMV2Nsek1QZm1jQ3RkWnIwaXlhQWlZZUd1cGVEczQ2RzJNaHgtUVlRT2pIVTkzS2U4UmtHS0NKcS1OQUU?oc=5",
+   "pub": "Thu, 19 Nov 2026 00:51:37 GMT",
+   "engine": "gnews",
+   "query": "대전시립미술관 교육 접수",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "대전 동구 ‘AI 미래 모빌리티 챌린지’ 참가자 모집…선착순 240명 - 뉴스1",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DQUdGY1BhVzlWRHBreEZKZEVFTUhaeVJRb1RNN3BGRDJybE1tbUwwTjltSjY4cE1HSkpsN0VsWDJLMWF1VkFzRjlneVJYLTJiTlNWUlJFMjVPT2VBWGl0OQ?oc=5",
+   "pub": "Thu, 19 Nov 2026 04:42:31 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 체험 선착순",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "\"올겨울 김장 걱정 뚝\"…익산 'K-김장문화축제' - 익산시민뉴스",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfNFA0STA5WV9fQXVMc3lXTUlfTXBVYWY3cEEwUUx2dTdpNTNidEpUVWhpQzlTSkk5endmZGFLa0tTNzZCRUwyQjAtRDQwN3RGOUVQVng2MkFCRHBTQWRjdEh4SUhXOC1OTGNr?oc=5",
+   "pub": "Tue, 17 Nov 2026 08:31:39 GMT",
+   "engine": "gnews",
+   "query": "김장 축제 체험 사전신청",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "대전 중구,′통합지원 실무협의체′구성 및 회의 개최 - 세계로컬타임즈",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03VmtXQWhsQTFuRWs4QWlZQVdydDFHNW1OOXMyTmlhZnJocU12WGh1RUt0c2p2UmtVc0s5cGJ3Tm4zVjVoR1ZVaGtHZW5ldU1oTHZqTzd3ZTQxdmNPRFHSAV5BVV95cUxNN1ZrV0FobEExbkVrOEFpWUFXcnQxRzVtTjlzMk5pYWZyaHFNdlhodUVLdHNqdlJrVXNLOXBid05uM1Y1aEdWVWhrR2VuZXVNaEx2ak83d2U0MXZjT0RR?oc=5",
+   "pub": "Sun, 22 Nov 2026 08:40:12 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "공원서 작품 사고 공연 보고…대전 서구아트페스티벌 금상 - 투데이충남",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96cWU2eTZoNGFBVUVNWURyMzZUYXlLeEM5V2ctU2pSVTg1TDZMVF9IdVdBaXA0MWhKVnJpcnN2cFkxWFgxQlhZRWZHTmlrWUUwT25DQmRKWlgwdkJhVExIMmpsbjk0OF9zejlpWDFadV9yQQ?oc=5",
+   "pub": "Sun, 22 Nov 2026 04:46:34 GMT",
+   "engine": "gnews",
+   "query": "대전 돌봄 페스티벌",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "논산시사람꽃복지관, '엄마 아빠랑 놀자' 개최… 영유아 가족 소통의 장 마련 - 대전일보",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HVDhGTTgwWEYwNlljRUtpallibVlja1dDWGJUcUtqMGNfTlhzNGgwbXBSd0N3NzBqSFIzbVU1clBvaWpiN0JEbHluYVR3VEQ0bVc2MG5JaDd0cG9GQ0lPdjJUU25HUG10LWVtMC1fVdIBc0FVX3lxTE5KX3VjMlBzS3pNSm5pc3FmUENRX19NWmtjbUR0bEZjVkxiN1ptOGZyRXYzQi1iY3NXeWstbVlhUm4yX01yRFZlVkwwdGk1VUI5QWV0RkhtT2FLVkNNMHY3ZW5helQ2Y0NONU5DUDJ5OFhTWTQ?oc=5",
+   "pub": "Thu, 19 Nov 2026 03:17:02 GMT",
+   "engine": "gnews",
+   "query": "대전 아빠 자녀 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "웹투어 '취향여행' 출시... 또래와 달리고, 아이와 체험하고, 호텔에서 쉰다 - 비욘드포스트",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GUVA5ZXQzQ014elF4Um9qVzRsd1FsbF83Y1dPemkwTlF1MF9STS1Gb1dMWllqYlVxUk5hUHlLaVQ5bncybDlIRzhXTDZ4bFZsOUlISmR5NURfVFZtdFV4UXdHNGZ3ZU5qVEtHU1pYRGdyV0djbWZJWUJpcDU?oc=5",
+   "pub": "Wed, 18 Nov 2026 05:04:46 GMT",
+   "engine": "gnews",
+   "query": "대전 아빠 자녀 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "[강원 ~11/25(수)] 횡성숲체원 가족캠프 참여자 모집 - 느린인뉴스",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzOTh3OVFLY3ZkREZPSWFwQ29TejY0d3NZY19RYWpSUl9GUkRxZ3FYbzROTU9GWEE1VkhJRHBwY3pzejNvZGUxTlFFLWNQbXozbDNWeGVQLV9Nb1RCQ3BuUWV1ekxvdmZuYXpQV3NuNHp4QQ?oc=5",
+   "pub": "Wed, 18 Nov 2026 06:20:32 GMT",
+   "engine": "gnews",
+   "query": "숲체원 가족 캠프",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "고창군정신건강복지센터, ‘함께라서 더 행복한 가족’ 가족캠프 운영 성료 - 일간투데이",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lTVVSazZzMTdHa1d5aUtHU0hpbl9IaTVTMEtDVG1EV1ZUcVVxY3R1S0tZcU50aXcyNy1acXpyOEdUbl9VQTR5R3UwcHUwZUExUWRHVEM1c2dJSEkwX09QLU5ZdFppRHV1R2hz?oc=5",
+   "pub": "Thu, 19 Nov 2026 07:22:43 GMT",
+   "engine": "gnews",
+   "query": "숲체원 가족 캠프",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "강릉시가족센터, 9가족과 횡성 숲서 1박2일 '행복 조립' - 강릉넷TV",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LVUVxNHMzc1FITEtZYXpnNHo0cXR4NTNldXJWRVUzdllhdEJZRVlkU3AxZklkMlcxRWd4U1pJTEdueDNaeFhZZEJidE1lTURSNEdUci1GQnZOVEU1a05OZGpYaHdFT3RxNUE?oc=5",
+   "pub": "Tue, 17 Nov 2026 00:42:35 GMT",
+   "engine": "gnews",
+   "query": "숲체원 가족 캠프",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "예산군가족센터, 온가족보듬사업 가족캠프 진행… 대전오월드 나들이 - 도민연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FM3dQQTVLWVljTjdxVVZkWjJJUUxsUWNrUldfeDdpOXluRWM2Ymo5RmZHOWxlRll0MVVXb0c0SUlfaFFOQ3ViTkJld1VpQ0hLMlZpcDV2akpGRXM4Qmc2N09POEJnUnJnQlE?oc=5",
+   "pub": "Wed, 18 Nov 2026 21:23:30 GMT",
+   "engine": "gnews",
+   "query": "대전 과학 체험 가족 신청",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "대전 동구, AI 로봇 트라이애슬론 참가자 240명 모집 - 타임뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mY1kxOXZXU2ZDTC1famRnZklaMGwyNmhWUU9lUWR5ZDJub3JaTzIycExidlpLUngtTTNiNVhJQXRoR3Bxa2tlQ0ZxR0NTQTk1ZERDLQ?oc=5",
+   "pub": "Thu, 19 Nov 2026 06:06:01 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 통합예약 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "대전 동구, AI 로봇 경진대회 참가자 240명 모집 - 굿모닝충청",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Uc2J4dl9BQXB5U2thS1RmQWM1ajdiT2QyQkJMUEthbEdpZnFBOEJvc2ZvMFJocFlhS3hOX2NzS2I0TENwVWY0SlBUNE5HeDdXN3h0Q1BsR3B1bFBENjFGUXh4VUt1X29DbUxwUDBoRG5HQQ?oc=5",
+   "pub": "Thu, 19 Nov 2026 06:21:28 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 통합예약 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "동구, AI 로봇 트라이애슬론 참가 초·중학생 240명 모집 - 충청헤럴드",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ubVQzQ3AzOFM4dlBPQTVPWVVGVUZRcXJZVnNfUTEzajh3c1A4TElLUnVtaURRTGpJTmpGOERtYmZuQVF3RU11dG91WUxqelhGNXhIbWVNQUk4V1Y2eTNkQk0tN2pKZDBx?oc=5",
+   "pub": "Thu, 19 Nov 2026 11:57:34 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 통합예약 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "대전 동구, 미래 모빌리티 인재 육성 나선다…지역 대학 4곳 참여 - 충청시사신문",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZWW1QWHdSakFKM0tlNE01OVZkOHJ6ZmFucF8tWnpjc3JhOGdHbERXTTVUV00tdm9ZdXN4MG9DcC1ndTFXazIxeUZuMlZkNlBkbzdqWWN2VERpVDczV2EtQTU4MjdaNGZ1VThR?oc=5",
+   "pub": "Thu, 19 Nov 2026 05:24:46 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 통합예약 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "경기도의회 이오수 의원, 경기융합타운 ‘맘대로 A+ 놀이터’ 개소 축하...“아이 키우기 좋은 광교 조성” - 누리일보",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sSlVxOE5yNjVRQzdSTjdCMktCSkktX05KZ1d5UExPRUlYSDl4cVFlQ1NRWkV4NU9SV0diaHVTUzFrVnZvUk1PbHFnZVpXNVk5ZkhRZl9IUkNrRGN0?oc=5",
+   "pub": "Wed, 18 Nov 2026 10:10:27 GMT",
+   "engine": "gnews",
+   "query": "대전아이 육아종합지원센터 가족 체험 접수",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "대전 서구의회 경복위, 아동·가족복지 전반 감사 - 디트NEWS24",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NWWRRR0l3WlhLbzUwOW9kWjNINU9NYWdWbE11bWFRX0FEZXVRNmNuYm5lNHVQZkwwanlTOUlZREx6X2wyQmk5V0M3eU9RczFIa29LVWRzLXFXdTEyVmFKSkVHUDFvVGFiSmQ0?oc=5",
+   "pub": "Fri, 20 Nov 2026 01:55:20 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "대전 서구 '아픈아이 병원동행' 인력·예산 도마 - 굿모닝충청",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02X2RlRHFPOU1WaVB4em1pLUVndFZOM2wteEd1UEdRdUhaUHY3TFhYZmRHZTNTeDdQMlI4ZWJBNUl0d3NBRk5NRFRuSzh2TThxN3pybXptX1U2Wmd0WWlvdUM3TDQyZ0pYRXRDTzZoV19SQQ?oc=5",
+   "pub": "Fri, 20 Nov 2026 04:59:13 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "민주평통 대전서구협의회, '온가족 세대공감 평화통일 퀴즈 한마당' 개최 - 보도자료 | 기사 - 더팩트",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BR0dRWjJ1eFJXR0xpWXcwS3haNHlfTWczcmRkZXVnZXF0YXMzSmpEcElHYW5PYU1aUmxpQTRnRzR2c19QaW54SHl3bTRBRjNrWkhXWllMbWRtV2h1LTA0?oc=5",
+   "pub": "Sun, 22 Nov 2026 03:38:51 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "대전성모병원, 당뇨인의 날 행사...체험형 부스 운영 - 충청뉴스",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00aFJaRGdvLWtxMU1UNzZTQVNyYmVPRndLbmtoYm5aRUJRSlpyemp3U0FRV3ZZYmlVQ1dFWHdQQnNWVVpGN3VoR256clhuYkFEZTAzdDlIdTNjMzJ6Nkl4V0FBazdKbjRTUi1z?oc=5",
+   "pub": "Tue, 17 Nov 2026 06:00:45 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "대전 서구, 배재대 건축 전공생 직업 체험 프로그램 운영 - 메가충청뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wY1E0R0VxUTJ4amUtUmIyWUQxYnpKLTgtajhNWEpUbUNJYVhhTDlnTkxWd0dmR1Z5MHQwcFJaNzdaZjdjZzlFZEdtanJySHRHUE8xcjA2M01jQ09XVk1PSGhqbjZTVnJySGpMUA?oc=5",
+   "pub": "Thu, 19 Nov 2026 01:08:08 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "대전 서구의회 경제복지위원회, 행정사무감사 4일 차…아동복지·성평등 현안 집중 점검 - 뉴스홈(newshome)",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zV0FKZDB3UnpvTU92SThaNnhBT01MeTI4eUxwZkpVZVhIMmcwSVN3Umk0VHoydnRUVGl2TW02cl94Vmplb3NVWElnZTV6U252bDc2WjNKbF9hT2pwSHdwaE5JX1Z6bl95a2FoYS13?oc=5",
+   "pub": "Fri, 20 Nov 2026 04:25:53 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "울산 동구, ‘함께 잇는 우리, 가족 문화교류 한마당’ 성료 - 한국시사경제",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oenFYZXd0Z1NmdEliS0xXdmRhaTE4ckg5djNfMjE4bnliUXdldjFKUEhQYmQyT0x6SnNfUVFCaTNQU2tYcHZmbWVNVHVfM1J2cE1TWXlubzg5S0xTaHh0LWxTZXhyWHhQWlE?oc=5",
+   "pub": "Fri, 20 Nov 2026 13:10:03 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "산림복지진흥원, ’숲에서 배우는 평화, 가족이 함께 만드는 통일’ 행사 개최 - 뉴스밴드",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBianF1TVh0YUxHSHktRzBuQjRPZGxhSWNnaXRXUFN3NktRYmhsaHlyakJmUmZPVzAtaFNzQTBCUm1GVENwREwtVFJvbll3UmVPSXJXRFRVX3dCUWpwM2xaLXlsbTBnb2xQZVE?oc=5",
+   "pub": "Sun, 22 Nov 2026 10:26:02 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "\"아픈아이 병원동행, 인력 1명·예산 2천만원으로 되나\"…대전 서구의회 경복위 행감 | - 더퍼블릭",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YZzNjeE1tZUJYR3VXSmV6YWQwRFNfNXlaN0xiWU1RUTl3TE4xOU8wUFhtSEhTaGZBaEU5ZGVBZWd0UkVfc2o1NzE4aTJtT3NvOGxxemNORVNvVnZpNzg0bU9WN2RGaUUtU252MEJJQQ?oc=5",
+   "pub": "Sat, 21 Nov 2026 00:13:04 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "대전 서구의회 경제복지위원회, 4일차 2026년도 행정사무감사 진행 - 뉴스티앤티",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yS3h1ck9Sdm5mNHhOTlZDbjNGSWZsYjlqQTFPUU05RkFqWjVIaWVlcEhuMEw4Qm1fa2NwVWlMN0dvWF9VWWVMR3p5dGRaaTlNZVMyc1kwS3VpOTNzTmM4cktXbjBWRl9CTEE?oc=5",
+   "pub": "Fri, 20 Nov 2026 04:11:00 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "진로·진학 정보 한자리에… 대전 서구 미래교육한마당 학구열 “후끈” - 미디어대전",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMSm93RXFKSGdlcHVzSVI1VHE0QU5GZDdJWWFCYk9OT1lXNE9idWtDVWc1VzJFVUpVRFNLRW9vSmswUlIwdVJVdEt0TnYyOVV0bHpDUVR5Smh4elpYMzRMbFJ2TQ?oc=5",
+   "pub": "Mon, 16 Nov 2026 01:10:00 GMT",
+   "engine": "gnews",
+   "query": "대전 서구 가족 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "평창군, ‘여성회관 단기 프로그램’ 수강생 모집 - 이코노믹포스트",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qcE5JQjZYZkJYSkw4dGF3UFRvTnA1b2d2bzdEZ1lpc3VaM0s1WkRKaWNsRVNyYnNsSmdDXzIza0FKeU1qS0JiXzJkZnI?oc=5",
+   "pub": "Fri, 20 Nov 2026 01:07:37 GMT",
+   "engine": "gnews",
+   "query": "대전 가족 프로그램 모집",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "세종시, 김치의 날 맞아 가족과 함께하는 농촌 체험 행사 개최 - 브릿지경제",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zb2FSZFltQ1JlaXBSSzNoakNDeU5DY0xFYzQ4b2EybmhrVWg3cmVQem5kYnlVaUVXVmpTQWJJRllPLWVtT2F6VHZsVHVjSVJsNTF1azVleERaUQ?oc=5",
+   "pub": "Sun, 22 Nov 2026 04:29:00 GMT",
+   "engine": "gnews",
+   "query": "남세종종합청소년센터 가족",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "‘김치의 날’ 맞아 가족과 함께하는 따뜻한 나눔...전의면서 도농 교류 펼쳐져 - 대전투데이",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jN3Eya2F1UmpmeURHSThkeGpiNlFSOFNMT1ZYQUlCR1M5QkxkamQyLUplc0I0Mmp5SUN6dUNaYS05Z2RKM2drN1djTmVyLU9xZVhJRzd4NXM1N2hKcEZKRUVtNjZOZW9rMThCM2VybEJYdm_SAXNBVV95cUxNYzdxMmthdVJqZnlER0k4ZHhqYjZRUjhTTE9WWEFJQkdTOUJMZGpkMi1KZXNCNDJqeUlDenVDWmEtOWdkSjNnazdXY05lci1PcWVYSUc3eDVzNTdoSnBGSkVFbTY2TmVvazE4QjNlcmxCWHZv?oc=5",
+   "pub": "Sun, 22 Nov 2026 12:18:43 GMT",
+   "engine": "gnews",
+   "query": "남세종종합청소년센터 가족",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "보면서 드는 생각이다. 반도체와 데이터센터, 피지컬 AI 산업을 키움으로써 지역개발을 도모하겠다는 이 법안에는 노동, 환경, 건설...허용해서 영리 병원의 길을 열고, 국가 차원에서 안전 검증이 다 이루어지지 않은 세포·유전자 치료제를 지역에서 자체적으로...",
+   "url": "http://v.daum.net/v/20261122201334048",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "딜링룸 전광판에 코스피 지수 종가가 표시돼 있다. 뉴스1 물론 키움증권 등이 진단하듯 현재 코스피가 역사적인 과매도 구간에 진입해...전자와 SK하이닉스로 대표되는 '반도체 기업 이익 전망의 유지'다. 코스피 4300. 아직 현실이 된 숫자는 아니다. 그러나 4900선...",
+   "url": "http://v.daum.net/v/20261122180207169",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "있나. 다들 소고기나 사 묵지(먹지).\" 경북에서 유일하게 농어촌 기본소득 시범사업에 선정된 영양군에서 만난 한 주민의 말이다. 월 20만 원씩 돈을 받으면 반가울 법한데 정작 주민 반응은 시큰둥했다. 돈을 받아도 쓸 곳이 마땅치 않다는 것이다. 농어촌 기본소득...",
+   "url": "http://v.daum.net/v/20261122180201163",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "트레이드로 합류해 불펜진 한 축을 담당한 정철원을 트레이드 키움으로 트레이드 시켰다. 데이터, 루틴 등을 끊임없이 강조하고 있는...상황에서 등판했지만 씩씩하게 던졌다. 이준서는 ‘학구파’다. 데이터, 생체역학 등에 관심이 많다. 3년 터울의 형 이준혁(NC...",
+   "url": "http://v.daum.net/v/20261122173934756",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "싶은 마음은 여전하지만, 많은 해를 치면서 간절히 원한다고 다 되는 게 아니라는 걸 느꼈다”며 “이제는 몸 안 아프고, 멘탈도 건강...7월부터 2년 넘게 든든한 버팀목이 되어준 메인 스폰서 키움증권에도 각별한 감사를 전했다. 그는 “해외에 오래 나와 있는데...",
+   "url": "http://v.daum.net/v/20261122164106643",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "중부대학교, 문화의집 등 유관기관과 전방위 협력에 나선다. '다함께 돌보多' 분야에서는 유·보 통합과 늘봄학교를 확대하고, 군청과...AI)을 접목한 디지털 융합 놀이 교육을 확대하고, '금산형 꿈 키움 집중프로그램'과 맞춤형 교육복지로 기초학력 보장과 교육...",
+   "url": "http://v.daum.net/v/20261122123359656",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "때면 김휘집이 키움 선수들과 구단 관계자들에게 반갑게 인사하는 장면이 팬들에도 포착된다. 이에 김휘집은 \"다 내가 너무 좋아하는 사람들이다. 키움 시절 형들이나 선배님들, 감독님과 코치님들뿐 아니라 구단 직원분들과 고척돔을 관리해 주시는 분들까지 정말...",
+   "url": "http://v.daum.net/v/20261122110233724",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "자이언츠)다. 프로야구 롯데 자이언츠는 12일 서울 잠실구장에서 열린 2026 신한 SOL KBO리그 두산 베어스와의 시즌 최종전이자 올해를 끝으로 철거되는 잠실구장 최종전에서 7-4로 승리했다. 롯데는 NC 다이노스를 제치고 7위로 2026시즌을 마감했다. 최종 성적 64...",
+   "url": "http://v.daum.net/v/20261122085233242",
+   "engine": "daum_news",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "분야에서 접수된 543편의 작품 가운데 43편이 선정돼 총 51개 상을 받았으며, 2027년 제27회 대회의 특별주제는 ‘당신이 발견한, 유머’로 공개됐다. 시립청소년미디어센터가 주관한 이번 대회 시상식은 지난 11월 16일 열렸다. 박찬구 서울시 정무부시장의 개막...",
+   "url": "http://v.daum.net/v/20261116184438705",
+   "engine": "daum_news",
+   "query": "대전시립미술관 교육 접수",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "심리검사·커플상담 무료…서울 예비·신혼부부 50쌍 모집 - 뉴시스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZWlZiVnlwYWxLT2o5UmQ3TFEzQlJtRHRSclhHc01LZjhLZXRsU2Ftb0JFMVpFVFhYNTY0MWYyY2Q0ODgtLVR4dmdydXkzSE9ReFNrTnhOOVRFTmRJeVFyZtIBeEFVX3lxTE9yUDhicGpmejB5R3lUaHJGRVN6bmFEQnNhT3BOSzBRbEh6Wmlra2MyUTVMd3lKaFBET29teTExZXRudzBsTFlCUVlYdWxSZzVJdFBRLVhVbzkxbm52VmNhNnRZbXBIMGFZdFAzSEhYXzFvMkpTRWhxWA?oc=5",
+   "pub": "Fri, 20 Nov 2026 09:19:50 GMT",
+   "engine": "gnews",
+   "query": "세종 가족 체험 모집",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "군위군 군위읍 다함께돌봄센터, 가을캠프 ‘다돌이의 외출’ 실시 - 코리아투데이뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE45clRfRmdtWFItT0p5NHJ1ODVZalNuMXo2bTBxdVBHZjJEMUhRa1NlNFE1Tno0emRDeHMxRlNTMzJFZm1xMVFz?oc=5",
+   "pub": "Tue, 17 Nov 2026 02:45:00 GMT",
+   "engine": "gnews",
+   "query": "다함께돌봄 캠프 대전",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "아이들에겐 웃음꽃, 이웃에겐 온기...대구 군위 곳곳에 번지는 나눔의 손길 - 프레시안",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUemtUUFpGbGpDUmk5SGsxaUMzWUFtV2RaRjV4YmNnZFdwV1VuY1gtUk9EZHkxTTBWVlI3c1VvMFhxWHlHVlZ3Mnc1TVo5bEgtelFQMGFWR2xqZm9hdnhPZFdFWm96UWRXd2pV?oc=5",
+   "pub": "Tue, 17 Nov 2026 05:43:54 GMT",
+   "engine": "gnews",
+   "query": "다함께돌봄 캠프 대전",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "“삼국유사테마파크서 보낸 1박2일의 쉼표”… 군위읍 다함께돌봄센터, 가을캠프 ‘다돌이의 외출’ 성료 - 이뉴스투데이",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzaW5jOTFuWnpNUkhVVWxoYUFqdnZiXzRnb1JUX1JzTWUyYlliV0dyNkY0aUtLM1NXMXg2c1dFd1V1Ul9ic1pfLWpKdFdlZGpqZmpLaVFXaUxQa3dLakdwZl9MaTB2ckk3N3B0emgyNnLSAXRBVV95cUxPV2g4ZnZuSXFSSEU4dUlfZGN6ZzctTkVlVTJzb3Z4Zkt4aVZ5dFBLWS1ibXRrWDBtOUNLbzBHOC1vQzJsZ0pkTnpkcEQ3clNGVm1Td2hTNUtqdlhGMjlSMDA0ZFZfUkNiV21iaFBDc1ZlSWpVUQ?oc=5",
+   "pub": "Tue, 17 Nov 2026 22:00:00 GMT",
+   "engine": "gnews",
+   "query": "다함께돌봄 캠프 대전",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "동구 ‘AI 미래 모빌리티 챌린지’ 참가자 모집 - www.briefingcc.com",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mRlFjYTBfc2lyTUZZQzBudllmQjBSNjc0SmlYbjBUb19QLUY1NDV0THh3U2NTWGZsZlppMnk0V3pGZmtCdUxEanQ3RmRMdE0yZFVCODBQcTduWWZaY0dGTXBVM0VoanZuLVM2aA?oc=5",
+   "pub": "Thu, 19 Nov 2026 05:56:54 GMT",
+   "engine": "gnews",
+   "query": "세종 체험놀이 참가자 모집",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "통해 선착순으로 이용할 수 있다. 경기 용인문화재단은 21일 용인포은아트홀에서 열리는 ‘10CM & 소수빈’ 콘서트를 수험생과 동반...강원권에서는 놀이공원과 체육시설 이용료를 낮췄다. 대전도시공사가 운영하는 오월드는 19일부터 이달 말까지 수험생에게 자유...",
+   "url": "http://v.daum.net/v/20261121190605416",
+   "engine": "daum_news",
+   "query": "대전 가족 체험 선착순",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "가운데 가족이 함께 즐길 수 있고 아이의 정서 발달에 도움이 되는 정보를 선별해 소개한다. -편집자 말 ◇ 춘천문화재단, 생활예술로...시절을 돌아보고 세대가 함께 공감하며 즐길 수 있는 공연과 체험 프로그램을 선보인다. 먼저 시민들의 생활예술 활동을 위한...",
+   "url": "http://v.daum.net/v/20261120155639858",
+   "engine": "daum_news",
+   "query": "대전 가족 체험 선착순",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "30% 할인 혜택도 제공한다. 신규 개통하거나 기기를 변경한 수험생 선착순 5000명에게는 롯데시네마 영화관람권 2매를 증정한다. 고객...달 24∼25일 고양 킨텍스에서 열리는 ‘2026 SBS가요대전 30주년’ 방청권도 준다. KT는 이날부터 다음 달 말까지 2006년생부터...",
+   "url": "http://v.daum.net/v/20261120050515982",
+   "engine": "daum_news",
+   "query": "대전 가족 체험 선착순",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "세종 고교생 안전체험 165명뿐…초등학생 1만 명과 격차 - 대전인터넷신문",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrLVdldkE4empkY21RVk9YeE5ORE9UcUkzN05EdlFmVFJuQ2ZjdTItN1FaTHFzRF96MW05VXAxNEl6OGo1eU1pLVVobDZGZw?oc=5",
+   "pub": "Wed, 18 Nov 2026 23:40:10 GMT",
+   "engine": "gnews",
+   "query": "대전 초등 자녀 가족 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "달성군 드림스타트, ‘2026년 드림스타트 패밀리데이’ 개최 - 케이에스피뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBRU3ZJcUFnY1VmbkJUS3RVX0VSbDZuX0FRdjBQMW5KVEc2U1k0czRScUkzWnQtR1E2NVVEaFBfS1d6LWFvLXc?oc=5",
+   "pub": "Mon, 16 Nov 2026 01:48:00 GMT",
+   "engine": "gnews",
+   "query": "대전 초등 자녀 가족 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "곡성군미래교육재단, '대봉 수확부터 천체 관측까지'... 가족 체험 - 뉴스워커",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SMjAxTmdKektMTG1CN1p6SW1fS2VNRlgzTUNFcEEzUkJuWV95WkVDOUNMOVlhalJBZDl6Q1ZOUGdSbUZsbG84Rkp4WWpBMlNvUkx4M2JsbEx6c29CeG12MEc1VFIybV9mT0RSeWpIY1rSAXRBVV95cUxQMHVqS25ZMFc4NlNNN3htLXc3TW44YmV1eGtDR0dlV1ozbWh4OXRrQU9mWkl6VTJFbjViSVhEeFZ0V2lzNXpFSXdsNHd0bWJjWTBoRzg3NnZvSzhLdHZDc3BoUjdGcTdjSHhfMFhVMkljRnpBdw?oc=5",
+   "pub": "Mon, 16 Nov 2026 05:58:41 GMT",
+   "engine": "gnews",
+   "query": "대전 초등 자녀 가족 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "부산 시민도서관, 부모·자녀 가족 체험 프로그램 운영 - 국제뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZcE1BeWJ1TlFOX2pDRWJienlueDB1VHBkelZRWWZfaUhOYi1xWnZCWS00MTl5eXNwWnh4RVdHWnhjVGgwcFZ6LXp3RU9xcTk0bmVCWkdtMlVRRDJuc1ZnVUhWUUVWa0tkOUczN213?oc=5",
+   "pub": "Wed, 18 Nov 2026 02:00:10 GMT",
+   "engine": "gnews",
+   "query": "대전 초등 자녀 가족 체험",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "“내년 2분기 영업익 정점 찍고 꺾인다”…키움, 삼성전자·하이닉스 목표가 하향 - 디지털데일리",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lemNnZklGRmZrMlplaVE0YTFoS3RrVW1xM0dCMGNORzhxdTFDSEtQdFgyX2VQS0UwSW1HYVhmLTltWUdlSGVRcDgzc2pkczg1enNUYnZPbTlfcjUtRDBMcE1B?oc=5",
+   "pub": "Tue, 17 Nov 2026 05:48:19 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "영유아 복합 놀이공간 남해군 다같이키움센터 문 열어 - 경남도민일보",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yYXl2N3l4YTRDRTFQMGViWHBrSjhhUXdFbnI5cV9FVVBwTHhwTktOWG1hbW1nRUg4M3pmemZ5cEVsRnRGWU9yRmlSVFRHSGJTUE13dGh4NjFMdVpXR2gwZXpFelEtSGJhSVE?oc=5",
+   "pub": "Mon, 16 Nov 2026 05:43:21 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "남해군 다같이키움센터 개관, 17일 시범운영 - 투데이서경",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrTVBKWmRVUDlzdXF0VmhoY29PdFJFNEhUVkRvaUIzX1RtN2t0UHEtVFI3UE5ZMWRYWEJCTEJWVTdmallJTzdING9vLUNiQW5KbUtxdlItb1R6NkNPWEI5ZGdzdGdiODFKZUE?oc=5",
+   "pub": "Wed, 18 Nov 2026 07:38:18 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "키움증권·대한변협 법률구조재단, 자립준비청년 법률 지원 맞손 - 글로벌이코노믹",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTTVCUlQ4T0IzWFppR09LWkNUQ0cwM1RxMzM4OHdPTTk1UUlJWjhxQU5IelVkc3JlNnhtMmNVXzBkLTY3RThtMEE3SVNLcks2TlM2OTZFckcxejBmMWd2WFNrUkxNR2VPRm52OWFMZ1ptSXZZcFdSaDE0dG9OWExXVXRDVW95aEhI?oc=5",
+   "pub": "Wed, 18 Nov 2026 23:55:28 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "남해군, 다같이키움센터 개관... 영유아 놀이·체험·소통 복합문화공간 조성 - 경남뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMMjRFT3NfTlhQcy1QRW8wQ0hkV1B4SFBtcEg1Mk5UYms4aVVzS2dtbk0tTnNIYVlnU01Ea2hZVkRDVjVXWmVteGJZeWFra1k2RGQ1MlpDaHYzeTU3WVdkcjA2V1lwbGJ2?oc=5",
+   "pub": "Mon, 16 Nov 2026 00:43:27 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "남해군, 다같이키움센터 개관식 개최 - 브릿지경제",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UOHROVVNoaTZBS1k4U0JJR3pLcnRtcEFFNVA5bF9mZVRfSGs5bzhlS0RWLThsODRvdjNhS2laVlppWHFLR2Z3NkNPUk9jaTM3SG12RkNCRDV2dw?oc=5",
+   "pub": "Mon, 16 Nov 2026 00:31:00 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "키움증권, 발행어음 특판 또 조기 완판…사업 성장세 주목 - 뉴스투데이",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sWUM5RnBfbU1oaUFRZWJJa1dINnVrb2ItcmlzckRSYi1xQWZ5NUZzM2dFNzdTZnZ0T0pUU2MwSjVwcG9zZ01oWW10N1hKTkpVZUw1YXJqOTdLNk5EWVE?oc=5",
+   "pub": "Tue, 17 Nov 2026 06:52:00 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "‘AUM 1조’ 키움PE, 2500억 펀드 연내 출자 개시 - 뉴스톱",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11c2Fya2lGQzFjeGxqTHc2ZWxRTzRWdlloVVZreXkyNi1adHFRUlEwU2lvYWViLVNLSk5TZG5aZmtocWxERjBwcFRIOGlqdkQyci1TMmdqRkloaVV5RXc?oc=5",
+   "pub": "Thu, 19 Nov 2026 21:15:00 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "남해군, 영유아 실내 놀이공간 ‘다같이키움센터’ 개관 - 메트로신문",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Xelg0dk9SZHllMFF4Zk56M2FWbWI0TVlraGkzQjVVcjlyMkM2S0NQQVpaTm9XSl9MSkVCS05uVDVPY01DeUxFTHVtVUhTb3pSXzBwMzNUOE9KbThxLTM1cw?oc=5",
+   "pub": "Tue, 17 Nov 2026 00:10:29 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "남해군 다같이키움센터 개관식 - 포인트경남",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUb29CZkNxWjJvR3BvOEpiUVdocF9OaDB3WldNTWVDTnBKS2R5aFVpWmRFc3JvWkg3UEhJQWRrWnZzWl93X2R0djQwTlU5ajN2TjQyX19DOTVmaW80NE5SWFI2T0lxRHk1My1fSTJRMHk?oc=5",
+   "pub": "Mon, 16 Nov 2026 02:29:04 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "‘영유아 놀이·체험 거점’ 남해 다같이키움센터 개관 - 다바(DABA)뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYMTNOQlhudy1IN2dCVUYySGVtVkQ0MHQ1NU9hUndhSklMU3A0SmRYd2pVajU5eGRxbFBiMmtjTDFfV01SRVVscEktUkZPbVdkX1JXWFhmalVPd1R1SjhaMHUxZTZIbkhpcFZlb9IBcEFVX3lxTE5ReUFuemk3VWJKLVQzWTV2Zkgyc05icklxQWxRSV9UZi1PS25ESmU5SjFnWGlhYW9zVXlROUVYTFNPa1U2aUFOeVEwSzFIVlAzVlVWcFNwclExMEJrY1dVR2tETXF3c3dDQi12VDdjNzM?oc=5",
+   "pub": "Tue, 17 Nov 2026 01:25:44 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "[오피셜] 키움 파격 결단! 내년 '2용타' 그대로 간다…데이비슨·히우라+알칸타라 전원 재계약→NPB 1라운더까지 품었다 - 스포츠조선",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zMlQ5eW1XM3ZhY1d3UER2Zk1sNjY4UU9YeFk3d1JOak90dFJWZWZlTGNxNUtERUVqUnFGSzhaMlg1amNHT2JwTV9DR1JrWElOeUNkc2NHU1ZscTJWcG9iUTFVLU5rRjZDVHJWUGRQYmxTdkUtSmpUSGlYZnRLUQ?oc=5",
+   "pub": "Thu, 19 Nov 2026 00:17:35 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "남해군 다같이키움센터 개관식 - 진주인터넷뉴스",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pU1VZZVhDMG9PbWo0aWRWTEFGUEpSWnZqVGlEekxmNW9QQTVrbkp1MGotcXBIcTA3ZjNhWGstZk1BRUxfeVVVRXIydXY2TTc1NFk3NDBaVWhUT095aVhBcS1NM3FCcXg3ZUFNRDdOVEdnZ3JncHd3?oc=5",
+   "pub": "Sat, 21 Nov 2026 06:16:11 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "키움證, 연 5.7% 발행어음 200억 특판 ‘완판’ - 서울경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UQ2JOc19hOEswTnNaa3hqdHY2LUttd1FoRXJCczF0ekpTbVBHZEhLaGp0MWZmb25XNElOYVJVWjh1clg1LUdDRTVFSDBIaEVObEHSAVNBVV95cUxOQy1BOTBmTkdoN29VaGdPazVONDJDUGpTUjc4ckMyMmNmRXRsQmV4YmVFWHlJUHpCelE5V0JMUDJDa0RJNHhyVTROSTB5U1F2Q0NBRQ?oc=5",
+   "pub": "Tue, 17 Nov 2026 05:36:10 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "삼전 29만원↓·하이닉스 180만원↓…키움, 목표가 하향 - 자본시장뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNd3NCWEVtUTdVYVlEd0lOTmJ6U1h1Qk1WTnAxTUU2d0RFaWxxY3ZGVDlLbGdVbXdGUHpQTEJydlNMSlEtbDVnU1hqTXBRcDhjQmJYY1F2NDBlSERsd0tqaS1LZFd6eGc?oc=5",
+   "pub": "Mon, 16 Nov 2026 23:51:12 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "남해군, 87억 투입 ‘다같이키움센터’ 개관···아이·부모 함께하는 육아공간 탄생 - 경남탑뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iZXJXUDZoV3JGTlgxbnlHOFVRMjMxSkx2djVJeTYyVzRRMmtQdzE0Rmpfc2FFTkJrdjFXZHBDOEV4N0RMNkVNWTFEREVNMUZXY2ZaY2lzOU40NU9tNVVodlB6NnhORzAtT1HSAW5BVV95cUxNNEZhaUFrX0RiVDZlaVR0MlQ2NmRvbk9YaW1OUnZKekk4SGI4QTMwbkV1ejA2b1RDeXhLQ3Y1VHM3YzRIbmdTRUdtdWNPUVRNR2wxR2FKRzhncFYtSzd1VTcxYnptaFVlX1g2SVhLZw?oc=5",
+   "pub": "Mon, 16 Nov 2026 01:43:23 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "남해군 다같이키움센터 개관…영유아 놀이공간 - 경남포스트",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41TE0tRFpxTzc2RTNqYWJ1cVZNZ01Wa19oLVp2S3RuVXU4VGlXeWg2bEZQSTBqR20xTkZvM2ZObmFzTVRtM1dtYUk2YUllYkJo?oc=5",
+   "pub": "Mon, 16 Nov 2026 01:52:00 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "키움증권, 자립준비청년 법률지원…변호사 상담부터 소송까지 - 브릿지경제",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZYzU5azVWeGJtSTMxLUdtc0Y5V3NPMmN4VVRta0FHdnAwR3VaMHlBcTJkcmFxZG9PbjF5SEZ3LWdEaHRLNmlMLVluMHZUSVhTd0tqdEp6em1iUQ?oc=5",
+   "pub": "Thu, 19 Nov 2026 00:45:00 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "안우진 완벽부활+하현승 연착륙 자신하나…키움 2용타 OK, 그런데 이렇게 빨리 외인·아쿼 영입 끝내나 - 마이데일리",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QNFJ4dFIxZGhFLWZ5V2pEVWtZRGdQTTVLaWtBbEREaDZZQUlBUDNOX29nMldoNWJRaUNmRDF1TVE1aFdTR0YyRnlmU1p6SF81TFlnTk12czFNSGxMSUdtblpCTFJnZw?oc=5",
+   "pub": "Thu, 19 Nov 2026 01:18:19 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "4년 연속 꼴찌팀이 외국인 3명 전원 재계약? 역시 키움은 ‘보법’이 다르네…팬들 탈꼴찌 희망 '와장창' - 더게이트",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wT2RfRllDMGJBT3FUa213STFEcGtnVkt0S21pVkllRlpIOWtUMmExVzJYcUJUZ21PM2VwX3ZsWk5VeXE2V0RjZzN3U0RtdzhkbmV1enhqQXFsRkNUUGVIRzk2N0hWSnVG0gFsQVVfeXFMUDN3a0h6TEMteXQ5eWphd3p2bUVUVE9VZTdwWmphXzBkczdOYllLdUdlRmVzWXF4NGhWX0otbFpXS1U3V3NTZGduWlRnWFE1RjM3Y2g4OHRoRnFPZS1BZU5fZ1VFcmItd21GbUha?oc=5",
+   "pub": "Thu, 19 Nov 2026 00:38:12 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "구자욱도 원태인도 심지어 김호령도 언감생심…송성문에게 주려고 했던 120억원이 어디에 있을텐데 - 마이데일리",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjN1F0NGdoZjAwY1c3U2swOFhJTm9JRnZpUlh4dWhCRTBUUWx1cHN0TlRteExEak1sVEc5RjRFTEU3ZGhSMXhkRXlobm1hWXNYWjV6NXl2ZVU1RUVnWUo5Zg?oc=5",
+   "pub": "Thu, 19 Nov 2026 11:22:51 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "임지열 트레이드에 정철원까지 내준 이택근 단장 자신감…’키움 동료’ 한현희도 살려낼까 - MHN스포츠",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wSzFIay15WE54akJCZVk2YVZtRVVoM203SWd5LUtoUUlrTDl5SE1MYlJfRzl6aGtTT0YtSTlhZ0Ezclo0ZzhGQ1o3bS0tTkhsbmdDdHBHZ2hhUlRkeG11c0p6MA?oc=5",
+   "pub": "Fri, 20 Nov 2026 23:57:01 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "롯데·키움, 정철원과 임지열 맞바꿔 불펜·외야 보강 : 스포츠 - 재경일보",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oUm9BM0hScEtzSVREN1EwVmFER3U5RmNPQW5JSV8tTFdLeTE3eHFsem1vQ3VTd1JrQ0h0R0ZQNGV6MTdGWVZuTDluUQ?oc=5",
+   "pub": "Fri, 20 Nov 2026 07:47:44 GMT",
+   "engine": "gnews",
+   "query": "다키움",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
+  {
+   "title": "서천으로 겨울 철새 여행 오세요...‘서천 철새 여행’ 28일 개막 - 뉴스프리존",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jZ2tSbWc1QUhodHJWUk45UFhiUjQ1eHM4MDVCWVpkSDBnTWZNZDBnQk55b3hmcG40V1B0c2c0S3huRWd6OUlUMnFOZEdOanlaMTZwY2Z2SFFMYU9DVVh2em5vQ1FTUjV0ZG5fYVFmYkRxczTSAXdBVV95cUxOZFhPNEZTbUo1N2JHWmtTZ2E2ZVJjSGhyWlhidGx3bHMyMkxIamlLMzUweUpkdlczU2lHelV0ZWUxbkVfTnZxdnlndnBfazhjajJfTzZXR01vY2NVTWF3ZTBUZUstbjV4a3VyX2k2U0JnZ3lJNnNxQQ?oc=5",
+   "pub": "Fri, 20 Nov 2026 03:00:33 GMT",
+   "engine": "gnews",
+   "query": "대전 목공 체험 가족",
+   "first_seen": "2026-11-23T01:07:48+09:00"
+  },
   {
    "title": "이외에도 '나눔의 숲 캠프'와 인연 찾기 프로그램 '나는 숲으로'도 상시로 운영되고 있습니다. 3. 국립장성숲체원 숲이음길 국립장성숲체원의 자랑거리 중 하나는바로 숲이음길... 경사가 완만하게 조성된 목재 데크길로 휠체어 이용자, 유모차 동반 가족, 어르신 등 보행 약자도 편안하게 숲을 거닐 수 있습니다. 숲길을 따라 걷다 보면 편백나무 숲향을 만끽할 수 ",
    "url": "https://blog.naver.com/k-fowi/224485057227",
@@ -20561,571 +21187,11 @@
    "engine": "naver_blog",
    "query": "남세종종합청소년센터 가족",
    "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "등록된 정보를 정보통신망으로 공개하는 공개명령, 거주하는 지역의 아동·청소년이 속한 세대의 세대주와 학교 등에 알리는 고지명령, 아동·청소년 관련기관등과... 시행 기준) 제42조 제1항은 형법의 강간·유사강간·강제추행·준강간 등의 죄와 강도강간죄(성폭력처벌법 제2조 제1항 제3호·제4호), 성폭력처벌법 제3조부터 제15조까지의 죄, 아동·청소년의 성보호에",
-   "url": "https://blog.naver.com/hwabaeklaw/224486338120",
-   "engine": "naver_blog",
-   "query": "남세종종합청소년센터 가족",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "주요 활동 분야 ★ 시 · 군 · 구 가족센터 ★ 복지관 ★ 가족 · 심리 상담기관 가족센터는 예전 '건강가정 · 다문화가족지원센터'가 이름을 바꾼 곳으로, 건강가정사가 일하는 대표적인 기관입니다. 특히 국가시험 없이 정해진 과목 이수로 자격을 갖추기 때문에 과목 계획만 잘 세우면 일과 병행하며 준비할 수 있습니다. 건강가정사 자격 취득방법 건강가정사는 학",
-   "url": "https://blog.naver.com/jiyumentor_/224484867597",
-   "engine": "naver_blog",
-   "query": "남세종종합청소년센터 가족",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "친구 또는 가족과 함께 방문하는 경우가 많은 만큼 수험생 본인 외에 동반인 할인 인원과 조건을 함께 비교하는 것이... 롯데월드 어드벤처는 12월 31일까지 종합이용권을 잠실 2만 7,000원, 부산 2만 원에 판매하며, 롯데월드 아쿠아리움(1만 8... 대부분 온라인 앱에서 전용 쿠폰을 먼저 내려받거나 청소년 회원 인증을 거쳐야 하므로 예매 전 회원 등급",
-   "url": "https://blog.naver.com/jaljal9292/224487118152",
-   "engine": "naver_blog",
-   "query": "남세종종합청소년센터 가족",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "운동시설로는 천호2동 복합청사의 천호어울림수영장과 해공체육문화센터가 있습니다. 천호어울림수영장은 2025년 문을 열어 현재 운영 중입니다. 강동구민회관과 천호청소년문화의집에서는 문화·교육 프로그램을 이용할 수 있습니다. 강동어울림복지관·강동종합사회복지관·해공노인복지관도 지역 주민을 위한 복지서비스를 제공합니다. 천호동에는... 새 창 열림",
-   "url": "https://blog.naver.com/timulys/224487117174",
-   "engine": "naver_blog",
-   "query": "남세종종합청소년센터 가족",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "먼저 기초생활수급자, 차상위계층, 법정 한부모가족이라면 문화누리카드 발급 대상이 될 수 있고, 자세한 대상 여부는 가까운 행정복지센터 복지담당자 상담으로 빠르게 확인하실 수... 사회복지사 2급, 소방설비산업기사, 평생교육사 2급, 청소년지도사, 건강가정사, 정 보처리산업기사, 조경기술사, 종합미용면허증, 생활체육지도사, 직업상담사, 공인중개사... 새 창",
-   "url": "https://blog.naver.com/ge0625/224487105455",
-   "engine": "naver_blog",
-   "query": "남세종종합청소년센터 가족",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "이번 교육은 \"사춘기 자녀 이해와 소통\"을 주제로 가족코칭연구소 소장 염은희 대표님이 강의를 맡아주셨습니다. 강의는 횡성군 종합보건복지타운 치매안심센터 강의실에서... 아동·청소년뿐만 아니라 어르신들의 마음 건강에도 관심을 기울이고 있으며, 노년기 우울증 예방사업과 찾아가는 이동상담, 온라인 캠페인도 운영하고 있습니다. 마음의 어려움은 혼자... 새 창 열",
-   "url": "https://blog.naver.com/katerose88/224487094679",
-   "engine": "naver_blog",
-   "query": "남세종종합청소년센터 가족",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "아래 내용은 공개된 소개 자료를 종합한 것입니다. • 공개일과 플랫폼 ◦ 2026년 11월 20일 금요일 오후 5시, 넷플릭스에서 전편 동시 공개 • 회차와 장르 ◦ 총 8부작 ◦ 범죄, 스릴러... 다만 청소년 관람불가 등급이어서 성인 인증이 필요할 수 있습니다. 가족과 함께 보실 계획이라면 이 점을 미리 고려해 주세요. 연출을 맡은 한준희 감독은 《D.",
-   "url": "https://blog.naver.com/kosc80/224487023606",
-   "engine": "naver_blog",
-   "query": "남세종종합청소년센터 가족",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "성남시의회 윤혜선 위원장, 지역아동센터연합회 가족문화제 참석…아동·청소년 격려 - 아동·청소년 작품 전시와 공연으로 재능과 꿈 선보여 - - 윤혜선 위원장 “다양한 문화·체험 기회 확대 위한 제도와 예산 살필 것” -새 창 열림",
-   "url": "https://blog.naver.com/jgnewsceo/224487072978",
-   "engine": "naver_blog",
-   "query": "남세종종합청소년센터 가족",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "· 롯데월드 어드벤처 서울 : 11월 19일~12월 31일, 종합이용권 2만 7,000원. 현장 매표소에서 수험표와 신분증을... · 대전오월드 : 11월 30일까지 청소년 자유이용권 1만 4,000원(50%), 본인만 적용됩니다. · 경주월드 : 12월 31일까지 종일권 2만 4,000원, 동반 부모 2명은 1인당 2만 7,000원. 부모와 함께 가면 가",
-   "url": "https://blog.naver.com/mando708/224487071521",
-   "engine": "naver_blog",
-   "query": "남세종종합청소년센터 가족",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "개인의 기질과 성장 과정, 관계 경험, 현재의 환경을 종합적으로 이해하고, 각자의 특성과 필요에 맞는 상담을 진행하고자 합니다.... 리안은 지금-여기의 정서와 관계 경험을 중요하게 생각하며, 전문적인 심리평가와 상담을 바탕으로 아동·청소년·성인과 가족의 건강한 성장과 심리적 안정을 돕는 전문심리상담기관입니다. 이해를 넘어, 안정으로. 리안심리상담센터가..",
-   "url": "https://blog.naver.com/riancenter/224487063407",
-   "engine": "naver_blog",
-   "query": "남세종종합청소년센터 가족",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "감천면 행정복지센터 생활권과 가깝고 김천 시내 이동이 수월한 금송리 도로변의 단독 창고입니다. 앞선 (4)번... 3040 가족 세대가 밀집한 상권입니다. 학원·병의원·음식점이 모인 생활 상권이라 평일 점심과 주말 저녁 유동 동선, 층별 공실 현황을 꼭 확인하실 자리입니다. 원호·문성지구 택지 개발로 인구 약 4만 명선(아동·청소년 약 40%)을 유지하는.",
-   "url": "https://blog.naver.com/mooninhawn/224487055884",
-   "engine": "naver_blog",
-   "query": "남세종종합청소년센터 가족",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "(최초신청만 적용가능) 자격 취득 시 과정당 컨텐츠 이용료 9만원 발생합니다. 전체과정대상별 심리상담사 과정도구별 심리상담사 과정전문상담사 과정방과후교육 과정전문실무분야 육아전문가 과정식음료전문가 과정노후/복지 과정 샘플강의강의계획서가족심리상담사 - 자격명칭 : 가족심리상담사 - 강의교수 : 박인숙 교수님 프로필 - 수강기간 : 5주... 새 창 열림",
-   "url": "https://cafe.naver.com/sobulfengshui/2213?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNvYnVsZmVuZ3NodWkiLCJhcnRpY2xlSWQiOjIyMTMsImlzc3VlZEF0IjoxNzk1MzM5NTM1MDA3fQ.FP0ZlToUhkURczWDEBsJeQPgsIYb0Q6cdnLtILhPbTo",
-   "engine": "naver_all",
-   "query": "가족 가죽공예 체험 신청",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "원에 체험할 수 있는 특별 할인행사가 진행되고 있습니다. 바로 문화체육관광부와 한국관광공사의 '2026 여행가는 가을... 최초 예약 일정 ● 10월 14일: 서울·경기·인천·충청·세종권 ● 10월 15일: 강원·전라·경상·대구·부산권 ● 10월 16일: 전... 각 참가자의 행사 참여 횟수 제한을 충족해야 합니다. STEP 6. 온라인 카드결제 행사 참가",
-   "url": "https://blog.naver.com/sstrge2/224486855466",
-   "engine": "naver_blog",
-   "query": "세종시 문화유산 체험 참가자 모집",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "모두 2018 평창동계올림픽 때 쓰인 시설이라, 올림픽 유산을 밟으며 달리는 구성이에요. 2018 평창동계올림픽 유산과 겨울 평창의 자연을 활용한 겨울 스포츠 이벤트로 소개됐어요. 다음 날 윈터 익스트림 체험데이 행사 다음 날인 2026년 12월 13일 일요일에는 윈터 익스트림 체험데이가 이어져요. 스노우런 참가자는 바이애슬론 레이저 사격과... 새 창 열",
-   "url": "https://blog.naver.com/gangwon_now/224487078044",
-   "engine": "naver_blog",
-   "query": "세종시 문화유산 체험 참가자 모집",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "지원 모집인원 9명(제주권 3명, 수도권 6명) 고용형태 청년인턴(체험형) 기간제 근로자 근무지 공무원연금공단 제주... 응시·취업박람회 참가 시 부여 4대보험 산재보험·고용보험·국민연금·건강보험 가입 사택 지원 없음 경력증명서 30일... 북한이탈주민·한부모가족·다문화가족은 각각 면접전형 만점의 3% 가점 기준 원서접수 마감일인 11월 24일(화) 기준.",
-   "url": "https://blog.naver.com/ssomibbumi33/224487072476",
-   "engine": "naver_blog",
-   "query": "세종시 문화유산 체험 참가자 모집",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "11월 7일~30일 여행분 추가모집은 사전 신청이 마감됐고, 정산 신청은 12월 7일(월)까지예요. 이미 신청하신 분들은... 홈페이지에서 참가 신청: 여행 1개월 전부터 여행 하루 전까지 승인 문자를 받은 뒤 고창 여행 관광지 2곳... 1 jp) 세계유산 고창 고인돌, 실제로 보면 생각보다 훨씬 커요! 세계유산 고인돌을 실제로 볼 수 있는 곳이에요. 박",
-   "url": "https://blog.naver.com/hiomogi/224486693029",
-   "engine": "naver_blog",
-   "query": "세종시 문화유산 체험 참가자 모집",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "1907년 평양 장대현교회에서 시작된 부흥의 역사를 120년 만에 다시 잇는 초교파 기도성회가 참가자 모집에 나섰다. '2027 초교파연합금식기도축복성회'가 2027년 1월 4~8일 경기도 파주시... 2027초교파연합준비위원회(준비위원장 장요한 목사)는 지난 16일 서울역 3층 카페에서 기자간담회를 열고 성회의 취지와 세부 프로그램, 참가 등록 방식 및 ",
-   "url": "https://blog.naver.com/jr0191/224485167035",
-   "engine": "naver_blog",
-   "query": "세종시 문화유산 체험 참가자 모집",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "아름답다\" 가족·연인·친구들 추억 담기 분주 한평생 나무 심은 임창봉 선생의 꿈 시민들의 아름다운 쉼터로 자리잡아 영하의 추위 녹이는 따뜻한 어묵과 붕어빵 겨울 문턱에서 떠나는 가을 붙잡는 사람들 [천지일보 대전=김지현 기자] 겨울의 문턱에 선 11월 21일, 영하의 날씨 가운데 대전 서구 장안동... 새 창 열림",
-   "url": "https://www.newscj.com/news/articleView.html?idxno=3451057",
-   "engine": "naver_news",
-   "query": "대전 서구 가족 체험",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "한국산림복지진흥원이 숲을 매개로 청소년과 가족에게 평화와 통일의 가치를 전하는 체험행사를 열었다. 산림청 한국산림복지진흥원은 지난 21일 대전 서구 산림복지종합교육센터에서 민주평화통일자문회의 대전서구협의회와 함께 '숲에서 배우는 평화, 가족이 함께 만드는 통일' 행사를 개최했다고 밝혔다.... 새 창 열림",
-   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112622",
-   "engine": "naver_news",
-   "query": "대전 서구 가족 체험",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "대전 서구의회 경제복지위원회는 지난 19일 아동복지과와 성평등가족과를 대상으로 2026년도 행정사무감사 4일 차 일정을 진행하고 아동양육시설과... 학교밖청소년지원센터의 진로·학습체험 실적이 저조한 점에 대해서는 지역 기업과 연계한 체험 기회 확대와 후원 물품 관리의 투명성 강화를 당부했다.... 새 창 열림",
-   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112504",
-   "engine": "naver_news",
-   "query": "대전 서구 가족 체험",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "이 땅에 들어온 서구의 근대와 현대가 AX(AI 전환)로 상징되는 현재(Now) 시대를 규정한다. 스스로 혼종성을 가진 근대와 현대는 일제 강점기, 분단과... (같은 책, p263) \"1987년 수도승 수백 명이 생활하는 라투레트 수도원에서 가족들과 머문 체험은 같은 해 퐁피두에서 르 코르뷔지에 탄생 100주년... 새 창 열림",
-   "url": "https://www.newsverse.kr/news/articleView.html?idxno=12007",
-   "engine": "naver_news",
-   "query": "대전 서구 가족 체험",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "대전시 서구의회 경제복지위원회는 19일 아동복지과와 성평등가족과를 감사했다. 정홍근 위원장은 다른 지자체의 운영 사례를 비교해 이용 기준과 신청... 학교 밖 청소년에게는 지역 기업과 연계한 직업체험 기회를 넓히는 방안을 제안했다. 오세길 위원은 국공립어린이집에서 반복된 지적 사항이 재위탁 심사... 새 창 열림",
-   "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2452571",
-   "engine": "naver_news",
-   "query": "대전 서구 가족 체험",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "대전 서구의회 경제복지위원회가 행정사무감사 4일 차에 내년 시범 도입되는 '아픈아이 병원동행 서비스'의 인력·예산 부족 문제를 집중 거론했다. 경복위(위원장 정홍근)는 19일 아동복지과와 성평등가족과를 상대로 2026년도 행정사무감사를 이어갔다. 정홍근 위원장은 병원동행 서비스 대상이 관내 6~12세 아동... 새 창 열림",
-   "url": "https://www.thepublic.kr/news/articleView.html?idxno=327767",
-   "engine": "naver_news",
-   "query": "대전 서구 가족 체험",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "※ 2026학년도 대전수학문화관 토요 가족 수학체험교실 운영 안내 【토요 가족 수학체험교실】 가족과 함께 하는 활동중심 수학체험을 통해 수학에 대한 자신감을 기르고, 수학을 매개로 소통하고 이해하는 기회를 제공하는 가족 체험프로그램 ※ 2025년과 변경된 운영 내용은 빨간색으로 표기, 꼭 유념하여 주시기... 새 창 열림",
-   "url": "https://cafe.naver.com/ccmomedu/427?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNjbW9tZWR1IiwiYXJ0aWNsZUlkIjo0MjcsImlzc3VlZEF0IjoxNzk1MzM5NzE1MzEzfQ.4JcvuNi4cdRhj2_IkBVGxR7r0YD6B4dIRoG-vKHfFYE",
-   "engine": "naver_all",
-   "query": "대전수학문화관 토요 가족 수학체험교실",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "초등 3,4가 현재학년기준인거죠? 1,2학년은 프로그램이 없나보네요~새 창 열림",
-   "url": "https://cafe.naver.com/djnoen/1316361?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRqbm9lbiIsImFydGljbGVJZCI6MTMxNjM2MSwiaXNzdWVkQXQiOjE3OTUzMzk3MTUzMTN9.mkrjBwiyZmrt9AArHKfJT2VKb-r2qu5oIP2DzCcwxxM",
-   "engine": "naver_all",
-   "query": "대전수학문화관 토요 가족 수학체험교실",
-   "first_seen": "2026-11-22T18:07:48+09:00"
-  },
-  {
-   "title": "늦가을 원도심 수놓은 세계의 면요리… 맛과 추억에 빠지다 [2026 누들대전축제] - 대전일보",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFWEdRWWxKcTFTM3VRU2t6czJUUURlQjRaSUMzSkl0dXdoRkdaMXFMMmJSTGY3Ny1jVzlxcmRKV2dwa0ExSDNMZGJKeUtPWHVVLTlWWUN3MV96MHRFbFNZYVBNMTlSSjdTNWR1aTZuWdIBc0FVX3lxTE5aSGlBbXhJWnZjQi01THJ5cmJhVTFvT25WaklUT2VyN2tvRTFQZjVKckRSZGhwQ0dQcEZtQ09rZG1YQUtqcTNXWWJ2VlJwdmNRN092MVYwSVptZEV6ZWlZV0x6a2RDa2ZvYjZRbFozN1dxcFU?oc=5",
-   "pub": "Sun, 15 Nov 2026 09:17:00 GMT",
-   "engine": "gnews",
-   "query": "대전 중구 가족 체험",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "대전사회혁신센터, ‘우리가족 자원순환 페스티벌’ 개최 - 서울경제",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iWThVMUpyZHVzZU9ISWo1Y1BkZlp4VGJETHJIU05PbmxxMXJZQ0xBV0I5RGJQMjhIa2gwSkRvckNPd01PcGlLbndnRy1pSjN0RFHSAVNBVV95cUxNQXJYSlEyOUdzdmswQy1naU5CQ29kNWF5eUFYaFBsZjZoVlh1eWY1VVotNlg2WmZVQ0JJRXc2ZW1GTE5tU25WWUJJTDJKUTdNTzdwSQ?oc=5",
-   "pub": "Mon, 16 Nov 2026 01:08:21 GMT",
-   "engine": "gnews",
-   "query": "대전 중구 가족 체험",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "문화포털새 창 열림",
-   "url": "https://www.culture.go.kr/portal/main/main.do",
-   "engine": "naver_all",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "도봉문화재단새 창 열림",
-   "url": "https://www.dbfac.or.kr/front/main.do",
-   "engine": "naver_all",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "www.dbfac.or.kr›commonfile새 창 열림",
-   "url": "https://www.dbfac.or.kr/commonfile/fileidDownLoad.do?file_id=60167fd3-40e7-11f0-9c94-020064370003",
-   "engine": "naver_all",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "작년에 이 수업 들었어요 ㅎ.ㅎ 홍보사진 속에 저희집 아이도 있어요 https://m.blog.naver.com/shoo1982/224346210031새 창 열림",
-   "url": "https://cafe.naver.com/djnoen/1340692?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRqbm9lbiIsImFydGljbGVJZCI6MTM0MDY5MiwiaXNzdWVkQXQiOjE3OTUzMzQ4OTM2NzV9.Xu310cXZv6FVhon1CYOc813kzxzvq1xWBUF7QduhOvA",
-   "engine": "naver_all",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "추가적으로 공준모 지방 공공기관 채용 공고 게시판을 통해서 관심 있는 기관의 접수 중인 혹은 이전 채용 공고를 찾아... 광주인재평생교육진흥원 광주 광주 사회서비스원 광주 광주연구원 광주 광산장학회 광주 광주서구장학재단 광주 광주동구문화재단 광주 광주남구로컬푸드센터 대전 대전일자리경제진흥원 대전 대전고암미술문화재단 대전 정보문화산업진흥원... 새 창 열림",
-   "url": "https://cafe.naver.com/studentstudyhard/2788670?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InN0dWRlbnRzdHVkeWhhcmQiLCJhcnRpY2xlSWQiOjI3ODg2NzAsImlzc3VlZEF0IjoxNzk1MzM0ODkzNjc1fQ.B62hwQ5r40J2uJhiyw1GO0HJaZtxyt7_esFAgsBkba4",
-   "engine": "naver_all",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "아이도 그건 또렷하게 기억하더라구요ㅎㅎ < > ▲법 교육 드라마 '이상한 변호사 우영우'의 영향으로 법에 관심을 가졌으면 하는 바람으로 엄마가 신청한 교육이에요. 대전솔로몬로파크는 평일 수업에 장거리 이동을 해야 해서 교외체험학습 신청하고 갔었네요. 진행하시는 선생님들이 유쾌하셔서 어려운 내용도 재밌게 풀어주셨어요. 충남 지역의 친구들이 대부분이었고... ",
-   "url": "https://cafe.naver.com/outofschool/3608?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im91dG9mc2Nob29sIiwiYXJ0aWNsZUlkIjozNjA4LCJpc3N1ZWRBdCI6MTc5NTMzNDg5MzY3NX0.FtoSFipVpfjqsYAkRLsuNp6zenSxjzk3Eq201HLmhdk",
-   "engine": "naver_all",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "(처음에는 선착순 접수여서 대기타다가 땡 하면 접수,지금은 아님) 지금도 저희는 과학관이 놀이터 입니다. 기타. 대전시립미술관, 이응노미술관, 대전예술의전당, 대전연정국악원... 그럼에도 저는 아이의 능력과 가정상황에 맞는 교육을 시키는 것을 권유합니다. 또한 아이에게 절대 하지 말아야 하는 말 \"이게 얼마짜리 수업인데!\" \"너한테 한달에 들어가는 교육비가",
-   "url": "https://cafe.naver.com/ccmomedu/5247?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNjbW9tZWR1IiwiYXJ0aWNsZUlkIjo1MjQ3LCJpc3N1ZWRBdCI6MTc5NTMzNDg5MzY3NX0.o-PjouuqCjOXnwHgVc5KLSGuzCs29jiVAJKchj-8lGQ",
-   "engine": "naver_all",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "하동 별맛 김치축제 12월 5일 개최…김장체험 사전예약 12월 3일 마감 - 진주인터넷뉴스",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QYUFrcG03V3ZKNmRldk85V1dlaTBOcVllOE5RcXJlYjdQekd5RkpYdTN5T2tpa3ptbm95V25qTzk0S0FmamNsanVfWS02LW5YQTJ3SWVPMDFjVllraHZwRmczUXhlV0toY3RHRG5vLXNSQQ?oc=5",
-   "pub": "Sat, 21 Nov 2026 13:00:05 GMT",
-   "engine": "gnews",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "2026년 축제 지정농장은 축제 기간 사전예약제로 운영됐어요. 논산시 공식 안내 페이지에 농장별 연락처와 신청 링크가 정리돼 있어요. 날짜, 체험 품종, 수확량을 같이 확인하세요. 킹스베리가 목적이라면 위 네 곳 중에서 골라 12월 시즌 공지부터 확인하세요. 딸기여행 시리즈 EP.1 논산 딸기체험 — 지금 이 글 EP.2 킹스베리 딸기체험 되는 곳 (예정)",
-   "url": "https://blog.naver.com/findlap/224487158119",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "출처: 현장 상시 만들기 · 사전 체험 신청 종료 일정 가족 관람은 이렇게 묶어보세요 가족 동선은 쌀가공식품 구경, 현장 만들기, 먹거리 구매 순서로 묶어보는 것을 추천해요.... □ 떡 만들기도 지금 신청되나요? → 안내된 사전 신청은 11월 18일 종료됐어요. #K라이스페스타 #K라이스페스타2026 #킨텍스행사 #무료전시 #아이와가볼만한곳 #주말나들이 ",
-   "url": "https://blog.naver.com/msa0538/224487158145",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "안녕하세요, 그레이입니다 :) 11월 마지막 주말 일산 킨텍스에서 우리쌀로 만든 다양한 먹거리와 우리술을 한자리에서 만나볼 수 있는 특별한 축제가 열려요. 바로 2026 우리쌀... 일부 체험은 사전 신청이나 현장접수가 필요하며 참여 대상과 인원 제한이 다를 수 있어요. 아이와 함께 방문한다면 체험 가능한 연령과 진행 시간을 미리 확인해 보세요. 7. 현장",
-   "url": "https://blog.naver.com/ang8107/224487156240",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "아트 투어와 토크의 사전 신청 여부, 정원은 확인하지 못했어요. 미로소년 작가의 라이브 드로잉과 아트 럭키드로우는 보도에 나오지만 시간은 확인하지 못했어요. 작품도 굿즈도 현장에서 살 수 있어요 공식 소개는 전시, 판매, 체험, 협업이 어우러지는 전시를 내세워요. 마음에 드는 작품을 구매할 수 있고, 아트숍에서는 캐릭터 굿즈를 팔아요. 보도에... 새 창 ",
-   "url": "https://blog.naver.com/with_art_official/224487149490",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "3~4큰술 사전 절임 없음 같은 파김치라도 쪽파 대비 액젓 양이 몇 배씩 갈립니다. 그래서 \"쪽파 얼마당 액젓 얼마\"라는 공식은 없다고 보는 게 맞습니다. 레시피를 골랐다면 그 글의... 누구나 방문할 수 있는 행사로, 국산 김치 약 20개 업체가 평소보다 약 30% 할인된 가격에 김치를 판매했고 김치명인 시연과 김장 체험이 진행됐습니다(농식품부 보도자료,",
-   "url": "https://blog.naver.com/getsome311/224487153064",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "숫자로 보는 차 열풍 경향신문 보도에 따르면 6월 제23회 국제차문화대전의 다례 체험 방문객 중 50~60%가 20·30세대였어요. 올해 상반기 현대백화점의 20·30세대 차 관련 상품... 무료 사전등록은 12월 2일 12시까지 받고, 사전등록 없이 현장에서 입장하면 1만 원이에요. 매일 오전에 도예 작가가 만든 찻잔을 한정 수량으로 선착순 증정해요(명원",
-   "url": "https://blog.naver.com/with_art_official/224487153084",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "2026 수원가구 엑스포 홈앤리빙 더 아트 페스타는 프리미엄 원목가구부터 트렌디한 리빙 소품과 아트 작품까지 한자리에서 만날 수 있는 축제입니다. 사전등록만 완료하면 현장 대기... & 실제로 지난 회차에 다녀온 지인의 이야기를 들어보면 주말 오후 2시 이후에는 인기 소파와 식탁 브랜드 부스마다 상담 대기 줄이 길게 늘어서서 원하는 모델을 충분히 체험하기.",
-   "url": "https://blog.naver.com/ckh2067/224487152037",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "전시·판매하는 축제입니다. 생산자와 소비자가 만나 제품을 살펴보고, 시음·시식을 통해 취향을 찾아볼 수 있도록... 체험별 운영 시간과 신청 방법, 참가비는 공식 홈페이지의 개별 안내를 확인해 주세요. 무료입장과 각 체험의 참여... 공식 홈페이지에는 관람객 사전등록 메뉴가 마련돼 있습니다. 방문 전 등록 안내와 관심 있는 프로그램을 함께 살펴보면... 새",
-   "url": "https://blog.naver.com/bijuan119/224487146991",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "전주 국립무형유산원은 눈에 보이지 않는 전통기술과 공연예술을 전시품·영상·체험으로 만나는 국가유산청 소속... 연주나 축제가 이루어지는 현장에서 쓰이던 물품과 기록을 통해 살아 있는 전통의 구성을 살펴볼 수 있어요. 해녀... 유치원생·초등학생·중고등학생·일반인을 포함한 10명 이상 단체관람은 별도 사전예약이 필수예요. 신청은 관람희망일 30일... 새 창",
-   "url": "https://blog.naver.com/chaechae789/224487145279",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "2026 서울콘 핵심정보 구분 내용 행사명 2026 서울콘 SeoulCon 기간 2026.12.29~2027.01.01 장소 동대문디자인플라자 DDP 주최·주관 서울경제진흥원 SBA 중심 행사 성격 글로벌 인플루언서·K콘텐츠 축제 주요 분야 K팝·패션·뷰티·콘텐츠·커머스 대표 프로그램 공연·컨퍼런스·전시·체험·네트워킹 추천 대상 K팝·K뷰티·콘텐츠·크리에이",
-   "url": "https://blog.naver.com/younground_/224487143424",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "서울시 축제정보에 등록된 2026 마곡위 11월 말부터 강서구 발산역 앞 광장이 연말 분위기로 바뀝니다. 서울시 축제정보에... 입장료·신청·교통 주의사항 서울시 행사 상세정보에 관람료는 무료로 표시되어 있습니다. 일반 조명 관람의 사전 예약 절차는 안내되지 않아 미확인으로 두며, 별도 유료 체험이나 판매 프로그램이 있다는 뜻은 아닙니다. 행사장 전용...",
-   "url": "https://blog.naver.com/didznal3/224487143524",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "서울시 안내 자료에 따르면 11월 24일부터 29일까지의 체험 일정이 별도로 안내되어 있습니다. 참가 대상은 만 8세 이상이며, 참가비는 1인 10,000원, 회차별 인원은 20명으로 소개됐습니다. 사전 예약이 필요하므로 잔여 좌석과 예약 가능 여부를 확인한 뒤 신청하는 것이 좋습니다. ■ 운현궁 위치 및 교통편 운현궁은 서울 종로구 삼일대로 464에 위치",
-   "url": "https://blog.naver.com/lhs62025/224487136810",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "입장은 무료일까 입장료, 사전 신청, 관람 좌석 구분은 조직위 보도자료와 협회 공지, 서울시 광화문광장 누리집에서 확인하지 못했어요. 광화문광장은 열린 공간이지만 행사... 함께 보면 좋은 글 야경과 체험을 함께 즐길 수 있는 투어, 체험 상품을 위드 크리에이터샵 야경·투어·체험 컬렉션에 모았어요. 출발일과 예약 조건은 상품 페이지에서 꼭... 새 창 열림",
-   "url": "https://blog.naver.com/with_art_official/224487131746",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "도서관' 축제를 엽니다. 산타의 오두막 서재를 재현한 대형 포토존 '산타의 비밀서재를 엿보다'와 소원을 적은 손편지를 넣는 '산타 우체통'이 마련됩니다. 주말마다 미디어·드론 체험, 공예 플리마켓과 체험존, 크리스마스 마술 공연 같은 가족 프로그램이 이어집니다. 세부 일정과 사전 신청 방법은 도서관 공식 누리집에서 확인할 수 있습니다. 경남 거제 고현...",
-   "url": "https://blog.naver.com/chy9436/224487109965",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "견생사진관 및 체험부스 반려견과 함께 기념사진을 남길 수 있는 견생사진관과 다양한 체험부스도 운영된다. 피크닉 공연과 현장 이벤트 등도 마련되어 있어 반려견과 함께 축제... 준비하기 • 체험 프로그램별 사전 신청 및 참가 조건 확인하기 • 야외 활동에 대비해 반려견과 보호자 모두 따뜻하게 준비하기 • 다른 반려견 및 방문객을 배려하며 펫티켓 지키기... ",
-   "url": "https://blog.naver.com/richory/224487126268",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "책 축제가 펼쳐질 예정이라고 합니다. 이번 행사에는 무려 19개국 150개사와 200여 명의 국내외 작가가 함께하며, 아이들뿐... 직접 체험하고, 좋아하는 작가를 만나고, 마음에 드는 책도 골라볼 수 있다는 점이 기대되는데요 어린이 선착순 1만... 무료입장 신청과 사전등록 방법 행사 방문을 계획하고 있다면 입장 등록 방법도 미리 알아두세요 2026 부산",
-   "url": "https://blog.naver.com/tyw1004/224487125893",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "지난 21일부터 이틀 동안 열린 전북 익산 'K-김장문화축제'에서는 김장 체험 사전 예약에 960팀이 몰려 일찍 마감됐습니다. 참가자들은 절임배추와 양념 꾸러미로 직접 김치를 담갔고, 현장에서 쓸 수 있는 5000원권 상품권과 수육 200g도 받았습니다. 축제 기간 담근 김장김치 400kg은 어려운 이웃에게 전달됐고, 김장 체험과 지역 명소 탐방을 묶은 프",
-   "url": "https://blog.naver.com/chy9436/224487109281",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "놀거리를찾자 | 전국지역축제 | 자료 확인 기준 2026년 11월 20일 박람회 입장은 무료지만, 체험 순서와 주차 혜택은 현장 안내를 확인하세요. 11월 마지막 주에 울산에서 다양한... 체험 프로그램 안내에는 일부 무료 체험을 사전 신청 없이 현장 선착순으로 운영한다고 명시합니다. 단, 특정 활동의 재료 수량이나 회차별 인원은 현장 운영 조건이 우선합니",
-   "url": "https://blog.naver.com/didznal3/224487117778",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "사전예약과 현장 대기 방식이 운영되며, 현장 대기를 신청해도 입장이 보장되는 것은 아니랍니다. 아이들과 함께라면 사전예약을 먼저 챙겨보는 것이 좋겠어요. 예약 방법과... 겨울축제 체험 예약은 11월 23일 오전 10시, 12월 야간개장 예약은 12월 1일 오전 10시부터 시작된다고 하니 관심 있는 분들은 참고하세요. 3. 잠실 롯데타운 크리스마스 마켓..",
-   "url": "https://blog.naver.com/onlove0127/224487117581",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "2026 영암 축제 영암 황토밭 고구마 축제 고구마 캐기/ 계란집 만들기/ 직거래장터 글/ 사진/영상 ⓒ필연 방문일 : 2026. 11.15... 캐기 체험 : 사전신청 필수 고구마 요리 체험 : 고구마 경단, 맛탕 만들기(현장신청) 황토밭 운동회 : 단체 줄다리기 대회... 아이까 빨간색으로 색칠하니까 도와주시는 선생님이 김장하냐고 ㅋㅋ 집에서는 물감 꺼",
-   "url": "https://blog.naver.com/mijung700/224487116454",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "현재 사전예약이 가능한 시간도 있어서 원하는 시간이 있다면 등록 후 방문해 보세요! 등록 링크는 이곳을 참고하세요 현장예약자는 입구에 설치된 웨이팅보드에 등록을 하고 알람 후에 입장이 가능합니다! 제가 체험을 마무리한 시점에서도 예약이 진행되고 있으니 신청해주세요! 입장을 하니 티켓과 팜플렛을 받을 수 있었습니다! 이제 팝업을 즐기러 갈까요? 4.... 새",
-   "url": "https://blog.naver.com/gksk3232/224487111398",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "2026 전국민 AI 페스티벌 사전신청부터 다양한 체험 내용까지 소개할게요. 1. DDP 2026 전국민 AI 페스티벌 행사정보 구분 내용 행사명 2026 전국민 AI 페스티벌 슬로건 AI, 모두의... 서울 DDP 2026 전국민 AI 페스티벌 마무리 AI로 그림과 음악을 만들고, 로봇을 움직여 보고, 과학실험과 요리 대결까지 즐길 수 있는 3일간의 AI",
-   "url": "https://blog.naver.com/nanviolet-info/224487067170",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "일반 관람은 무료로 안내되지만, 과학체험교육은 별도 수강 신청 대상입니다. 관람 예약 여부와 교육 신청 방법은 방문 날짜의 공식 안내에서 확인하고 출발하세요. 1. 무료 관람은 예약 없이 가능할까? 시흥어린이과학관은 2026년 11월 배곧동에 문을 연 시설로, 개관 관련 안내에는 무료 관람으로 소개됐습니다. 관람 시간은 오전 10시부터 오후 5시 30분까지",
-   "url": "https://blog.naver.com/mk0654/224487016562",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "차가운 강바람과 반짝이는 수변 풍경이 어우러지는 12월, 서울의 대표적인 사계절 축제인 한강페스티벌이 겨울 프로그램으로 찾아옵니다. 2026년 겨울 축제는 12월 19일(토)부터 12월 27일... 예약이 필요 없는 행사라면 현장 방문으로 즐길 수 있지만, 참여 인원이 제한된 체험은 사전 신청이 중요합니다. 셋째, 겨울철 방한 준비입니다. 강변은 도심보다 ",
-   "url": "https://blog.naver.com/jangbogocorn/224486941437",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "출판사와 작가, 어린이 독자가 함께하는 국내 최대 어린이책 축제로, 올해는 19개국 150개사와 200여 명의 국내외 작가가 참여할 예정이라고 합니다. 무엇보다 어린이 북머니와 다양한 체험 프로그램까지 준비되어 있어 가족 나들이 장소를 찾는... 무료입장을 신청할 수 있어요. 아이와 함께 방문할 계획이라면 미리 사전등록을 진행하고 방문 일정을 준비해 보세요",
-   "url": "https://blog.naver.com/justnw/224487103612",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "2026 벌교꼬막축제 · 11월 20~22일, 벌교천변 일원 보성군이 날짜별 공연·체험 시간표를 공개했어요. 마지막 날 방문이라면 22일 프로그램을 먼저 확인하세요. 벌교꼬막축제 2026 기본... 아이들과 사전 접수 프로그램을 미리 신청하고 싶다는 반응도 있었어요. 방문 전 팁 ✔️ ✔️ 작년 '황금꼬막을 잡아라!'는 시작 20분 전 현장 접수, 선착순 ",
-   "url": "https://blog.naver.com/joung1811/224487102160",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "인천에서 아이와 함께할 무료 체험을 찾고 있다면 소래습지생태공원의 12월 겨울 특강을 살펴볼 만합니다. 겨울 철새... ※ 직접 다녀온 후기가 아니라 2026년 11월 20일 인천시 공식 자료를 확인해 작성한 사전 방문 정보입니다. 2026 소래습지 겨울 특강 핵심정보 구분 공식 안내 프로그램 소래습지생태공원 겨울 특강 운영기간 2026년 12월 1일~31",
-   "url": "https://blog.naver.com/aidaddy50/224484949246",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "겨울축제 체험 프로그램은 11월 23일 오전 10시, 12월 야간개장은 12월 1일 오전 10시부터 예약할 수 있어요. 아이들과 크리스마스 나들이를 계획하고 계신 이웃님들을 위해 날짜별... 네 식구가 함께 참여하려면 두 팀을 신청할 수 있는지 살펴봐야겠죠. 석고방향제 만들기는 7세 이상 참여할 수 있고, 한 번에 최대 4명까지 신청할 수 있도록 안내되어 ",
-   "url": "https://blog.naver.com/onlove0127/224487099022",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "축제 정보 행사명 2026 포천 펫스타 in 아트밸리 일시 2026.11.29(일) 10:00~17:00 장소 포천아트밸리 주소 경기 포천시 신북면 아트밸리로 234 입장 포천아트밸리 입장권 필요 주최·주관 포천시 문의 0502-1949-0514 반려견 없이 방문해도 공연과 체험... 크리스마스 패션쇼로 참가비는 무료이고 사전접수 선착순으로 받아요. 펫티켓",
-   "url": "https://blog.naver.com/order-07/224486811152",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "및 신청 페이지 안내 보기◀◁◀ ※ 본 정보는 보도자료 내용 바탕으로 작성되었습니다. 기관 사정 등에 따라 변경 내용이 존재할 수 있습니다. (서울=호수뉴스) 김장철을 맞아 해양수산부가 천일염과 젓갈 등 김장철 수산물의 원산지 표시... 이번 특별 점검은 11월 23일부터 12월 4일까지 진행되며, 값싼 수입산을 국내산으로 속여 파는 행위를 사전에 차단하여",
-   "url": "https://blog.naver.com/hosunews/224487078779",
-   "engine": "naver_blog",
-   "query": "김장 축제 체험 사전신청",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "국립중앙박물관 교육관 □ 참가자격 : 전국 대학 고고학 관련 학과 3, 4학년 재학생(5학기 이상 등록자) ※ 고고학과, 고고미술사학... 접수가 12월 초에 마감되는 「2027년 매장유산 발굴현장 산업재해 예방 지원사업」민간위탁 선정 공모 재공고도 챙겨보시길... 및 미술관, 발굴조사의 5개 분야이며 최대 100개 기관을 선정합니다. 신청은 온라인 채용 ",
-   "url": "https://cafe.naver.com/archaeology/20336?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFyY2hhZW9sb2d5IiwiYXJ0aWNsZUlkIjoyMDMzNiwiaXNzdWVkQXQiOjE3OTUzMzUwNTUyMDl9.2_qFxfLj2ZT8oOVC_smjQiMBtjXmkeWVQgw4x5TfEro&q=%eb%8c%80%ec%a0%84%ec%8b%9c%eb%a6%bd%eb%af%b8%ec%88%a0%ea%b4%80%20%ea%b5%90%ec%9c%a1%20%ec%a0%91%ec%88%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "대전’ 대상 수상… 2년 연속 전국 공모전 제패 - 출품작 '분청어의 꿈'으로 문화체육관광부장관상·상금 1,000만 원 거머쥐어… - 16세 입문해 30여 년 외길… \"최연소 도자 명장 향해 정진할 것\" 클레이아크김해미술관 김해공예창작지원센터의 김상성 학예사(정2급)가 에서 영예의 대상을 차지했다. 분청도자의 전통을 계승하고 현대적 가능성을 모색하기 위해.",
-   "url": "https://cafe.naver.com/jungamironware/21663?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTY2MywiaXNzdWVkQXQiOjE3OTUzMzUwNTUyMDl9.lQbPhNg1G0SM0PZ4TDqhgI3F7dj1hMYRyum0sCXnGhg&q=%eb%8c%80%ec%a0%84%ec%8b%9c%eb%a6%bd%eb%af%b8%ec%88%a0%ea%b4%80%20%ea%b5%90%ec%9c%a1%20%ec%a0%91%ec%88%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "장소: 경남 | 이성자미술관 문의: 진주시립이성자미술관 055-749-3661 전시 제23회 이동훈미술상 본상 수상작가전: 임송자 기간: 2026.10.01.~2026.11.22. 장소: 대전 | 대전시립미술관 문의: 대전시립미술관 042-270-7337 전시 2026년 방짜유기박물관 ‘팔공산 선비의 멋, 공산의 구곡’ 기간: 2026.05.27.~2026",
-   "url": "https://cafe.naver.com/jungamironware/21649?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTY0OSwiaXNzdWVkQXQiOjE3OTUzMzUwNTUyMDl9.f_YTlr5UhAz-FVjfUCrULOuzjMO-j8s4cTFofo-nRgg&q=%eb%8c%80%ec%a0%84%ec%8b%9c%eb%a6%bd%eb%af%b8%ec%88%a0%ea%b4%80%20%ea%b5%90%ec%9c%a1%20%ec%a0%91%ec%88%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "장소: 서울 | 영산아트홀 문의: 에이벡스 02-516-7086 음악 [대전] MJ Wind Orchestra 제4회 정기연주회 기간: 2026.11.22.~2026.11.22.... 장소: 서울 | 소태산홀 문의: 한국우쿨렐레교육협회 사무처 02-522-6114 음악 [성남] 제6회 버디색소폰앙상블 정기연주회... 장소: 서울 | 서울시립미술관 문의: 서",
-   "url": "https://cafe.naver.com/jungamironware/21644?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTY0NCwiaXNzdWVkQXQiOjE3OTUzMzUwNTUyMDl9.7bHnZgYVOWHw7osHX2l1w-tFJ50wiwPjlbUlDa8AIoE&q=%eb%8c%80%ec%a0%84%ec%8b%9c%eb%a6%bd%eb%af%b8%ec%88%a0%ea%b4%80%20%ea%b5%90%ec%9c%a1%20%ec%a0%91%ec%88%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "전담사회복지사 접수기간: 2026. 12. 01. ~ 12. 04. (방문접수) [1] [인천 남동구] 남동구노인복지관 모집분야: 노인맞춤돌봄 전담 사회복지사... 충청·대전·세종권 [충남 공주시] 공주노인복지센터 모집분야: 노인맞춤돌봄서비스 전담 사회복지사 (정규직) 근무조건: 주 5일 (09:00... 서울특별시립 아동푸른센터 모집분야: 아동 생활지도원",
-   "url": "https://cafe.naver.com/114care/8?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjExNGNhcmUiLCJhcnRpY2xlSWQiOjgsImlzc3VlZEF0IjoxNzk1MzM1MDU1MjA5fQ.jMfak3kpu44W-sc6Z97M6eAUUXJKhfVI6XXewOG4gLE&q=%eb%8c%80%ec%a0%84%ec%8b%9c%eb%a6%bd%eb%af%b8%ec%88%a0%ea%b4%80%20%ea%b5%90%ec%9c%a1%20%ec%a0%91%ec%88%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "겨울방학 특강 신청 안내 신청일시: 2026년 12월 3일(목) 오전 10시부터 신청방법: 온라인 선착순 접수 모집대상: 초등학교 1~6학년 (강좌별 상이) 교육장소: 부산광역시립사하도서관 ※ 강좌별... 창의적인 미술 활동! - 대상: 초등 4~6학년 - 일정: 1월 5일(화) ~ 14일(목) - 시간: 매주 화·목 13:00~15:00 - 횟수: 총 4",
-   "url": "https://cafe.naver.com/bsseogudabang/46553?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJzc2VvZ3VkYWJhbmciLCJhcnRpY2xlSWQiOjQ2NTUzLCJpc3N1ZWRBdCI6MTc5NTMzNTA1NTIwOX0.Rp-qv_QcRXUBX_v6H31Sq6oslFhu539mJCn05fn2iUk&q=%eb%8c%80%ec%a0%84%ec%8b%9c%eb%a6%bd%eb%af%b8%ec%88%a0%ea%b4%80%20%ea%b5%90%ec%9c%a1%20%ec%a0%91%ec%88%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "중앙미술대전 장려상 1988년 가나화랑 첫 개인전 《묵시공간》 1992년 〈프로젝트-사고의 벽〉 발표 1995년 제46회 베니스 비엔날레 한국관 첫 전시 참여 1996~2004년 퐁피두센터 초청으로 파리 체류 2017년 수원시립아이파크미술관 회고전 《공간과 사유》 2018년 12월 13일 별세, 향년 73세 2. 수원의 미술 교사에서 조각가로 김인겸은 홍익",
-   "url": "https://cafe.naver.com/tantcollector/1755?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRhbnRjb2xsZWN0b3IiLCJhcnRpY2xlSWQiOjE3NTUsImlzc3VlZEF0IjoxNzk1MzM1MDU1MjA5fQ.IWvzpt8tczl9qFFchsQkv4YvDQ9W_pHHGifO2nPRUu4&q=%eb%8c%80%ec%a0%84%ec%8b%9c%eb%a6%bd%eb%af%b8%ec%88%a0%ea%b4%80%20%ea%b5%90%ec%9c%a1%20%ec%a0%91%ec%88%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "또 도로에 나무가 쓰러지거나 전선과 통신선이 떨어졌다는 신고 등 전북에서 현재까지 35건의 눈 피해가 접수됐습니다. 전북자치도는 재난안전대책본부 비상 1단계를 가동하고 비상 대응 체계를 유지하고 있습니다. 기상청은 내일 새벽까지 충남과 전북 서해안에 최대 7cm의 눈이 더 내릴 것으로 내다봤는데요. 기온이 떨어지면서 도로 결빙이 우려되는 만큼 교통안전 등에",
-   "url": "https://cafe.naver.com/jmsong0829/76936?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imptc29uZzA4MjkiLCJhcnRpY2xlSWQiOjc2OTM2LCJpc3N1ZWRBdCI6MTc5NTMzNTA1NTIwOX0.BEURoy-fn1lLKvDkn3E7snneF7WssbDOgcBH_fhrPcQ&q=%eb%8c%80%ec%a0%84%ec%8b%9c%eb%a6%bd%eb%af%b8%ec%88%a0%ea%b4%80%20%ea%b5%90%ec%9c%a1%20%ec%a0%91%ec%88%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "… 경기도교육감 선거에서 무슨 일이 쿠팡 개인정보 유출 쿠팡, 개인정보 유출 '6000억 원대 과징금' 불복 소송... 집행 정지 신청도 함께 전체기사 10,656 20+건11.18 기사 리스트로 이동 2026년 11월 20일 22... 19:04교육부 \"수능 부정행위자 98명 적발…시험중 스마트기기 활용 5건\" 교육부가 19일 2027학년도 대학수학능력시",
-   "url": "https://cafe.naver.com/greenb0k6k/201474?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjIwMTQ3NCwiaXNzdWVkQXQiOjE3OTUzMzUwNTUyMDl9.QGDSGMHecfpaN9WjOGZybWvpPgJ_KLdWbiJMNaXrkuw&q=%eb%8c%80%ec%a0%84%ec%8b%9c%eb%a6%bd%eb%af%b8%ec%88%a0%ea%b4%80%20%ea%b5%90%ec%9c%a1%20%ec%a0%91%ec%88%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "이번 주말 11.21(토)~11.22(일), 가 볼 만한 축제·행사 17곳 가까운 내포·홍성·예산 행사부터 충남·대전 축제까지 날짜·장소... 교육기간 2026-11-14 ~ 2026-11-28 1차 2026.11.14.(토) 14:00~16:00 ?? 매헌학당 프로그램실 ?? 성인 30명 자세히 보기 4. 홍주문화관광재단 광천... 2026년 시립도서관 ",
-   "url": "https://cafe.naver.com/naepoaljiyu/682?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5hZXBvYWxqaXl1IiwiYXJ0aWNsZUlkIjo2ODIsImlzc3VlZEF0IjoxNzk1MzM1MDU1MjA5fQ.jSHo4VrxwZIgej41DpGvGsxwRMcGFf21tlkfIhRDwvQ&q=%eb%8c%80%ec%a0%84%ec%8b%9c%eb%a6%bd%eb%af%b8%ec%88%a0%ea%b4%80%20%ea%b5%90%ec%9c%a1%20%ec%a0%91%ec%88%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "서울 -2 °C 현재 시간 0:05 / 기간 1:51 100 서울경제TV 12시간12시간 전, 2026. 11. 19. 오후 4:22 젠슨황 후계자 드디어 나왔다?... 엔비디아에 기습 등장한 의문의 남자 * 본 방송은 11월 19일 촬영하였습니다. 시청에 참고하시길 바랍니다.#엔비디아 #젠슨황 #이언벅 #엔비디아CEO #CEO후계자 #젠슨황사임 #AI반도",
-   "url": "https://cafe.naver.com/jmsong0829/76889?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imptc29uZzA4MjkiLCJhcnRpY2xlSWQiOjc2ODg5LCJpc3N1ZWRBdCI6MTc5NTMzNTA1NTIxMH0.hWdXtOV6gXBtguDo3JbLT6jWmM2gVhjtadwrZpfo4qM&q=%eb%8c%80%ec%a0%84%ec%8b%9c%eb%a6%bd%eb%af%b8%ec%88%a0%ea%b4%80%20%ea%b5%90%ec%9c%a1%20%ec%a0%91%ec%88%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "신청해야 하는 것 (계획 발표) 창원시립마산문신미술관의 어린이·가족 예술감상 프로그램은 12월 5~13일 8회, 초등학생 동반 가족 120명을 받아요. 참가비는 무료이고 11일부터 창원시 일상플러스 통합예약시스템에서 선착순으로 접수해요. 접수가 이미 시작돼서 남은 자리는 확인해야 해요. 12월 프로그램은 신청이 먼저예요. 잔여 회차를 확인하세요 ▎3. 몇 ",
-   "url": "https://cafe.naver.com/ailovely/163512?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFpbG92ZWx5IiwiYXJ0aWNsZUlkIjoxNjM1MTIsImlzc3VlZEF0IjoxNzk1MzM1MDU1MjEwfQ.M2Ygztax4-ytgf1leAjK6fRUj1OLw3ZiYK2cyNGoboU&q=%eb%8c%80%ec%a0%84%ec%8b%9c%eb%a6%bd%eb%af%b8%ec%88%a0%ea%b4%80%20%ea%b5%90%ec%9c%a1%20%ec%a0%91%ec%88%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "교육·안전 2026년도 발굴현장 관리감독자 안전보건교육 추가 신청 안내 접수는 11월 19일부터 25일까지입니다. 교육은 12월 11일(금)과 16일(수) 대전지역본부에서 8시간 집체교육으로 열리며, 기관별... 유지보수 서울기록원 2026-12-01 16:00 2027년 국립현대미술관 미술은행 정보서비스 유지관리 국립현대미술관 2026-12-01 10:0",
-   "url": "https://cafe.naver.com/archaeology/20328?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFyY2hhZW9sb2d5IiwiYXJ0aWNsZUlkIjoyMDMyOCwiaXNzdWVkQXQiOjE3OTUzMzUwNTUyMTB9.8p7swCj4EHGKFDMH376BsyY9GAl_4Jl8SPVnv_8cs-8&q=%eb%8c%80%ec%a0%84%ec%8b%9c%eb%a6%bd%eb%af%b8%ec%88%a0%ea%b4%80%20%ea%b5%90%ec%9c%a1%20%ec%a0%91%ec%88%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "11월 20일(금)부터 22일(일)까지 3일간 부산시립미술관과 F1963에서 ‘KOBC 바다학교 문화제’가 열리네요 바다를 주제로 한 프랑스 생태 사진작가의 생태예술 전시와 해양 도서전 등 다양한 볼거리가 마련되어 있어요 사전 접수가 필요한 정원제 강연·워크숍과 달리 전시와 문화제는 시민 누구나 현장에서 자유롭게 관람할 수 있으니 주말 나들이 코스로 들러보",
-   "url": "https://cafe.naver.com/crewbuwoosan/1359?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNyZXdidXdvb3NhbiIsImFydGljbGVJZCI6MTM1OSwiaXNzdWVkQXQiOjE3OTUzMzUwNTUyMTB9.tGOh_QLW1uXB3oNAjn5Ex2EnJ1ePSwXAC1na-T-Q_VY&q=%eb%8c%80%ec%a0%84%ec%8b%9c%eb%a6%bd%eb%af%b8%ec%88%a0%ea%b4%80%20%ea%b5%90%ec%9c%a1%20%ec%a0%91%ec%88%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
-  },
-  {
-   "title": "접수는 11일 오전 9시에 시작했고 선착순이라 남은 자리는 확인이 필요해요. ✅ 바쁘신 분은 여기만 보세요 · 12월 5~13일 토·일요일 4일, 모두 8회 운영해요 · 초등학생을 동반한 가족이 대상이고... idxno=320402문화저널21 「문신미술관, 어린이· 가족 예술교육 참여자 모집」(2026년 11월): https://www.mhj21.com/n",
-   "url": "https://cafe.naver.com/ailovely/163462?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFpbG92ZWx5IiwiYXJ0aWNsZUlkIjoxNjM0NjIsImlzc3VlZEF0IjoxNzk1MzM1MDU1MjEwfQ.YBWVcpsmmj_1avwE-DVFXglh1o2ATBfte_0Xwmb1bxE&q=%eb%8c%80%ec%a0%84%ec%8b%9c%eb%a6%bd%eb%af%b8%ec%88%a0%ea%b4%80%20%ea%b5%90%ec%9c%a1%20%ec%a0%91%ec%88%98&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전시립미술관 교육 접수",
-   "first_seen": "2026-11-22T17:07:49+09:00"
   }
  ],
- "errors": [],
- "skipped_for_time": 254
+ "errors": [
+  "gnews '김장 체험 가족 참가자 모집': HTTP Error 429: Too Many Requests",
+  "gnews '대전 숲체험 가족 모집': HTTP Error 429: Too Many Requests"
+ ],
+ "skipped_for_time": 0
 }
