@@ -2168,5 +2168,48 @@
   "url": "https://www.ticketlink.co.kr/product/64315",
   "render": true,
   "note": "티켓링크 착한공연 만원의행복 가족뮤지컬 신데렐라 - 대전 상품 페이지(JOB1)"
+ },
+ {
+  "id": "federalregister-usmint-rss",
+  "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bagencies%5D%5B%5D=united-states-mint&order=newest",
+  "note": "미국 조폐국 연방관보 고시(금화·은화 가격·신상품 가격표) RSS — usmint.gov 일정 페이지 Cloudflare 차단 대체 (JOB13) | 2026-11-22 JOB11 제안, 세션 네트워크 차단으로 URL 미검증"
+ },
+ {
+  "id": "mintnewsblog-feed",
+  "url": "https://mintnewsblog.com/feed/",
+  "note": "Mint News Blog RSS — US Mint 주간 출시·판매 시작 일정 보도(usmint.gov 403 대체 근거) (JOB13) | 2026-11-22 JOB11 제안, 세션 네트워크 차단으로 URL 미검증"
+ },
+ {
+  "id": "naver-cafe-everandon-main",
+  "url": "https://cafe.naver.com/everandon",
+  "render": true,
+  "note": "JOB3 브랜든 최 공연 예매 안내 카페(공연별 일시·티켓오픈·예매처 게시, 11/22 하모닉스 야누스 12/15·평택 유키 구라모토 12/27 첫 게시처) — 다음 공연·예매 링크 확인용"
+ },
+ {
+  "id": "naver-cafe-everandon-252",
+  "url": "https://cafe.naver.com/everandon/252",
+  "render": true,
+  "note": "JOB3 평택아트센터 유키 구라모토와 친구들 12/27(브랜든 최) 예매 안내 원문 — 평택시민 선예매·일반예매 일시·예매처 확인용"
+ },
+ {
+  "id": "naver-cafe-everandon-251",
+  "url": "https://cafe.naver.com/everandon/251",
+  "render": true,
+  "note": "JOB3 야누스 The HarmonicS 12/15(브랜든 최) 예매 안내 원문 — 네이버예약 링크 확인용(11/25 12:00 오픈)"
+ },
+ {
+  "id": "jeonju-board-jeollagamyeong",
+  "url": "https://www.jeonju.go.kr/planweb/board/list.9is?boardUid=ff8080818990c349018b1dbaa78e4b41&contentUid=ff8080818990c349018b041a87373953",
+  "render": true,
+  "jobs": [
+   "job7"
+  ],
+  "note": "전주시 게시판(역사랑께 배우랑께 공고 게시판) 목록 — 전라감영 가족 프로그램(담그랑께 나누랑께 등) 공고 감시. URL은 기존 공고 view URL의 boardUid/contentUid로 구성, 목록 동작 미검증. Claude 세션에서 jeonju.go.kr DNS 차단."
+ },
+ {
+  "id": "onsejong-localo-main",
+  "url": "https://onsejong.localo.co.kr/",
+  "render": true,
+  "note": "JOB10 세종 「온 세종」 투어(도도리파크·세종 관내 농장·체험 가족 나들이, 신청 ~12/23) — 클라우드 세션 DNS 차단, 프로그램·대상·일정 확인용"
  }
 ]
