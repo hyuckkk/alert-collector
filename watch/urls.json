@@ -2196,5 +2196,14 @@
   "url": "https://cafe.naver.com/everandon/251",
   "render": true,
   "note": "JOB3 야누스 The HarmonicS 12/15(브랜든 최) 예매 안내 원문 — 네이버예약 링크 확인용(11/25 12:00 오픈)"
+ },
+ {
+  "id": "jeonju-board-jeollagamyeong",
+  "url": "https://www.jeonju.go.kr/planweb/board/list.9is?boardUid=ff8080818990c349018b1dbaa78e4b41&contentUid=ff8080818990c349018b041a87373953",
+  "render": true,
+  "jobs": [
+   "job7"
+  ],
+  "note": "전주시 게시판(역사랑께 배우랑께 공고 게시판) 목록 — 전라감영 가족 프로그램(담그랑께 나누랑께 등) 공고 감시. URL은 기존 공고 view URL의 boardUid/contentUid로 구성, 목록 동작 미검증. Claude 세션에서 jeonju.go.kr DNS 차단."
  }
 ]
