@@ -2168,5 +2168,15 @@
   "url": "https://www.ticketlink.co.kr/product/64315",
   "render": true,
   "note": "티켓링크 착한공연 만원의행복 가족뮤지컬 신데렐라 - 대전 상품 페이지(JOB1)"
+ },
+ {
+  "id": "federalregister-usmint-rss",
+  "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bagencies%5D%5B%5D=united-states-mint&order=newest",
+  "note": "미국 조폐국 연방관보 고시(금화·은화 가격·신상품 가격표) RSS — usmint.gov 일정 페이지 Cloudflare 차단 대체 (JOB13) | 2026-11-22 JOB11 제안, 세션 네트워크 차단으로 URL 미검증"
+ },
+ {
+  "id": "mintnewsblog-feed",
+  "url": "https://mintnewsblog.com/feed/",
+  "note": "Mint News Blog RSS — US Mint 주간 출시·판매 시작 일정 보도(usmint.gov 403 대체 근거) (JOB13) | 2026-11-22 JOB11 제안, 세션 네트워크 차단으로 URL 미검증"
  }
 ]
