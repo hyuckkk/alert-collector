@@ -1,50 +1,65 @@
-[dmak-main] rendered 524 chars CHANGED
-[yes24-mobile-notice-list] rendered 196 chars CHANGED
-[yes24-notice-18875] rendered 196 chars CHANGED
-[djkids-musical] rendered 1642 chars CHANGED
-[kopis-daejeon-kids] rendered 31484 chars CHANGED
-[kwater-realtime-multidam] rendered 10531 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 262076 chars CHANGED
-[gongjeon-kids] rendered 548 chars CHANGED
-[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
-[katc-schedule] rendered 736 chars CHANGED
-[mnd-main] rendered 16816 chars CHANGED
-[fsale-main] rendered 4508 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[science-reservation] rendered 1060 chars same
-[khs-notice] rendered 309 chars same
-[royal-khs-events] rendered 1212 chars same
-[expo-park] rendered 744 chars CHANGED
-[nol-upcoming-notice] rendered 16382 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 16415 chars CHANGED
-[ticketlink-notice-mobile] rendered 282086 chars CHANGED
-[pyoungsong-performance] rendered 1224 chars same
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[dsecc-programs] rendered 1944 chars CHANGED
-[seogu-exprn-list] rendered 1021 chars CHANGED
-[seogu-event-list] rendered 1021 chars CHANGED
-[komsco-shop-card] rendered 7426 chars CHANGED
-[ticketlink-notice-65862] rendered 61020 chars CHANGED
-[mcst-culture-71983] rendered 1181 chars CHANGED
-[yes24-perf-60278] rendered 198 chars CHANGED
-[chuncheon-notice-announcement] rendered 3629 chars CHANGED
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[donggu-yeyak-exprn-list] rendered 2311 chars CHANGED
-[djac-perf-5603] rendered 3222 chars CHANGED
-[djac-perf-5606] rendered 3436 chars CHANGED
-[djac-perf-5441] rendered 3415 chars CHANGED
-[nol-product-ghibli-love-daejeon-2027] rendered 2903 chars CHANGED
-[nol-product-ghibli-disney-daejeon-2027] rendered 3333 chars CHANGED
-[nol-product-dorothy-oz-sejong] rendered 2293 chars CHANGED
-[miraeasset-kids-economic-class] rendered 102 chars same
-[aircanada-kr-flights-from-korea] rendered 24538 chars CHANGED
-[naver-booking-kids-circus-daejeon] rendered 4473 chars CHANGED
-[smart-science-exhibitions-list] RENDER ERROR rendered but too little text (55 chars)
-[sejong-citylib-main] RENDER ERROR Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://library.sejong.go.kr/
+[yes24-notice] rendered 196 chars CHANGED
+[seogu-edu-list] rendered 1027 chars CHANGED
+[daejeon-its-board] rendered 3369 chars CHANGED
+[pyeongtaek-news-board] rendered 3093 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 4149 chars CHANGED
+[hanbat-library-culture] rendered 2135 chars CHANGED
+[chuncheon-festival-news-465019] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://library.sejong.go.kr/", waiting until "domcontentloaded"
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "domcontentloaded"
 
-[leis-cycling-speedagency] rendered 337 chars CHANGED
-[djkids-notice] rendered 1027 chars CHANGED
-[dctf] RENDER ERROR rendered but too little text (15 chars)
-[nol-family] rendered 4181 chars CHANGED
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[pyoungsong-event-piglets] rendered 484 chars same
+[pyoungsong-event-sandmagic] rendered 498 chars same
+[pyoungsong-event-stonesoup] rendered 335 chars same
+[chuncheon-municipal-news] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/cityhall/administrative-info/notice-info/municipal-news", waiting until "domcontentloaded"
+
+[mokwon-general-notice] rendered 1631 chars CHANGED
+[templestay-main] rendered 2631 chars CHANGED
+[hwadong-main] rendered 9229 chars CHANGED
+[mokpo-harborfestival-main] rendered 8982 chars CHANGED
+[nol-product-26012487] rendered 1439 chars CHANGED
+[hanbat-library-media-friend] rendered 506 chars CHANGED
+[kopis-place-pyoungsong-small] rendered 10090 chars CHANGED
+[bok-press-list] rendered 720 chars CHANGED
+[blog-seogu-artfest-fringe-cvovz] rendered 5789 chars CHANGED
+[blog-seogu-artfest-blu2sky7] rendered 6587 chars CHANGED
+[kwater-realtime-sumun] rendered 2300 chars CHANGED
+[cnu-jsh-schedule-178-2026-11] rendered 3594 chars CHANGED
+[nol-product-26001112] rendered 3666 chars CHANGED
+[blog-daedeokgu-224432911721] rendered 2670 chars CHANGED
+[blog-namuac21-224424725714] rendered 4553 chars CHANGED
+[blog-youneed4613-224436099074] rendered 4598 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[englishegg-eggshow] rendered 3225 chars CHANGED
+[pyoungsong-tribe-events-api-p2] rendered 132622 chars CHANGED
+[kopis-pf297232] rendered 7859 chars same
+[dgdr-festival] rendered 203 chars CHANGED
+[blog-gotaekmusicfesta-224426168539] rendered 2681 chars CHANGED
+[ysfesta-main] rendered 133 chars CHANGED
+[khs-main] rendered 1729 chars same
+[khs-eventinfo] rendered 1144 chars CHANGED
+[kopis-pf302030] rendered 7840 chars same
+[blog-gotaekmusicfesta-224428285877] rendered 2922 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3648 chars CHANGED
+[vol-djv1365-main] rendered 4414 chars CHANGED
+[leis-ski-snowon-notices] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.snowon.or.kr/bbs/board.php?tbl=bbs41", waiting until "domcontentloaded"
+
+[leis-ski-snowon-youth] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.snowon.or.kr/program/list.php?ca_id=20", waiting until "domcontentloaded"
+
+[leis-ski-muju-school] rendered 863 chars CHANGED
+[leis-ski-skiland-lessons] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://skiland.kr/lessons", waiting until "domcontentloaded"
+
+[leis-ski-mentor-lessons] rendered 4778 chars CHANGED
+[leis-ski-snowon-lifestyle] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.snowon.or.kr/program/list.php?ca_id=10", waiting until "domcontentloaded"
+
