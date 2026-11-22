@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-22T12:28:07+09:00",
+ "updated": "2026-11-22T13:07:49+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 109,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "동작구 골목상점가, 13일부터 온누리상품권 환급…이수미로는 기준 달라 - 뉴스N연합",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RSmVWM29qWDduNVFGc0p2UXJpS0RnaG5xNnNBNzIwOXJ5RkEzeDBmTnR1Vk5ZOFZienlQVzR6dy1yajB1Z1pNTnFDNWpHeFU?oc=5",
+   "pub": "Sun, 22 Nov 2026 03:37:08 GMT",
+   "engine": "gnews",
+   "query": "온누리상품권 환급 행사",
+   "first_seen": "2026-11-22T13:07:49+09:00"
+  },
   {
    "title": "그래서 챙겨야 할 것이 바로 2026 대한민국 수산대전 중 '코리아 수산페스타 김장철 특별전'인데요. 이를 활용해 4인 가족 한 달 생활비 줄이는 방법을 정리해 보겠습니다. 대한민국 수산대전 김장철 특별전 10월 28일(수)부터 11월 29일(일)까지 진행되는 대한민국 수산대전 코리아 수산페스타 김장철 특별전. ☞ 대한민국 수산대전은 특별전을 총 7번 하는",
    "url": "https://blog.naver.com/dandijepyo/224473050810",
@@ -21122,17 +21130,29 @@
    "engine": "naver_cafe",
    "query": "수산물 할인 쿠폰",
    "first_seen": "2026-11-21T17:07:47+09:00"
-  },
-  {
-   "title": "네이버에서 수산물 20% 할인쿠폰 나눠주네요 ㅎㅎ 애들 밥반찬으로 순살 고등어 냉동실에 항상 쟁여놓는데 딱 떨어져서 사려고 보니까 할인이네요~~ 할인가격에 잘삽니다 ~~ ^^ https://naver.me/5re1eYjG",
-   "url": "https://cafe.naver.com/imsanbu/80548117?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imltc2FuYnUiLCJhcnRpY2xlSWQiOjgwNTQ4MTE3LCJpc3N1ZWRBdCI6MTc5NTI0ODcwMjczNX0.HN0UPLAPQRNE3d6B200IlS5l7JOJUknmzgxnGeLCDNk&q=%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%95%a0%ec%9d%b8%20%ec%bf%a0%ed%8f%b0&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "수산물 할인 쿠폰",
-   "first_seen": "2026-11-21T17:07:47+09:00"
   }
  ],
  "errors": [
-  "naver_web '제로페이 수산 이벤트': HTTP Error 403: Forbidden"
+  "gnews '우체국쇼핑 수산페스타 쿠폰 주차': HTTP Error 503: Service Unavailable",
+  "gnews '수산대전 오아시스 컬리 쿠팡 쿠폰 기간': HTTP Error 503: Service Unavailable",
+  "gnews '제주 워케이션 바우처 추가모집': HTTP Error 503: Service Unavailable",
+  "gnews '수산대전 온라인 쿠폰 마트 중복 할인': HTTP Error 503: Service Unavailable",
+  "gnews '수산대전 온라인몰 차수 쿠폰': HTTP Error 503: Service Unavailable",
+  "gnews '워케이션 지원 추가모집 11월': HTTP Error 503: Service Unavailable",
+  "gnews '수산물 할인 쿠폰': HTTP Error 503: Service Unavailable",
+  "gnews '대전 세종 충남 전통시장 수산물 환급 일정': HTTP Error 503: Service Unavailable",
+  "gnews '우체국쇼핑 수산대전 할인쿠폰': HTTP Error 503: Service Unavailable",
+  "gnews '모바일 농할상품권 20% 할인 판매': HTTP Error 503: Service Unavailable",
+  "gnews '수산대전상품권': HTTP Error 503: Service Unavailable",
+  "gnews '온누리상품권 페이백 재가동 군': HTTP Error 503: Service Unavailable",
+  "gnews '제로페이 수산 이벤트': HTTP Error 503: Service Unavailable",
+  "gnews 'site:fsale.kr 환급 참여시장': HTTP Error 503: Service Unavailable",
+  "gnews '수산대전 참여 온라인몰 할인쿠폰 주차': HTTP Error 503: Service Unavailable",
+  "gnews '전통시장 가을 온누리상품권 환급행사': HTTP Error 503: Service Unavailable",
+  "gnews '수산대전 참여 쇼핑몰 기획전 시작': HTTP Error 503: Service Unavailable",
+  "gnews '컬리 수산대전 할인': HTTP Error 503: Service Unavailable",
+  "gnews '수산대전': HTTP Error 503: Service Unavailable",
+  "gnews '11월 수산물 온누리상품권 환급행사 시장': HTTP Error 503: Service Unavailable"
  ],
- "skipped_for_time": 88
+ "skipped_for_time": 0
 }

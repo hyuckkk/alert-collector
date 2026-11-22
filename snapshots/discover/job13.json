@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-22T12:28:07+09:00",
+ "updated": "2026-11-22T13:07:49+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 203,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "해태제과, 크리스마스 '어드벤트 캘린더' 출시…5000개 한정 판매 - 미디어인뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jUmRPTklOTFhEVldqWmxDMzEwdTMyUVJ4WTUtaGFkaHZRWjg2R1RtOG5NN0EyRXgwSjZrZkUwTk9OZGhfUWQwaFZ0VllNNHI3WHJzNkEtZGZWU2pBaERCM2pBYWxxeHQ4bDVLOUFR?oc=5",
+   "pub": "Mon, 16 Nov 2026 01:17:14 GMT",
+   "engine": "gnews",
+   "query": "조폐공사 한정 출시",
+   "first_seen": "2026-11-22T13:07:49+09:00"
+  },
   {
    "title": "내년 양의 해 기념, 'GOLDEN SHEEP 골드바 10g' 상품 상세 스펙 여러 골드바 중에서도 제 마음을 단번에 사로잡은 제품은 바로 신상품으로 출시된 'GOLDEN SHEEP 골드바 10g'입니다. 소재 및... 영롱한 실물 언박싱 후기도 꼭 남겨볼게요! #골드바 #미니골드바 #골드바10g #한국조폐공사 #KOMSCO #골든쉽골드바 #GOLDENSH",
    "url": "https://blog.naver.com/jenstable/224479350337",
@@ -21046,17 +21054,34 @@
    "engine": "naver_blog",
    "query": "특수번호 은행권 경매",
    "first_seen": "2026-11-22T01:07:49+09:00"
-  },
-  {
-   "title": "사건 개요 구분 내용 구분 내용 사건번호 2025타경42448 (임의경매) 법원 수원지방법원 평택지원 경매5계 소재지 평택시 진위면 가곡리 550-19 외 물건종류 다가구주택(일괄매각) 건물·대지 건물 1,042.84㎡ (315평) / 대지 247㎡ (74평) 도로 5,953㎡ (1,800평) 매각기일 2026.12.08.(화) 10:00 (4회차) 보증금",
-   "url": "https://blog.naver.com/wonju-apt/224486413523",
-   "engine": "naver_blog",
-   "query": "특수번호 은행권 경매",
-   "first_seen": "2026-11-22T01:07:49+09:00"
   }
  ],
  "errors": [
-  "naver_news '은행 기념 골드바 출시': HTTP Error 403: Forbidden"
+  "gnews '한국은행 기념주화 발행 보도자료': HTTP Error 503: Service Unavailable",
+  "gnews '영국 왕립조폐국 컬러 50펜스 국내 판매': HTTP Error 503: Service Unavailable",
+  "gnews '조폐공사 기념메달 판매': HTTP Error 503: Service Unavailable",
+  "gnews '기념주화 한정판매': HTTP Error 503: Service Unavailable",
+  "gnews '특판 적금 고금리': HTTP Error 503: Service Unavailable",
+  "gnews '교황 방한 기념주화': HTTP Error 503: Service Unavailable",
+  "gnews '유럽 조폐국 기념주화 국내 예약판매': HTTP Error 503: Service Unavailable",
+  "gnews '프랑스 조폐국 기념주화 국내 예약': HTTP Error 503: Service Unavailable",
+  "gnews '기념주화 예약 접수': HTTP Error 503: Service Unavailable",
+  "gnews '개인투자용 국채 청약': HTTP Error 503: Service Unavailable",
+  "gnews '프루프 민트 세트 한정 실버바': HTTP Error 503: Service Unavailable",
+  "gnews '조폐공사 은메달 추가 판매': HTTP Error 503: Service Unavailable",
+  "gnews '풍산화동양행 신상품': HTTP Error 503: Service Unavailable",
+  "gnews '은행 기념 골드바 출시': HTTP Error 503: Service Unavailable",
+  "gnews '은행 골드바 한정 판매': HTTP Error 503: Service Unavailable",
+  "gnews 'US Mint 기념주화 출시 일정': HTTP Error 503: Service Unavailable",
+  "gnews '십이간지 실버바': HTTP Error 503: Service Unavailable",
+  "gnews '중국인민은행 기념주화 국내 출시': HTTP Error 503: Service Unavailable",
+  "gnews '조폐공사 예약판매 콜라보': HTTP Error 503: Service Unavailable",
+  "gnews '띠 기념 실버바 온라인 판매 시작': HTTP Error 503: Service Unavailable",
+  "gnews '기념주화 발행 계획': HTTP Error 503: Service Unavailable",
+  "gnews '연결형 은행권 판매': HTTP Error 503: Service Unavailable",
+  "gnews '미국 독립 250주년 기념주화 판매': HTTP Error 503: Service Unavailable",
+  "gnews '기념주화 국내 출시 은행 선착순 예약': HTTP Error 503: Service Unavailable",
+  "gnews '미국 조폐국 신상품 판매 시작 한국 배송': HTTP Error 503: Service Unavailable"
  ],
- "skipped_for_time": 152
+ "skipped_for_time": 0
 }
