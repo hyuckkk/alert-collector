@@ -2205,5 +2205,11 @@
    "job7"
   ],
   "note": "전주시 게시판(역사랑께 배우랑께 공고 게시판) 목록 — 전라감영 가족 프로그램(담그랑께 나누랑께 등) 공고 감시. URL은 기존 공고 view URL의 boardUid/contentUid로 구성, 목록 동작 미검증. Claude 세션에서 jeonju.go.kr DNS 차단."
+ },
+ {
+  "id": "onsejong-localo-main",
+  "url": "https://onsejong.localo.co.kr/",
+  "render": true,
+  "note": "JOB10 세종 「온 세종」 투어(도도리파크·세종 관내 농장·체험 가족 나들이, 신청 ~12/23) — 클라우드 세션 DNS 차단, 프로그램·대상·일정 확인용"
  }
 ]
