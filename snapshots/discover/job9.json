@@ -1,8 +1,15 @@
 {
- "updated": "2026-11-23T06:07:56+09:00",
+ "updated": "2026-11-23T07:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 2,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "정보로 대청댐 수문개방 소식을 듣고 야경촬영 하러 달려나가기도 한답니다! 멀리서 망원각으로 디테일만 담아보기도 합니다. 댐 다리에서 비상주차 후 수문개방을 보면서 데이트 하시는 연인이나, 가족들도 많았어요^^ 대청교를 검색 하시면 사진에서 보는 뷰를 바로 앞에서 감상하실 수 가 있어요^^ 사진에서는 평온해 보이지만 방대한 물의 양이 한꺼번에 쏟아지기... ",
+   "url": "https://blog.naver.com/ereasnap/223932156507",
+   "engine": "naver_web",
+   "query": "대청댐 수문",
+   "first_seen": "2026-11-23T07:07:48+09:00"
+  },
   {
    "title": "저: 용담댐은 금강 상류이고, 대청댐(대청호)은 금강줄기에 속해 있습니다. 곧, 용담댐에서 방류한 물이 대청호로 유입된다는거죠. 아래 사진은 용담댐과 대청댐 정보 입니다. ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ 아래 사진은 금강 정보 입니다. ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ 용담댐부터 금강휴게소까지의 경로중 군데군데를 설정하여... 새 창 열림",
    "url": "https://cafe.naver.com/qotmtkfkd/142188?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InFvdG10a2ZrZCIsImFydGljbGVJZCI6MTQyMTg4LCJpc3N1ZWRBdCI6MTc5NTM4MTkwNzEzMX0.fL5ort8EMEtJd2NZXTjx0AHhWTEzuG2BnOFa9ucYBo8",
@@ -1155,5 +1162,5 @@
   }
  ],
  "errors": [],
- "skipped_for_time": 30
+ "skipped_for_time": 17
 }
