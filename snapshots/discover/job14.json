@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-22T15:07:48+09:00",
+ "updated": "2026-11-22T16:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 204,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "대한항공, 뉴어크 직항 노선 부활…내년 5월부터 매일 1회 - 미주중앙일보",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15TnZMMDhhT0JhZTVRcDdoS25fSkxBVF9zRElBSlBvY29md21yMnBaS0E1TENiSFpRN1FNaksyWWo5QnhTVTU4OUNZUk94MkRDT2thZk5BWVNQOUtwUDV2TEZR?oc=5",
+   "pub": "Mon, 16 Nov 2026 18:06:00 GMT",
+   "engine": "gnews",
+   "query": "대한항공 미주 특가",
+   "first_seen": "2026-11-22T16:07:47+09:00"
+  },
   {
    "title": "프로모션 코드: SUMMER20 •대상 노선: 전 노선 (LA, 뉴욕, 샌프란시스코, 호놀룰루, 방콕, 홍콩, 나리타, 호치민 등) •탑승 기간: 노선별로 다름 (미주 일부 2027년 6월 30일까지, 아시아 2027년 3월 27일까지 등) •추가 혜택: 앱 신규 설치 시 eSIM 최대 30% 할인 막바지 여름휴가 + 가을·겨울·내년 여행까지 미리 예약하기",
    "url": "https://blog.naver.com/seedmoney2026/224387996494",
@@ -21034,15 +21042,31 @@
    "engine": "naver_blog",
    "query": "미국행 항공권 특가 카드 할인",
    "first_seen": "2026-11-21T17:07:47+09:00"
-  },
-  {
-   "title": "여권 유효기간은 입국일 기준 6개월 이상 남아 있어야 하며, 왕복 항공권과 숙소 예약 바우처 영문본을 출력해 두면 입국... 예비 카드로 비워두는 편이 안전합니다. 실전 한 줄 팁: 쾌적한 날씨를 최우선으로 둔다면 9월 말~11월 초를 고르시고, 4~6월 방문 시에는 양손이 자유로운 얇은 우비를 챙기세요. 인천 출발 항공편과 공항 → 시내 교통편 인천에서.",
-   "url": "https://blog.naver.com/xoloma/224484269248",
-   "engine": "naver_blog",
-   "query": "미국행 항공권 특가 카드 할인",
-   "first_seen": "2026-11-21T17:07:47+09:00"
   }
  ],
- "errors": [],
- "skipped_for_time": 120
+ "errors": [
+  "gnews '인천 덴버 항공권 특가': HTTP Error 503: Service Unavailable",
+  "gnews 'site:aircanada.com/ko-kr 프로모션 약관': HTTP Error 503: Service Unavailable",
+  "gnews '에어프레미아 미주 특가': HTTP Error 503: Service Unavailable",
+  "gnews 'KB국민카드 에어캐나다 유학 워킹홀리데이 탑승기간': HTTP Error 503: Service Unavailable",
+  "gnews '대한항공 미주 프로모션 2027': HTTP Error 503: Service Unavailable",
+  "gnews '에어캐나다 특가': HTTP Error 503: Service Unavailable",
+  "gnews '에어캐나다 인천 덴버 편도 프로모션': HTTP Error 503: Service Unavailable",
+  "gnews '델타항공 인천 출발 특가': HTTP Error 503: Service Unavailable",
+  "gnews '델타항공 프로모션 코드 한국': HTTP Error 503: Service Unavailable",
+  "gnews '에어캐나다 밴쿠버 경유 덴버': HTTP Error 503: Service Unavailable",
+  "gnews '알래스카항공 한국 프로모션': HTTP Error 503: Service Unavailable",
+  "gnews 'Air Canada sale Korea': HTTP Error 503: Service Unavailable",
+  "gnews '미국행 항공권 특가 카드 할인': HTTP Error 503: Service Unavailable",
+  "gnews '에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드': HTTP Error 503: Service Unavailable",
+  "gnews '에어캐나다 한국 출발 미국 할인코드 2027 6월': HTTP Error 503: Service Unavailable",
+  "gnews '에어캐나다 KB국민카드 연말연시 행사 미국행 편도': HTTP Error 503: Service Unavailable",
+  "gnews 'United Airlines Korea sale': HTTP Error 503: Service Unavailable",
+  "gnews '유나이티드항공 할인코드 인천': HTTP Error 503: Service Unavailable",
+  "gnews '아시아나 미주 특가': HTTP Error 503: Service Unavailable",
+  "gnews 'Delta Korea promo': HTTP Error 503: Service Unavailable",
+  "gnews '에어캐나다 할인 이벤트 카드': HTTP Error 503: Service Unavailable",
+  "gnews 'Korean Air US sale': HTTP Error 503: Service Unavailable"
+ ],
+ "skipped_for_time": 0
 }

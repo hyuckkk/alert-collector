@@ -1,8 +1,32 @@
 {
- "updated": "2026-11-22T15:07:48+09:00",
+ "updated": "2026-11-22T16:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 122,
+ "new_this_run": 3,
  "hits": [
+  {
+   "title": "강원특별자치도교육청, 학생 삶을 반영한 개별화교육 전문성 강화 - 미디어투데이",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1seGM1M2hlOWdnc3liamlOdXZkNEoyRWswaDYwc25wMzBYU204VncteF9FTjdXcFNMLS1TZ0wwbmtHSmlNQWoySDlR?oc=5",
+   "pub": "Fri, 20 Nov 2026 10:59:00 GMT",
+   "engine": "gnews",
+   "query": "대전 자원봉사센터 가족 봉사",
+   "first_seen": "2026-11-22T16:07:47+09:00"
+  },
+  {
+   "title": "카이 나눔봉사단 30여 명, 글라스아트로 도어벨 만들기 봉사 - 국제뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94Q3JaalR4cmxvbURQd0NxdnowWXAzWW1ZU3libFJqWFJKM0pYOXk3M2plYXBob0s1VDdFeEhYdzdNWlFhd0R3dHJFSlYwYWVhRE00ckZQZmRXclRsaklfU2JjeEw2ZGNqdVNLaVJR?oc=5",
+   "pub": "Sun, 22 Nov 2026 02:38:51 GMT",
+   "engine": "gnews",
+   "query": "대전 자원봉사센터 가족 봉사",
+   "first_seen": "2026-11-22T16:07:47+09:00"
+  },
+  {
+   "title": "경희의료원, 강북구가족센터와 의료지원 협약 - 덴틴",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HUmtsb0FDMHRJSTlLVy14RVV4NkNqaFQtQVFUVWRfaXQybVRGQklOSlhPRkxuNU5YZWNmNmpaSzdBaXMtMktRY0NrYXBXUnphcWx3dkt4NA?oc=5",
+   "pub": "Sun, 22 Nov 2026 02:21:59 GMT",
+   "engine": "gnews",
+   "query": "세종 가족봉사단 모집",
+   "first_seen": "2026-11-22T16:07:47+09:00"
+  },
   {
    "title": "굴과 과메기 등 제철 수산물에는 수산대전 20% 할인 혜택을 제공한다. 양념육과 훈제오리 등 축산물은 엘포인트 회원에게 최대 30% 할인 판매한다.... 풀무원은 공모전 시상에 앞서 지난 20일 뮤지엄김치간에서 김장김치 나눔 봉사활동도 진행했다. 임직원 27명이 김치 150포기(300㎏)를 담갔고, 완제품 김치... 새 창 열림",
    "url": "http://www.4th.kr/news/articleView.html?idxno=2122392",
@@ -17512,6 +17536,14 @@
    "first_seen": "2026-11-16T02:09:16+09:00"
   }
  ],
- "errors": [],
- "skipped_for_time": 61
+ "errors": [
+  "naver_all '유성구 가족 자원봉사 모집': HTTP Error 403: Forbidden",
+  "gnews '갑천 정화활동 가족 봉사': HTTP Error 503: Service Unavailable",
+  "gnews '유성구 가족 자원봉사 모집': HTTP Error 503: Service Unavailable",
+  "gnews '대전 김장 나눔 가족 봉사': HTTP Error 503: Service Unavailable",
+  "gnews '유등천 정화 활동 참여자 모집': HTTP Error 503: Service Unavailable",
+  "gnews '대전 유기동물보호소 가족 봉사': HTTP Error 503: Service Unavailable",
+  "gnews '대전 플로깅 가족 참여': HTTP Error 503: Service Unavailable"
+ ],
+ "skipped_for_time": 0
 }
