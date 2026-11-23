@@ -1,8 +1,23 @@
 {
- "updated": "2026-11-23T15:07:47+09:00",
+ "updated": "2026-11-23T16:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 117,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "샴페인 골드와 화이트 톤의 꽃 장식 트리를 배치했다. 꽃잎이 피고 오므라들 때마다 내부 조명이 은은하게 빛나는 '키네틱 플라워'를...콘래드 서울은 호텔의 대표적 건축물인 나선형 계단과 은행잎에서 영감을 받은 트리 케이크 '시그니처 트리'를 선보였다. 워커힐...",
+   "url": "http://v.daum.net/v/20261117212231286",
+   "engine": "daum_news",
+   "query": "은행 골드바 한정 판매",
+   "first_seen": "2026-11-23T16:07:48+09:00"
+  },
+  {
+   "title": "[이슈] 한국은행, 평창 동계올림픽 기념 2천원권 지폐 발행 - 데일리인베스트",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14Nnp0b1BMYkhFcjVuU0pwLXAwaDhKbjFOck5fQ0lFOHNmbWltUWVtNFJQeC02R3p1ZUlpZDdPYlFUT2ZyTEdYVjQwaG5OS1NydXJhdzRNaUZwUlJHNlFhV0h2djY5bjVNMXfSAW5BVV95cUxOVU10dnJjMmRuLUl6QlA2cGpjYjNxMVlLbFpzb21jMVItN1c4T0RVR203UlBxaUgxNUcwNjA5bkhwbXJsWDdoOGFoUXdfdldUcDVpN0dJbUUtM3U2a19xVktYZ1N4dmt3ZHhYS1U3dw?oc=5",
+   "pub": "Tue, 17 Nov 2026 08:00:00 GMT",
+   "engine": "gnews",
+   "query": "기념은행권 발행",
+   "first_seen": "2026-11-23T16:07:48+09:00"
+  },
   {
    "title": "-십이간지 시리즈 중 가장 적은 한정 수량으로 소장가치 높인 프리미엄 기념메달 출시 -삼양개태 모티브·모던민화 디자인 적용…국내 주요 은행·온라인서 선착순 예약 판매... 해’ 기념메달과 해외 주요 조폐국이 발행한 기념주화를 오는 11월 9일부터 선착순 예약 판매한다. 이번 메달은 풍산화동양행이 선보여 온 십이간지 시리즈 가운데 역대 최소 한정... 새 창",
    "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=67333",
@@ -21055,22 +21070,13 @@
    "engine": "naver_blog",
    "query": "판다 금화 국내 판매",
    "first_seen": "2026-11-22T23:07:47+09:00"
-  },
-  {
-   "title": "(참고로 고양시 감축 실적의 약 65%를 차지하는 수송 부문은 국고보조금 투입에 따른 이중계산 방지 원칙 때문에 지자체가 별도 배출권으로 판매하기 어려움.) 하지만 국내 자체 감축만으로는 앞으로 늘어날 배출권 부족분을 모두 메우기 어렵기 때문에, 이제는 눈을 해외로 돌려 파리협정 제6.2조에 따른 '해외 탄소배출권(국제감축사업, ITMO)' 확보 방안을 함",
-   "url": "https://blog.naver.com/bbongdosa/224487545233",
-   "engine": "naver_blog",
-   "query": "판다 금화 국내 판매",
-   "first_seen": "2026-11-22T23:07:47+09:00"
-  },
-  {
-   "title": "1++ 한우 & 국내산 한돈 암퇘지 여기는 1++ 한우를 취급하고, 돼지고기는 국내산 한돈 암퇘지만 쓴대요! 암퇘지는 잡내가 적고 육질이 부드러워서 삶아도 구워도 확실히 다르거든요... 국내산 오리 주물럭 500g은 13,900원, 천하제일 프리미엄 부대찌개는 24,900원, 프라임 살치살 찹스테이크도 200g에 24,900원이라 부담없이 저녁으로 딱이에요",
-   "url": "https://blog.naver.com/april240408/224487545660",
-   "engine": "naver_blog",
-   "query": "판다 금화 국내 판매",
-   "first_seen": "2026-11-22T23:07:47+09:00"
   }
  ],
- "errors": [],
- "skipped_for_time": 147
+ "errors": [
+  "gnews '조폐공사 쇼핑몰 신상품 실버바 판매 개시': HTTP Error 503: Service Unavailable",
+  "gnews '기념주화 예약 접수': HTTP Error 503: Service Unavailable",
+  "gnews '특판 적금 고금리': HTTP Error 503: Service Unavailable",
+  "gnews '개인투자용 국채 금리': HTTP Error 503: Service Unavailable"
+ ],
+ "skipped_for_time": 0
 }
