@@ -1,43 +1,53 @@
-[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
-[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
-[ticketlink-product-65585] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[yes24-perf-60278] rendered 198 chars CHANGED
-[chuncheon-notice-announcement] rendered 3471 chars CHANGED
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[chuncheon-municipal-news] rendered 1720 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 4573 chars CHANGED
-[leis-spectator-archery] rendered 3992 chars CHANGED
-[leis-spectator-archery-current] rendered 8321 chars CHANGED
-[djac-perf-5441] rendered 3415 chars CHANGED
-[nol-product-ghibli-love-daejeon-2027] rendered 2910 chars CHANGED
-[nol-product-ghibli-disney-daejeon-2027] rendered 3340 chars CHANGED
-[chungbuk-picturebookgarden-programs] rendered 2966 chars CHANGED
-[koreanair-promo-2610prg] rendered 48980 chars CHANGED
-[koreanair-promo-list] rendered 54145 chars CHANGED
-[djac-perf-5487] rendered 3892 chars CHANGED
-[kywa-camp-reservation-list] rendered 3672 chars CHANGED
-[blog-mandoodad-224482518648] rendered 3583 chars CHANGED
-[ticketlink-product-64315] rendered 242003 chars CHANGED
-[baekje-schedule] rendered 1512 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[woosongart-schedule] rendered 760 chars CHANGED
-[pyeongtaek-main] rendered 18895 chars CHANGED
-[gcfct-schedule] rendered 372 chars CHANGED
-[cnu-jsh-schedule-178] rendered 3452 chars CHANGED
-[dmzforest-main] rendered 6380 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[woorisb-tok7-product] rendered 2804 chars CHANGED
-[mommom-sandmagic-a] rendered 84 chars CHANGED
-[mommom-sandmagic-b] rendered 95 chars CHANGED
-[sejong-notice-imnansu-play] rendered 869 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
-[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
-[andong-halftour] rendered 2550 chars CHANGED
-[kfe-main] rendered 3584 chars CHANGED
-[blog-tjrudska82-224434527430] rendered 5001 chars CHANGED
-[blog-dooglami-224434696671] rendered 5189 chars CHANGED
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 84 chars CHANGED
-[mokwon-general-notice] rendered 1631 chars CHANGED
-[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1260 chars CHANGED
+[foresttrip-main] rendered 7311 chars CHANGED
+[nol-product-dorothy-oz-sejong] rendered 2293 chars CHANGED
+[miraeasset-kids-economic-class] rendered 102 chars same
+[aircanada-kr-flights-from-korea] rendered 24685 chars CHANGED
+[nol-product-26015783] rendered 2850 chars CHANGED
+[nol-product-26016080] rendered 2561 chars CHANGED
+[leis-cycling-cbsports-list] rendered 1011 chars CHANGED
+[epost-fsale-coupon] rendered 4958 chars CHANGED
+[sejong-notice-gogohak-festa] rendered 1256 chars CHANGED
+[sejong-notice-yeondong-storyfest] rendered 2165 chars CHANGED
+[djkids-main] rendered 1480 chars CHANGED
+[djkids-program-notice] rendered 1214 chars CHANGED
+[kaist-orchestra-appassionato-booking] rendered 4550 chars CHANGED
+[naver-blog-kaist-chorus-39th] rendered 10401 chars CHANGED
+[dmak-main] rendered 524 chars CHANGED
+[yes24-mobile-notice-list] rendered 196 chars CHANGED
+[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
+
+[djkids-musical] rendered 1642 chars CHANGED
+[ticketlink-notice] rendered 103658 chars CHANGED
+[mokwon-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.mokwon.ac.kr/kr/html/sub03/030102.html", waiting until "domcontentloaded"
+
+[zeropay-events] rendered 568 chars CHANGED
+[chuncheon-festival-news] rendered 901 chars CHANGED
+[chuncheon-festival-news-459539] rendered 801 chars CHANGED
+[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
+
+[chuncheon-festival-news-464131] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_RESET at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "d
+[pyeongtaek-gosi] rendered 1652 chars CHANGED
+[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[daejeon-okr-edu] rendered 1501 chars same
+[daejeon-okr-hanbatlib] rendered 1661 chars CHANGED
+[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
+Call log:
+  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
+
+[mommom-place-6a2b94f5] rendered 84 chars CHANGED
+[mommom-place-6a2b9455] rendered 95 chars CHANGED
+[ticketlink-notice-65862] rendered 81352 chars CHANGED
+[templestay-main] rendered 2631 chars CHANGED
+[hwadong-main] rendered 9198 chars CHANGED
+[mokpo-harborfestival-main] rendered 8982 chars CHANGED
+[nol-product-26012487] rendered 1439 chars CHANGED
+[hanbat-library-media-friend] rendered 506 chars CHANGED
