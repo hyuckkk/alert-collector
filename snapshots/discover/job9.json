@@ -1,8 +1,15 @@
 {
- "updated": "2026-11-24T03:07:51+09:00",
+ "updated": "2026-11-24T04:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
  "new_this_run": 1,
  "hits": [
+  {
+   "title": "차분히 가라앉은 물결 위로 흐르는 시간과 수문 앞, 그리고 강가에서 살아가는 작은 생명들의 풍경이 참 고요하게 다가왔습니다. 묵직한 수문과 마주 선 두 마리의 새 잔잔한 수면... 참고 : 작은 미술관 안으로 들어가 테라스로 나가면 망원경으로 새를 볼 수 있습니다. #대전 용호동, #금강 물줄기 산책, #보조댐 #대청호 #일상 #작은 미술관새 창 열림",
+   "url": "https://blog.naver.com/im112895/224488336090",
+   "engine": "naver_blog",
+   "query": "대청댐 수문",
+   "first_seen": "2026-11-24T04:07:47+09:00"
+  },
   {
    "title": "저: 용담댐은 금강 상류이고, 대청댐(대청호)은 금강줄기에 속해 있습니다. 곧, 용담댐에서 방류한 물이 대청호로 유입된다는거죠. 아래 사진은 용담댐과 대청댐 정보 입니다. ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ 아래 사진은 금강 정보 입니다. ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ 용담댐부터 금강휴게소까지의 경로중 군데군데를 설정하여... 새 창 열림",
    "url": "https://cafe.naver.com/qotmtkfkd/142188?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InFvdG10a2ZrZCIsImFydGljbGVJZCI6MTQyMTg4LCJpc3N1ZWRBdCI6MTc5NTQ1ODAzOTU3N30.Stg2SmF-VRl_f3g5r12Ouj-shOe1Q4ohy7hNO7eRK2U",
@@ -1345,5 +1352,5 @@
   }
  ],
  "errors": [],
- "skipped_for_time": 34
+ "skipped_for_time": 26
 }
