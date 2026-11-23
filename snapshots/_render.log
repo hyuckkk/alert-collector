@@ -1,47 +1,53 @@
-[aircanada-kr-so-hub] rendered 2869 chars CHANGED
-[aircanada-kr-kbcard] rendered 27354 chars CHANGED
-[aircanada-kr-moretotravel] rendered 3330 chars CHANGED
-[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
-[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
-[ticketlink-product-65585] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[blog-gotaekmusicfesta-224426168539] rendered 2682 chars CHANGED
-[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
-
-[ysfesta-main] rendered 133 chars CHANGED
-[khs-main] rendered 1735 chars same
-[khs-eventinfo] rendered 1144 chars CHANGED
-[kopis-pf302030] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF302030&mt10Id=undefined&search=plc&", waiting until "domcontentloaded"
-
-[namwon-missiontour] rendered 809 chars CHANGED
-[oworld-notice-list] rendered 969 chars CHANGED
-[sslib-sanseong-lecture] rendered 1668 chars CHANGED
-[yes24-notice-18875] rendered 196 chars CHANGED
-[naver-booking-kids-circus-daejeon] rendered 2960 chars CHANGED
-[smart-science-exhibitions-list] RENDER ERROR rendered but too little text (55 chars)
-[sejong-citylib-main] RENDER ERROR Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://library.sejong.go.kr/
-Call log:
-  - navigating to "https://library.sejong.go.kr/", waiting until "domcontentloaded"
-
-[leis-cycling-speedagency] rendered 337 chars CHANGED
-[naver-cafe-everandon-main] rendered 495 chars CHANGED
-[naver-cafe-everandon-252] rendered 2925 chars CHANGED
-[naver-cafe-everandon-251] rendered 2919 chars CHANGED
-[jeonju-board-jeollagamyeong] rendered 1894 chars CHANGED
-[onsejong-localo-main] rendered 2376 chars CHANGED
-[perthmint-upcoming-releases] rendered 7912 chars CHANGED
-[ticketlink-product-64605] rendered 262076 chars CHANGED
-[katc-schedule] rendered 736 chars CHANGED
-[mnd-main] rendered 16734 chars CHANGED
-[fsale-main] rendered 4508 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[science-reservation] rendered 1069 chars same
-[khs-notice] rendered 309 chars same
-[royal-khs-events] rendered 1211 chars same
-[expo-park] rendered 734 chars CHANGED
-[nol-upcoming-notice] rendered 15847 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 15885 chars CHANGED
-[ticketlink-notice-mobile] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://m.ticketlink.co.kr/help/notice']' timed out after 75 seconds
+[pyoungsong-performance] rendered 1228 chars CHANGED
+[dsecc-programs] rendered 1945 chars CHANGED
+[seogu-exprn-list] rendered 1021 chars CHANGED
+[seogu-event-list] rendered 1021 chars CHANGED
+[seogu-edu-list] rendered 1027 chars CHANGED
+[daejeon-its-board] rendered 3369 chars CHANGED
+[yes24-perf-60278] rendered 199 chars CHANGED
+[chuncheon-notice-announcement] rendered 3652 chars CHANGED
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1720 chars CHANGED
+[mokwon-general-notice] rendered 1631 chars CHANGED
+[templestay-main] rendered 2636 chars CHANGED
+[hwadong-main] rendered 9238 chars CHANGED
+[blog-gotaekmusicfesta-224428285877] rendered 2922 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3648 chars CHANGED
+[vol-djv1365-main] rendered 4864 chars CHANGED
+[leis-cycling-kcf] rendered 2172 chars CHANGED
+[sje-life-events] rendered 37447 chars CHANGED
+[nol-nutcracker-daejeon] rendered 5028 chars CHANGED
+[mara1080-goldrun-geumsan] rendered 4301 chars CHANGED
+[runningon-schedule-open] rendered 7551 chars CHANGED
+[leis-ski-snowon] rendered 593 chars CHANGED
+[leis-ski-snowon-notices] rendered 1022 chars CHANGED
+[leis-ski-snowon-youth] rendered 766 chars CHANGED
+[leis-ski-muju-school] rendered 863 chars CHANGED
+[daejeoni-parent-edu-list] rendered 3154 chars CHANGED
+[ktostay-special-disaster-stay] rendered 2080 chars CHANGED
+[kspo-svoucher-notice] rendered 1949 chars CHANGED
+[oasis-fsale-coupon] rendered 6613 chars CHANGED
+[nol-product-christmas-film-carol-festa-daejeon] rendered 3539 chars CHANGED
+[nol-product-stagem-christmas-carol-daejeon] rendered 2142 chars CHANGED
+[nol-product-lab-concert-daejeon] rendered 5191 chars CHANGED
+[seogu-yeyak] rendered 2841 chars CHANGED
+[pyoungsong] rendered 872 chars same
+[oworld-notice] rendered 1733 chars CHANGED
+[pyeongtaek-news-board] rendered 3200 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 4265 chars CHANGED
+[hanbat-library-culture] rendered 2135 chars CHANGED
+[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[pyoungsong-event-piglets] rendered 484 chars same
+[pyoungsong-event-sandmagic] rendered 498 chars same
+[pyoungsong-event-stonesoup] rendered 335 chars same
+[science-edu-reservation] rendered 2149 chars same
+[sejong-notice] rendered 2264 chars CHANGED
+[sejong-notice-greenfamily] rendered 1799 chars CHANGED
+[sejong-notice-birdwatch] rendered 1339 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 5324 chars CHANGED
+[komsco-shop-medal] rendered 7357 chars CHANGED
+[komsco-shop-coin] rendered 6751 chars CHANGED
+[komsco-shop-bar] rendered 6862 chars CHANGED
+[komsco-shop-card] rendered 7426 chars CHANGED
+[komsco-shop-currency-set] rendered 6683 chars CHANGED
