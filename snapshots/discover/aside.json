@@ -1,0 +1,189 @@
+{
+ "updated": "2026-11-24T06:43:46+09:00",
+ "source": "aside",
+ "note": "Aside 실제 브라우저 네이버 검색 결과(하루 1회). 각 JOB 은 job 이 자기 것이고 first_seen 이 직전 실행 이후인 hit 만 판정한다.",
+ "searches_done": 15,
+ "searches_failed": 3,
+ "errors": [
+  "['daejeon-familycenter-programs', 'daejeonseogu-familycenter-programs', 'vol-ysvc-main']: 답 JSON 아님: ",
+  "['yes24-search-daejeon', 'usmint-morgan-peace-diamond-field-26xs']: 답 JSON 아님: {\"pages\":[{\"id\":\"yes24-search-daejeon\",\"url\":\"https://ticket.yes24.co",
+  "['naver-job10-16', 'naver-job10-17', 'naver-job10-18']: 답 JSON 아님: 세종 관련 `items` 배열을 전달했습니다."
+ ],
+ "hits": [
+  {
+   "title": "뮤지컬 헬로카봇 <카봇크루가 되어줘!> - 대전",
+   "url": "https://blog.naver.com/ksooh92/224481548567",
+   "snippet": "2026.11.28 ~ 2026.11.29 · 대전평송청소년문화센터 대극장 · 1층석 70,000 원 · 24개월이상",
+   "evidence": "2026년 11월 28일(토) ~ 2026년 11월 29일(일)토 11시, 14시, 16시 30분 / 일 11시, 14시",
+   "query": "대전 어린이 뮤지컬",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-24T06:43:46+09:00",
+   "official_url": "https://www.ticketlink.co.kr/product/65594"
+  },
+  {
+   "title": "가족뮤지컬 <에그박사와 아마존 대탐험> - 대전",
+   "url": "https://blog.naver.com/042mom/224488576892",
+   "snippet": "2026.12.19 ~ 2026.12.20 · 한밭대학교 아트홀 · R석 49,900 원 / ES 카카오플친 할인 46,900 원 · 전체관람가",
+   "evidence": "2026년 12월 19일(토) ~ 2026년 12월 20일(일)11시, 14시, 16시 30분",
+   "query": "대전 어린이 뮤지컬",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-24T06:43:46+09:00",
+   "official_url": "https://www.ticketlink.co.kr/product/66048"
+  },
+  {
+   "title": "가족뮤지컬 <에그박사와 아마존 대탐험> - 대전",
+   "url": "https://blog.naver.com/042mom/224488576892",
+   "snippet": "2026.12.19 ~ 2026.12.20 · 한밭대학교 아트홀 · R석 49,900 원 / ES 카카오플친 할인 46,900 원 · 전체관람가",
+   "evidence": "2026년 12월 19일(토) ~ 2026년 12월 20일(일)11시, 14시, 16시 30분",
+   "query": "대전 가족 뮤지컬 티켓오픈",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-24T06:43:46+09:00",
+   "official_url": "https://www.ticketlink.co.kr/product/66048"
+  },
+  {
+   "title": "[대전] 2026 크리스마스 뮤지컬 [스크루지아저씨의 크리스마스캐롤]",
+   "url": "https://blog.naver.com/storm0528/224485683211",
+   "snippet": "2026.12.25 ~ 2026.12.25 · 대전 평송청소년문화센터 소극장 · 전석 40,000 원 · 24개월이상 관람가",
+   "evidence": "2026년 12월 25일(금) 금요일 13시, 15시, 17시",
+   "query": "대전 크리스마스 가족뮤지컬",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-24T06:43:46+09:00",
+   "official_url": "https://ticket.yes24.com/Perf/60362"
+  },
+  {
+   "title": "쇼뮤지컬 〈시크릿쥬쥬 : 별의보석 - 잃어버린 빛을 찾아서〉 - 대전",
+   "url": "https://blog.naver.com/1112kim/224485140957",
+   "snippet": "2026.12.25 · 대전 평송청소년문화센터 대극장 · R석 66,000 원 S석 44,000 원 · 24개월이상 관람가능",
+   "evidence": "2026년 12월 25일 (금) 11:00. 14:00, 16:30",
+   "query": "대전 크리스마스 가족뮤지컬",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-24T06:43:46+09:00",
+   "official_url": "https://nol.yanolja.com/ticket/products/26013206"
+  },
+  {
+   "title": "2026 어린이 참여공연 아빠와 난 초등1학년 - 대전",
+   "url": "https://blog.naver.com/soi_nara/224486018345",
+   "snippet": "2026.12.04 ~ 2026.12.05 · 대전 서구문화원 · 12,900 원",
+   "evidence": "2026년 12월 04일(금) ~ 2026년 12월 05일(토) 금 19시 30분 / 토 11시, 14시, 16시 30분",
+   "query": "대전 12월 어린이 공연 예매",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-24T06:43:46+09:00",
+   "official_url": "https://booking.naver.com/booking/12/bizes/1757222"
+  },
+  {
+   "title": "쇼뮤지컬 〈시크릿쥬쥬 : 별의보석 - 잃어버린 빛을 찾아서〉 - 대전",
+   "url": "https://blog.naver.com/1112kim/224485140957",
+   "snippet": "2026.12.25 · 대전 평송청소년문화센터 대극장 · R석 66,000 원 S석 44,000 원 · 24개월이상 관람가능",
+   "evidence": "2026년 12월 25일 (금) 11:00. 14:00, 16:30",
+   "query": "대전 12월 어린이 공연 예매",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-24T06:43:46+09:00",
+   "official_url": "https://nol.yanolja.com/ticket/products/26013206"
+  },
+  {
+   "title": "[대전] 2026 크리스마스 뮤지컬 [스크루지아저씨의 크리스마스캐롤]",
+   "url": "https://blog.naver.com/storm0528/224485683211",
+   "snippet": "2026.12.25 ~ 2026.12.25 · 대전 평송청소년문화센터 소극장 · 전석 40,000 원 · 24개월이상 관람가",
+   "evidence": "2026년 12월 25일(금) 금요일 13시, 15시, 17시",
+   "query": "대전 12월 어린이 공연 예매",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-24T06:43:46+09:00",
+   "official_url": "https://ticket.yes24.com/Perf/60362"
+  },
+  {
+   "title": "2026 유성온천 크리스마스축제",
+   "url": "https://blog.naver.com/windyboy82/224486964890",
+   "snippet": "2026.12.04.(금) ~ 2026.12.06.(일) · 유림공원",
+   "evidence": "2026.12.04.(금) ~ 2026.12.06.(일)",
+   "query": "대전 축제 개막식 불꽃놀이",
+   "job": "job4",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-24T06:43:46+09:00",
+   "official_url": "https://daejeontour.co.kr/festival_djt/59"
+  },
+  {
+   "title": "2026 유성 세대이음 AI 페스타 행사 개최",
+   "url": "https://blog.naver.com/mandoodad/224482518648",
+   "snippet": "2026. 12. 5.(토) 10:00~15:00 · 용산디지털전환(DX)지원센터(유성구 배울1로 118, 용산도서관 2층) · 유성구 거주 가족 150가족(1·2부 각 75가족, 선착순)",
+   "evidence": "○ 일 시: 2026. 12. 5.(토) 10:00~15:00",
+   "query": "대전 가족 체험 선착순",
+   "job": "job7",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-24T06:43:46+09:00",
+   "official_url": "https://www.yuseong.go.kr/bbs/BBSMSTR_000000000120/view.do?nttId=B000000145592Da3uE8"
+  },
+  {
+   "title": "2026 첨단기술 원정대 겨울 시즌 체험 안내",
+   "url": "https://blog.naver.com/042mom/224485662642",
+   "snippet": "2026. 12. 6.(일) · 국립중앙과학관 미래기술관 3층 특별전시실 · 무료(단 주차료는 유료) · 초등학생(2026년도 학년 및 연령 기준)",
+   "evidence": "◦ 체험일자 : 2026년 12월 6일(일)",
+   "query": "대전 가족 체험 선착순",
+   "job": "job7",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-24T06:43:46+09:00",
+   "official_url": "https://www.science.go.kr/mps/0/bbs/431/moveBbsNttDetail.do?nttSn=50329"
+  },
+  {
+   "title": "대전시립박물관 우리놀이터 12월 예약",
+   "url": "https://blog.naver.com/mec1975/224487207584",
+   "snippet": "2026-12-01 ~ 2026-12-31 · 대전시립박물관 우리놀이터 · 무료 · 만 36개월 ~ 만 8세(보호자 필수)",
+   "evidence": "이용기간 2026-12-01 ~ 2026-12-31",
+   "query": "대전 가족 체험 선착순",
+   "job": "job7",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-24T06:43:46+09:00",
+   "official_url": "https://www.daejeon.go.kr/okr2019/expRsvtDtl.do"
+  },
+  {
+   "title": "119시민체험센터(12월 평일,주말)",
+   "url": "https://blog.naver.com/bom6065/224486592939",
+   "snippet": "2026-12-01 ~ 2026-12-31 · 대전119시민체험센터(대전광역시 서구 복수서로 63) · 무료 · 6세 이상의 어린이부터(초등학생 이하 보호자 동반)",
+   "evidence": "이용기간 2026-12-01 ~ 2026-12-31",
+   "query": "대전 가족 체험 선착순",
+   "job": "job7",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-24T06:43:46+09:00",
+   "official_url": "https://www.daejeon.go.kr/okr2019/expRsvtDtl.do"
+  },
+  {
+   "title": "파충류 페스티벌: 크리처 케어로그 in 대전",
+   "url": "https://blog.naver.com/dadnkids/224481261050",
+   "snippet": "2026년 11월 28일 토 – 2026년 11월 29일 일 · 대전컨벤션센터 DCC 제1전시장 · 대인 사전예매 10,000원·현장 12,000원 / 소인(36개월 이상) 사전예매 6,000원·현장 8,000원 / 36개월 미만 무료 · 소인 36개월 이상, 36개월 미만 아동 무료입장",
+   "evidence": "개최일 2026년 11월 28일 토 – 2026년 11월 29일 일",
+   "query": "대전 가족 체험 선착순",
+   "job": "job7",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-24T06:43:46+09:00",
+   "official_url": "https://ryangstudio.com/events/carelog-202611/"
+  },
+  {
+   "title": "2026 첨단기술 원정대 겨울 시즌 참여 기관 신청 안내",
+   "url": "https://blog.naver.com/honey__fam/224485465988",
+   "snippet": "2026. 12. 5.(토) · 국립중앙과학관 미래기술관 3층 특별전시실 · 무료 · 초등학생(2026년도 학년 및 연령 기준)",
+   "evidence": "◦ 체험일자 : 2026년 12월 5일(토) ※ 1일 3회 운영 / 총 3회(시연 30분+체험 90분)",
+   "query": "대전 어린이 체험 접수",
+   "job": "job7",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-24T06:43:46+09:00",
+   "official_url": "https://www.science.go.kr/mps/1070/bbs/431/moveBbsNttDetail.do?nttSn=50307&"
+  },
+  {
+   "title": "평생교육원, 학부모와 함께 서는 특강 ‘곁에 서는 부모’ 운영",
+   "url": "https://blog.naver.com/sje_go_kr/224484775994",
+   "snippet": "12월 2일(수)부터 12월 30일(수)까지 매주 1회씩 총 5회 · 이도마루(평생교육원) 1층 시청각실 · 학부모",
+   "evidence": "평생교육원는 오는 12월 2일(수)부터 12월 30일(수)까지 매주 1회씩 총 5회에 걸쳐 2026년 하반기 학부모 특강 ‘곁에 서는 부모 - 아이의 길, 그 곁에서’를 운영한다고 18일 밝혔다.",
+   "query": "세종 이도마루 가족 프로그램",
+   "job": "job7",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-24T06:43:46+09:00"
+  }
+ ]
+}
