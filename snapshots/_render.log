@@ -1,65 +1,54 @@
-[kopis-place-pyoungsong-small] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://kopis.or.kr/por/db/prfplc/prfplcView.do?menuId=MNU_00021&mt10Id=FC000323", waiting until "domcontentloaded"
+  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
 
-[bok-press-list] rendered 720 chars CHANGED
-[nol-product-26011246] rendered 1720 chars CHANGED
-[namwon-missiontour] rendered 809 chars CHANGED
-[oworld-notice-list] rendered 969 chars CHANGED
-[sslib-sanseong-lecture] rendered 1747 chars CHANGED
-[yes24-notice-18875] rendered 196 chars CHANGED
-[naver-booking-kids-circus-daejeon] rendered 4473 chars CHANGED
-[smart-science-exhibitions-list] RENDER ERROR rendered but too little text (55 chars)
-[sejong-citylib-main] RENDER ERROR Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://library.sejong.go.kr/
+[leis-cycling-kcf] rendered 2172 chars CHANGED
+[sje-life-events] rendered 31607 chars CHANGED
+[nol-nutcracker-daejeon] rendered 5028 chars CHANGED
+[mara1080-goldrun-geumsan] rendered 4302 chars CHANGED
+[daejeoni-parent-edu-list] rendered 3151 chars CHANGED
+[ktostay-special-disaster-stay] rendered 2080 chars CHANGED
+[kspo-svoucher-notice] rendered 1949 chars CHANGED
+[oasis-fsale-coupon] rendered 6599 chars CHANGED
+[nol-product-christmas-film-carol-festa-daejeon] rendered 3539 chars CHANGED
+[nol-product-stagem-christmas-carol-daejeon] rendered 2142 chars CHANGED
+[nol-product-lab-concert-daejeon] rendered 5229 chars CHANGED
+[mnd-main] rendered 16803 chars CHANGED
+[dsecc-programs] rendered 1945 chars CHANGED
+[seogu-exprn-list] rendered 1021 chars CHANGED
+[seogu-event-list] rendered 1021 chars CHANGED
+[seogu-edu-list] rendered 1027 chars CHANGED
+[daejeon-its-board] rendered 3369 chars CHANGED
+[pyeongtaek-news-board] rendered 3197 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 4262 chars CHANGED
+[hanbat-library-culture] rendered 2135 chars CHANGED
+[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[pyoungsong-event-piglets] rendered 484 chars same
+[pyoungsong-event-sandmagic] rendered 498 chars same
+[pyoungsong-event-stonesoup] rendered 335 chars same
+[science-edu-reservation] rendered 2139 chars same
+[sejong-notice] rendered 2263 chars CHANGED
+[sejong-notice-greenfamily] rendered 1799 chars CHANGED
+[sejong-notice-birdwatch] rendered 1339 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 5025 chars CHANGED
+[komsco-shop-medal] rendered 7357 chars CHANGED
+[dgdr-festival] rendered 203 chars CHANGED
+[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://library.sejong.go.kr/", waiting until "domcontentloaded"
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
 
-[leis-cycling-speedagency] rendered 337 chars CHANGED
-[naver-cafe-everandon-main] rendered 495 chars CHANGED
-[naver-cafe-everandon-252] rendered 2925 chars CHANGED
-[naver-cafe-everandon-251] rendered 2831 chars CHANGED
-[jeonju-board-jeollagamyeong] rendered 1868 chars CHANGED
-[onsejong-localo-main] rendered 2376 chars CHANGED
-[perthmint-upcoming-releases] rendered 7955 chars CHANGED
-[ticketlink-product-64605] rendered 272707 chars CHANGED
-[djkids-notice] rendered 1027 chars CHANGED
-[dctf] RENDER ERROR rendered but too little text (15 chars)
-[nol-family] rendered 4148 chars CHANGED
-[yes24-notice] rendered 196 chars CHANGED
-[kopis-daejeon-kids] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.kopis.or.kr/por/db/pblprfr/pblprfr.do?menuId=MNU_00020", waiting until "domcontentloaded"
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
 
-[kwater-realtime-multidam] rendered 10539 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 282055 chars CHANGED
-[gongjeon-kids] rendered 548 chars CHANGED
-[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
-[katc-schedule] rendered 736 chars CHANGED
-[fsale-main] rendered 4508 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[science-reservation] rendered 1069 chars same
-[khs-notice] rendered 309 chars same
-[royal-khs-events] rendered 1211 chars CHANGED
-[expo-park] rendered 734 chars CHANGED
-[nol-upcoming-notice] rendered 16121 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 16208 chars CHANGED
-[ticketlink-notice-mobile] rendered 282055 chars same
-[pyoungsong-performance] rendered 1224 chars same
-[nol-product-phantom-40th] rendered 5500 chars CHANGED
-[daejeontour-bread-festival] rendered 783 chars CHANGED
-[blog-seogu-artfest-fringe-cvovz] rendered 5727 chars CHANGED
-[blog-seogu-artfest-blu2sky7] rendered 6485 chars CHANGED
-[kwater-realtime-sumun] rendered 2306 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 3452 chars CHANGED
-[kmusic-calendar-year] rendered 6309 chars CHANGED
-[nol-product-26001112] rendered 3666 chars CHANGED
-[blog-daedeokgu-224432911721] rendered 2670 chars CHANGED
-[blog-namuac21-224424725714] rendered 4552 chars CHANGED
-[blog-youneed4613-224436099074] rendered 4619 chars CHANGED
-[nol-product-26008375] rendered 1746 chars CHANGED
-[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
-[pyoungsong-tribe-events-api-p2] rendered 132622 chars same
-[kopis-pf297232] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[blog-gotaekmusicfesta-224426168539] rendered 2682 chars CHANGED
+[ysfesta-main] rendered 133 chars CHANGED
+[khs-main] rendered 1735 chars CHANGED
+[khs-eventinfo] rendered 1144 chars CHANGED
+[kopis-pf302030] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF297232", waiting until "domcontentloaded"
+  - navigating to "https://kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF302030&mt10Id=undefined&search=plc&", waiting until "domcontentloaded"
 
+[blog-gotaekmusicfesta-224428285877] rendered 2922 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3648 chars CHANGED
