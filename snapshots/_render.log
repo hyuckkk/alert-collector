@@ -1,66 +1,47 @@
-[nol-product-26012487] rendered 1401 chars CHANGED
-[hanbat-library-media-friend] rendered 506 chars CHANGED
-[kopis-place-pyoungsong-small] rendered 10094 chars same
-[khs-eventinfo] rendered 1144 chars CHANGED
-[kopis-pf302030] rendered 7840 chars same
-[namwon-missiontour] rendered 809 chars CHANGED
-[oworld-notice-list] rendered 970 chars CHANGED
-[sslib-sanseong-lecture] rendered 1632 chars CHANGED
-[yes24-notice-18875] rendered 196 chars CHANGED
-[naver-booking-kids-circus-daejeon] rendered 23003 chars CHANGED
-[smart-science-exhibitions-list] RENDER ERROR rendered but too little text (55 chars)
-[sejong-citylib-main] RENDER ERROR Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://library.sejong.go.kr/
+[mara1080-goldrun-geumsan] rendered 4300 chars CHANGED
+[runningon-schedule-open] rendered 7594 chars CHANGED
+[leis-ski-snowon] rendered 593 chars CHANGED
+[leis-ski-snowon-notices] rendered 1022 chars CHANGED
+[leis-ski-snowon-youth] rendered 766 chars CHANGED
+[leis-ski-muju-school] rendered 863 chars CHANGED
+[daejeoni-parent-edu-list] rendered 3124 chars CHANGED
+[ktostay-special-disaster-stay] rendered 2080 chars CHANGED
+[kspo-svoucher-notice] rendered 1916 chars CHANGED
+[naver-cafe-everandon-251] rendered 2981 chars CHANGED
+[jeonju-board-jeollagamyeong] rendered 1902 chars CHANGED
+[onsejong-localo-main] rendered 2376 chars CHANGED
+[perthmint-upcoming-releases] rendered 8182 chars CHANGED
+[ticketlink-product-64605] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/64605']' timed out after 75 seconds
+[royal-khs-events] rendered 1195 chars CHANGED
+[expo-park] rendered 733 chars CHANGED
+[nol-upcoming-notice] rendered 16442 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 16412 chars CHANGED
+[ticketlink-notice-mobile] rendered 282086 chars CHANGED
+[mommom-place-6a2b94f5] rendered 95 chars CHANGED
+[mommom-place-6a2b9455] rendered 84 chars CHANGED
+[ticketlink-notice-65862] rendered 102893 chars CHANGED
+[docomomokorea-main] rendered 293 chars same
+[pyoungsong-event-rudolph] rendered 442 chars same
+[pyoungsong-event-snowwhite] rendered 432 chars same
+[blog-namuac21-224427113169] rendered 4803 chars CHANGED
+[royal-khs-notice] rendered 1370 chars CHANGED
+[taean-halftour-apply] rendered 3078 chars CHANGED
+[seocheon-halftour-apply] rendered 1385 chars CHANGED
+[komsco-shop-cate2284] rendered 246 chars CHANGED
+[mcst-culture-71983] rendered 1181 chars CHANGED
+[aircanada-korea] rendered 22744 chars CHANGED
+[aircanada-kr-so-hub] rendered 2603 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
+[pyoungsong-tribe-events-api-p2] rendered 132622 chars same
+[kopis-pf297232] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://library.sejong.go.kr/", waiting until "domcontentloaded"
+  - navigating to "https://kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF297232", waiting until "domcontentloaded"
 
-[leis-cycling-speedagency] rendered 337 chars CHANGED
-[naver-cafe-everandon-main] rendered 495 chars CHANGED
-[naver-cafe-everandon-252] rendered 2901 chars CHANGED
-[nol-product-26010436] rendered 1500 chars CHANGED
-[kfruit-main] rendered 9549 chars CHANGED
-[katc-schedule] rendered 733 chars CHANGED
-[fsale-main] rendered 5276 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[science-reservation] rendered 1073 chars same
-[khs-notice] rendered 309 chars same
-[blog-tjrudska82-224434527430] rendered 4648 chars CHANGED
-[blog-dooglami-224434696671] rendered 4842 chars CHANGED
-[dsecc-programs-p2] rendered 1945 chars CHANGED
-[dsecc-programs-p3] rendered 1945 chars CHANGED
-[mommom-place-6a868bff] rendered 84 chars CHANGED
-[mommom-place-6a2b946b] rendered 95 chars CHANGED
-[visitisland-main] rendered 993 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1640 chars same
-[visitkorea-tour50-notice] rendered 616 chars CHANGED
-[mommom-place-6a7d51b7] rendered 84 chars CHANGED
-[blog-first_seogu-224428074790] rendered 3339 chars CHANGED
-[blog-dooglami-224433357728] rendered 5023 chars CHANGED
-[yes24-genre-children] rendered 196 chars CHANGED
-[pyoungsong-event-feed] rendered 34079 chars same
-[pyoungsong-monthly] rendered 634 chars same
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 170933 chars same
-[pyoungsong-event-list] rendered 297 chars same
-[bok-press-list] rendered 720 chars CHANGED
-[blog-seogu-artfest-fringe-cvovz] rendered 5883 chars CHANGED
-[blog-seogu-artfest-blu2sky7] rendered 6545 chars CHANGED
-[kwater-realtime-sumun] rendered 2290 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 3148 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 4573 chars CHANGED
-[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
-[kmusic-calendar-2026-12] rendered 1260 chars CHANGED
-[kmusic-calendar-year] rendered 6309 chars CHANGED
-[nol-product-26001112] rendered 3666 chars CHANGED
-[blog-daedeokgu-224432911721] rendered 2669 chars CHANGED
-[blog-namuac21-224424725714] rendered 4553 chars CHANGED
-[blog-youneed4613-224436099074] rendered 4592 chars CHANGED
-[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
-
-[blog-gotaekmusicfesta-224428285877] rendered 2921 chars CHANGED
-[blog-gotaekmusicfesta-224426135103] rendered 3647 chars CHANGED
-[vol-djv1365-main] rendered 5741 chars CHANGED
-[leis-cycling-kcf] rendered 2174 chars CHANGED
-[sje-life-events] rendered 51330 chars CHANGED
-[nol-nutcracker-daejeon] rendered 4990 chars CHANGED
+[dgdr-festival] rendered 203 chars CHANGED
+[yuseong-lib-lecture-12604] rendered 1523 chars CHANGED
+[yuseong-lib-lecture-list] rendered 2257 chars CHANGED
+[leis-ski-skiland-lessons] rendered 599 chars CHANGED
+[leis-ski-mentor-lessons] rendered 4778 chars CHANGED
+[leis-ski-jb-sports] rendered 1234 chars CHANGED
+[leis-ski-sejong-sports] rendered 810 chars CHANGED
