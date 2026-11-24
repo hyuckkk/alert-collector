@@ -1,8 +1,553 @@
 {
- "updated": "2026-11-25T04:07:50+09:00",
+ "updated": "2026-11-25T05:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 122,
+ "new_this_run": 77,
  "hits": [
+  {
+   "title": "의왕시 종합자원봉사센터, 안양쉴낙원과 업무협약 체결 > 뉴스 - 더코리아",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56azN0SHdwclZKWEdPVzlnbU9TSnFBRDNEbUlnd3ZrSmRpSFB1YmNXUmlldEIzTVNSV1I5RldaekdXdXJ4d2ZuWm8tbw?oc=5",
+   "pub": "Sat, 21 Nov 2026 17:41:53 GMT",
+   "engine": "gnews",
+   "query": "대전 자원봉사센터 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "세종도시교통공사, 한파 취약계층 겨울나기 지원…방한용품 후원 - 대전인터넷신문",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aOTBVbm9KRDhncjJNWFJuVzA4U1M0Mk0wOExZWlFiaVlacy1lZXl5RE9lbW1HQkkxYWtWSV9BR0stNno4Qk4zSVhMM25Zdw?oc=5",
+   "pub": "Mon, 23 Nov 2026 06:42:44 GMT",
+   "engine": "gnews",
+   "query": "대전 자원봉사센터 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "주말 반납하고 함께 담근 사랑의 김장…횡성군가족봉사단, 40가구 전달 - 프레시안",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xNV80UUhoVzlYdzFNV1l1TWdfTEY3ZUlqMzNmeFZ5NFU5djlNSlI0eUUtS0lyYjVaVmk1M2dHRmJrdWd4QzRPWDFDamZaMExhaTRwc0ROYjRUVzh0MGhrc0taZnZ0bWVXdWhB?oc=5",
+   "pub": "Mon, 23 Nov 2026 08:54:49 GMT",
+   "engine": "gnews",
+   "query": "대전 자원봉사센터 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "[포토뉴스]횡성군자원봉사센터, 소외계층을 위한 김장 나눔 - 강원일보",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40cU5ZQ1M4WmlaTi1oZTI3b3lLY1g1Q0hBdE9HSnRiRVZBNUlfdENxTGdjbjI5R2ZNdHQ3SFY0bkVJd2FkakFzaTVwaXR4S1V6cVhBMTFsakNxLUE?oc=5",
+   "pub": "Mon, 23 Nov 2026 06:48:27 GMT",
+   "engine": "gnews",
+   "query": "대전 자원봉사센터 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "도담도담 가족봉사단, 연탄 나눔으로 1년 활동 마무리 - 웹이코노미",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zckxXS0Q4d25SdWdaT3FSM1k3c1BMYl92dUNuQjBFVUt1S09ycXpsT1hobDhUcUNMVHBkRjFqN3dURkhuSENrYUpGUDh1WlBET1J0SzlLcFNwZ3Mxa2QtX0RTYzNhZEVhenZHTVNiNWxWUQ?oc=5",
+   "pub": "Mon, 23 Nov 2026 08:39:53 GMT",
+   "engine": "gnews",
+   "query": "대전 자원봉사센터 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "KT&G 대전공장, 대덕구에 이웃돕기 성금 3700만원 전달 - 웹이코노미",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TTDcxSlZ2QXhPbERMN2R3eVlPOHl5RkxkcVhpWmVxdnJQUV9MckxCU0dWQlA4bW92RkdIT0xYLS1pTUlhaDdfVkV3U2ZPSnVhZ29pWXN5VVh0WHYtM3RXV05YQWU4dlB5UFJrRlZMVVJzdw?oc=5",
+   "pub": "Mon, 23 Nov 2026 08:20:32 GMT",
+   "engine": "gnews",
+   "query": "대전 자원봉사센터 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "2025년 국내 지자체 동물보호센터에 입소한 유실·유기동물은 95,685마리이며, 이 중 고양이가 28.2%(26,969마리)입니다. 2. 입소 동물의 입양 비율은 25.6%에 그쳤고, 43%(자연사 25.7%, 안락사 17.3%)가 보호소 안에서 생을 마쳤습니다. 3. 입양이 끝이 아닙니다. 미국 대형... 권합니다 ━━━━━━━━━━━━━━━━━━ · ",
+   "url": "https://cafe.naver.com/welfaredatacenter/4942?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndlbGZhcmVkYXRhY2VudGVyIiwiYXJ0aWNsZUlkIjo0OTQyLCJpc3N1ZWRBdCI6MTc5NTU1MDg5ODk0Mn0.6Ih51u2v-rKj55VJ9z-wXduJaevl0IA4Pc_b4VPYD2M&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "어려우셔서 보호소를 보낼까 구청, 시청 문의해봤지만 돌아오는답은 안락사. 결국 임시보호를 하자 생각하고 상두를 데리고온지 3-4개월정도 되었어요. 처음 집안생활을 어색해하던것이 무색할만큼... 사람에대한 깊은 신뢰와 영리함을 가진 상두의 이야기를 봐주시는 분들이 많아져 평생 함께할 진짜 가족을 찾아주고 싶습니다. https://www.instagram.co",
+   "url": "https://cafe.naver.com/angelsabandoned/119701?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFuZ2Vsc2FiYW5kb25lZCIsImFydGljbGVJZCI6MTE5NzAxLCJpc3N1ZWRBdCI6MTc5NTU1MDg5ODk0Mn0.MnXo61lVM0Eh_lEvHhnKsj63tJMY22wGjbZSQ5tIFBI&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "아지네 마을 가족이 되신 것을 환영합니다. 아래의 10개 질문에 성실히 답변 부탁드려요. Q. 성함과 거주지역.연령대를 알려주세요... 보호소 주소는 원칙상 공개하고 있지않습니다. 반려동물을 유기하시는 분들이 있기 때문이에요. 성실멤버 이상인 회원만 운영진에게... ※ ② 등업신청 방법은 등업신청 게시판에 실명 / 나이 / 성별 /사는 곳 / 연락처 / 할",
+   "url": "https://cafe.naver.com/ajinelove/41606?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFqaW5lbG92ZSIsImFydGljbGVJZCI6NDE2MDYsImlzc3VlZEF0IjoxNzk1NTUwODk4OTQyfQ.OkhtGSuZd4rw69QJB4Uv3JuWLE6LGwSH3XzDPxntCU0&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "조금 전까지 얌전하게 시간을 보내던 아이가 자신의 이름을 듣고 좋아하는 모습을 보면 자꾸만 이름을 불러주고 싶어진답니다. 새로운 가족을 기다리는 푸들 '하리' 하리의 이름을 매일 다정하게 불러주고, 귀여운 애교에도 따뜻하게 화답해 줄 가족을 만나면 좋겠어요. 하리의 차분한 성격과 사랑스러운 애교를 아껴주며, 평생 행복한 일상을 함께해 주실 소중한 가족을 기",
+   "url": "https://cafe.naver.com/angelsabandoned/119700?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFuZ2Vsc2FiYW5kb25lZCIsImFydGljbGVJZCI6MTE5NzAwLCJpc3N1ZWRBdCI6MTc5NTU1MDg5ODk0Mn0.7DFf9_ZQcPx3ihpeXfuMtikNn3K0YXt31QZhj6wmjmY&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "누군가의 가족이 되어 따뜻한 집에서 살아가는 꿈은 아직 이루지 못했지만, 이제 록시에게는 오랜 시간을 함께해 온 쉼터가 생활의 터전이 되었습니다. 아이들이 먹고 생활하면서 생기는 쓰레기도 매일... 후원계좌 국민은행 : ******-**-****** 예금주 : 행동하는동물사랑 입금하실때는 꼭 '000 폐기물' 이라고 적어주세요~^^ 기부금 영수증 발급시에는",
+   "url": "https://cafe.naver.com/pajupetlove/134207?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBhanVwZXRsb3ZlIiwiYXJ0aWNsZUlkIjoxMzQyMDcsImlzc3VlZEF0IjoxNzk1NTUwODk4OTQyfQ.5RP_zE4NSFhoEJbeQ3rDbp-sfV6xxDxd9objkAEjDdk&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "네가 사는 하우스3동에 찾아오는 봉사자 이모야들 덕분에 네 모습을 예전보다 종종 볼 수 있어 너무 좋구나.. 간식은 여전히 달콤하지? 무심한듯 보이다가도 어느순간 천진난만하게 환히 웃는 너를 어찌... 후원계좌 국민은행 : ******-**-****** 행동하는 동물사랑 입금하실때는 꼭 '000 월세'라고 적어주세요~^^ 기부금 영수증 발급시에는 꼭 실명 ",
+   "url": "https://cafe.naver.com/pajupetlove/134205?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBhanVwZXRsb3ZlIiwiYXJ0aWNsZUlkIjoxMzQyMDUsImlzc3VlZEF0IjoxNzk1NTUwODk4OTQyfQ.RbKhVCWQlE5IA_sNVyVVKssmIN9p36ACcSNkQZaetJY&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "봉사자이모, 마사지 좀 친당...(이모야가 만들어주신 목걸이) 바로바로 쉼뜰의 부끄럼쟁이 아가씨 다정이 입니다!!! 호피가 잘 어울리는... 다감이는 금방 임보, 입양 가족을 찾았는데 다정이는 아직도 쉼뜰에 살고 있어요. 울 다정이는 알러지 때문에 약을 먹고 있어요. 매일 알러지 약을 챙겨 먹는 다정이를 위해 3월 약값 18만원 후원을 이어주세요!! ● 후",
+   "url": "https://cafe.naver.com/pajupetlove/134204?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBhanVwZXRsb3ZlIiwiYXJ0aWNsZUlkIjoxMzQyMDQsImlzc3VlZEF0IjoxNzk1NTUwODk4OTQyfQ.ZgaAW5nyA99hrVtwFpyClAfhZ6M5hb1cpgaIGQnDyUI&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "입양 가족을 만났고.. 에버는 짧지만 임시보호 집으로 떠났어요. 그날 14마리 친구들이 왔는데, 따뜻한 집밥 먹는 아이는 둘 뿐 ㅠㅠ 쪼꼬미 팬미팅에 나갔던 아이들을 기억해주세요. 파주의 혹독한 겨울 나기를 도와주세요. 오늘부터 매일 한 아이씩 짧게라도 홍보 글 올려볼게요. 많은 관심 부탁드려요 나야 나, 거울 공주 여울이. (3살 추정, 여아, 7~8kg",
+   "url": "https://cafe.naver.com/pajupetlove/134202?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBhanVwZXRsb3ZlIiwiYXJ0aWNsZUlkIjoxMzQyMDIsImlzc3VlZEF0IjoxNzk1NTUwODk4OTQyfQ.EXrvPo_wLdjCZNhxlmhv7mh_qsCSq8yLmzJrfplpbDU&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "안녕하세요! 누리 임보누나입니다 누리가 수술하고 회복중이라 근황이 많이 없어요 그래서 오늘은 이래저래 못올렸던 누리 사진들 올려보겠습니다! 방가방가 누리! 누리는 누가 만져주는게 세상에서 제일 좋아요 누나 친구네 놀러간 누리에요! 친구네가 복층인데 계단 위에서 누나 빨리 올라오라고 쳐다보는 누리입니다❄️ 이 날은 누나 후배들이랑 같이 놀았어요 강아지 키우는",
+   "url": "https://cafe.naver.com/pajupetlove/134201?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBhanVwZXRsb3ZlIiwiYXJ0aWNsZUlkIjoxMzQyMDEsImlzc3VlZEF0IjoxNzk1NTUwODk4OTQyfQ.T0FE5HO8oYpkivY3_6E1b6QFMIGkx7Q-pROmpZlmiKs&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "지난주 슬개골수술한 시온이ㅜ 활동제한은 있지만 시온이의 경우는 뛰어오르는것만 못하게하면 걸어다니는거 정도는 해주는게 더 좋대요 그러나 사람을 너무 좋아하는 우리시온이는 사람만 보면 너무 좋아요. 이미 붕대는 풀렀고 지금은 아침저녁으로 소독만 하고 있어요. 우리 시온이 편한집에서 잘 지낼수있게 슬개골 수술후 잘회복할수있게 가족이 되어주세요.",
+   "url": "https://cafe.naver.com/pajupetlove/134200?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBhanVwZXRsb3ZlIiwiYXJ0aWNsZUlkIjoxMzQyMDAsImlzc3VlZEF0IjoxNzk1NTUwODk4OTQyfQ.XvmagUefQFUpPEkTUyhsKPUJbv_rNIDyaNfPwzBjGMk&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "옆 공장에서 낳은 새끼 강아지 입니다. 견주는 할아버지라서 제가 대신 올립니다. 위치는 경기광주입니다. 근처 거리는 데려다드릴게요. 아빠견이 진짜 똑똑해서 애기들도 똑똑할거예요. 제가 주인이 아니라서 정확한 성별은 모릅니다. https://open.kakao.com/o/sYlkJmYi",
+   "url": "https://cafe.naver.com/angelsabandoned/119693?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFuZ2Vsc2FiYW5kb25lZCIsImFydGljbGVJZCI6MTE5NjkzLCJpc3N1ZWRBdCI6MTc5NTU1MDg5ODk0Mn0.o8rQra88cTHBlLi2qrZ48TkDF95-kSOf420Y3RpV-5M&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "자기 방석에서도 언니 침대에서도 편히 쉬는 에버 많은 아이들과 함께 지내는 게 힘든 에버에게 다음 릴레이 임보처와 평생 가족이 정말 간절해요. 행동사 에버 여아 6살 추정 배변패드 완벽 인식 분리불안이 심할 때만 가끔 배변 실수 있음 사람을 정말 좋아하는 껌딱지 스타일 입질·저지레 전혀 없음 다른 강아지가 귀찮게 굴어도 잘 참아주는 순둥이 온전히 사랑받는 ",
+   "url": "https://cafe.naver.com/pajupetlove/134199?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBhanVwZXRsb3ZlIiwiYXJ0aWNsZUlkIjoxMzQxOTksImlzc3VlZEF0IjoxNzk1NTUwODk4OTQyfQ.THrt-CD2Is_B6bHFXKZrY6Y6DM28fV1gdSwpMepwDoA&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "짧은 글, 동일 제목 반복글, 내용이 없는 글은 강퇴됩니다. 답변 : 네 3. 간단한 가입인사(또는 하고 싶은말) 해주세요. 답변 : 안녕하세요. 가족없이 살던 유기견 상두에게 좋은가족을 찾아주고싶습니다 잘 부탁드려요 ※ 위의 내용에 위반되는 글은 무통보 삭제하거나 규칙위반 게시판으로 옮겨드리며 규칙 위반시에는 손님으로 강등, 활동정지 또는 강퇴하므로 카페",
+   "url": "https://cafe.naver.com/angelsabandoned/119691?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFuZ2Vsc2FiYW5kb25lZCIsImFydGljbGVJZCI6MTE5NjkxLCJpc3N1ZWRBdCI6MTc5NTU1MDg5ODk0Mn0.RAccmtdDAOqVNHULtsVKqQbMNMtBDrO1TcMPuzfPqNA&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "트롯이의 사랑이 멈추지 않도록, 다음 가족을 찾습니다. 트롯이의 임보 종료일은 점점 다가오는데 날씨는 하루하루 추워지고, 아직 갈 곳을 찾지 못한 트롯이를 생각하면 하루하루 마음이 조급해집니다.... 릴레이 임보도, 평생 가족도 모두 환영합니다. 부디 이 글이 트롯이의 다음 가족에게 닿을 수 있도록 많은 관심 부탁드립니다. 확실한 마음이 있으시다면 전국 어",
+   "url": "https://cafe.naver.com/pajupetlove/134197?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBhanVwZXRsb3ZlIiwiYXJ0aWNsZUlkIjoxMzQxOTcsImlzc3VlZEF0IjoxNzk1NTUwODk4OTQyfQ.e53iiApTpJ3XKgFJzmhAPGh4nOTrjjoNCzW5Kqz4xnI&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "희망입니다 11/21 (토) 대구에서 제30회 희망연탄나눔 봉사가 있었습니다 서울, 경기, 강원, 대전, 대구, 부산 등 전국 각지에서 모인 65명의 봉사가족님들이 함께해주셨습니다 11/21 (토) #1. 제30회 희망연탄나눔 봉사후기 - 대구 ▷ https://cafe.naver.com/livemyear/87852 제30회 희망연탄나눔 봉사에 참여하신 가",
+   "url": "https://cafe.naver.com/livemyear/87854?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxpdmVteWVhciIsImFydGljbGVJZCI6ODc4NTQsImlzc3VlZEF0IjoxNzk1NTUwODk4OTQyfQ.GGUELQxriZFgOSEC1QtjZB42QO1NchJZJfMwysCm9bo&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "희망입니다 11/21 (토) 대구에서 제30회 희망연탄나눔 봉사가 있었습니다 서울, 경기, 강원, 대전, 대구, 부산 등 전국 각지에서 모인 65명의 봉사가족님들이 함께해주셨습니다 ▶️ 자원봉사자 채환님, 권인숙님, 김금애님, 김나연님, 김대현님, 김도현님, 김동희님, 김민지님, 김순자님, 김영득님, 김옥주님, 김인숙님, 김재성님, 김정임님, 김종석님, 김",
+   "url": "https://cafe.naver.com/livemyear/87852?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxpdmVteWVhciIsImFydGljbGVJZCI6ODc4NTIsImlzc3VlZEF0IjoxNzk1NTUwODk4OTQyfQ.MLveca-mVXTlLzQbgdn41MBH_-rEUcOvfzqi0v0HoU0&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "사람을 좋아하는 푸들 '라키' 특히 토실토실한 몸으로 즐겁게 움직이는 모습이 정말 귀여워요. 복슬복슬한 갈색 털까지 더해져 마치 움직이는 곰인형을 보는 듯한 사랑스러움이 있어요. 새로운 가족을 기다리는 푸들 '라키' 라키의 귀여운 모습을 사랑해 주고, 즐거운 놀이 시간과 편안한 일상을 함께 나누며 평생 따뜻하게 보듬어 주실 소중한 가족을 기다립니다. 입양문",
+   "url": "https://cafe.naver.com/angelsabandoned/119690?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFuZ2Vsc2FiYW5kb25lZCIsImFydGljbGVJZCI6MTE5NjkwLCJpc3N1ZWRBdCI6MTc5NTU1MDg5ODk0Mn0.ygOkMvXqDSSGloVlOiDu7I7Wk3zGKAovoxnwu3uwUh8&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "‘윈터’의 평생가족을 찾아요! 중성화O남아 / 2020년 추정 / 4.7 kg / 포메라니안 #행동사윈터 2026년 7월, 길에서 발견되어 시보호소로 이동 되었으나 아무도 찾지 않아 안락사 명단 올라간 윈터를 행동사에서 구조했어요. 두 달 간의 쉼터 생활 후 임보 기회가 오게 되어, 현재 다른 멍이 친구들과 함께 임보집에서 지내고 있어요. 윈터는 나만의 평",
+   "url": "https://cafe.naver.com/pajupetlove/134192?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBhanVwZXRsb3ZlIiwiYXJ0aWNsZUlkIjoxMzQxOTIsImlzc3VlZEF0IjoxNzk1NTUwODk4OTQyfQ.I9nhfVPpP50Pt4y1LLBOrkuWKM92clzJqpdptaN-JyQ&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "그리고 나이든 노견들이 해외로 가족찾아 떠나기도 했습니다. 각자의 자리에서 아이들 지키기에 기꺼이 시간과 품을 내어주고 있는... 매일 아침마다 줌님을 기다리고 어쩌다 봉사오는 이모삼촌들을 기다리고.. 너의 일상은 기다림의 연속.. 기다림 속에 마주한 돌봄이 너의... 후원계좌 국민은행 : ******-**-****** 행동하는 동물사랑 입금하실때는 꼭 '",
+   "url": "https://cafe.naver.com/pajupetlove/134191?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBhanVwZXRsb3ZlIiwiYXJ0aWNsZUlkIjoxMzQxOTEsImlzc3VlZEF0IjoxNzk1NTUwODk4OTQyfQ.2Ok4Ezg2RkEPCJdZojRq1apTymqQeuTBGKQOtCYdzRU&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "가족이 되신 것을 환영합니다. > 안녕하세요◡̎ 아래의 10개 질문에 성실히 답변 부탁드려요. > 넵!!! Q. 성함과 거주지역.연령대를 알려주세요~ > 한성민, 경기도 김포시, 20대 입니다! Q. 아지네 마을을 어떻게 알게되셨나요? ex)검색어.지인.타 카페 게시글 > 김포시 유기견 보호소 검색하다가 알게 되었습니다! Q. 유기동물 입양 경험 유.무와 ",
+   "url": "https://cafe.naver.com/ajinelove/41596?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFqaW5lbG92ZSIsImFydGljbGVJZCI6NDE1OTYsImlzc3VlZEF0IjoxNzk1NTUwODk4OTQyfQ.aTch2w91Nt1X5CDIyWvAhr6byWIQ67tW_USb5c6P6TA&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "고양이와 평생을 함께 할 새 가족을 찾습니다. 1. 입양자 정보 고다의 입양신청서를 사용하십니까? 답변: 네 추가 입양신청서나... 입양 가능 지역: 서울, 경기, 대전, 청주(그 외 지역 입양 가능합니다. 연락주세요) **대학생으로 구성된 동아리라, 저희가 아이를 데리고... 입양 조건(특별히 원하는 조건이나 입양인의 조건 사항등등): 충북대학교 수의과대",
+   "url": "https://cafe.naver.com/ilovecat/8336630?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imlsb3ZlY2F0IiwiYXJ0aWNsZUlkIjo4MzM2NjMwLCJpc3N1ZWRBdCI6MTc5NTU1MDg5ODk0Mn0.Wgjr1wW7kWPAhRmjOq5WJ1N2ls975aLyUd4R4o82KRY&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "리온/ 프렌치불독/ 5살/ 남아/ 중성화 및 예방접종 완료 리온이는 사람도 좋아하고 강아지나 고양이와도 잘 어울리는 정말 짧고 귀여운 아이입니다 산책도 정말 좋아해요 사회성도 좋고 귀여운 리온이에게 따뜻한 겨울을 선물해주실 새로운 가족을 찾습니다 현재 임보중이며 문의사항은 아래 번호로 연락주세요 010-****-****",
+   "url": "https://cafe.naver.com/angelsabandoned/119686?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFuZ2Vsc2FiYW5kb25lZCIsImFydGljbGVJZCI6MTE5Njg2LCJpc3N1ZWRBdCI6MTc5NTU1MDg5ODk0Mn0.dkHgAswX4F0segr1f9Z3r2dIRj_yMSDlcNXgWDFMj3Y&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "두유 / 프렌치불독/ 여아/ 4살/ 중성화 및 예방접종 완료 두유는 사람을 좋아하는 프렌치불독입니다 강아지나 고양이 다른 동물은 좋아하지 않아 외동으로 입양 보내고 싶습니다 어떤 알러지가 있는지는 모르나 알러지 반응이 오는 경우가 많아 저알러지 사료를 먹어야합니다 지인 대신해서 제가 임보중이며 자세한 문의는 아래 번호로 부탁드려요 두유의 새로운 가족이 되어",
+   "url": "https://cafe.naver.com/angelsabandoned/119685?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFuZ2Vsc2FiYW5kb25lZCIsImFydGljbGVJZCI6MTE5Njg1LCJpc3N1ZWRBdCI6MTc5NTU1MDg5ODk0Mn0.lEiQyJPDTOWZ4KlPuYzTkfLVVHOcKkKxRGNDb1ckV1A&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "뽀실이가 부담을 느끼지 않도록 아이의 속도에 맞춰 하나씩 알려주고 있어요. 아직 배우고 경험해야 할 부분은 있지만, 사랑과 시간을 가지고 기다려 주신다면 충분히 달라질 수 있는 아이입니다. 지금까지 경험하지 못했던 산책과 따뜻한 가족의 사랑을 뽀실이에게 알려주실 분을 찾고있습니다. *010-****-****으로 연락 부탁드립니다. *",
+   "url": "https://cafe.naver.com/angelsabandoned/119684?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFuZ2Vsc2FiYW5kb25lZCIsImFydGljbGVJZCI6MTE5Njg0LCJpc3N1ZWRBdCI6MTc5NTU1MDg5ODk0Mn0.2Yef6bm_IvOuD9pPRd0AhrJYBkXyrWVSKxmO1dK61vk&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "살리고 보호소 보내자는 마음으로 데려왔는데 집에서 키우니까 너무 귀여운거에요 그래서 지금 16년째 같이 살고 있어요 제가 결혼을 하게 되면서 신혼집에서 키우고 있는데 남편도 처음에는 동의를... 많은분들 관심 가져주셔서 너무 감사해요 자다 깨서 보니 댓글이 너무 많아 일일히 답글을 못 달아드리고 있지만 한분한분 다 읽고 있어요 자기 일처럼 조언해주셔서 감사",
+   "url": "https://cafe.naver.com/remonterrace/35179968?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJlbW9udGVycmFjZSIsImFydGljbGVJZCI6MzUxNzk5NjgsImlzc3VlZEF0IjoxNzk1NTUwODk4OTQyfQ.Q9zXlx2dlpCcpne0_xtDAZMXlHzdt9ld55lNp779hn8&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "RE고양이 2마리 7년째 키우고 있는데 털 많이 날리고 화장실 청소 잘 해줘야 돼요 예쁘고 귀엽고 정서적 교감도 나누고 있고 평생 책임 질 꺼지만 사실...귀찮고 케어가 힘들때도 있고.. 집 비울때 신경쓰이고.. 사랑하는 마음과 함께 끝까지 책임져 주겠다는 마음가짐도 중요하다",
+   "url": "https://cafe.naver.com/uvacenter/928892?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InV2YWNlbnRlciIsImFydGljbGVJZCI6OTI4ODkyLCJpc3N1ZWRBdCI6MTc5NTU1MDg5ODk0Mn0.NbcyVJ7acBJsPHEM_jyHvxWFPPf-Uq-U0cVacD2Kel8&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "새로운 가족을 맞이하기 위해 신중하게 입양을 알아보고 있는 예비 반려인입니다. 주변에 조언을 구할 곳이 마땅치 않아 선배 반려인분들의 경험담을 듣고자 글을 남깁니다. 보통 건강한 아이들을 입양하실 때 지자체 동물보호센터나 유기동물 보호소, 혹은 전문 켄넬/캐터리 중 어떤 경로를 가장 많이 이용하시는지 궁금합니다. 펫샵보다는 보호소 입양이나 책임감 있는 곳을",
+   "url": "https://cafe.naver.com/healingdogcat/1488980?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhlYWxpbmdkb2djYXQiLCJhcnRpY2xlSWQiOjE0ODg5ODAsImlzc3VlZEF0IjoxNzk1NTUwODk4OTQyfQ.hz91dbeVpzgw1yRPeh-kOCWFRArkhEH1W29lpDh8LDU&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "지인 할머니께서 키우시다 건강상 이유로 파양 당한 아이입니다. 접종o, 중성화x, 공주님입니다 성격도 엄청 순하고 짖음도 없어요 문의주세요 010********",
+   "url": "https://cafe.naver.com/angelsabandoned/119683?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFuZ2Vsc2FiYW5kb25lZCIsImFydGljbGVJZCI6MTE5NjgzLCJpc3N1ZWRBdCI6MTc5NTU1MDg5ODk0Mn0.HZAerEdOaqDwh59lDzKDImU3URwHJUIm5V8B_vAoBVQ&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "새로운 가족을 기다리는 시츄 '사랑이' 함께하는 모든 순간이 특별한 활동으로 가득할 필요는 없겠죠? 그저 곁에서 편안하게 쉬고, 부드럽게 쓰다듬어 주는 평범한 일상도 소중한 시간이 될 거예요. 사랑이의 조용한 성격을 이해하고, 다정한 손길과 꾸준한 관심으로 평생 함께해 주실 소중한 가족을 기다립니다. 입양문의 : 010-****-****",
+   "url": "https://cafe.naver.com/angelsabandoned/119681?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFuZ2Vsc2FiYW5kb25lZCIsImFydGljbGVJZCI6MTE5NjgxLCJpc3N1ZWRBdCI6MTc5NTU1MDg5ODk0Mn0.0dm0kllfeDSNayh7aCMKWzpOXoxBin3VdJ4jr-evNqQ&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "2017년, 한살된 폴더는 가족에게 버려져 길에서 떠돌다 구조되었고, 새로운 가족을 만났나 싶었지만 파양을 당해 다시 우리에게 돌아와 새로운 생활을 시작하게 된 폴더. 2019년부터 위탁처에서 생활하는 폴더는 앞으로의 시간은 어떤 모습일까요. 나이가 들어간다는 건 그만큼 돌봄에 필요한 손길과 비용도 늘어난다는 뜻이겠지요. 폴더가 지내는 위탁처에서는 폴더의 ",
+   "url": "https://cafe.naver.com/pajupetlove/134184?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBhanVwZXRsb3ZlIiwiYXJ0aWNsZUlkIjoxMzQxODQsImlzc3VlZEF0IjoxNzk1NTUwODk4OTQyfQ.sCkUbFbtdpntZMRJqH35WGEI8HpVoTC6D4zAia9DEK8&q=%eb%8c%80%ec%a0%84%20%ec%9c%a0%ea%b8%b0%eb%8f%99%eb%ac%bc%eb%b3%b4%ed%98%b8%ec%86%8c%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "우리 아파트를 조금 더 깨끗하고 살기 좋은 공간으로 만들기 위해 작은 환경정화 활동을 함께 해보려고 합니다. 시간 맞춰 주말에 단지 내에 버려진 쓰레기와 담배꽁초 등을 함께 줍는... 강제나 의무가 아닌, 자발적으로 참여하실 분들만 부담 없이 함께해 주세요. 참여를 희망하시는 분들은 댓글 부탁드립니다. 참여 인원에 맞춰 날짜와 시간을 함께 정해보겠습니다. ",
+   "url": "https://cafe.naver.com/suseongforest/3310?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InN1c2Vvbmdmb3Jlc3QiLCJhcnRpY2xlSWQiOjMzMTAsImlzc3VlZEF0IjoxNzk1NTUwOTQyMjUyfQ.V44L-Dda_F4JFVTPmUKvmB0ALKAmK0RmcNy7tHK-seg",
+   "engine": "naver_web",
+   "query": "유등천 정화 활동 참여자 모집",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "[모집] 우리 동네 청소년 보안관! \"청소년 유해환경 감시단\" 단원을 모집합니다! 안녕하세요, 서구청소년문화의집입니다. 우리 지역 청소년들이 더 안전하고 건강하게 자랄... 환경 정화: 불법 유해 매체물 제거 및 사각지대 위험 요소 발굴 ★ 참여 혜택: 활동하면 어떤 점이 좋나요? 우리 동네의 기분 좋은 변화는 물론, 활동에 따른 실속 있는... 새 창 열",
+   "url": "https://cafe.naver.com/bsseogudabang/40880?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJzc2VvZ3VkYWJhbmciLCJhcnRpY2xlSWQiOjQwODgwLCJpc3N1ZWRBdCI6MTc5NTU1MDk0MjI1Mn0.P2RE5n_ZGzdAGuZziPIVLpN2rUECdvyy8kpquZ1z1S8",
+   "engine": "naver_web",
+   "query": "유등천 정화 활동 참여자 모집",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "많은 참여 바랍니다. 2021년 7월 일 대전광역시 하천관리사업소장 1 채용개요 ❍ 사 업 명 : 2021 도심 속 푸른 물길 지킴이 사업/건강한 대전공동체(신중년) ❍ 채용인원 : 80명 ❍ 근 무 지 : 금강 및 3대하천(갑천, 유등천, 대전천) ❍ 근무기간... 환경정화, 조경관리, 시설물관리 등 하천관리업무 2 모집일정 채용분야 서류접수 참여자 발표",
+   "url": "https://www.donggu.go.kr/dg/attach/61ee440f6140304ba561a67f0924249c/9a9db098b587ee18b321c826f3707a49",
+   "engine": "naver_web",
+   "query": "유등천 정화 활동 참여자 모집",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "그래서 대전유기견보호소 방문을 생각하고 계신다면, 내가 입양 상담을 원하는지, 봉사를 해보고 싶은지, 아니면 방문 전 정보 확인이 먼저 필요한지를 미리 정리해두시면 도움이 될 것 같습니다. 입양은 설렘보다 생활 점검이 먼저였습니다 반려동물을 맞이하는 일은 순간의 감정보다 이후의 생활을 더 많이 생각해야 하는 일이었습니다. 가족 모두가 동의하는지, 집을...",
+   "url": "https://cafe.naver.com/fci/244338?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZjaSIsImFydGljbGVJZCI6MjQ0MzM4LCJpc3N1ZWRBdCI6MTc5NTU1MDk0ODQ0M30.AdtW1mH5geY2ahy0-0JPxVbsj3VfBgMRqvRa6b6mOIg",
+   "engine": "naver_web",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "태어나 처음으로 유기견 봉사활동을 다녀왔습니다. 계룡 근처로 알아보던 중 대전 송정동에 \"시온쉼터\"라는 사설 유기견 보호센터가 있더라고요! 해미르 아파트에서 아주 가까웠어요... ^^ 쿠팡에서 저렴한 대용량 사료 하나 사서 얼마전 토요일에 봉사활동 다녀왔습니다^^ 방진복, 고무장갑, 마스크는 필수입니다. 고무장화는 보호소에 있는 걸 사용하셔도 됩니다. (저",
+   "url": "https://cafe.naver.com/haemir119/303987?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhZW1pcjExOSIsImFydGljbGVJZCI6MzAzOTg3LCJpc3N1ZWRBdCI6MTc5NTU1MDk0ODQ0M30.IoO3m00efBMqzXy-26mL6c6bL6wcg3rBVpkE43HMC1c",
+   "engine": "naver_web",
+   "query": "대전 유기동물보호소 가족 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "주변에 은퇴하시고 집에만 계시기 답답해하시는 어르신들을 보면서 2027 노인일자리 118만개 소식을 직접 찾아봤는데, 지자체마다 모집일정이 다르고 유형에 따라 월 29만 원부터... 2027 노인일자리 공익활동형·역량활용형 자격조건 유형별 대표적인 활동 공익활동: 노노케어, 공공시설 봉사, 스쿨존 교통지도 역량활용: 보육시설 업무보조, 돌봄서비스 지원...",
+   "url": "https://blog.naver.com/coujubl/224488738825",
+   "engine": "naver_blog",
+   "query": "대전 가족센터 가족봉사단 모집",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "집반찬 나눔 사업을 진행했다. 이번 사업은 먹거리를 전달하는 데 그치지 않고 대상 가구의 건강과 겨울철 생활 여건까지 함께 살피는 방식으로 이뤄졌다. 이틀 동안 준비한 김치와 불고기 협의체 위원과 자원봉사자들은 이틀에 걸쳐 김치와 불고기를 비롯한 밑반찬을 만들었다. 준비한 반찬에 제철 과일까지 더해 각 가구에 전달할 꾸러미를 구성했다. 여러 사람이 함께 음",
+   "url": "https://cafe.naver.com/jeonbukzine/1143?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Implb25idWt6aW5lIiwiYXJ0aWNsZUlkIjoxMTQzLCJpc3N1ZWRBdCI6MTc5NTU1MTY4MTQ4OX0.gTZqMoXS0I9xVGdiDkaRstQhfCSpj6DkNifLn2JnyNk&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "모집 대상 지역 서울·경기·인천 강원특별자치도 대전·세종·충청남북도 광주·전라남도·전북특별자치도 대구·경상북도 부산·울산·경상남도 제주특별자치도 현재 강원도와 전라북도는 지역 운영진이... 카페 활성화 및 회원 관리 전국 정모 기획 및 진행 지역별 번개 모임 활성화 봉사활동 및 나눔 행사 진행 세미나 및 각종 행사 기획 기타 카페 발전을 위한 운영 활동 ■",
+   "url": "https://cafe.naver.com/kapamax/226340?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImthcGFtYXgiLCJhcnRpY2xlSWQiOjIyNjM0MCwiaXNzdWVkQXQiOjE3OTU1NTE2ODE0ODl9.Ug5HxwK5HcBZQSnmpCg5S1Q62RihnMTdulOvS4A5tpE&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "^^ 모집 대상 : 도담 회원 및 봉사활동 희망자 활동 내용 : 김장 준비, 김치 담그기, 포장 및 현장 정리 등 신청 방법 : 봉사 참여 신청서 작성 신청방법 : 댓글 또는 도담도담 대전댁 010-****-**** 행사 안내 ✅ 일시 : 2026년 12월 07일(월) 09:00~15:00 ✅ 장소 : 대전사회적경제혁신타운 3층 공동작업장 김장나눔 후원금 ",
+   "url": "https://cafe.naver.com/dodamdadam1004/2811502?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZGFtZGFkYW0xMDA0IiwiYXJ0aWNsZUlkIjoyODExNTAyLCJpc3N1ZWRBdCI6MTc5NTU1MTY4MTQ4OX0.JKNzmseQL6Ez_qLkd3nPBa3B-vpF3GtHnKTlcrFpY8U&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "그러나 여호와의 증인을 오늘날 우리가 알고 있는 모습으로 만든 결정적인 변화는 제1차 세계대전 무렵에 일어났습니다. 조지프 러더퍼드가 지도권을 장악하면서부터입니다. 러더퍼드는 여호와의 증인에게 권위주의적인 조직 운영 방식을 도입한 인물입니다. 그는 찰스 러셀이 쓴 것으로 소개된 이른바 일곱 번째 책을 내놓기도 했습니다. 이 과정에서 조직 내부에 큰 분열이 ",
+   "url": "https://cafe.naver.com/jworkr/17962?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp3b3JrciIsImFydGljbGVJZCI6MTc5NjIsImlzc3VlZEF0IjoxNzk1NTUxNjgxNDg5fQ.FFyFmIjelrGrRYGkO3qY6RCFIoQfv95gUimk4v7Axko&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "여러분의 따뜻한 손길과 아름다운 봉사정신이 있었기에 김장체험 행사가 더욱 빛날 수 있었습니다. 또한 먼 길 마다하지 않고 덕산 주만자치워원님들과 대전 마련동에서 함께해 주신 모든 분들께도 깊은 감사의 마음을 전합니다. 김장 김치 한 포기 한 포기에는 정성이 담기고, 함께한 시간 하나하나에는 사랑과 우정이 쌓였습니다. 추운 날씨 속에서도 함께해 주신 여러분이",
+   "url": "https://cafe.naver.com/ssangjipangi/906?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNzYW5namlwYW5naSIsImFydGljbGVJZCI6OTA2LCJpc3N1ZWRBdCI6MTc5NTU1MTY4MTQ4OX0.whPWpXgzrF8BxS6D0AODM3MAZXYiVF28TCSaq3R5czQ&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "오늘 대전 티타임에 참석한 예비 원장입니다. 사실 아직은 디딤돌 카페가 낯설고 활용도 잘 못 하는 '베이비 회원'인데요. 티타임에 가면... 특히 가져오신 선물 꾸러미를 설명하실 때는 요즘 인기 절정인 남대문 스카프 사장님을 능가하실 정도여서 덕분에 한참을 웃었습니다.... 눈도 오고 유독 추웠던 오늘, 따뜻한 나눔과 배움이 가득한 소중한 시간 만들어주셔서",
+   "url": "https://cafe.naver.com/gongbangddd/175001?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvbmdiYW5nZGRkIiwiYXJ0aWNsZUlkIjoxNzUwMDEsImlzc3VlZEF0IjoxNzk1NTUxNjgxNDg5fQ.cnM8vyrtOraJkZJf5idijqIZTgYMXLMN8aV1VcFhi4g&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "실내 습도는 40~50% 정도로 유지하고 충분한 수분 섭취와 주기적인 환기를 통해 쾌적한 환경을 만들어 주는 것이 좋습니다. 대전 비염 한약 잘하는집 마녀수프를 한국에 처음 소개한게 동안미소 한의원 김진혁 원장님 입니다 당지수 다이어트로 130개국 잡지 컬럼에 실렸습니다 공중파 여러프로그램에도 소개 되었구요 SBS 다이어트책 의학 감수도 했습니다 원내 벽사",
+   "url": "https://cafe.naver.com/dongwonmiz/935266?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvbmd3b25taXoiLCJhcnRpY2xlSWQiOjkzNTI2NiwiaXNzdWVkQXQiOjE3OTU1NTE2ODE0ODl9.tPe4ce1bHEOcf1yd7lIML0tfEXAx6tugEc0_HXw8-JA&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "05(목) 11:00 2026 아름다운 나눔 사랑의 김장 담그기 행사 2026.11.05(목) 14:00 제68주년 한국생활개선회원 전국대회 2026.11.06(금) 11:00 사회복지공동모금회 경상북도지회장 이·취임식 2026.11.06... 13(금) 14:00 2026 경상북도 자원봉사대회 2026.11.14(토) 09:00 박정희 대통령 탄신 109",
+   "url": "https://cafe.naver.com/jungamironware/21736?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTczNiwiaXNzdWVkQXQiOjE3OTU1NTE2ODE0ODl9.MJC5Pn-hk5BY2PFwWqnXwbUMpYb6W0iD-_QWoiTWSFg&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "#충남고시정보 구분 고시/공고 번호 제목 담당부서 게시일 공고 2026-2083 (문체부 돔구장 후보지 선정 공모 관련) 충청남도 후보지 공모 신청 관련 주민설명회 개최 공고 문화체육관광국 체육진흥과 2026-11-24 공고 2026-2082 「제64회 충청남도 문화상 」수상자 선정 공고 문화체육관광국 문화정책과 2026-11-24 공고 2026-2079 ",
+   "url": "https://cafe.naver.com/jungamironware/21734?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTczNCwiaXNzdWVkQXQiOjE3OTU1NTE2ODE0ODl9.7Ncba_TpwJe53ItZT7Pn8WkJb2qsFDY9HS0uG8nNzDU&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "2026년 나눔과 봉사로 빛나는 밤 행사 시장 문학경기장 2026-11-26 15:10 2026년 바르게살기운동 인천회원대회 시장 라마다송도호텔 2026-11-26 14:00 제110회 대한민국교육감협의회 총회 시장 센트럴파크호텔... 행정부시장 대전광역시청 2026-11-24 10:00 제50회 국무회의 시장 청와대 2026-11-23 10:00 제314",
+   "url": "https://cafe.naver.com/jungamironware/21728?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTcyOCwiaXNzdWVkQXQiOjE3OTU1NTE2ODE0ODl9.xO2zenSbZa-KF4kxyLF5wOqGn8Mhgz7SLxd0NWOhHpo&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "국회의원 김동아 8시간전 [261123] 조희대 대법원장 탄핵소추 추진단 기자간담회 조희대 대법원장 탄핵소추 추진단 기자간담회에서 부단장으로 함께했습니다. 그동안 우리 민주당은 사법부의 독립과 국론 분열을 우려해 탄핵을 자제해 왔습니다. 그러나 내란에 대한 책임을 외면하고 헌정질서를 훼손하는 판결까지 더 이상 묵과할 수 없습니다. 이번 탄핵소추는 사법부를 ",
+   "url": "https://cafe.naver.com/jungamironware/21708?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTcwOCwiaXNzdWVkQXQiOjE3OTU1NTE2ODE0ODl9.gEkJ_pNVHsK8BVmu-N8iHOHy2P-teTkobaeGqkdIGJ0&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "[더벨][변곡점 선 이디야] 외형 축소 속 브랜드 리뉴얼로 반등 모색 2019년에는 대전 배재대점을 열며 국내 커피 프랜차이즈 최초로 3000호점을 돌파했다. 가맹망이 커지면서 본사가 원두와 식자재를 공급하는 매장도 함께 늘었다. 늘어난 수요에 대응하기 위해 2020년 드림팩토리와 드림물류센터를 준공했다. 전국 매장에 공급할 원두를 [변곡점 선 이디야] 외",
+   "url": "https://cafe.naver.com/sbiznews/15109?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNiaXpuZXdzIiwiYXJ0aWNsZUlkIjoxNTEwOSwiaXNzdWVkQXQiOjE3OTU1NTE2ODE0ODl9.Wv08B6Q1klZo12CJrYyNTaMGGofN3fsfiakAVx5xt4I&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "모집인원이 10팀으로 제한되어 있으니 참여를 원하시는 분들은 신청 가능 여부를 확인해보시기 바랍니다^^ #충청맘 #대전맘 #세종맘 #청주맘 #천안맘 #충남맘 #충북맘 #천안행사 #천안가족체험 #천안김장체험 #천안시청소년수련관 #우리동네행복김장 #행복김장 #김장김치만들기 #가족김장체험 #청소년체험활동 #천안청소년활동 #가족참여프로그램 #김장체험 #김장김치기부",
+   "url": "https://cafe.naver.com/ccmomedu/6085?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNjbW9tZWR1IiwiYXJ0aWNsZUlkIjo2MDg1LCJpc3N1ZWRBdCI6MTc5NTU1MTY4MTQ4OX0.lDgXy3X21GXVQQiqnJpdt1JARqyobIVzsQHkBJJDPNo&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "《역대명신주의(歷代名臣奏議)》 권11 〈효친(孝親)〉 해설 1. 역사적 배경: 남송 광종(光宗)과 효종(壽皇)의 '과궁(過宮)' 갈등 이 권은 남송 3대 황제 광종(趙惇, 재위 1189~1194) 시기에 신하들이 올린 상소들로만 구성되어 있다. 광종은 부친인 효종(壽皇聖帝, 1189년 양위 후 퇴위)이 살아 계실 때, 문안 인사차 중화궁(重華宮, 효종의 거",
+   "url": "https://cafe.naver.com/nakmin733212/13273?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5ha21pbjczMzIxMiIsImFydGljbGVJZCI6MTMyNzMsImlzc3VlZEF0IjoxNzk1NTUxNjgxNDg5fQ.Af_g7Bldsf6dEa-gHTPShxC7AJNteQ3lkfFFTWPGUww&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "《역대명신주의(歷代名臣奏議)》 권10 〈효친(孝親)〉 명(明) 양사기(楊士奇) 등이 편찬함 1. 후위(後魏) 효문제(孝文帝) 때 — 양춘(楊椿)의 간언 후위 효문제 때 문명태후(文明太后)가 세상을 떠나자, 고조(효문제)는 닷새 동안 음식을 입에 대지 않았다. 중부조(中部曹) 양춘이 나아가 간언하였다. “폐하의 지극하신 천성은 효성이 순임금(有虞)을 뛰어넘으",
+   "url": "https://cafe.naver.com/nakmin733212/13272?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5ha21pbjczMzIxMiIsImFydGljbGVJZCI6MTMyNzIsImlzc3VlZEF0IjoxNzk1NTUxNjgxNDg5fQ.5VpbhCIkEp0YyKXCTV5dC3mBPkxA170UhjzU_Kf0AJQ&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "태국 사람들은 자신들 이외에 바깥에서 온 사람을 오래된 세 개의 이름으로 나눕니다. 중국 사람은 '찐', 서양 사람은 '파랑', 인도나 중동, 말레이 쪽 사람은 '캑'이라고 부르죠. 이 세 단어를 어원부터 따라가 보면 태국이라는 나라가 수백 년 동안 바깥 세계를 어떻게 받아들이고 어디에 선을 그어 왔는지가 꽤 또렷하게 보입니다. '캑(แขก)'의 뿌리는 한",
+   "url": "https://cafe.naver.com/taesarang/896968?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRhZXNhcmFuZyIsImFydGljbGVJZCI6ODk2OTY4LCJpc3N1ZWRBdCI6MTc5NTU1MTY4MTQ4OX0.Ee2tPsT9_JWVrhFhpXJASin8C3rCYzUAlFx8ugk9NBM&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "식사가 이어지는 동안 행사장에는 함께 음식을 나누는 따뜻한 분위기가 형성됐고, 봉사자들은 각자의 역할을 맡아 차분하게 어르신들을 맞았다. 전문 조리기술을 지역사회로 한국조리사협회중앙회 대전광... 행사장에서는 배움과 체험, 식사 나눔이 자연스럽게 이어졌고, 참석자들이 각 순서에 참여하며 오전 시간을 함께 보냈다. 개관 20주년 행사는 세월의 흐름만을 기념하",
+   "url": "https://cafe.naver.com/daejeonzine/1125?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRhZWplb256aW5lIiwiYXJ0aWNsZUlkIjoxMTI1LCJpc3N1ZWRBdCI6MTc5NTU1MTY4MTQ4OX0.AsWoOnqsEtwiDecShguZWk92Y8rzR9J-UOecNiWXzeQ&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "<2026.11.20.금.손쓰담#687> <2026.11.21.토.손쓰담#688> <2026.11.22.일.손쓰담#689> *명상 :행.주.좌.와. 어.묵.동.정 =>깨.지.알.받.흘 흐름속에서의 명상! *걷기명상 (7단계) 1단계:왼발.오른발 하며 알아차림하기! 2단계:왼발 나갈때 하나, 오른발 나갈때 둘 말하기 3단계:왼발 나갈때 왼축. 오른발 나갈때 ",
+   "url": "https://cafe.naver.com/livemyear/87855?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxpdmVteWVhciIsImFydGljbGVJZCI6ODc4NTUsImlzc3VlZEF0IjoxNzk1NTUxNjgxNDg5fQ.-ubpUv5w4heswSU1-A7BE1OVDPVy2vla9ri-gaQPGCM&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "각 직종별 교사들이 보유한 전문 재능이 워낙 다양해 어떤 방식으로 사회에 환원할지 꾸준히 고민해 왔습니다. 이전부터 협의회 자체적으로 이·미용, 메이크업, 사진 촬영, 의료활동 지원 등 재능기부 활동을 이어왔지만, 이제는 이러한 나눔의 가치를 지역사회에 더욱 널리 알리고 확산해야 겠다는 뜻이 모였습니다. 마침 2026년 천안시자원봉사센터와 업무협약(MOU)",
+   "url": "https://cafe.naver.com/he7she/2414?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhlN3NoZSIsImFydGljbGVJZCI6MjQxNCwiaXNzdWVkQXQiOjE3OTU1NTE2ODE0ODl9.6KgEjIbVWYBWCa-swdNjMopkLjlj8VUz3bVRtuRMg5g&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "김장 나눔행사 - 제5회 강동구의회 의장배 탁구대회 - 국제로타리3640지구 - 서울강동로타리클럽 김장행사 - 제3회 강동구의회 의장배... 아내가 밖에서 봉사 김장만 하지 말고 집 김장도 담그라고 한 말이 갑자기 찡하게 다가왔습니다. 그래서 주말에 더욱 최선을 다해서... 건강한 북구, 세계로 뻗어가는 우리 김치!] 오늘 제17회 북구청장배 볼링대회와 대",
+   "url": "https://cafe.naver.com/jungamironware/21672?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTY3MiwiaXNzdWVkQXQiOjE3OTU1NTE2ODE0ODl9.O1BB_5z6JzzhSft4QfnDapD_9L-HdrHzJkXsbJRfRKI&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "희망입니다 11/21 (토) 대구 김광석길 투썸플레이스 앞에서 [백만그루 나무심기 프로젝트] 채환님의 2,068차 희망버스킹이 있었습니다 백만그루 나무심기 프로젝트 연탄나눔 봉사에 이어 펼쳐진 또... 나누어 봉사가 진행되었습니다 즐거운 노랫소리와 함성을 뒤로하고 각자의 자리에서 희망을 외쳐주셔서 고맙습니다 서울, 경기, 대전, 김해, 부산.. 그리고 베트",
+   "url": "https://cafe.naver.com/livemyear/87848?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxpdmVteWVhciIsImFydGljbGVJZCI6ODc4NDgsImlzc3VlZEF0IjoxNzk1NTUxNjgxNDg5fQ.OaaahF0KFjxCK8GsUz5hoahHmChzQwZoekugBJWmqyA&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "친구들과 오랜만에 골프를 즐기기로 했다면 어떤 코스가 좋을지 고민하게 됩니다. 산을 배경으로 펼쳐지는 골프장에서 시원하게 티샷을 하고, 함께 걸으며 이야기를 나누는 시간은 골프의 또 다른 즐거움이죠. 특히 넓은 페어웨이와 완만한 지형을 갖춘 코스에서는 자신의 스윙을 안정적으로 점검할 수도 있습니다. 충남 계룡시에는 계룡산 자락에 자리한 정규 18홀 육군 골",
+   "url": "https://cafe.naver.com/parkgolfmanse/40?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBhcmtnb2xmbWFuc2UiLCJhcnRpY2xlSWQiOjQwLCJpc3N1ZWRBdCI6MTc5NTU1MTY4MTQ4OX0.tYzaRfiVGAw-7A8s_JslKmIyUAXIC7WopmWN_5LOCI8&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "은행잎이 쌓여 노란 양탄자길 ♤맨발걷기국민운동본부 오픈 단톡방 참여를 원하는 분은 댓글 남겨 주시면 안내해드리겠습니다. ♤오늘 톡방에서는 어떤 이야기들이 오갔을까요? ☆이소명 ☆ 마치 민간 해병대가 출정식을 갖는 모습이었습니다. 지구촌 어디에도 이와 같은 선언문 낭독으로 동절기를 강인하게 보내자고 선포한 곳이 또 있을까요. 한두 해도 아니고 10여 년째 (",
+   "url": "https://cafe.naver.com/walkingbarefoot/62236?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndhbGtpbmdiYXJlZm9vdCIsImFydGljbGVJZCI6NjIyMzYsImlzc3VlZEF0IjoxNzk1NTUxNjgxNDg5fQ.VQKx1HvFV-QZ8DIhl1HWHFxfUi8T9wYyq4JSHBzXKpA&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "옛날 오경 환영은 친히 제왕의 스승이 되셨고, 그 아들 욱은 어릴 때부터 숭상하여 아버지의 가업을 이어 전했으므로 다시 교위로서 선제께 들어가 가르쳤으니, 부자가 궁중에서 봉사하며 사대를 거쳤으며, 이제 백발이 되도록 예를 좋아하시어 경학과 행실이 돈독하고 갖추어졌습니다. 또 종정 유방은 종실의 표상이요 《시경》에 능통하여 선제께서 포상하신 바이니, 마땅히",
+   "url": "https://cafe.naver.com/nakmin733212/13194?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5ha21pbjczMzIxMiIsImFydGljbGVJZCI6MTMxOTQsImlzc3VlZEF0IjoxNzk1NTUxNjgxNDg5fQ.Rk2PatqolV_4WT_34L5Y4W18hPM6K4WGgPrLfjpPdsU&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "2026-11-19 김정무 조회수 : 303 김해공예창작지원센터 김상성 학예사, ‘대한민국분청도자대전’ 대상 수상… 2년 연속 전국 공모전 제패 김해공예창작지원센터 김상성 학예사, ‘대한민국분청도자대전’ 대상 수상… 2년 연속 전국 공모전 제패 - 출품작 '분청어의 꿈'으로 문화체육관광부장관상·상금 1,000만 원 거머쥐어… - 16세 입문해 30여 년 외",
+   "url": "https://cafe.naver.com/jungamironware/21663?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTY2MywiaXNzdWVkQXQiOjE3OTU1NTE2ODE0ODl9.fjYVrY48Q3hkBJEByNa52dqmAs5s7AWJ0u8_teZUdNk&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "그 당시의 세계는 제1차 세계대전의 참혹한 상처에서 아직 회복되지 못하고 있었습니다. 수많은 나라가 폐허가 되었고, 새로운 무기와 전쟁 기술이 등장하였습니다. 전쟁이 남긴 공포와 불안은 여전히 사람들의 마음속에 생생하게 남아 있었습니다. 동시에 근대적 사고방식이 인간 정신 안으로 깊이 스며들었습니다. 사람들은 인간 이성과 지성이 무한한 발전을 이룰 수 있다",
+   "url": "https://cafe.naver.com/ofmho1101/3413?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im9mbWhvMTEwMSIsImFydGljbGVJZCI6MzQxMywiaXNzdWVkQXQiOjE3OTU1NTE2ODE0ODl9.jtPsMTI7g7K4mE52MMQkmgmD811abYskfEpNu_LE_iY&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "26 맨국본 종강식, 대모산 한솔공원 ♤맨발걷기국민운동본부 오픈 단톡방 참여를 원하는 분은 댓글 남겨 주시면 안내해드리겠습니다. ♤오늘 톡방에서는 어떤 이야기들이 오갔을까요? ☆원양순 ☆ 자연치유의 힘을주는 숲 땅속의 자유전자와 나무에서 피톤치드가 넘실대는 황톳길과 울창한 나무가 있는 자랑스런 근린공원에 나왔습니다. 맨발걷기 접지가 몸속의 활성산소를 중화시",
+   "url": "https://cafe.naver.com/walkingbarefoot/62204?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndhbGtpbmdiYXJlZm9vdCIsImFydGljbGVJZCI6NjIyMDQsImlzc3VlZEF0IjoxNzk1NTUxNjgxNDg5fQ.9rfTRqSd1kM-3M443NiIUxhZOOT62HqeEAOrhFzkRYI&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "문헌통고(文獻通考) 권48 직관고(職官考) 2 — 삼공총서(사보·이대 부록), 태사, 태부, 태보, 태재, 태위, 사도, 사공, 대사마, 삼고, 삼공·삼사 이하 관속 총서 삼공총서(사보·이대 부록) 《기》에 이르기를, \"우·하·상에는 사·보가 있고 의·승이 있어 사보 및 삼공을 설치하되 〈《상서대전》에 이르기를 \"옛날 천자에게 반드시 사린이 있으니 앞을 의",
+   "url": "https://cafe.naver.com/nakmin733212/13121?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5ha21pbjczMzIxMiIsImFydGljbGVJZCI6MTMxMjEsImlzc3VlZEF0IjoxNzk1NTUxNjgxNDg5fQ.Qa6pRIqRgTfAydZ4tBo-YYLUfHLPQc1JuReVKTMwEmM&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "문헌통고(文獻通考) 권40 학교고(學校考) 1 — 태학(太學) ○ 태학(太學) 《왕제(王制)》에 이르기를, \"유우씨(有虞氏)는 국로를 상양에서 기르고 서로를 하양에서 길렀다. 하후씨는 국로를 동서에서 기르고 서로를 서서에서 길렀다. 은인은 국로를 우학에서 기르고 서로를 좌학에서 길렀다. 주인은 국로를 동교에서 기르고 서로를 우양에서 길렀다. 〈우양은 나라 ",
+   "url": "https://cafe.naver.com/nakmin733212/13113?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5ha21pbjczMzIxMiIsImFydGljbGVJZCI6MTMxMTMsImlzc3VlZEF0IjoxNzk1NTUxNjgxNDg5fQ.k4HBUOM6dSayQgRNeWd5PHU2K97tnp1Djf6cTsHKAK0&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "문헌통고(文獻通考) 권32 선거고(選舉考) 5 — 거사(舉士) ○ 거사(舉士) 고종 건염 원년에 조서하시기를, \"국가에서 과목을 설치하여 사람을 취하고 작위를 제정하여 선비를 대우하되 세월이 음양의 믿음과 같고 법령이 금석의 굳음과 같다. 일찍이 오랑캐가 경읍을 침범한 까닭으로 사방 준걸을 이르게 하여 이미 삼 년 기한이 어긋났으니 가까이 유사에 신칙하여 ",
+   "url": "https://cafe.naver.com/nakmin733212/13105?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5ha21pbjczMzIxMiIsImFydGljbGVJZCI6MTMxMDUsImlzc3VlZEF0IjoxNzk1NTUxNjgxNDg5fQ.0e5mVBkKJmE1L4LPh1rf9pM0Y4EZyzrNoTvAyoJHWl0&q=%eb%8c%80%ec%a0%84%20%eb%82%98%eb%88%94%20%ea%be%b8%eb%9f%ac%eb%af%b8%20%eb%a7%8c%eb%93%a4%ea%b8%b0%20%eb%b4%89%ec%82%ac&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "<멋진 신세계>의 꿈 영국의 위대한 소설가 올더스 헉슬리(Aldous Huxley)가 지금으로부터 거의 100년 전에 발표한 소설 <멋진 신세계(Brave New World)>는 서기 2540년을 시대적 배경으로 요즘 AI 등장과 함께 우리가 안고 있는 문제들을 이야기로 풀어냈다. 소설 속에 나오는 ‘세계국가’에서는 굶주림도, 질병도, 노화도, 전쟁도 없다",
+   "url": "https://blog.naver.com/sungyoungso/224490819351",
+   "engine": "naver_blog",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "1 가락바퀴는 실을 만드는 도구니까 옷을 만들기 시작한 신석기에 해당한다. 반달 돌칼은 벼 이삭 베는 도구니까 벼농사를 시작한 청동기에 해당한다. 가락바퀴랑 반달 돌칼이... 삼국 통일 story 660: 1차 세계대전이 사라예보 사건 때문에 시작한 것처럼, 김춘추 딸을 죽인게(대야성 전투) 삼국통일의 발발 원인이다. 당시 대야성의 성주는 고타소의 남편이자",
+   "url": "https://blog.naver.com/yongjun0613/224490813542",
+   "engine": "naver_blog",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "영업시간의 경우 봉사활동으로 월 1회 영업시간이 변경될수있다고하고 일단 기본적으로 나와있는 시간을 소개해드리겠습니다. 월화수목금토일 10:00 - 20:00 연락처 : 0507-1356-9198 대전미용실 둔산동 남자머리 에이노이헤어 대전둔산2호점은 차분하게, 섬세하게 ,따뜻하게 , 당신답게 나다운게 무엇일까 ? 나다운것은 못 찾을지언정 나에게 맞는 머리스",
+   "url": "https://blog.naver.com/abc931101/224490756460",
+   "engine": "naver_blog",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "대전 밖에 서서 몇 리에 걸쳐 이어진 붉은 등롱을 바라보는 태자의 가슴 위로 한 겹의 실망감이 내려앉았다. 어느 한 순간, 그는 황제가 차라리 이대로 죽어 버렸으면 가장 좋겠다고 바랐다. 그랬다면 더는 다툴 필요도 없이 태자로서 당연히 보위를 이을 수 있었을 테니 말이다. 황제의 노련하고 깊은 계책은 모든 이를 몹시도 지치게 만들고 있었다. 한편 위기를 넘",
+   "url": "https://blog.naver.com/jiro1119/224490620404",
+   "engine": "naver_blog",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
+  {
+   "title": "'환자가 여름을 나는 법'이라는 제목과 함께 사진만이 남아있는 임시저장글 덕분에... 여름을 어떻게 났는지 알 수가 없다! (?) 견뎌내기 힘든 일상엔... 제철 과일을 먹어... 여름이 힘들어도 여름에만 먹을 수 있는 제철 과일을... 신비복숭아와 골드키위 체리 입술 염증이 올라와도... 여름을 지나오며 알게 된 사실! 알고보니 과일 알러지는 없댄다 그냥",
+   "url": "https://blog.naver.com/j0urney_11_8/224490587093",
+   "engine": "naver_blog",
+   "query": "대전 나눔 꾸러미 만들기 봉사",
+   "first_seen": "2026-11-25T05:07:48+09:00"
+  },
   {
    "title": "저녁 가족·지인 교류 및 휴식 오후 10시 전후 충분한 수면 하루 1~2시간부터 시작하고 의료진과 상의하여 활동량을 조절하는 것이 좋습니다. 병동 내 환자 모집, 모금, 사업 활동은 병원의 허가 없이... ansanse.or.kr+1 031-369-1716 공식 홈페이지 안산시자원봉사센터 지역사회 봉사, 기업 사회공헌, 교육봉사 등의 협력을 문의할 수 있습",
    "url": "https://cafe.naver.com/worldkoreaking/122?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indvcmxka29yZWFraW5nIiwiYXJ0aWNsZUlkIjoxMjIsImlzc3VlZEF0IjoxNzk1NTQ3MzU0NDA0fQ.ZECzs2D_IsbV_ajvKE1NZi9I5XMUs02C4xFG8-XvWXY&q=1365%20%eb%8c%80%ec%a0%84%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
@@ -20574,553 +21119,8 @@
    "engine": "naver_blog",
    "query": "대전 가족센터 가족봉사단 모집",
    "first_seen": "2026-11-23T23:07:51+09:00"
-  },
-  {
-   "title": "모집분야별 근무지와 인원, 원급·선임급 자격요건, 가점, 국방기술진흥연구소 연봉과 월급, 전형별 평가 기준, 제출서류, 전체 일정은 물론 자주 묻는 질문(FAQ)까지 빠짐없이... 벤처04 대전국방벤처센터 운영 및 중소·벤처기업 지원 원급(8호) 대전 1명 평가01 방위산업육성 지원사업 과제평가 원급/선임급(18호) 대전 1명 평가02 정보시스템 구축·관리",
-   "url": "https://blog.naver.com/kimzabok/224488732718",
-   "engine": "naver_blog",
-   "query": "대전 가족센터 가족봉사단 모집",
-   "first_seen": "2026-11-23T23:07:51+09:00"
-  },
-  {
-   "title": "인천광역시, 대구광역시, 대전광역시, 광주광역시 등 전국 주요 지자체에서는 출산 축하금이나 출산선물 제도를 각각 운영... 출산지원금 신청방법은 주민센터를 방문하거나 정부24 플랫폼을 통해 원스톱으로 처리할 수 있으므로 출생신고 시 함께... 기초생활수급자, 차상위계층, 한부모가족은 물론 다자녀 가구의 경우 조건에 따라 기저귀 바우처 및 조제분유 구매 비용",
-   "url": "https://sunphs2002.tistory.com/2936",
-   "engine": "naver_blog",
-   "query": "대전 가족센터 가족봉사단 모집",
-   "first_seen": "2026-11-23T23:07:51+09:00"
-  },
-  {
-   "title": "방문간호센터에서 방문간호사 또는 방문간호조무사 의 채용 공고가 올라와 있는데, 방문요양보다는 상대적으로 의뢰... 지역 별로는 서울 16건, 경기도 30건으로 가장 많고, 다음으로 부산 11건, 대구 5건, 인천 5건, 광주 3건, 대전 2건, 울산 2건... LPN중앙봉사단, 커뮤니티케어 간호조무사협의회, 남북보건의료협력위원회, 국/공립병원 특별위원회..",
-   "url": "https://seoulwelfare.tistory.com/871",
-   "engine": "naver_blog",
-   "query": "대전 가족센터 가족봉사단 모집",
-   "first_seen": "2026-11-23T23:07:51+09:00"
-  },
-  {
-   "title": "스피노자는 ”나는 내일 지구가 멸망한다고 해도 한 그루의 사과나무를 심겠다“는 말로 유명한 네덜란드 철학자입니다, 이 말은 그의 철학인 범신론적 세계관에 뿌리를 두고 있습니다. 범신론은 신과 자연을 동일시하며, 신은 만물의 내재적 본질입니다. 인간과 자연 모두 신의 일면이며, 모든 존재가 신의 필연적 법칙에 따라 존재합니다. 신은 초월자가 아니며, 자연..",
-   "url": "https://blog.naver.com/sion9191/224488961489",
-   "engine": "naver_blog",
-   "query": "대전 나무심기 시민 참여",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "27 : 판문점에서 정전협정 서명(전쟁 발발 3년 1개월 2일 만) ━━━━━━━━━━━━━━━ ▪ 1945~1949 · 소련이 짊어진 전쟁의 무게 인물: 이오시프 스탈린, 김일성 / 사건: 2차대전 사망자, 성비 불균형 · 2,700만 명의 희생 : 2차대전 동안 소련 시민 2,700만 명 이상이 목숨을 잃은 것으로 추정된다. 전쟁 직후 20~30대 소련",
-   "url": "https://blog.naver.com/doitanything82/224488939715",
-   "engine": "naver_blog",
-   "query": "대전 나무심기 시민 참여",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "1️⃣ “하루 24시간을 다시 산다는 것 — 아널드 베넷 <더 늦기 전에 인생의 효율>의 핵심 철학” 2️⃣ “시간 관리의 끝은 생산성이 아니다 — 멘탈 효율에서 고요함과 사랑까지” 3️⃣ “성공보다 충만한 인생을 위하여 — <더 늦기 전에 인생의 효율> 심층 해설” 4️⃣ “당신은 시간을 쓰고 있는가, 삶을 살고 있는가? — 아널드 베넷이 던지는 질문” ",
-   "url": "https://blog.naver.com/twainnnn/224488881232",
-   "engine": "naver_blog",
-   "query": "대전 나무심기 시민 참여",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "이수만의 지난 10여 년 행보와 최근 A2O의 4D 가우시안 스플래팅(4DGS) 전략, 거기에 그가 사비를 털어 집착해 온 '중동·몽골 사막 나무 심기 프로젝트'와 '드론·UAM(도심항공모빌리티)·휴머노이드 로봇 투자'의 퍼즐을 한 판에 맞춰보면 입이 떡 벌어짐. 이수만 역시 손주은과 100% 똑같은 진실을 꿰뚫어 보고 있었음. \"AI가 화면 속의 데이터와",
-   "url": "https://blog.naver.com/slash777/224488855209",
-   "engine": "naver_blog",
-   "query": "대전 나무심기 시민 참여",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "오늘은 부동산카페에 올라와있는 ‘30층 이상 아파트 단지는 사지 마라’는 글에 대해 팩트체크해볼까합니다. 글을 보고 있노라니 글쓴이가 화가 좀 많이 나 있는 것 같기도 합니다. 30층 이상으로 되어 있는 아파트들을 뭔가 겨냥한 느낌도 나고 말입니다. 요즘은 한강뷰나 산뷰처럼 조망권이 집의 가치를 올려주는 중요한 요소가 되면서, 일부러 고층을 선호하는 사람들",
-   "url": "https://cafe.naver.com/jingwansa/123?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imppbmd3YW5zYSIsImFydGljbGVJZCI6MTIzLCJpc3N1ZWRBdCI6MTc5NTQzOTM5MTgzMH0.pH6zw452gQfhi3KyyY-fgtu2oXnW_nT8BSxxd1cPufU&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "새로운 대륙·새 하늘과 새 땅의 비유, 노동 부담의 경감과 영적·예술적·지적 활동의 개화 ((())) OM NAMAH SHIVAYA ((())) 3. 영적 의미: ‘불의 심판’이 아닌 ‘파동적 정화와 각성’ 1944년 메시지가 격렬한 자연 변동이나 심판의 이미지를 담고 있음에도, 되노프 사상 전체의 맥락에서 볼 때 그 본질적 의미는 외적 공포 조장이 아니라",
-   "url": "https://cafe.naver.com/omnipola/609?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im9tbmlwb2xhIiwiYXJ0aWNsZUlkIjo2MDksImlzc3VlZEF0IjoxNzk1NDM5MzkxODMwfQ.QfDa0T9AZUNDAffammSnHGNgm4qLyvdu6K131ATJjs4&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "새마을지도자수원시협의회(회장 윤진석) 주최, 세류3동 새마을지도자협의회(회장 최봉삼) 주관으로 열린 이번 행사에는 세류3동협의회, 부녀회, 문고 회원 등 새마을 가족분들이 한마음 한뜻으로 모여 따뜻한 땀방울을 흘려주셨습니다. 오늘의 주요 활동 현장! 장소... 앞으로도 세류3동 새마을 3개 단체는 꽃 식재, 환경정화, 소외계층 나눔 등 지역사회를 위한 따뜻",
-   "url": "https://cafe.naver.com/swsmu/6585?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InN3c211IiwiYXJ0aWNsZUlkIjo2NTg1LCJpc3N1ZWRBdCI6MTc5NTQzOTM5MTgzMH0.TeZ0upIOuYOfNpJ6w6J3NYhdyamKvtcZQNxRdRSTvZ8&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "환경정화 활동이 펼쳐졌습니다. 하나님의교회 세계복음선교협회가 11월 15일 이곳에서 '제9764회 전 세계 지구환경정화운동'을 전개하엮습니다. 이날 봉사에는 하나님의교회 성도와 이웃 등 80여명이 동참했습니다. 봉사자들은 장갑을 끼고 종량제 봉투를 든 채 구역별로... 하나님의교회 이의용 목사는 어머니가 가족을 위해 집 안팎을 깨끗하게 정돈하듯 이웃들이 생",
-   "url": "https://cafe.naver.com/wake77/67667?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indha2U3NyIsImFydGljbGVJZCI6Njc2NjcsImlzc3VlZEF0IjoxNzk1NDM5MzkxODMwfQ.oQPF1Lsm0V6mUGUj03882b-S8RNuGNdkE1N0gxGCZq8&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "여호와께서 주신 풍성함은 창고에 쌓이고, 맡은 사람들이 그 예물을 성전 봉사자들과 그 가족에게 신실하게 나눈다. 핵심 구절 — 31:10, 15, 20–21 10절은 예물의 풍성함을 여호와께서 백성에게 베푸신 복으로 해석한다. 15절은 분배의 기준을 보여 준다. 20–21절은 히스기야가 하나님 앞에서 선하고 바르고 신실하게 행했으며, 온 마음으로 하나님을 ",
-   "url": "https://cafe.naver.com/worknet114/907?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndvcmtuZXQxMTQiLCJhcnRpY2xlSWQiOjkwNywiaXNzdWVkQXQiOjE3OTU0MzkzOTE4MzB9.l2sTzp9hnOaDMjMMYcOq11hi6NC-5XKMiT_3HM_lo4U&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "다양한 봉사활동과 프로그램을 공유하며 서로의 활동을 이해하고, 새로운 활동 아이디어를 얻을 수 있는 뜻깊은 시간이었습니다. 부산지사 시설 견학 제주지사 회원분들을 대상으로 부산지사 내부 시설을 소개하고 둘러보는 시간을 가졌습니다. 이산가족 화상상봉장을... 사업과 활동 공간을 알아볼 수 있었습니다. 황령산 플로깅 & 미션활동 황령산 일대에서 환경정화를 위한",
-   "url": "https://cafe.naver.com/busanrcy/1426?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJ1c2FucmN5IiwiYXJ0aWNsZUlkIjoxNDI2LCJpc3N1ZWRBdCI6MTc5NTQzOTM5MTgzMH0.sAyk3b7QsAqPKXJc7rxkfpNI1h3f041AHQNLNcKI8HE&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "개인 월소득 1,000만 원 상당 국가별 물가와 구매력을 반영한 실질적인 풍요 노동시간을 무한정 늘리지 않는 소득 구조 가족과 건강을 희생하지 않는 경제활동 노동소득 외에도 사업소득과 자산소득을 확보할 기회 이 다섯 가지가 핵심입니다. 개인의 월소득을 만드는 세 가지 엔진 ① 전문역량 소득 기술, 교육, 연구, 돌봄, 상담, 의료, 디자인, 생산, 디지털 ",
-   "url": "https://cafe.naver.com/worldkoreaking/103?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indvcmxka29yZWFraW5nIiwiYXJ0aWNsZUlkIjoxMDMsImlzc3VlZEF0IjoxNzk1NDM5MzkxODMwfQ.BfkH_PcHUCR7p70xW_9KhTIQLc20Tbxhc7z9JTcL9C4&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "호국보훈의 달인 5월에는 기업 임직원들이 이곳을 찾아 묘역을 가꾸는 봉사활동을 하기도 했어요. HD현대 임직원 200여 명이 참전용사 묘역을 정화했고, KB국민은행 임직원과 가족들은 5월 30일 묘역관리 봉사에 참여했다고 해요. 이곳이 추모와 기억의 공간으로 자리 잡고 있다는 걸 보여주는 장면이에요. 산책 코스로 소개되는 걸 두고는 조용히 걷기 좋은 장소라",
-   "url": "https://cafe.naver.com/mconnect/147?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1jb25uZWN0IiwiYXJ0aWNsZUlkIjoxNDcsImlzc3VlZEF0IjoxNzk1NDM5MzkxODMwfQ.2W-1-FgR19H83_OUTjOU8C0oD-B3NQtN2z40_Mtoccg&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "제한적인 말씀 사용 성숙한 말씀 사용 나의 축복을 구한다 모두의 삶이 풍요로워지도록 실천한다 나의 성공을 기도한다 모두에게 공정한 기회를 만든다 직책과 권위를 얻는다 책임과 봉사로 권위를 증명한다... 우리 교회의 활동이 지역사회의 문제를 실제로 해결하고 있는가? 우리가 선포하는 사랑을 종교가 다른 사람에게도 실천하고 있는가? 이러한 질문에 솔직하게 답할 ",
-   "url": "https://cafe.naver.com/worldkoreaking/93?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indvcmxka29yZWFraW5nIiwiYXJ0aWNsZUlkIjo5MywiaXNzdWVkQXQiOjE3OTU0MzkzOTE4MzB9.cpiFBjdAZo7zjwDnNZTQu-3vPEIBnjPgf_uGJhOsP00&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "무급 봉사를 당연하게 요구하지 마십시오. 구성원에게 종교적·정치적 신념을 강요하지 마십시오. 개인정보와 사생활을 보호하십시오. 성별과 나이로 차별하지 마십시오. 구성원의 능력에 맞는 역할을... 있는 가족 환경 결혼은 상대방을 소유하는 일이 아닙니다. 배우자는 자신의 이상을 실현하기 위한 도구가 아닙니다. 서로 다른 두 사람이 자유롭게 선택하고, 책임을 나",
-   "url": "https://cafe.naver.com/worldkoreaking/87?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indvcmxka29yZWFraW5nIiwiYXJ0aWNsZUlkIjo4NywiaXNzdWVkQXQiOjE3OTU0MzkzOTE4MzB9.4yr2EdlhLElnSCztGetWW8YaIyVL0Sna2rDDftqW-rw&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "④ 가정과 가족 시스템 결혼, 출산, 양육을 경제적 절망 때문에 포기하지 않도록 주거·돌봄·교육·양육 지원을 연결합니다. ⑤ 건강과... 사업 실제 활동 겸손과 리더십 권력보다 책임을 배우는 교육 인간 존엄성 연구 차별과 사회적 서열의 원인 분석 공평한 경제 연구 빈곤... 우리는 겸손을 기본으로 삼고, 권력을 봉사로 삼으며, 풍요를 나눌 수 있는 기회로 ",
-   "url": "https://cafe.naver.com/worldkoreaking/83?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indvcmxka29yZWFraW5nIiwiYXJ0aWNsZUlkIjo4MywiaXNzdWVkQXQiOjE3OTU0MzkzOTE4MzF9.rNkfwaZT4EDsSpow1EbG2WxVDPBysFR4QrlALF1P9uQ&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "⑥ 사회적 기여와 정당한 보상 자신의 능력으로 사회에 기여하고, 봉사와 노동과 창작에 정당한 보상을 받는 구조. ⑦ 평생 행복과 안전 보장 노후, 건강, 돌봄, 관계, 여가, 위기 상황까지 생애 전반을... 직업활동과 자기계발 보장 가족 문화생활 지원 4단계: 사회 환원 개인의 전문성과 특기를 사회에 제공 창작물과 교육 콘텐츠 사업화 기업·기관과 유급 계약",
-   "url": "https://cafe.naver.com/worldkoreaking/82?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indvcmxka29yZWFraW5nIiwiYXJ0aWNsZUlkIjo4MiwiaXNzdWVkQXQiOjE3OTU0MzkzOTE4MzF9.N70ztNgJl5WCFWQVKL1fumCNWponYHfZis3Au6L6lU4&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "2주전쯤, 갑천변 걷다가 너무 좋아서 우리 아파트 도솔산로는 최고다 하는데 간간히 보이는 꽁초들 남편한테 이런거 애들이랑 주우러 다니면 재밌겠다 했더니 바로 쿠팡시켜서 실천.ㅎㅎ 남편말론 담배 피고 꽁초 버리는 사람 한명인 것 같다고 담배가 다 똑같다고 합니다. 우리 아파트를 환경을 생각해서 꽁초는 집에 가져가서 버리면 어떨까요? 203동 도솔산 진입로쪽이",
-   "url": "https://cafe.naver.com/treefull2/32600?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRyZWVmdWxsMiIsImFydGljbGVJZCI6MzI2MDAsImlzc3VlZEF0IjoxNzk1NDM5MzkxODMxfQ.cq3bVGGrUX8Rqhjs3TufYiaaG2cy3fx-Am7NmVzSUJs&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "기초생활수급자, 한부모가족 등 지원 대상자에게 운전면허 취득을 위한 무료교육을 제공합니다. 학과·기능·도로주행 교육 등이 지원될 수 있지만, 시험 수수료는 별도 부담할 수 있습니다. 센터별 운영... 미리 준비할 자료는 자기소개서, 학업계획서, 가정환경 및 성장과정, 봉사활동 기록, 수상실적 등입니다. 특히 학교장 추천이 필요한 장학금은 고등학교 졸업 전에",
-   "url": "https://cafe.naver.com/cafe1535/1913883?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNhZmUxNTM1IiwiYXJ0aWNsZUlkIjoxOTEzODgzLCJpc3N1ZWRBdCI6MTc5NTQzOTM5MTgzMX0.UvUDNm7WQjzt4u9CoF1_WcaUa4EnVsTh6q_mY-zXKJg&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "결국 가족들에 의해 정신병원에 보내졌지만, 그곳에서도 조각에만 집착하며 사람들과의 교류를 거부했다. 갈라테이아는 자신과 똑같은 얼굴을 반복해서 조각하고 그 조각상에 자신의 이름을 붙였다. 그러나 조각을 할 때마다 병원 측에 제지당하고 비인간적인 치료를 받으면서 상태는 더욱 악화되었다. 결국 외진 병동으로 옮겨져 간병인의 돌봄을 받게 되었고, 어느 날 간병인",
-   "url": "https://cafe.naver.com/identity5/8273111?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImlkZW50aXR5NSIsImFydGljbGVJZCI6ODI3MzExMSwiaXNzdWVkQXQiOjE3OTU0MzkzOTE4MzF9.BWFgbmRobrRj3O-MxexgFP0hijEhFrmzUhGZWwdYRVA&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "본인 소개 - 나이, 성별, 가족관계, 하는 일, 환경, ... 71세(56년생)/여성/ 남편과 딸3명과 사위들, 그리고 아들, 며느리, 손주들 6명 다복합니다. 벼농사와 밭농사를 짓고 있습니다. 지역 봉사활동을 하고 있습니다. 앞에 나가서 이야기할 상황이 많은데 남들앞에서 말을 하려면 다 까먹는 경우가 많았습니다. 그런데 많은 사람들 앞에서 발표할 기회가",
-   "url": "https://cafe.naver.com/heavencircle/19363?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhlYXZlbmNpcmNsZSIsImFydGljbGVJZCI6MTkzNjMsImlzc3VlZEF0IjoxNzk1NDM5MzkxODMxfQ.urPfWLTzHPSoGlIXEzbsWeKok6DhGZdPFHx2hpNpbpo&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "진리교육: 성경, 철학, 과학, 인문학을 자유롭게 탐구하되 서로 다른 관점을 비교하고 검증하기. 사랑교육: 미움과 차별을 줄이고 서로의 존엄을 인정하기. 자각교육: 명상, 자기성찰, 마음 관찰, 주의력 훈련. 감성교육: 음악, 미술, 문학, 춤, 자연 체험. 지성교육: 수학, 과학, 언어, 논리, 철학. 건강교육: 영양, 운동, 수면, 신체 이해. 관계교육",
-   "url": "https://cafe.naver.com/worldkoreaking/69?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indvcmxka29yZWFraW5nIiwiYXJ0aWNsZUlkIjo2OSwiaXNzdWVkQXQiOjE3OTU0MzkzOTE4MzF9.5O61Yy-_4GF5rSgBNCo-bYuVeL1hJKWJzJIs5cSUzAY&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "하나님의교회, 기후재난·환경 훼손으로 멍든 지구 회복 앞장서요 출처: 경남매일 하나님의 교회 '희망의 숲' 캠페인 김해 화포천습지 일대 정화 활동 500여명 참여… 낙엽·쓰레기 수거 하나님의교회... 이날 김해, 양산, 밀양 등 경남 각지에서 온 신자와 가족, 이웃 등 500여명이 캠페인에 참여, 화포천습지과학관 일대 2km 구간에서 낙엽, 마른 덤불, 쓰",
-   "url": "https://cafe.naver.com/pseudo1/54413?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBzZXVkbzEiLCJhcnRpY2xlSWQiOjU0NDEzLCJpc3N1ZWRBdCI6MTc5NTQzOTM5MTgzMX0.0e2rR03xxV8A_qmm7XL-tu3I9xWc_Lj8BwuJLcw_s0s&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "어머니가 가족의 건강을 위해 정성껏 정원을 가꾸듯, 전 세계에 나무를 심어 병들어가는 지구 환경을 회복하고 푸른 숲을 조성하는 지구촌 환경 정화 캠페인입니다. * 핵심 목표: 2022년부터 2026년까지 전 세계에 100만 그루 나무 심기 * 주요 활동: - 도심 공원 및 녹지... 전 세계 각국의 위러브유 봉사자들과 지역사회가 뜻을 모아 심은 수만 그루의",
-   "url": "https://cafe.naver.com/goguma3/67653?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvZ3VtYTMiLCJhcnRpY2xlSWQiOjY3NjUzLCJpc3N1ZWRBdCI6MTc5NTQzOTM5MTgzMX0.gFbXo9NlDxzitYIytBl5BHiWNlsKvYJw3bZkG2nnraw&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "안녕하세요 국제위러브유운동본부(회장 장길자) 활동 중 제가 좋아하는 맘스가든 활동에 대해서 소개해 드리려고 합니다. https://intlweloveu.org/ko/moms-garden-project/ 맘스가든(Mom's Garden)이란? 어머니가 꽃과 나무를 심으며 가족을 위한 정원을 가꾸듯한 사람, 한사람이... 대기 정화 온실가스 정화 / 산소 제공",
-   "url": "https://cafe.naver.com/volunteer12/9836?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InZvbHVudGVlcjEyIiwiYXJ0aWNsZUlkIjo5ODM2LCJpc3N1ZWRBdCI6MTc5NTQzOTM5MTgzMX0.CiVTSNzsqYpKsaE7gyPIT1AM9I2ZSfIFHEEMRa0YNtw&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "행복한 가정과 공동체 사랑과 신뢰가 있는 가족 외로운 사람을 위한 공동체 세대 간 존중과 돌봄 누구도 소외되지 않는 사회적 관계 12. 실천하는 통합적 리더십 말보다 행동 권위보다 봉사 독점보다 공유 개인의 성공보다 공동체의 지속 가능한 번영 대통합센터가 해야 할 일... 창업과 연구와 예술 활동 지원. 인공지능과 과학기술의 공익적 활용. 지식과 발명품의 ",
-   "url": "https://cafe.naver.com/worldkoreaking/60?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indvcmxka29yZWFraW5nIiwiYXJ0aWNsZUlkIjo2MCwiaXNzdWVkQXQiOjE3OTU0MzkzOTE4MzF9.GuCcJgqarFSA9hckiN6i4q-K0yOlLAcScv6kGV8_lxM&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "환경복지 활동입니다. 이날 행사는 유엔이 정한 ‘2026 세계 자원봉사자의 해’를 기념해 열렸습니다. 부여군은 종량제 봉투와 집게 등 청소용품을 지원했습니다. 지역 인사도 현장을 찾아 봉사자를... 위러브유는 그동안 부여중앙시장, 논산 왕암천·화지중앙시장·논산역, 공주 금강둔치공원·공주산성 등에서 정화 활동을 했습니다. 단체 측에 따르면 논산 시민가족공원에",
-   "url": "https://cafe.naver.com/goguma3/67628?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvZ3VtYTMiLCJhcnRpY2xlSWQiOjY3NjI4LCJpc3N1ZWRBdCI6MTc5NTQzOTM5MTgzMX0.HlUevIVzBLMxbjyjPuglQWOvxyOkNiaYcl0d0i5e8Mc&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "가족 문제 갈등, 폭력, 소외 사랑과 안전이 있는 가정 7. 관계 문제 외로움, 차별, 혐오 소속감과 상호 존중 8. 교육 문제 무지, 교육 격차... 가난은 교육에 영향을 주고, 교육 격차는 취업에 영향을 주며, 실업은 가족 갈등과 정신적 고통으로 이어질 수 있습니다. 따라서... 가정의 사랑과 안전을 지키기 가족이라는 이유로 폭력과 강요를 허용하지 않고",
-   "url": "https://cafe.naver.com/worldkoreaking/54?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indvcmxka29yZWFraW5nIiwiYXJ0aWNsZUlkIjo1NCwiaXNzdWVkQXQiOjE3OTU0MzkzOTE4MzF9.PT793ZxBMOGam9cSOzHTD3PVXKxgKpCiIGa1PJBXYKw&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "노동시간을 줄이고 가족, 건강, 교육, 창조, 휴식의 시간을 확대하는 사회. 사회에 기여하는 모든 활동이 정당하게 인정받는 사회. 생산성의 성과가 소수에게만 집중되지 않고 공동체의 풍요로 연결되는 사회.... 노동은 자유와 창조성을 확대하고, 경제는 모두의 풍요를 뒷받침하며, 권력은 공정한 책임과 봉사의 체계로 전환되어야 한다. 교육은 인간의 잠재력을 깨우",
-   "url": "https://cafe.naver.com/worldkoreaking/45?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indvcmxka29yZWFraW5nIiwiYXJ0aWNsZUlkIjo0NSwiaXNzdWVkQXQiOjE3OTU0MzkzOTE4MzF9.aZF5HKZs06-6pAki-e-HoTwYXd_hSYNXmzRVU5OwvHw&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "하나님의교회 세계복음선교협회(총회장 김주철 목사, 이하 하나님의 교회) 직장인청년봉사단 아세즈와오(ASEZ WAO)가 11월8일, 충북 진천 K-FOOD VALLEY에서 ‘Green Earth’ 프로젝트 일환의 정화활동을... ASEZ WAO의 단체명은 ‘Save the Earth from A to Z’의 약자로 “우리가 한 가족이 되어 처음부터 끝까지 세",
-   "url": "https://cafe.naver.com/festival1004/38824?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZlc3RpdmFsMTAwNCIsImFydGljbGVJZCI6Mzg4MjQsImlzc3VlZEF0IjoxNzk1NDM5MzkxODMxfQ.zteZeyMn9_5fAfgOzi1ye4RbO5rDdUPIj7Q5bReKGR4&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "이번 부여 황산대교 환경정화 활동도 특별한 의미가 있었는데요. 유엔이 정한 '2026 세계 자원봉사자의 해'를 기념해 진행되었다고 합니다. 특히 이번 활동에는 부여군에서도 종량제 봉투와 집게 등... 국제위러브유 관계자도 가족이 머무는 곳을 살피는 어머니의 마음으로 주민들이 산책하고 오가는 공원과 거리를 가꾸고자 활동했다고 밝혔습니다. 역시 위러브유의 활동",
-   "url": "https://cafe.naver.com/volunteer12/9786?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InZvbHVudGVlcjEyIiwiYXJ0aWNsZUlkIjo5Nzg2LCJpc3N1ZWRBdCI6MTc5NTQzOTM5MTgzMX0.5snbvhVXPbfMVUoFEat_BHm4R74QoUd7yzhl_0ZxZrE&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "라이트 오브 아크엔젤스 에너지 조율 미카엘·라파엘·가브리엘·우리엘, 네 대천사의 신성한 빛과 연결하여 부정적인 에너지의 정화와... 그 메시지에 따르면 대천사들은 사람들과 모든 빛의 존재를 개별적으로 돕고 있으며, 모든 존재의 가장 높은 선을 위해 봉사한다고... 또한 자신과 가족, 집과 생활공간을 보호하는 영적인 의도를 세우는 명상에도 활용할 수 있습니다",
-   "url": "https://cafe.naver.com/onereiki/622?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im9uZXJlaWtpIiwiYXJ0aWNsZUlkIjo2MjIsImlzc3VlZEF0IjoxNzk1NDM5MzkxODMxfQ.rgQspgr2oJbNqNHMLx_VnBUUZppRBoxjcxjHhXJvjv8&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "하지만 무슬림 형제단은 사실상 여러 다른 이름으로 활동하고 있으며, 시리아, 리비아, 사우디아라비아처럼 일부 국가에서는 법적으로 금지되어 있기 때문에 실제 회원 수를 정확히 파악하기는 매우 어렵습니다. 설립 후 불과 20년 만에 이 단체는 거의 2백만 명에 달하는 추종자를 확보하며 이슬람 세계 전역으로 활동 영역을 넓힌 것으로 알려져 있습니다. 뛰어난 연설",
-   "url": "https://cafe.naver.com/animal06/63954?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFuaW1hbDA2IiwiYXJ0aWNsZUlkIjo2Mzk1NCwiaXNzdWVkQXQiOjE3OTU0MzkzOTE4MzF9.9YBhSHz1SqCW2qZWnMbnwZoUuCbspRCqIU9GrlJ8EM0&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "nttId=B000000181381Ud6jI0 · 예산군 예산읍, 무한천 일대 ‘줍깅’으로 깨끗한 하천 환경 조성 (예산군청 · 11/16) “직원 취미활동·환경정화 봉사활동 연계… 함께 걷고 소통하며... s=news&bbs_id=S2N6&bbs_seq=829447 · 금당초, 가족과 함께 마을을 걸으며 세계시민의 마음을 키워요 (홍성교육지원청 · 11/",
-   "url": "https://cafe.naver.com/naepopedia/716?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5hZXBvcGVkaWEiLCJhcnRpY2xlSWQiOjcxNiwiaXNzdWVkQXQiOjE3OTU0MzkzOTE4MzF9.vQuBtlOqUDebTlbMulJ1jqj3TIpOcF_687f-KAt9Mhg&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "폭풍우가 이끈 하느님의 섭리: 1057년 왕위 계승 문제로 가족과 함께 잉글랜드로 귀환했으나 도착 직후 아버지가 급서했고, 1066년... 성녀는 슬픔 속에서도 *“이 큰 고통을 통해 제 죄를 정화해 주시는 전능하신 하느님께 감사드립니다”*라고 기도하며 영성체를 모신... (수호 성인: 스코틀랜드, 다자녀 가정, 부모, 과부, 간호사, 빈민 봉사자, 학업에",
-   "url": "https://cafe.naver.com/songjeoncatolic/3429?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNvbmdqZW9uY2F0b2xpYyIsImFydGljbGVJZCI6MzQyOSwiaXNzdWVkQXQiOjE3OTU0MzkzOTE4MzF9.LSjAK7TaBVDJPXBxP7pz8EB2MUu40mxUqHvwalzLPtw&q=%ea%b0%91%ec%b2%9c%20%ec%a0%95%ed%99%94%ed%99%9c%eb%8f%99%20%ea%b0%80%ec%a1%b1%20%eb%b4%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "대전시설관리공단, 소외계층 겨울나기 돕는 민·관·학 김장 나눔 행사 추진 - 미디어대전",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xLVU3dHhGLUhVVC1idVNEcmFBTlpFcHZqaVdHWUpmSFltVlhGaXE2bzdoYVk4d001NHhOTW9tLWJUbElRcE5TRm42WDhDX1dhVkdYc1RHWU5LZFktOHEya2EyZw?oc=5",
-   "pub": "Thu, 19 Nov 2026 05:12:47 GMT",
-   "engine": "gnews",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "대전시설관리공단, 김장김치 400㎏ 나눔…취약계층 50가구에 전달 - 국제뉴스",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45MFI3NE1CNVYzQmc2SDgwd2xDMUZjU0xqd0V4bE1hUVJXQm5oQlp2ZENnT005ZEZ2NnFiZmdYU1ZrOW1UbHFCZkJkcGh4OTZoeGczLUVPMGdiTXREZnZKSXRYNFhFT2trRTBOQnB3?oc=5",
-   "pub": "Thu, 19 Nov 2026 05:06:48 GMT",
-   "engine": "gnews",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "오늘 익산지국 환경 정화 봉사하는 보직자 여러분 열심히 청소 하는 모습이 아름답고 멋져 보이고 수고많으셨어요 감사합니다새 창 열림",
-   "url": "https://cafe.naver.com/ebts/235757?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVidHMiLCJhcnRpY2xlSWQiOjIzNTc1NywiaXNzdWVkQXQiOjE3OTU0Mzk4MTAxNTJ9.sa7EjrinVhky_SktkR_ymlUDCdpd5WSS9RG4hoxCeVE",
-   "engine": "naver_web",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "도정회 만년동장은 “매번 만년동 이웃분들을 위해 봉사에 힘써주셔서 정말 감사하다”며 회원들을 반갑게 맞았습니다.... 후 정화활동을 꾸준히 전개하는 곳입니다. 위러브유는 ‘어머니의 사랑을 온 세상에’라는 슬로건 아래 온 인류를 ‘지구촌 가족’으로 여깁니다. 누구나 존중받는 세상, 지속 가능한 평화를 만들기 위해 30년 넘게 범세계적 복지활동을... 새 창 ",
-   "url": "https://cafe.naver.com/goguma3/65378?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvZ3VtYTMiLCJhcnRpY2xlSWQiOjY1Mzc4LCJpc3N1ZWRBdCI6MTc5NTQzOTgxMDE1Mn0.rIbV779bvoiUq8UGTg1mEmsZWyn2HfWE2Ibe0ikBzmY",
-   "engine": "naver_web",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "환경정화, 헌혈, 재난구호 등 다양한 봉사활동을 통해 사랑을 실천하는 모습을 통해 진정한 종교인의 모습이 어떠한 것인지 알게 해줘서 좋습니다 하나님의교회는 국가와 사회로부터... 좋습니다 토요일에 예배드리고 일요일은 가족과 함께해서 좋습니다 이렇게 하나님의교회는 하나부터 열까지 다~~~~ 좋습니다 ~♡^^ 여러분은 어떠신가요? 하나님의교회가 왜 좋으세요?^",
-   "url": "https://blog.naver.com/gogogo_100/224488929783",
-   "engine": "naver_blog",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "이번 채용은 강원특별자치도 속초시·인제군·양양군·고성군에 걸쳐 있는 설악산국립공원에서 탐방로 순찰, 환경정화, 시설물 유지보수, 안전관리, 탐방객 안내 등의 업무를... 국립공원 지역주민, 관련 분야 경력자, 봉사활동 실적 보유자, 취업취약계층 등은 선발 과정에서 우대받습니다. 다만 이번 채용은 정부 재정지원 직접일자리사업이므로 가구 소득·재산... 새 창",
-   "url": "https://blog.naver.com/angantour/224488814268",
-   "engine": "naver_blog",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "또한 걷는 동안 ‘플로깅(줍깅)’ 활동을 함께 진행하여 금호강변길의 쓰레기를 줍는 정화활동을 실천하였다. 참가자들은 가족과 함께 지역의 소중한 자연환경을 가꾸며 환경 보호의... 건강하고 행복하게 성장할 수 있도록 적극 지원하겠다.\"라고 밝혔다. #경산 #금락초등학교 #체험활동 #체험학습 #체험교육 #체험수업 #봉사활동 #경산교육지원청 #학교소식자랑 #경산",
-   "url": "https://blog.naver.com/polocutie78/224488494725",
-   "engine": "naver_blog",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "[명리학 기초 6편] 천간론(天干論) ― 병정화(丙丁火)의 성질과 물상 같은 불(火), 서로 다른 빛과 온기의 방식 앞서 갑목... 공평함과 봉사정신: 태양이 만물을 골고루 비추듯 사람을 가리지 않고 대하려는 성향이 있습니다. 어려운 사람을 돕고... 활동적인 가정생활: 가족을 위해 적극적으로 나서고 중요한 일이 생기면 앞장서서 해결하려 합니다. 특히 전통",
-   "url": "https://blog.naver.com/ism7315/224488507640",
-   "engine": "naver_blog",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "아마도 이른 아침부터 지역 사회를 깨끗하게 가꾸기 위해 두 팔을 걷어붙인 이비티에스 창원중앙지국 가족들의 고운 마음씨를 하늘도 알아준 것 같습니다. 날씨마저 우리를... 아름답고 따뜻한 발걸음은 멈추지 않고 계속될 것입니다. #이비티에스 #이비티에스협동조합 #EBTS #ebts창원중앙지국 #창원봉사활동 #셰프의거리 #환경정화활동 #거리청소 #자원봉사 #선한",
-   "url": "https://blog.naver.com/aromasion/224488244464",
-   "engine": "naver_blog",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "_박미희 기자 박원식 회장은 지역 주민들에게 친숙한 봉사자다. 부산 부곡4동 새마을지도자협의회 회장으로 지역 소독·방역, 환경정화 활동과 주거 취약가구를 위한 ‘사랑의 집... 그는 “이웃사랑, 지역사랑의 마음이 같은 회원들과 주민들, 그리고 사랑하는 가족이 있어 봉사를 할 수 있었다”며 고마움을 나타냈다. 주말이면 함께 봉사활동을 하는 아들 박재성 씨도.",
-   "url": "https://blog.naver.com/potw0051/224488216158",
-   "engine": "naver_blog",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "청소년·가족이 함께 하천 정화·철새 보호…동아리 부문 경북도지사상 구미시 탄소제로교육관 청소년 환경봉사 동아리 ‘넷제로-히어로즈’가 ‘2026 경상북도... 결실”이라며 “앞으로도 청소년들이 환경문제 해결에 앞장서는 미래세대의 에코리더로 성장할 수 있도록 다양한 참여형 환경교육과 봉사활동을 지원하겠다”고 말했다. 최현영/기자 (***********@hanm",
-   "url": "https://blog.naver.com/gbin1212/224488139714",
-   "engine": "naver_blog",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "‘더 콜렉티브’는 상승 마스터(Ascended Masters), 대천사, 별의 가족들(Star Nations families), 지구의 원소들, 요정(Fae) 원로들... 그렇다면 우리는 친구나 가족들을 어떻게 도울 수 있을까요?” “저는 지금 제 에너지가 고갈되지 않도록, 주로 내면을... 여러분은 ‘구원자’가 되어서는 안 된다고 하면서도, 어떻게 하면 ",
-   "url": "https://blog.naver.com/hk10042000/224487968000",
-   "engine": "naver_blog",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "디도서 2:4 그들로 젊은 여자들을 교훈하되 그 남편과 자녀를 사랑하며 에즈라 태프트 벤슨 어머니는 가족의 심장이자 영혼이며, 마땅히 그래야 합니다. 세속적인 문헌과... 이것은 첫째 지체를 지킨 뒤 둘째 지체를 위해 지상에 와서 배우고 시험받고 신성을 향해 나아갈 자녀들의 몸과 정신과 영을 기르고 보살피는 봉사입니다. 따라서 어머니는... 새 창 열림",
-   "url": "https://blog.naver.com/gmcenc/224487857987",
-   "engine": "naver_blog",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "가족이 함께 참여할 수 있는 환경 정화 활동이나 재활용 프로젝트를 통해 아이는 사회적 책임감을 느끼고, 나아가 커뮤니티에 대한 소속감을 느낄 수 있습니다. 5. 문화 체험 활동 다양한... 자원봉사 활동을 통해 아이는 사회적 책임감을 느끼고, 다양한 사람들과의 상호작용을 통해 사회적 연대감을 배울 수 있습니다. 예를 들어, 노인 요양원에서 봉사하거나 지역 ",
-   "url": "https://blog.naver.com/mmrqxoivbz23259/224487037585",
-   "engine": "naver_blog",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "③ 수험표 들고 산사로…전국 11개 사찰, 수험생 템플스테이 명상·차담·108배·염주 만들기…가족 동반 프로그램도 수험표 제시하면 할인…대원사·도림사·묘적사 등 2027학년도... ⑥ 사도세자의 비극과 정조의 효심…호주 출신 드라마 작가도 반한 융건릉 넷플릭스·디즈니+ 활동 작가 루이스 맥마스터 발길 비운의 부자 이야기에 이끌린 방문객들 [출동!인턴]...",
-   "url": "https://blog.naver.com/sds100w/224487559417",
-   "engine": "naver_blog",
-   "query": "갑천 정화활동 가족 봉사",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "'다 같이 놀자! 세계전통놀이' 이중언어 부모-자녀 상호작용 프로그램'안전한 우리 집, 행복한 한국 생활' 사전 교육(가정폭력)[가족봉사단] 지구를 지켜가(家)새 창 열림",
-   "url": "https://daejeonjunggu.familynet.or.kr/center/lay1/program/S295T322C451/recruitReceipt/list.do?_csrf=f1106c76-8b08-4d25-8555-7c33b8d2f32b&cat=&status=ongoing&program_start_date=&program_end_date=&reception_start_date=&reception_end_date=&area=A008&area_detail=D231&application_type=on&multicultural_type=language_development&keyword=&rows=5&cpage=1",
-   "engine": "naver_web",
-   "query": "대전 복지관 가족 봉사 프로그램",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "(예: AR체험센터, 박물관, 물놀이 체험 등) ② 7월 30일(목) ~ 31일(금) 복지관 가족캠프 운영 지원 캠프 프로그램 및 야간 활동 보조 텐트 보유자는 복지관 마당에서 캠핑 운영 지원 텐트가 없는 봉사자는 복지관 내 취침 가능한 공간 제공 모집대상 장애아동·청소년과 함께 의미 있는 시간을 보내고 싶은 누구나 책임감 있게 1:1 활동지원이 가능한 분",
-   "url": "https://cafe.naver.com/no1kumsan/64342?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5vMWt1bXNhbiIsImFydGljbGVJZCI6NjQzNDIsImlzc3VlZEF0IjoxNzk1NDQwMDE5MTczfQ.HSkLG4QO1bX7Me-fa7XqKgi_JHGYHVscuQXmhaTv0zk",
-   "engine": "naver_web",
-   "query": "대전 복지관 가족 봉사 프로그램",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "마을 단기사회사업 활동 중 여러 동료들 이야기 통해 서귀포시서부종합복지관을 알 게 되었습니다. 복지요결을 바탕으로 사회사업을 잘 실천하는 복지관이고 지역 주민들께서 운영하는 동아리가 엄청 많다고 들었습니다. 기회가 된다면 꼭 방문하고 싶다는 소망이 생겼습니다. 겨울 활동이 끝나고 다음 여름 단기사회사업 어디로 갈지 궁리했습니다.... 새 창 열림",
-   "url": "https://cafe.naver.com/seobu2017/5438?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNlb2J1MjAxNyIsImFydGljbGVJZCI6NTQzOCwiaXNzdWVkQXQiOjE3OTU0NDAwMTkxNzN9.nffdbfzwJoED_QaPGQdN8lQNgQj2j9__iJOcVvnRWNY",
-   "engine": "naver_web",
-   "query": "대전 복지관 가족 봉사 프로그램",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "복지관&장애인가족지원센터의 재밌고 유익한 프로그램들 공유합니다. 필요하신 분들 확인해 보시고, 참여해보세요^^ 주말 잘 보내세요! 1.... 대전 2026년 시립 가족day 이용자 모집 https://www.itdasocial.kr/share/admin_content/4899339a-2da1-42ef-8c60-aecd0a000680 8. 경남 거제 2026",
-   "url": "https://cafe.naver.com/getampethskin/1343772?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdldGFtcGV0aHNraW4iLCJhcnRpY2xlSWQiOjEzNDM3NzIsImlzc3VlZEF0IjoxNzk1NDQwMDE5MTczfQ.x7rlGWM37nIPyac1_hBUEGJ0VCsCyjK-DZAFGr1Vkkw",
-   "engine": "naver_web",
-   "query": "대전 복지관 가족 봉사 프로그램",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "가족, 사랑, 건강, 그리고 마음의 평화. 분명 맞는 말이다. 하지만 현실은 조금 더 냉정하다. 가족의 안전을 지키려 해도... 2차 세계대전 이후 미국은 세계 패권국이 되었고, 달러를 금에 고정(금 1온스 = 35달러)하며 전 세계 기축통화의 지위를 얻었다. 전쟁(특히 베트남전)과 복지 확대, 막대한 정부 지출이 발생했지만 금은 늘어나지 않았다. 미국은 ",
-   "url": "https://cafe.naver.com/truckerking/1206708?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWNrZXJraW5nIiwiYXJ0aWNsZUlkIjoxMjA2NzA4LCJpc3N1ZWRBdCI6MTc5NTQ0MDAxOTE3M30.ZQ3AP0ancK_4UCbLDCBGsX58_Pdyofb5K_fl7hJr_1E",
-   "engine": "naver_web",
-   "query": "대전 복지관 가족 봉사 프로그램",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "대전 대덕구는 (사)대덕구자원봉사센터(이사장 이수호)가 24일 송촌어린이공원에서 ‘2026 사랑나눔 가족봉사단 해단식 및 사랑나눔 새활용시장’을 개최했다고 밝혔다새 창 열림",
-   "url": "https://www.ebaekje.co.kr/news/articleView.html?idxno=209609",
-   "engine": "naver_web",
-   "query": "유성구 가족 자원봉사 모집",
-   "first_seen": "2026-11-23T22:07:49+09:00"
-  },
-  {
-   "title": "비둘기가족봉사단 연탄후원 - 강원도민일보",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pU2dGd0xNZC1xaTczQjd5M3Y5c2VCYndsaVBZMEszR0Nib3Q1bW52TnJueEt3QnJjb2djZFljRU1xaW9Ya3JTTzllRnB5SXgxckUwMXI3dW9Pc2VLdWVzTDktazhLNkk?oc=5",
-   "pub": "Tue, 17 Nov 2026 02:10:40 GMT",
-   "engine": "gnews",
-   "query": "대전 자원봉사센터 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": "오늘은 대전에 다녀왔다. 오전에는 경로당에 들러 행정 업무를 처리하고, 점심 식사를 마친 뒤 대전으로 향했다. 월요일이라 버스 전용차로를 이용해 열심히 페달을 밟은 덕분에... 이러다 내가 먼저 지쳐 쓰러질 것 같아 일단 하루 이틀 가족들과 상의해 보기로 했다. 당장 내일모레는 아내의 수술 때문에 분당서울대병원에 데려다주고 다시 데려와야 한다. 쉴 틈...",
-   "url": "https://blog.naver.com/acts29times2019/224488927405",
-   "engine": "naver_blog",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": "2007년에는 대회 개최 시기를 9월에서 5월로 앞당겼습니다. 행사를 준비하기 위해 조웅래 회장의 아내를 비롯해 임직원 가족 약 300명이 자원봉사자로 참여했습니다. 제2회 대회에는 외국인들의 관심도 높아졌습니다. 신청자가 수천 명에 달하면서 참가 인원을 2,000명으로 제한해야 했습니다. 행사 코스는 13km로 정했습니다. 마라톤뿐만 아니라 클래식 음악 ",
-   "url": "https://blog.naver.com/earthingon/224488918373",
-   "engine": "naver_blog",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": "한미르 대덕CC 황영채 대표, 장애인과 함께한 따뜻한 동행… 나눔과 봉사로 축제 빛내 - 유성구지회 회원·가족 270여 명 참여… 제22회 대전장애인한마음대축제 성료 - 황영채 대표와 임직원 11명, 후원금 전달에 이어 배식·이동 지원 등 현장 봉사 실천 - 유성구지회, 경기 3위와 질서상 수상… 화합과 단결의 저력 과시 https://www.news100",
-   "url": "https://blog.naver.com/newsbodo1004/224488906991",
-   "engine": "naver_blog",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": "달큰하고 아삭한 제철 해남 배추에 정성껏 손질한 우리 농산물을 듬뿍 채워 가족 모두가 안심하고 맛있게 즐기기 딱 좋아요. 2. 전라도식 비법 양념과 남다른 감칠맛 분석 특허받은... 현재 김장대전 할인 혜택도 풍성하게 진행 중이니 놓치지 마시고 알뜰하게 챙겨보시길 바랍니다. 제품 구매하러 가기 → https://naver.me/Gy3zYtbu #운림가김치 ",
-   "url": "https://blog.naver.com/xkdl90/224488892668",
-   "engine": "naver_blog",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": "서럽더라구요 저 역시 직장 일에 아이 뒷바라지까지 눈코 뜰 새 없이 바쁜데 단지 먼저 결혼한 맏며느리라는 이유만으로 언제까지 이 독박 노동을 감당해야 할까요? 다음 가족 모임부터는 저도 똑같이 외식하자고 못 박아야 하는 건지 인생 선배님들의 현실적인 조언을 듣고 싶습니다. [김장대전]쿠쿠 미식컬렉션 마스터셰프 사일런스 큐브 CRP-QHLRNL0610FGW ",
-   "url": "https://blog.naver.com/fpsh5707/224488713614",
-   "engine": "naver_blog",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": "대화에는 가족의 생활 습관이나 성장 환경을 둘러싸고 거친 표현으로 불만을 드러낸 문장들이 담겨 있었습니다. 당시 최동석이 해당 대화 내용을 직접 확인하게 되면서 부부 사이의... [김장대전] 운림가 55년전통 국산 전라도 해남 김장 배추 포기 김치 주문 2kg 김치명가 운림가 naver.me [함께보면 좋은 글] \" \" 본문 글 이미지 출처 : 네이버 포토",
-   "url": "https://blog.naver.com/songam27/224488852414",
-   "engine": "naver_blog",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": "가장 막막했던 순간에 망설임 없이 내밀어 준 동료의 든든한 의리와, 가족을 위해 다시 힘을 내는 가장의 진심 어린 분투가 따뜻한 울림을 전해줍니다. 거센 파도를 무사히 넘기고 다시 밝은 웃음을 찾아가는 이들에게 수많은 팬들의 따뜻한 격려와 응원이 이어지고 있습니다. [김장대전] 운림가 55년전통 국산 전라도 해남 김장 배추 포기 김치 주문 2kg 김치명가 ",
-   "url": "https://blog.naver.com/songam27/224488851173",
-   "engine": "naver_blog",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": "올해는 굿은 날씨도 있어고 순응시험도 있어고 영하 권 추운날씨도 있었지만 김치담그는 날에는 포근하고 따뜻하며 어려움 없이 김장을 마칠 수 있어 다행 입니다 우리가족 맛있는 \"우리엄마표\"김치 한해동안 맛있게 드시기 바랍니다. ♧ 화요일과 수요일 비가 내린다는 예보가 있어 월요일(11/16일)날 배추600포기 뽑기를 하였습니다. ♧ 올해 순응시험이 19일날 있",
-   "url": "https://blog.naver.com/chowos1/224488840083",
-   "engine": "naver_blog",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": "여긴 원래 강경에서 아주 유명한 해물칼국수집인데 대전에도 생김요!♡ 굴을 이렇게 잔뜩 넣어주는게 포인트♡ 여긴... 언제 입맛 통일이 되려나?: 이번주 목요일 김장이라 고기 잔뜩 삶아놔서 목요일에도 김장김치랑 수육 또 먹을... com/limsun_5631/224487303678 임주부네 지난 집밥 이야기는 여기에서 보세요♡ #냉장고파먹기 #집밥메뉴추천 #",
-   "url": "https://blog.naver.com/limsun_5631/224488837831",
-   "engine": "naver_blog",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": "김향연 공소청장(좌측에서다섯번째)과 함께한 직원과 자원봉사자가 기념사진을 촬영하고있다(출처; 서부범피) - 서울서부지방공소청·서울서부범죄피해자지원센터, 피해자와 함께하는 2026 김장나눔행사 ‘범우리’개최... 김향연 공소청장(좌측에서다섯번째)과 함께한 직원외 자원봉사자 및 범죄피해자가족(모자리크)이 기념사진을 촬영하고있다(출처; 서부범피) 이날... 새 ",
-   "url": "https://blog.naver.com/oss8282/224488821378",
-   "engine": "naver_blog",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": "가족 수가 같아도 달걀을 자주 굽는 집과 여러 재료를 한 번에 볶는 집에 필요한 크기는 달라요. 같은 제품군이라도 크기에 따라 팬 안에 재료를 놓는 방식과 인덕션에서 확인할... 제품 상세보기 [김장대전][N단독구성] 테팔 인덕션 스텐 티타늄 1X 디네토 프라이팬 20CM 테팔 naver.me [김장대전][N단독구성] 테팔 인덕션 스텐 티타늄 1X 디네토 ",
-   "url": "https://blog.naver.com/fdsa5926/224488794491",
-   "engine": "naver_blog",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": "해양수산부가 추진하는 **'대한민국 수산대전 김장철 특별전'**이 진행되고 있기 때문입니다. 행사기간 2026년 10월 28일~11월 29일 주요 할인 대상 새우젓 멸치액젓 천일염 굴 행사에 포함된 주요 수산물 최대 할인율은 50%입니다. 다만 판매처별 할인율과 품목이 다를 수 있으므로 구매 전에 확인해야 합니다. 특히 젓갈은 가격뿐 아니라 원산지와 보관 ",
-   "url": "https://blog.naver.com/jungock02/224486838904",
-   "engine": "naver_blog",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": "아이와 함께 오시면 간단히 체험하고 구경하기 좋아요 2️⃣ 대전사회적경제혁신타운 김장봉사 - 일시 : 2025년 12월 10일 수요일 9:00 ~ 14:00 - 장소 : 대전사회적경제혁신타운 1층 이번 김장봉사는 취약계층 지원을 위해 도담도담에서 직접 준비 중인 나눔 행사예요 후원이나 봉사 활동에 관심 있으신 분들은 아래 글 링크를 통해 자세히 확인해주세요",
-   "url": "https://cafe.naver.com/dodamdadam1004/2741843?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZGFtZGFkYW0xMDA0IiwiYXJ0aWNsZUlkIjoyNzQxODQzLCJpc3N1ZWRBdCI6MTc5NTQzNjI0MDUzMX0.rFvGr_8bN0vWDK-SrxCEEl9spo0S_i3WOu12n33A6pQ",
-   "engine": "naver_web",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": "대전경실련은 해마다 이어온 김장봉사와 연탄봉사를 올해도 변함없이 진행했습니다. 공동대표 장형근·심희권님을 비롯해 회원과 가족 20여 명이 함께해 삼성동 쪽방촌에 계신 독거어르신 두 가정에 연탄 500장을 전달했습니다. 벧엘의집과 함께한... 작은 나눔이 모여 큰 따뜻함이 되기를 바라며, 대전경실련은 앞으로도 이웃 곁에서 함께 걷겠습니다.새 창 열림",
-   "url": "https://cafe.naver.com/no1sejong/4167635?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5vMXNlam9uZyIsImFydGljbGVJZCI6NDE2NzYzNSwiaXNzdWVkQXQiOjE3OTU0MzYyNDA1MzF9.D0FuVf_u_w4QuLyYZOpF3palBOlS2JTPtAm9nuDbj6Y",
-   "engine": "naver_web",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": "KTV 국민방송새 창 열림",
-   "url": "https://m.ktv.go.kr/",
-   "engine": "naver_web",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": "소외된 이웃에게 나눔 봉사도 한 다문화 여성들의 모습을 박혜란 국민기자가 취재했습니다. 박혜란 국민기자> (유성구자원봉사센터 / 대전시 유성구) 이른 아침 대전의 한 자원봉사센터 주차장. 대전 유성구에서 활동하는 자원봉사단체인 드리미 회원 50여 명이 모였습니다. 김장김치와 깍두기를 담근 뒤 소외계층에게 전달하기 위해서인데요. 일반 시민 회원 40명과 함께",
-   "url": "https://m.ktv.go.kr/program/again/view?content_id=743789",
-   "engine": "naver_web",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": ":) 오늘 오전 9시부터 마라톤정형외과 임직원분들과 오렌지푸드 직원분들이 함께 모여 사랑의 김장김치 나눔 봉사활동을 진행했어요. 도담도담에게는 올해 처음 함께한 김장 후원봉사... 후원활동을 계속해가려구요~! 그리고 이번 인연을 계기로 마라톤정형외과, 그리고 도담의 오랜 벗 오렌지푸드와 앞으로 더 자주, 더 좋은 모습으로 함께할 수 있기를 기대해봅니다. 한",
-   "url": "https://cafe.naver.com/dodamdadam1004/2808668?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvZGFtZGFkYW0xMDA0IiwiYXJ0aWNsZUlkIjoyODA4NjY4LCJpc3N1ZWRBdCI6MTc5NTQzNjI0MDUzMn0.CXg1sG4knbi9tbBSnKfFv32O7yyF3AVrRfAN8AH3OkM",
-   "engine": "naver_web",
-   "query": "대전 김장 나눔 가족 봉사",
-   "first_seen": "2026-11-23T21:07:48+09:00"
-  },
-  {
-   "title": "특히 둘째를 임신 중인 가족도 참여할 수 있고, 선정되지 않아도 좌석에 따라 입장권을 할인받을 수 있어 눈길이 갑니다. FC서울 다자녀 가족 무료 초청, 경기와 신청 일정2026년 11월 23일 공개된 서울시 안내에 따르면 초청 경기는 11월 28일 토요일 오후 2시 서울월드컵경기장에서 열리는 FC서울과 대전하나시티즌의...",
-   "url": "https://cafe.naver.com/issue79/601?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imlzc3VlNzkiLCJhcnRpY2xlSWQiOjYwMSwiaXNzdWVkQXQiOjE3OTU0MzYyOTAyOTd9.vak_CfZprKeZdI02AXMy0eyS0vit4fDS0UyIQSUBJvQ&q=%eb%8c%80%ec%a0%84%20%ed%94%8c%eb%a1%9c%ea%b9%85%20%ea%b0%80%ec%a1%b1%20%ec%b0%b8%ec%97%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "대전 플로깅 가족 참여",
-   "first_seen": "2026-11-23T21:07:48+09:00"
   }
  ],
- "errors": [
-  "gnews '1365 대전 가족 봉사': HTTP Error 429: Too Many Requests",
-  "gnews '대전 가족센터 가족봉사단 모집': HTTP Error 429: Too Many Requests"
- ],
- "skipped_for_time": 49
+ "errors": [],
+ "skipped_for_time": 62
 }
