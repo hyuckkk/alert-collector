@@ -1,13 +1,11 @@
 {
- "updated": "2026-11-24T06:43:46+09:00",
+ "updated": "2026-11-25T07:08:38+09:00",
  "source": "aside",
  "note": "Aside 실제 브라우저 네이버 검색 결과(하루 1회). 각 JOB 은 job 이 자기 것이고 first_seen 이 직전 실행 이후인 hit 만 판정한다.",
  "searches_done": 15,
- "searches_failed": 3,
+ "searches_failed": 1,
  "errors": [
-  "['daejeon-familycenter-programs', 'daejeonseogu-familycenter-programs', 'vol-ysvc-main']: 답 JSON 아님: ",
-  "['yes24-search-daejeon', 'usmint-morgan-peace-diamond-field-26xs']: 답 JSON 아님: {\"pages\":[{\"id\":\"yes24-search-daejeon\",\"url\":\"https://ticket.yes24.co",
-  "['naver-job10-16', 'naver-job10-17', 'naver-job10-18']: 답 JSON 아님: 세종 관련 `items` 배열을 전달했습니다."
+  "['naver-job1-07', 'naver-job1-08', 'naver-job2-09']: 답 JSON 아님: job10-11 결과를 KuroDY 에이전트에 전달했습니다."
  ],
  "hits": [
   {
@@ -184,6 +182,213 @@
    "job": "job7",
    "engine": "aside_naver",
    "first_seen": "2026-11-24T06:43:46+09:00"
+  },
+  {
+   "title": "2026 어린이 참여공연 아빠와 난 초등1학년 - 대전",
+   "url": "https://blog.naver.com/soi_nara/224486018345",
+   "snippet": "2026.12.04 ~ 2026.12.05 · 대전 서구문화원 · 12,900원",
+   "evidence": "2026.12.04 ~ 2026.12.05 대전 서구문화원 공연시간 정보 2026년 12월 04일(금) ~ 2026년 12월 05일(토) 금 19시 30분 / 토 11시, 14시, 16시 30분",
+   "query": "대전 어린이 뮤지컬",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00",
+   "official_url": "https://booking.naver.com/booking/12/bizes/1757222"
+  },
+  {
+   "title": "가족퍼포먼스 [페인터즈]",
+   "url": "https://blog.naver.com/1112kim/224485140957",
+   "snippet": "2026-12-25 ~ 2026-12-25 · 대전시립연정국악원 큰마당 · R석 3만원, S석 2만원 · 5세 이상 관람 가능 ※2022년 포함 및 이전 출생자",
+   "evidence": "공연일 2026-12-25 ~ 2026-12-25 시간 오후 2시, 오후 5시 ※1일간 2회 공연",
+   "query": "대전 어린이 뮤지컬",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00",
+   "official_url": "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceView.do?pblprfrInfoId=2047"
+  },
+  {
+   "title": "[대전] 2026 겨울특집 가족매직쇼 [버블S의 스노우버블쇼]",
+   "url": "https://blog.naver.com/tjddusdl11/224490242129",
+   "snippet": "2026.12.19 ~ 2026.12.20 · 대전 평송청소년문화센터 소극장 · 전석 50,000원; 할인 적용 시 최저가 17,000원 ~ 최고가 25,000원 · 24개월 이상",
+   "evidence": "공연시간 안내 2026년 12월 19일(토)~20일(일) 토 13시, 15시, 17시 일 11시, 14시, 16시",
+   "query": "대전 어린이 뮤지컬",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00",
+   "official_url": "https://ticket.yes24.com/Perf/60328"
+  },
+  {
+   "title": "가족퍼포먼스 [페인터즈]",
+   "url": "https://blog.naver.com/1112kim/224485140957",
+   "snippet": "2026-12-25 ~ 2026-12-25 · 대전시립연정국악원 큰마당 · R석 3만원, S석 2만원 · 5세 이상 관람 가능 ※2022년 포함 및 이전 출생자",
+   "evidence": "공연일 2026-12-25 ~ 2026-12-25 시간 오후 2시, 오후 5시 ※1일간 2회 공연",
+   "query": "대전 가족 뮤지컬 티켓오픈",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00",
+   "official_url": "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceView.do?pblprfrInfoId=2047"
+  },
+  {
+   "title": "[대전] 2026 겨울특집 가족매직쇼 [버블S의 스노우버블쇼]",
+   "url": "https://blog.naver.com/tjddusdl11/224490242129",
+   "snippet": "2026.12.19 ~ 2026.12.20 · 대전 평송청소년문화센터 소극장 · 전석 50,000원; 할인 적용 시 최저가 17,000원 ~ 최고가 25,000원 · 24개월 이상",
+   "evidence": "공연시간 안내 2026년 12월 19일(토)~20일(일) 토 13시, 15시, 17시 일 11시, 14시, 16시",
+   "query": "대전 어린이 공연 무료 예약",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00",
+   "official_url": "https://ticket.yes24.com/Perf/60328"
+  },
+  {
+   "title": "가족퍼포먼스 [페인터즈]",
+   "url": "https://blog.naver.com/bom6065/224490149462",
+   "snippet": "2026-12-25 ~ 2026-12-25 · 대전시립연정국악원 큰마당 · R석 3만원, S석 2만원 · 5세 이상 관람 가능 ※2022년 포함 및 이전 출생자",
+   "evidence": "공연일 2026-12-25 ~ 2026-12-25 시간 오후 2시, 오후 5시 ※1일간 2회 공연",
+   "query": "대전 어린이 공연 무료 예약",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00",
+   "official_url": "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceView.do?pblprfrInfoId=2047"
+  },
+  {
+   "title": "쇼뮤지컬 〈시크릿쥬쥬 : 별의보석 - 잃어버린 빛을 찾아서〉 - 대전",
+   "url": "https://blog.naver.com/ibmsung/224489692640",
+   "snippet": "기간 2026.12.25 · 대전 평송청소년문화센터 대극장 · R석 66,000 원 S석 44,000 원 · 24개월이상 관람가능",
+   "evidence": "2026년 12월 25일 (금) 11:00. 14:00, 16:30",
+   "query": "대전 크리스마스 가족뮤지컬",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00",
+   "official_url": "https://nol.yanolja.com/ticket/products/26013206"
+  },
+  {
+   "title": "[대전] 2026 크리스마스 가족뮤지컬 [루돌프와 산타클로스]",
+   "url": "https://blog.naver.com/study777_/224481251342",
+   "snippet": "2026.12.13 ~ 2026.12.13 · 대전 평송청소년문화센터 소극장 · 전석 40,000 원 · 24개월이상 관람가",
+   "evidence": "[대전] 2026 크리스마스 가족뮤지컬 [루돌프와 산타클로스] 2026.12.13 ~ 2026.12.13",
+   "query": "대전 크리스마스 가족뮤지컬",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00",
+   "official_url": "https://ticket.yes24.com/Perf/60278"
+  },
+  {
+   "title": "[대전] 2026 겨울특집 가족매직쇼 [버블S의 스노우버블쇼]",
+   "url": "https://blog.naver.com/tjddusdl11/224490242129",
+   "snippet": "2026.12.19 ~ 2026.12.20 · 대전 평송청소년문화센터 소극장 · 전석 50,000 원 · 24개월 이상",
+   "evidence": "[대전] 2026 겨울특집 가족매직쇼 [버블S의 스노우버블쇼] 2026.12.19 ~ 2026.12.20",
+   "query": "대전 12월 어린이 공연 예매",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00",
+   "official_url": "https://ticket.yes24.com/Perf/60328&Gcode=009_130_004"
+  },
+  {
+   "title": "2026 어린이 참여공연 아빠와 난 초등1학년 - 대전",
+   "url": "https://blog.naver.com/angelmanim/224489835592",
+   "snippet": "2026.12.04 ~ 2026.12.05 · 대전 서구문화원 · 12,900 원",
+   "evidence": "2026.12.04 ~ 2026.12.05 대전 서구문화원 공연시간 정보 2026년 12월 04일(금) ~ 2026년 12월 05일(토) 금 19시 30분 / 토 11시, 14시, 16시 30분",
+   "query": "대전 12월 어린이 공연 예매",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00",
+   "official_url": "https://booking.naver.com/booking/12/bizes/1757222"
+  },
+  {
+   "title": "2026 유성 세대이음 AI 페스타",
+   "url": "https://blog.naver.com/042mom/224490203632",
+   "snippet": "2026. 12. 5.(토) 10:00~15:00 · 용산디지털전환지원센터 일원(유성구 배울1로 118, 용산도서관 2층) · 무료 · 유성구 거주 가족",
+   "evidence": "○ 행사명: 2026 유성 세대이음 AI 페스타○ 일 시: 2026. 12. 5.(토) 10:00~15:00  - 1부 10:00~12:00 / 2부 13:00~15:00 (1·2부 동일 프로그램)○ 장  소: 용산디지털전환(DX)지원센터(용산도서관 2층) 일원○ 대  상: 유성구 거주 가족 150가족(1·2부 각 75가족, 선착순)○ 신  청: ~ 11. 29.(일), 행사 포스터의 QR코드를 통해 사전 신청",
+   "query": "대전 가족 체험 선착순",
+   "job": "job7",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00",
+   "official_url": "https://www.yuseong.go.kr/dyi/program/view/4.do?proIdx=23"
+  },
+  {
+   "title": "크리처 케어로그 파충류 페스티벌",
+   "url": "https://blog.naver.com/yagommang/224489677108",
+   "snippet": "2026.11.28 ~ 2026.11.29 · 대전컨벤션 센터 DCC 1전시장 · 사전 예매 성인 10,000원; 사전 예매 소인(36개월 이상) 6,000원 · 전체관람가; 소인 36개월 이상; 36개월 미만 아동 무료입장",
+   "evidence": "* 티켓 오픈 : 2026년 11월 20일(금) 10시* 예매 마감 : 행사 전일 24시* 취소 마감 : 행사 전일 24시[전시시간 정보]운영기간 : 2026년 11월 28일(토) ~ 2026년 11월 29일(일)운영시간 : 토요일 : 12:00 ~ 18:00 (입장 마감 17:30)일요일 : 10:00 ~ 18:00 (입장 마감 17:30)",
+   "query": "대전 가족 체험 선착순",
+   "job": "job7",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00",
+   "official_url": "https://www.ticketlink.co.kr/product/67188"
+  },
+  {
+   "title": "대전시립박물관 우리놀이터 12월 예약",
+   "url": "https://blog.naver.com/bom6065/224486592939",
+   "snippet": "2026-12-01 ~ 2026-12-31 · 대전시립박물관 우리놀이터 (대전광역시 유성구 도안대로 398) · 무료 · 만 36개월 ~ 만 8세 (보호자 필수)",
+   "evidence": "시설명 대전시립박물관 우리놀이터 이용기간 2026-12-01 ~ 2026-12-31 신청기간 2026-11-10 ~ 2026-12-31 강좌시간 화,수,목,금,토 신청방법 온라인예약(선착순) 수강료 무료 대상 대전시민전체",
+   "query": "대전 어린이 체험 접수",
+   "job": "job7",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00",
+   "official_url": "https://www.daejeon.go.kr/okr2019/expRsvtList.do?boardUseYn=N&menuSeq=8201&menuUseYn=N&ntatcDelYn=Y"
+  },
+  {
+   "title": "2026년 복권기금 아동·청소년 돌봄강화 프로그램 “마음 채움”",
+   "url": "https://sjfamily.or.kr/html/notice/22065",
+   "snippet": "2026년 12월 4일(금) 14:00 ~ 12월 5일(토) 11:00 · 소노벨 천안 (충남 천안시 동남구 성남면 소노로 1) · 세종시에 거주 중인 등록장애인 아동청소년과 그 가족",
+   "evidence": "3. 진행일시 : 2026년 12월 4일(금) 14:00 ~ 12월 5일(토) 11:00",
+   "query": "세종 가족 체험 모집",
+   "job": "job7",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00"
+  },
+  {
+   "title": "나를 빛내는 퍼스널 컬러, K-뷰티(내국인)",
+   "url": "https://www.sejongyeonhap.co.kr/news/articleView.html?idxno=59118",
+   "snippet": "2026.11.25 ~ 2026.12.16 · 3층 배움실 어진 · 무료 · 내국인 성인",
+   "evidence": "기간: 2026. 11. 25. ~ 12. 16. (매주 수요일, 4차시)시간: 10:00~12:00대상: 내·외국인 성인",
+   "query": "세종 이도마루 가족 프로그램",
+   "job": "job7",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00",
+   "official_url": "https://life.sje.go.kr/edu/community/events/program-detail/2463"
+  },
+  {
+   "title": "안다미로아트컴퍼니 〈도로시의 대모험:OZ〉-세종",
+   "url": "https://blog.naver.com/sjcf01/224485028657",
+   "snippet": "기간 2026.12.05 · 세종문화예술회관(조치원) · 전석 10,000 원 · 전체관람가",
+   "evidence": "기간 2026.12.05",
+   "query": "세종 공연장상주단체 가족 공연",
+   "job": "job10",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00",
+   "official_url": "https://nol.yanolja.com/ticket/products/26016029"
+  },
+  {
+   "title": "[모집]2026년 복권기금 아동·청소년 돌봄강화 프로그램 “마음 채움” 모집",
+   "url": "https://sjfamily.or.kr/html/notice",
+   "snippet": "2026년 12월 4일(금) 14:00 ~ 12월 5일(토) 11:00 · 소노벨 천안(충남 천안시 동남구 성남면 소노로 1) · 세종시에 거주 중인 등록장애인 아동청소년과 그 가족",
+   "evidence": "3. 진행일시 : 2026년 12월 4일(금) 14:00 ~ 12월 5일(토) 11:00",
+   "query": "세종 청소년센터 가족 프로그램 모집",
+   "job": "job10",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00",
+   "official_url": "https://sjfamily.or.kr/html/notice/22065"
+  },
+  {
+   "title": "[남세종종합청소년센터] 꿈빛페스타 '티셔츠 커스텀 & 산타의 보물 빙고'",
+   "url": "https://www2.sejong.go.kr/youth/prog/progrm/kor/sub03_02/list.do",
+   "snippet": "2026. 11. 28.(토) 14:00~16:00 · 도담동 행정복지센터(보람로 77) · 무료 · 세종시 거주 및 재학 중인 청소년 및 지역주민",
+   "evidence": "2026. 11. 28.(토) 14:00~16:00",
+   "query": "세종 청소년센터 가족 프로그램 모집",
+   "job": "job10",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00",
+   "official_url": "https://www2.sejong.go.kr/youth/prog/progrm/kor/sub03_02/view.do?progrmNo=2134&tmeNo=1"
+  },
+  {
+   "title": "2026 가족 문화 프로그램 : 우리 집 작은 정원, 테라리움 (2차)",
+   "url": "https://www.seoulworker.org/sub_program/operate.php?idx=83",
+   "snippet": "2026. 12. 05 (토) 14:00 ~ 15:30 · 서울특별시 영등포구 국회대로 44길 10 (영등포동7가), 서울시 노동자복지관 5층 소강당 · 수강료 전액 무료 · 가족단위 선착순 15팀",
+   "evidence": "2026. 12. 05 (토) 14:00 ~ 15:30",
+   "query": "노동자 가족 체험 프로그램 신청 서울",
+   "job": "job10",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-25T07:08:38+09:00"
   }
  ]
 }
