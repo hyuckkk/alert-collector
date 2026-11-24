@@ -1,8 +1,22 @@
 {
- "updated": "2026-11-24T08:53:51+09:00",
+ "updated": "2026-11-24T09:11:06+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 3,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "어떤 실내시설의 관람이 멈춘 걸까요 대청댐 물문화관은 물의 소중함과 댐의 역할,대청호·금강의 생태,댐 건설 이전 지역문화를 다루는 전시공간입니다. 기본... 마지막 방류 사진 역시2020년7월의 과거 장면입니다. 현재 방류를 보러 갈 수 있다는 안내로 사용하지 않습니다. 자료·사진 출처 K-water 대청댐 물문화관 공식 안내 https... 새 창 열림",
+   "url": "https://blog.naver.com/min_chaek/224458563506",
+   "engine": "naver_web",
+   "query": "대청댐 방류",
+   "first_seen": "2026-11-24T09:11:06+09:00"
+  },
+  {
+   "title": "저: 용담댐은 금강 상류이고, 대청댐(대청호)은 금강줄기에 속해 있습니다. 곧, 용담댐에서 방류한 물이 대청호로 유입된다는거죠. 아래 사진은 용담댐과 대청댐 정보 입니다. ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ 아래 사진은 금강 정보 입니다. ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ 용담댐부터 금강휴게소까지의 경로중 군데군데를 설정하여... 새 창 열림",
+   "url": "https://cafe.naver.com/qotmtkfkd/142188?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InFvdG10a2ZrZCIsImFydGljbGVJZCI6MTQyMTg4LCJpc3N1ZWRBdCI6MTc5NTQ4MDA2Mzc2Nn0.Fqn4f-B34aFwd5VGIQaU-pE_0Dxyuat1H-aWWNJfbkc",
+   "engine": "naver_web",
+   "query": "대청댐 방류",
+   "first_seen": "2026-11-24T09:11:06+09:00"
+  },
   {
    "title": "내일 여수 문어출조가 조금전에 취소되었는데 ㅜㅜ 오늘 한치낚시 출조할려고 출조버스부터 자가로 오신분들 출항을 벌써 했어야하는데 해경에서 갑자기 출항금지 시켜놔서 선장님들 낚시하러 내려오신분들 버스기사님들 큰일이네요. 해경들한테 내만에서 문어라도 하게 요청해도 안된다고 해서 난리라네요.새 창 열림",
    "url": "https://cafe.naver.com/ranceali/93187?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJhbmNlYWxpIiwiYXJ0aWNsZUlkIjo5MzE4NywiaXNzdWVkQXQiOjE3OTU0NzgyOTI0NTF9.HVDbzN6EX0hwJrKqHTagEAN0TCU93DI2UvV7kDI3v7U",
@@ -1436,5 +1450,5 @@
   }
  ],
  "errors": [],
- "skipped_for_time": 0
+ "skipped_for_time": 30
 }
