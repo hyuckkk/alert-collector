@@ -1,8 +1,857 @@
 {
- "updated": "2026-11-24T12:07:49+09:00",
+ "updated": "2026-11-24T13:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 122,
+ "new_this_run": 121,
  "hits": [
+  {
+   "title": "[항공 라운지] 제주∙파라타∙카타르∙진에어∙트리니티…새 하늘길에 특가, 지상에선 나눔 - 한국면세뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JOWdrU084X0lIakJCSVhaaGZ2dlRXaDRyRXBPa2Fic0FBYVowZzVSbmNrTXBMVHBMRnpGbG83WHhGbThiNHh0b2hVempxNF9mZk1QYkp1NTZRRVJvd21OSmc2ZFg3Z0FCSHc?oc=5",
+   "pub": "Mon, 23 Nov 2026 02:30:36 GMT",
+   "engine": "gnews",
+   "query": "파라타항공 LA 특가 탑승기간",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "항공권 가격 비교하다가 발견한 에어프레미아 블프 할인!! 2026년 에어프레미아 블랙프라이데이 프로모션은 11월 2일부터 15일까지 진행됐는데요. LA 직항 항공권도 할인 대상이더라구요. 사실 처음에는 특가라고 해도 제가 원하는 날짜는 비싸겠지 싶었는데 생각보다 괜찮은 가격이 나와서 바로 예약했어요ㅋㅋㅋㅋ 물론 특가 항공권은 날짜마다 가격이 다르고... 새",
+   "url": "https://blog.naver.com/byebyebluuueeee/224485146401",
+   "engine": "naver_web",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "에어프레미아가 2026년 블랙프라이데이를 맞아 인천 출발 전 노선 최대 72% 할인 프로모션을 진행합니다. 호놀룰루 왕복 95만 2,000원, LA 왕복 117만 5,000원, 도쿄 나리타 왕복 27만 7,500원가격이 보이고 선착순 특가 외에도 최대 20% 할인코드가 제공되네요 프로모션 주요 내용 예약 기간: 2026년 11월 2일 ~ 11월 15일 대상",
+   "url": "https://cafe.naver.com/loyaltylife/366224?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNjYyMjQsImlzc3VlZEF0IjoxNzk1NDkzMzM2MjgwfQ.oYzti_B_AOcj-2dYx3XPWzTZRXLRD9OMEX66As2X7uU",
+   "engine": "naver_web",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "노선을 대상으로 선착순 한정 특가 항공권을 판매한다. 프로모션 기간은 11월30일까지, 탑승 기간은 내년 2월1일부터 10월30일까지다...등 다양한 혜택을 운영한다. ◇파라타항공- 첫 미주 노선 LA 항공권 판매·블랙프라이데이 특가 파라타항공은 내년 5월1일 첫...",
+   "url": "http://v.daum.net/v/20261121070003369",
+   "engine": "daum_news",
+   "query": "파라타항공 LA 특가 탑승기간",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "프로모션 종료 후 혜택 안내 알림톡이 발송되는 구조예요. 참고해주세요! 에어캐나다를 선택하는 이유... 캐나다 여행에서 에어캐나다는 단순한 이동 수단이 아니라 여행의 시작이에요. 참고해주세요! ✈️ 노선별 특가 가격 — 4개 노선 전부 정리해드릴게요 ️ ① 인천 → 밴쿠버 | 왕복 1,742,200원~ [직항] 인천(ICN) 17:45 출발 → 밴쿠버(YV",
+   "url": "https://blog.naver.com/julius_90/224339096750",
+   "engine": "naver_web",
+   "query": "에어캐나다 인천 덴버 편도 프로모션",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "인천-뉴욕, 대한항공(KE) 2. 뉴욕-댈러스, 델타항공(DL) 3. 댈러스-덴버, 유나이티드항공(UA) 4. 덴버-캘거리, 유나이티드항공(UA) 5. 에드먼턴-밴쿠버, 에어캐나다(CA) 6. 밴쿠버-인천, 대한항공(KE) 모든 일정 마일리지 발권이라 마일리지 적립은 없습니다. 2주 동안 이코노미만 6번 탄다니 벌써 허리가 아픈 것 같지만, 그래도 기대됩니",
+   "url": "https://cafe.naver.com/loyaltylife/335425?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozMzU0MjUsImlzc3VlZEF0IjoxNzk1NDkzNDEwNDQxfQ.E7NTyxQ5HdAcsUWLtovQqCxwDYR0hHGSa7JQuTXAy4k",
+   "engine": "naver_web",
+   "query": "에어캐나다 인천 덴버 편도 프로모션",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "결제 타이밍 2월 (연초 주요 항공사들의 상반기 특가 프로모션 집중 기간) 여행 추천 일정 4월 말 출발 ~ 5월 1일 근로자의 날... 항공사(에어캐나다 등) 공식 홈페이지나 앱에서 진행하세요! 일정이 변경되거나 비행기 지연/취소가 발생했을 때 수수료나 환불, 대체편 배정 처리가 훨씬 깔끔하고 수월합니다. ✈️ 3. 경유 노선의 반전 가성비 (인천-토론토",
+   "url": "https://blog.naver.com/darki214/224384017583",
+   "engine": "naver_web",
+   "query": "에어캐나다 인천 덴버 편도 프로모션",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "2026년 11월 24일 취항 기념 특가가 예정돼 있습니다 복수 보도에서 2026년 11월 24일부터 LA 노선 취항 기념 특가 프로모션을 진행한다고 전했습니다. 출발이 2027년 5월이라... kr/industry/2026/11/17/2026111709541769331 이데일리 — 파라타항공, 첫 미주 노선 LA 항공권 판매…내년 5월 매일 운항 (202",
+   "url": "https://blog.naver.com/perks_trip/224489771679",
+   "engine": "naver_web",
+   "query": "파라타항공 미주 프로모션",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "파라타항공이 11/17 화요일 발권 & 탑승분부터 마일리지 적립을 시작합니다. 공홈 뿐만 아니라, 여행사나 OTA를 통해... 2039 미주 인천 - LA 5995 기간별 적립 내역은 아래와 같이 확인할 수 있다고 합니다. - 26/11/17 ~ 26/12/31 탑승분 : 27/1/7에... 항공권 가격은 에어프레미아 수준으로 책정될 것으로 보입니다. 그리",
+   "url": "https://cafe.naver.com/loyaltylife/369844?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNjk4NDQsImlzc3VlZEF0IjoxNzk1NDkzNDE2NzE3fQ.RF0dMHfzhX560Y0MMTOa_cH1SW4_MHslyAOJzsIOyMQ",
+   "engine": "naver_web",
+   "query": "파라타항공 미주 프로모션",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "파라타 항공의 비즈는 꽤나 본격적이란거~ 180도 풀플랫 파라타 비즈석 ⬇️ 헥센 대장님의 파라타 비즈 후기 파라타 비즈는 일본, 동남아 노선에서 운영 중이고 (추후 미주노선 추가... 아 전쟁땜에 미주노선 미뤄짐 갓댐!!!!! ㅠㅠ ) 원래 업글... 느낌 파라타 취항 기념으로 업그레이드 할인행사 중이였는데, 6/30일까지 연장되었습니다 (제가 고객센터에",
+   "url": "https://cafe.naver.com/hexenyang/67597?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhleGVueWFuZyIsImFydGljbGVJZCI6Njc1OTcsImlzc3VlZEF0IjoxNzk1NDkzNDE2NzE3fQ.b22JJtkURevBBBp0y5_6hC6op9WUO7dOegxCx8Za60k",
+   "engine": "naver_web",
+   "query": "파라타항공 미주 프로모션",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "밴쿠버 특가, ANA항공의 하네도 노선 특가 프로모션도 진행되고 있습니다. 트립닷컴 국내선 국제선 항공 프로모션... 국제선 특가 아시아나항공의 일본, 중국, 태국, 베트남, 홍콩을 비롯한 아시아, 미주, 유럽, 호주 시드니 노선 등... com GO 재팬 GO 재팬 Promotion 토스페이로 한국 출발 일본 항공권 예약 시 5%(최대 5만 원), 호텔 ",
+   "url": "https://blog.naver.com/hapiter/224359009107",
+   "engine": "naver_all",
+   "query": "ANA 미주 특가 한국 출발",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "국내 LCC는 대형항공사와 똑같이 유류할증료를 부과하고, 특가 운임에도 할인이 적용되지 않아요. 운임이 1만... 1,500엔, ANA는 900엔 내려가요. 낙폭이 크지 않죠. 반면 장거리는 차이가 확연해서, JAL 유럽·미주 노선은 편도 15,000엔이... 한국 국적사의 일본 출발분도 일본 국토교통성 인가 대상이지만, JAL·ANA처럼 별도 공지로 정리",
+   "url": "https://blog.naver.com/stucktravel/224392533626",
+   "engine": "naver_all",
+   "query": "ANA 미주 특가 한국 출발",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "운임과 별도로 붙기 때문에 특가 항공권을 잡아도 최종 결제창에서 금액이 확 뛰어 보일 수 있죠. 2026년 9월 한국 출발... 대한항공 한국 출발 편도 기준으로 보면 2026년 9월에는 일본 단거리부터 미주·유럽 장거리까지 전반적으로 올랐어요.... 일본 항공사인 JAL·ANA는 2026년 9월 1일 발권분부터 한국 노선 편도 기준 7,400엔에서 5,9",
+   "url": "https://blog.naver.com/sphinx104/224394723056",
+   "engine": "naver_all",
+   "query": "ANA 미주 특가 한국 출발",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "항목 모닝캄 모닝캄 셀렉트 원화 가치 프레스티지 라운지 직영 2년 총 4회 동반 1인, 공식 문구에 횟수 제한 표기 없음, 스카이팀 라운지 포함 인천 마티나 성인 USD 45 = 약 60,500원/회 미주 일반석 수하물 1개 추가 미주 일반석 제외 제외 단서 없음 2번째 수하물 편도 200,000원(한국 출발) 사전 좌석 일반좌석만 프런트 존 무료 장거리 ",
+   "url": "https://blog.naver.com/nothingbut/224432181183",
+   "engine": "naver_all",
+   "query": "ANA 미주 특가 한국 출발",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "→ 예약 전 기종 확인 필수 가격 감각 (현실 기준) 한국–유럽/중동 왕복 비즈니스: 프로모션 시 350~450만 원대 종종 등장 성수기·직항·Qsuite 확정 시: 500만 원대 이상 싸게 타는 요령 (실전) 출발 요일: 화·수 출발이 가장 유리 도하 경유: 직항보다 경유가 훨씬 싸게 풀림 마일리지 업그레이드: 이코노미 특가 → 비즈 업그레이드 성공률 높",
+   "url": "https://blog.naver.com/matari03/224109469536",
+   "engine": "naver_all",
+   "query": "ANA 미주 특가 한국 출발",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "항공사 이코노미 좌석 기준 무료 위탁 수하물 최대 무게는 대형 항공사(대한항공·아시아나 등) 23kg, 저비용 항공사(제주항공·티웨이·진에어 등) 15kg이 기본 공식이지만, 특가 운임 여부와 미주 노선 여부에 따라 차이가 발생합니다. 항공권 발권 후 받은 e-티켓 하단의 무료 수하물 허용량(Baggage Allowance) 표시를 미리 확인하시고, 필요 ",
+   "url": "https://blog.naver.com/taehorr/224489790409",
+   "engine": "naver_blog",
+   "query": "아시아나 미주 특가",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "트립닷컴에서 '국제선 최적 항공요금 비교조회하기 & #12월유류할증료 #유류할증료인하 #2026년12월유류할증료 #항공권싸게사는법 #항공권예약팁 #해외여행준비 #비행기표싸게사는법 #겨울해외여행 #연말해외여행 #설연휴해외여행 #국제선유류할증료 #대한항공유류할증료 #아시아나유류할증료 #항공권발권 #항공권특가 #일본항공권 #동남아항공권 #유럽항공권 #미주항공..",
+   "url": "https://blog.naver.com/tourbom/224489755082",
+   "engine": "naver_blog",
+   "query": "아시아나 미주 특가",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "금액이 미주 노선보다 작지만, 인하율은 오히려 더 높습니다. ✔ 아시아나항공은? 아시아나는 편도 기준 후쿠오카·칭다오 등 동북아 최단 노선 5만7500원, 도쿄·베이징 등... supple ④ 특가 항공권도 총액으로 비교하기 특가 운임이 싸 보여도 유류할증료와 세금을 더하면 차이가 줄어드는 경우가 많아요. 결제 직전 최종 금액을 꼭 확인하세요. 7. 한 줄",
+   "url": "https://blog.naver.com/sanghuns192/224489721499",
+   "engine": "naver_blog",
+   "query": "아시아나 미주 특가",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "아시아나항공 인천 왕복이고, 인천 12:00에 출발해요. 호텔은 직접 고르지 않고 일정에 맞춰 배정돼요. 평점 4.8 / 후기 630개예요. 구엘공원 정상에 오르면 바르셀로나 시내와... 마이리얼트립 지금특가 보기 가격 2026년 11월 23일에 확인한 값이에요. 12월 9일 출발, 성인 1인 기준 쿠폰 적용가는 2,736,160원부터예요. 소아도 같은 값",
+   "url": "https://blog.naver.com/bestitem-info/224488176077",
+   "engine": "naver_blog",
+   "query": "아시아나 미주 특가",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "“도박도 술도 아니다..” 나훈아가 말한 남자의 인생을 망치는 최악의 취미 1위 \"도박도 술도 아니다..\" 나훈아가 말한 남자의 인생을 망치는 최악의 취미 1위 \"도박도 술도 아니다..\" 나훈아가 말한 남자의 인생을 망치는 최악의 취미 1위 사람들은 인생을 망치는 취미라고 하면 흔히 도박이나 지나친 음주부터 떠올린다. 하지만 돈을 크게 잃거나 건강을 해치는",
+   "url": "https://cafe.naver.com/dlxogns01/452424?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6NDUyNDI0LCJpc3N1ZWRBdCI6MTc5NTQ5MzU0NzUwNH0.Ki3pRQ1SmctCANp0rC-OUwcPbdWMQ8AFt4RVFWq-Oq0&q=Air%20Canada%20sale%20Korea&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "Air Canada sale Korea",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "Mameinfo + MAMEUI-inifiles-0290GIT (20th Nov) 2026-11-20 *NEW* Mameinfo + MAMEUI-inifiles-0290GIT (20th Nov) (4.65 MB) MAMEUI 0.289 Category-, Version and Alltime inifiles (1022 kB) MAME NEWS from 0.3",
+   "url": "https://cafe.naver.com/emuljungsim/318115?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVtdWxqdW5nc2ltIiwiYXJ0aWNsZUlkIjozMTgxMTUsImlzc3VlZEF0IjoxNzk1NDkzNTQ3NTA0fQ.0JNJtxtYycsPmxdyr73_kcAcJNjZZns-ouTFj8sIQYc&q=Air%20Canada%20sale%20Korea&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "Air Canada sale Korea",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "With a historic first-ever trilateral meeting between the U.S., China, and Russia on tap—alongside talk of a potential U.S.-North Korea... its sale at Sotheby’s in New York. While descendants of a for",
+   "url": "https://cafe.naver.com/engvirus/182953?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVuZ3ZpcnVzIiwiYXJ0aWNsZUlkIjoxODI5NTMsImlzc3VlZEF0IjoxNzk1NDkzNTQ3NTA0fQ.8BQhzVUupU6Zpq1ftiSmB2-uuGlFGSb-BRwB9SzG2Qw&q=Air%20Canada%20sale%20Korea&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "Air Canada sale Korea",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "데일리브리핑 · 2026-11-18 11/18 07:00 ~ 11/18 19:00 (한국장 마감 반영) ────────────────────── 52주/3년 등락률 (순위: 3년 저가 대비 상승률 순) 순위 (3년저가)종목현재가등락률10월 종가11월 등락률52주 저가등락률52주 고가MDD3년 저가등락률3년 고가MDD최고가MDD시장지표1환율(원/달러)1,33",
+   "url": "https://cafe.naver.com/2bat/5978?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjJiYXQiLCJhcnRpY2xlSWQiOjU5NzgsImlzc3VlZEF0IjoxNzk1NDkzNTQ3NTA0fQ.jVUqhQlhVN26KpUHQjaDgeLm9naN5CQURWxcsKhO-ek&q=Air%20Canada%20sale%20Korea&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "Air Canada sale Korea",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "ETS인증센터에서 지필 방식이 아닌, 음성녹음 하는 CBT방식 공정하고 표준화된 방법으로 시험 진행 수험자의 답변은 모두 파일로 저장 됨 미국, 캐나다 등 북미에... 대한항공, 에어부산, 진에어, 티웨이항공, JTBC, MBC, 이투데이 등 전국 대학교 졸업인증 또는 장학금, 해외연수 등으로 성적 활용됨(대학별마다 상이) 항목 내용 문항 수 11... 새",
+   "url": "https://seoulwelfare.tistory.com/352",
+   "engine": "naver_blog",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "6일 에어텔 12월 18일 · 1,871,130원 관광 없는 자유여행, 공항 셔틀 미서부가 캐년과 자연 위주라면, 이 상품은 도시와 폭포, 프랑스풍 구시가지가 중심입니다. 미국과 캐나다를 한 번에 보고 싶다면 이쪽이 맞습니다. ️ 1~2일차 — 브루클린... 항목 내용 가이드·기사 경비 1인 USD 180(식사팁 포함) 현지 지불 ESTA(미국 입국 허가)",
+   "url": "https://blog.naver.com/neko7880/224489710081",
+   "engine": "naver_blog",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "정확히는 항공사 체크인 카운터가 아닌 보안 검색대를 줄 서지 않고 바로 통과하는 아멕스 우선 보안 검색(Priority... 아멕스 에어캐나다 카드 (American Express Air Canada Card) 아멕스 센츄리온 카드 (Centurion Card) (※ 한국이나 미국 등 타... 아멕스에어로플랜리저브 #캐나다아멕스 #토론토공항패스트트랙 #피어",
+   "url": "https://blog.naver.com/kongcong_/224489579826",
+   "engine": "naver_blog",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "에어리퀴드도 미국 반도체 시장에서 적극적인 투자에 나서고 있다. 지난 7월 아이다호주에 1억5,000만달러 이상을 투자해 2028년 가동을 목표로 초고순도 질소·산소·아르곤 생산설비를 건설한다고 발표했다. 이 사업은 기존 고객사와의 장기적인 협력관계를 기반으로 추진되는 것으로 AI 메모리반도체 수요 확대에 대응하는 투자라고 설명했다. 에어프로덕츠 역시 지난",
+   "url": "https://blog.naver.com/igasjournal/224488921214",
+   "engine": "naver_blog",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "젠슨 황 복귀로 미국 증시가 급등한 영향으로 풀이되며, 야간선물의 가격 제한폭은 ±8%다. 23일 코스피는 3.31% 내린 4708.54로 마감해 6월 22일 고점(9114.55)보다 48.3% 낮은 수준에... 솔리다임의 미국 나스닥 상장이 중복상장 규제에 막히면서 설비 투자 자금을 모회사가 떠안게 됐다는 분석이 나왔다. 솔리다임은 SK하이닉스가 2020",
+   "url": "https://blog.naver.com/newstodayx/224489471418",
+   "engine": "naver_blog",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "주캐나다 대사, 통일부 장관 후보자에 홍익표 전 청와대 정무수석, 행정안전부 장관 후보자에 한준호 의원... 교체함으로써 미국 측에 동맹 관리 메시지를 전하는 동시에, 청와대 참모 및 원내 측근을 전진 배치해 친정 체제를 구축한... 국민의힘 윤리위원, 한동훈 의원 '기획 제명' 의혹 추가 폭로 주요 내용: 연합뉴스와 조선일보 보도에 따르면, 국민의힘 전·",
+   "url": "https://blog.naver.com/cho3638/224489402552",
+   "engine": "naver_blog",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "[젠사] 미국 통기성+인체공학 무릎보호대 (1Sleeve * 2개) 스포츠/레저 롯데원티비 02:39:00 02:44:00 [임성근] 임성근 안창살 구이 250g x 11팩 (8팩+3팩 더) 식품... 카멜리아 에어앰플미스트 기본구성 화장품/미용 NS홈쇼핑 샵플러스 03:20:00 04:02:00 제주갈치1 식품 CJ온스타일 03:35:00 04:05:00",
+   "url": "https://blog.naver.com/tvhomeshopping/224489397711",
+   "engine": "naver_blog",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "더불어, 진에어, 에어서울, 에어부산 3사도 2027년도 3월을 목표로 합병을 추진중이라고 합니다. 대한항공 보유 마일리지... 항공권 예약 및 여행 정보 | 대한항공 현재 남은 마일리지는 34,087 마일이네요 3만 5천 정도의 마일리지면 어디어디를 갈... 북미 : 미국, 캐나다 취항도 유럽/중동 : 두바이, 런던, 로마, 리스본 등등 유럽 주요 도시 ",
+   "url": "https://blog.naver.com/madalas/224488347954",
+   "engine": "naver_blog",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "미국 서부의 다른 도시나 캐나다를 경유해 이동하는 방법도 있으나, 환승 시간과 입국 절차를 함께 고려해야 합니다. 시애틀 타코마 국제공항은 흔히 시택공항(Sea-Tac Airport)이라고 부르며, 시애틀 다운타운에서 남쪽으로 약 20km 떨어져 있습니다. 미국에 도착하면 입국심사와 세관 절차를 거쳐야 합니다. 항공편에 따라 수하물을 다시 찾아 연결해야 할",
+   "url": "https://blog.naver.com/leojin81/224488229472",
+   "engine": "naver_blog",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "안녕하세요 :) 여행 인플루언서 에디터로다입니다. 해외여행을 준비하다 보면 여권부터 항공권, 숙소까지 챙길 게 참... 해외여행을 떠날 때는 국가마다 다른 콘센트 플러그 규격을 먼저 확인해야 하는데요. 미국형(US): 캐나다, 일본, 대만... 덕분에 한국과 전압이 호환되는 유럽 여행지에서는 정격전압이 맞는 다이슨 에어랩이나 전기포트처럼 소비전력이 높은..",
+   "url": "https://blog.naver.com/easy_zero/224488215898",
+   "engine": "naver_blog",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "기업·단체여행부터 가족여행, 자유여행까지 다양한 여행을 함께하는 로야트 여행사입니다. 여러분은 '하와이' 하면... 지도> 여행 준비의 첫 번째는 역시 항공권 예약이었습니다. ✈️ 현재 하와이 오아후섬(호놀룰루)까지 한국에서 직항으로 운항하는 항공사는 대한항공, 에어프레미아(Air Premia) 2곳입니다. 예전에는 하와이안항공도 인천-호놀룰루 직항을...",
+   "url": "https://blog.naver.com/loyat/224488100347",
+   "engine": "naver_blog",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "첨부파일 Morning News Call - Europe - Monday, November 23, 2026.pdf 첨부파일 261123-글로벌+은행산업+트렌드.pdf 첨부파일 11.23 미국 10월 근원 PCE 물가, 소폭 상승 예상. 증시... 03:00 미국 재무부 2년물 국채 입찰 11월 25일 (수) 22:30 미국 3분기 GDP 수정치★ 22:30",
+   "url": "https://blog.naver.com/wnguddhkd/224488028567",
+   "engine": "naver_blog",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "동일 증상 재발에 따라 에어컨 팩(Pack), 블리드 에어 덕트, 기내 엔터테인먼트(IFE) 배선 계통의 정밀 격리... 출발해 미국 포트로더데일로 향하던 B6-1717편(N524JB)이 순항 중 갑작스러운 강한 난기류(Severe Turbulence)를... 그 외 주요 항공사고 및 준사고 단신 [Canadair CRJ-900] 재즈 항공 (에어캐나다)(",
+   "url": "https://blog.naver.com/aviationtechlab/224487946544",
+   "engine": "naver_blog",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "내놨으나 미국발 인공지능(AI) 쇼크가 불러온 ‘블랙먼데이’ 공포를 완전히 잠재우지는 못한 모습이다. 시가총액... ‘만지작’ 미국 증시가 반도체주 투매로 급락하면서 우리 주식시장이 '검은 월요일'을 맞을 거란 우려가 커졌습니다.... [투자360] 미국발 인공지능(AI) 투자 불확실성과 반도체주 폭락 여파로 국내 증시에 ‘검은 월요일’ 공포가 확산하고 있",
+   "url": "https://blog.naver.com/cavin419/224487917415",
+   "engine": "naver_blog",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "Cargo Inside Sales Coordinator KOREA, REPUBLIC OF Job ID:39514 Being part of Air Canada is to become part of an iconic Canadian symbol, recently ranked the best Airline in North America. Let your care",
+   "url": "https://blog.naver.com/heartoftheaircraft/224313930932",
+   "engine": "naver_web",
+   "query": "Air Canada sale Korea",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "네이버뉴스새 창 열림",
+   "url": "https://n.news.naver.com/mnews/article/001/0016181541?sid=104",
+   "engine": "naver_web",
+   "query": "Air Canada sale Korea",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "제목: Canadian government moves to end Air Canada strike, seeks binding arbitration https://www.reuters.com/resizer/v2/AR5XAPLEUFPOBKZHV44Z7YEBLQ.jpg?auth=2d8acf2808e35ce41db6b5f4ab48bbfd48c68d995785360",
+   "url": "https://blog.naver.com/simy39438/223973283509",
+   "engine": "naver_web",
+   "query": "Air Canada sale Korea",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "through Canada by air(항공편 경유) ○ Attend a meeting or conference(회의 또는 컨퍼런스) ○ Study(유학) ○ Work(취업) [Continue(계속)] ➤ [Continue(계속)] 클릭 4️⃣ Instructions to enter... the United States(미국 재입국 허가서) ○ U.S. R",
+   "url": "https://blog.naver.com/azure_oos/224414535751",
+   "engine": "naver_web",
+   "query": "Air Canada sale Korea",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "com 트립닷컴 항공권 선착순 쿠폰 11월 27일까지 매일 오전 11시부터 한국 출발 국제선 항공권 50만 원 이상 예약 시 5만 원... 대만, 미주와 유럽, 오세아니아 등 지역별 10% 쿠폰이 표시돼요. 할인 한도가 없는 5% 쿠폰도 별도로 확인할 수 있습니다!... 트립닷컴 티켓 1+1 입장권 특가 Trip.com 11월 24일 오전 11시 시작 11",
+   "url": "https://cafe.naver.com/promocode/38?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InByb21vY29kZSIsImFydGljbGVJZCI6MzgsImlzc3VlZEF0IjoxNzk1NDkzODcyMDk5fQ.--gR1l1nAyj_p1VRqFbx4422rMgKu9uPqbYpUEkOCOY&q=ANA%20%eb%af%b8%ec%a3%bc%20%ed%8a%b9%ea%b0%80%20%ed%95%9c%ea%b5%ad%20%ec%b6%9c%eb%b0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "ANA 미주 특가 한국 출발",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "출발 도시만 잘 고르면 가끔은 “이 정도면 날먹 아닌가?” 싶을 만큼 마일을 아낄 수 있거든요. 만약 실제로 등급을 유지한다면? 이번 등급 매칭은 승인되면 2028년 2월까지 유효한 것으로 안내되어... 스페인 출발 → ITA항공으로 이탈리아 시골 도시행 바르셀로나 등에서 출발해 300유로 미만에 총 5~6세그먼트, 200~240 자격포인트를 채우는 방식입",
+   "url": "https://cafe.naver.com/waateam/166291?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndhYXRlYW0iLCJhcnRpY2xlSWQiOjE2NjI5MSwiaXNzdWVkQXQiOjE3OTU0OTM4NzIwOTl9.a4Wf5zBy2EgUw8LvnpzU7eaayxe8ReKyftB8CHb52WQ&q=ANA%20%eb%af%b8%ec%a3%bc%20%ed%8a%b9%ea%b0%80%20%ed%95%9c%ea%b5%ad%20%ec%b6%9c%eb%b0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "ANA 미주 특가 한국 출발",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "여기어때 특가 여기어때 숙소 페이지와 장소 정보입니다 여기어때 통해 숙소 예약 및 어플 내 리뷰 작성 완료 사진과 설명이 많아 길어질 것 같아서 간단히 순서를 먼저 정리해봤어요 참고하셔서 궁금한 부분만 보셔도 될 것 같아욥 제가 이용한 장소들이면서 아나만다라의 메인 장소들을 지도에 표시해봤어요 위에서부터 순서대로, 5번 : 라군 하우스 - 쿠킹클래스 체험 ",
+   "url": "https://cafe.naver.com/gctripholic/26160?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdjdHJpcGhvbGljIiwiYXJ0aWNsZUlkIjoyNjE2MCwiaXNzdWVkQXQiOjE3OTU0OTM4NzIwOTl9.UZI5VOCIaY85EjWhNWYkeGERwWWTvz2lfDHMTZ9GZVY&q=ANA%20%eb%af%b8%ec%a3%bc%20%ed%8a%b9%ea%b0%80%20%ed%95%9c%ea%b5%ad%20%ec%b6%9c%eb%b0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "ANA 미주 특가 한국 출발",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "· 승차율에 따라 10~30%를 할인하는 온라인 특가가 수서축에도 도입됐습니다. · 좌석 공급이 주중 하루 1만 5천 석, 주말 1만 7천 석 늘었고 수서축 좌석은 약 30% 확대됐습니다. 기획 실무에서 놓치기 쉬운... 예매는 출발 2개월 전 오전 7시 (2026년 10월 1일) 일반 승차권은 출발 2개월 전 오전 7시에 열립니다. 시행 효과는 이미 숫자",
+   "url": "https://cafe.naver.com/8persons/98383?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjhwZXJzb25zIiwiYXJ0aWNsZUlkIjo5ODM4MywiaXNzdWVkQXQiOjE3OTU0OTM4NzIwOTl9.vMxheUHrcDPu25YJZey6rhSCEB9-TigJYcv3cAHLuY8&q=ANA%20%eb%af%b8%ec%a3%bc%20%ed%8a%b9%ea%b0%80%20%ed%95%9c%ea%b5%ad%20%ec%b6%9c%eb%b0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "ANA 미주 특가 한국 출발",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "항공권 종류 가격 비교를 시작할 시점 예약 전략 국내선 출발 1~2개월 전 주말·연휴는 더 일찍 일본·중국·동남아 출발 2~3개월 전부터 특가와 일반 운임 비교 유럽·미주 등 장거리 출발 3~6개월 전부터 가격... 미국 출발 자료이므로 한국 출발 항공권에 그대로 적용해서는 안 된다. 기억할 점! 평소 여행: 출발 2~3개월 전부터 가격 확인 장거리 여행:",
+   "url": "https://cafe.naver.com/dream1month/1212?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRyZWFtMW1vbnRoIiwiYXJ0aWNsZUlkIjoxMjEyLCJpc3N1ZWRBdCI6MTc5NTQ5Mzg3MjA5OX0.gmRCt2ryoDtm_72H2y4uH8YyMRJZqD7sNXBTYdtXIlU&q=ANA%20%eb%af%b8%ec%a3%bc%20%ed%8a%b9%ea%b0%80%20%ed%95%9c%ea%b5%ad%20%ec%b6%9c%eb%b0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "ANA 미주 특가 한국 출발",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "참고사항 - 위 금액은 행사 페이지에 표시된 최저가로, 실시간 예약 상황에 따라 달라질 수 있어요. - 항공권 50% 쿠폰은 한국 출발 국제선 전용이며 최대 10만 원 할인입니다. - 할인 쿠폰은 선착순으로 발급되니 참고하세요! 대한항공 베트남 노선 특가 외에도 일본, 중국, 유럽, 미주 등 전 세계 노선 특가가 준비되어 있으니 참고하세요^^ 좋은 가격에 ",
+   "url": "https://cafe.naver.com/grownman/1191943?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imdyb3dubWFuIiwiYXJ0aWNsZUlkIjoxMTkxOTQzLCJpc3N1ZWRBdCI6MTc5NTQ5Mzg3MjA5OX0.FSMEwIJ9tZPnsPLdLGfbxF9Zfld3ChoUI3TIRBGEinU&q=ANA%20%eb%af%b8%ec%a3%bc%20%ed%8a%b9%ea%b0%80%20%ed%95%9c%ea%b5%ad%20%ec%b6%9c%eb%b0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "ANA 미주 특가 한국 출발",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "■ 한국 출발·도착 — 지금 바로 살 수 있는 딜 ?????????????????????? ?? 항공 ━━━ 한국 출발 ━━━ 1. (신규) [대상한정] 트리니티항공 항공권 최대 9% 할인 · 조건 : - 페이팔 결제 시 적용 ▶ 기사... (신규) 트리니티항공 국제선 할인코드 NOV26 코드 NOV26 (11/30까지) · 기간 : 예매 11/16~11/",
+   "url": "https://cafe.naver.com/loyaltylife/370348?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNzAzNDgsImlzc3VlZEF0IjoxNzk1NDkzODcyMTAwfQ.irDQfVw5oa7n9enoH4cZPBHhRgfPPXUfr9Z14Hoiikk&q=ANA%20%eb%af%b8%ec%a3%bc%20%ed%8a%b9%ea%b0%80%20%ed%95%9c%ea%b5%ad%20%ec%b6%9c%eb%b0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "ANA 미주 특가 한국 출발",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "CGV '수능특가' 혜택: 만 13~18세 회원: 2D 일반영화 7,000원 관람 쿠폰과 '폭설' 5,000원 관람 쿠폰을 각 2매(선착순 5,000명). 콤보 50% 할인 쿠폰, 팝콘 무료 토핑 쿠폰 증정 만 19세 이상 회원: 2D 일반영화 3,000원 할인 쿠폰 2매, 콤보 3,000원 할인 쿠폰 특별관(SCREENX·4DX·IMAX) 관람권 총 15",
+   "url": "https://cafe.naver.com/dreamdeo1/16571?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRyZWFtZGVvMSIsImFydGljbGVJZCI6MTY1NzEsImlzc3VlZEF0IjoxNzk1NDkzODcyMTAwfQ.5aeQuBUo9bb-6vkcdJMDusQ3wImme382qLhoBLQObew&q=ANA%20%eb%af%b8%ec%a3%bc%20%ed%8a%b9%ea%b0%80%20%ed%95%9c%ea%b5%ad%20%ec%b6%9c%eb%b0%9c&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "ANA 미주 특가 한국 출발",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "이를 어길 시 무통보 삭제 및 카페 활동정지됨을 알려드립니다. 1. 출발지 - 목적지 : 인천공항 ㅡ 하와이호놀룰루 2. 항공사 - 좌석 종류 : 에아프레미아 ㅡ 이코노미스탠다드 3. 경유여부 및 대기시간 : 직항 4. 구매 금액 : 1.804.0002인왕복 5. 여행 기간 : 12월6일 ㅡ 12월13일 현지기준 6. 구매 시기 : 2026.08 7. 구매",
+   "url": "https://cafe.naver.com/hawaiiphoto/1619564?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imhhd2FpaXBob3RvIiwiYXJ0aWNsZUlkIjoxNjE5NTY0LCJpc3N1ZWRBdCI6MTc5NTQ5Mzg4ODMyMH0.rZ2jQ4-TEZG8wnM5-c-Hg-_voI_WyQPuD_6fDe1rvdM&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "파라타항공이 첫 미주 노선인 인천~로스앤젤레스(LA) 신규 취항을 앞두고 왕복 항공권을 99만6800원부터 판매하는 특가 프로모션을 진행한다. 파라타항공은 오는 24일 오전 10시부터 30일까지 7일간 공식... 해당 노선에는 총 260석 규모의 에어버스 A330-200 항공기가 투입된다. 이번 LA 취항은 파라타항공이 최근 대형항공사(FSC)로의 전환을 ",
+   "url": "https://cafe.naver.com/rankingking/15843?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJhbmtpbmdraW5nIiwiYXJ0aWNsZUlkIjoxNTg0MywiaXNzdWVkQXQiOjE3OTU0OTM4ODgzMjB9.d2PZ7AJ7xaVs3SZCuFIG7zuI6t4xyraDKuFMrXFUos4&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "에어프레미아 타고 오전7시안되어서 도착했고 비행기에서 내린시간이 7시7분정도? 되었습니다. 대기는 한시간정도 했는데 질문이 엄청 간소했습니다. 뭐하러왔니 약간의 쇼핑과 관광,투어하러왔다 몇일있다가 돌아가니 나인데이스 여러가지 바우처들어있는 파일첩 들고 싱글벙글웃고있어서그랬는지몰라도 5분도안걸린거같았습니다. 대기줄이 길어서 그런거일수도있구요. 아무튼,드디어!",
+   "url": "https://cafe.naver.com/nyctourdesign/1207650?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im55Y3RvdXJkZXNpZ24iLCJhcnRpY2xlSWQiOjEyMDc2NTAsImlzc3VlZEF0IjoxNzk1NDkzODg4MzIwfQ.2ovdXbXnznLgfXctojuy6Ytw2mu-rG9UfYv1gunKXkM&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "글제목 : 말머리 선택 후 '대한항공 / 1.2~1.7 / 120만원 미국항공예약후기' ⭐결제일(연도 포함) → 26년 11월 20일 ⭐항공편 1) 항공사 → 대한항공 2) 출국일 - 현지귀국일(연도 포함) → 27년 2월 5일 ~ 15일 3) 여정(왕복/편도/다구간) → 왕복 4) [가는 편] 출발공항 - 도착공항 (직항/경유) → 인천 -> LA/ 대한",
+   "url": "https://cafe.naver.com/nyctourdesign/1207635?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im55Y3RvdXJkZXNpZ24iLCJhcnRpY2xlSWQiOjEyMDc2MzUsImlzc3VlZEF0IjoxNzk1NDkzODg4MzIwfQ.LiLN__r-EsD51Iye76wglO47yCP-Q-SpDe6ol4lQ-qQ&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "공항↔숙소 택시 왕복예약시 $10할인(뉴욕, LA, SF) 정식 제휴업체는 답변 아이디 옆에 금색 V 표시가 있습니다. V 표시를 꼭 확인해주세요! 신청자 정보 *인원 (예 : 성인 2명) : 성인 2명 *캐리어 (예 : 기내용 3개) : 위탁수화물 2개 ✈️공항→숙소 *도착날짜 (예 : 21년 1월 1일) : 26년 11월 24일 (화) *도착시간 (예 ",
+   "url": "https://cafe.naver.com/nyctourdesign/1207626?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im55Y3RvdXJkZXNpZ24iLCJhcnRpY2xlSWQiOjEyMDc2MjYsImlzc3VlZEF0IjoxNzk1NDkzODg4MzIwfQ.eYUpxXYpfUd2rvHLU3A7LbxoZjCXeTRX6UjtHkNUqyg&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "글제목 : 말머리 선택 후 '대한항공 / 1.2~1.7 / 120만원 미국항공예약후기' ⭐결제일(연도 포함) → 26년 10월 17일 ⭐항공편 1) 항공사 → 에어프레미아 2) 출국일 - 현지귀국일(연도 포함) → 27년 6월 20일 - 27년 6월 28일 3) 여정(왕복/편도/다구간) → 왕복 4) [가는 편] 출발공항 - 도착공항 (직항/경유) → IC",
+   "url": "https://cafe.naver.com/nyctourdesign/1207589?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im55Y3RvdXJkZXNpZ24iLCJhcnRpY2xlSWQiOjEyMDc1ODksImlzc3VlZEF0IjoxNzk1NDkzODg4MzIwfQ.lUrXumZ24ruoMgk7KV2ew9-6Bsgc_BibiIApdrkEjUc&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "(직접 스펙과 후기를 비교해 보니 이 부분에서 만족도가 특히 높더라고요.) 적용 가능한 프로모션 쿠폰이나 옵션별 실시간 할인 혜택가는 시기마다 조금씩 달라질 수 있으니, 위 제품 사진을 눌러 상세... 에어프라이어에 구우면 기름이 쫙 빠져서 담백하고, 겉바속촉으로 즐길 수 있어서 또 다른 매력이 있더라고요. Q. 호주산과 미국산 LA갈비, 맛의 차이가 큰가",
+   "url": "https://cafe.naver.com/hobbbystore/1247?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhvYmJieXN0b3JlIiwiYXJ0aWNsZUlkIjoxMjQ3LCJpc3N1ZWRBdCI6MTc5NTQ5Mzg4ODMyMH0.clqfdupRkERfCl1OjwdPC3d9EGUKnzrEJkEALnl421k&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "이를 어길 시 무통보 삭제 및 카페 활동정지됨을 알려드립니다. 1. 출발지 - 목적지 : 인천-호놀룰루 2. 항공사 - 좌석 종류 : 에어프레미아-이코노미 3. 경유여부 및 대기시간 : 직항 4. 구매 금액 : 4인 총492만원 5. 여행 기간 : 1/8~1/14 (5박7일) 6. 구매 시기 : 11/13 7. 구매 방법 : 에어프레미아 앱 8. 할인 여부",
+   "url": "https://cafe.naver.com/hawaiiphoto/1619344?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imhhd2FpaXBob3RvIiwiYXJ0aWNsZUlkIjoxNjE5MzQ0LCJpc3N1ZWRBdCI6MTc5NTQ5Mzg4ODMyMH0.gYkN9nwvxzoFm8oytsKM_5KrtOIZoIwsCBhKiMMH1A0&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "글제목 : 말머리 선택 후 '대한항공 / 1.2~1.7 / 120만원 미국항공예약후기' ⭐결제일(연도 포함) → 26.11.8 ⭐항공편 1) 항공사 → 에어프레미아 2) 출국일 - 현지귀국일(연도 포함) → 27.06.13-27.06.19 3) 여정(왕복/편도/다구간) → 왕복 4) [가는 편] 출발공항 - 도착공항 (직항/경유) → 인천-la 5) [오는",
+   "url": "https://cafe.naver.com/nyctourdesign/1207542?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im55Y3RvdXJkZXNpZ24iLCJhcnRpY2xlSWQiOjEyMDc1NDIsImlzc3VlZEF0IjoxNzk1NDkzODg4MzIwfQ.WakR1i7i7q_adm9oZgJXdRU3h1pAjOSgf35w3GvmLNg&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "있는 편이라 이동할 때 시간이 생각보다 걸릴 수 있으니, 방문하시는 분들은 미리 동선과 여유 시간을 잘 체크하시는 게 좋을 것 같아요. 이번 여행에서는 왕복 모두 에어프레미아를 이용했는데, 장거리 비행임에도 불구하고 좌석 간격과 서비스 모두 기대 이상으로 너무너무 만족스러웠습니다! 다음 미주 여행 때도 망설임 없이 다시 이용하고 싶을 만큼 기분 좋은 비행으",
+   "url": "https://cafe.naver.com/nyctourdesign/1207533?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im55Y3RvdXJkZXNpZ24iLCJhcnRpY2xlSWQiOjEyMDc1MzMsImlzc3VlZEF0IjoxNzk1NDkzODg4MzIwfQ.j3Rr8XD8GtGs9RkOGljwtPjnpeXE855AHbIPZ9WFa0Q&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "에어프레미아 타고 뉴왁 공항에 남편과 같이 입국했는데 와이드 프리미엄석이라 비행기에서 일찍 내렸음에도 불구하고, 앞서 도착한 비행기가 있었는지 입국심사 줄에 사람이 꽤 많더라구요. 그런데 심사 창구도 3개 열렸다가 4개 열렸다가, 다시 2개로 줄었다가 하는 식으로 직원분들이 돌아가면서 그러더니 결국 입국심사 받고 짐까지 찾는 데 총 2시간 정도 걸렸네요..",
+   "url": "https://cafe.naver.com/nyctourdesign/1207530?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im55Y3RvdXJkZXNpZ24iLCJhcnRpY2xlSWQiOjEyMDc1MzAsImlzc3VlZEF0IjoxNzk1NDkzODg4MzIwfQ.usESNi_zQ4roweYW8aXtthHRN8Tf0nFpNRtZODFd5dg&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "https://cafe.naver.com/loyaltylife/357130 댄공/아시아나 마일좌석이 없어 보험으로 에어프레미아, 샌프란시스코 왕복, 와이드 프리미엄, 3인 유상발권, 618만원에 발권해두었어요. 11월 들어서 대한항공 마일좌석이 불쑥불쑥 계속 풀려서 기대하고 있었는데 드디어 오늘 완성했습니다. 올때 갈때 모두 A380, 프레스티지 스위트구요",
+   "url": "https://cafe.naver.com/loyaltylife/370953?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNzA5NTMsImlzc3VlZEF0IjoxNzk1NDkzODg4MzIwfQ.6VPxe-QAEfwcDHQfvk_gULbUfPf4FAqHCgH81y1wt0Q&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "공홈에서 프로모션 기간에 슈퍼골드패스 판매하길래 슈퍼골드로 구매했습니다!~ 1. 괌 국제공항 도착 - 아이가 이유식 먹는 개월수인데... LA갈비, 새우, 닭고기있고 샐러드바에는 샐러드, 디저트류, 아이스크림 있습니다. 슈퍼골드패스 주류는 비스트로와 동일합니다. 쇼... 바람넣는 에어건 있고 위치는 직원분들께 물어보시면 친절히 알려줘요. - 해변가에서는 카",
+   "url": "https://cafe.naver.com/guamfree/3015561?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imd1YW1mcmVlIiwiYXJ0aWNsZUlkIjozMDE1NTYxLCJpc3N1ZWRBdCI6MTc5NTQ5Mzg4ODMyMH0.tUvx6h3X-ORHjuByyAscs0CKsBRFlqP0llr7Z0mrXt4&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "글제목 : 말머리 선택 후 '대한항공 / 1.2~1.7 / 120만원 미국항공예약후기' ⭐결제일(연도 포함) → 2026년 5월 ⭐항공편 1) 항공사 → 에어프레미아 2) 출국일 - 현지귀국일(연도 포함) → 2026.11.20-2026.12.1 3) 여정(왕복/편도/다구간) → 왕복 4) [가는 편] 출발공항 - 도착공항 (직항/경유) → 인천 공항 -L",
+   "url": "https://cafe.naver.com/nyctourdesign/1207322?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im55Y3RvdXJkZXNpZ24iLCJhcnRpY2xlSWQiOjEyMDczMjIsImlzc3VlZEF0IjoxNzk1NDkzODg4MzIwfQ.e6bH0ZusXlY9Y08WktKqPzqDqcqrpTGY8qCSxYE9vY4&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "이번엔 건강검진도 안받고 에어프레미아로 가는데 한국 도착 시간이 새벽 5:30 이고, 출발도 저녁 시간이라 꽉찬 14일 입니다. 대한항공은 왔다갔다 하면 이틀이 빠지거든요. 이번엔 생애 최초 일본을 가볼려고 합니다. 친구들과 후쿠오카로 4박5일 정도 골프 겸 식도락 여행하고, 제주에 일주일 정도 머물면서 휴가다운 휴가를 즐겨 볼려구요. 아직 한번도 조인골프",
+   "url": "https://cafe.naver.com/golfkwang/1153323?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvbGZrd2FuZyIsImFydGljbGVJZCI6MTE1MzMyMywiaXNzdWVkQXQiOjE3OTU0OTM4ODgzMjB9.WBJKuW8n7Abmsm8HwgbsBTFP60M0rH_qQYRdRv0f-gI&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "파라타항공은 2026년 11월 17일부터 인천~로스앤젤레스(LA) 노선 항공권 판매를 시작했어요. 첫 미주 취항 예정일은 2027년 5월 1일이며... 특가 프로모션을 순차적으로 선보일 예정이에요. 이 기간에는 한정 수량 좌석에 매력적인 할인가가 적용되므로 빠르게 확인해보시는 것이 좋아요. 예상 총액 운임은 왕복 기준 100만 원 중반대 수준이며, 260석",
+   "url": "https://cafe.naver.com/masteri/1207?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hc3RlcmkiLCJhcnRpY2xlSWQiOjEyMDcsImlzc3VlZEF0IjoxNzk1NDkzODg4MzIwfQ.hNMZowYVy_Sfb1NbJf1kLbIhDeKMciCxWajbRuuEJI4&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "주요 항공사마다 수험생 본인과 동반 1인에게 국내선과 국제선 운임을 깎아주는 프로모션을 열지만, 일반 특가 항공권과 예매 방식이 전혀 다릅니다. 이 글에서 할인 적용 기준과 동반인 조건, 공항 카운터... 어디서 에어부산·에어서울·에어프레미아·에어로케이 등 각 항공사 공식 홈페이지와 모바일 앱에서 회원 로그인 후 예매합니다. 요금 항공사별로 국내선 정규운임",
+   "url": "https://cafe.naver.com/checknews/444?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNoZWNrbmV3cyIsImFydGljbGVJZCI6NDQ0LCJpc3N1ZWRBdCI6MTc5NTQ5Mzg4ODMyMH0.hNdB8BmF4Yjnk9v9USLFZqJ_6toEAcOQwsVa54lIyAM&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "- 취항시작일 : 2027년 5월 1일 - 항공기 : A330 - 취항노선 : 인천-미국 LA - 운항일 : 매일 - 운항시간 : 1) 인천 오후 12:00 출발 - LA 국제공항 오전 7:20 도착 2) LA 오전 9:50 출발 - 인천 다음날 오후 3:20 도착 LA행 아시아나가 없어졌는데, 파라타 항공이 취항하면서 대한항공, 에어프레미아, 파라타항공의",
+   "url": "https://cafe.naver.com/nyctourdesign/1207106?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im55Y3RvdXJkZXNpZ24iLCJhcnRpY2xlSWQiOjEyMDcxMDYsImlzc3VlZEF0IjoxNzk1NDkzODg4MzIwfQ.ST0MZ7krdccU0yR8HhFTSa8qvqzwtpM-T9Wm5kB-B0k&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "----- ▣ 픽업 (공항 → 숙소) 희망 날짜 : 2026/11/30 항공 편명 : 에어프레미아YP151 도착 공항 : HKL 호놀룰루 국제공항 터미널2 항공 도착 시간 : 11/30 11:50 숙소 주소 : 쉐라톤 와이키키 비치리조트 (Hawaii, Honolulu, 2255 Kalakaua Ave, 와이키키, 호놀룰루, 미국, 96815) ▣ 샌딩 (",
+   "url": "https://cafe.naver.com/moomge/193546?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vb21nZSIsImFydGljbGVJZCI6MTkzNTQ2LCJpc3N1ZWRBdCI6MTc5NTQ5Mzg4ODMyMH0.rsQpCGAkGLQ9r3FSnlQ-nOU_RF0_unC0TiePqWYspTU&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "예 : [LA] 동행 후기보러가기 :https://abit.ly/dvrjfi 아래 ⭐는 필수입니다. ⭐ 본인 나이대 및 성별 (예: 30대, 여) → 20대 여 ⭐ 동행 원하는 성별 (예: 상관없음) → 상관없음 ⭐동행 원하는 나이대(예... 도착 (에어프레미아 공항 도착후) ⭐ 동행 원하는 목적(예: 투어,식사동행) → 한인택시 / 우버 / 리프트 중 아",
+   "url": "https://cafe.naver.com/nyctourdesign/1207025?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im55Y3RvdXJkZXNpZ24iLCJhcnRpY2xlSWQiOjEyMDcwMjUsImlzc3VlZEF0IjoxNzk1NDkzODg4MzIwfQ.4SBp53CSbWpuRquNFW61veWi7G06MxJKLIjQO20OBGk&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "와이프랑 해서 겨울에 2명이 뉴욕 다녀오려고 하는데, 에어프레미아는 인당 180 만원 아시아나는 인당 230만원 이네요 그래서 인당 50만원 둘이서는 100만원 정도 차이나는데 그래도 아시아나가 나을까요?",
+   "url": "https://cafe.naver.com/nyctourdesign/1206987?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im55Y3RvdXJkZXNpZ24iLCJhcnRpY2xlSWQiOjEyMDY5ODcsImlzc3VlZEF0IjoxNzk1NDkzODg4MzIwfQ.Gfgsma1PmsgCCS5133_TAcLRahaVqfASB6WOxfTrPuo&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "^^ 신한 에어 1.5 아시아나 카드로 아시아나 마일을 모았습니다. (카드 유효기간은 2030년 초 까지구요.) 드디어 아시아나 마일 적립 가능기간이 1개월밖에 남지 않았네요. 평소 제 적립금액이면 12월에 쌓일 마일이, 많아봐야 7-8천입니다. 지금 36만 5천 있으니, 37만 마일리지로 저희 가족이 가진 아시아나 마일리지 적립은 끝이 나겠네요. 그리고 ",
+   "url": "https://cafe.naver.com/hotellife/1974195?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhvdGVsbGlmZSIsImFydGljbGVJZCI6MTk3NDE5NSwiaXNzdWVkQXQiOjE3OTU0OTM4ODgzMjB9.gVCv6Y8Stkpx4qQj1izAJE3Y1gLSGJKHWEJnLrT7wfU&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "노선 요일 시간 BX9631 부산 - 시즈오카 월 수 목 토 일 09:00 ~ 11:00 (목, 일 10:00 ~ 12:00) BX9632 시즈오카 - 부산 12:00 ~ 14:00 (목, 일 13:00 ~ 15:00) ===♦️필독♦️=== 아이와 함께 무료 인형극 축제 https://naver.me/xQJblhlE 각종 테마파크/놀이시설 등 할인 htt",
+   "url": "https://cafe.naver.com/pusanmom/4289868?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InB1c2FubW9tIiwiYXJ0aWNsZUlkIjo0Mjg5ODY4LCJpc3N1ZWRBdCI6MTc5NTQ5Mzg4ODMyMH0.3zMv_-l39CydC8dglynk2OmQrdMSQyUqzsN2VRDJV7g&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "타임세일) - 프로모션 기간: 2026년 11월 16일 ~ 11월 22일 16:00 마감 - 항공편: 에어프레미아 인천-삿포로 왕복 ※ 상기 여행 상품의 가격 및 유류할증료는 환율 및 출발일자에 따라 변동될 수 있으며 실시간 좌석 상황에 따라 마감될 수 있습니다. [북해도 4일 타임세일] 공식 일정표 및 잔여좌석 확인 바로가기 (클릭) https://han",
+   "url": "https://cafe.naver.com/hantourkr/21?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhbnRvdXJrciIsImFydGljbGVJZCI6MjEsImlzc3VlZEF0IjoxNzk1NDkzODg4MzIwfQ.j7VvCtuAiVBxPoMYIxZTbipO-ZDveIAXuXQsD3ZXh64&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "• 보홀 투어&픽업,샌딩 안내 : https://cafe.naver.com/loveloveloveovelove/356953 • 보홀 리조트 프로모션안내 : https://cafe.naver.com/loveloveloveovelove/386232 • 보홀 투어 예약 바로가기 : https://tripon.kr... 제주항공·티웨이항공·에어서울·에어프레미아 이",
+   "url": "https://cafe.naver.com/loveloveloveovelove/1043038?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxvdmVsb3ZlbG92ZW92ZWxvdmUiLCJhcnRpY2xlSWQiOjEwNDMwMzgsImlzc3VlZEF0IjoxNzk1NDkzODg4MzIwfQ.YUE-bEtpI3AnvUUChS3y2puRlmphTpedwWgLjDyvmy0&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "RE파라타항공 인천-LA 노선 신규 취항 소식이라니 미국 서부 여행 준비하시는 분들께 진짜 반가운 희소식이네요. 기존 대형 항공사들이나 에어프레미아 외에 새로운 직항 선택지가 하나 더 늘어나니까 항공권 가격 경쟁도 붙고 스케줄 맞추기도 훨씬 수월해질 것 같아요. 특히",
+   "url": "https://cafe.naver.com/foatour/13768?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZvYXRvdXIiLCJhcnRpY2xlSWQiOjEzNzY4LCJpc3N1ZWRBdCI6MTc5NTQ5Mzg4ODMyMH0.dRCgjc3Y886w9sQ2PrT_A2qSVXwDUMrzufqSK9tBkk4&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "저번에 LA콘때는 에어프레미아 타고 댕겨왔는데 말이죠 사진은 직찍입니다 인천공항에서 손 흔들어주던 원이 직찍 리센느 네이버 팬카페 '리시안셔스' © SINCE 2024.02.22 cafe.naver.com/re5cene #원이 #리브 #미나미 #메이 #제나",
+   "url": "https://cafe.naver.com/re5cene/114246?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJlNWNlbmUiLCJhcnRpY2xlSWQiOjExNDI0NiwiaXNzdWVkQXQiOjE3OTU0OTM4ODgzMjB9.pr1VAzv_0pABwckAxP8Xxo5zfzDRBuwGwXu0KjnUroc&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "에어프레미아로 뉴욕 입국했어요~ 미여디에서 예약한 도깨비택시타고 왔는데 괜찮았어요 기사님이 어제그제는 비가 많이와서 추웠는데 오늘은 조금 풀렸다고 하더라구요~ 얇은패딩에 맨투맨입었는데 쌀쌀한 정도 예요! 날씨 이정도만되도 다닐것같아요~~",
+   "url": "https://cafe.naver.com/nyctourdesign/1206845?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im55Y3RvdXJkZXNpZ24iLCJhcnRpY2xlSWQiOjEyMDY4NDUsImlzc3VlZEF0IjoxNzk1NDkzODg4MzIxfQ.ugM_9u_O0CRBxAOybnFdSkgNq7xRuYBmT7Cq0aJa0hQ&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "https://www.parataair.com/ko/main/main.do 에어프레미아보다 비싸고 대한항공보다 저렴한 것 같네요. (가격은 확실히 HSC보다 비싼 FSC 느낌이네요 ㅎㅎ;;) 대충봤을때 동일날짜 기준 편도 약 5에서 10만원 차이나네요. 운임클래스 차이도 있구요. 대한항공보다는 30만원정도 저렴하구요. 다음주쯤에 이벤트한다고 했던것같은데 구",
+   "url": "https://cafe.naver.com/waateam/166053?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndhYXRlYW0iLCJhcnRpY2xlSWQiOjE2NjA1MywiaXNzdWVkQXQiOjE3OTU0OTM4ODgzMjF9.GkP21twC_NH4XHjz0fCEoQ0VlIBR4kcYqOMceBXYZCI&q=%ec%97%90%ec%96%b4%ed%94%84%eb%a0%88%eb%af%b8%ec%95%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98%20LA&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "The Korea Times (www.koreatimes.co.kr) 1-1 : Lee's approval rating rises for 2nd straight week to 37.3%: poll 원문 링크: https://www.koreatimes.co.kr/southkorea/politics/20261123/lees-approval-rating-rise",
+   "url": "https://blog.naver.com/yoyonv/224488248291",
+   "engine": "naver_all",
+   "query": "United Airlines Korea sale",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "일본 도착지 왕복 표시가 편도 표시가 삿포로(CTS) 이스타항공 368,800원~ 이스타항공 141,900원~ 도쿄(NRT) 이스타항공 265,200원~ 이스타항공 112,300원~ 후쿠오카(FUK) 진에어 227,200원~ 이스타항공 91,100원~ 오사카(KIX) 트리니티 220,400원~ 트리니티항공 93,900원... 5,155,600원~ 인천(IC",
+   "url": "https://cafe.naver.com/promocode/38?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InByb21vY29kZSIsImFydGljbGVJZCI6MzgsImlzc3VlZEF0IjoxNzk1NDk0MTE2ODI3fQ.O40uOd3dBB50DSC-Ijekn-PUWSSD2sbIZAtHM49RErs&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%8e%b8%eb%8f%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 인천 덴버 편도 프로모션",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "달러·유로·캐나다 달러·미국 달러 8개 통화 지원 · 함께 : 유니온페이 제휴 할인 행사 운영 · 한국 방문 고객 대상 국내 유통... (신규) 트리니티항공 인천-방콕 최대 20% 할인코드 (12/13까지) · 대상 : 인천-방콕, 대구-방콕, 인천-치앙마이 · 기간 : 프로모션 ~12/13... (신규) 핀에어 인천-헬싱키 노선별 12~25% 할인 (탑승",
+   "url": "https://cafe.naver.com/loyaltylife/370348?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNzAzNDgsImlzc3VlZEF0IjoxNzk1NDk0MTE2ODI3fQ.Ge178SJp-jgNIAWuh8xBI8EhpZiVpQ_PLc1QlAF6-TM&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%8e%b8%eb%8f%84%20%ed%94%84%eb%a1%9c%eb%aa%a8%ec%85%98&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 인천 덴버 편도 프로모션",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "겨울 유럽 여행, 특가로 준비하세요! 핀에어, 블랙프라이데이 맞아 유럽 노선 최대 25% 할인 - 인디포커스",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5HUF93c2hLMDV6OWZRMEZ4VUpKdE03X3QzU2hJQk9KcHY0b3oxR2lEeHhLRWFMMFZpMmZUSUFzWDFVQ1U?oc=5",
+   "pub": "Tue, 17 Nov 2026 06:03:00 GMT",
+   "engine": "gnews",
+   "query": "알래스카항공 한국 프로모션",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "동방항공 상하이 경유 바르셀로나 항공권이 네이버 여행 슈퍼위크와 맞물려서 체감가 48만원까지 보입니다. 50만원 대는 종종 봤는데, 40만원대까지 나와서... 대한항공 마일리지 적립 가능한 클래스 입니다. (단, 날짜별로 예약 클래스가 다를 수 있으니, 예약 전에 꼭 확인하시기 바랍니다.) 같은 일정으로 직항이 티웨이만... 새 창 열림",
+   "url": "https://cafe.naver.com/loyaltylife/354057?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNTQwNTcsImlzc3VlZEF0IjoxNzk1NDk0MjY4ODYwfQ.89o4efq2Z05NKX2CmfbilTNy9bYF5y22ZrMeOrPulw4",
+   "engine": "naver_all",
+   "query": "델타항공 인천 출발 특가",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "그래도 토요일 출발이라는 건 장점입니다. KLM 공식 홈페이지에서 예약할 수 있고, 변경 수수료는 300유로, 취소 수수료는 400유로가 발생합니다. 인천에서 암스테르담 구간은 O클래스 특가로, 대한항공이나 델타항공에 100% 마일리지 적립이 가능해요. 암스테르담에서 최종 목적지까지는 대부분 J클래스인데요. 이 구간은 대한항공에 125%, 델타항공에는 20",
+   "url": "https://cafe.naver.com/xhakxh37/28018?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InhoYWt4aDM3IiwiYXJ0aWNsZUlkIjoyODAxOCwiaXNzdWVkQXQiOjE3OTU0OTQyNjg4NjB9.Lhe3usyhgmbtt0eNWiJWp6jtudA1J6gCq4yV_9GiBak",
+   "engine": "naver_all",
+   "query": "델타항공 인천 출발 특가",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "대한항공 마일리지로 일괄 전환 ✅ 아시아나 마일리지 모아두신 분들, 활용 계획 미리 세워두세요~ 동맹체 변경 스타얼라이언스 → 스카이팀으로! ANA·루프트한자 제휴 혜택은 안녕~ 대신 델타·에어프랑스·KLM 라인업 활용 가능!... 이코노미 왕복 특가 (인천 출발 기준) 노선 운항 최저가 인천 ↔ 하노이 매일 2편 661,800원~ 인천 ↔ 다낭 매일 운항",
+   "url": "https://cafe.naver.com/bnteam1/282801?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJudGVhbTEiLCJhcnRpY2xlSWQiOjI4MjgwMSwiaXNzdWVkQXQiOjE3OTU0OTQyNjg4NjB9.3rwFg2icj9O2zeiAxR4GeBa33YPMojWNFpbztEoZw3A",
+   "engine": "naver_all",
+   "query": "델타항공 인천 출발 특가",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "대부분의 노선은 서울-인천에서 장시간 경유하거나 1박을 해야 하지만, 일부 노선은 다구간 항공권을 예약하면 경유를 피할 수 있습니다. 출발편은 2026년 12월부터 2027년 2월까지 다양하게 편성되어 있습니다.. 밀라노에서: 코마츠... 델타 스카이마일즈로 3,054 RDM + 612 MQD 적립 Air Europa Suma 탑승 시 3,054마일 SAS",
+   "url": "https://cafe.naver.com/yamipapa/8589?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InlhbWlwYXBhIiwiYXJ0aWNsZUlkIjo4NTg5LCJpc3N1ZWRBdCI6MTc5NTQ5NDI2ODg2MH0.YNOJbPucRQTmECmnUJPS_M4K20_rgPvDwQiS3XbiI2k",
+   "engine": "naver_all",
+   "query": "델타항공 인천 출발 특가",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "특히 마일리지 항공권(스카이팀 제휴 발권 포함)이나 최저가 프로모션 운임(특가석)의 경우, 규정상 타사 엔도스가... (대한항공, 델타항공, 중화항공 등)나 인터라인 협정이 맺어진 타 항공사로 엔도스를 해주는 경우도 있습니다. 발생 사유가... 협정: 출발지 공항 카운터의 슈퍼바이저 권한으로 당일 잔여 좌석이 있는 타 항공사(예: 인천-상하이 노선의 대한항",
+   "url": "https://cafe.naver.com/loyaltylife/371421?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNzE0MjEsImlzc3VlZEF0IjoxNzk1NDk0MjY4ODYwfQ.pu8hNQI7U-2SKZ53tUicLViyxof8iBjK0fwKCBX82mQ",
+   "engine": "naver_all",
+   "query": "델타항공 인천 출발 특가",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "인천-뉴욕, 대한항공(KE) 2. 뉴욕-댈러스, 델타항공(DL) 3. 댈러스-덴버, 유나이티드항공(UA) 4. 덴버-캘거리, 유나이티드항공(UA) 5. 에드먼턴-밴쿠버, 에어캐나다(CA) 6. 밴쿠버-인천, 대한항공(KE) 모든 일정 마일리지 발권이라 마일리지 적립은 없습니다. 2주 동안 이코노미만 6번 탄다니 벌써 허리가 아픈 것 같지만, 그래도 기대됩니",
+   "url": "https://cafe.naver.com/loyaltylife/335425?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozMzU0MjUsImlzc3VlZEF0IjoxNzk1NDk0MzM5NjkyfQ.6B52FSAEAzB7zOsbC08xNBYUD_2S-r3I_CUSGAV403Q",
+   "engine": "naver_all",
+   "query": "에어캐나다 인천 덴버 편도 프로모션",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "온천하고 나오는 길 온천 후 우유 국룰 아닙니까 후후 눈더미에서 갬성샷 한번 찍어주고 닝겐테라스.. 아.. 아니.. 닝구르 테라스로 떠나봅니다 ♂️♂️ 에어프레미아 특가 가져왔어요 삿포로 여행 예정이신분들 집중!!! 회원가입 후 프로모션 코드 WELCOMEV 입력 전 노선 5% 할인 (본 포스팅은 내돈내산 후기이지만 파트너스 활동으로 판매시 일정 수수료를 ",
+   "url": "https://blog.naver.com/worthwhale/224489815473",
+   "engine": "naver_blog",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "할인상품 할인 가격 할인금액 감홍사과 5kg 51,990원 8,000원 청송사과 5kg 36,990원 5,000원 호주 냉동 LA갈비 2.5kg×2 132,900원 35,000원 국내산 냉동 한입 삼겹살 1kg×2 39,990원 8,000원... 블랙프라이데이 행사에는 맥북 에어와 아이패드 에어, 에어팟 등도 등록돼 있지만 행사 목록에 포함됐다고 모두 별도",
+   "url": "https://blog.naver.com/sjk88000/224489621242",
+   "engine": "naver_blog",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "특가 프로모션도 진행합니다. 운항 일정은 이렇습니다. 첫 취항 목표일: 2027년 5월 1일 운항 횟수: 하루 한 차례 투입 기종: 에어버스 A330-200 좌석: 전체 260석 중 비즈니스 클래스 18석 특가 적용 기간과 운임 조건은 파라타항공 공식 안내에서 직접 확인해보세요. 2. 11월 24일 카카오페이 퀴즈 정답은 바로 이거예요! 11월 24일 카카",
+   "url": "https://blog.naver.com/dddtjdus922/224489596937",
+   "engine": "naver_blog",
+   "query": "에어프레미아 프로모션 LA",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "11월 27일 7% 트립코인은 쿠폰이 아니라 여행 후 적립이에요. 트립닷컴 슈퍼멤버스데이 프로모션 쿠폰 확인하기 (클릭!)... 4,546,600원~ 미국 항공권 노선 항공사 왕복 표시가 인천(ICN) → 로스앤젤레스(LAX) 대한항공 5,769,500원~ 인천(ICN) → 로스앤젤레스... 아시아나항공 5,433,300원~ 인천(ICN) → 로스앤젤레스(",
+   "url": "https://cafe.naver.com/promocode/38?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InByb21vY29kZSIsImFydGljbGVJZCI6MzgsImlzc3VlZEF0IjoxNzk1NDk0NDMzOTgyfQ.qaASQQ4XEs4KgmmS3NC9LvoLebDMCOfchQLgoMANZxQ&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "(TFX) 헬스케어 중환자 치료 및 수술용 의료기기 $163.78 667.7K $109.36M 미국 52주 신고가 기업 — 사업 개요와 성장동인 기준일·가격 2026년 11월 23일 미국 동부시간 · NYSE·Nasdaq 정규장 종가 제공... 9월 23일 주주 승인 발표와 미국 기업결합 대기기간 종료로 주요 거래 조건이 충족됐으며, 11월 23일 종가 7",
+   "url": "https://cafe.naver.com/hello6grade3class/40346?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhlbGxvNmdyYWRlM2NsYXNzIiwiYXJ0aWNsZUlkIjo0MDM0NiwiaXNzdWVkQXQiOjE3OTU0OTQ0MzM5ODJ9.wATsAlzpMCFzJ81kxcXlZQpud85Mq8H0DkqNwjynwu8&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "OBS 12시간12시간 전, 2026. 11. 23. 오후 3:17 [현장영상] 자리 박차고 떠나버린 최민희, 민주당 의원들 표정 봤더니. #최민희 #민주당 #김민석 #한병도 #한민수 11월 23일 더불어민주당 최고위원회의가 열렸습니다 .▶ OBS 뉴스 채널 구독하기 OBS 뉴스 기사 더보기 PC : : OBS 뉴스 제보하기이메일 : ****@obs.co.",
+   "url": "https://cafe.naver.com/jmsong0829/77082?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imptc29uZzA4MjkiLCJhcnRpY2xlSWQiOjc3MDgyLCJpc3N1ZWRBdCI6MTc5NTQ5NDQzMzk4M30.n5xcrwi7fLLiawMy1fxxg1_13BhVv76fKU9fuYYpDTI&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "체험 캐나다: 유럽풍 감성의 몬트리올 & 활기찬 토론토 여행 ✓출발확정된 날짜들만 모았습니다. 6명 이상인 팀은 다른 날짜 또는 다른 가격이 나올 수 있으니 별도 문의 바랍니다. ┌──────────┐ ✦ 인천 미국 동부 출발확정 에어프레미아 ✦ └──────────┘ ✔ 개인항공권 변동요금 인천 미국 동부 7박10일 출발확정 에어프레미아 4,299,000",
+   "url": "https://cafe.naver.com/elpistour/1410?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVscGlzdG91ciIsImFydGljbGVJZCI6MTQxMCwiaXNzdWVkQXQiOjE3OTU0OTQ0MzM5ODN9.DngZns4H8ShoKIM9AseqIKhPBzRfvnFEOiiv1gz6rV8&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "몰라본 미국 교수의 고백 \"그녀를 무시한 건 순간, 무너진 건 나였다\" 사연버스 2만11개월 전 자동 더빙 12:36 외국인 99%가 냄새... 김쏘_상훈 및 Maxima막시마 11만4개월 전 23:01 \"CJ 12년 다니다 퇴사했습니다\" 두 아이 엄마가 에어비앤비 숙소 30곳 공동운영하는... 시작된 여행 시도 sido 73만4개월 전 자동 더빙 25:0",
+   "url": "https://cafe.naver.com/jmsong0829/77055?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imptc29uZzA4MjkiLCJhcnRpY2xlSWQiOjc3MDU1LCJpc3N1ZWRBdCI6MTc5NTQ5NDQzMzk4M30.V0KV4aFB_PG1K42-mFB23QdOAFlnt3EdCvvdcg5k4h0&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "미국 증시 요약 (2026-11-20 현지 | KST 2026-11-21 06:00 마감 기준) ✅ 지수 요약 다우존스30산업평균지수: 48,147.33 (-1.93%) S&P500지수: 6,910.... 이슈: 미국 정부의 대중국 반도체 수출 통제 강화와 더불어 엔비디아의 회계 관행에 대한 SEC 조사 소식이 전해지며 AI 대장주에... 20%)를 하회한",
+   "url": "https://cafe.naver.com/todaybigboss/6816?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRvZGF5YmlnYm9zcyIsImFydGljbGVJZCI6NjgxNiwiaXNzdWVkQXQiOjE3OTU0OTQ0MzM5ODN9.0kkm5IPDuRn6QucQ8Q3v8sv9zoyElSQCHZBxpvUc09Y&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "글제목 : 말머리 선택 후 '대한항공 / 1.2~1.7 / 120만원 미국항공예약후기' ⭐결제일(연도 포함) → 26/11/14일 ⭐항공편 1) 항공사 → 에어케나다(벤쿠버 환승) 2) 출국일 - 현지귀국일(연도 포함) → 12/19일... 추가비용(미국내선이나 LCC일 경우) → 없음 ⭐구매처 → 트립닷컴 ⭐예약 후기·캡쳐사진(필수) ※ 사진의 이름·예약",
+   "url": "https://cafe.naver.com/nyctourdesign/1207460?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im55Y3RvdXJkZXNpZ24iLCJhcnRpY2xlSWQiOjEyMDc0NjAsImlzc3VlZEF0IjoxNzk1NDk0NDMzOTgzfQ.lMSqxUq57DohcIjAImOhFiSDzCEmpYYcHF20ZI08YRg&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "항공권과 시애틀 숙박, 기항지에서 할 일은 원하는 일정과 예산에 맞춰 직접 골라요. 도시를 조용히 걸어도 좋고, 고래 관찰이나 빙하 투어를 예약해도 좋아요. 정해진 단체 관광 없이 알래스카를 내 속도로 만나는 여행이에요. 아흐레의 항해 시애틀에서 알래스카, 캐나다를 지나는 순서대로 적었어요 DAY 1 미국 시애틀 · 첫째 날 · 승선 시애틀에서 배에 오르기",
+   "url": "https://cafe.naver.com/pilote/53507?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBpbG90ZSIsImFydGljbGVJZCI6NTM1MDcsImlzc3VlZEF0IjoxNzk1NDk0NDMzOTgzfQ.713Uf-uft3qdWK5vyOPcdzjQVMcy2U4-yWE21ndw260&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "있는 여행이에요. 열하루의 항해 시애틀에서 알래스카, 캐나다를 지나는 순서대로 적었어요 DAY 1–2 미국 시애틀 · 첫째~둘째 날... 자유여행 · 이너하버 (20:00~23:58) 9일 07:00 시애틀 입항 · 하선 후 호텔 이동, 자유여행 10일 시애틀 출발 → 인천행 항공편 11일 인천 도착... 해외여행자보험 (2억원) · 투어리더 전 일정 동행",
+   "url": "https://cafe.naver.com/pilote/53506?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBpbG90ZSIsImFydGljbGVJZCI6NTM1MDYsImlzc3VlZEF0IjoxNzk1NDk0NDMzOTgzfQ.ayjsRItX5Cu-JcG3UserBiTipxh_bdDsiuD-M_8dCfg&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "화장품과 여행, 게임과 노래 골목에 남은 불빛 3편 저마다의 서랍 — 임상의 지도, 합병의 계산서, 약국의 빈 선반 4편 하늘길과... 한 매체가 미국이 거래를 막은 중국 서버 회사의 제품에서 AMD의 최신 펌웨어가 쓰인 흔적을 찾았다고 주장했고, AMD는 7% 안팎... (하나에어로다이내믹스, 삼성전자·삼성전기·SK하이닉스, 한진칼우·대한항공우·한진칼·아",
+   "url": "https://cafe.naver.com/danjeonglee/3901?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRhbmplb25nbGVlIiwiYXJ0aWNsZUlkIjozOTAxLCJpc3N1ZWRBdCI6MTc5NTQ5NDQzMzk4M30.xviuHECMeWhPxm2-nH2ZV-1rCF9C83PFnHgckHoDVbY&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "ISS는 미국·러시아·유럽·일본·캐나다의 5개 우주기관이 1998년부터 고도 약 400km에 함께 조립해, 2000년 11월부터 사람이 한 번도 비우지 않고 머물러 온 연구 시설입니다. 그런데 NASA는 지난 10월 9일 상업... 헤이븐-1은 스페이스X의 주력 로켓 팰컨 9로 발사돼 크루 드래건으로 첫 승무원을 맞고, 보이저와 에어버스가 함께 만드는 스타",
+   "url": "https://cafe.naver.com/redvertical/677?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJlZHZlcnRpY2FsIiwiYXJ0aWNsZUlkIjo2NzcsImlzc3VlZEF0IjoxNzk1NDk0NDMzOTgzfQ.FBku3TuufwVJ2hjEROL3nzRopmtoyqYQXZftGI58scQ&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "데이터 기준: 증시 = 최근 확정 거래일 종가 기준(한국 11/19 목, 미국 11/18 수 확정 종가 + 11/19 장중), 실시간 시세는 증권사 앱에서 확인하세요. 작성 시각: 오전 5시경 ⚠️ 각 항목의 '원인... 오락문화 업종이 9.39% 뛰었고 항공·여행·화장품주도 함께 올랐습니다. ▶ 추정 원인: 2017년 이후 이어진 한한령이 풀릴 수 있다는",
+   "url": "https://cafe.naver.com/welfaredatacenter/4779?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndlbGZhcmVkYXRhY2VudGVyIiwiYXJ0aWNsZUlkIjo0Nzc5LCJpc3N1ZWRBdCI6MTc5NTQ5NDQzMzk4M30.6ZwRP5mxItUaBzXVJepPLH2JZJ90SPbQX-G-Xe4vGd0&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "mk.co.kr -------------------------------- Aurora 오로라 (헬로캐나다) 오로라를 눈으로 보는 것과 같은 실제 영상과, 타임랩스 비교 aurora realtime vs timelapse (권오철작가님) https://www.youtube.com/watch?v=xmgznZXF02I ------- https://www.you",
+   "url": "https://cafe.naver.com/dlxogns01/451248?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6NDUxMjQ4LCJpc3N1ZWRBdCI6MTc5NTQ5NDQzMzk4M30.B139RnVELg-BQoJwC3kBt06St9uG8p_ObTo6F_mqFWY&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "이재명 정부 구독자 1,175명이슈 시작일 2025.06.05 SNS 보내기 AI 요약 AI가 생성한 요약으로 정확하지 않을 수 있어요. 이 대통령 특검법 재가 중국 순방 중 조작기소 특검법 공포 즉시 시행 검찰·국정원 의혹 규명 李대통령, 중국 순방 중 ‘조작기소 특검법’ 재가…공포 즉시 시행 2026.11.19. 07:25댓글 900이상+ #이재명정부#",
+   "url": "https://cafe.naver.com/greenb0k6k/201368?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjIwMTM2OCwiaXNzdWVkQXQiOjE3OTU0OTQ0MzM5ODN9.FdwEylMpL5IVOBJeTZr7nVkcr4JiZ7UxuRBPK6dH3YQ&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "2026년 11월 20일 금요일안녕하세요~ 좋은아침 함께하는 류승현 입니다.^^어느덧 가을의 끝자락을 지나 겨울의 문턱에 들어선 듯합니다. 아침저녁으로 날씨가 많이 추워졌습니다. 따뜻하게 챙겨 입으시고 건강 잘 살피시기 바랍니다. 한 주 동안 정말 고생 많으셨습니다. 오늘도 기분 좋은 마음으로 하루를 시작하시고, 다가오는 주말에는...",
+   "url": "https://cafe.naver.com/sknservice/550?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNrbnNlcnZpY2UiLCJhcnRpY2xlSWQiOjU1MCwiaXNzdWVkQXQiOjE3OTU0OTQ0MzM5ODN9.7gCMmPCb0TxW5qjEH8PPCsXcCd2ROz5cMSoAvvFpUOU&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "미국 증시 요약 (2026.11.18 현지 | KST 2026.11.19) 1) ✅ 지수 요약 다우존스: 50,198.17 (-1.11%) S&P 500: 7,323.63 (-0.23% / 5거래일 연속 약세)... 동시에 미 국토안보부 전산 장애 이슈와 AI 고도화에 따른 보안 지출 확대 기대감으로 옥타(+12.07%), 팔로알토(+9.90... 인플레이",
+   "url": "https://cafe.naver.com/todaybigboss/6801?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRvZGF5YmlnYm9zcyIsImFydGljbGVJZCI6NjgwMSwiaXNzdWVkQXQiOjE3OTU0OTQ0MzM5ODN9.eGeJyU_04g1jfxNocVTPOeLWr5O8JHrSWuDUuckR0wY&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "channelCd=tv&onor=tv&date=20261119 오늘의 TV --------------- 05:00 왕초보 영어 제2851회 관계 – 한국에서 이민 온 중학생Ⅰ 전체등급 홈페이지 05:30 기획강연 청년에게(전주재방) 유호진 2부 - 마술은... 남은 미국 귀향 부부의 은퇴 잔혹사 자막방송 홈페이지 ------------------- 20:4",
+   "url": "https://cafe.naver.com/dlxogns01/450988?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6NDUwOTg4LCJpc3N1ZWRBdCI6MTc5NTQ5NDQzMzk4M30.95_Qa118V3TGvXuUKVSu4U0mhv5WjS-N8ynHemQPPBU&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "엔터·콘텐츠·여행 종목이 넥스트장에서 크게 움직였습니다(미국 지수 마감은 미국인사이트 제24호 참조). 11월 19일은 수능일이라 정규장이 10시에 열립니다. 오늘 한국 한눈에 보기 ▶ 국내 증시(11월... 관광에서는 중국 23개 지역에 법인을 둔 국내 여행사가 현지에서 중국인 단체 손님을 모으고 개별여행 상품도 판매할 수 있게 됐습니다. 중국은 2025",
+   "url": "https://cafe.naver.com/danjeonglee/3882?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRhbmplb25nbGVlIiwiYXJ0aWNsZUlkIjozODgyLCJpc3N1ZWRBdCI6MTc5NTQ5NDQzMzk4M30.Cxefmg2BAdGcGAT4NZneurWuGgWmyT9FQZ02LnmYms8&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "인바운드 항공권 · 구매 : 해외 현지 홈페이지·모바일 앱 · 조건 : - 국가별 최소 결제금액 충족 필요 - 페이팔 결제 시 적용 - 엔화·대만 달러·홍콩 달러·싱가포르 달러·호주 달러·유로·캐나다 달러·미국 달러 8개 통화 지원 · 함께 : 유니온페이 제휴 할인 행사 운영 · 한국 방문 고객 대상 국내 유통·쇼핑 브랜드 할인쿠폰 · 빅버스 투어 할인 혜",
+   "url": "https://cafe.naver.com/loyaltylife/370348?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNzAzNDgsImlzc3VlZEF0IjoxNzk1NDk0NDMzOTgzfQ.RgQFNVOivq20c_qOf0pmpwzZvl-6S-eiQUddbFW8ujE&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "생명대기획 죽음의 비즈니스 미리보기 13:55국가유산순례 드오 14:10팔도밥상 스페셜 18:006시 내고향 6시 내고향 | 디지털 KBS 6시 내고향 91년 5월 20일 첫 방송된 장수 프로그램. 고향을 떠난 도시인들의... 18 수 ebs---건축탐구 집,파키스탄,한국기행,백만장자, 한영애50주년 등 EBS 방송 | 편성표 | 전 국민의 평생학교 EBS",
+   "url": "https://cafe.naver.com/dlxogns01/450685?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6NDUwNjg1LCJpc3N1ZWRBdCI6MTc5NTQ5NDQzMzk4M30.-JONd_BmdsTzaVDzGSOGYrN34OeawtUEGWy7XVKnwHM&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "밤사이 미국 시장 한눈에 보기 미 국가안보국(NSA) 내부 통신망 마비 보도와 서비스 장애가 잇따른 데다, 엔비디아 실적 발표를 앞둔 경계감과 연준 인사의 매파 발언까지 겹쳤습니다.... 핵심 관련주-KB금융 · 우리금융지주 · 신한지주 - 주주가치 종합대상에 신한금융지주 — 조선일보 https://www.chosun.com/economy/stock-fin",
+   "url": "https://cafe.naver.com/enthusiasmlee/10222?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVudGh1c2lhc21sZWUiLCJhcnRpY2xlSWQiOjEwMjIyLCJpc3N1ZWRBdCI6MTc5NTQ5NDQzMzk4M30.Sd_Yk7wb6yxLULj5Te0wGlS9izHc_NUXW88XFrUSWPs&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "금지) 캐나다에서 항공편을 이용해 미국으로 입국하거나 미국 공항을 경유하는 모든 여행객은 탑승 전 최근 21일 동안 콩고민주공화국(DRC)을 방문하거나 경유하지 않았다는 확인서(Attestation)를... 확인서 제출 방식은 항공사별로 달라 출국 전 미리 확인하는 것이 좋다. 에어캐나다는 웹사이트와 모바일 앱을 통한 온라인 체크인 단계는 물론 공항 내 셀",
+   "url": "https://cafe.naver.com/limecanada/4316?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxpbWVjYW5hZGEiLCJhcnRpY2xlSWQiOjQzMTYsImlzc3VlZEF0IjoxNzk1NDk0NDMzOTgzfQ.z6JlvPVvKVWI7-lFMzMXV13-PLRPNCLtNR8ZAA_qqAc&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "대한민국국회 11시간전 국회 개방 정오의 콘서트, 국회 버스킹 매월 첫째, 셋째 주 목요일마다 열리는 무료 공연! 국회 개방 정오의 콘서트 국회 버스킹 국회 개방 정오의 콘서트, 국회 버스킹 2026년 첫 번째, 세 번째 목요일마다 우리 곁을 찾아오던 버스킹이 11월 19일, 올해 마지막 무대로 인사드립니다! 바쁜 점심시간, 잔디광장에 울려 퍼지는 라이브 ",
+   "url": "https://cafe.naver.com/jungamironware/21547?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTU0NywiaXNzdWVkQXQiOjE3OTU0OTQ0MzM5ODN9.WYaA68vIy7UXb0PEShdFFT2OeS4u7dsJELnSleElXu8&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "KOREA.KR / 소방청2026.11.17 김진아 외교부 2차관, 美 국무부 경제차관 면담 및 「팍스 실리카 리트리트」 참석 김진아 외교부 제 2 차관은 11.16( 월 ) 미국 샌프란시스코에서 제이콥 헬버그 (Jacob Helberg)... 재정경제부 조세개혁추진단 총괄기획팀 최윤희 ... KOREA.KR / 재정경제부2026.11.16 [보도설명자료]",
+   "url": "https://cafe.naver.com/jungamironware/21517?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTUxNywiaXNzdWVkQXQiOjE3OTU0OTQ0MzM5ODN9.HATp7VnItkJAufOl8NByGWl6pYVdGMsrxwLcMvDdSRA&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ea%b8%b0%ed%9a%8d%ec%a0%84%20%ec%97%ac%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "유럽여행을 취소하고 미국여행을 가라는게 아닙니다. 모든 판단은 본인의 몫입니다. 현재 에어캐나다 미국행 왕복 경유... 경유라서 힘들 것 같지만 사실 캐나다 경유 항공편은 엄청난 장점이 하나 있으니.. 바로 까다롭기로 유명한 미국... 저렴한 숙소를 잘 찾아낼 수 있다면 항공권 값은 충분히 뽑을 수 있다고 생각합니다. 만약 항공권은 확보했지만 숙소를 확보하",
+   "url": "https://cafe.naver.com/firenze/8880070?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZpcmVuemUiLCJhcnRpY2xlSWQiOjg4ODAwNzAsImlzc3VlZEF0IjoxNzk1NDk0NDcxOTY3fQ.CzvFHh-tYhhpKQ787SnvnjKTdaOZGAz0loARW8j6zP8",
+   "engine": "naver_all",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "이번 할인코드의 경우 한국에서 출발하여 캐나다 뿐만 아니라 미국 여러도시로 가는 왕복 항공권에 적용 가능하며, 세금 및 서비스 비용을 제외한 항공요금에 12% 할인이 적용됩니다. 할인코드 적용기간이 상대적으로 짧기 때문에, 내년 여름 캐나다 여행을 계획하고 계셨다면, 에어캐나다의 새로운 할인코드 요금도 함께 살펴보세요. <할인코드 이용 안내... 새 창 열",
+   "url": "https://cafe.naver.com/drivetravel/361872?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRyaXZldHJhdmVsIiwiYXJ0aWNsZUlkIjozNjE4NzIsImlzc3VlZEF0IjoxNzk1NDk0NDcxOTY3fQ.MHaLRgiloKcOLYHeyk2AGwNp0ueatP5pwlyPRr_sKjw",
+   "engine": "naver_all",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "- 워렌 버핏- \" 24’ “부동산은 입지!, 장사는 목!, 주식은 미국!” 25’ \"Never bet against America & AI\" \"변동성과... 제일기획, 대우건설, 경동나비엔, 한화손해보험, 아이센스, 윈스, 인크로스, 아이씨디, - 아시아(일정,이벤트)... 한국항공우주, LG, KT, LG유플러스, 한미약품, 코웨이, 에코프로머티리얼즈,",
+   "url": "https://cafe.naver.com/serenstalk/56092?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNlcmVuc3RhbGsiLCJhcnRpY2xlSWQiOjU2MDkyLCJpc3N1ZWRBdCI6MTc5NTQ5NDQ3MTk2N30.rac5MGPajcmHVedmzSNgSaXJ-RwYz0OPRNrMXEOsMCE",
+   "engine": "naver_all",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "●투굿투고 (Too Good To Go - 마감 할인) : 영국, 프랑스, 미국, 캐나다, 호주 등등의 베이커리(크루아상·베이글·머핀), 카페... 반면, 저가 항공사들은 거기서 한 시간 거리의 외곽 공항(예: 슬로바키아 브라티슬라바, 말레이시아 조호바루)을 거점으로 삼아 파격적인 덤핑 가격을 책정한다. 유럽 여행 시 비엔나행 티켓이 100만 원이라면, 브",
+   "url": "https://cafe.naver.com/7450rt/120165?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Ijc0NTBydCIsImFydGljbGVJZCI6MTIwMTY1LCJpc3N1ZWRBdCI6MTc5NTQ5NDQ3MTk2N30.3hp-_GTazL9RkgHgmHSwh0OhlzBHkztlKO8XgrzZGio",
+   "engine": "naver_all",
+   "query": "에어캐나다 항공권 기획전 여행사 미국",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "트럼프 2.0 구독자 10,687명이슈 시작일 2024.10.15 SNS 보내기 AI 요약 AI가 생성한 요약으로 정확하지 않을 수 있어요. 트럼프 젠슨 황 복귀 주장 불륜 의혹 엔비디아 전 CEO 사과 후 재기 촉구 미 의회 스캔들 진상 파악 예고 트럼프 \"젠슨 황, 사과하고 복귀시켜 기회 주자\" 2026.11.21. 19:34댓글 10이상+ #트럼프#상",
+   "url": "https://cafe.naver.com/greenb0k6k/201557?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjIwMTU1NywiaXNzdWVkQXQiOjE3OTU0OTQ1MjI4NTB9.Ak8gDG6HLkAo5wsjzclKFT_KyvRkCt-txp5aTiGTBRY&q=KB%ea%b5%ad%eb%af%bc%ec%b9%b4%eb%93%9c%20%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%9c%a0%ed%95%99%20%ec%9b%8c%ed%82%b9%ed%99%80%eb%a6%ac%eb%8d%b0%ec%9d%b4%20%ed%83%91%ec%8a%b9%ea%b8%b0%ea%b0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "KB국민카드 에어캐나다 유학 워킹홀리데이 탑승기간",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
+  {
+   "title": "• 혜택: 투썸플레이스 전 메뉴 33% 바로할인 (수능 특집) (이벤트 기간 중 투썸플레이스에서 KB국민카드로 결제... 신용카드로 에어비앤비 앱·사이트에 카드…) • 상태: D-1 내일 마감 상세 링크: https://www.shinhancard.com/pconts/html... bbsSeq=717 & 그 외 마감: [KB국민카드] 유학생이세요? 에어캐나",
+   "url": "https://cafe.naver.com/moneyinsights/12582?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbmV5aW5zaWdodHMiLCJhcnRpY2xlSWQiOjEyNTgyLCJpc3N1ZWRBdCI6MTc5NTQ5NDUyMjg1MH0.983cfWQFvUwUTeYtxZo6oVwCkb5hMnUYQ69LfCdXS4E&q=KB%ea%b5%ad%eb%af%bc%ec%b9%b4%eb%93%9c%20%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%9c%a0%ed%95%99%20%ec%9b%8c%ed%82%b9%ed%99%80%eb%a6%ac%eb%8d%b0%ec%9d%b4%20%ed%83%91%ec%8a%b9%ea%b8%b0%ea%b0%84&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "KB국민카드 에어캐나다 유학 워킹홀리데이 탑승기간",
+   "first_seen": "2026-11-24T13:07:48+09:00"
+  },
   {
    "title": "파라타항공, 인천-LA 신규 취항 기념 특가… 왕복 99만원대부터새 창 열림",
    "url": "https://www.viva100.com/article/20261123500248",
@@ -20220,858 +21069,10 @@
    "engine": "naver_cafe",
    "query": "Delta Korea promo",
    "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "주목 미국 무역대표부(이하 USTR)가 20일(현지시간) 한국을 포함한 16개국을 상대로 진행 중인 '과잉생산' 관련 무역법 301조 조사를 연말까지 마무리하겠다고 밝혔다 제이미슨 그리어 USTR 대표는 이날... 촬영 행사라고 혹 10이상+ 동영상 뉴스 17:11트럼프 귀국길 전용기서 취재진 폰 수거…\"보안 조치\" 백악관이 도널드 트럼프 미국 대통령의 중",
-   "url": "https://cafe.naver.com/greenb0k6k/201557?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjIwMTU1NywiaXNzdWVkQXQiOjE3OTU0MjI0MjQwMzd9.6TVKpM9I7oF_Jfuxjs3D5SeuG1NQ_jvS030MC9cv19c&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20KB%ea%b5%ad%eb%af%bc%ec%b9%b4%eb%93%9c%20%ec%97%b0%eb%a7%90%ec%97%b0%ec%8b%9c%20%ed%96%89%ec%82%ac%20%eb%af%b8%ea%b5%ad%ed%96%89%20%ed%8e%b8%eb%8f%84&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 KB국민카드 연말연시 행사 미국행 편도",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "아이폰17에어 #아이폰17프로#아이폰17프로맥스#인터넷티비지원금#인터넷티비#SK인터넷티비지원금#LG인터넷티비지원금#KT인터넷티비지원금 #정직폰#S26사전예약#갤럭시S26#S26울트라#S26플러스... 사전예약이벤트 #예약혜택 #통신사혜택 #자급제추천 #온라인사전예약 #오프라인매장 #대리점 #공홈예약 #카드할인 #무이자할부 #중고보상 #트레이드인 #보상판매 ",
-   "url": "https://cafe.naver.com/janglongphone/369274?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imphbmdsb25ncGhvbmUiLCJhcnRpY2xlSWQiOjM2OTI3NCwiaXNzdWVkQXQiOjE3OTU0MjI0MzI3NzJ9.zUUKp0PF-Zdte_l2PIEIZcIxaOCPROFYLEqffqyWyko&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "com/benefit-affiliate/card-discount SKT T국민카드 전월실적30만원이상 25,000원할인 KT KT국민카드 전월실적 30만원이상 25... do #플립7 #폴드7 #아이폰17 #아이폰17프로맥스 #아이폰17프로 #아이폰17에어 #폴드8 와이드 #폴드8울트라 #플립8 #폴드8... 필름 #이벤트 #삼성 24플러스 #15 #아이폰",
-   "url": "https://cafe.naver.com/isrevolution/455047?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImlzcmV2b2x1dGlvbiIsImFydGljbGVJZCI6NDU1MDQ3LCJpc3N1ZWRBdCI6MTc5NTQyMjQzMjc3Mn0.GK_YBtUyDAO2YeMM-gVemyCw8wktvs19TF1z3GPqQyo&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "아이폰17에어 #아이폰17프로#아이폰17프로맥스#인터넷티비지원금#인터넷티비#SK인터넷티비지원금#LG인터넷티비지원금#KT인터넷티비지원금 #정직폰#S26사전예약#갤럭시S26#S2 부가서비스 및 가입조건... 사전예약이벤트 #예약혜택 #통신사혜택 #자급제추천 #온라인사전예약 #오프라인매장 #대리점 #공홈예약 #카드할인 #무이자할부 #중고보상 #트레이드인 #보상판",
-   "url": "https://cafe.naver.com/naoh01/254535?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5hb2gwMSIsImFydGljbGVJZCI6MjU0NTM1LCJpc3N1ZWRBdCI6MTc5NTQyMjQzMjc3Mn0.imo5XQw9W6X4JVMCqAMwnpXBzBZTtZz8mYH_BJzxkGI&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "아이폰17에어 #아이폰17프로#아이폰17프로맥스#인터넷티비지원금#인터넷티비#SK인터넷티비지원금#LG인터넷티비지원금#KT인터넷티비지원금 #정직폰#S26사전예약#갤럭시S26#S26울트라#S26플러스... 사전예약이벤트 #예약혜택 #통신사혜택 #자급제추천 #온라인사전예약 #오프라인매장 #대리점 #공홈예약 #카드할인 #무이자할부 #중고보상 #트레이드인 #보상판매 ",
-   "url": "https://cafe.naver.com/misseses/184713?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1pc3Nlc2VzIiwiYXJ0aWNsZUlkIjoxODQ3MTMsImlzc3VlZEF0IjoxNzk1NDIyNDMyNzcyfQ.UDTpeM9DBaSi6het_8_e0_yEbJNITu_XQKLIUgm1tJs&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "제휴카드X 제휴카드X 제휴카드X 제휴카드X 제휴카드X ❤️ 인터넷+TV 수도권 경기지역 최대 130+@지원 지하철역... tab=lN&subtab=all 본 업체는 불법보조금을 지원하지 않습니다 위 금액은 최대 지원금(이통사지원금,유통망지원금) 할인이... 필름 #이벤트 #삼성 24플러스 #15 #아이폰 15 #15pro #15프로 #15pro max #m",
-   "url": "https://cafe.naver.com/hiric/367909?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhpcmljIiwiYXJ0aWNsZUlkIjozNjc5MDksImlzc3VlZEF0IjoxNzk1NDIyNDMyNzcyfQ.H2OoyUHMMPMFdRlRRBGedmw0WXXUHhz4jG07F5hV4Ig&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "아이폰17에어 #아이폰17프로#아이폰17프로맥스#인터넷티비지원금#인터넷티비#SK인터넷티비지원금#LG인터넷티비지원금#KT인터넷티비지원금 #정직폰#S26사전예약#갤럭시S26#S26울트라#S26플러스... 사전예약이벤트 #예약혜택 #통신사혜택 #자급제추천 #온라인사전예약 #오프라인매장 #대리점 #공홈예약 #카드할인 #무이자할부 #중고보상 #트레이드인 #보상판매 ",
-   "url": "https://cafe.naver.com/erika1/130312?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVyaWthMSIsImFydGljbGVJZCI6MTMwMzEyLCJpc3N1ZWRBdCI6MTc5NTQyMjQzMjc3Mn0.aiLFA6xHk24gNzqUXC7FuGm1rSW87l3u1OIt0HwZT6k&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "에어 #아이폰17프로 #아이폰17프로맥스 #아이폰17pro #아이폰17promax #플립6 #폴드6 #아이폰16 #플립7 #폴드7 #제휴O #제휴카드O... 약정할인 #부가최소 #차비지급 #페이백 #박리다매 #재고있음 #당일개통 #당일수령 #방문개통 #당일개통 #당일수령 #유플러스... 여름이벤트 #여름특가 #핫딜 #최저가 #사은품증정 #24시상담 #청주성",
-   "url": "https://cafe.naver.com/010freebaram/265794?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjAxMGZyZWViYXJhbSIsImFydGljbGVJZCI6MjY1Nzk0LCJpc3N1ZWRBdCI6MTc5NTQyMjQzMjc3M30.O_vkRcO-OY6YisJfJeNar8GtUPGBNspI8p87CXmchP0&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "공차에서 KB국민카드로 결제하면 20% 청구할인 해 줘요. 오늘부터 금요일까지 5일만 한대요. KB할인팩에서 먼저 신청해 두고 KB국민 개인 신용·체크카드로 7천 원 넘게 결제하면 돼요. 최대 2천 원까지고 한 사람당 한 번이에요. 행사 매장만 되고 예산 떨어지면 일찍 끝날 수 있대요. 기업·비씨·선불카드는 안 돼요. https://www.gong-cha.",
-   "url": "https://cafe.naver.com/hotdealcatch/2694?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhvdGRlYWxjYXRjaCIsImFydGljbGVJZCI6MjY5NCwiaXNzdWVkQXQiOjE3OTU0MjI0MzI3NzN9.jG0Au5P3Bdzdq8-v-RuW-BzvjxcnYhAiIXihj-lF9_w&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "(삼성/팝 카드 및 GS Pay 결제 시, 정상가 8,190원) 활용 Tip & 레시피: 총 12컵이 6,990원! 출출할 때, 캠핑 갈 때, 아이들 간식으로 딱 좋은 진라면 소컵! 면을 다 건져 먹은 뒤 남은 국물에 찬밥 한 덩이와 모짜렐라 치즈, 김가루를 넣고 전자레인지에 1분 돌리면 꿀맛 리조또 완성! [맛의 정석] \"고메\" 통등심 / 모짜렐라 돈카츠",
-   "url": "https://cafe.naver.com/yeongjongdolove/1046090?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Inllb25nam9uZ2RvbG92ZSIsImFydGljbGVJZCI6MTA0NjA5MCwiaXNzdWVkQXQiOjE3OTU0MjI0MzI3NzN9.FnMf6swWBTpgMbiQ5HxqAtUBqdJh2Gl07rGI21aXrX0&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "휴대폰할인 #핸드폰싸게사는법 #휴대폰싸게사는법 #휴대폰정보 #휴대폰가격 #휴대폰특가 #핸드폰특가 #아이폰성지 #갤럭시성지... 휴대폰이벤트 #휴대폰행사 #뽐뿌 #알고사 #s25 #s25+ #s25울트라 #특가 #박리다메 #한정수량 #S24 #S24+ #S24울트라 #s25엣지 #엣지 #갤럭시... 아이폰17에어 #아이폰17프로 #아이폰17프로맥스 #핸드폰 ",
-   "url": "https://cafe.naver.com/ssamter/246500?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNzYW10ZXIiLCJhcnRpY2xlSWQiOjI0NjUwMCwiaXNzdWVkQXQiOjE3OTU0MjI0MzI3NzN9.YK1MP0V07OVzzSHSurz6dVH5iNu647Y3QMANZgKyRfw&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "휴대폰할인 #핸드폰싸게사는법 #휴대폰싸게사는법 #휴대폰정보 #휴대폰가격 #휴대폰특가 #핸드폰특가 #아이폰성지 #갤럭시성지... 휴대폰이벤트 #휴대폰행사 #뽐뿌 #알고사 #흥덕구 #청주 #청주시 #청주성지 #청주핸드폰성지 #세종 #세종시 #증평 #복대동 #오동동... 아이폰17에어 #아이폰17프로 #아이폰17프로맥스 #핸드폰 #유심 #기기변경 #번호이동 #s",
-   "url": "https://cafe.naver.com/ngmc/898963?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5nbWMiLCJhcnRpY2xlSWQiOjg5ODk2MywiaXNzdWVkQXQiOjE3OTU0MjI0MzI3NzN9.ObYI08c3DLD9fMBrV3PbmcTVjYU-iax1ICFd0LUBFxU&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "휴대폰할인 #핸드폰싸게사는법 #휴대폰싸게사는법 #휴대폰정보 #휴대폰가격 #휴대폰특가 #핸드폰특가 #아이폰성지 #갤럭시성지... 휴대폰이벤트 #휴대폰행사 #뽐뿌 #알고사 #흥덕구 #청주 #청주시 #청주성지 #청주핸드폰성지 #세종 #세종시 #증평 #복대동 #오동동... 아이폰17에어 #아이폰17프로 #아이폰17프로맥스 #핸드폰 #유심 #기기변경 #번호이동 #s",
-   "url": "https://cafe.naver.com/dollfin/1500969?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRvbGxmaW4iLCJhcnRpY2xlSWQiOjE1MDA5NjksImlzc3VlZEF0IjoxNzk1NDIyNDMyNzczfQ.QqijmcVsicC-Xq7cNR_RunmKaV0RDwxDFXkOTLX_A58&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "휴대폰할인 #핸드폰싸게사는법 #휴대폰싸게사는법 #휴대폰정보 #휴대폰가격 #휴대폰특가 #핸드폰특가 #아이폰성지 #갤럭시성지... 휴대폰이벤트 #휴대폰행사 #뽐뿌 #알고사 #흥덕구 #청주 #청주시 #청주성지 #청주핸드폰성지 #세종 #세종시 #증평 #복대동 #오동동... 아이폰17에어 #아이폰17프로 #아이폰17프로맥스 #핸드폰 #유심 #기기변경 #번호이동 #s",
-   "url": "https://cafe.naver.com/tamis0203/206373?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRhbWlzMDIwMyIsImFydGljbGVJZCI6MjA2MzczLCJpc3N1ZWRBdCI6MTc5NTQyMjQzMjc3M30.BBit3Rwe0t9sLr09tR5H8rpLmGeOePcTKHZ3TFKN1os&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "휴대폰할인 #핸드폰싸게사는법 #휴대폰싸게사는법 #휴대폰정보 #휴대폰가격 #휴대폰특가 #핸드폰특가 #아이폰성지 #갤럭시성지... 휴대폰이벤트 #휴대폰행사 #뽐뿌 #알고사 #흥덕구 #청주 #청주시 #청주성지 #청주핸드폰성지 #세종 #세종시 #증평 #복대동 #오동동... 아이폰17에어 #아이폰17프로 #아이폰17프로맥스 #핸드폰 #유심 #기기변경 #번호이동 #s",
-   "url": "https://cafe.naver.com/tocu01/167345?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRvY3UwMSIsImFydGljbGVJZCI6MTY3MzQ1LCJpc3N1ZWRBdCI6MTc5NTQyMjQzMjc3M30.jVLTPi0U3s0gSQNIiKsJLE-Yw47Ec1b5qceEWIRtLQM&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "휴대폰할인 #핸드폰싸게사는법 #휴대폰싸게사는법 #휴대폰정보 #휴대폰가격 #휴대폰특가 #핸드폰특가 #아이폰성지 #갤럭시성지... 휴대폰이벤트 #휴대폰행사 #뽐뿌 #알고사 #흥덕구 #청주 #청주시 #청주성지 #청주핸드폰성지 #세종 #세종시 #증평 #복대동 #오동동... 아이폰17에어 #아이폰17프로 #아이폰17프로맥스 #핸드폰 #유심 #기기변경 #번호이동 #s",
-   "url": "https://cafe.naver.com/tamis0302/77589?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRhbWlzMDMwMiIsImFydGljbGVJZCI6Nzc1ODksImlzc3VlZEF0IjoxNzk1NDIyNDMyNzczfQ.9vuZrnVz01bfpbdGnbOntFcMsUdkRBmVZ-VHt29wJJc&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "돈이되는모든정보 하나카드 유니온페이 아고다 국내외 숙소 최대 25% 할인 이벤트 기간: 2026.11.20 ~ 2027.01.31 Read more: https://m.hanacard.co.kr/MKEVT1010M.web?EVN_SEQ=60652 삭제금지! 각종 이벤트 및 정보성 카페, 블로그 알림은 텔레그램을 이용하고 있으니 참고하세요! https://c",
-   "url": "https://cafe.naver.com/moneyinsights/12709?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbmV5aW5zaWdodHMiLCJhcnRpY2xlSWQiOjEyNzA5LCJpc3N1ZWRBdCI6MTc5NTQyMjQzMjc3M30.eSkKEGHVGyhscngF4PTc7AuA9rbBiuWjqaqXycI9Zy4&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "코이티비 KOITV 5만1시간 전 분사후 단 일분만에 1+1 공식몰에서만 이벤트 진행 중 스폰서 모닝오프 1:22:47 역대급 댐 붕괴... 뜻밖의 초대형 호재 나왔습니다 (박준영 대표 / 풀버전) 신사임당 3.1만4일 전 서대문구 개인회생 원금 최대 97프로 감면 카드값... 스폰서 미르의 전설2: 레볼루션 26:47 \"아나운서 첫 월급이 50만 원?\" ",
-   "url": "https://cafe.naver.com/jmsong0829/77052?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imptc29uZzA4MjkiLCJhcnRpY2xlSWQiOjc3MDUyLCJpc3N1ZWRBdCI6MTc5NTQyMjQzMjc3M30.vz5wEE7kJBPxeUF1llIb3_hUiI0NHY-L86nwdU7az6Q&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "돈이되는모든정보 하나카드 트래블로그 체크카드 아고다 국내외 숙소 최대 25% 할인 이벤트 기간: 2026.11.20 ~ 2027.01.31 Read more: https://m.hanacard.co.kr/MKEVT1010M.web?EVN_SEQ=60652 삭제금지! 각종 이벤트 및 정보성 카페, 블로그 알림은 텔레그램을 이용하고 있으니 참고하세요! http",
-   "url": "https://cafe.naver.com/moneyinsights/12707?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbmV5aW5zaWdodHMiLCJhcnRpY2xlSWQiOjEyNzA3LCJpc3N1ZWRBdCI6MTc5NTQyMjQzMjc3M30.WKP6PCvK4ZrVqmEXXYBH-CE_A7Fv3dZX5GU4fPx6euM&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "https://m.hanacard.co.kr/MKMAGAZINEWM.web?url=/MKEVT1010M.web?EVN_SEQ=60614 트래블 고 카드로 결제 (~1/31)까지 롯데마트 200만동이상결제시 20만동 할인(10퍼할인) 그랩택시,바이크 이용하면 4만동쿠폰 5장,트래블패스무료제공 그린sm 전기차 만원이상 오천원 할인 콩카페 만원이상 오천원할인 꿀",
-   "url": "https://cafe.naver.com/tybwondergirl5/119096?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InR5YndvbmRlcmdpcmw1IiwiYXJ0aWNsZUlkIjoxMTkwOTYsImlzc3VlZEF0IjoxNzk1NDIyNDMyNzczfQ.y-CVqFpXQlgV9h0EQzrCRMR5ChVxAI0Xe6O1J2HFUD0&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "롯데카드 마스터 이벤트 참가시 141.7만원 => 1 아코르 리워드당 18.9원 나옵니다. [기존 가입 이력 있는 구독자] 7296 헤알입니다. 얼마일까요 롯데카드 마스터 이벤트 참가시 156.4만원 => 1 아코르 리워드당 20.85원 신규와 기존 구독자의 차이가 약 14.7만 원입니다. 기존 프로모션가와 비교입니다. 아코르시그니처 구독시 주는 포인트를 ",
-   "url": "https://cafe.naver.com/hexenyang/76315?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhleGVueWFuZyIsImFydGljbGVJZCI6NzYzMTUsImlzc3VlZEF0IjoxNzk1NDIyNDMyNzczfQ.rqvjUAbkNF7FR6S5uv8SXoZ9XsTHjAkiWeHM3GqQDWg&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "GS 하나카드 할인 이벤트 사라졌네요?",
-   "url": "https://cafe.naver.com/winerack24/375584?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndpbmVyYWNrMjQiLCJhcnRpY2xlSWQiOjM3NTU4NCwiaXNzdWVkQXQiOjE3OTU0MjI0MzI3NzN9.HvrDD0hFe1EhRA-3NyUESRYNIB0ojcNpJXsRVfwqw1A&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "에어캐나다 마일리지는 에어로플랜으로 관리해야하는데요. 저만 귀찮은건가요? 몇년전 오랫동안 쌓여서 마일리지가 많을거라 생각하고 몇년만에 체크해 보니 0.0 ㅠㅠ 관리안하고 1년이상 안쓰니... 억울하게 소멸되느니....그렇다고 그안에 비행기 탈일도 없구...해서 200불짜리 코스코 카드를 샀네요. 어차피 코스코는 가니까요. 이제 조금(900정도) 남은거 없어",
-   "url": "https://cafe.naver.com/yoehang/733084?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InlvZWhhbmciLCJhcnRpY2xlSWQiOjczMzA4NCwiaXNzdWVkQXQiOjE3OTU0MjI0MzI3NzN9.vUMe0y_XpgkiddRAi9AeJ3USW53ohFIpmIDV0pdFP4E&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "롯데마트 장보고 나오는데 무지 오픈 플랜카드 걸려있더라고요 ㅎㅎ 늦은시간이어서 들리지는 못하고 찍어만 왔네요 인스타에 쳐보니까 할인 꽤 들어가서 오픈 이벤트 기간 끝나기 전에 꼭 들릴거여요~~~ 혹시 가보신 분들 넓나요? ================================================================ 강원맘스파파 강원맘카",
-   "url": "https://cafe.naver.com/propick/2971?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InByb3BpY2siLCJhcnRpY2xlSWQiOjI5NzEsImlzc3VlZEF0IjoxNzk1NDIyNDMyNzczfQ.LSeZr4oVuDbIpxVe4Aq27NBEKYSqpSY58Fz_EPnXaqM&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "판매가 550만원 현금할인 이벤트중이니 많은전화부탁드려요^^ [판매품 가격 정보와 연락방법 안내] ▶ 이 차량 판매금액 ➔ [ 550 ] 만원 9.독하면 2026년 1500km 당 ㅇl자만 500만원 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ ▶ 연락 방법 (채팅 우선) : 공1공 - 9111-5287 남의 빚 떠안는 승/계? 자발적 호9 되는 길! ＝＝＝＝＝＝＝",
-   "url": "https://cafe.naver.com/bikecargogo/9798690?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJpa2VjYXJnb2dvIiwiYXJ0aWNsZUlkIjo5Nzk4NjkwLCJpc3N1ZWRBdCI6MTc5NTQyMjQzMjc3M30.NCF_F4SCJgWVHeGW04f9tDI3hOZD7PL56eez7alfOk0&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "헤라 블랙쿠션 쓰시는 분들 라이브 보세요!! 블랙쿠션이랑 파운데이션, 선크림까지 할인하는데 블랙쿠션은 리필이랑 클렌징, 파우치 구성인데도 싸네요 23일부터 25일까지 아뷰페 라이브로 라이브 당일 10% 적립에 KB카드 7% 할인에 구매 금액별 기프트에 추첨 이벤트까지 있어요! https://sflex.us/WA1XCrv?fc=chv",
-   "url": "https://cafe.naver.com/malltail/7562314?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hbGx0YWlsIiwiYXJ0aWNsZUlkIjo3NTYyMzE0LCJpc3N1ZWRBdCI6MTc5NTQyMjQzMjc3M30.NoaO9OYJccTomBFLsjortkSQVtHu2BquNBSgehFeos0&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "돈이되는모든정보 삼성카드 롯데월드 놀러갈 때 최대 47% 할인받기 이벤트 기간: 2026.11.23 ~ 2026.11.30 Read more: https://www.samsungcard.com/personal/event/ing/UHPPBE1403M0.jsp?cms_id=3762917 삭제금지! 각종 이벤트 및 정보성 카페, 블로그 알림은 텔레그램을 이용하고",
-   "url": "https://cafe.naver.com/moneyinsights/12690?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbmV5aW5zaWdodHMiLCJhcnRpY2xlSWQiOjEyNjkwLCJpc3N1ZWRBdCI6MTc5NTQyMjQzMjc3M30.w8rQe7R9Uq1igv-Jty66SSgEa0bDoVu9yn-meI3fXQA&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "층간소음 매트 시공할사람 보면 좋을듯 더현대라방이라 괜찮을듯해서 올려요 현대백화점카드로 결제하면 7% 추가할인 가능하고 구매인증 이벤트도 있어서 참고해서 보면 도움될듯하네요 https://hi.thehyundai.com/contents/live/202611100001 ★ 게시글 보셨다면, <좋아요> 한 번 눌러주시면 큰 힘이 됩니다! ★ 좋은 글엔 따뜻한 ",
-   "url": "https://cafe.naver.com/malltail/7562278?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hbGx0YWlsIiwiYXJ0aWNsZUlkIjo3NTYyMjc4LCJpc3N1ZWRBdCI6MTc5NTQyMjQzMjc3M30.wEL1I-_lq9kuKG5Ide_yFMp6tN-sFIEDIzup_e6s_10&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "미국 증시 요약 (2026-11-20 현지 | KST 2026-11-21 06:00 마감 기준) ✅ 지수 요약 다우존스30산업평균지수: 48,147.33 (-1.93%) S&P500지수: 6,910.39 (-3.70%) — 7거래일 연속 하락 및 고점 대비 10.00% 이상 조정 구간 진입 나스닥종합지수: 22,617.73 (-5.28%) — 주간 10.0",
-   "url": "https://cafe.naver.com/todaybigboss/6816?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRvZGF5YmlnYm9zcyIsImFydGljbGVJZCI6NjgxNiwiaXNzdWVkQXQiOjE3OTU0MjI0MzI3NzN9.hw5zWrZ48vTbg6GlvYtbvYpnP4EeSYDLVA0mLMt6798&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "11월 24일부터 29일까지고, 매장에서 네이버페이 포인트·머니·카드 QR로 결제하면 전 제품 40% 할인이에요. 세트 메뉴도 된대요. 하루 한 번, 한 번에 최대 8천 원까지 깎여요. 2만 원어치... 다른 쿠폰·제휴 할인이랑은 중복 안 되고, 인천공항 T1·T2점은 빠져요. https://m.blog.naver.com/nv_npay/22445590511",
-   "url": "https://cafe.naver.com/hotdealcatch/2641?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhvdGRlYWxjYXRjaCIsImFydGljbGVJZCI6MjY0MSwiaXNzdWVkQXQiOjE3OTU0MjI0MzI3NzN9.ZGLdqx9pzIZ1yMgxVXjQU3nePDry8qoNs3baIimbqxo&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "2026년 11월 23일 기준 빕스 할인을 알아본다면 종료된 네이버페이 행사와 현재 이용 가능한 제휴 혜택을 구분해야 합니다. 빕스 공식 시즌 이벤트에 안내된 네이버페이 최대 50% 혜택은 11월 22일까지였으며, 현대카드 M포인트 사용 행사는 12월 15일까지로 안내돼 있습니다. 현대카드 행사는 결제금액의 최대 70%를 M포인트로 사용하는 방식으로, 현금",
-   "url": "https://cafe.naver.com/ddubu0628/3071?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRkdWJ1MDYyOCIsImFydGljbGVJZCI6MzA3MSwiaXNzdWVkQXQiOjE3OTU0MjI0MzI3NzN9.N1L9rqQ1z1deGw2ZtIC7TYjxQgeq8IAQO3w-AipIkcQ&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 할인 이벤트 카드",
-   "first_seen": "2026-11-23T17:07:48+09:00"
-  },
-  {
-   "title": "파라타항공, 첫 미주 노선 LA 항공권 판매 개시… 내년 5월 취항 - 브릿지경제",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxNHcxRy1NMXNodTFGREUxSUIyNXk3YU5PNjlOMFpYVThtUThybUVfeGpXTzdhb0lQVi1VRTVyWXVUT0FwVnZzelJfeVBjbl9lSUVTN0wxWQ?oc=5",
-   "pub": "Tue, 17 Nov 2026 01:42:00 GMT",
-   "engine": "gnews",
-   "query": "에어프레미아 미주 특가",
-   "first_seen": "2026-11-23T16:07:48+09:00"
-  },
-  {
-   "title": "에어프레미아, APEX 선정 '동북아 최고 기내 엔터테인먼트' 수상 - 뉴스투데이",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxTF93Tm80anlpVmZQTk5tWTV1RlQtTzY4eVFZN3R0dVJXbmpRa3o3Rk9uLXlpNnRWSUN0eFNXVlAyelpLbnlpemJXT09JOFg1d0N4ZjdsTl94NnBPS1E?oc=5",
-   "pub": "Fri, 20 Nov 2026 08:00:00 GMT",
-   "engine": "gnews",
-   "query": "에어프레미아 프로모션 LA",
-   "first_seen": "2026-11-23T16:07:48+09:00"
-  },
-  {
-   "title": "진에어 특가 라이브가 열려요! 7월 항공특가 혜택 라이브 구매자에게는 혜택이 두 가지 쏟아지는데요! 첫 번째는 라이브 1시간 자동 적용 할인 + 제휴카드 15% 추가 할인으로 최대 총 30% 할인이에요. 제휴카드는 삼성, 신한, 롯데, 우리, 국민, 현대, NH농협, IBK기업카드가 해당됩니다. 두 번째는 항공권 1매당 1만 원 추가 할인인데요, 발권수수료",
-   "url": "https://blog.naver.com/joo_ni2/224351177265",
-   "engine": "naver_web",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "해외여행객이 증가하면서 신용카드사들이 해외여행객들을 잡기 위한 각종 이벤트를 펼치고 있다. [사진=픽사베이] 코로나19 엔데믹으로 3년 만에... 또 신한카드의 '딥온플래티늄플러스' 신용카드는 제주항공, 에어부산 항공권 결제 시 결제일에 10%를 할인해줍니다. 현대카드가 지난 4월 여가 플랫폼... 새 창 열림",
-   "url": "http://www.sisacast.kr/news/articleView.html?idxno=41641",
-   "engine": "naver_web",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "삼성카드는 올해 안에 홈페이지에서 응모하고 아마존이나 아이허브, 알리익스프레스 등 10개 해외 쇼핑몰에서 100달러 이상 결제하면 추첨을 통해 100명에게 헤어드라이어 등 선물을 준다. 신한카드는 홈페이지에서 이벤트에 응모하면 비자카드와 마스터카드 고객에 한해 해외 이용액이 100달러 이상은... 새 창 열림",
-   "url": "http://www.g-enews.com/ko-kr/news/article/news_all/201611250813010085385_1/article.html",
-   "engine": "naver_web",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "이벤트 페이지 바로가기 ✅️ 판매기간: 7/1~7/31(릴레이 라이브) ✅️ 라이브시간: 오전 11시 단독 혜택! 라이브 구매자 전원 - 라이브할인 + 카드할인으로 최대 총 30% 할인 (라이브 1시간 자동 적용, 제휴카드 결제) * 제휴카드: 삼성, 신한, 롯데, 우리, 현대, NH농협, IBK기업 - 항공권 1매당 1만 원 추가 할인 선착순 50원 딜!",
-   "url": "https://blog.naver.com/gain_chyung/224334729693",
-   "engine": "naver_web",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "https://youtu.be/pKbMXytC-PU?si=89JhWGewV44zh-OL 연회비 100만원짜리 현대카드 the Purple이, 연회비 30만원짜리 대한항공카드... 신한 The PREMIER GOLD EDITION도 마찬가지로 초청제이고, 월·연 적립 한도 문구를 공식 페이지에서 찾지 못했어요. 하나... 사는 카드 현대 the Purple ",
-   "url": "https://blog.naver.com/nothingbut/224399087405",
-   "engine": "naver_web",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "제휴카드: 삼성, 신한, 롯데, 우리, 국민, 현대, NH농협, IBK기업 항공권 1매당 1만원 추가 할인 (발권수수료 1만원 면제) 선착순 50원 딜 7월 8일(수) 에어서울 라이브에서 선착순 50원 딜이 진행돼요~ 수량 한정이라 방송 시작과 동시에 접속해야 구매할 수 있어요 라이브 퀴즈 이벤트 라이브 중 퀴즈만 맞혀도 추첨을 통해 항공사별 경품을 받을 ",
-   "url": "https://blog.naver.com/heeheehohee/224336292077",
-   "engine": "naver_web",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "참가해요 에어 5G 요금제의 실체감가는 월 6900원에서 1만6900원 수준으로 제시되었어요 특가 가입자 중 선착순 2500명에게는 한정판 보스턴백을 증정한다고 해요 SKT 구현철 세일즈... 미국과 캐나다 공식 온라인몰에서 메가세일을 시작했어요 애플TV는 11월 30일까지 6개월간 월 2900원에 이용할 수 있는 프로모션을 운영해요 주요 플랫폼별 2026",
-   "url": "https://blog.naver.com/treelovetree/224486791336",
-   "engine": "naver_blog",
-   "query": "에어캐나다 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "겨울방학 일정 나왔으면 패밀리 특가 타이밍 놓치지 말고 옐로 프라이데이, 카드 할인 조합까지 챙겨서 예약해두시길 진심으로 추천드립니다 괌 롯데호텔 패밀리팩 날짜별 가격 보기 #괌여행 #괌패키지 #괌롯데호텔 #롯데호텔괌 #괌겨울방학 #아이겨울방학여행 #괌가족여행 #괌패밀리팩 #노팁노쇼핑 #괌오션프론트 #라세느조식 #클럽라운지 #에어서울괌 #괌숙소... 새 창",
-   "url": "https://blog.naver.com/hyetto_log/224486936166",
-   "engine": "naver_blog",
-   "query": "에어캐나다 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "결항 대응은 ANA·베트남항공·에어캐나다와 EU의 공식 안내를 기준으로 살펴봤어요. 1. 하노이: 2027년 1월 12~17일 중국국제항공 524,800원이에요. 2. 삿포로: 2027년 1월 20~24일 ANA 534... 특히 대체편 이용 가능 여부와 개별 항공권의 환불 조건은 발권 내역을 기준으로 확인하는 것이 좋아요. ▶ 여행 계획에 참고할 항공권 ",
-   "url": "https://blog.naver.com/nokore/224481977918",
-   "engine": "naver_blog",
-   "query": "에어캐나다 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "T STANDARD × 삼성카드 특가 모음 두 번째 페이지는 TRADERS × 삼성카드 프로모션 아래 자체 브랜드 T STANDARD 제품군과 다양한 식품·리빙·가구 품목이 폭넓게 구성되어... 에어프라이어나 튀김 조리로 간편하게 즐기는 CP 치킨 가라아게(1.2kg)는 18,980원에서 2,000원 할인, GOFRIK 피스타치오 초코 웨이퍼바(500g)는",
-   "url": "https://blog.naver.com/wlsqja617/224484925676",
-   "engine": "naver_blog",
-   "query": "에어캐나다 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "워싱턴 특가 항공권 확인하기 워싱턴 숙소 가격 비교하기 워싱턴 항공권 12월 어느 항공사가 자주 쌌나요? 4박 5일 왕복에서 그날 가장 싼 항공권은 에어캐나다가 20일로 가장 자주 나왔어요 에어캐나다의 최저가는 12월 27일 일요일 출발 1,524,200원이에요 유나이티드항공은 3일이에요 워싱턴 항공권 12월 싸게 고르는 순서 3단계 날짜를 먼저 정하고..",
-   "url": "https://blog.naver.com/ewsoewjnm/224469714207",
-   "engine": "naver_blog",
-   "query": "에어캐나다 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "이 프로그램은 캐나다 전역의 2,000개 이상의 문화, 역사 및 야외 체험 활동을 신규 이민자에게 무료 또는 할인된 가격으로 제공합니다. (아래 링크로 들어가 가입하시면... • 여행 및 라이프스타일 특가 상품. VIA Rail 티켓, 에어 캐나다 국내선 항공편, 스포츠 경기, 콘서트, 모바일 요금제 등 다양한 상품 에 대한 회원 전용 할인 혜택을 누리세요",
-   "url": "https://blog.naver.com/khj289/224483994675",
-   "engine": "naver_blog",
-   "query": "에어캐나다 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "⏰ 매일 20시, 한정 수량 특가 인스탁스 미니 13 29,900원 에어팟 5 49,900원 직잭 온리! 아우터 반값딜 : 지그재그에서만 구매 가능한 겨울 아우터, 매일 18시 선착순 50% 할인 쿠폰 이렇게 혜택 다 뿌려주면 남는 거 있으시냐구요 .. (누가 누굴 걱정할까) 이번에는 다가오는 연말에 입고 싶은, 입기 좋은 연말룩.. 포스팅을 준비하려다 어",
-   "url": "https://blog.naver.com/whs6222/224483579247",
-   "engine": "naver_blog",
-   "query": "에어캐나다 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "말레이시아 특가 프로모션>> 트립닷컴 항공권 결제 할인 항공권의 경우에는 대한항공, 아시아나항공, 트리니티 항공, 제주 항공, 이스타항공 에어캐나다 등 다양한 항공사 특가도 만나볼 수 있어요! 트립닷컴 항공권 결제 할인>> 트립닷컴 할인코드 11월 항공권 호텔 렌트카 티켓 카드 최신 프로모션 중복 국내 중국 일본 Trip.com 등 소개해 드렸습니다. 여행",
-   "url": "https://blog.naver.com/today_traveller/224476252774",
-   "engine": "naver_blog",
-   "query": "에어캐나다 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "예약기간 : 2026.11.16 ~ 12.11 탑승기간 : 2026.11.16 ~ 2027.06.30 이코노미·프리미엄 이코노미·비즈니스 대상 운임 적용 놓치면 후회할 에어로플랜 추가 적립 기회, 여행 준비... 부탁드려요 #캐나다한인여행사 #에어캐나다이벤트 #항공마일리지이벤트 #캐나다여행 #한국여행 #보너스마일리지 #왕복항공권 #항공권특가 #항공권마일리지",
-   "url": "https://blog.naver.com/parancanada/224482962146",
-   "engine": "naver_blog",
-   "query": "에어캐나다 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "대한항공과 에어캐나다는 손잡이와 바퀴를 포함하고, 피치항공은 주머니까지 포함한다고 안내하거든요. 전체 순서는 항공편의 운항사와 운임 확인, 가방별 크기 측정, 무게와 예외... 비교하면서 각 조합에 적용되는 규정을 확인하고, 가방 크기와 개인 소지품을 함께 점검해보세요. 항공권별 기내 반입 조건 비교하기 ↓ ▶ 여행 준비할 때 항공권 특가 살펴보기새 창 열",
-   "url": "https://blog.naver.com/ydyd2009_/224481785655",
-   "engine": "naver_blog",
-   "query": "에어캐나다 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "들어가며 올해 아마존 블랙프라이데이는 11월 19일부터 11월 30일까지 이어지고, 블프와 사이버먼데이에는 자정과 오전 8시(PST)에 한정 특가가 새로 풀립니다. 블랙프라이데이 당일은 11월 27일, 사이버먼데이는 11월 30일이며, 프라임 회원이 아니어도 행사 딜에 참여할 수 있습니다. aboutamazontoday 한국 시간으로 환산하면 아래와 같습니",
-   "url": "https://blog.naver.com/yangachee13/224482458413",
-   "engine": "naver_blog",
-   "query": "에어캐나다 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "11 메가세일 11월 11일~14일 베트남 항공권 라이브 특가 11월 8일~13일 서울 호텔 위클리 특가 11월 9일~15일 에어캐나다 특가 11월 15일까지 KB국민카드 할인 11월 9일까지 검색에... 4 요일마다 열리는 할인 트립닷컴 할인코드 요일별 일정 요일 내용 월 제주항공 특가 화 진에어 특가, 중국 할인코드 수 티웨이 특가, 일본 할인코드 목 ",
-   "url": "https://blog.naver.com/bnbsoccer3/224482357719",
-   "engine": "naver_blog",
-   "query": "에어캐나다 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "바로 캐나다 프리미엄 아우터 브랜드 노비스(nobis)다. 11월 26일 목요일까지 1층 중앙광장에서 만나볼 수 있나보다. 평소에도 가격대가 상당히 높은 브랜드로 알고 있었는데, 마침... 가격표에는 로드쇼 한정 특가가 안내되어 있었다. 20cm 에어매트: 259,000원~469,000원 30cm 에어매트: 289,000원~459,000원 40cm 에어매트",
-   "url": "https://blog.naver.com/mountainhit/224481036157",
-   "engine": "naver_blog",
-   "query": "에어캐나다 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "구매 국가 표준 전압 / 주파수 프리볼트(100~240V) 제품 단일 전압(110V 전용) 제품 미국·캐나다 110~120V / 60Hz 돼지코... 단일 전압(110V 전용) 주의 품목: 미국이나 일본에서 판매하는 커피머신, 에어프라이어, 헤어드라이어, 고출력 스피커... 리퍼비시(Refurbished) 함정 피하기: 블랙프라이데이 특가 중 유독 가격이 ",
-   "url": "https://blog.naver.com/every_honeytip/224480225094",
-   "engine": "naver_blog",
-   "query": "에어캐나다 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "특히 항만·물류·운수·항공·제조·자영업·소상공인·영업·공직·직장인 등 차량 이동이나 자격·신분 유지가 필수적인 종사자 비율이 높아 면허 취소나 고액 벌금, 금고 이상 형(집행유예 포함)이 선고될 경우 생업과 직장에 직접적인 타격이 생깁니다. 인천 관할... 인명 피해 사고 및 도주(뺑소니) 동반: 음주 사고로 사람을 다치게 하면 특가법상 위험운전치상죄(1년",
-   "url": "https://cafe.naver.com/cantsb/3745147?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNhbnRzYiIsImFydGljbGVJZCI6Mzc0NTE0NywiaXNzdWVkQXQiOjE3OTU0MTQ2MTc3Njl9.qMFn7OGgcSnRlp8IX_SP0rmON5Cg07nFUFHQ5oB8g-g&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": ".현재 확인되는 2026년 12월 인천 출발 다낭 왕복 항공권은 12월 초~중순이 가장 저렴한 편이에요 참고로 연말항공권 가격은 12월 왕복 시장 최저가참고: 약 29만 원 12월 왕복평균 참고: 약... 현재 확인된 5박 6일 왕복 특가가 약 28만 원입니다 20대면 감사합니다 대한과 아시아나는 나오지도않음ㅋ 다낭행비행기 왕복티켓 가장저렴한날짜 왕복 수화",
-   "url": "https://cafe.naver.com/warcraftgamemap/3542169?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndhcmNyYWZ0Z2FtZW1hcCIsImFydGljbGVJZCI6MzU0MjE2OSwiaXNzdWVkQXQiOjE3OTU0MTQ2MTc3NzB9.HoBj-X8_TdwmJh2wLXnbW5EIdWhr1zGvgvd_cf4_mDA&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "절차와 인천지방법원 관할 특성) 음주 뺑소니 처벌 및 벌금 법정 기준 (특가법상 도주치상·위험운전치상 및 혈중알코올농도별 형벌 기준) '음주 뺑소니도 벌금형 선처가 가능할까?' — 구속 수사·정식재판... 특히 항만·물류·운수·항공·제조·자영업·소상공인·영업·공직·직장인 등 차량 이동이나 자격·신분 유지가 필수적인 종사자 비율이 높아 면허 취소나 금고 이상",
-   "url": "https://cafe.naver.com/bubi2/48854?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJ1YmkyIiwiYXJ0aWNsZUlkIjo0ODg1NCwiaXNzdWVkQXQiOjE3OTU0MTQ2MTc3NzB9.uzG_4PLiOwYfTtZPq5_6L9nfQ2vosRyQYHBt4Rghgi4&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "12월 크리스마스 직전 인천 - 나트랑 항공권 알아보는 중이에요~~ 평소엔 스카이스캐너로 알아보는데요, 13일 출발 - 18일 도착 6일 이스타항공이 415,523원입니다! 트립온 항공권 가면 땡처리 항공권이 있어요, 거기서 알아보니까 같은기간 6일짜리가 두곳 검색됩니다. 파라타항공 트리니티 항공 파라타항공은 379,000원이에요 위탁수하물 15kg 기내수",
-   "url": "https://cafe.naver.com/mindy7857/5546163?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1pbmR5Nzg1NyIsImFydGljbGVJZCI6NTU0NjE2MywiaXNzdWVkQXQiOjE3OTU0MTQ2MTc3NzB9.6yR9Llh0zCX10IA00XX-tToRUdRlNF-2qx3w6GcbeRk&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "✈️트리니티항공, 나고야 신규 취항 특가 (~12/06) 판매 기간 : 2026년 11월 23일(월) ~ 12월 6일(일) 프로모션 내용 : 인천-나고야 항공권 8% 할인, 왕복 40만원 이상 결제 시 2만원 할인 특가 프로모션 : https://www.trinityairways.com/app/promotion/event/retrieve/SsKueR48ai",
-   "url": "https://cafe.naver.com/20daelee/954015?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjIwZGFlbGVlIiwiYXJ0aWNsZUlkIjo5NTQwMTUsImlzc3VlZEF0IjoxNzk1NDE0NjE3NzcwfQ.yg9dyAK8JNCgqVWgbo6mv_3tzpD7lcsWkcGH232F_VM&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "✈️제주항공, 센다이 신규취항 특가 (~12/06) 판매 기간 : 2026년 11월 23일(월) ~ 12월 6일(일) 탑승 기간 : 2027년 1월 8일(금) ~ 2027년 3월 27일(토) 프로모션 내용 : 인천 - 센다이 편도총액 125,900원~ 신규취항 할인코드 : 센다이신규취항2 특가 프로모션 : https://www.jejuair.net/ko/e",
-   "url": "https://cafe.naver.com/20daelee/954013?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjIwZGFlbGVlIiwiYXJ0aWNsZUlkIjo5NTQwMTMsImlzc3VlZEF0IjoxNzk1NDE0NjE3NzcwfQ.PznYs0g_jLNFiuFuMR-Ca1JxsKPV4-PVqXALYIm_hpU&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "이번에 안내해 드릴 가고시마 골프 패키지는 2027년 1월 새해맞이 특가로 기획된 3박 4일 일정입니다. 외곽 리조트가 아닌 번화가 가고시마 덴몬칸 중심부에 머물면서 낮에는 2색 라운드를, 저녁에는... 이스타항공 (인천 ↔ 가고시마 직항 / 위탁수하물 20kg + 기내 10kg = 총 30kg) 숙박 호텔 가고시마 워싱턴 프라자 호텔 기준 (2인 1실) ",
-   "url": "https://cafe.naver.com/squaresever/38567?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNxdWFyZXNldmVyIiwiYXJ0aWNsZUlkIjozODU2NywiaXNzdWVkQXQiOjE3OTU0MTQ2MTc3NzB9.GxYGRpClyJqp8fdjQwIevjzvwVcrg00dKRWgGStfXzo&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "✈️ 인도네시아 마나도 자유여행정보 커뮤니티, 마나도 플래너 입니다 마나도 자유여행을 준비하는 분들을 위해 인천 출발 항공권 가격을 매일 확인하고 있습니다.",
-   "url": "https://cafe.naver.com/manadoplanner/255?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hbmFkb3BsYW5uZXIiLCJhcnRpY2xlSWQiOjI1NSwiaXNzdWVkQXQiOjE3OTU0MTQ2MTc3NzB9.ZW9Vxl90DAIHvgi3oq1pAyKQnn0hbAWzMg5NTBukRjA&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "[15] (기존) 인천→괌 왕복 495,000원 | 11/26~11/30 대한항공 직항 19:45→01:00(+1) / 02:40→06:30 | 잔여 4석 | 우리 30일 매물 388개 중 하위 17% · 중앙값 605,000원 대비 18% 낮음 | 다른 날짜에는 이 노선 274,600원부터 | 같은 노선을 다른 날짜에 더 싸게 살 수 있어 등급을 내렸습니",
-   "url": "https://cafe.naver.com/loyaltylife/371264?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNzEyNjQsImlzc3VlZEF0IjoxNzk1NDE0NjE3NzcwfQ.EjwJbv_il6z5uuP1wqAv9HC09nGSeVxl21Fu80urg3k&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "· 승차율에 따라 10~30%를 할인하는 온라인 특가가 수서축에도 도입됐습니다. · 좌석 공급이 주중 하루 1만 5천 석, 주말 1만 7천 석 늘었고 수서축 좌석은 약 30% 확대됐습니다. 기획 실무에서 놓치기 쉬운... 대한항공 기준 적용 · 12월 25일 — 기독탄신일(금), 12월 25~27 사흘 연휴 — 공휴일 기준 위약금, 취소표는 2~3일 전에 ",
-   "url": "https://cafe.naver.com/8persons/98383?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjhwZXJzb25zIiwiYXJ0aWNsZUlkIjo5ODM4MywiaXNzdWVkQXQiOjE3OTU0MTQ2MTc3NzB9.HvtHatdN8P17i1UShtc_QBAaxO6Ztw69-qwKo9fDV6E&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "KF-21 앞에 놓인 뜻밖의 변수 파장 #KF21 #한국형전투기 #방산 #미국산부품 #항공부품 #전투기개발 #방위산업 #국산화 #방산수출 #한미관계 YTN 5시간5시간 전, 2026. 11. 22. 오후 8:31 미 AI 투매에 '검은 월요일' 오나?... \"증안펀드 가동 준비\" / YTN [앵커] 글로벌 시장에서 AI 관련 주들에 대한 매도세가 거세지면서",
-   "url": "https://cafe.naver.com/jmsong0829/77019?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imptc29uZzA4MjkiLCJhcnRpY2xlSWQiOjc3MDE5LCJpc3N1ZWRBdCI6MTc5NTQxNDYxNzc3MH0.0sWbkShOiFa_aVRk3WZCKbKiFsj5YRPDzL85DIkbZqY&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "https://www.instagram.com/reel/DfeBam9OVgF/?cnvx=MTdzcTZoYTBrZWExbA== \" \" \" 다음에 출국할때 가봐야겠네요",
-   "url": "https://cafe.naver.com/airplanetiket/1453?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFpcnBsYW5ldGlrZXQiLCJhcnRpY2xlSWQiOjE0NTMsImlzc3VlZEF0IjoxNzk1NDE0NjE3NzcwfQ.ysxZwj8eeNgpwueW4cnz8a4NN7lS1hNk8WvA4bToGhg&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "저희는 지난 10월 중순쯤 트립닷컴을 통해 인천-나트랑 제주항공 왕복 항공권을 인당 30만 원 정도에 예매했습니다. 사실 처음 항공권을 알아볼 당시에는 에어서울에서 20만 원 초반대 왕복 특가가 나와서, 제가 친구들에게 무조건 이걸로 끊자고 강하게 주장했었습니다. 다만 이 티켓은 위탁 수하물이 포함되지 않은 조건이라 친구들이 짐 때문에 거절하더라고요. 저는",
-   "url": "https://cafe.naver.com/zzop/4354090?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Inp6b3AiLCJhcnRpY2xlSWQiOjQzNTQwOTAsImlzc3VlZEF0IjoxNzk1NDE0NjE3NzcwfQ.2SxnjemkPfqfiBMppB3pb0oUCkvAcmp6JeVQSbUxyL4&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "8%) · 새 겨울 노선 : 제주항공 인천~하코다테 12/1 · 대한항공 인천~히로시마 12/23 · 제주항공 인천~센다이 2027/1/8 · 면세 제도 : 11월 1일부터 '환급 방식' · 가게에서 세금 포함 값을... 블프특가 50% https://tourblox.kr/journeys/kids-japan-fukuoka-winter ※ 2월 20일 출발 ",
-   "url": "https://cafe.naver.com/tourblox/298?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRvdXJibG94IiwiYXJ0aWNsZUlkIjoyOTgsImlzc3VlZEF0IjoxNzk1NDE0NjE3NzcwfQ.R_A5PDAQRZxgpSNr7UCFIXBLY8RA5s0MQgWjarX4HPs&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "[15] (신규) 인천→괌 왕복 495,000원 | 11/26~11/30 대한항공 직항 19:45→01:00(+1) / 02:40→06:30 | 잔여 4석 | 우리 30일 매물 391개 중 하위 17% · 중앙값 605,000원 대비 18% 낮음 | 다른 날짜에는 이 노선 274,600원부터 | 같은 노선을 다른 날짜에 더 싸게 살 수 있어 등급을 내렸습니",
-   "url": "https://cafe.naver.com/loyaltylife/371192?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNzExOTIsImlzc3VlZEF0IjoxNzk1NDE0NjE3NzcwfQ.U40IcwlqiS_L5-U0RvW_01SKeyyG-rnX0_zHP2z6LuA&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "원) - 항공권 발권수수료 면제 혜택 - 항공+호텔 및 호텔 50% 할인 쿠폰 - eSIM 및 렌터카 50% 할인 쿠폰 ✈️ 대한항공 베트남 노선 특가 ※ 아래 금액은 행사 페이지에 안내된 왕복 최저가 기준입니다. ✔️ 인천 ↔ 나트랑 - 여행 기간 : 11/29 ~ 12/2 - 최저가 : 496,200원 ✔️ 인천 ↔ 다낭 - 여행 기간 : 11/30 ~",
-   "url": "https://cafe.naver.com/grownman/1191943?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imdyb3dubWFuIiwiYXJ0aWNsZUlkIjoxMTkxOTQzLCJpc3N1ZWRBdCI6MTc5NTQxNDYxNzc3MH0.QzjY1MSvz_3Jsd9ant02a1ZuP0AUQHFjiwuO5LpgRd4&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "항공사와 운임 규정에 따라 노쇼 수수료가 발생하거나 항공권 변경이 제한될 수 있습니다. 일부 특가 항공권은 환불 가능한 금액이 거의 없을 수도 있습니다. 하지만 모든 항공권이 동일한 규정을 적용받는... 또한 다음 항공편에 빈 좌석이 없다면 변경 자체가 어려울 수 있습니다. 예를 들어 오사카에서 인천으로 돌아오는 항공편을 놓쳤다고 가정해 보겠습니다. 같은 ",
-   "url": "https://cafe.naver.com/redekpvg/1166?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJlZGVrcHZnIiwiYXJ0aWNsZUlkIjoxMTY2LCJpc3N1ZWRBdCI6MTc5NTQxNDYxNzc3MH0.wPRAq4IbBtLoJcTnHyuHkv0bHnd_ORiWEpKXwHN5CB4&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "구분 일반 단체 투어 대비 체크 항목 파인빌라 4일 패키지 구성 항공 노선 인천공항 장거리 이동 및 긴 대기 도심 인접 김포공항 출발 직항 추가 지출 가이드 팁 및 식비 현장 별도 부담 기사 팁 및 자유식비 기본 포함 숙박 형태 번화가 밀집 협소 비즈니스호텔 정원 중정을 품은 고즈넉한 단독 숙소 확인 가격 옵션 추가에 따른 변동성 존재 1,249,000원 ",
-   "url": "https://cafe.naver.com/bluegrayrlp26/212?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJsdWVncmF5cmxwMjYiLCJhcnRpY2xlSWQiOjIxMiwiaXNzdWVkQXQiOjE3OTU0MTQ2MTc3NzB9.E55wFQkL55cdTwqyksJ92OYNiJammpsVRwmzpQFm3oc&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "RE타이베이 가오슝 화롄 다녀왔고 이제 타이중 갈때가 됐는데 화롄가서 타이루거 협곡 투어를 갔는데 가이드님이 한국분이셨고 그분도 저처럼 대만 사모님을 만나 국제결혼하신 다문화 가정이였어서 투어 + 국제결혼에 대해 엄청 얘기 나눴었던 기억이나네요 제가 대만 4번째",
-   "url": "https://cafe.naver.com/airplanetiket/1444?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFpcnBsYW5ldGlrZXQiLCJhcnRpY2xlSWQiOjE0NDQsImlzc3VlZEF0IjoxNzk1NDE0NjE3NzcwfQ.VI3qUvxUzGSQa6AcySriTZXvj73s0Q31JmWEEG1OQak&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "그래서 베트남에서 움직이기로 하고 10월 19일 호치민에서 인천 가는 베**항공을 181,500원에 샀다. 1월 16일 밤 11시45분 비행기로 귀국이니까 무려 3 개월 전에 구매 한 것이다. 어제 그 친구에게서 전화가 왔다. 자기도 그 비행기를 사려고 들어 가니 380,000원 이여서 고심하고 있다는 것이였다. 그리고 너는 싸게 사서 좋겠다고 한다. 기분",
-   "url": "https://cafe.naver.com/mindy7857/5544586?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1pbmR5Nzg1NyIsImFydGljbGVJZCI6NTU0NDU4NiwiaXNzdWVkQXQiOjE3OTU0MTQ2MTc3NzB9.nbfoCwV-dTi3YL-V1LiHYWZpQLQ7t393NfyM46Ofqko&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "✈️ 인도네시아 마나도 자유여행정보 커뮤니티, 마나도 플래너 입니다 마나도 자유여행을 준비하는 분들을 위해 인천 출발 항공권 가격을 매일 확인하고 있습니다.",
-   "url": "https://cafe.naver.com/manadoplanner/250?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hbmFkb3BsYW5uZXIiLCJhcnRpY2xlSWQiOjI1MCwiaXNzdWVkQXQiOjE3OTU0MTQ2MTc3NzB9.SeR8P5i462_8Z4BM0Ncup1RltqprxUwlWKbSHw4F6AE&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "[14] (기존) 인천→클락 왕복 550,040원 | 12/7~12/11 제주항공 직항 | 잔여 4석 | 우리 30일 매물 211개 중 하위 7% · 중앙값 630,040원 대비 13% 낮음 | 다른 날짜에는 이 노선 453,400원부터 | 같은... 직항 22:05→00:45(+1) / 02:00→08:35 | 잔여 4석 | 우리 30일 매물 262개 중",
-   "url": "https://cafe.naver.com/loyaltylife/371078?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNzEwNzgsImlzc3VlZEF0IjoxNzk1NDE0NjE3NzcwfQ.T4j2z596mCQVvcInjIJ91RshEJ1nLlChSXJ_XC7AIxE&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "[14] (신규) 인천→클락 왕복 550,040원 | 12/7~12/11 제주항공 직항 | 잔여 4석 | 우리 30일 매물 211개 중 하위 7% · 중앙값 630,040원 대비 13% 낮음 | 다른 날짜에는 이 노선 453,400원부터 | 같은... 313,000원 | 11/28~12/2 에어로케이 직항 22:05→00:45(+1) / 02:00→08:3",
-   "url": "https://cafe.naver.com/loyaltylife/371016?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNzEwMTYsImlzc3VlZEF0IjoxNzk1NDE0NjE3NzcwfQ.O-dGDz8QjMBTYmyLBEMiG5ezis4WVPzyvQ4aKZMfXnc&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "왜 하필 '민부대'였냐면 당시 재편성을 맡은 지휘관이 민기식 대령이었기 때문이다.[15] 그 후 낙동강 전선 안강-기계 전투가 한창인 8월 20일 대구에서 사단 재창설 및 3, 5, 8연대[16]를 예속받고는 영천·신녕전투 시점에선 1군단 예비사단으로 8, 6사단에게 예하 부대들을 보내 도움을 주다 인천상륙작전을 전후로 상황이 역전되자 8사단과 함께 잔적들",
-   "url": "https://cafe.naver.com/taiwan6/5403?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRhaXdhbjYiLCJhcnRpY2xlSWQiOjU0MDMsImlzc3VlZEF0IjoxNzk1NDE0NjE3NzcwfQ.J4_5Eyee5gB-IM6HM1hbG6vVrW-IsUBswEb23kI1qOc&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "ㅎㅎ 요즘 해외여행 알아보다 보면 항공권에 호텔까지 가격이 만만치 않더라고요. 그런데 이번에 괌 4박 5일 여행 상품을 살펴보다가... 출발 항공사는 에어서울이고 인천에서 저녁 7시 25분에 출발합니다. 괌에는 다음 날 새벽 1시에 도착하는 일정이에요. 돌아오는 항공편은... ───────────────── ■ 괌 여행 특가, 놓치기 전에 확인하세요! ■ ",
-   "url": "https://cafe.naver.com/uouv96/117793?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVvdXY5NiIsImFydGljbGVJZCI6MTE3NzkzLCJpc3N1ZWRBdCI6MTc5NTQxNDYxNzc3MH0.Dw_qqcCZFUI_u6zPGfnNgXYl706JTE8wF6yns4NXJS8&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "[에메랄드 오디세이] 더유럽 크루즈 위드 11박 13일 · 튀르키예 · 그리스 · 이탈리아 · 크로아티아 · 2027년 7월 7일·25일 출발 블랙프라이데이 특가 · 11월 30일까지 입금하면 정가 499만원 329만원 / 1인 한... 1일 인천 → 이스탄불 항공 이동 · 전용 차량으로 숙소 이동, 오리엔테이션 2일 이스탄불 자유여행 · 크루즈 승선 · ",
-   "url": "https://cafe.naver.com/pilote/53492?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBpbG90ZSIsImFydGljbGVJZCI6NTM0OTIsImlzc3VlZEF0IjoxNzk1NDE0NjE3NzcwfQ.Udmpw5qgy2oC4bfmrG62-01LLsA84oUqHXXy9OtntZA&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "[그리스 블루 아일랜드] 더유럽 크루즈 프리 7박 9일 · 그리스 · 이탈리아 · 2027년 7월 13일 출발 블랙프라이데이 특가 · 11월 30일까지... 이날의 메모 · 18:00 아테네 출항 · 왕복 항공권과 승선 전 아테네 숙박은 개인 준비 (항공권은 더유럽이 무료로 대신 예약해 드려요)... 하선 → 인천 항공 이동(개인) 9일 인천 도착 배 위에",
-   "url": "https://cafe.naver.com/pilote/53491?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBpbG90ZSIsImFydGljbGVJZCI6NTM0OTEsImlzc3VlZEF0IjoxNzk1NDE0NjE3NzcxfQ.VngyTqDIv-IS0fk_nTzbPIV6962O34ILyjuVruu71iY&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "[그리스 블루 아일랜드] 더유럽 크루즈 위드 9박 11일 · 그리스 · 이탈리아 · 2027년 7월 12일 출발 블랙프라이데이 특가 · 11월 30일까지... 1일 인천 → 아테네 항공 이동 · 전용 차량으로 숙소 이동, 오리엔테이션 2일 아테네 자유여행 · 크루즈 승선 · 18:00 출항 3일 올림피아... 왕복 항공권 (더유럽 무료 대행 가능) · 기항",
-   "url": "https://cafe.naver.com/pilote/53490?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBpbG90ZSIsImFydGljbGVJZCI6NTM0OTAsImlzc3VlZEF0IjoxNzk1NDE0NjE3NzcxfQ.tsYsqJtt-26APb3t1DIjRqB4s_LQpxXoZKTRWTiQw_c&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "[지중해버킷 여름] 더유럽 크루즈 위드 9박 11일 · 스페인 · 프랑스 · 이탈리아 · 2027년 7월 9일 출발 블랙프라이데이 특가 · 11월... 1일 인천 → 바르셀로나 항공 이동 · 공항 픽업, 시내 호텔 2일 바르셀로나 자유여행 → 크루즈 승선 · 17:00 출항 3일 마르세유(프로방스)... 왕복 항공권 (더유럽 무료 대행 가능) · 기항지 여",
-   "url": "https://cafe.naver.com/pilote/53486?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBpbG90ZSIsImFydGljbGVJZCI6NTM0ODYsImlzc3VlZEF0IjoxNzk1NDE0NjE3NzcxfQ.tFA6TIM_m-78clhJgCcQvm7fNSAvIlmg72HVEktzBUI&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "[지중해버킷 여름] 더유럽 크루즈 프리 7박 9일 · 스페인 · 프랑스 · 이탈리아 · 2027년 7월 10일 출발 블랙프라이데이 특가 · 11월... 이날의 메모 · 17:00 바르셀로나 출항 · 왕복 항공권과 승선 전 숙박은 개인 준비 (항공권은 더유럽이 무료로 대신 예약해 드려요) DAY 2... 하선 → 인천 항공 이동(개인) 9일 인천 도착 배 위",
-   "url": "https://cafe.naver.com/pilote/53485?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBpbG90ZSIsImFydGljbGVJZCI6NTM0ODUsImlzc3VlZEF0IjoxNzk1NDE0NjE3NzcxfQ.-uRQaHKu682OHOTKLg0KvHAzECIFjJblpKMHNjKcO_E&q=%ec%9d%b8%ec%b2%9c%20%eb%8d%b4%eb%b2%84%20%ed%95%ad%ea%b3%b5%ea%b6%8c%20%ed%8a%b9%ea%b0%80&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "인천 덴버 항공권 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "현대무용. Moscow Dance Fests 4338만3년 전 23:22 \"화면이 엿가락처럼 늘어납니다\" 삼성 '슬라이더블폰' 공개에 업계가 발칵 뒤집힌... 코이티비 KOITV 5만1시간 전 분사후 단 일분만에 1+1 공식몰에서만 이벤트 진행 중 스폰서 모닝오프 1:22:47 역대급 댐 붕괴... 뜻밖의 초대형 호재 나왔습니다 (박준영 대표 / 풀버전) ",
-   "url": "https://cafe.naver.com/jmsong0829/77052?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imptc29uZzA4MjkiLCJhcnRpY2xlSWQiOjc3MDUyLCJpc3N1ZWRBdCI6MTc5NTQxNDY5ODg3Nn0.BTa9yRY9zojgGPQrZdyNrwcl0gzuEbIjFbawrjBdU0I&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "미국 증시 요약 (2026-11-20 현지 | KST 2026-11-21 06:00 마감 기준) ✅ 지수 요약 다우존스30산업평균지수: 48,147.33 (-1.93%) S&P500지수: 6,910.39 (-3.70%) — 7거래일 연속 하락 및 고점 대비 10.00% 이상 조정 구간 진입 나스닥종합지수: 22,617.73 (-5.28%) — 주간 10.0",
-   "url": "https://cafe.naver.com/todaybigboss/6816?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRvZGF5YmlnYm9zcyIsImFydGljbGVJZCI6NjgxNiwiaXNzdWVkQXQiOjE3OTU0MTQ2OTg4NzZ9.VZeOrat8sQWf1gjsjPr1X2AXXq1pumRE2Yi8JcsI6R8&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "이게 당분간 현대차가 꾸준하게 안고 가야 하는 질문이 될 것 같습니다. #카매거진 #투싼하이브리드 #신차시승 서울경제TV 1일1일 전, 2026. 11. 21. 오후 3:45 미국산 부품 때문에 납품 차질?... KF-21 앞에... 시청에 참고하시길 바랍니다.#삼성전자 #SK하이닉스 #미국반도체 #반도체자동화 #산업용로봇 #인력대체 #스마트팩토리 #AI반",
-   "url": "https://cafe.naver.com/jmsong0829/77019?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imptc29uZzA4MjkiLCJhcnRpY2xlSWQiOjc3MDE5LCJpc3N1ZWRBdCI6MTc5NTQxNDY5ODg3Nn0.K8ieDGExhk3xSzqzcHN2e1YbhQeZ-Xh3e1_usWK6txA&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "삼성 라이온즈 우승 기념 갤럭시 더블스토리지 삼성 우승 기념! 갤럭시 용량 2배 12년 만의 한국시리즈 우승 기념 평촌하이마트에서... 아이패드 에어 M4 25만원, 맥북 에어 M5 최대 40만원까지 학생할인 들어갑니다 펜슬 프로·애플케어+ 20% 할인에 신한 제휴카드 12개월... 평촌가전할인 #평촌역하이마트 #수험생아이폰할인 #아이폰17프로에어팟 #평촌",
-   "url": "https://cafe.naver.com/anyangtalk/877416?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFueWFuZ3RhbGsiLCJhcnRpY2xlSWQiOjg3NzQxNiwiaXNzdWVkQXQiOjE3OTU0MTQ2OTg4NzZ9.xRxZ2L0BYhhtTa-vXScNBHEWQnxqe6Uwf99mGXcMqfM&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "구경하고 가세요!!! 살반 타이탄 에어펌프 신상품 1층 1관 전시중 140W 강력한 출력으로 빠른주입 15,600mAh 대용량 배터리 설정값 도달시 자동정지 다양한노즐 및 하드케이스 포함 재고 및 가격 문의- 댓글 or 전화 070.7553.7321 인천 이음카드 OK!! 문화 누리카드 OK!! 2~3개월 무이자 할부 OK!! 국민,삼성,현대,신한!! 여러",
-   "url": "https://cafe.naver.com/gorillacampingin/33028?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvcmlsbGFjYW1waW5naW4iLCJhcnRpY2xlSWQiOjMzMDI4LCJpc3N1ZWRBdCI6MTc5NTQxNDY5ODg3Nn0.LR0wCQJdtejSACHt1JMzzqPaqtTdLLI690C7UPgo16Q&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "삼성전자 -7.01%(183,100원), SK하이닉스 -5.92%(1,113,000원). 외국인·기관 코스피에서 약 2조 원 순매도, 개인 약 1.6조 원 순매수. 3. 뉴욕 11/19 다우 -1,101pt(-2.19%), S&P500 -2.02%(6거래일 연속 하락)... ▶ 해결·대응: IPO 이벤트성 수급 충격은 단기에 그치는 경우가 많으므로, 공포 ",
-   "url": "https://cafe.naver.com/welfaredatacenter/4829?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndlbGZhcmVkYXRhY2VudGVyIiwiYXJ0aWNsZUlkIjo0ODI5LCJpc3N1ZWRBdCI6MTc5NTQxNDY5ODg3N30.TR6xw_1Y4PdRua4bsedvwDKA6GGwtXBxUKP6fsKCW4A&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "[ 오전장특징주 ] @ 현재 기준 10%이상 상승 종목 & 관리종목 제외 & 시총 1,000억 원 이상 & 대금 500억 원 이상 거래된 종목들만 정리했습니다 *하나에어로 - 시총 1,651억 거래대금 3085억 증100 - 신규 상장... 약세 테마 반도체 기판(FC-BGA/PCB/MLB 등), 반도체 대표주(생산), S7(삼성전자/SK하이닉스 등), 소",
-   "url": "https://cafe.naver.com/stocktraining/1226914?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InN0b2NrdHJhaW5pbmciLCJhcnRpY2xlSWQiOjEyMjY5MTQsImlzc3VlZEF0IjoxNzk1NDE0Njk4ODc3fQ.Fi7AyoFhI9zWJtleM3mH9tsXR9NEe0j8KL98vk9XozQ&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "한편 JP모건·비자·마스터카드 등 대형 금융사의 외부 협력업체 대상 사이버 공격 소식이 전해지며 금융주는 약세를 보인 반면, 보안 소프트웨어 섹터는 반사이익 기대감에... 총평 전략: 앤트로픽 IPO는 AI 산업의 자본 흡수력을 증명했으나, 단기적으로는 상장 이벤트 소멸(Sell-on-news)과 빅테크·반도체 수급 이탈을 촉발했습니다. 지금은 지수 반등을",
-   "url": "https://cafe.naver.com/todaybigboss/6808?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRvZGF5YmlnYm9zcyIsImFydGljbGVJZCI6NjgwOCwiaXNzdWVkQXQiOjE3OTU0MTQ2OTg4Nzd9.TDxj-sPnnxeH-2MbukxWKE9UId5z9mZ6irbAEJPSyzI&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "mk.co.kr -------------------------------- Aurora 오로라 (헬로캐나다) 오로라를 눈으로 보는 것과 같은 실제 영상과, 타임랩스 비교 aurora realtime vs timelapse (권오철작가님) https://www.youtube.com/watch?v=xmgznZXF02I ------- https://www.you",
-   "url": "https://cafe.naver.com/dlxogns01/451248?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6NDUxMjQ4LCJpc3N1ZWRBdCI6MTc5NTQxNDY5ODg3N30.Cx7v1Q_TwH1XYTdoOQe30xEkzJyLP9eD_L-k2vvJa1Y&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "idxno=239072 웅진프리드라이프, 삼성생명과 건강케어 구독서비스 출시… 상조 넘어 시니어 돌봄 확대 http://www.biztribune.co.kr/news/articleView.html?idxno=362871 네이버페이·업비트 합쳐지면 쇼핑 적립금으로 송금도? 결제·투자 어떻게 달라질까 https://m.seoul.co.kr/news/econom",
-   "url": "https://cafe.naver.com/sknservice/550?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNrbnNlcnZpY2UiLCJhcnRpY2xlSWQiOjU1MCwiaXNzdWVkQXQiOjE3OTU0MTQ2OTg4Nzd9.VLkhG_a0JZIUCjWxNZGxa1VE4CElDHLfyh4Q-63eYHQ&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "차박용 출입문 4개수 플라이 립스탑 이너 폴리에스테르 바닥 폴리에스테르 본체 립스탑 본체방수 10000mm 부가기능 에어빔(공기주입), 플라이, 외풍차단, 방수, 방풍, 자외선차단, 환기구, 발수 방충망/모기장 재고 및 가격 문의- 댓글 or 전화 070.7553.7321 인천 이음카드 OK!! 문화 누리카드 OK!! 2~3개월 무이자 할부 OK!! 국민,",
-   "url": "https://cafe.naver.com/gorillacampingin/33019?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvcmlsbGFjYW1waW5naW4iLCJhcnRpY2xlSWQiOjMzMDE5LCJpc3N1ZWRBdCI6MTc5NTQxNDY5ODg3N30.-iU1qCDEcZsD87EoghStH5RUiIgrINZkS1FjYpP0a3w&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "RE조건 안맞으신거 같은데 아래는 GPT결과입니다... 현재(2026년 11월 기준) Apple Store 온라인 및 오프라인 매장에서 진행 중인 제휴 카드 특별무이자 할부 행사는 최대 18개월까지 제공됩니다. (연초 1~3월에는 최대 24개월까지 진행되었으나, 2026년 4월 20일부터 12월 31일까지는 최대",
-   "url": "https://cafe.naver.com/appleiphone/9194434?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFwcGxlaXBob25lIiwiYXJ0aWNsZUlkIjo5MTk0NDM0LCJpc3N1ZWRBdCI6MTc5NTQxNDY5ODg3N30.khJV7FqmmNmnUFyxuHu5v1l4j-luOS0svTZlhcI67gs&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "당일 구매 영수증에 한함(합산불가) ※ 상품권 소진 시 조기종료 가능 ✅ Phone17 전품목 5% 할인! ➕ 추가혜택 신세계 상품권 2만원 증정! ※ 행사기간 : 11/12(목)~12/2(수) ※ 점포 보유재고에 한함 ※ 단일품목 50/120만원 이상 결제 시 10/18개월 무이자 할부(카드사별 상이) ※ 수험생대상 에어스토어 상품권 증정행사 중복적용 불",
-   "url": "https://cafe.naver.com/tgpia/1049690?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRncGlhIiwiYXJ0aWNsZUlkIjoxMDQ5NjkwLCJpc3N1ZWRBdCI6MTc5NTQxNDY5ODg3N30.n3qXjbqvjouHypAxOy33ExHH5TwD_cl6sRrZ1ctcICA&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "미국 증시 요약 (2026.11.18 현지 | KST 2026.11.19) 1) ✅ 지수 요약 다우존스: 50,198.17 (-1.11%) S&P 500: 7,323.63 (-0.23% / 5거래일 연속 약세) 나스닥 종합: 24,429.88 (+0.42% / 4거래일 만에 반등) 필라델피아 반도체(PHLX Semi): +0.10% 2) ✅ 시장 요약(한 ",
-   "url": "https://cafe.naver.com/todaybigboss/6801?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRvZGF5YmlnYm9zcyIsImFydGljbGVJZCI6NjgwMSwiaXNzdWVkQXQiOjE3OTU0MTQ2OTg4Nzd9.ueHjQZNgh1Kk5wPouN655qfdhx0epToZuaUWYX-81b4&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "• 혜택: 최대 100,000원 (이벤트 기간 내 신분증 발급(등록) 시 참여) • 상태: D-1 내일 마감 상세 링크: https://spot.wooribank.com/pot/Dream?withyou=EVEVT0001 6. [신한카드] 신한 Visa카드 최대 7만원 혜택! • 혜택: 1인 40,000원 · 최대 70,000원... bbsSeq=717 & ",
-   "url": "https://cafe.naver.com/moneyinsights/12582?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbmV5aW5zaWdodHMiLCJhcnRpY2xlSWQiOjEyNTgyLCJpc3N1ZWRBdCI6MTc5NTQxNDY5ODg3N30.41Py9SFG950fBCJtZX-3u9XoK5Ye1diYInFMGmB8Xbc&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "수능생 할인,무료 https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%88%98%EB%8A%A5%EC%83%9D+%EB%AC%B4%EB%A3%8C&ackey=yoy3ezlw 수능생 무료 : 네이버 검색 '수능생 무료'의 네이버 검색 결과입니다. sear",
-   "url": "https://cafe.naver.com/dlxogns01/450988?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6NDUwOTg4LCJpc3N1ZWRBdCI6MTc5NTQxNDY5ODg3N30.8Uej2nUKiPidLzoWJtHl-aLagjhfUAsSjS3-tcyvxHY&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "삼성(24개월) 하나 (12개월) 국민(12개월) 현대(2~3개월) 신한(2~3개월) 농협(2~3개월) 스위스알파인클럽 아틀라스 스텔라 와이드 하이브리드 에어텐트N 특징 1. 3M60CM의 와이드한 폭 2. 가운데 벽을 지퍼형으로 탈부착 전체사용 및 분리사용 가능 3. 거실 바닥 탈부착 가능 충주점에서 사야되는 딱 2가지 이유!?!? ★타지역 고객도 충주사",
-   "url": "https://cafe.naver.com/gorillacampingcg/33779?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvcmlsbGFjYW1waW5nY2ciLCJhcnRpY2xlSWQiOjMzNzc5LCJpc3N1ZWRBdCI6MTc5NTQxNDY5ODg3N30.oQfea13_ilR8nCJ8GBGlBptaRPNmOL9WEGDV5_zB20Q&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "이벤트 한눈에 항목 내용 비고 기간 2026.11.01 ~ 12.31 1+1 더블할인은 2026.11.09 ~ 12.31 대상 제휴카드 명의자 본인 BC·KB·NH·신한·현대·삼성·씨티·우리·하나(외환포함) 혜택 대인 종일권 50% 동반인 할인은 1인에 한해 적용 11월 요금 32,500원 정상가 65,000원 12월 요금 27... 삼성카드 3/3+ 카드",
-   "url": "https://cafe.naver.com/discountspot/42?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpc2NvdW50c3BvdCIsImFydGljbGVJZCI6NDIsImlzc3VlZEF0IjoxNzk1NDE0Njk4ODc3fQ.VmlmUfcWMJqfhtXPI2Q-0-UDy80zisODnRcKvQCGqLI&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "현대·KB국민·신한·롯데·삼성카드는 2~3개월, 비씨·하나·우리카드는 2~5개월, NH농협은 2~6개월까지 무이자 할부가 됩니다. ★ 구매인증 이벤트 이 피드에 댓글 남겨주시면 돼요! \" \" \" 50강·100강 패키지를 구매하신 분들은 이 글에 댓글로 '구매한 패키지명 + 전화번호 뒷자리'를 남겨주세요. 수업권 1장을 추가로 드립니다. (이벤트 기간 : 1",
-   "url": "https://cafe.naver.com/aibledu/469?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFpYmxlZHUiLCJhcnRpY2xlSWQiOjQ2OSwiaXNzdWVkQXQiOjE3OTU0MTQ2OTg4Nzd9.xhzvVdyS08ADVMgDkzWDxDF7I57-mBqrQOV4Sb89l6A&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "정도 할인받는 금액으로 요게 차츰차츰 활성화돼 가고 있습니다. 발화자 1 (03:29) 근데 이제 요게 또 막 저희가 어 요게 설명하다가... 자 에어비앤비나 어떤 우버 택시 요런 것처럼 이제는 네이버예요. 발화자 1 (06:52) 1위부터 10 12까지 하는 기업들이 옛날처럼 뭐 현대 반도체 삼성 이런 데가 주가가 있는 거 아니에요. 지금은 뭐 아까 얘기",
-   "url": "https://cafe.naver.com/redfwavt/2350?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJlZGZ3YXZ0IiwiYXJ0aWNsZUlkIjoyMzUwLCJpc3N1ZWRBdCI6MTc5NTQxNDY5ODg3N30.mtLmC5ghouAZcgUi6WnHcT9BF8Jn4dVDuJHbwdinK5Q&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "27:34 삼성이 충격적인 신제품을 공개했다! 새로운 스마트폰이 아이폰 시장 전체를 뒤흔들 것이다! 한국의 미래 (Hangugui Mirae)... 빅딜 카드_전계완 이대식 스픽스 6.5천2시간 전 44:56 인류 최고의 걸작, 보이저 (탐사선 몰아보기) 우주아저씨 13만1년 전 36:52... 【선착순100명】50% 할인 이벤트 6+1 이벤트-회원가입 시",
-   "url": "https://cafe.naver.com/jmsong0829/76832?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imptc29uZzA4MjkiLCJhcnRpY2xlSWQiOjc2ODMyLCJpc3N1ZWRBdCI6MTc5NTQxNDY5ODg3N30.1P3WlYyg33KLQ2L8SL41B83xdne9T5CVjw8epxqP9A8&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "매년 6월과 12월 두 번에 나누어 내는 정기분 자동차세를 한꺼번에 미리 납부하고 세액 공제(할인) 혜택을 받는 절세 제도가 바로 ‘자동차세... 매년 1월·3월·6월·9월 연납 기간에는 롯데카드, 신한카드, 삼성카드, KB국민카드, 현대카드 등 주요 카드사별로 2–3개월 무이자 할부 또는 부분 무이자 할부, 캐시백·포인트 적립 이벤트가 자주 열리므로 결제",
-   "url": "https://cafe.naver.com/bosiking/1212?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvc2lraW5nIiwiYXJ0aWNsZUlkIjoxMjEyLCJpc3N1ZWRBdCI6MTc5NTQxNDY5ODg3N30.E015X5D7xt6RyCKrUfYJI5RyznC3C3qq_4z10s1otKw&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "삼성(24개월) 하나 (12개월) 국민(12개월) 현대(2~3개월) 신한(2~3개월) 농협(2~3개월) 루커스 스너글리 에어쇼파 충주점에서 사야되는 딱 2가지 이유!?!? ★타지역 고객도 충주사랑카드/충주사랑QR 충전결제시 10% \"선할인\" 혜택! ★카드무이자 최대 24개월 방문이 어려우신분은 택배 OK! 저렴하게 득템할수 있는 캠핑용품천국!! 고릴라캠핑 ",
-   "url": "https://cafe.naver.com/gorillacampingcg/33773?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvcmlsbGFjYW1waW5nY2ciLCJhcnRpY2xlSWQiOjMzNzczLCJpc3N1ZWRBdCI6MTc5NTQxNDY5ODg3N30.BKF3EVXAiLP6FamBIv7B1D8--rXUMGrRJKE5aLQYWvg&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "최대 70% 할인, 카드사 할인, 그리고 Black Friday 기간동안만 진행되는 이벤트까지! 지금 바로 알리... NH농협카드 - $100 이상 구매 시, $15 즉시 할인: KB Mastercard, 신한Mastercard, 삼성Mastercard, 하나 Mastercard, IBK Mastercard, 롯데... com/e/_c2xJ03gj (옵션:",
-   "url": "https://cafe.naver.com/ranceali/112736?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJhbmNlYWxpIiwiYXJ0aWNsZUlkIjoxMTI3MzYsImlzc3VlZEF0IjoxNzk1NDE0Njk4ODc3fQ.6z8YmPr642p4VflZoQ9lQ7eLI91B7UNY8HwKyJcrxQI&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "성남사랑상품권은 기본적으로 충전할 때 할인된 금액만큼 덜 내고 액면가 전액을 충전받는 선할인 구조입니다. 다만 이벤트나 정책에 따라... 메뉴에서 신한·NH농협·우리·하나·IBK기업은행 등 제휴 체크카드를 발급받아야 합니다. 2단계 · 계좌 연결 및 상품권 충전 앱 첫 화면에서 본인 명의 입출금 계좌를 연결한 뒤 '충전하기' 버튼을 누릅니다. 원하는 금액을",
-   "url": "https://cafe.naver.com/startofnews/832?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InN0YXJ0b2ZuZXdzIiwiYXJ0aWNsZUlkIjo4MzIsImlzc3VlZEF0IjoxNzk1NDE0Njk4ODc3fQ.cPi7yH-ZPC9c1z2y4NZAnMTkjDh_uedwnwfgd50Ak3I&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "이벤트 기간 2026년 7월 1일 ~ 12월 15일 단, 예산 소진 시 조기 종료될 수 있어요. 신청 가능한 카드 현재 안내 화면 기준으로 BC·신한·하나·현대·KB국민카드가 표시되어 있어요. 롯데카드와 삼성카드는 준비 중으로 안내됩니다. ⚠️ 꼭 확인할 사항 카드영수증 이용을 위해서는 카드사의 이용 알림 서비스 신청이 필요해요. 카드 이용 알림 서비스는 ",
-   "url": "https://cafe.naver.com/ddangit/528?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRkYW5naXQiLCJhcnRpY2xlSWQiOjUyOCwiaXNzdWVkQXQiOjE3OTU0MTQ2OTg4Nzd9.mF-U0SehRSXgeOHWlsKWliYBygfIpbj_vAaXIxpquIA&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "대한민국국회 11시간전 국회 개방 정오의 콘서트, 국회 버스킹 매월 첫째, 셋째 주 목요일마다 열리는 무료 공연! 국회 개방 정오의 콘서트 국회 버스킹 국회 개방 정오의 콘서트, 국회 버스킹 2026년 첫 번째, 세 번째 목요일마다 우리 곁을 찾아오던 버스킹이 11월 19일, 올해 마지막 무대로 인사드립니다! 바쁜 점심시간, 잔디광장에 울려 퍼지는 라이브 ",
-   "url": "https://cafe.naver.com/jungamironware/21547?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTU0NywiaXNzdWVkQXQiOjE3OTU0MTQ2OTg4Nzd9.MjzFEDxiyKvp8OKzgUOQWwcbIhhuGGy_s1yINaYbGmQ&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "이 자리에서 전문가들은 기업공개(IPO)에 쏠린 코스닥 투자자의 자금 회 10이상+ 08:04\"눈앞에 보이는 건 다 물어봐\"…삼성전자 'AI 스마트 안경' 출격 삼성전자가 구글과 손잡고 인공지능(AI) 안경 시장에... 증권의 소유권을 블록체인에서 이전할 수 있게 되면 그에 맞춰 대금을 지급하는 방식도 정해야 한다는 얘 17:41관리의 삼성증권도 3분기 영",
-   "url": "https://cafe.naver.com/greenb0k6k/201177?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjIwMTE3NywiaXNzdWVkQXQiOjE3OTU0MTQ2OTg4Nzd9.f6a60y4j1B40SGBdDS_1DqQf4HNJ-D6PVj3btWfWbu8&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "newsId=04592006645646704&mediaCodeNo=257 \"화재 예방 기술 보험료에 반영\"…화재보험협회, ‘화재 위험 예측 할인’ 추진 [2026 KFPA 위험관리 기술 세미나] https://www.fntimes.com/html/view.php?ud... SNS=00001 두 달 앞 CES…삼성·SK·LG, 혁신 제품 선뵐까 http://",
-   "url": "https://cafe.naver.com/sknservice/548?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNrbnNlcnZpY2UiLCJhcnRpY2xlSWQiOjU0OCwiaXNzdWVkQXQiOjE3OTU0MTQ2OTg4Nzd9.MaV94AeIiFaH5lyGDOToO2ZkCY2kMJUedJd1l-Hfias&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "• 합류를 부추기는 요인 (확률 상승): 현대카드에 이어 카카오뱅크까지 애플페이를 도입했고 토스뱅크 등 인터넷은행의 추가 도입이 거론되면서, 아이폰 비중이 높은 젊은 고객층의 이탈을 막기 위한 대형 카드사(신한·KB국민 등)의 압박이 커졌습니다. • 인프라 개선: NFC... 15% 수준 (반독점 규제에 따라 일부 다를 수 있음) • 호주·캐나다·일본 등 ",
-   "url": "https://cafe.naver.com/appleiphone/9193399?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFwcGxlaXBob25lIiwiYXJ0aWNsZUlkIjo5MTkzMzk5LCJpc3N1ZWRBdCI6MTc5NTQxNDY5ODg3N30.ihqaE1wN9Z0ZHoUZ3B0g_F5K_yl0a-3hhaiPg8GBZA8&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ec%b9%b4%eb%93%9c%20%ed%95%a0%ec%9d%b8%20%ec%9d%b4%eb%b2%a4%ed%8a%b8%20%ed%98%84%eb%8c%80%ec%b9%b4%eb%93%9c%20%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c%20%ec%82%bc%ec%84%b1%ec%b9%b4%eb%93%9c&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "에어캐나다 카드 할인 이벤트 현대카드 신한카드 삼성카드",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "미주와 아시아 전 노선을 대상으로 최대 89% 할인이 적용되며, 회원 전용 프로모션 코드 SUMBLK25를 입력하면 추가 최대 25% 할인까지 중복으로 받을 수 있습니다. 판매기간: 2026년 6월 8일(월) 오전 10시 ~ 6월 21일(일) 탑승기간: 2026년 6월 8일 ~ 2027년 3월 27일 할인코드: SUMBLK25 (회원 전용) 특가석은 평일 ",
-   "url": "https://cafe.naver.com/warcraftgamemap/3412814?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndhcmNyYWZ0Z2FtZW1hcCIsImFydGljbGVJZCI6MzQxMjgxNCwiaXNzdWVkQXQiOjE3OTU0MTQ3NjY3NTN9.GVOpsAzqO4dJvp3XZIyAKwMJg4i_knYLx3MdlzJXo64",
-   "engine": "naver_all",
-   "query": "대한항공 미주 프로모션 2027",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "구분 할인 대상 조건 기간 TRIPFLIGHT26KR 22,000원 정액 항공권 첫 구매 고객 KRW 결제, 모든 항공권 예약 ~8.31, 탑승 ~2027.... 제가 뉴욕을 자주 오가는 편이라 가격이 비슷하면 매번 다른 항공사를 타보는데 트립닷컴 할인 쓰면 확실히 저렴해지고 차이도 많이 납니다. ㅎ 참고로 대한항공 국제선 특가 페이지가 연말까지 따로 돌아",
-   "url": "https://cafe.naver.com/cantsb/3514740?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNhbnRzYiIsImFydGljbGVJZCI6MzUxNDc0MCwiaXNzdWVkQXQiOjE3OTU0MTQ3NjY3NTN9.JN3zb5_zOOX3vwwGnF5c6DUb6PtjTseLv5cXeWLLPIc",
-   "engine": "naver_all",
-   "query": "대한항공 미주 프로모션 2027",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "글제목 규칙 : 말머리 선택 후 '대한항공 / 1.18~1.30 / 120만원 항공예약후기' ⭐출국일-귀국일 → 2025/12/24 ~ 2026/01/15 ⭐출발지-도착지 → 인천 - 덴버 ⭐경유지,대기시간(예:홍콩,2시간 or 직항) → 캐나다 벤쿠버, 3시간 ⭐총 금액 → 205만원 숙식은 미국 현지인 친구집에서 해결 (유료)가방갯수 (미국내선이나 LC",
-   "url": "https://cafe.naver.com/nyctourdesign/1153206?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im55Y3RvdXJkZXNpZ24iLCJhcnRpY2xlSWQiOjExNTMyMDYsImlzc3VlZEF0IjoxNzk1NDE0ODE1OTEwfQ.U1rYIFMw_KFy_uGqe5AFpWGCQMVAXw6x1G8OenqGCAo",
-   "engine": "naver_web",
-   "query": "에어캐나다 밴쿠버 경유 덴버",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "에어캐나다는 한국, 일본, 호주 출발 고객을 대상으로 밴쿠버를 경유해 미국을 여행하는 이들을 위한 환승 혜택 프로모션을 12월 31일까지 진행한다고 밝혔다.이 프로모션은 밴쿠버에서 24시간 이내 환승하는 에어캐나다 이용객이 대상이다.참여 고객에게는 페어몬트 밴쿠버 에어포트 데이유즈 객실 및 다이닝 10% 할인, 앱솔루...새 창 열림",
-   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3713899",
-   "engine": "naver_web",
-   "query": "에어캐나다 밴쿠버 경유 덴버",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "꿈같던 시간을 뒤로 한채 캐나다 가는 중입니다 ㅋㅋㅋㅋ 멀다 멀어 프롬프트 암만 수정해도 뭐가 잘 안 되서 성별 대 혼란ㅋㅋㅋ 노숙포함하면 7박 8일이고 아니면 7일 ㅋ . . 밴쿠버에서는 올랜도 직항이 없..더라구요? 덴버 경유해서 갔어요 덴버서 노숙하고 유나이티드 탔는데요 왕편 : 스얼 25K (AC& UA) 복편: 15K 델타 에어캐나다 와이파이는 에",
-   "url": "https://cafe.naver.com/hexenyang/74501?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhleGVueWFuZyIsImFydGljbGVJZCI6NzQ1MDEsImlzc3VlZEF0IjoxNzk1NDE0ODE1OTEwfQ.-Kq0HI1Zct7sPZjbU3s0k73QOIfiY7XCaD3WnilfAp4",
-   "engine": "naver_web",
-   "query": "에어캐나다 밴쿠버 경유 덴버",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "싼만큼 경유가 두번 있습니다. 원래 미국 시골촌동네에 살아서 경유를 무조건 한번은 해야하는지라 경유 한번 더한다고... 그리고 환승하는곳도 제3국인 캐나다에서 합니다. 궁금한점은 이렇습니다! 미국에서 한국으로 갈 때, 이름은 에어캐나다이지만 유나이티드 항공으로 캔자스시티에서 덴버, 그리고 덴버에서 밴쿠버까지 간다고 적혀있습니다. 그렇다면 덴버에서... 새 ",
-   "url": "https://cafe.naver.com/waateam/139221?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndhYXRlYW0iLCJhcnRpY2xlSWQiOjEzOTIyMSwiaXNzdWVkQXQiOjE3OTU0MTQ4MTU5MTB9.mLBtOOxs0ubIEnTWgqTdgIhGMMMVv9S0PpHOfjyXB_M",
-   "engine": "naver_web",
-   "query": "에어캐나다 밴쿠버 경유 덴버",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "저희는 덴버로 갈 예정인데 에어캐나다로 벤쿠버 환승할지 대한항공 타고 가서 미국 국내선 환승할지 고민입니다. 고민의 이유는 1.에어캐나다가 연착 결항이 잦다 2.그럼에도 불구하고 에어캐나다로 들어가면 환승시 짐을 자동으로 옮겨준다(저희가 단프라박스 6개정도 가져가려 합니다) 는 것 때문인데요 에어캐나다 타보신 분들 어떠셨을까요? 물론 복불복이겠지만... 새",
-   "url": "https://cafe.naver.com/gototheusa/1344207?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvdG90aGV1c2EiLCJhcnRpY2xlSWQiOjEzNDQyMDcsImlzc3VlZEF0IjoxNzk1NDE0ODE1OTEwfQ.OdYPpW66g-5IZ6E2XBvSeAyRqB43i26GEsqoQCHweCM",
-   "engine": "naver_web",
-   "query": "에어캐나다 밴쿠버 경유 덴버",
-   "first_seen": "2026-11-23T15:07:47+09:00"
-  },
-  {
-   "title": "[플라이 H!] 노선 다변화에 특가까지..제주항공 '센다이'·파라타항공 'LA' 뜬다 - 한국정경신문",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XY3Y4RXd5b3oxMTl1bW8wNGVmQklXeElnemd3ZnJjUVNhR3h3b2Q3UFZUMWdfVlVZTTFESlczaHAyU2wzakNKdnpMVlY1QmhfZnc?oc=5",
-   "pub": "Mon, 23 Nov 2026 04:53:27 GMT",
-   "engine": "gnews",
-   "query": "대한항공 미주 특가",
-   "first_seen": "2026-11-23T15:07:47+09:00"
   }
  ],
- "errors": [],
- "skipped_for_time": 145
+ "errors": [
+  "gnews '대한항공 미주 프로모션 2027': HTTP Error 429: Too Many Requests"
+ ],
+ "skipped_for_time": 130
 }
