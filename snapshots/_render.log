@@ -1,60 +1,55 @@
-[dgdr-festival] rendered 203 chars CHANGED
-[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[science-edu-reservation] rendered 2140 chars same
+[sejong-notice] rendered 2239 chars CHANGED
+[sejong-notice-greenfamily] rendered 1799 chars CHANGED
+[leis-ski-muju-school] rendered 863 chars CHANGED
+[leis-ski-skiland-lessons] rendered 599 chars CHANGED
+[leis-ski-mentor-lessons] rendered 4778 chars CHANGED
+[leis-ski-jb-sports] rendered 1234 chars CHANGED
+[leis-ski-sejong-sports] rendered 810 chars CHANGED
+[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
+[leis-spectator-archery] rendered 3992 chars CHANGED
+[leis-spectator-archery-current] rendered 8340 chars CHANGED
+[foresttrip-notice] rendered 141 chars same
+[foresttrip-main] rendered 7314 chars CHANGED
+[daejeoni-parent-edu-list] rendered 3124 chars CHANGED
+[ktostay-special-disaster-stay] rendered 2080 chars CHANGED
+[kspo-svoucher-notice] rendered 1916 chars CHANGED
+[naver-cafe-everandon-251] rendered 2741 chars CHANGED
+[jeonju-board-jeollagamyeong] rendered 1902 chars CHANGED
+[onsejong-localo-main] rendered 2376 chars CHANGED
+[perthmint-upcoming-releases] rendered 8307 chars CHANGED
+[ticketlink-product-64605] rendered 252722 chars CHANGED
+[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
+  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
 
-[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[djkids-musical] rendered 1642 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[gcfct-schedule] rendered 371 chars CHANGED
+[mokwon-events] rendered 948 chars CHANGED
+[zeropay-events] rendered 572 chars CHANGED
+[chuncheon-festival-news] rendered 898 chars CHANGED
+[chuncheon-festival-news-459539] rendered 801 chars CHANGED
+[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
+  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
 
-[kopis-pf302030] rendered 7840 chars same
-[blog-gotaekmusicfesta-224428285877] rendered 2921 chars CHANGED
-[blog-gotaekmusicfesta-224426135103] rendered 3647 chars CHANGED
-[vol-djv1365-main] rendered 4864 chars CHANGED
-[leis-cycling-kcf] rendered 2174 chars CHANGED
-[sje-life-events] rendered 51330 chars CHANGED
-[nol-nutcracker-daejeon] rendered 4990 chars CHANGED
-[mara1080-goldrun-geumsan] rendered 4301 chars CHANGED
-[runningon-schedule-open] rendered 7594 chars CHANGED
-[leis-ski-snowon] rendered 593 chars CHANGED
-[leis-ski-snowon-notices] rendered 1022 chars CHANGED
-[leis-ski-snowon-youth] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.snowon.or.kr/program/list.php?ca_id=20", waiting until "domcontentloaded"
-
-[namwon-missiontour] rendered 809 chars CHANGED
-[oworld-notice-list] rendered 970 chars CHANGED
-[sslib-sanseong-lecture] rendered 1607 chars CHANGED
-[yes24-notice-18875] rendered 196 chars CHANGED
-[naver-booking-kids-circus-daejeon] rendered 20876 chars CHANGED
-[smart-science-exhibitions-list] RENDER ERROR rendered but too little text (55 chars)
-[sejong-citylib-main] RENDER ERROR Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://library.sejong.go.kr/
-Call log:
-  - navigating to "https://library.sejong.go.kr/", waiting until "domcontentloaded"
-
-[leis-cycling-speedagency] rendered 337 chars CHANGED
-[naver-cafe-everandon-main] rendered 495 chars CHANGED
-[naver-cafe-everandon-252] rendered 6489 chars CHANGED
-[nol-product-26010436] rendered 1500 chars CHANGED
-[kfruit-main] rendered 9452 chars CHANGED
-[seogu-yeyak] rendered 2841 chars CHANGED
-[pyoungsong] rendered 885 chars same
-[oworld-notice] rendered 1733 chars same
-[baekje-schedule] rendered 1512 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[woosongart-schedule] rendered 760 chars CHANGED
-[pyeongtaek-main] rendered 18118 chars CHANGED
-[pyoungsong-performance] rendered 1224 chars same
-[dsecc-programs] rendered 1945 chars CHANGED
-[seogu-exprn-list] rendered 1021 chars CHANGED
-[seogu-event-list] rendered 1021 chars CHANGED
-[seogu-edu-list] rendered 1027 chars CHANGED
-[daejeon-its-board] rendered 3369 chars CHANGED
-[pyeongtaek-news-board] rendered 3198 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 4210 chars CHANGED
-[hanbat-library-culture] rendered 2135 chars CHANGED
-[chuncheon-festival-news-465019] rendered 1224 chars CHANGED
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 484 chars same
-[pyoungsong-event-sandmagic] rendered 498 chars same
-[pyoungsong-event-stonesoup] rendered 335 chars same
+[sejong-notice-birdwatch] rendered 1339 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 5078 chars CHANGED
+[komsco-shop-medal] rendered 246 chars CHANGED
+[komsco-shop-coin] rendered 246 chars CHANGED
+[komsco-shop-bar] rendered 247 chars CHANGED
+[komsco-shop-card] rendered 247 chars CHANGED
+[komsco-shop-currency-set] rendered 246 chars CHANGED
+[cnu-jsh-schedule] rendered 774 chars same
+[bok-commemorative-coin-news] rendered 634 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 6414 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
+[nol-notice-10111] rendered 16362 chars CHANGED
+[naver-entertain-018-0006379428] rendered 45426 chars CHANGED
+[melon-artist-songsohee] rendered 2183 chars CHANGED
+[interpark-artist-leejuck] rendered 10133 chars CHANGED
+[yctf-show] rendered 417 chars CHANGED
+[sejong-notice-science-concert] rendered 1017 chars CHANGED
+[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
+[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
