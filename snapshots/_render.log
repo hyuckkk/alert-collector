@@ -1,62 +1,54 @@
-[oasis-fsale-coupon] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[foresttrip-notice-280206] rendered 8182 chars CHANGED
+[yes24-perf-61277] rendered 199 chars CHANGED
+[nol-product-26012487] rendered 1439 chars CHANGED
+[hanbat-library-media-friend] rendered 506 chars CHANGED
+[kopis-place-pyoungsong-small] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.oasis.co.kr/event/2026/soosanKorea_1029", waiting until "domcontentloaded"
+  - navigating to "https://kopis.or.kr/por/db/prfplc/prfplcView.do?menuId=MNU_00021&mt10Id=FC000323", waiting until "domcontentloaded"
 
-[nol-product-christmas-film-carol-festa-daejeon] rendered 3539 chars CHANGED
-[nol-product-stagem-christmas-carol-daejeon] rendered 2142 chars CHANGED
-[nol-product-lab-concert-daejeon] rendered 5229 chars CHANGED
-[baekje-schedule] rendered 1512 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[woosongart-schedule] rendered 760 chars CHANGED
-[pyeongtaek-main] rendered 19092 chars CHANGED
-[gcfct-schedule] rendered 372 chars CHANGED
-[cnu-jsh-schedule] rendered 774 chars same
-[bok-commemorative-coin-news] rendered 634 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 6509 chars CHANGED
-[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
-[nol-notice-10111] rendered 15702 chars CHANGED
-[naver-entertain-018-0006379428] rendered 45770 chars CHANGED
-[melon-artist-songsohee] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[bok-press-list] rendered 720 chars CHANGED
+[blog-seogu-artfest-fringe-cvovz] rendered 5666 chars CHANGED
+[blog-seogu-artfest-blu2sky7] rendered 6513 chars CHANGED
+[kwater-realtime-sumun] rendered 2285 chars CHANGED
+[cnu-jsh-schedule-178-2026-11] rendered 3301 chars CHANGED
+[leis-ski-skiland-lessons] rendered 599 chars CHANGED
+[leis-ski-mentor-lessons] rendered 4778 chars CHANGED
+[leis-ski-jb-sports] rendered 1234 chars CHANGED
+[leis-ski-sejong-sports] rendered 810 chars CHANGED
+[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
+[foresttrip-notice] rendered 141 chars same
+[cwg-dmz-crane-notice] rendered 904 chars CHANGED
+[royalmint-lotr] rendered 5061 chars CHANGED
+[sejong-youth-prog-list] rendered 2994 chars CHANGED
+[ssg-fsale-coupon] rendered 9935 chars CHANGED
+[djac-performance-2026-12-p2] rendered 4200 chars CHANGED
+[sejong-notice-gogohak-festa-alt] rendered 1256 chars CHANGED
+[kopis-perf-kids-circus-daejeon-2027] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://ticket.melon.com/artist/index.htm?artistId=672059", waiting until "domcontentloaded"
+  - navigating to "https://kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF306843&mt10Id=undefined&search=plc&", waiting until "domcontentloaded"
 
-[interpark-artist-leejuck] rendered 10133 chars CHANGED
-[yctf-show] rendered 418 chars CHANGED
-[sejong-notice-science-concert] rendered 1017 chars CHANGED
-[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] RENDER ERROR k (most recent call last):
-  File "/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py", line 182, in <module>
-    print(json.dumps(out, ensure_ascii=False), flush=True)
-UnicodeEncodeError: 'utf-8' codec can't encode character '\ud83e' in position 14878: surrogates not allowed
-
-[hanbat-gongdong-science-form] rendered 622 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 8937 chars CHANGED
-[cnu-jsh-schedule-178] rendered 3301 chars CHANGED
-[dmzforest-main] rendered 6339 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[woorisb-tok7-product] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[vol-djv1365-notice] rendered 1472 chars CHANGED
+[vol-djv1365-notice-411] rendered 677 chars CHANGED
+[sslib-sanseong-notice] rendered 1446 chars CHANGED
+[sslib-sanseong-lect-list] rendered 2101 chars CHANGED
+[yuseong-round-event] rendered 1324 chars CHANGED
+[djkids-musical] rendered 1642 chars CHANGED
+[ticketlink-notice] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+[mokwon-events] rendered 948 chars CHANGED
+[zeropay-events] rendered 572 chars CHANGED
+[chuncheon-festival-news] rendered 901 chars CHANGED
+[chuncheon-festival-news-459539] rendered 801 chars CHANGED
+[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://m.woorisavingsbank.com/product/deposite/view.do?prdSn=325", waiting until "domcontentloaded"
+  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
 
-[mommom-sandmagic-a] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://mom-mom.net/travel/places/6a6fff6990947ad2c40e40da", waiting until "domcontentloaded"
-
-[mommom-sandmagic-b] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://mom-mom.net/travel/places/6a583bb00c06be407d755ad0", waiting until "domcontentloaded"
-
-[sejong-notice-imnansu-play] rendered 869 chars CHANGED
-[icheon-ricefestival-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.ricefestival.or.kr/program/program.php?sp=schedule", waiting until "domcontentloaded"
-
-[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
-[nol-product-phantom-40th] rendered 5500 chars CHANGED
-[daejeontour-bread-festival] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://daejeontour.co.kr/festival_djt/46", waiting until "domcontentloaded"
-
-[mokpo-harborfestival-main] rendered 8982 chars CHANGED
+[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
+[pyeongtaek-gosi] rendered 1633 chars CHANGED
+[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[andong-halftour] rendered 2550 chars CHANGED
+[kfe-main] rendered 3598 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 4573 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1260 chars CHANGED
+[leis-spectator-archery] rendered 3992 chars CHANGED
+[leis-spectator-archery-current] rendered 8321 chars CHANGED
