@@ -2352,5 +2352,33 @@
   "url": "https://www.bac.or.kr/product/performance/253035",
   "render": true,
   "note": "부천아트센터 소공연장 공연 상세(브랜든 최 진행·테너 존 노) — 공연일자·예매 오픈 확인용, 세션 WebFetch 차단 (JOB3) | 2026-11-25 추가"
+ },
+ {
+  "id": "swissmint-25-franc-gold-coin",
+  "url": "https://www.swissmint.ch/en/25-franc-gold-coin",
+  "render": true,
+  "note": "스위스 조폐국 25프랑 금화(연간 발행) 판매 시작일·가격·발행량 — 해외 조폐국 직판 한정 금화 JOB13 판정용 | 2026-11-25 JOB11 ChatGPT 대조 후 추가, 세션 네트워크 차단으로 URL 본문 미검증(검색 결과로 존재 확인)"
+ },
+ {
+  "id": "swissmintshop-25-franc-proof",
+  "url": "https://swissmintshop.admin.ch/en/product/000000000510000802/CHF%2025%20coin,%20proof",
+  "render": true,
+  "note": "스위스 조폐국 공식 쇼핑몰 25프랑 금화 상품 페이지(판매 상태) — JOB13 | 2026-11-25 JOB11 추가, URL 본문 미검증"
+ },
+ {
+  "id": "ulibrary-event-list",
+  "url": "https://www.u-library.kr/event/list",
+  "render": true,
+  "note": "대전 공공도서관 통합 행사 목록(안산·석봉·동대전도서관 어린이 가족 공연 등) — 세션 WebFetch 차단, 어린이 공연 상세 확인용 (JOB1) | 2026-11-25 추가"
+ },
+ {
+  "id": "vol-ysvc-blog-rss",
+  "url": "https://rss.blog.naver.com/yuseong1365.xml",
+  "note": "유성구자원봉사센터 공식 블로그 RSS — 반월 '자원봉사 활동 일감 안내'·봉사단 모집 글(JOB15). ysvc.or.kr 직접 수집 403 대체 | 2026-11-25 JOB15 추가"
+ },
+ {
+  "id": "ys-happy-culture-notice",
+  "url": "http://www.ys-happy.or.kr/culture/board/list?md_id=culture_notice",
+  "note": "유성구행복누리재단 문화예술 공지 목록 — 가족 문화예술교육 참여자 모집(JOB10). view URL(md_id=culture_notice)에서 목록 경로 유추, 수집 실패 시 교체 | 2026-11-25 JOB10 추가"
  }
 ]
