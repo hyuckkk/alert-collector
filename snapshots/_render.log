@@ -1,53 +1,50 @@
-[pyoungsong-event-nunkkot] rendered 454 chars same
-[pyoungsong-event-piglets] rendered 484 chars same
-[pyoungsong-event-sandmagic] rendered 498 chars same
-[pyoungsong-event-stonesoup] rendered 335 chars same
-[science-edu-reservation] rendered 2140 chars CHANGED
-[sejong-notice] rendered 2238 chars CHANGED
-[sejong-notice-greenfamily] rendered 1799 chars CHANGED
-[sejong-notice-birdwatch] rendered 1339 chars CHANGED
-[yangyang-cafe-balloon-15331] rendered 5234 chars CHANGED
-[komsco-shop-medal] rendered 243 chars CHANGED
-[komsco-shop-coin] rendered 243 chars CHANGED
-[komsco-shop-bar] rendered 243 chars CHANGED
-[englishegg-eggshow] rendered 3225 chars CHANGED
-[pyoungsong-tribe-events-api-p2] rendered 132622 chars same
-[kopis-pf297232] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
+[pyeongtaek-gosi] rendered 1650 chars CHANGED
+[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[daejeon-okr-edu] rendered 1501 chars same
+[komsco-shop-card] rendered 244 chars CHANGED
+[komsco-shop-currency-set] rendered 244 chars CHANGED
+[cnu-jsh-schedule] rendered 627 chars CHANGED
+[bok-commemorative-coin-news] rendered 634 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 6223 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
+[dgdr-festival] rendered 203 chars CHANGED
+[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF297232", waiting until "domcontentloaded"
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
 
-[blog-gotaekmusicfesta-224426168539] rendered 2681 chars CHANGED
-[yuseong-cultprfr-list] rendered 634 chars CHANGED
-[ysfesta-main] rendered 133 chars CHANGED
-[khs-main] rendered 1693 chars same
-[khs-eventinfo] rendered 1248 chars CHANGED
-[djkids-program-notice] rendered 1214 chars CHANGED
-[kaist-orchestra-appassionato-booking] rendered 4559 chars CHANGED
-[naver-blog-kaist-chorus-39th] rendered 10732 chars CHANGED
-[dmak-main] rendered 524 chars CHANGED
-[vol-djv1365-bongsadan] rendered 877 chars CHANGED
-[yes24-mobile-notice-list] rendered 196 chars CHANGED
-[kywa-camp-reservation-list] rendered 3672 chars same
-[blog-mandoodad-224482518648] rendered 3914 chars CHANGED
-[ticketlink-product-64315] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/64315']' timed out after 75 seconds
-[onsejong-localo-family] rendered 2405 chars CHANGED
-[sooperang-event-board] rendered 1413 chars CHANGED
-[sslib-sanseong-notice] rendered 1447 chars CHANGED
-[sslib-sanseong-lect-list] rendered 2101 chars CHANGED
-[foresttrip-notice-280206] rendered 8183 chars CHANGED
-[yes24-perf-61277] rendered 198 chars CHANGED
-[bac-perf-253033] rendered 1752 chars CHANGED
-[bac-perf-253035] rendered 1778 chars CHANGED
-[seogu-yeyak] rendered 2841 chars CHANGED
-[pyoungsong] rendered 883 chars same
-[oworld-notice] rendered 1733 chars CHANGED
-[fsale-main] rendered 3926 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[science-reservation] rendered 1073 chars same
-[khs-notice] rendered 309 chars same
-[royal-khs-events] rendered 1194 chars CHANGED
-[expo-park] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.expopark.kr/", waiting until "domcontentloaded"
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
 
-[nol-upcoming-notice] rendered 9290 chars CHANGED
+[kopis-pf302030] rendered 7840 chars same
+[blog-gotaekmusicfesta-224428285877] rendered 2921 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3647 chars CHANGED
+[vol-djv1365-main] rendered 7912 chars CHANGED
+[leis-cycling-kcf] rendered 2174 chars CHANGED
+[sje-life-events] rendered 38049 chars CHANGED
+[nol-nutcracker-daejeon] rendered 4989 chars CHANGED
+[mara1080-goldrun-geumsan] rendered 4301 chars CHANGED
+[runningon-schedule-open] rendered 7980 chars CHANGED
+[leis-ski-snowon] rendered 593 chars CHANGED
+[leis-ski-snowon-notices] rendered 1022 chars CHANGED
+[leis-ski-snowon-youth] rendered 766 chars CHANGED
+[namwon-missiontour] rendered 809 chars CHANGED
+[oworld-notice-list] rendered 970 chars CHANGED
+[sslib-sanseong-lecture] rendered 1646 chars CHANGED
+[yes24-notice-18875] rendered 196 chars CHANGED
+[naver-booking-kids-circus-daejeon] rendered 2960 chars CHANGED
+[belift-illit-schedule] rendered 8797 chars CHANGED
+[thekpop-illit-schedule] rendered 21436 chars CHANGED
+[thekpop-yena-schedule] rendered 21142 chars CHANGED
+[daumcafe-yena-schedule] rendered 1044 chars same
+[dcinside-illit-schedule] rendered 3170 chars CHANGED
+[jbto-swiper2] rendered 7742 chars CHANGED
+[swissmint-25-franc-gold-coin] rendered 2722 chars CHANGED
+[swissmintshop-25-franc-proof] rendered 706 chars same
+[ulibrary-event-list] rendered 1511 chars CHANGED
+[baekje-schedule] rendered 1512 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 9239 chars CHANGED
+[ticketlink-notice-mobile] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://m.ticketlink.co.kr/help/notice']' timed out after 75 seconds
+[daejeon-okr-hanbatlib] rendered 1643 chars CHANGED
