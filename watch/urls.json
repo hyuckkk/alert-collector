@@ -2385,5 +2385,13 @@
   "id": "yongsanpark-gallery-blog-rss",
   "url": "https://rss.blog.naver.com/yongsanpark_gallery.xml",
   "note": "용산공원 공식 블로그 RSS — 용산기지 둘레길 산책 회차별 신청 안내(서울시 공공서비스예약)·미개방부지 투어(JOB5). yeyak.seoul.go.kr 직접 감시 대체 | 2026-11-25 JOB5 추가"
+ },
+ {
+  "id": "daedeokgu-familycenter-programs",
+  "url": "https://daedeokgu.familynet.or.kr/center/lay1/program/S295T322C451/recruitReceipt/list.do",
+  "render": true,
+  "note": "대덕구가족센터 프로그램 신청 목록 (JOB10) — 가족 공연 관람·체험 선착순 | 2026-11-25 JOB10 추가(가족 크리스마스 매직쇼 관람, discover로만 발견)",
+  "disabled": true,
+  "disabled_reason": "2026-11-25 추가 시 비활성: 같은 familynet 가족센터 목록(대전시·서구)이 수집기에서 HTTP 400 반복 — Aside 열람 대상"
  }
 ]
