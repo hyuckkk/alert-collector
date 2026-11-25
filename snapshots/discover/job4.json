@@ -1,8 +1,23 @@
 {
- "updated": "2026-11-25T13:07:49+09:00",
+ "updated": "2026-11-25T14:07:49+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 10,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "33차례 울리고, 광화문광장과 DDP에서는 미디어아트와 공연, 불꽃·조명 쇼 등으로 새해를 맞는다. 서울시는 축제 방문객의 소비가...5%를 돌려준다. 지역 상권 이용 영수증을 인증하면 세종문화회관과 서울시립교향악단 등의 공연 관람권을 10% 할인하는 프로그램...",
+   "url": "http://v.daum.net/v/20261125140004049",
+   "engine": "daum_news",
+   "query": "세종 불꽃",
+   "first_seen": "2026-11-25T14:07:49+09:00"
+  },
+  {
+   "title": "[세종소식] 산불예방 인공지능 감시체계 구축 - 연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kRkFHc3hqSU1EdkhZeWdVTGNNYjIySjVRNVdoVGMxMnA4dUhKTzNNN2pHZ2pLckJuQzBydTdIY1hWd2hvZU1sdG9PbkhRemRQbkpIekVtMjZRQUwtLTRSV9IBYEFVX3lxTE1kRkFHc3hqSU1EdkhZeWdVTGNNYjIySjVRNVdoVGMxMnA4dUhKTzNNN2pHZ2pLckJuQzBydTdIY1hWd2hvZU1sdG9PbkhRemRQbkpIekVtMjZRQUwtLTRSVw?oc=5",
+   "pub": "Wed, 25 Nov 2026 02:15:11 GMT",
+   "engine": "gnews",
+   "query": "세종 불꽃",
+   "first_seen": "2026-11-25T14:07:49+09:00"
+  },
   {
    "title": "인증하면 세종문화회관 시즌공연과 서울시립교향악단 정기공연·신년음악회, 대학로극장 쿼드 공연 등의 관람권을 10% 할인된 가격에 제공할 계획이다. 지역 상권과 연계한 스탬프 투어도 운영한다. 광화문 마켓과 서울라이트 광화문, 서울빛초롱축제, 서울광장...",
    "url": "http://v.daum.net/v/20261125115249698",
@@ -21056,22 +21071,10 @@
    "engine": "naver_blog",
    "query": "세종 불꽃",
    "first_seen": "2026-11-24T00:07:49+09:00"
-  },
-  {
-   "title": "궁금한 점은 세종문화티켓(02-399-1000)으로 직접 물어보면 됩니다. 이제 경기도로 눈을 돌려 볼게요. 불꽃은 27일부터, 에버랜드 크리스마스 위시 에버랜드 크리스마스 위시 행사 카드 AI로 만든 참고 이미지 · 겨울밤 회전목마 불빛 분위기 기간: 11월 21일(토)~12월 31일(목) 장소: 용인 에버랜드 요금·시간: 에버랜드 홈페이지 확인 퍼레이드",
-   "url": "https://blog.naver.com/be2nough/224488843488",
-   "engine": "naver_blog",
-   "query": "세종 불꽃",
-   "first_seen": "2026-11-24T00:07:49+09:00"
-  },
-  {
-   "title": "밖은 추워도 온실 안은 따뜻하니까 빨간 포인세티아 사이에서 사진 한 장 남겨보고 싶어요 서울 안 ③ 세종문화회관 '커튼 콜 가든' 겨울마켓 (광화문) 세종문화회관 뒤뜰 '예술의... 멀티미디어 불꽃쇼가 11월 27일부터 시작됐대요 그래서 이번 주말이 퍼레이드 시작하고 첫 주말이에요. 정문 쪽 글로벌페어에는 10m짜리 트리랑 판다 조형물도 있대요. 입장권이.",
-   "url": "https://blog.naver.com/minuetlog/224488841205",
-   "engine": "naver_blog",
-   "query": "세종 불꽃",
-   "first_seen": "2026-11-24T00:07:49+09:00"
   }
  ],
- "errors": [],
+ "errors": [
+  "gnews '금산 불꽃': HTTP Error 429: Too Many Requests"
+ ],
  "skipped_for_time": 0
 }
