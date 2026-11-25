@@ -1,8 +1,638 @@
 {
- "updated": "2026-11-25T21:07:48+09:00",
+ "updated": "2026-11-25T21:41:09+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 118,
+ "new_this_run": 90,
  "hits": [
+  {
+   "title": "※ 장 일정: 국내 증시는 오늘 24일(화) 마감했고 내일 25일(수) 오전 9시에 다시 엽니다. 미국 증시는 오늘 밤 23:30(KST)에 열어 25일(수) 새벽 6시에 마칩니다. 한국시간 25일 0시에... 코스피는 장중 5,065.74(+7.59%)까지 올랐고, 양 시장에서 매수 사이드카가 동시에 발동된 것은 10일 이후 처음입니다. 외국인 +7,39",
+   "url": "https://blog.naver.com/nosstar/224490594640",
+   "engine": "naver_blog",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "18탄 요약 카드 — 김해 봉림지구 111억·2030년 vs 김해평야 29.1㎢·30년 (자료: 김해시·경상남도 보도자료, 국토교통부·부산진해경제자유구역청 발표) 부산 상전벽해 시리즈 ⑱ — 차로 20분 거리, 두 개의 계획서 한쪽은 축사를 지워 공원을 만듭니다. 다른 한쪽은 논을 지워 물류도시를 만듭니다. 둘 다 김해입니다. 둘 다 '평지'입니다. 그런데",
+   "url": "https://blog.naver.com/manson789_272/224492085799",
+   "engine": "naver_blog",
+   "query": "수산대전",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "[김장대전] 국내산 새우젓 특품 1kg (김장용 추젓) 훈훈수산 [ ] • 김장대전 - 가격 및 혜택: 정가 22,000원, 할인가 16,400원, 할인 25% - 핵심 포인트: 1kg로 구성되어 있으며, 할인 25%입니다. 별점은 4.78, 리뷰는 3,078입니다. https://naver.me/FFqmnE92 [한눈에 보는 선택 가이드] - 가성비·실속",
+   "url": "https://blog.naver.com/db-insurance/224492085178",
+   "engine": "naver_blog",
+   "query": "수산대전",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "집에서 에어프라이어로 구워 먹는 꿀고구마 : https://naver.me/FiP0VFFG [김장대전] 해남 고구마 꿀고구마 한입3kg 베니하루카 황금 밤 호박고구마 대한민국농수산 naver.me 4. 고창 고인돌공원 억새, 늦가을 들판 산책 고창군 고창읍 고인돌공원길 74(고창고인돌박물관) 조양관에서 차로 8분이면 고인돌공원이야. 고창 고인돌은 화순, 강",
+   "url": "https://blog.naver.com/still_blue_earth/224492074683",
+   "engine": "naver_blog",
+   "query": "수산대전",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "배추·무와 새우젓, 할인율과 종료일이 달라요 행사 대표 품목 할인 발표 일정 농산물 할인 배추·무·마늘·고춧가루 등 최대 40% 10.29~12.2 수산대전 김장 특별전 새우젓·멸치액젓·천일염·굴 등 최대 50% 10.28~11.29 농할상품권 가맹점의 국내산 농축산물 20% 선할인 일반 구매 11.9~11.15 종료 대형·중소형마트 등 참여 판매처에서 행",
+   "url": "https://blog.naver.com/lca87/224492063374",
+   "engine": "naver_blog",
+   "query": "수산대전",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "있으며, 대전 우주추진용 고압가스 부품, 경북 전기차 차세대 무선충전 및 산업용 헴프(Hemp), 대구 이노-덴탈 특구 등 중·후기 차수 지정 특구들이 2026년 현재 실증특례 및 임시허가... 지역별 규제자유특구 지정 현황 ▲경북 4(세포배양식품, 차세대 무선충전, 스마트 그린물류, 산업용 헴프) ▲경남 4(하이브리드 수소에너지, 생활밀착형 수소모빌리티,",
+   "url": "https://blog.naver.com/pa_partners/224491442738",
+   "engine": "naver_blog",
+   "query": "수산대전",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "퇴근하고 집에 돌아온 저녁에는 시원한 맥주 한 잔과 함께 가볍게 먹을 안주가 생각나죠 그런데 매번 오징어나 쥐포만 꺼내 먹기에는 조금 아쉽고 배달 음식을 주문하기에는 부담스러운 날도 있잖아요 특히 주말 저녁에는 복잡한 준비 없이 간편하게 집어 먹을 수 있는 안주가 반갑죠 이럴 때 눈여겨볼 만한 음식이 후포리 홍게 다리 살로 만든 해각포입니다 껍질을 벗긴..",
+   "url": "https://blog.naver.com/oasis_1231/224492047556",
+   "engine": "naver_blog",
+   "query": "수산대전",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "대전·세종·청주·천안 등 충청권에서도 온라인으로 이용할 수 있으며, 상품별 할인 가격과 쿠폰 적용 조건은 서천가득몰에서 확인하시기 바랍니다^^ #충청맘 #대전맘 #세종맘 #청주맘 #천안맘 #충남맘 #충북맘 #서천가득몰 #서천특산품 #서천농수산물 #충남특산품 #사회적경제기업 #사회적경제연대 #착한소비 #가치소비 #연말할인 #연말기획전 #지역특산품할인 #30퍼",
+   "url": "https://cafe.naver.com/ccmomedu/6142?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNjbW9tZWR1IiwiYXJ0aWNsZUlkIjo2MTQyLCJpc3N1ZWRBdCI6MTc5NTYxMDk1NDMyOH0.a-OiCXKrgQdF0rj0YJqyK7bUy5RhU5Tok4JRkdZOOFE&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84%20%ec%98%a8%eb%9d%bc%ec%9d%b8%eb%aa%b0%20%ec%b0%a8%ec%88%98%20%ec%bf%a0%ed%8f%b0&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전 온라인몰 차수 쿠폰",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "양념·수산물 200억원 투입 ■ 자세히 보면 할인지원 사업은 대형마트, 온라인몰, 전통시장에서 국산 농축산물을 사는 소비자에게... 정부가 내세우는 성과도 쿠폰 발행액, 집행률, 판매액 증가 중심이고 산지 수취가격 변화는 충분히 밝히지 못했다는 것이다.... 대전 조사에서도 쪽파가 전년보다 63.3%, 배추가 20.8%, 무가 16.5% 내렸고, 가을배추 ",
+   "url": "https://cafe.naver.com/kfarm/31154?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtmYXJtIiwiYXJ0aWNsZUlkIjozMTE1NCwiaXNzdWVkQXQiOjE3OTU2MTA5NTQzMjh9.9vQw8joWK4H8dL-rwOECFU29Zt7w6IwT8HXbWWUZlrQ&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84%20%ec%98%a8%eb%9d%bc%ec%9d%b8%eb%aa%b0%20%ec%b0%a8%ec%88%98%20%ec%bf%a0%ed%8f%b0&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전 온라인몰 차수 쿠폰",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "온라인 사용처 (2026년 11월 23일 확인 기준, 변동 가능) 사용처 성격(확인된 범위) 참고 온누리쇼핑 전국 시장 먹거리·특산품, 수산대전... 우체국쇼핑 온라인 사용처로 소개됨 상품 구성은 사이트에서 확인 롯데ON 전용관 일반 몰 안에 마련된 온누리상품권 구역 전용관 밖... 넷, 배송비와 쿠폰까지 적용한 최종 금액이 얼마인지 봅니다. 배송은 앱이 ",
+   "url": "https://cafe.naver.com/moneyswitch/73?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbmV5c3dpdGNoIiwiYXJ0aWNsZUlkIjo3MywiaXNzdWVkQXQiOjE3OTU2MTA5NTQzMjh9.KbtyGa4COcwZWWE_RTXwcljrg4xCnDaBtIBxOyR2KdQ&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84%20%ec%98%a8%eb%9d%bc%ec%9d%b8%eb%aa%b0%20%ec%b0%a8%ec%88%98%20%ec%bf%a0%ed%8f%b0&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전 온라인몰 차수 쿠폰",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "https://blog.naver.com/adevent/224487235495 \" \" 1. 배달앱에 갇힌 점주들…\"배달도, 비용도 고를 수 있게\" 22일 업계에 따르면 프랜차이즈 가맹점주를 비롯해 자영업자들이 요구하는 변화 중 하나는 '직접배달'의 활성화다. 주문이 몰리지 않는 여유 시간대에 매장 인근 500m 정도의 가까운 거리를 직접 배달하면 외부 배달",
+   "url": "https://cafe.naver.com/sbiznews/15103?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNiaXpuZXdzIiwiYXJ0aWNsZUlkIjoxNTEwMywiaXNzdWVkQXQiOjE3OTU2MTA5NTQzMjh9.ajKFNVfYK7JAAI43ObxWo_r6HVcQ3yiICzyKWaitO8k&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84%20%ec%98%a8%eb%9d%bc%ec%9d%b8%eb%aa%b0%20%ec%b0%a8%ec%88%98%20%ec%bf%a0%ed%8f%b0&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전 온라인몰 차수 쿠폰",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "■ 이번 주말 장보기 전에 확인하세요 정부가 200억 원을 투입한 '대한민국 수산대전-코리아 수산 페스타'가 11월 29일(일)까지 이어집니다. 해양수산부가 10월 28일부터 진행 중인 행사로, 마트와 온라인... · 1인 1만 원 한도는 매장·온라인몰마다 적용 방식이 달라 결제 전에 한 번 물어보세요. · 온라인몰은 기획전 쿠폰으로 적용되는 경우가 있어 ",
+   "url": "https://cafe.naver.com/aipromptlab26/475?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFpcHJvbXB0bGFiMjYiLCJhcnRpY2xlSWQiOjQ3NSwiaXNzdWVkQXQiOjE3OTU2MTA5NTQzMjl9.4HLlMeFV-F5dsfl2T_fp8x7LZg3lEn32H_SglSD6FLk&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84%20%ec%98%a8%eb%9d%bc%ec%9d%b8%eb%aa%b0%20%ec%b0%a8%ec%88%98%20%ec%bf%a0%ed%8f%b0&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전 온라인몰 차수 쿠폰",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "참여 온라인몰: 컬리, 쿠팡, SSG닷컴, 11번가, 지마켓, 옥션, 농협몰, 수협쇼핑, 우체국쇼핑, 지자체 공식 농특산물 쇼핑몰 등. 할인 받는 방법: 각 쇼핑몰의 ‘농할갑시다(농축산물 할인지원)’ 또는 ‘대한민국 수산대전(김장특별전)’ 기획전 페이지에서 전용 20% 할인쿠폰을 다운로드한 뒤 결제 단계에서 쿠폰을 적용합니다. (주간 1인당 최대 1만 원–",
+   "url": "https://cafe.naver.com/bosiking/1234?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvc2lraW5nIiwiYXJ0aWNsZUlkIjoxMjM0LCJpc3N1ZWRBdCI6MTc5NTYxMDk1NDMyOX0.hVYJY2KdbT9GKRU5OnpYCoqSglGk1iNqLjyCj62Xv7I&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84%20%ec%98%a8%eb%9d%bc%ec%9d%b8%eb%aa%b0%20%ec%b0%a8%ec%88%98%20%ec%bf%a0%ed%8f%b0&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전 온라인몰 차수 쿠폰",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "연합뉴스TV 11시간11시간 전, 2026. 11. 18. 오전 5:26 이 대통령, 트럼프 대통령과 필리핀 만찬장서 조우 아세안 정상회의 참석차 필리핀을 방문한 이재명 대통령이 현지에서 열린 만찬에서 도널드 트럼프 미국 대통령과 만났습니다. 현지시간 17일, 마르코스 필리핀 대통령이 주최한 만찬 행사 시작 전 두 정상이 40여초간 서서 대화를 나누는 모습",
+   "url": "https://cafe.naver.com/jmsong0829/76824?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imptc29uZzA4MjkiLCJhcnRpY2xlSWQiOjc2ODI0LCJpc3N1ZWRBdCI6MTc5NTYxMDk1NDMyOX0.u1vtdhyofMHmkg8wv8oy6XhvwzL9jwV7jAQc8TxtRcg&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84%20%ec%98%a8%eb%9d%bc%ec%9d%b8%eb%aa%b0%20%ec%b0%a8%ec%88%98%20%ec%bf%a0%ed%8f%b0&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전 온라인몰 차수 쿠폰",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "사고 수산은 다음 주로 나눠 사는 편이 낫습니다. · 생필품 두 개 담으면 반값 행사는 12월 2일까지 남아 있습니다. 오늘 급하지 않으면 다음 결제로 미뤄도 됩니다. ■ 담기 전 체크 3가지 1. 농할은 결제 단계에서 자동 적용됩니다. 쿠폰 코드를 찾을 필요는 없지만, 적용 전후 금액을 장바구니에서 한 번 확인하세요. 2. 가격은 온라인 장보기 기준입니다",
+   "url": "https://cafe.naver.com/aipromptlab26/349?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFpcHJvbXB0bGFiMjYiLCJhcnRpY2xlSWQiOjM0OSwiaXNzdWVkQXQiOjE3OTU2MTA5NTQzMjl9.n56ItqfRVKx8Qw948dj2HFNnWbwn5SUwdSTewN4ThxU&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84%20%ec%98%a8%eb%9d%bc%ec%9d%b8%eb%aa%b0%20%ec%b0%a8%ec%88%98%20%ec%bf%a0%ed%8f%b0&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "수산대전 온라인몰 차수 쿠폰",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "(※ 한도는 매주 목요일 등을 기준으로 주 단위로 초기화되므로, 배추·무와 젓갈·고춧가루를 주차별로 나누어 구매하면 할인 한도를 두... 수협쇼핑, 우체국쇼핑, 지자체 공식 농특산물 쇼핑몰 등. 할인 받는 방법: 각 쇼핑몰의 ‘농할갑시다(농축산물 할인지원)’ 또는 ‘대한민국 수산대전(김장특별전)’ 기획전 페이지에서 전용 20% 할인쿠폰을 다운로드한 뒤 결제",
+   "url": "https://cafe.naver.com/bosiking/1234?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvc2lraW5nIiwiYXJ0aWNsZUlkIjoxMjM0LCJpc3N1ZWRBdCI6MTc5NTYxMTAzOTM2OH0.cKedBGsLnDhPyzd5rGc5KFcUB1VcyH1k3fSrIrb5nRU&q=%ec%9a%b0%ec%b2%b4%ea%b5%ad%ec%87%bc%ed%95%91%20%ec%88%98%ec%82%b0%ed%8e%98%ec%8a%a4%ed%83%80%20%ec%bf%a0%ed%8f%b0%20%ec%a3%bc%ec%b0%a8&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "우체국쇼핑 수산페스타 쿠폰 주차",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "멸치사고 참외사고 참외 10,000어친데 넘 많아서 손떨어져나가요새 창 열림",
+   "url": "https://cafe.naver.com/postmore/75954?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBvc3Rtb3JlIiwiYXJ0aWNsZUlkIjo3NTk1NCwiaXNzdWVkQXQiOjE3OTU2MTExMzA2NTF9.qIDrVzVfonRVMwXgSzwPnNZjVRf8gh_fyFK2b8lxyek",
+   "engine": "naver_all",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "저희 동네는 수산물만 가능해서 어제 꽃게 전복 사다가 파티했어용 ㅋ새 창 열림",
+   "url": "https://cafe.naver.com/skybluezw4rh/14895331?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNreWJsdWV6dzRyaCIsImFydGljbGVJZCI6MTQ4OTUzMzEsImlzc3VlZEF0IjoxNzk1NjExMTMwNjUyfQ.ab5hroQC7DJcVL-R6RXUw_l1dsQtUd6XscgrQNEh8GU",
+   "engine": "naver_all",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "전통시장에서 국산 수산물을 구매하면 구매금액에 따라 온누리상품권을 환급받을 수 있습니다. 기간 2026. 6. 10.(수) ~ 6. 14.(일) 환급장소 서호전통시장 고객지원센터 09:00~17:00 중앙전통시장 고객지원센터 09:00~17:00 북신전통시장 고객지원센터 10:00~18:00 환급금액 34,000원 이상 구매 시 1만 원 67,000원 이상",
+   "url": "https://cafe.naver.com/tgpia/1021228?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRncGlhIiwiYXJ0aWNsZUlkIjoxMDIxMjI4LCJpc3N1ZWRBdCI6MTc5NTYxMTEzMDY1Mn0.8fgeHQ49vV0j3zktEDzQs1JYLttLzmRmkijCDl_dl7Q",
+   "engine": "naver_all",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "전통시장 활성화와 수산물 소비 촉진을 위해 국내산 수산물 구매 시 온누리상품권 환급 행사를 진행하고 있습니다 전통시장에서 신선한 수산물을 구매하고 온누리상품권 혜택까지 받을 수 있는 실속 가득한 행사입니다 장보는 즐거움은 더하고 부담은 덜 수 있는 좋은 기회인 만큼 행사 기간 꼭 확인하셔서 알뜰하고 기분 좋은 장보기 해보시기 바랍니다새 창 열림",
+   "url": "https://cafe.naver.com/jjambbongstory/112979?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImpqYW1iYm9uZ3N0b3J5IiwiYXJ0aWNsZUlkIjoxMTI5NzksImlzc3VlZEF0IjoxNzk1NjExMTMwNjUyfQ.yTHrYMhk3JtwwJXdqkMv4ladeKIqbanWRhDm2pXaO1k",
+   "engine": "naver_all",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "마트나 시장 수족관에 며칠씩 갇혀 있던 고기가 아니라, 배에서 갓 잡아 올린 싱싱한 100% 국산 자연산 수산물을 중간 유통 없이 산지 가격 그대로 가장 먼저 만나보실 수 있도록 선예약 진행합니다. 내일... 무통보 삭제글 - 운영진 승인없는 글 - 댓가성 후기글 - 스튜디오 백일 공구 전통돌상 성장동영상,출산선물,젖병소독기,신생아선물,임산부선물 2. 각종",
+   "url": "https://cafe.naver.com/pusanmommy/1586069?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InB1c2FubW9tbXkiLCJhcnRpY2xlSWQiOjE1ODYwNjksImlzc3VlZEF0IjoxNzk1NjExMTU0MDc2fQ.q4ZLfs7eR-dW69D8XChhhEaJKzfZra-UPU4l13WXje4&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "한국 전통 음식을 현대적으로 재해석한 요리를 선보였다. 강민구 셰프 등 국내 정상급 셰프들과 협업해 한국관을 운영하며 세계... 국내 전통시장 소상공인의 일본 시장 진출 전 과정을 처음으로 지원하는 프로그램을 가동했다. K-푸드를 앞세운 현지 테스트에서 반응이... 쿠팡은 와우 멤버스데이 할인 상품을 5배 이상 늘렸고, 농축수산물 온라인 거래액은 9.7% ",
+   "url": "https://cafe.naver.com/rebirthpeople/3628?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJlYmlydGhwZW9wbGUiLCJhcnRpY2xlSWQiOjM2MjgsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc2fQ.m4l7GJtNCklSUnb3IXhRYr6k4aKimIDKqH6i7z_HBGY&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "및 수산업 자원을 소개합니다. 미국: 옥수수, 밀, 대두, 소고기 캘리포니아: 아몬드, 포도, 감귤류 미국 남부: 옥수수, 고구마, 피칸 캐나다... 농산물과 수산물, 전통 식재료를 소개합니다. 서아프리카: 카사바, 얌, 기장, 팜유 동아프리카: 커피, 테프, 콩류 북아프리카: 대추야자... 국제시장 6. 식재료 활용과 음식 개발 지역별 식재료를 실제 요리",
+   "url": "https://cafe.naver.com/wfoodcafe/74?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indmb29kY2FmZSIsImFydGljbGVJZCI6NzQsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc2fQ.QT_WlaPTAIEuvWiEVsV2JEul36RA68SaeOUNyMbKOiw&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "국세청에서는 예상 환급액을 미리 확인하고 절세 계획을 세울 수 있도록 '연말정산 미리보기 서비스'를 제공하고 있습니다. 오늘은 미리보기 서비스 이용 방법과 연말까지 챙겨야 할 절세 혜택을... 구분 소득공제율 신용카드 15% 체크카드·현금영수증 30% 전통시장 40% 대중교통 40% 이미 총급여의 25% 이상을 소비했다면 남은 기간에는 체크카드나 현금영수증",
+   "url": "https://cafe.naver.com/mkas1/2047368?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1rYXMxIiwiYXJ0aWNsZUlkIjoyMDQ3MzY4LCJpc3N1ZWRBdCI6MTc5NTYxMTE1NDA3Nn0.bruQMKJ8NS1PiBcth9MUxr1qXykfx-7pSA2t8FjFiLA&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "#오이도 #수산시장 #바다 #서해바다 #빨강등대 #시흥시 #전통시장 #물고기 #생선먹는날 #시장행사 #수산시장 #오이도바다 #오이도카페 #오이도맛집 #활어회 #선어회 #기안84 #꽃게 #맛조개 #낙지젓갈 #막퍼주는집 #겨울 #서대 #전복 #광어 #우럭 #통큰세일 #경기살리기통큰세일 #시루 #지역화폐 https://oidosusan.com",
+   "url": "https://cafe.naver.com/chch6534/1332509?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNoY2g2NTM0IiwiYXJ0aWNsZUlkIjoxMzMyNTA5LCJpc3N1ZWRBdCI6MTc5NTYxMTE1NDA3Nn0.2F0xwYVZl1A1LrYmFFTnp6Py3t_be64aiZzbBasD5O4&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "주변 상권 및 주요 시설 분석 ① 동래시장 동래시장은 동래구를 대표하는 전통시장으로 식료품, 수산물, 건어물, 음식점 등 다양한 업종이 형성되어 있습니다. 시장 방문객을 대상으로 한 식사, 간식, 포장... 01 ⑪ 주차 : 불가 ⑫ 관리비 : 사용량에따른 납부 ⑬ 방향 : 주출입구기준 서향 ⑭ 권리금 : 유(유선문의, 적극협의) 부산의 전통적인 주거 및 ",
+   "url": "https://cafe.naver.com/purpleyaa8g/885?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InB1cnBsZXlhYThnIiwiYXJ0aWNsZUlkIjo4ODUsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc2fQ.QCxM2rTjOxsq2ctOzHihDysUHqP0JS7GNBl3rvGWblI&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "소사시장을 중심으로 주변 상권을 형성해 발전해 왔다. 부천자유시장은 부천에서 가장 오래된 전통시장이다. 해방 이후 1947년 심곡동에 문을 열면서 전통시장으로 자리를 잡았다. 1970년대 후반까지 부천에... 부천자유시장은 신선하고 싱싱한 수산물이 모두 모여 있다. 깔끔하게 진열되어 있는데다 깨끗하게 생선을 손질해줘서 가벼운 마음으로 집으로 가져갈 수 있다",
+   "url": "https://cafe.naver.com/inomage/2400?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imlub21hZ2UiLCJhcnRpY2xlSWQiOjI0MDAsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc2fQ.17C7LkawS6UYPjKXtdFDCVtlcjyjMYpu_K28quGCqPc&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "있어 시장 이용객의 편의를 돕는다. 온라인으로 이어지는 스마트 시장 신도꼼지락시장은 전통적인 시장의 모습에 머물지 않고 온라인... 주민들의 일상으로 채워진 전통시장이 새로운 구매 방식과 만나며 생활 밀착형 스마트 시장으로 발전하고 있다. 신도꼼지락시장 이용 정보 신도꼼지락시장은 대전 동구 주민들의 장보기와 휴식, 생활용품 구매가 이어지는 지역 생활 공간이",
+   "url": "https://cafe.naver.com/daejeonzine/1148?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRhZWplb256aW5lIiwiYXJ0aWNsZUlkIjoxMTQ4LCJpc3N1ZWRBdCI6MTc5NTYxMTE1NDA3Nn0.a0Vl7bIg5bizXc2SZVbL1vMAQikT5zkBtBHwEJiSoiQ&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "다만 기부금액이 많다고 해서 무조건 환급금이 증가하는 것은 아닙니다. 기부금 종류, 공제한도, 결정세액, 실제 기부자 및 기부처의 적격 여부를 확인해야 합니다. 절세를 위한 기부의 핵심은... 다만 실제 환급금이 반드시 10만 원 증가하는 것은 아닙니다. 기존에 추가 납부해야 할 세금이 있었다면 추가 납부금액이 감소하는 형태로 혜택을 받을 수도 있습니다. ",
+   "url": "https://cafe.naver.com/itguro/14686?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Iml0Z3VybyIsImFydGljbGVJZCI6MTQ2ODYsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc2fQ.yYVyggP76aoBYRa5rlFKeXfItRDFuilQ-dxnFO7mVhY&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "전통시장 온누리상품권 환급 방법, 4단계로 끝낸다 1단계. 환급 행사에 참여하는 시장인지 확인합니다. 시장 안의 '환급 행사 참여 점포' 스티커나 팻말이 붙은 곳에서 국산 농·축·수산물을 삽니다. 2단계. 결제 후 당일 발행된 카드 전표나 현금영수증을 챙깁니다. 카드와 현금 모두 가능하지만, 환급은 영수증 금액을 기준으로 계산됩니다. 3단계. 시장 안에 마",
+   "url": "https://cafe.naver.com/moneyswitch/177?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbmV5c3dpdGNoIiwiYXJ0aWNsZUlkIjoxNzcsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc2fQ.fuPi83yxtn0UNiiaKjduOQEe68MGbTkdS7kU_SKkfXo&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "주황색 가맹점 스티커나 앱 검색으로 확인하세요. Q. 카드형 온누리상품권은 어떻게 결제하나요? 앱에 쓰던 카드를 등록하고 충전해 두면, 가맹점 단말기에서 평소처럼 결제하면 됩니다. Q. 부산 환급행사는 농축수산물만 해당하나요? 아닙니다. 행사마다 참여 점포와 조건이 다르므로 참여 전 시장 공지를 확인하세요. 전통시장 온누리상품권 사용처와 가맹점을 미리 확인",
+   "url": "https://cafe.naver.com/moneyswitch/176?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbmV5c3dpdGNoIiwiYXJ0aWNsZUlkIjoxNzYsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc2fQ.SnkAKqB27YkPXn4p2cj8u-cL6GQ316OzqbE8kNTGSLU&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "군포 로컬시장 갈만한곳 [군포역전시장] 골목마다 사람 냄새 나는 웃움꽃이 활짝 군포역전시장은 군포역 바로 앞에 위치하고 있다. 아주 오래된 역사를 가지고 있는 군포시의 대표적인 전통시장이며... 채소와 과일뿐 아니라 산지직송으로 받아오는 싱싱한 수산물과 건어물, 각종양념류들, 신발, 양산, 옷 등 정말 다양한 품목들을 취급하고 있어 실생활에 필요한 것들을 ",
+   "url": "https://cafe.naver.com/inomage/2397?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imlub21hZ2UiLCJhcnRpY2xlSWQiOjIzOTcsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc2fQ.a0Tvvtc9hl7ln5u4Ju43uR-h6cK4Odgu4a9mY8CZKUg&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "4일 9일 상남장이 선다 창원의 대표 전통시장 상남시장 경상남도 창원시 성산구 마디미로 28에 자리한 상남시장은 상설시장과 5일장이 함께 운영되는 전통시장이다. 평소에는 상설시장에서 장을 볼 수 있고... 제철 식재료가 모이는 장날 상남시장 5일장에서는 수산물과 반찬, 전통 장류, 생활용품 등 여러 품목을 한자리에서 살펴볼 수 있다. 수산 코너에는 생고등어",
+   "url": "https://cafe.naver.com/gyeongnamzine/1201?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imd5ZW9uZ25hbXppbmUiLCJhcnRpY2xlSWQiOjEyMDEsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc2fQ.hwQkiw7lj-DygfvCjamJmg-VQ0Duekfe10PxLycGcXU&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "기준이며, 수산물 시세와 계절에 따라 가격 및 판매 품목이 변경될 수 있습니다. 위치 및 이용 안내 상호 : 바다수산(회바다수산) 주소 : 서울 동대문구 왕산로35길 24, 가-7호 교통... 전통시장의 정겨운 분위기 속에서 즐기는 회 한 접시, 어떠신가요? 바다수산을 이용해 보신 분이나 청량리시장에서 즐겨 찾는 횟집이 있다면 댓글로 함께 나누어 주세요. ",
+   "url": "https://cafe.naver.com/kyungchasa/357?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imt5dW5nY2hhc2EiLCJhcnRpY2xlSWQiOjM1NywiaXNzdWVkQXQiOjE3OTU2MTExNTQwNzZ9.436vIDU5Yq1IrmyixwL2ZYDKkgmPQBB6iXhkNDaMokA&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "지원, 수산물 포장재 지원, 수산식품 가공설비 지원- 수산물 소비 활성화 지원 : 온라인 판매 할인 비용(최대 30%)/택배비 지원- 수산물 포장재 지원 : 수산물 및 수산물가공품 포장재 지원- 수산식품... ☞ 상인조직이 결성되어 있는 성주군 소재 골목상권 공동체-「소상공인기본법」 제2조에 따른 소상공인이 운영하는 점포가 2,000㎡ 이내 면적에 15개 ",
+   "url": "https://cafe.naver.com/uworldexam/603963?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InV3b3JsZGV4YW0iLCJhcnRpY2xlSWQiOjYwMzk2MywiaXNzdWVkQXQiOjE3OTU2MTExNTQwNzZ9.QMnWYGWsPWgCb0XLUt8zLPwK_N9XToNzrK6D4Cv8YsM&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "다양한 시장들이 있다. 그중에서 마석전통민속오일장은 5일에 한 번 장이 열리는데 서울 근교에서 손꼽히는 유명한 5일장이다. 경기 남양주시 화도읍에 위치한 마석전통민속오일장은 한 달에 6번. 즉 3과... “오늘 저녁은 생선이지”라며 시장을 찾는 사람들의 저녁 메뉴로 많이 사가는 싱싱한 수산물 또한 다양하게 만나볼 수 있다. 산지에서 직송된 수산물들이 5일장",
+   "url": "https://cafe.naver.com/inomage/2396?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imlub21hZ2UiLCJhcnRpY2xlSWQiOjIzOTYsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc2fQ.4bvrP4XyhUMpLLv3sP1zxPxEsWxvscz6PeVamu4nrSI&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "광주 재래시장 갈만한곳 [경안시장] 광주 전통시장의 맥을 잇다 경기도 광주에는 조선시대부터 명맥을 잇고 있는 유서 깊은 전통시장, 경안시장이 자리잡고 있다. 지난 2010년 시장 현대화 작업을 통해... 정겨운 시장이다. 광주의 중심시장으로 자리매김한 경안시장은 농산물, 수산물, 축산물, 의류, 잡화 등을 판매하고 있다. 상설시장 외에도 정기적으로 열리는 ",
+   "url": "https://cafe.naver.com/inomage/2395?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imlub21hZ2UiLCJhcnRpY2xlSWQiOjIzOTUsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc2fQ.Xa7Y_HOxbNOlS6DvrOPB_1bDEGRWohjGkyFmwvBCvEw&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "중동 전통시장 여행 전통 빵과 디저트 여행 향신료 시장 탐방 지역별 음식문화 체험 8. 아프리카 음식 여행 아프리카 각국의 음식과... 전통시장 탐방 태국 야시장 여행 베트남 현지시장 여행 유럽 전통시장 여행 중동 향신료 시장 여행 아프리카 지역시장 여행 세계 수산시장... 탐방 수산물 양식장 체험 전통 발효식품 생산지 지역 특산물 생산 현장 14. 세계 ",
+   "url": "https://cafe.naver.com/wfoodcafe/54?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indmb29kY2FmZSIsImFydGljbGVJZCI6NTQsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc3fQ.gbcrNUDmMlPFPEXXkomT3jQBwH235A2aIKLgFO0Qb1k&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "서울 유명 맛집 부산 해산물 맛집 제주도 향토음식 맛집 전주 한식 맛집 강릉 해산물 및 커피 맛집 대구 전통 음식 맛집 광주 남도음식 맛집 경기도 지역 맛집 전국 전통시장 맛집 지역별 숨은 맛집 3. 중국... 해산물 전문 레스토랑 생선회 전문점 굴과 조개 전문점 새우와 랍스터 전문점 전통 생선구이 전문점 해산물 찜 전문점 해산물 국물요리 전문점 해안가 전",
+   "url": "https://cafe.naver.com/wfoodcafe/53?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indmb29kY2FmZSIsImFydGljbGVJZCI6NTMsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc3fQ.NwK-H6elwnc0P7aHPw8_ORt3YrFviy81YhBMUnZWabo&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "세계 각국에는 특별한 음식문화로 유명해진 도시와 거리, 전통시장, 음식점, 식품 생산지와 미식 관광지가 있습니다. 이탈리아 나폴리의... 멕시코 전통 음식축제 세계 각국의 농산물·수산물 축제 6. 세계 유명 식품 생산 명소 특정 음식과 식재료의 생산지로 유명한 지역을... 시드니 수산시장 8. 세계 유명 디저트 명소 빵과 과자, 케이크와 전통 디저트로 유명",
+   "url": "https://cafe.naver.com/wfoodcafe/51?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indmb29kY2FmZSIsImFydGljbGVJZCI6NTEsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc3fQ.MFLx84Sd3yzoTt56q3mdsKvXKOZc4kvyOnq1nBBL7lU&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "중국식 만두 샤오롱바오 지엔빙 양꼬치 중국식 볶음면 딤섬 탕후루 중국식 전통 과자 지역별 국수 요리 중국 전통시장 간식 3. 일본 시장 음식 일본의 전통시장과 수산시장, 식품시장의 먹거리를 소개합니다. 스시와 사시미 해산물 덮밥 타마고야키 일본식 튀김 오니기리 타코야키 일본식 우동 전통 절임음식 시장 도시락 지역별 전통 간식 4. 태국 시장 음식 태국의 활",
+   "url": "https://cafe.naver.com/wfoodcafe/50?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indmb29kY2FmZSIsImFydGljbGVJZCI6NTAsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc3fQ.K6mil4xLyBFavwKYz8IKJEhXRk3tPT7c2VqhsNM8d4E&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "세계 유명 전통시장 지역별 재래시장 농산물 시장 수산물 시장 향신료 시장 육류 및 유제품 시장 전통 먹거리 골목 시장의 대표 음식과 상인 이야기 3. 세계 길거리 음식 탐방 현지 사람들이 즐겨 먹는 길거리 음식과 간편식을 소개합니다. 아시아 길거리 음식 유럽 길거리 음식 중동 길거리 음식 아메리카 길거리 음식 아프리카 길거리 음식 세계 각국의 꼬치요리 길거",
+   "url": "https://cafe.naver.com/wfoodcafe/46?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indmb29kY2FmZSIsImFydGljbGVJZCI6NDYsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc3fQ.g2bp9rCARJxDRTHiPgsH1RxXXDOQo6dC2TFOZMtAX2U&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "다음과 같은 다양한 제품과 솔루션을 만나보실 수 있습니다: 정통 K-푸드 및 식재료 – 김치, 조미료, 수산물부터 간식류에 이르기까지, 한국의 전통 식품과 식재료를 만나보세요. 한국 음료 – 차... 'SEOUL FOOD in Bangkok'은 단순한 식품 무역 전시회를 넘어, 한국의 맛과 혁신, 그리고 비즈니스 기회를 태국 및 글로벌 시장과 연결하는 가교",
+   "url": "https://cafe.naver.com/grayn51vm/28732?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyYXluNTF2bSIsImFydGljbGVJZCI6Mjg3MzIsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc3fQ.w_8KXW_YiRTn7N0KkNuTm8GhAZDH-YF3BAiZdr80C6E&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "장날이 되면 골목 양쪽으로 의류, 잡화, 생활용품, 야채, 과일, 수산물, 축산물 등을 판매하는 상점들로 가득해 진다. 제품도 다양하고 가격이 저렴해서 요즘처럼 어려운 시기에 알뜰하게 쇼핑하기에 안성맞춤이다. 적성전통시장은 한우특화시장이라는 명칭에 걸맞게 입구 간판에서도 소의 얼굴을 볼 수 있고 거리에도 소 조형물을 만날 수 있다. 싱싱하고 육질 좋은 한우",
+   "url": "https://cafe.naver.com/inomage/2394?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imlub21hZ2UiLCJhcnRpY2xlSWQiOjIzOTQsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc3fQ.uPU2fp7ub6anDgmgWRDw8ntGXbgidoLbmBuGMwzxRAo&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "특히 일본 상인과 중국 상인들이 활발하게 활동하면서 각 나라의 문화와 건축양식이 호이안에 자연스럽게 섞이게 되었답니다 (AI 이미지 입니다) 그래서 지금도 호이안에는 베트남 전통 건축물과 중국식... 목산(木山): 나무 ‼️수산(水山): 물 ‼️화산(火山): 불 ‼️토산(土山): 흙 이 다섯 가지 요소를 각각 산의 이름으로 붙인 것입니다 이름만 들으면 다섯",
+   "url": "https://cafe.naver.com/happyibook/6365821?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhcHB5aWJvb2siLCJhcnRpY2xlSWQiOjYzNjU4MjEsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc3fQ.x3F3InIduRPgZaXqrBQx4x0fOjdHnmD_5bcW6xwKDNI&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "찜 전통 젓갈과 수산 발효식품 건조 및 염장 수산물 요리 지역별 해산물 조리법 7. 세계 전통 발효음식 경연 오랜 세월 이어져 온... 인도 전통 수프 유럽 전통 수프 중남미 전통 수프 지역별 육수와 향신료 활용법 9. 세계 전통 간식·길거리 음식 경연 일상생활과 시장... 중국 전통 간식 일본 전통 간식 인도 길거리 음식 태국 길거리 음식 중동 전통 간식",
+   "url": "https://cafe.naver.com/wfoodcafe/40?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indmb29kY2FmZSIsImFydGljbGVJZCI6NDAsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc3fQ.R5KpkEVvRXZ_k8mrvH4YJ7KfgexM-kOBwBMzbDNse2Q&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "니기리즈시 마키즈시와 롤스시 치라시즈시 사시미 창의적인 스시 메뉴 생선 손질과 숙성기술 밥 짓기와 초밥 배합기술 식재료의 신선도와 음식 구성 ※ 수산물의 위생과 기생충 예방 등 식품 안전 기준을... 새로운 일식 메뉴 개발 일본 음식의 전통과 조리기술을 바탕으로 세계 시장에서 경쟁할 수 있는 새로운 메뉴를 개발합니다. 새로운 스시와 롤 메뉴 새로운 라멘과 ",
+   "url": "https://cafe.naver.com/wfoodcafe/38?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indmb29kY2FmZSIsImFydGljbGVJZCI6MzgsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc3fQ.YGtmyJW_p95ATnKl61fRopB3r8tvM_y8LEXb2v-o2c8&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "중앙행정기관 등의 이전계획 변경안 확정 고시 - 31 개 기관 5,460 명 2031 년까지 세종으로 , 22 개 기관은 2027 년 먼저 이전 - 법령 개정 필요 13 개 기관은 추가 고시 행 정안전부 ( 장관 윤호중 ) 는 11 월 24 일 ( 화 ) ｢ 중앙행정기관 등의 이전계획 변경 ｣ 을 고시하고 , 31 개... KOREA.KR / 행정안전부20",
+   "url": "https://cafe.naver.com/jungamironware/21753?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTc1MywiaXNzdWVkQXQiOjE3OTU2MTExNTQwNzd9.usZEbXtgbdUKmVrTVClcGR6LuAafVq0TlIw5qWBXvNg&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "연구자 전통 발효기술을 조사하고 현대적인 식품 제조기술과 결합하는 방법을 연구합니다. 8. 식재료 및 농수산물 전문가 연구 좋은 음식은 좋은 식재료에서 시작됩니다. 농산물 전문가 과일 및 채소 전문가... 식품 제조 전문가 가공식품 개발 전문가 간편식 개발 전문가 밀키트 개발 전문가 소스 및 조미료 개발 전문가 포장기술 전문가 식품 품질관리 전문가 식품 유",
+   "url": "https://cafe.naver.com/wfoodcafe/33?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indmb29kY2FmZSIsImFydGljbGVJZCI6MzMsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc3fQ.PcwroB5BmBXUl9wpQKuHdLmKnI8pex7QrvYZcwpxWTI&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "지역 특산물과 전통 농산물, 새로운 품종, 향신료, 해산물, 발효식품 등은 새로운 음식 개발의 중요한 자원이 될 수 있습니다. 식재료... 4. 수산물 및 해산물 연구 세계의 바다와 강, 호수에는 다양한 수산자원이 존재합니다. 참치와 연어, 고등어 새우와 게, 조개 오징어와 문어... 식재료 연구의 최종 목표 식재료 발굴 → 특성 연구 → 조합 실험 → 조",
+   "url": "https://cafe.naver.com/wfoodcafe/30?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indmb29kY2FmZSIsImFydGljbGVJZCI6MzAsImlzc3VlZEF0IjoxNzk1NjExMTU0MDc3fQ.tZRybxICmgDc92h1VJRyXv7dhVuNyH_kVFbMaXoweUo&q=%ec%a0%84%ed%86%b5%ec%8b%9c%ec%9e%a5%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ed%99%98%ea%b8%89&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "전통시장 수산물 환급",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "신청 조건 및 모집 상태 / 공식 신청 홈페이지 연결 전국 워케이션 지원사업을 조건별로 비교할 수 있는 검색 화면... 워케이션 참여 및 이용 조건 충족: 지정 업무공간 이용, QR 출석 체크, 이용 후 증빙자료 제출 등 조건 준수 2026년 11월 중순... 처음에는 2박 9,900원이라는 가격에 관심이 컸지만, 3인 가족이 함께 이용하기에는 방 최대 인",
+   "url": "https://blog.naver.com/kimlifelab/224477800233",
+   "engine": "naver_all",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "2027학년도 유치원 일반모집 결과는 11월 26일(목) 오후 3시에 나옵니다. 유보통합포털의 ‘유치원입학’에 로그인하면... 대기 앞 순번에서 포기나 미등록이 생기면 순번이 바뀌고, 빈자리가 나면 추가로 선발될 수 있습니다. 추첨제외 상위... 일반모집에 지원한 유치원의 대기는 기존 순번을 기다리는 절차이고, 추가모집은 모집 공고가 올라온 유치원에 새로.",
+   "url": "https://blog.naver.com/miraeeum/224492090308",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "사회활동 지원사업은 65세 이상이 대상이에요. 일부 사업은 60세 이상도 참여할 수 있어요. 1) 노인공익활동사업: 65세... 세계일보 2026-10-28 보도에 따르면 2026년 사업 전국 집중모집은 2025.11.28~12.26이었어요. 공익활동·역량활용·공동체사업단... 이웃추가하시면 새 정보를 가장 먼저 받아보실 수 있어요 :) ※ 본문 이미지는 ",
+   "url": "https://blog.naver.com/basketman54/224492084979",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "또한 경비신청은 한 번만 가능하며, 정산 완료 후에는 영수증을 추가하거나 수정할 수 없어요. 2026년 상반기 거창반값여행... 원까지 지원받을 수 있다는 점이 매력적이에요. 11월 27일 금요일 오전 10시부터 3차 사전접수가 시작되니 겨울 거창여행을 계획하고 계신다면 여행 날짜와 환급 조건부터 확인하세요. 출처 : 거창반값여행 공식 홈페이지, 거창군 3",
+   "url": "https://blog.naver.com/nanviolet-info/224492040033",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "2026.11.23(월) 17:30 ~ 2026.12.06(일) 23:00 접수 방법 한화그룹 채용홈페이지 온라인 접수 모집 분야 시설/공사관리 (0명) 근무지 서울 (세부 근무지: 상세 채용 페이지에서 직접 확인이 필요합니다.) 지원 자격 • 대형시설·공사 프로젝트 수행/관리... 입사지원서 (추가 서류: 표시불가 - 상세 채용 페이지에서 직접 확인이 필",
+   "url": "https://blog.naver.com/bklove1117/224489855916",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "SK온이 대전에서 배터리 셀 평가를 보조할 기술직 신입을 모집합니다. 고졸 이상 지원 가능한 계약직 채용으로 접수는 11월 29일 23시 59분까지입니다. 배터리 시험·계측 장비·데이터... SK Careers 채용 홈페이지에서 온라인으로 지원하세요. 개별 이메일 등 별도 접수는 받지 않으며 마감 이후 추가 등록과 수정이 불가합니다. 지원서와 자격사항을 점",
+   "url": "https://blog.naver.com/mywon0712/224491204307",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "정시 배치표와 대학별 모집요강을 나란히 놓고 보면 수능 점수 합계만으로 지원 대학을 정하기에는 따져 볼 부분이 많다는 것을 알수 있습니다. 2027학년도 수능은 11월 19일에 치러졌고, 정답은 12월 1일에 확정되며 성적 발표는 12월 11일입니다.... 안정 지원도 합격을 보장하지는 않습니다. 또 수시모집에 합격했다면 등록 여부와 관계없이 정시와 추가모",
+   "url": "https://blog.naver.com/gyoil/224492079652",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "신입 지원 가능 학력 : 무관 근무 지역 : 대전 롯데대전점, DCC점, 케익부띠끄 본점 근무시간 : 주 5일, 주말 포함 근무. 하루 8시간에 연장근로 별도 급여 : 면접 후 결정 접수 기간 : 2026년 11월 18일 09시 ~ 11월 30일 17시 생산팀은 주 12시간, 영업팀은 주 7시간의 연장근로가 공고에 안내되어 있습니다. ㅡ 모집 직무 롯데대전",
+   "url": "https://blog.naver.com/gurwls610/224492078380",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "정시컨설팅 정시원서접수 정시원서접수기간 입시컨설팅 정시수능성적표 안녕하세요 지난 11월 19일 2027학년도... 수험생들의 지원 심리, 신설 모집단위, 추가합격 흐름, 학생의 진로 적합성까지 종합적으로 고려한다는 점이 인상적이었어요... 12월 11일 통지될 예정으로 성적표는 성적 발표 이후 제출하면 되는데요~ 성적이 발표된 이후에야 부랴부랴 정시컨설팅을",
+   "url": "https://blog.naver.com/yyiyuhyun/224492077294",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "제조업 대표님이라면 12월 7일 접수가 시작되는 2027년 스마트공장 구축 지원을 먼저 보셔야 합니다. 이 밖에도 해외... · 무엇을: 센터 펀드로 2~3억 직접 투자, 팁스 추천, 후속 투자·보증기관 대출 연결 · 언제: 11월 23일 ~ 12월 11일 · 어디서... · 얼마나: 기업당 연 최대 2천만원, 드는 비용의 60% · 언제: 예산이 떨어질 ",
+   "url": "https://blog.naver.com/needspartners_needs/224492075163",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "특히 2027년 사업은 현재 예산안이 공개된 단계와 실제 모집 공고가 발표된 단계를 구분해서 살펴봐야 합니다. 이번 글에서는 2026년 11월 25일 기준으로 발표된 정부 공식 자료를 바탕으로 청년, 근로자, 소상공인·개인사업자가 살펴볼 주요 지원사업과 신청방법을 정리했습니다. 1. 2027년 정부지원금, 지금 신청할 수 있을까? 먼저 2027년 정부지원금",
+   "url": "https://blog.naver.com/nirbana-/224492072775",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "공고 기본정보 구분 내용 공고명 2026년 서울특별시 영구임대주택 예비입주자 모집 공고일 2026.11.19.(목) 모집 단지 중랑구 양원S1, 동작구 대방, 금천구 독산13 (총 3개 단지... 피해자, 지원대상 한부모가족)입니다. '수급자 외'는 같은 별표 나목, 마목~자목에 해당하는 사람(국가유공자, 장애인, 아동복지시설 퇴소자 등 전년도 도시근로자.",
+   "url": "https://blog.naver.com/tzarddogi/224492072002",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "구분 모집인원 수시 실기형 24명 수시 특기형 2명 수시 합계 26명 정시 기본 모집인원 없음 정시 추가 선발 수시 미등록... 2026년 11월 25일 현재 정시 연기전공의 실제 선발인원은 확정되지 않았습니다. 또한 수시 특기형은 연기 활동 경력 등... ──────────── 정시 지원자는 언제 모집 여부를 확인해야 할까? 2027학년도 중앙대학교 정시",
+   "url": "https://blog.naver.com/hugstore365/224491629222",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "발굴 ■ 지원 자격 - 국민 누구나 ■ 모집 기간 - 2026.11.23.(월) ~ 2026.12.10.(목) 24:00 ■ 지원 방법 - 국토안전 빅데이터 플랫폼에서 온라인 접수 - 참여소통 → 공모전... 추가로 11.30.(월)까지 '국토안전 빅데이터 플랫폼'에서 '공공데이터 이용 활성화를 위한 설문조사'가 진행중이므로 많은 관심 부탁드립니다! ■ 문",
+   "url": "https://blog.naver.com/dlfrhqcjstk1/224491813504",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "원주시는 2026년 11월 24일 「2027년 원주시 노인일자리 및 사회활동 지원사업 참여자 모집」 공고를 발표했습니다. 이번 모집은 어르신들의 사회참여 기회를 확대하고 소득 지원과... 2027년 모집공고에 안내된 활동조건은 다음과 같습니다. - 하루 활동시간: 3시간 - 주간 활동일정: 주 3회 기준 - 월 활동시간: 30시간 - 월 활동비: 29만 원",
+   "url": "https://blog.naver.com/moneynote_fit/224492012702",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "선발·대기·추첨제외의 의미부터 등록 기한, 대기번호, 추가모집까지 정리했습니다. 일반모집 결과는 언제 확인할까요? 2027학년도 유치원 일반모집 결과는 2026년 11월 26일 목요일... kr 자료 확인일: 2026년 11월 25일 ※ 유치원별 운영사항은 차이가 있을 수 있으므로 지원한 유치원의 모집요강을 함께 확인하시기 바랍니다. #2027유치원일반모집",
+   "url": "https://blog.naver.com/jinsil0731/224492068425",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "hwpx 첨부파일 2027년 청년어촌정착지원 사업 대상자 모집 공고문.hwpx 신청기간 2026.11.25 ~ 2026.12.09 사업개요 창업 초기 청년 수산업 경영인의 안정적인 어촌 정착을 지원하여 어촌... 간 지원 중단 * 재해보험가입 예상금액이 3개월 간 지원 금액을 초과할 때는 초과금액 만큼 추가로 지원 중단 수산업경영 계획 이행 사전승인 없이 ",
+   "url": "https://blog.naver.com/commainvest/224492066696",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "10일과 11일에는 출생연도와 관계없이 접수할 수 있습니다. ※ 위 일정은 2026년 11월 25일 기준으로 확인한 모집 공고입니다. 이후 추가로 발표되는 지자체 및 수행기관 안내에 따라 신청 기간과 세부 조건이 달라질 수 있습니다. 같은... 신청 기간을 놓쳤다면 해당 수행기관에 추가 모집이나 결원 충원 계획이 있는지 문의해 보세요. 다만 추가 모집이 반",
+   "url": "https://blog.naver.com/day_by_day42/224492066674",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "비트코인 현물 ETF 도입과 기관투자자의 참여 확대 등이 시장 구조 변화에 영향을 미쳤을 가능성은 있지만, 과거와 같은 큰 폭의 추가 하락이 발생하지 않는다고 단정할 수는 없습니다. 한편 11월 20일에는 금과 비트코인, 나스닥 선물의 3일봉 RSI가 동시에 30 미만으로 내려갔다는 분석도 발표됐습니다. 그레이스케일 역시 하락 위험에 대비하려는 옵션 수요와",
+   "url": "https://blog.naver.com/whodad2/224492067051",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "2027학년도 대학수학능력시험 성적 통지일은 2026년 12월 11일(금)이며, 확정 등급컷과 공식 성적은 이날 성적 통지와 함께 공개됩니다. 시험 직후 확인하는 입시기관 가채점 등급컷은... 반대로 수시 전형에 합격한 뒤 등록을 마친 수험생은 충원 합격 여부와 관계없이 정시 모집 및 추가모집에 지원할 수 없으므로 등록 여부를 신중히 결정해야 합니다. 정시",
+   "url": "https://blog.naver.com/taste_editor/224492063626",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "2026년 11월 18일 저녁, 미국 금융가의 시선이 샌프란시스코의 한 인공지능 기업에 쏠렸다. 챗봇 클로드(Claude)를 만든... 이틀 뒤 주관사의 추가 매입 선택권 행사까지 반영한 최종 공모액은 935억 달러로, 동시 사모 발행을 합친 총액은 1... 강력한 모집 창구가 되었고, 2013년 베이 에어리어의 정신과 의사 스콧 알렉산더(Scott Ale",
+   "url": "https://blog.naver.com/simula/224492063004",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "전체일정 한 눈에 보기 구분 일정 수시 2차 원서 접수 2026년 11월 11일(수) ~ 11월 25일(수) 면접·실기 대학별로 다름 수능... 합격(추가 합격)입니다. 4년제와 전문대의 충원 일정 차이 구분 4년제 전문대 최초 합격자 발표 12월 18일(금) 까지 12월... 정시모집에 지원할 수 없어요. 12월 31일에 충원 합격 연락을 받으면, 등록하",
+   "url": "https://blog.naver.com/mssm5759/224492061858",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "안정 지원을 조합하는 것이 중요해요. 이지수능교육 정시컨설팅은 1:1 전담 컨설턴트 배정부터 최초합격과 추가합격... 12월 11일 통지 예정으로, 성적 발표 이후 관련 자료를 제출하면 돼요. 이후 지원 희망 대학과 전공, 입시 데이터를 사전에 종합적으로 분석한 뒤 1:1 맞춤 컨설팅을 진행한다고 합니다. 2027 정시컨설팅 상담 일정 및 신청 방법 모집 ",
+   "url": "https://blog.naver.com/tim0510/224492061724",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "네, 농어촌 전형도 결국 일반편입 지원자격이 있어야 하는데요 그 위에 6년 또는 12년 농어촌 거주·재학 요건을 추가로 갖춰야 지원이 가능합니다 아래 표를 보시면 2026학년도 농어촌 편입은 11명 모집에 83명이 지원해 7.55:1이었어요 일반편입보다 경쟁률이 낮은 편이라 해당되시는 분은 노려볼 만하죠 단, 검정고시나 학력인정 평생교육시설 출신은 농어촌 ",
+   "url": "https://blog.naver.com/jimmy_gul/224491557857",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "11월 27일(금) 이후로 보면 협의할 수 있는 평일은 11월 30일(월), 12월 1일(화), 12월 2일(수) 사흘이에요. 이어서 읽기 참여 공연장 11곳 참여 공연장은 9개 운영기관의 11개 공연장이에요. 매칭을 바라는 장르 순위와 협력 범위가 공연장마다 달라요. 부평아트센터는 연습·사무공간, 무대 기술 인력, 행정 인력, 홍보 지원이 모두 가능으로 ",
+   "url": "https://blog.naver.com/with_art_official/224490524516",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "충남 모집 지원 자격과 내신성적 산출 방법을 우선 확인하시기 바랍니다. 2027학년도 신입생 입학전형 일정 구분 전형 일정 내신성적 산출 기준일 2026년 11월 30일(월) 원서 교부 및 접수 2026년 12월 9일(수)~10일(목) 전형 기간 2026년 12월 11일(금)~14일(월) 합격자 발표 2026년 12월 15일(화) 오전 10시 예비소집 20",
+   "url": "https://blog.naver.com/trip777/224492060539",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "지원하는 보조금입니다. 기본형 공익직불금은 일반적으로 농지와 농업인에 대한 자격 심사 및 준수사항 점검을 거쳐 11... 일부를 지원하는 사업입니다. 특히 2027년 유기질비료 지원사업은 기존과 달리 본 신청 기간이 2026년 6~7월로 앞당겨졌으며, 현재 지역별로 추가 및 변경 신청이 진행되고 있습니다. ① 지역별 추가 및 변경 신청 기간 ✔ 경주시 : ",
+   "url": "https://blog.naver.com/gmlwk5271/224492058612",
+   "engine": "naver_blog",
+   "query": "워케이션 지원 추가모집 11월",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "특히 세종은 세종전통시장에서 농축산물과 수산물 환급행사를 함께 진행해서 조건을 각각 충족하면 최대 4만 원까지 받을 수 있다는 점이 눈에 띄더라고요. 반면 대전은 공식 환급행사 일정과 기준은 발표됐지만, 제가 확인한 현재 대전시 공식 안내에는 시장별 전체 참여 명단이 따로 적혀 있지 않았습니다. 어디에서 얼마나 구매해야 받을 수 있는지, 방문 전에... 새",
+   "url": "https://blog.naver.com/heeya_dream/224411861135",
+   "engine": "naver_all",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "대전·충남·충북 9월 14일 오후 4시 부산·울산·광주·전남 9월 15일 오후 2시 경남·경북 9월 15일 오후 4시 강원·세종... 대상 시장인지 확인하고, 농할상품권을 이용할 생각이라면 지역별 발행 일정까지 미리 체크해두면 좋을 것 같아요. 특히... 농축산물할인 #수산물할인 #온누리상품권 #온누리상품권환급 #전통시장환급 #농할상품권 #대한민국수산대전 ",
+   "url": "https://blog.naver.com/euneun_pick/224410339482",
+   "engine": "naver_all",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "참여 전통시장의 행사 점포에서 대상 수산물을 구매한 뒤 영수증을 가지고 시장 안에 마련된 환급소를 방문하면 됩니다. 환급 기준은 다음과 같습니다. 3만 4천 원 이상 6만 7천 원 미만... ① 대한민국 수산대전 공식 누리집에서 참여 판매처 확인 ② 구입할 수산물이 할인 또는 환급 대상인지 확인 ③ 전통시장에서는 환급소 위치와 운영시간 먼저 확인 ④ 행사 ",
+   "url": "https://blog.naver.com/everydayvalue/224408136436",
+   "engine": "naver_all",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "이 글은 해양수산부의 국산 수산물 환급 행사 안내이며 농축산물 행사·상품권 충전 할인과는 구분합니다. 전통... 참여시장·대상 품목·영수증과 운영시간부터 확인해 보세요. 행사 기간만 알아두는 것보다 계산 전에 한 번 물어보는 것이 더 실용적입니다. #추석수산물환급 #온누리상품권환급 #2026추석 #대한민국수산대전 #전통시장 #국산수산물 #추석장보기... 새",
+   "url": "https://blog.naver.com/coolcool_1206/224413958914",
+   "engine": "naver_all",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "2시 세종 — 9월 16일 오후 2시 부산 — 9월 15일 오후 2시 울산 — 9월 15일 오후 2시 광주·전남 — 9월 15일 오후 2시 경남... 환급 수산물 → 수산대전 최대 50% → 전통시장 환급 최대 30% → 환급 한도 1인 최대 2만 원 이번 추석에는 장보기 전에 내 지역 일정부터 확인해두는 게 좋겠습니다. 여러분이라면 20% 농할상품권부터 ",
+   "url": "https://blog.naver.com/hskk102/224405923530",
+   "engine": "naver_all",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "행사 참여 전통시장에서 국내산 수산물을 구매하고, 3만4천 원 이상이면 1만 원, 6만7천 원 이상이면 2만 원을 환급받는 방식입니다. 다만 전체 기간만 보고 방문하면 안 돼요. 시장별 일정과 운영 시간, 휴무일이 다르고 예산이 소진되면 조기 종료될 수 있습니다. 장을 보기 전 대한민국 수산대전 홈페이지에서 참여 시장을 검색하고, 영수증과 신분증까지 챙겨야",
+   "url": "https://blog.naver.com/songym0528/224410814381",
+   "engine": "naver_all",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "4(일) 참여 마트·쇼핑몰 최대 할인 전통시장 온누리상품권 환급 9.16(수) ~ 9.20(일) 최대 30% 환급, 1인 2만원 한도 수산대전 모바일상품권 9.3(목) ~ 10.1(목) 20% 선할인, 매주 목 오전10시·오후4시 발행 정부비축 수산물 방출 8.24(월) ~ 9.27(일) 최대... 소래포구전통어시장, 소래포구종합어시장, 부평종합시장, 부평",
+   "url": "https://blog.naver.com/loved01/224414363031",
+   "engine": "naver_all",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "한눈에 정리하면 대한민국 수산대전 추석특별전 9월 9일~10월 4일 / 전국 56개 마트·온라인몰 / 최대 50% 할인 전통시장 온누리상품권 환급 9월 16~20일 / 전국 약 300개 시장 / 국산 수산물 구매금액 최대 30% / 1인 최대 2만원 수산물 전용 모바일상품권 9월 3일~10월 1일 / 매주 목요일 오전 10시·오후 4시 / 최대 20% 선할",
+   "url": "https://blog.naver.com/ngyljm/224409712690",
+   "engine": "naver_all",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "추석을 앞두고 전통시장에서 생선이나 건어물 들을 살 계획이라면 온누리상품권 환급 행사부터 확인해 보세요. 2026년 9월 16일부터... 위해 수산물을 구매할 예정이었다면 꽤 실용적인 혜택이라고 생각합니다. 다만 환급금액을 맞추려고 필요하지 않은 물건까지 더 사기보다는 살 품목을 먼저 정해두는 것이 좋겠습니다. 시장에 출발하기 전에는 대한민국 수산대전...",
+   "url": "https://blog.naver.com/everyday_on_/224414861320",
+   "engine": "naver_all",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "안면도수산시장 버스터미널 바로 옆! 접근성 최고의 현대화 수산시장 안면도수산시장은 오랜 전통을 지닌 안면도... 안면도수산시장에서 싱싱한 수산물과 10월 31일 온누리상품권 환급 혜택까지 꼭 누려보세요! 앞으로도 소상공인시장진흥공단 대전세종충남지역본부가 전해드릴 태안 전통시장 및 상점가 이야기 시리즈도 많은 기대 부탁드립니다! ❤️ ※ 본... 새 창 열림",
+   "url": "https://blog.naver.com/marketagency/224457625845",
+   "engine": "naver_all",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "9월에는 농축산물 할인부터 수산물 할인까지 여러 행사가 이어지고, 여기에 농할상품권과 전통시장 환급행사도 따로... 그리고 9월 9일부터 수산대전 행사상품을 확인합니다. 농축산물을 구매할 예정이라면 농할상품권 발행 일정도 확인합니다. 경기도라면 9월 16일 오후 4시가 중요한 시점입니다. 전통시장을 이용할 수 있다면 9월 16일부터 20일까지 진행되는 환급",
+   "url": "https://blog.naver.com/hjsy7777/224405386383",
+   "engine": "naver_all",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "전통시장 환급과 헷갈리는 점 대한민국 수산대전은 수산물 구매금액을 깎아 주는 행사입니다. 전통시장에서는 제로페이 앱으로 할인된 금액으로 수산물을 살 수 있게 돕습니다. 소비자는 제로페이로 할인된 온라인 상품권을 사서 시장 안 제로페이 가맹 수산매장에서 씁니다.... 새 창 열림",
+   "url": "https://blog.naver.com/stimulating/224468886378",
+   "engine": "naver_all",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
+  {
+   "title": "먼저, 장볼 장소부터 고르세요 마트·온라인을 이용한다면 행사 상품의 최종 결제액을, 전통시장에 간다면 참여 시장과 환급 일정을 먼저 확인하세요. 상품권은 실제로 사용할 매장을 찾은 뒤 구매하는 편이 합리적입니다. 1. 추석 수산물... [공식 안내] 출발 전: 대한민국 수산대전의 온누리상품권 안내에서 방문할 시장의 참여 여부를 확인합니다. 물건을 고를 때:",
+   "url": "https://blog.naver.com/jaehyun_daegu/224405858110",
+   "engine": "naver_all",
+   "query": "대전 세종 충남 전통시장 수산물 환급 일정",
+   "first_seen": "2026-11-25T21:41:09+09:00"
+  },
   {
    "title": "9km, 9시간반 소요) - 시점 : 세한대학교 영암캠퍼스 (대불교차로, 영암군 삼호읍 산호리 105-12) - 17, 18코스 분기점 : 목포지방해양수산청 (목포시 옥암동) - 종점 : 용해동주민센터... 영암군과 충남 당진시에 위치한 4년제 사립 종합대학으로, 목포과학대학교를 경영하고 있던 1994년 3월 학교법인 영신학원이 대불공과대학으로 개교했고, ",
    "url": "https://blog.naver.com/unna33/224491941111",
@@ -20452,640 +21082,11 @@
    "engine": "naver_cafe",
    "query": "수산대전 김장 페스타 쿠폰 온라인몰",
    "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "수산대전-코리아 수산 페스타'가 11월 29일(일)까지 이어집니다. 해양수산부가 10월 28일부터 진행 중인 행사로, 마트와 온라인몰에서... ■ 무엇이 싸지나 · 김장 재료: 천일염, 새우젓, 멸치액젓, 굴 · 생선: 고등어, 오징어, 갈치, 마른 멸치, 마른김 · 양식: 흰다리새우... · 1인 1만 원 한도는 매장·온라인몰마다 적용 방식이 달라 결제 ",
-   "url": "https://cafe.naver.com/aipromptlab26/475?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFpcHJvbXB0bGFiMjYiLCJhcnRpY2xlSWQiOjQ3NSwiaXNzdWVkQXQiOjE3OTU1Mjk1ODI5ODJ9.kqKzf_BZ5fzomkge-NySrXODOgQPE3YmMCjb9f3v1ZI&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84%20%ea%b9%80%ec%9e%a5%20%ed%8e%98%ec%8a%a4%ed%83%80%20%ec%bf%a0%ed%8f%b0%20%ec%98%a8%eb%9d%bc%ec%9d%b8%eb%aa%b0&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "수산대전 김장 페스타 쿠폰 온라인몰",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "참여 온라인몰: 컬리, 쿠팡, SSG닷컴, 11번가, 지마켓, 옥션, 농협몰, 수협쇼핑, 우체국쇼핑, 지자체 공식 농특산물 쇼핑몰 등. 할인 받는 방법: 각 쇼핑몰의 ‘농할갑시다(농축산물 할인지원)’ 또는 ‘대한민국 수산대전(김장특별전)’ 기획전 페이지에서 전용 20% 할인쿠폰을 다운로드한 뒤 결제 단계에서 쿠폰을 적용합니다. (주간 1인당 최대 1만 원–",
-   "url": "https://cafe.naver.com/bosiking/1234?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvc2lraW5nIiwiYXJ0aWNsZUlkIjoxMjM0LCJpc3N1ZWRBdCI6MTc5NTUyOTU4Mjk4Mn0.i_VuKthl9cWVLmCdiWPkHkOaKaykevHp2DEkkJNHcZg&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84%20%ea%b9%80%ec%9e%a5%20%ed%8e%98%ec%8a%a4%ed%83%80%20%ec%bf%a0%ed%8f%b0%20%ec%98%a8%eb%9d%bc%ec%9d%b8%eb%aa%b0&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "수산대전 김장 페스타 쿠폰 온라인몰",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "장관은 \"김장 재료인 소금과 젓갈을 저렴하게 살 수 있도록 유통업계와 함께 할인 행사를 마련했다\"고 밝혔어요. ▎ 어떻게 받아요? · 확인 — 대한민국 수산대전 누리집(www.fsale.kr)에서 참여 업체별 일정과 할인 품목을 확인해요. · 구매 — 참여 매장이나 온라인몰에서 행사 품목을 골라요. 따로 신청서나 사전 예약은 필요 없어요. · 결제 — 할인",
-   "url": "https://cafe.naver.com/ipadyumyum/355161?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImlwYWR5dW15dW0iLCJhcnRpY2xlSWQiOjM1NTE2MSwiaXNzdWVkQXQiOjE3OTU1Mjk1ODI5ODJ9.4LyFJVnf86YTY3tQb_N0KVVEKxnK1ugQMK1Ht2zd99c&q=%ec%88%98%ec%82%b0%eb%8c%80%ec%a0%84%20%ea%b9%80%ec%9e%a5%20%ed%8e%98%ec%8a%a4%ed%83%80%20%ec%bf%a0%ed%8f%b0%20%ec%98%a8%eb%9d%bc%ec%9d%b8%eb%aa%b0&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "수산대전 김장 페스타 쿠폰 온라인몰",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "남은 한도 안에서 수강료에 필요한 금액을 충전해 쓰기 좋아요. #전주돼지카드 #전주사랑상품권 #돼지카드캐시백 #전주온누리상품권 #디지털온누리 전주모델학원 모델원 전주지점 온누리상품권 가맹점 월 수강료 35만 원·67만 원 얼마나 아낄 수 있나요? 모델원 아카데미 ★ 전주지점 월 수강료 평소 7% 할인 충전 시 특별행사 10% 할인 충전 시 35만 원 325",
-   "url": "https://blog.naver.com/hongca86/224490431974",
-   "engine": "naver_blog",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "사이트별 할인 기간, 그리고 결제 전 반드시 확인해야 할 면세한도와 통관 규정을 정리했습니다. 2026 블랙프라이데이... 사이버먼데이 주간: 노트북, 태블릿, PC 부품, 소프트웨어, 스마트폰 액세서리 등 IT·디지털 기기의 추가 할인율이... USD 등)로 결제해야 이중 환전 수수료(DCC)를 피할 수 있습니다. 또한 해외결제 수수료 면제 혜택이나 해외",
-   "url": "https://blog.naver.com/ficrunning/224490413525",
-   "engine": "naver_blog",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "아이허브 공식 홈페이지 바로가기 2026 알리익스프레스 블랙프라이데이 할인 할인코드와 코인 할인 활용하기 알리익스프레스는 디지털기기와 컴퓨터 주변기기, 생활용품 등을 비교하기 좋은 해외직구 플랫폼입니다. 블랙프라이데이 기간에는 상품별 할인과 프로모션 코드, 판매자 쿠폰, 결제수단 할인 등을 확인해 볼 수 있습니다. 구매 추천 품목으로는... 새 창 열림",
-   "url": "https://blog.naver.com/dkrudtjd11/224490210837",
-   "engine": "naver_blog",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "구체적인 월간 구매 한도와 할인율은 군위군청 예산 운용 상황에 따라 유동적으로 조정될 수 있으므로 공고문을 확인하는 습관이 필요합니다. 연말정산 소득공제 및 세제 혜택 일반... 전용 앱 설치 및 오프라인·온라인 충전 절차 군위군 지역화폐는 스마트폰 기반의 모바일·카드형 상품권('지역상품권 chak' 앱 연동)과 지류형 상품권 형태로 운영되어 연령대와 디지",
-   "url": "https://blog.naver.com/moonjy8732/224490168815",
-   "engine": "naver_blog",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "쿠팡 가전·디지털 행사만 11월 29일로 하루 빠릅니다. • 블랙프라이데이 당일은 11월 27일(금), 사이버먼데이는 11월... 할인 7% • 대상 카드 — 삼성·KB국민·롯데카드 • 기간 — 11.1 ~ 11.30, 50만 원 이상 결제 • 한도 — 횟수와 상관없이 월 누적 100만 원(카드 회원 기준) • 계산 기준 — 쿠폰·포인트를 제외한 최종 결제",
-   "url": "https://blog.naver.com/jojea6357/224490077405",
-   "engine": "naver_blog",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "수단 온누리상품권 이벤트로 지급된 디지털상품권은 사용 불가 창원사랑상품권 동백전 신세계백화점 상품권 롯데백화점 상품권 동백전은 안내 기준 10% 캐시백, 50만 원 한도로 기재되어 있어요. 카운터에서는 제로페이, 카카오페이, 동백전 QR 결제도 가능하다고 하니 참고하세요. ️ 부산 최대규모 창고형 수입그릇 할인매장, 오라컴퍼니 오라컴퍼니는 약 40여 개..",
-   "url": "https://blog.naver.com/dhkdlrnak/224488274090",
-   "engine": "naver_blog",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "심사 보류, 이번 달 충전도 막히는 걸까 이번에 결론이 미뤄진 건 국회 예산결산특별위원회 예산안조정소위의 2027년... 10%를 넘는 부분은 구매 때가 아니라 사용 후 캐시백으로 돌려주는 방식이 적용될 수 있습니다. 확정 전까지는 지자체... 지역사랑상품권할인율 #2027예산안 #지역화폐예산 #지역상품권chak #지역화폐충전한도 #인구감소지역 #온누리상품",
-   "url": "https://blog.naver.com/hunimo/224487927632",
-   "engine": "naver_blog",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "폭넓은 할인을 제공하며, W컨셉과 29CM는 디자이너 브랜드 및 감도 높은 라이프스타일 제품군의 특별 기획전과 추가 쿠폰... IT 가전 및 건강기능식품 전문몰 평소 가격대가 높아 구매를 망설였던 디지털 기기나 정기적으로 섭취하는 영양제도 이번... 행사 시작 전에 미리 로그인하여 장바구니에 상품을 담아두고, 보유한 신용카드의 해외 결제 캐시백이나 제휴 할",
-   "url": "https://blog.naver.com/skawaii/224489609448",
-   "engine": "naver_blog",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "11월 아큐브 오아시스 특별 혜택 ✔️ 행사 대상 : 오아시스 원데이 근시 / 난시 대용량 ✔️ 90P 2팩 구매 시 30P 1팩 증정... 인천e음카드로 결제하시고 알뜰하게 혜택 챙겨가세요 ※ 캐시백은 인천e음 정책 및 개인별 지급 한도에 따라 달라질 수 있습니다 다비치안경 인천주안점은 다양한 결제 수단 사용 가능! 카카오페이·제로페이·네이버페이는 물론!",
-   "url": "https://blog.naver.com/davichjuan3390/224489756167",
-   "engine": "naver_blog",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "✔ 쿠팡 가전·디지털 블프 11/16~29, 라이브는 11/23~27 ✔ 하이마트 블프 11/6~30 [보도 기준] ✔ 삼성 코리아 그랜드 페스티벌... 해외직구 특별단속도 하고 있어요. 국내 A/S가 되는지, 전압·리모컨 같은 건 공식 안내 원문을 못 찾아서 [확인 필요]로 둘게요. 판매처에 꼭 물어보세요! 참, 한전 복지할인을 받는 집이라면 고효율 가전",
-   "url": "https://blog.naver.com/daily_salimnote/224487137216",
-   "engine": "naver_blog",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "울산 범서, 무거, 천상 지역에 거주하시는 우리 이웃 고객님들을 위해 11월 한 달간 진행되는 아주 특별한 혜택 두... 파격 할인 혜택이 제공됩니다. 구매 금액대별 사은품 & 캐시백: 결제 금액에 따라 꼭 필요한 최고급 주방용품 사은품과... PLUX 디지털 LED 체중계: 9,900원 (37% OFF) 버뮤다 3L 초음파 가습기: 19,900원 (33%",
-   "url": "https://blog.naver.com/himartulsan/224489724938",
-   "engine": "naver_blog",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "쓰는 '디지털 온누리상품권(카드형)' 등록 및 결제 방법을 정리했습니다. 디지털 온누리상품권 앱에 평소 사용하는 신용카드나... 카드형 온누리상품권으로 돌려도 한 달에 수만 원의 생활비를 손쉽게 아낄 수 있습니다. 오늘 점심 식사 전 앱에서 자주 가는 식당이 가맹점으로 등록되어 있는지 먼저 조회해 보시기 바랍니다. ※ 상품권 월별 구매 한도 및 특별 할인(",
-   "url": "https://blog.naver.com/rlacndwjd/224488026760",
-   "engine": "naver_blog",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "서울특별시 금천구 주민이나 가산디지털단지·독산·시흥 일대로 출퇴근하는 직장인이라면 금천 사랑 상품권을 챙기는 것이... 일반적으로 액면가 대비 5%에서 최대 7% 수준의 기본 할인율이 적용되며, 지역 소비 진작을 위한 특별 프로모션 기간에는 결제 금액의 일부를 돌려주는 페이백 이벤트가 함께 진행되기도 합니다. 구체적인 할인율과 월간 구매 한도는 서울시 및.",
-   "url": "https://blog.naver.com/moonjy8732/224489622226",
-   "engine": "naver_blog",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "특히 서울특별시 구로구에 거주하거나 구로디지털단지·신도림·가산 인접 권역으로 출퇴근하는 직장인이라면 구로 사랑... 일반적으로 액면가 대비 5%에서 최대 7% 수준의 기본 할인율이 적용되며, 지역 소비 진작을 위한 특별 프로모션 기간에는 결제 금액의 일부를 돌려주는 페이백 이벤트가 함께 진행되기도 합니다. 구체적인 할인율과 월간 구매 한도는 서울시 및 정부",
-   "url": "https://blog.naver.com/moonjy8732/224489618385",
-   "engine": "naver_blog",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "갤럭시할인 #온누리상품권 #삼성행사 #삼성이벤트 #갤럭시이벤트 #상품권 #페이백 #당일지급 #갤럭시S24 #갤럭시S24플러스... 통신시장유통질서건전화 기준에 맞춰 작성되었습니다 필수가 아닌 선택사항입니다!! SK (109,000 요금제 기준)베스트109... 위 상품 가입 필수 의무사항이 아니며 선택 가입 가능합니다 통신사 할부진행 시 할부이자 24개월 ",
-   "url": "https://cafe.naver.com/010freebaram/266421?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjAxMGZyZWViYXJhbSIsImFydGljbGVJZCI6MjY2NDIxLCJpc3N1ZWRBdCI6MTc5NTUyOTc2OTc0MH0.--9P_Eor_k8IKkpNlaSCxKE-5f6N1OSYggWLU8hPQWU&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "기부금액별 혜택 - 10만원 기부: 세액공제 10만원 + 답례품 최대 3만원 - 20만원 기부: 세액공제 14만4천원 + 답례품 최대 6만원 - 10만원 초과~20만원 이하: 초과분 44% 세액공제 - 20만원 초과: 일반 지자체 초과분 16.5% 세액공제 - 특별재난지역: 정해진 요건 충족 시 20만원 초과분 33% 세액공제 답례품은 쌀, 과일, 한우, ",
-   "url": "https://cafe.naver.com/newsrichplace/59?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5ld3NyaWNocGxhY2UiLCJhcnRpY2xlSWQiOjU5LCJpc3N1ZWRBdCI6MTc5NTUyOTc2OTc0MH0.jS47V0zL_fSAjn5TKfa_g6565Uma4DRl-XuK6YqYZvk&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "기존에는 청소년이 버스를 이용한 뒤 차액을 돌려받는 사후 환급 방식을 적용했지만, 2027년부터는 버스를 이용하는 현장에서 곧바로... 역사문화공간과 문화행사, 체육공원 등을 조성하는 사업에서부터 학교급식과 과학교육, 지역 인재 육성까지 문화와 교육 환경을 함께 높이는 데 초점을 맞췄다. 선택과 집중으로 시민 일상 보호 최정호 익산시장은 어려운 재정 여건에",
-   "url": "https://cafe.naver.com/jeonbukzine/1144?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Implb25idWt6aW5lIiwiYXJ0aWNsZUlkIjoxMTQ0LCJpc3N1ZWRBdCI6MTc5NTUyOTc2OTc0MX0.a5_NBYKY6f2TNRtVgDiroJL46wD26xd9vjhBnFjg7nA&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "정부와 소상공인시장진흥공단은 명절이나 소비 진작 행사 기간에 맞춰 디지털 온누리상품권 할인율을 상향하거나 추가 환급 이벤트를 한시적으로 운영합니다. 특별 할인 한도는 평소 일반 한도와 별도로 책정되는 경우가 많고 선착순 예산이 소진되면 공고 기간 전이라도 조기 종료되므로, 행사 시작 전에 앱 회원가입과 계좌 등록을 미리 끝내 두고 알림 설정을 켜 두어야 원",
-   "url": "https://cafe.naver.com/checknews/454?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNoZWNrbmV3cyIsImFydGljbGVJZCI6NDU0LCJpc3N1ZWRBdCI6MTc5NTUyOTc2OTc0MX0.fkisV0XvlqQvPb3VdCHxA2ABQxsdZWdZxPaX9djkpn0&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "ㆍ경품번호ㆍ 홈페이지 11-25-002 ㆍ주최회사ㆍ경기관광공사 ㆍ응모형태ㆍ퀴즈/퍼즐 ㆍ경품내역ㆍ피자 상품권 외 300명 ㆍ응모기간ㆍ11-05~11-19 (11-25) ㆍ응모주소ㆍ메인페이지 | 이벤트주소... - 50명 ㆍ응모기간ㆍ11-17~11-23 (11-25) ㆍ응모주소ㆍ메인페이지 | 이벤트주소 ● [어식백세] 수산물 가로세로퀴즈 풀고 굿즈 받자 이벤트",
-   "url": "https://cafe.naver.com/koreagift/31638?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtvcmVhZ2lmdCIsImFydGljbGVJZCI6MzE2MzgsImlzc3VlZEF0IjoxNzk1NTI5NzY5NzQxfQ.Ai6GfCsD0PhpFCS08jwkMAKoNKtVlEqctGUgKNm2-Yg&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "하나ON 청년ON 대인예술야시장 11월 28일(토) 행사 안내 한해동안 많은 사랑을 받았던 대인예술야시장이 올해 마지막 앵콜 운영을... AR 몬스터를 잡고 청년상인 굿즈와 온누리상품권 경품에 도전하세요. ✔ 18:00~20:00 · 무료 참여 · 선착순 50명 ✔ 게임존｜팀 치카치카... ✔ 전시｜11.28 ✔ 외국인 방문객은 'QR로 만나는 AI 다국어",
-   "url": "https://cafe.naver.com/woodongfreemarket/18272?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indvb2RvbmdmcmVlbWFya2V0IiwiYXJ0aWNsZUlkIjoxODI3MiwiaXNzdWVkQXQiOjE3OTU1Mjk3Njk3NDF9.P4B3wP9yHroO75rxNm-ZfVFjWw16h_5-hEFa2P4FR00&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "(135명) : 시장 상품권 5,000원 *5등 (180명) : 장바구니 *6등 (567명) : 핫팩 (1일 300명 선착순 / 1인 1일 1회 한정) *기간: 12월 4일 (금)~12월 6일(일) 3일간 *시간 : 오전 11시~ 오후 4시 *장소 : 목단연립 포토존 앞 ※ 소진 시 조기 마감됩니다! 이벤트 둘! 경기도 통큰세일은 수원페이로 결제하고 금액구",
-   "url": "https://cafe.naver.com/ratmsoo82/220072?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJhdG1zb284MiIsImFydGljbGVJZCI6MjIwMDcyLCJpc3N1ZWRBdCI6MTc5NTUyOTc2OTc0MX0.YDtxpOSgujyJPSlRpkqxCYBbsbEknaDqNe7WI6qUrwU&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "이건 정부·지자체 행사라 조건만 맞으면 확실합니다. · 수산물 할인 — 11/29(일)까지 · 김장재료 할인 — 12/2(수)까지 · 할인 폭과 품목은 매장마다 다릅니다. 장바구니 들기 전에 매장 전단을 한 번 보세요. 그리고 새로 생긴 제도가 하나 있습니다. 온누리상품권이 18년 만에 바뀌었습니다. · 전통시장에서 쓰면 구매 5% 할인 + 사용 후 5% ",
-   "url": "https://cafe.naver.com/hushpuppies/28?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imh1c2hwdXBwaWVzIiwiYXJ0aWNsZUlkIjoyOCwiaXNzdWVkQXQiOjE3OTU1Mjk3Njk3NDF9.WIxhQxkSKopWfyzUrvQcEpJV7u6HL9eBb-IoHabunwE&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "부산광역시장배 장애인e스포츠 대회 개최 알림 생활체육과 2026-11-24 2675 *****낙동강생태공원 파크골프장 임시휴장(11월24일) 알림... 찾아줘… 환급(부과취소 포함) 2억 1천만 원 성과 ◈ 시, 구군 및 관계기관과 협력을 확대해 시민이 체감하는 납세자 권익보호... 이번 행사에서 맺은 국내외 협력 관계와 시민 18~19세를 위한 「부산청년",
-   "url": "https://cafe.naver.com/jungamironware/21737?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTczNywiaXNzdWVkQXQiOjE3OTU1Mjk3Njk3NDF9.cJt4GD7XECM9fxnCRuqCZKiWX9xw08f-1ztTOSe3i9U&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "안동사랑상품권, 안동사랑상품권 모바일, 온누리지류상품권, 예천사랑, 카드결제 배달시에도 가능합니다 2만원 이상 주문시 안동시내 무료배달 (와룡,송천,서후,도산 등 거리 있는곳은 추가배달비 들어용) *배송관련) 공구제품, 행사제품... 4칸 도시락 11,000원(예약상품) 5. 샌드과일 9,000원 이외의 구성도 가능합니다 (예약상품 10개 이상 주문가능) ",
-   "url": "https://cafe.naver.com/andongmom/961924?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFuZG9uZ21vbSIsImFydGljbGVJZCI6OTYxOTI0LCJpc3N1ZWRBdCI6MTc5NTUyOTc2OTc0MX0.u7XB9mRjPglpx0FBhwpXeOIibYwOtEhl-entbNzSmpM&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "안동사랑상품권, 안동사랑상품권 모바일, 온누리지류상품권, 예천사랑, 카드결제 배달시에도 가능합니다 2만원 이상 주문시 안동시내 무료배달 (와룡,송천,서후,도산 등 거리 있는곳은 추가배달비 들어용) *배송관련) 공구제품, 행사제품... 4칸 도시락 11,000원(예약상품) ✔️과일바구니, 예단과일, 명절선물 로즈애플은 안동최초 과일바구니 전문점으로 시작한거 ",
-   "url": "https://cafe.naver.com/andongmom/961919?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFuZG9uZ21vbSIsImFydGljbGVJZCI6OTYxOTE5LCJpc3N1ZWRBdCI6MTc5NTUyOTc2OTc0MX0.ncJoQ4J79-0WPs3VyToBcr5DBNH9eySkaKQLuP0wsoU&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "BEST 상품입니다 11월 23일 농라에서 판매된 BEST 상품 순위 글 제목 작성자 1 [다우한우]가격표 앞자리가 바뀐, 한우등심 초특가행사! 한우등심... 봉이네CR2334 29 (봉이네 핫딜) 대봉 5kg 11,900 / 하우스 시금치 2kg 6,900 무배 !! 봉이네CR2334 30 알도루묵 [공품] 오늘 싸게 득템해가세요!! [오늘은 4세트뿐 !",
-   "url": "https://cafe.naver.com/tlsxh/4282203?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRsc3hoIiwiYXJ0aWNsZUlkIjo0MjgyMjAzLCJpc3N1ZWRBdCI6MTc5NTUyOTc2OTc0MX0.OqSM6YR1Ew9cNygyNTYaXYjd-PbMr6r08s1DNe95G3Q&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "10월 28일 배추 10kg 상품 도매가격은 4,338원으로 평년 10월 평균 1만131원의 절반에도 못 미쳤다. 일부 산지에서는 쪽파 10kg이 3... 양념류·수산물 200억원은 최대 50% 할인에 쓰인다. - 이마트는 11월 25일까지 농축산물 할인 지원을 적용한 행사를 진행 중이다. ■ 자주 묻는 질문 Q. 할인지원 사업이 산지가격을 올렸나? A. ",
-   "url": "https://cafe.naver.com/kfarm/31154?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtmYXJtIiwiYXJ0aWNsZUlkIjozMTE1NCwiaXNzdWVkQXQiOjE3OTU1Mjk3Njk3NDF9.ykdQ_EUQn9hB8EaxVEEIJa_eJE_yKgaxOgg7ciMT3YU&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "ㅇ 충남 태안군 격렬비열도 인근 해상에서 11월 18일 연락두절 되어 11월 22일 침몰로 확인된 해광호의 수색과 관련하여, \"해군 장비를... 한국정책방송원(KTV) / KTV2026.11.23 코스피 장중 4천600선 붕괴···정부 \"증안펀드 가동 준비\" 김용민 앵커>코스피가 오늘 장중 5% 넘게 급락하면서 한때 4천600선 아래로 밀리기도 했습니다.정",
-   "url": "https://cafe.naver.com/jungamironware/21712?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTcxMiwiaXNzdWVkQXQiOjE3OTU1Mjk3Njk3NDF9.A1AMsnXhBZWESf8EpA8vv9yvbVil1aKcrOcvufHSwxQ&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "충격근황 #리플 #XRP #리플코인 #4400만달러청산 #강제청산 #빚투 #레버리지투자 #XRP급락 #가상자산시장 #코인뉴스 YTN 16시간16시간 전, 2026. 11. 23. 오전 11:22 청와대, 증시 하락세 두고 비관적으로 보지... 실적 전망과 주가 사이 벌어진 간격대형주 국내 원탑, 현성찬 전문가와 함께!▶ 본 방송은 11월23일에 촬영하였습니",
-   "url": "https://cafe.naver.com/jmsong0829/77080?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imptc29uZzA4MjkiLCJhcnRpY2xlSWQiOjc3MDgwLCJpc3N1ZWRBdCI6MTc5NTUyOTc2OTc0MX0.TKUuIqFzCuYoahT5plQeFVKx1lk-NCLo2NxT5mECVnc&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "'7000만원 미지급' 김부장 채권 늘어난다 李정부 부동산 대책 봄 이사철 '전세 가뭄' 심해질 텐데…치솟는 전셋값, 꺾이는 집값 흔든다 전체기사 3,452 2건11.20 기사 리스트로 이동 2026년 11월 23일 17... 이 대 100이상+ 17:41'석자 얼음' 녹는다…시진핑 만난 李, 한반도 평화·中시장 동시 공략 이재명 대통령이 미·중·러 정상회",
-   "url": "https://cafe.naver.com/greenb0k6k/201707?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjIwMTcwNywiaXNzdWVkQXQiOjE3OTU1Mjk3Njk3NDF9.Tz9WN8T8CbiaIHe30iFTk3aa8EVUSDW6Eg5WGXYBYh8&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "1건11.15 기사 리스트로 이동 2026년 11월 22일 17:35D램값 내년 상승 전망에도 … 데이터센터 막히면 급랭 불가피 반도체 가격 정점론, 팩트체크 해보니 낸드, 中 기업용 수요 축소에 일주일새 10%대 가격... 7조 폭증한 44조 지난 9일 10이상+ 11월 5일 08:01반도체 수출 폭증에 경상흑자 첫 600억달러 돌파…사상 최대 반도체 수",
-   "url": "https://cafe.naver.com/greenb0k6k/201704?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjIwMTcwNCwiaXNzdWVkQXQiOjE3OTU1Mjk3Njk3NDF9.T72T2bB2ac9ulZyRKq7m2u6RU8sbpNdMdJj12nxglrA&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "코인시장 비관론 확산 끝없는 금융사고, 추락하는 신뢰 5대 은행 금융사고 2배 증가…'내부통제' 숙제로 고려아연 경영권 분쟁 승자 없이 상처만 키운 소모전의 연속…내후년까지 안갯속 '아슬아슬' 상법 개정안 2차 상법개정안도 통과…기대와 우려 공존하는 시장 전체기사 8,931 5건11.22 기사 리스트로 이동 2026년 11월 23일 17:0625살 된 렉스",
-   "url": "https://cafe.naver.com/greenb0k6k/201701?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjIwMTcwMSwiaXNzdWVkQXQiOjE3OTU1Mjk3Njk3NDF9.XlScLIwe0Lm7CQw7_JxrXpIxXeV-lG_BRSzgW952l2U&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "갤럭시할인 #온누리상품권 #삼성행사 #삼성이벤트 #갤럭시이벤트 #상품권 #페이백 #당일지급 #갤럭시S24 #갤럭시S24플러스... 통신시장유통질서건전화 기준에 맞춰 작성되었습니다 필수가 아닌 선택사항입니다!! SK (109,000 요금제 기준)베스트109... 위 상품 가입 필수 의무사항이 아니며 선택 가입 가능합니다 통신사 할부진행 시 할부이자 24개월 ",
-   "url": "https://cafe.naver.com/010freebaram/265916?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IjAxMGZyZWViYXJhbSIsImFydGljbGVJZCI6MjY1OTE2LCJpc3N1ZWRBdCI6MTc5NTUyOTc2OTc0MX0.K6EI8M-uV1M8hSzc7St2csSA9yf2SYLbopYGFNJczqA&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "제품과 시장에 대한 정보를 확인하고 필요한 자료 요청부터 buyKOREA 상품 등록 및 광고 집행 관련 이슈까지 실시간으로 공유하고 조율했습니다… 2. 여섯 명이 함께한 팀워크 다들 학업과 인턴 등으로... 전주 막걸리 축제 (2026.10.23.~2026.10.24.) / 2026 푸드위크 코리아 (2026.11.04.~2026.11.07.) 웰앤뷰토탈의",
-   "url": "https://cafe.naver.com/dexters/66522?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRleHRlcnMiLCJhcnRpY2xlSWQiOjY2NTIyLCJpc3N1ZWRBdCI6MTc5NTUyOTc2OTc0MX0.0xlMEruKJG2be-0-L5R6RQll76JLifbRHNqjTUgj6Rw&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "- 100명 ㆍ응모기간ㆍ11-12~11-18 (11-24) ㆍ응모주소ㆍ메인페이지 | 이벤트주소 ● [익산 서동시장] 영상3개 시청 인증하고 상품권 받자 이벤트!! ㆍ경품번호ㆍ 인스타 11-24-018 ㆍ주최회사ㆍ익산 서동시장 ㆍ응모형태ㆍ단순/간단 ㆍ경품내역ㆍ스타벅스 1만원.. - 60명 ㆍ응모기간ㆍ11-19~11-23 (11-24) ㆍ응모주소ㆍ메인페이지 |",
-   "url": "https://cafe.naver.com/koreagift/31575?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtvcmVhZ2lmdCIsImFydGljbGVJZCI6MzE1NzUsImlzc3VlZEF0IjoxNzk1NTI5NzY5NzQxfQ.XdF6Gv4Mb2FLdm53QnA2ueQCECmFjgCiOn2JnKIeuvQ&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "기준일은 2026년 11월 23일입니다. 부산 2차 행사처럼 이미 끝난 행사는 다음 행사를 대비하는 참고 사례로 보시면 됩니다. 전통시장 온누리상품권 환급 방법, 4단계 시장과 지자체 안내에서 공통으로 확인되는 순서는 아래와 같습니다. 첫째, 시장 안에서 '환급 행사 참여 점포' 스티커나 팻말이 붙은 곳을 찾아 국산 농·축·수산물을 구매합니다. 둘째, 결제",
-   "url": "https://cafe.naver.com/moneyswitch/80?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbmV5c3dpdGNoIiwiYXJ0aWNsZUlkIjo4MCwiaXNzdWVkQXQiOjE3OTU1Mjk3Njk3NDF9.2OZaeZ8LBKlDgmD1jTkRo09m4J4_guXmp3Tud37l_b4&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "노량진수산시장 같은 도매시장도 지정됐습니다. 전통시장 온누리상품권 가맹점 조회법 가맹점은 온누리상품권 가맹점 플랫폼(ongift.or.kr)의 가맹점 현황 메뉴에서 조회합니다. 시·도와 시·군·구를... 전통시장 온누리상품권 환급행사와 구매 한도 환급행사는 지자체가 따로 엽니다. 영도구 공지 기준 2026년 2차 환급행사는 11월 12일(목)~14일(토) ",
-   "url": "https://cafe.naver.com/moneyswitch/79?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbmV5c3dpdGNoIiwiYXJ0aWNsZUlkIjo3OSwiaXNzdWVkQXQiOjE3OTU1Mjk3Njk3NDF9.r9LDzq8s0lOuGGTzn1OHUVHofCsKLlf3V06r9SOzaIg&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "용인 온누리상품권 식당은 조회 집계 기준으로 355곳입니다. 용인 전체 가맹점 1,583곳 가운데 식당 업종만 센 숫자입니다. 같은 시장, 같은 업종이어도... 상생페이백이나 환급 행사는 시행 기간, 지급 조건, 사용기한이 각각 달라 따로 확인해야 합니다. 지난해 10월 이재명 대통령은 현장 간담회에서 \"온누리 상품권은 소진도 잘 안 되는데, 그 예산을 지",
-   "url": "https://cafe.naver.com/moneyswitch/78?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbmV5c3dpdGNoIiwiYXJ0aWNsZUlkIjo3OCwiaXNzdWVkQXQiOjE3OTU1Mjk3Njk3NDF9.55fKv-HLrKS4l1kTemaID2RVCYN-68IiTKR5JSX60R0&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "11번가 외에도 현대홈쇼핑, 우체국쇼핑의 전통시장관처럼 온누리상품권 온라인 결제가 되는 곳이 있습니다. 11번가 기획전 안내에 따르면 온누리마켓 특가할인전은 2026년 10월 25일부터 12월 31일까지 열립니다. 과일, 채소, 곡물·건과·견과류 관련 상품을 판매합니다. 지난해 5월 동행축제 때는 디지털온누리상품권 결제액의 10%를 주당 최대 2만원까지 환",
-   "url": "https://cafe.naver.com/moneyswitch/74?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbmV5c3dpdGNoIiwiYXJ0aWNsZUlkIjo3NCwiaXNzdWVkQXQiOjE3OTU1Mjk3Njk3NDF9.wWjCR5_bokY1PXJ-UVL_Aj2ELuZswtJO3OOB1ZRhMEs&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "온누리상품권 온라인 사용처 (2026년 11월 23일 확인 기준, 변동 가능) 사용처 성격(확인된 범위) 참고 온누리쇼핑 전국 시장 먹거리·특산품, 수산대전 등 할인행사 시장 반찬·제철 농수산물을 집에서 받고 싶을 때 11번가 온누리마켓 식품·생활·패션·가전까지 비교적 다양... 안내 온누리굿데이 지역 특산품, 먹거리 온라인 사용처로 소개됨 인더마켓 온누리",
-   "url": "https://cafe.naver.com/moneyswitch/73?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbmV5c3dpdGNoIiwiYXJ0aWNsZUlkIjo3MywiaXNzdWVkQXQiOjE3OTU1Mjk3Njk3NDF9.PSA_kDyeNBjy5UEPtEJY19Aj4y7ghQvt26xZP4ZDyOQ&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "온누리상품권구매 온누리상품권 구매방법 구매한도 할인율을 2026년 11월 23일 기준으로 정리했습니다. 평시 지류 5%·디지털 7%이고... 첫째, 행사 할인은 예산이 소진되면 조기 종료될 수 있습니다. 둘째, 할인율·한도는 달마다 바뀔 수 있어 충전 전 앱 공지를 다시 보는 습관이 필요합니다. 한편 경제 당국이 전통시장 온누리상품권의 환급 개선 방향을 논",
-   "url": "https://cafe.naver.com/moneyswitch/72?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vbmV5c3dpdGNoIiwiYXJ0aWNsZUlkIjo3MiwiaXNzdWVkQXQiOjE3OTU1Mjk3Njk3NDF9.08-tWSnYvO8j7fYSAo4GIvw8aC_XPICjlrGXpxheNYM&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "모바일, 온누리지류상품권, 예천사랑, 카드결제 배달시에도 가능합니다❤️ 2만원 이상 주문시 안동시내 무료배달 (와룡,송천,서후,도산 등 거리 있는곳은 추가배달비 들어용) *배송관련) 공구제품, 행사제품 단품만으로는 배달 불가합니다... 4칸 도시락 11,000원(매장 상시구매 가능 합니다.) 5. 맞춤 과일도시락 1개 9,000원(예약상품 10개 이상 주문",
-   "url": "https://cafe.naver.com/andongmom/961749?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFuZG9uZ21vbSIsImFydGljbGVJZCI6OTYxNzQ5LCJpc3N1ZWRBdCI6MTc5NTUyOTc2OTc0MX0.dZe2Xa1haMwvwB7gsYFEeROtSYy4rPNSNTjeM1-92I0&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "“여기서는 지역화폐 되나요?” “온누리상품권은 사용할 수 있나요?” “환급은 어디서 받아야 하죠?” 장 보러 왔다가 결제 수단부터 공부해야 하는 상황입니다. 그런데 앞으로는 이런 불편이 줄어들지도 모르겠습니다. 업비트를 운영하는 두나무가 AI와 블록체인 기술을 활용해 전통시장을 살릴 아이디어를 찾는 공모전을 열었기 때문입니다. 단순히 기술을 자랑하는 행사가",
-   "url": "https://cafe.naver.com/easycoinstory/491?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImVhc3ljb2luc3RvcnkiLCJhcnRpY2xlSWQiOjQ5MSwiaXNzdWVkQXQiOjE3OTU1Mjk3Njk3NDF9.kdX7jDMQUqdGzXqrsPhxZWYywUDVzS7QGjSUzu3tUis&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "대비해 11월 23일(월)부터 12월 4일(금)까지 사업장 사전점검 기간을 운영한 뒤, 1... 고용노동부2026.11.22 \"추위가 재해가 되기 전에... KOREA.KR / 농촌진흥청2026.11.22 '제13회 고구마의 날' 기념행사 경기도 여주서 열려 농촌진흥청 ( 청장 이승돈 ) 국립식량과학원은 ( 사 )... 시장 경쟁력을 높이기 위해 기관 · ",
-   "url": "https://cafe.naver.com/jungamironware/21674?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTY3NCwiaXNzdWVkQXQiOjE3OTU1Mjk3Njk3NDF9.D4znNX81sixton87-I6SQk91p7T3fKQ5wOt7EFaXT5s&q=11%ec%9b%94%20%ec%88%98%ec%82%b0%eb%ac%bc%20%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%99%98%ea%b8%89%ed%96%89%ec%82%ac%20%ec%8b%9c%ec%9e%a5&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "11월 수산물 온누리상품권 환급행사 시장",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "11월 디지털 온누리상품권 구매 한도가 일반할인 100만 원과 특별할인 20만 원으로 구분된다는 점입니다. 총 120만 원어치를 구매할 수 있는 구조입니다. 다만 할인율은 서로 다릅니다. 특별할인 20만 원: 10% 할인 일반할인 100만 원: 7% 할인 그렇다면 11월 한도를 전부 이용할 경우 실제 부담금은 얼마일까요? 구분 상품권 금액 할인금액 실제 부",
-   "url": "https://blog.naver.com/todaybabycare/224465688150",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "충전하는 디지털 온누리상품권을 쓰는 사람이 많습니다. 충전할 때 7%가 빠지고, 시장에서 쓰면 소득공제 40%에 카드 캐시백까지 붙기 때문입니다. 그런데 올해 조건이 중간에 한 번 바뀌었습니다. 지류 상품권의 할인 구매 한도가 10월... 반대로 디지털은 7% 할인과 월 100만 원 한도가 그대로 유지되고 있습니다. 11월 2일부터 6일까지 진행된 10% ",
-   "url": "https://blog.naver.com/mariah83/224488600227",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "구매는 이렇게 (조건 확인하셨다면!) 디지털온누리 앱 실행 (가짜 앱 주의, 공식 스토어에서 설치) 충전 화면에서 10% 특별할인 + 남은 한도 먼저 확인 금액 입력 → 최종... 6 카드 청구할인 온누리 가맹점·백년가게 3만원↑ 카드사별 (예: 우리카드 최대 5천원, 1회) 10.29~11.15 전통시장 캐시백 전통시장 1만원↑ 카드결제 카드사별 상이 행",
-   "url": "https://blog.naver.com/dduddulee_/224463296586",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "기존 평시 월 구매 한도 100만 원(7% 할인)에 특별 추가 한도 20만 원(10% 할인)이 더해집니다. 따라서 11월 한 달 동안 1인당 최대 120만 원까지 디지털 온누리상품권을 구매할 수 있습니다. 두 구간을 모두 최대로 구매할 경우 총 9만 원의 할인 혜택을 챙길 수 있습니다. 할인율을 극대화하는 추가 연계 혜택 카드사별 10% 캐시백 및 청구 할",
-   "url": "https://blog.naver.com/kinjheehee99/224457556400",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "충전할 때 할인율·최종 부담금액 확인 충전하기 공식 가이드 예시 화면 / 출처: 온누리전통시장 디지털온누리 APP 사용안내 앱 메인화면의 충전하기 → 충전 금액 선택 → 충전계좌 선택 → 결제하기 → 간편비밀번호 인증 순서로 진행해요. 이때 특별할인이 남아 있는지, 적용 할인율이 10%인지, 계좌에서 부담할 최종 금액이 얼마인지 확인해주세요. 한도가 남아.",
-   "url": "https://blog.naver.com/meljju/224462121270",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "특히 같은 카드를 등록했다는 이유만으로 카드 할인까지 자동 적용된다고 생각하면 안 됩니다. 온누리 사용분의 혜택 인정 여부는 해당 카드의 조건을 확인해야 합니다. 11월 특별 할인, 전액 10%는 아닙니다 11월 특별판매 안내는 일반 할인과 특별 할인을 구분하고 있습니다. 일반 구매한도 100만원은 7%, 11월 2~6일 특별 구매한도 20만원은 10%. ",
-   "url": "https://blog.naver.com/pksgold/224461262433",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "30분까지 디지털 온누리상품권 특별할인이 예정돼 있습니다. 할인율은 10%, 특별할인 구매한도는 1인당 20만 원입니다. 중소벤처기업부의 10월 27일 보도자료와 소상공인시장진흥공단... 결제 후 캐시백을 받는 방식이 아닙니다. 평시 7% 할인으로 10만 원을 구매하면 출금액은 9만 3천 원입니다. 특별할인 10%가 적용되면 9만 원이므로, 평시와 비교한 ",
-   "url": "https://blog.naver.com/infocatcher/224461602686",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "디지털 온누리상품권의 기본 할인 체계와 특별 한도 디지털 온누리상품권은 평상시에도 할인 혜택을 제공하지만, 특정 행사 주간에는 충전 한도와 할인율이 함께 상향됩니다. 기본... 청구할인 예산 소진 시 조기 종료 현대카드 10월 29일 ~ 11월 15일 전통시장, 백년가게 1만 원 이상 결제 시 10% 캐시백 현대카드 앱에서 응모 NH농협카드 10월 29일 ",
-   "url": "https://blog.naver.com/ficrunning/224461409857",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "디지털 온누리상품권을 구매했다면 기존 구매액을 제외한 잔여 한도를 앱에서 확인해야 합니다. 120만원 한도를 모두 채웠을 때 구간별 할인액, 합계 할인액은 9만원입니다. 출처: 중소벤처기업부 예산이 먼저 소진되면 어떻게 될까 특별... 백년가게·온누리 가맹점 3만원 이상 결제 시 10% 청구할인, 전통시장 1만원 이상 결제 시 10% 캐시백, 착한가격업소.",
-   "url": "https://blog.naver.com/nehstory898/224461455722",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "이번 특별할인은 디지털 온누리상품권 행사이고, 종이는 할인구매 한도가 월 10만 원으로 줄었어요. Q5. 상생소비복권은 온라인 결제도 인정되나요? 아니요. 오프라인 가맹점에서 디지털온누리로 결제한 금액만 인정돼요. 함께 보면 좋은 글 → (경기지역화폐 11월 5% 캐시백 글 링크 카드) 이번 주 10%로 충전하셨나요? 아직 고민 중이라면... 새 창 열림",
-   "url": "https://blog.naver.com/wildgirl0611/224462904761",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "온누리 10%는 상품권을 살 때 받는 할인이고, 카드사 청구할인·캐시백은 해당 카드 행사에서 정한 결제에 붙는... 그중 현재 공식 안내에 표시된 디지털 온누리상품권 10% 특별할인 판매 기간은 11월 2일 월요일부터 6일 금요일까지... 아래는 각 할인율이 실제로 적용된다는 가정의 계산이며, 구매 가능 한도나 다른 행사 혜택은 합산하지 않았습니다. 7%가",
-   "url": "https://blog.naver.com/happyljhwin/224458965033",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "한도가 핵심이래요 중소벤처기업부와 소상공인시장진흥공단이 낸 안내 포스터를 보도한 기사들을 보면, 10% 특별할인은... 온누리 가맹점에서 일정 금액 이상 쓰면 청구할인이나 캐시백을 주는 카드사 이벤트도 9개 카드사에서 열린다고 하니, 내가 쓰는 카드가 있는지도 살펴보세요. 놓치기 쉬운 점, 보유 한도와 자동충전을 꼭 보래요 첫째, 디지털 온누리상품... 새",
-   "url": "https://blog.naver.com/uk7uk/224464906411",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "공식 누리집 안내에 따르면 11월에는 월 구매한도 100만 원에 특별 추가 한도 20만 원이 더해집니다. 평시와 특별판매 기간을 비교하면 아래와 같습니다. 구분 평시 특별판매 기간... 9개 카드사가 청구할인, 캐시백, 경품 추첨을 진행하는데, 우리카드는 디지털온누리 가맹점 등에서 3만 원 이상 결제하면 10%를 최대 5000원까지 1회 청구할인합니다. 결",
-   "url": "https://blog.naver.com/bestpickinfo/224456896858",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "새우젓부터 중고차까지 할인···29일부터 ‘코리아 그랜드 페스티벌’새 창 열림",
-   "url": "https://www.khan.co.kr/article/202610271633001",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "네이버뉴스새 창 열림",
-   "url": "https://n.news.naver.com/mnews/article/032/0003478834?sid=101",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "통합 한도 내에서 지류는 20만 원까지만 할인구매할 수 다. 한편 코리아 그래드 페스티벌(10월 29일~11월 15일) 기간에는 농‧축‧수산물, 가공식품 등 분야별 특별 할인 뿐만 아니라 교통‧숙박‧관광 분야도 여행 관련 캠페인을 진행한다. 또한, 올해는 디지털온누리 상품권 사용시, 결제 실적에 따라... 새 창 열림",
-   "url": "https://www.tournews21.com/news/articleView.html?idxno=146877",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "기간과 한도 얼마나 아낄 수 있는지까지 한 번에 정리해 봤다 11월 2일부터 10% 특별할인 디지털 온누리상품권 특별할인 안내 · 자료 중소벤처기업부·소상공인시장진흥공단... 10% 캐시백 같은 카드사 행사도 9개 카드사에서 함께 진행한다 총정리 디지털 온누리상품권은 11월 2일 0시 30분부터 6일 23시 30분까지 10% 할인한다 10% 할인은 20만 ",
-   "url": "https://blog.naver.com/sujitasan_x/224459920291",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "특히 일부 카드사는 3만 원 이상 결제 시 10% 청구할인을 제공하며, 카드에 따라 캐시백이나 온누리상품권 지급 등 추첨형 이벤트도 진행됩니다. 디지털온누리상품권 11월 특별할인... 시 할인 적용 사용처 온누리상품권 가맹점 구매 전 확인 사항 앱의 실제 할인율·잔여 한도·행사 진행 여부 2026년 11월 주요 카드사 할인 혜택 할인형 혜택 카드 한눈에 보",
-   "url": "https://blog.naver.com/lifeguide365/224461160112",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "디지털 온누리상품권 10% 할인은 11월에 새로 붙는 특별 한도 20만원에만 적용돼요. 나머지 100만원은 평소처럼 7%라서, 7%보다 더 아끼는 돈은 최대 6,000원입니다. 11월 2일(월)부터... 9개 카드사가 온누리 가맹점 3만원 이상 결제에 10% 청구할인, 전통시장 1만원 이상 결제에 10% 캐시백을 해요. 카드사마다 응모·조건이 달라 카드 앱",
-   "url": "https://blog.naver.com/priamos301/224458292348",
-   "engine": "naver_all",
-   "query": "디지털 온누리 특별할인 캐시백 한도",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "■ 경영 분야 · 2026년 제주 콘텐츠 물류비 지원 사업 모집 공고 신청 기간: 2026-11-20 ~ 2026-12-02 / 소관: 제주특별자치도 / 수행: 제주콘텐츠진흥원 · 2026년 문화기술 활용... 참여기업 모집 추가 공고 신청 기간: 2026-11-19 ~ 2026-12-07 / 소관: 지식재산처 / 수행: 한국지식재산보호원 ■ 인력 분야 ·",
-   "url": "https://cafe.naver.com/jiwonmoa/18?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imppd29ubW9hIiwiYXJ0aWNsZUlkIjoxOCwiaXNzdWVkQXQiOjE3OTU1Mjk4NTcxMjd9.e201hcj9Hgft5iVz75PhZKfKs5GmN0sAn_m9eGMyqdY&q=%ec%a0%9c%ec%a3%bc%20%ec%9b%8c%ec%bc%80%ec%9d%b4%ec%85%98%20%eb%b0%94%ec%9a%b0%ec%b2%98%20%ec%b6%94%ea%b0%80%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "제주 워케이션 바우처 추가모집",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "430 [문화체육관광부] 문화체육관광부 과장급 공모직위 공개모집 2026.11.16. 2026.11.23. 429 [문화체육관광부] 문화체육관광부 해외홍보기획과 기간제 근로자 채용 공고 2026.11.16. 428... 13398 새글 문체부, 공연·스포츠 암표 부정거래 의심자 70명 추가 수사의뢰 2026.11.23. 13397 인공지능 학습을 위한 저작",
-   "url": "https://cafe.naver.com/jungamironware/21747?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTc0NywiaXNzdWVkQXQiOjE3OTU1Mjk4NTcxMjd9.-OBgF13vf9sZ04FAwdYqABS412yEIjvCcwtng_zVTyA&q=%ec%a0%9c%ec%a3%bc%20%ec%9b%8c%ec%bc%80%ec%9d%b4%ec%85%98%20%eb%b0%94%ec%9a%b0%ec%b2%98%20%ec%b6%94%ea%b0%80%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "제주 워케이션 바우처 추가모집",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "[부산] 서구 2026년 수산식품 가공설비 지원사업 추가 사업자 모집 공고 [D-2] 부산광역시 | ~2026-11-27 https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN... [제주] 2026년 3차 수산물 유통단계 위생안전 체계구축(자동선별기) 사업 지원계획 공고 D-8 제주",
-   "url": "https://cafe.naver.com/sygolfood/373?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InN5Z29sZm9vZCIsImFydGljbGVJZCI6MzczLCJpc3N1ZWRBdCI6MTc5NTUyOTg1NzEyN30.-g6IZGlTheXkWGKI_tK88qNUfYKVCU9R-csw3Nb01VI&q=%ec%a0%9c%ec%a3%bc%20%ec%9b%8c%ec%bc%80%ec%9d%b4%ec%85%98%20%eb%b0%94%ec%9a%b0%ec%b2%98%20%ec%b6%94%ea%b0%80%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "제주 워케이션 바우처 추가모집",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "[부산] 서구 2026년 수산식품 가공설비 지원사업 추가 사업자 모집 공고 [D-3] 부산광역시 | ~2026-11-27 https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN... bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PB",
-   "url": "https://cafe.naver.com/sygolfood/371?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InN5Z29sZm9vZCIsImFydGljbGVJZCI6MzcxLCJpc3N1ZWRBdCI6MTc5NTUyOTg1NzEyN30.g-xz6cOaBUYQy9gQtLrZr4ZWk-qKWt22XlBFkCM-qdY&q=%ec%a0%9c%ec%a3%bc%20%ec%9b%8c%ec%bc%80%ec%9d%b4%ec%85%98%20%eb%b0%94%ec%9a%b0%ec%b2%98%20%ec%b6%94%ea%b0%80%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "제주 워케이션 바우처 추가모집",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "D-0 · 마감임박 · NEW 2027년 쇼피 베트남 온라인 판촉전 참가기업 모집 공고 ?? 중소기업 · 투자,바우처... D-0 · 마감임박 · NEW [전북] 2026년 마이오피스(지사화) 지원사업(추가모집) 참여기업 모집 공고 ?? 중소기업... 1일 뒤 시작 · NEW [강원] 동해시 2026년 소상공인 카드수수료 지원사업 추가 접수 공고 ?? 소상",
-   "url": "https://cafe.naver.com/wingzonepay/21?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Indpbmd6b25lcGF5IiwiYXJ0aWNsZUlkIjoyMSwiaXNzdWVkQXQiOjE3OTU1Mjk4NTcxMjd9.nZcytBjWZaYqE5StLiOU1RcjF74UWwOOmgQu8-x3PCQ&q=%ec%a0%9c%ec%a3%bc%20%ec%9b%8c%ec%bc%80%ec%9d%b4%ec%85%98%20%eb%b0%94%ec%9a%b0%ec%b2%98%20%ec%b6%94%ea%b0%80%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "제주 워케이션 바우처 추가모집",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "업체 모집 공고 신청 기간: 상시 접수 / 소관: 제주특별자치도 / 수행: 제주특별자치도경제통상진흥원 · [경북] 경주시ㆍ구미시ㆍ의성군 2026년 K-통합 마케팅 생태계 조성사업 온ㆍ오프라인 특판전(오아시스 마켓) 참가기업 추가모집 공고 신청 기간: 2026-11-19 ~ 2026-11-25 / 소관: 경상북도 / 수행: 경상북도경제진흥원 · [대전] 20",
-   "url": "https://cafe.naver.com/jiwonmoa/16?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imppd29ubW9hIiwiYXJ0aWNsZUlkIjoxNiwiaXNzdWVkQXQiOjE3OTU1Mjk4NTcxMjd9.vT9h_IPaqB9u7xjk11PE6nbc_ye3rtp3yfX61evYaEg&q=%ec%a0%9c%ec%a3%bc%20%ec%9b%8c%ec%bc%80%ec%9d%b4%ec%85%98%20%eb%b0%94%ec%9a%b0%ec%b2%98%20%ec%b6%94%ea%b0%80%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "제주 워케이션 바우처 추가모집",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "[부산] 서구 2026년 수산식품 가공설비 지원사업 추가 사업자 모집 공고 D-4 부산광역시 | ~2026-11-27 https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN... bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN",
-   "url": "https://cafe.naver.com/sygolfood/369?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InN5Z29sZm9vZCIsImFydGljbGVJZCI6MzY5LCJpc3N1ZWRBdCI6MTc5NTUyOTg1NzEyN30.lTFyOiyIS_pY7VqfgmdBcnXsPohvirRy8SZFZ65-D8E&q=%ec%a0%9c%ec%a3%bc%20%ec%9b%8c%ec%bc%80%ec%9d%b4%ec%85%98%20%eb%b0%94%ec%9a%b0%ec%b2%98%20%ec%b6%94%ea%b0%80%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "제주 워케이션 바우처 추가모집",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "[전북] 2026년 마이오피스(지사화) 지원사업 추가모집 전북특별자치도·전북경제통상진흥원 / 도내 중소기업(공장 소재지 인정... 기획전 배너·팝업 노출, 플래시세일·플랫폼 바우처, 푸시·CRM 홍보 지원. [내일 D-1 11/23] 16건 중 - 2027년 초기창업·창업도약... 지원 (제주콘텐츠진흥원) [이번 주 마감] - 11/26 2027년 F/W ",
-   "url": "https://cafe.naver.com/sygolfood/368?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InN5Z29sZm9vZCIsImFydGljbGVJZCI6MzY4LCJpc3N1ZWRBdCI6MTc5NTUyOTg1NzEyN30.9c8EVo9zRLs08J_Hmn2hAvFUjNvKXWRir7padK8YnMY&q=%ec%a0%9c%ec%a3%bc%20%ec%9b%8c%ec%bc%80%ec%9d%b4%ec%85%98%20%eb%b0%94%ec%9a%b0%ec%b2%98%20%ec%b6%94%ea%b0%80%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "제주 워케이션 바우처 추가모집",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "[전북] 2026년 마이오피스(지사화) 지원사업(추가모집) 참여기업 모집 공고 [오늘마감] 전북특별자치도... [부산] 서구 2026년 수산식품 가공설비 지원사업 추가 사업자 모집 공고 D-5 부산광역시 | ~2026-11-27 https... [제주] 2026년 3차 수산물 유통단계 위생안전 체계구축(자동선별기) 사업 지원계획 공고 D-11 제주특별자치도",
-   "url": "https://cafe.naver.com/sygolfood/367?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InN5Z29sZm9vZCIsImFydGljbGVJZCI6MzY3LCJpc3N1ZWRBdCI6MTc5NTUyOTg1NzEyN30.AN1GtAp_DnX-obQfEZK0FBrACn8XZ8R3n45KkNFr3c4&q=%ec%a0%9c%ec%a3%bc%20%ec%9b%8c%ec%bc%80%ec%9d%b4%ec%85%98%20%eb%b0%94%ec%9a%b0%ec%b2%98%20%ec%b6%94%ea%b0%80%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "제주 워케이션 바우처 추가모집",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "[강원] 홍천군 2026년 내수면 어로어업경영 개선 장비 지원사업 사업자 모집 재공고 2026년 홍천군 내수면어가의 안정적인 생산기반 확충으로 경영안정화를 도모하고자 아래와 같이 사업 지원계획 및 사업자 모집을 공고하오니, 기한 내 신청하여 주시기 바랍니다.... 사업자 모집 재공고.hwpx [공고URL] 바로가기 2. [강원] 태백시 2026년 3분기 중",
-   "url": "https://cafe.naver.com/uworldexam/597614?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InV3b3JsZGV4YW0iLCJhcnRpY2xlSWQiOjU5NzYxNCwiaXNzdWVkQXQiOjE3OTU1Mjk4NTcxMjd9.W8YDAQ3M84JHl8FAvM3Ln0HKS4QU2g2-G9gU8O999V4&q=%ec%a0%9c%ec%a3%bc%20%ec%9b%8c%ec%bc%80%ec%9d%b4%ec%85%98%20%eb%b0%94%ec%9a%b0%ec%b2%98%20%ec%b6%94%ea%b0%80%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "제주 워케이션 바우처 추가모집",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "같이 추가 모집하고자 하오니 기한 내 신청하여 주시기 바랍니다.☞ 전주시 소재 식육포장처리업, 축산물가공업, 식용란선별포장업... [경남] 거창군 2027년 유기질비료 지원사업 추가 및 변경 신청 공고 환경친화적인 자연순환 농업의 정착 및 고품질 안전농산물 생산... 시설지원사업 모집 공고.hwpx [공고URL] 바로가기 7. [경남] 남해군 2027년 수",
-   "url": "https://cafe.naver.com/uworldexam/595960?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InV3b3JsZGV4YW0iLCJhcnRpY2xlSWQiOjU5NTk2MCwiaXNzdWVkQXQiOjE3OTU1Mjk4NTcxMjd9.Du-3t6Jm9qFq9qB16dfpBl7oSoC4qQY2USKeNSYcTT0&q=%ec%a0%9c%ec%a3%bc%20%ec%9b%8c%ec%bc%80%ec%9d%b4%ec%85%98%20%eb%b0%94%ec%9a%b0%ec%b2%98%20%ec%b6%94%ea%b0%80%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "제주 워케이션 바우처 추가모집",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "■ 경영 분야 · [서울] 중랑구 2027년 유기질비료 지원사업 추가ㆍ변경 신청 공고 신청 기간: 2026-11-09 ~ 2026-11-23 / 소관... 수행: 제주신용보증재단 · [경북] 영양군ㆍ봉화군ㆍ울릉군 2026년 중소기업 국내 물류비 지원사업 참여기업 추가 모집 공고 신청... 상시모집 연장 공고 신청 기간: 2026-05-28 ~ 2026-12",
-   "url": "https://cafe.naver.com/jiwonmoa/12?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imppd29ubW9hIiwiYXJ0aWNsZUlkIjoxMiwiaXNzdWVkQXQiOjE3OTU1Mjk4NTcxMjd9.bH2WZVuJMtMI55ADP23n6RzfAJccLSQ3M1Mu2DpzJQc&q=%ec%a0%9c%ec%a3%bc%20%ec%9b%8c%ec%bc%80%ec%9d%b4%ec%85%98%20%eb%b0%94%ec%9a%b0%ec%b2%98%20%ec%b6%94%ea%b0%80%eb%aa%a8%ec%a7%91&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "제주 워케이션 바우처 추가모집",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "매장 바로 앞에 주차 못하셨다고 실망하지 않으셔도돼요 밀양시골밥상 울산율리점의 내부 모습 밀양시골밥상의 카운터예요 울산페이와 온누리상품권으로 결제가 되니 울산페이나 온누리상품권으로 결제하구 혜택 받아보세용! 가자미찌개 포장도 되니까 참고하세요 :) 2인 : 33,000원 (현금 결제시 1인당 천원씩 할인이된데용) 대신 현금영수증은 안된다네요! 카운터... ",
-   "url": "https://blog.naver.com/arum42/224490576793",
-   "engine": "naver_blog",
-   "query": "온누리상품권 페이백 재가동 군",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "무리야 넘 맛있게 먹고 왔답니다, 광주 한우 맛집 어등명가 식육식당은 - 1층, 2층 / 넓은 2층은 단체 회식이나 각종 모임으로 좋음(88명 가능!) - 아기의자 - 넓은 주차장 짜잔 가족식사로도 회식으로도 좋은데 올거에요 안올거에요? 지역상품권 온누리 삼성 애플페이 다 되죠? 질 좋은 한우 광주에서 찾는다면 광주 한우 맛집 어등명가 식육식당에서새 창 열",
-   "url": "https://blog.naver.com/dhkd169/224490547666",
-   "engine": "naver_blog",
-   "query": "온누리상품권 페이백 재가동 군",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "※ 직접 계약한 업체로, 블로그 후기 작성에 따른 페이백 혜택이 있습니다. 본식 DVD를 남기기로 한 이유 ICC 웨딩홀... - 2016년 12월 개업 - 대전 본점 및 안산점 운영 - 전 상품 4K 촬영 - 대전·안산시청 기준 100km까지 출장비 무료 - 디지털 온누리상품권, 대전사랑카드 결제 가능 요즘 웨딩업체들의 세련된 홈페이지와 비교하면 가격표나",
-   "url": "https://blog.naver.com/uuh-_-_/224490459882",
-   "engine": "naver_blog",
-   "query": "온누리상품권 페이백 재가동 군",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "디지털온누리상품권 7% 선할인과 네이버페이 페이스사인 10% 적립을 같이 썼어요. 어떻게 결제했는지 순서대로 정리해볼게요. 디지털온누리상품권 275,000원 충전 시 19,250원 할인... 확인하기 ✔ 할인율과 이벤트는 2026년 11월 기준이라 결제 전에 한 번 더 확인하기 약값은 아끼기 어렵다고 생각했는데, 결제 방법만 바꿔도 차이가 꽤 컸어요. 약국",
-   "url": "https://blog.naver.com/penda70101/224490530959",
-   "engine": "naver_blog",
-   "query": "온누리상품권 할인율",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "이 글에서 정리한 내용 ① 백화점 상품권 싸게 사는 곳과 실제 할인율 ② 10만 원권 vs 50만 원권, 배송비까지 계산하면? ③ 잔액 환불 받는 조건 (60% 규칙) ④ 유효기간과 모바일... me 공식 사이트 신세계백화점 상품권 안내 롯데백화점 상품권 구매 안내 함께 보면 좋은 글 온누리상품권 할인 구매 방법 백화점 겨울 정기세일 일정 가짜 할인 구별법",
-   "url": "https://blog.naver.com/wlwlqpqp1000/224490530863",
-   "engine": "naver_blog",
-   "query": "온누리상품권 할인율",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "이재명 대통령 모두발언 국정 철학과 경제 성과, 예산안 당부 1. 정치의 본령이자 국정의 궁극적 목표는 국민 삶의 실질적 개선이며, 실제 삶과 동떨어진 주장은 공허한 말잔치에 불과하다고 강조했다. 2. 지난주 연간 수출액이 사상 처음 1조 달러를 돌파했고, 올해 경제 성장률이 4%에 가까울 것이라는 전망이 나온다고 밝혔다. • 그래서 성장의 불씨를 키우고 ",
-   "url": "https://blog.naver.com/daehyun2332/224490500813",
-   "engine": "naver_blog",
-   "query": "온누리상품권 할인율",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "네이버에서 무료 방문 견적 예약하기 온누리상품권 공식 가맹점 디지털(카드·QR) 충전 시 7% 할인 · 월 100만 원까지 구매 · 최대 200만 원 보유 지류(종이) 구매 시 5% 할인 · 월 10만... ※ 할인율과 구매 한도는 운영 정책에 따라 달라질 수 있습니다. 이벤트 기간 : 2026년 12.31 까지 1.네이버 리뷰 이벤트 네이버 리뷰 작성하고",
-   "url": "https://blog.naver.com/fabric_soom/224490477995",
-   "engine": "naver_blog",
-   "query": "온누리상품권 할인율",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "가계부 기준 월 250만원씩 지출하시며 지역화폐 할인 등을 활용하면 250만원 넘기는 일은 드물다고 합니다.. ( 지역화폐 온누리 메모메모.. ) 생활비는 현금성 자산 (원화,달러 분할... 이번영상에서 중요한점은 많은팁도 있지만 커버드콜을 안하시고 자가배당 하시는 이유 투자자를 비판하려는게 아니라 상품 구조와 세금,건보로 효율 측면에서 자가배당의 장점을.",
-   "url": "https://blog.naver.com/seventmdghks/224490476722",
-   "engine": "naver_blog",
-   "query": "온누리상품권 할인율",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "정부와 소상공인시장진흥공단은 명절이나 소비 진작 행사 기간에 맞춰 디지털 온누리상품권 할인율을 상향하거나 추가 환급 이벤트를 한시적으로 운영합니다. 특별 할인 한도는 평소 일반 한도와 별도로 책정되는 경우가 많고 선착순 예산이 소진되면 공고 기간 전이라도 조기 종료되므로, 행사 시작 전에 앱 회원가입과 계좌 등록을 미리 끝내 두고 알림 설정을 켜 두어야 원",
-   "url": "https://cafe.naver.com/checknews/454?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNoZWNrbmV3cyIsImFydGljbGVJZCI6NDU0LCJpc3N1ZWRBdCI6MTc5NTUzMDE3ODE4M30.zZLIsJXrwv6P11luReK7X6KmwLa0UVWmRaOf5PT6Mwk&q=%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%95%a0%ec%9d%b8%ec%9c%a8&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "온누리상품권 할인율",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "연말에 장을 볼 때는 대형마트 대신 온누리상품권을 활용해 전통시장을 이용하면 할인과 소득공제 두 마리 토끼를 동시에 잡을 수 있습니다. ■ 세액공제 끝판왕, '연금저축펀드 & IRP' 납입 한도 채우기 소득공제보다 세금을 직접 깎아주는 '세액공제'의 효과가 훨씬 강력합니다. 대표적인 절세 계좌인 연금저축펀드와 개인형 퇴직연금(IRP)은 납입 금액의 최대 1",
-   "url": "https://cafe.naver.com/gn1room/432?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImduMXJvb20iLCJhcnRpY2xlSWQiOjQzMiwiaXNzdWVkQXQiOjE3OTU1MzAxNzgxODN9.OEHC_3fdpA5VoC3m6VAHdnEFICBnmltFf4UlR6XgqEM&q=%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%95%a0%ec%9d%b8%ec%9c%a8&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "온누리상품권 할인율",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "온누리상품권이 18년 만에 바뀌었습니다. · 전통시장에서 쓰면 구매 5% 할인 + 사용 후 5% 환급 = 10% · 지방 골목상권에서 쓰면 5% 할인 + 3% 환급 = 8% · 예전에는 어디서 쓰든 할인율이 같았는데, 이제 사용처에 따라 다릅니다 → 같은 10만 원을 써도 전통시장에서 쓰면 1만 원... · 품절 상품 웃돈 주고 사기 — 어제도 다이소 5,",
-   "url": "https://cafe.naver.com/hushpuppies/28?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imh1c2hwdXBwaWVzIiwiYXJ0aWNsZUlkIjoyOCwiaXNzdWVkQXQiOjE3OTU1MzAxNzgxODN9.oa35Y6HS3yCVnicX822VBgO73Tz5tWoJwUxD4G-MqU0&q=%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%95%a0%ec%9d%b8%ec%9c%a8&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "온누리상품권 할인율",
-   "first_seen": "2026-11-24T23:07:49+09:00"
-  },
-  {
-   "title": "오늘의 산업 동향 구독자 3,093명이슈 시작일 2024.12.31 SNS 보내기 AI 요약 AI가 생성한 요약으로 정확하지 않을 수 있어요. 25살 된 렉스턴, PHEV로 '환골탈태' 선언…기대만큼 어깨도 무겁다 KG모빌리티(KGM) 렉스턴이 25살을 맞아 '대변신'에 나선다. KGM의 대표 SUV로 자리매김해 온 렉스턴에 플러그인 하이브리드(PHEV)파",
-   "url": "https://cafe.naver.com/greenb0k6k/201701?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdyZWVuYjBrNmsiLCJhcnRpY2xlSWQiOjIwMTcwMSwiaXNzdWVkQXQiOjE3OTU1MzAxNzgxODN9.L8N2bFK7VQsfGbHrVUZAEXdPs1R9whUhP2zvOVopPkE&q=%ec%98%a8%eb%88%84%eb%a6%ac%ec%83%81%ed%92%88%ea%b6%8c%20%ed%95%a0%ec%9d%b8%ec%9c%a8&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "온누리상품권 할인율",
-   "first_seen": "2026-11-24T23:07:49+09:00"
   }
  ],
  "errors": [
-  "gnews '수산대전': HTTP Error 429: Too Many Requests"
+  "gnews '수산대전': HTTP Error 429: Too Many Requests",
+  "gnews '디지털 온누리 특별할인 캐시백 한도': HTTP Error 429: Too Many Requests"
  ],
- "skipped_for_time": 118
+ "skipped_for_time": 114
 }
