@@ -1,12 +1,10 @@
 {
- "updated": "2026-11-25T07:08:38+09:00",
+ "updated": "2026-11-26T06:41:47+09:00",
  "source": "aside",
  "note": "Aside 실제 브라우저 네이버 검색 결과(하루 1회). 각 JOB 은 job 이 자기 것이고 first_seen 이 직전 실행 이후인 hit 만 판정한다.",
- "searches_done": 15,
- "searches_failed": 1,
- "errors": [
-  "['naver-job1-07', 'naver-job1-08', 'naver-job2-09']: 답 JSON 아님: job10-11 결과를 KuroDY 에이전트에 전달했습니다."
- ],
+ "searches_done": 18,
+ "searches_failed": 0,
+ "errors": [],
  "hits": [
   {
    "title": "뮤지컬 헬로카봇 <카봇크루가 되어줘!> - 대전",
@@ -389,6 +387,104 @@
    "job": "job10",
    "engine": "aside_naver",
    "first_seen": "2026-11-25T07:08:38+09:00"
+  },
+  {
+   "title": "리얼 애니멀매직쇼",
+   "url": "https://blog.naver.com/ggumija_home/224491696710",
+   "snippet": "2026년 11월 28일 ~ 2026년 11월 28일 · 국립중앙과학관 사이언스홀 · 무료 · 전 연령(초등생이하보호자동반)",
+   "evidence": "운영기간 2026년 11월 28일 ~ 2026년 11월 28일",
+   "query": "대전 어린이 공연 무료 예약",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-26T06:41:47+09:00",
+   "official_url": "https://rsvn.science.go.kr/nsm/evtrsvn/evtrsvnDetail?evtNo=477"
+  },
+  {
+   "title": "쇼뮤지컬 〈시크릿쥬쥬 : 별의보석 - 잃어버린 빛을 찾아서〉 - 대전",
+   "url": "https://blog.naver.com/1112kim/224485140957",
+   "snippet": "기간 2026.12.25 · 대전 평송청소년문화센터 대극장 · R석 66,000 원 S석 44,000 원 · 24개월이상 관람가능",
+   "evidence": "2026년 12월 25일 (금) 11:00. 14:00, 16:30",
+   "query": "대전어린이회관 공연",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-26T06:41:47+09:00",
+   "official_url": "https://nol.yanolja.com/ticket/products/26013206"
+  },
+  {
+   "title": "가족퍼포먼스 [페인터즈]",
+   "url": "https://blog.naver.com/bom6065/224490149462",
+   "snippet": "2026-12-25 ~ 2026-12-25 · 대전시립연정국악원 큰마당 · R석 3만원, S석 2만원 · 5세 이상 관람 가능 ※2022년 포함 및 이전 출생자",
+   "evidence": "공연일 2026-12-25 ~ 2026-12-25 시간 오후 2시, 오후 5시 ※1일간 2회 공연",
+   "query": "대전 12월 어린이 공연 예매",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-26T06:41:47+09:00",
+   "official_url": "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceView.do?menuSeq=6402&pageIndex=&pblprfrInfoId=2047&searchAllPblprfrAt=&searchPastPblprfrAt=&searchPblprfrFormClCode=001"
+  },
+  {
+   "title": "판소리 동화 콘서트 <자라는 자라>",
+   "url": "https://blog.naver.com/1109yj/224489597370",
+   "snippet": "2026-12-12 ~ 2026-12-12 · 큰마당 · R석 2만원, S석 1만원 · 3세 이상 관람 가능 ※2024년 포함 및 이전 출생자",
+   "evidence": "공연일 2026-12-12 ~ 2026-12-12 시간 오전 11시, 오후 2시 / ※1일간 2회 공연 장소 큰마당 관람료 R석 2만원, S석 1만원 등급 3세 이상 관람 가능 ※2024년 포함 및 이전 출생자",
+   "query": "대전시립예술단 무료 공연 어린이",
+   "job": "job1",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-26T06:41:47+09:00",
+   "official_url": "https://www.daejeon.go.kr/kmusic/kmsPublicPerformanceView.do?pblprfrInfoId=2052&menuSeq=5308"
+  },
+  {
+   "title": "리얼 애니멀매직쇼",
+   "url": "https://blog.naver.com/goodgood550/224490876983",
+   "snippet": "2026년 11월 28일 · 국립중앙과학관 사이언스홀 · 무료 · 전 연령(초등생이하보호자동반)",
+   "evidence": "ㅇ 일정 : 2026 대한민국 월드리그(조류) 11.28.(토) 13:00 ~ 14:00",
+   "query": "대전 어린이 체험 접수",
+   "job": "job7",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-26T06:41:47+09:00",
+   "official_url": "https://rsvn.science.go.kr/nsm/evtrsvn/evtrsvnDetail?evtNo=477"
+  },
+  {
+   "title": "우리가족 세종 시민홍보대사 모집",
+   "url": "https://www.daangn.com/kr/business-post/ntge5w15f7vr/",
+   "snippet": "12.1 (화) · 12.2 (수) · 오후 · 정부세종컨벤션센터 → 도도리파크 / 한글상점 · 6세(유치원 6세반, 만 4세) 이상",
+   "evidence": "12.1 (화) · 12.2 (수) · 오후 · [미래탐색] 일일 세종 기업가 투어",
+   "query": "세종 가족 체험 모집",
+   "job": "job7",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-26T06:41:47+09:00",
+   "official_url": "https://onsejong.localo.co.kr/apply/family/?ref=danggeun"
+  },
+  {
+   "title": "Sunday All in One Program",
+   "url": "https://blog.naver.com/dodreamartstudio/224488759015",
+   "snippet": "11월 29일 일요일 · 두드림아트스튜디오 · 정상가 200,000원에서 152,000원",
+   "evidence": "11월 29일 일요일 크리스마스 세라믹 접시 페인팅",
+   "query": "세종 가족 체험 모집",
+   "job": "job7",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-26T06:41:47+09:00",
+   "official_url": "https://m.booking.naver.com/booking/6/bizes/932150/items/8255843?area=pll&lang=ko&map-search=1&service-target=map-pc&startDate=2026-11-29&theme=place"
+  },
+  {
+   "title": "2026 가족 문화 프로그램 : 우리 집 작은 정원, 테라리움 (2차)",
+   "url": "https://blog.naver.com/nabimoa81/224490903581",
+   "snippet": "2026. 12. 05 (토) · 서울특별시 영등포구 국회대로 44길 10 (영등포동7가), 서울시 노동자복지관 5층 소강당 · 수강료 전액 무료 · 가족단위 선착순 15팀 (1차 참여자 제외 : 신청 시 취소 처리)",
+   "evidence": "2026. 12. 05 (토) 14:00 ~ 15:30",
+   "query": "노동자 가족 체험 프로그램 신청 서울",
+   "job": "job10",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-26T06:41:47+09:00",
+   "official_url": "https://www.seoulworker.org/sub_program/operate.php?idx=83"
+  },
+  {
+   "title": "[참여자 모집] 아빠와 아이가 함께하는 워라밸 식탁, 우리가족 행복 식탁!",
+   "url": "https://blog.naver.com/gworkingmom/224490206238",
+   "snippet": "2026년 12월 5일(토) · 함께 쿡쿡 (서울 영등포구 국회대로44길 4, 3층) · 무료 · 서울시 소재 중소기업 아빠 근로자 및 자녀(6~13세)",
+   "evidence": "교육 일시 2026년 12월 5일(토) 11:00~13:00",
+   "query": "노동자 가족 체험 프로그램 신청 서울",
+   "job": "job10",
+   "engine": "aside_naver",
+   "first_seen": "2026-11-26T06:41:47+09:00"
   }
  ]
 }
