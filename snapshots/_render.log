@@ -1,55 +1,66 @@
 [swissmintshop-gold-coins] rendered 668 chars CHANGED
-[swissmint-latest-news] rendered 1177 chars CHANGED
-[vol-commonz042-notice] rendered 1253 chars CHANGED
-[djac-performance-2026-12-p2] rendered 4153 chars CHANGED
-[nol-product-melon-disney-ghibli-christmas-daejeon] rendered 2833 chars CHANGED
-[usmint-product-schedule-2026] rendered 160 chars CHANGED
-[djbea-biz-pbnc] rendered 2253 chars CHANGED
-[chungbuk-picturebookgarden-programs] rendered 2893 chars CHANGED
-[koreanair-promo-2610prg] rendered 49429 chars CHANGED
-[koreanair-promo-list] rendered 54594 chars CHANGED
-[djac-perf-5487] rendered 3892 chars CHANGED
-[nol-product-26015783] rendered 2850 chars CHANGED
-[nol-product-26016080] rendered 3088 chars CHANGED
-[leis-cycling-cbsports-list] rendered 1011 chars CHANGED
-[epost-fsale-coupon] rendered 1306 chars CHANGED
-[sejong-notice-gogohak-festa] rendered 1256 chars CHANGED
-[sejong-notice-gogohak-festa-alt] rendered 1256 chars CHANGED
-[kopis-perf-kids-circus-daejeon-2027] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF306843&mt10Id=undefined&search=plc&", waiting until "domcontentloaded"
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
 
-[sejong-notice-yeondong-storyfest] rendered 2167 chars CHANGED
-[djkids-main] rendered 1479 chars CHANGED
-[vol-djv1365-notice] rendered 1472 chars CHANGED
-[vol-djv1365-notice-411] rendered 677 chars CHANGED
-[baekje-schedule] rendered 1512 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 9262 chars CHANGED
-[ticketlink-notice-mobile] rendered 261890 chars CHANGED
-[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
-[pyeongtaek-gosi] rendered 1653 chars CHANGED
-[donghae-dhdmo-program] rendered 1804 chars CHANGED
-[daejeon-okr-edu] rendered 1501 chars same
-[daejeon-okr-hanbatlib] rendered 1643 chars same
-[yangyang-cafe-balloon-15331] rendered 5275 chars CHANGED
-[komsco-shop-medal] rendered 246 chars CHANGED
-[komsco-shop-coin] rendered 247 chars CHANGED
-[komsco-shop-bar] rendered 246 chars CHANGED
-[komsco-shop-card] rendered 247 chars CHANGED
-[komsco-shop-currency-set] rendered 246 chars CHANGED
-[cnu-jsh-schedule] rendered 627 chars same
-[bok-commemorative-coin-news] rendered 634 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 6195 chars CHANGED
-[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
-[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
-[pyoungsong-tribe-events-api-p2] rendered 132622 chars same
-[kopis-pf297232] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[blog-gotaekmusicfesta-224426168539] rendered 2681 chars CHANGED
+[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF297232", waiting until "domcontentloaded"
+  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
 
-[dgdr-festival] rendered 203 chars CHANGED
-[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[ysfesta-main] rendered 133 chars CHANGED
+[khs-main] rendered 1693 chars same
+[khs-eventinfo] rendered 1144 chars CHANGED
+[kopis-pf302030] rendered 7840 chars same
+[blog-gotaekmusicfesta-224428285877] rendered 2921 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3647 chars CHANGED
+[djkids-program-notice] rendered 1214 chars CHANGED
+[kaist-orchestra-appassionato-booking] rendered 4559 chars CHANGED
+[naver-blog-kaist-chorus-39th] rendered 2397 chars CHANGED
+[dmak-main] rendered 524 chars CHANGED
+[vol-djv1365-bongsadan] rendered 877 chars CHANGED
+[yes24-mobile-notice-list] rendered 196 chars CHANGED
+[kywa-camp-reservation-list] rendered 3672 chars same
+[blog-mandoodad-224482518648] rendered 3585 chars CHANGED
+[ticketlink-product-64315] rendered 261890 chars CHANGED
+[onsejong-localo-family] rendered 2405 chars CHANGED
+[sooperang-event-board] rendered 1413 chars CHANGED
+[sslib-sanseong-notice] rendered 1447 chars CHANGED
+[sslib-sanseong-lect-list] rendered 2101 chars CHANGED
+[foresttrip-notice-280206] rendered 8183 chars CHANGED
+[yes24-perf-61277] rendered 198 chars CHANGED
+[bac-perf-253033] rendered 1752 chars CHANGED
+[bac-perf-253035] rendered 1778 chars CHANGED
+[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
+  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
 
+[woosongart-schedule] rendered 760 chars CHANGED
+[nol-notice-10111] rendered 9261 chars CHANGED
+[naver-entertain-018-0006379428] rendered 46260 chars CHANGED
+[melon-artist-songsohee] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/artist/index.htm?artistId=672059
+Call log:
+  - navigating to "https://ticket.melon.com/artist/index.htm?artistId=672059", waiting until "domcontentloaded"
+
+[interpark-artist-leejuck] rendered 10133 chars CHANGED
+[yctf-show] rendered 417 chars CHANGED
+[sejong-notice-science-concert] rendered 1017 chars CHANGED
+[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
+[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
+[yangyang-cafe-balloon-15331-m] rendered 31760 chars CHANGED
+[hanbat-gongdong-science-form] rendered 622 chars CHANGED
+[daejeon-cafe-dodam-2801968] rendered 9106 chars CHANGED
+[cnu-jsh-schedule-178] rendered 3001 chars CHANGED
+[dmzforest-main] rendered 6340 chars CHANGED
+[sejong-notice-dance-free] rendered 1711 chars CHANGED
+[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
+[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
+Call log:
+  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
+
+[woorisb-tok7-product] rendered 2804 chars CHANGED
+[mommom-sandmagic-a] rendered 95 chars CHANGED
+[mommom-sandmagic-b] rendered 84 chars CHANGED
+[sejong-notice-imnansu-play] rendered 869 chars CHANGED
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
