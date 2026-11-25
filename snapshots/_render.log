@@ -1,60 +1,56 @@
-[kwater-realtime-multidam] rendered 10521 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 282055 chars CHANGED
-[gongjeon-kids] rendered 548 chars CHANGED
-[navy-visit-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[mommom-sandmagic-b] rendered 95 chars CHANGED
+[sejong-notice-imnansu-play] rendered 869 chars CHANGED
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[andong-halftour] rendered 2550 chars CHANGED
+[kfe-main] rendered 3598 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4655 chars CHANGED
+[blog-dooglami-224434696671] rendered 5198 chars CHANGED
+[dsecc-programs-p2] rendered 1945 chars CHANGED
+[dsecc-programs-p3] rendered 1945 chars CHANGED
+[mommom-place-6a868bff] rendered 84 chars CHANGED
+[mommom-place-6a2b946b] rendered 84 chars CHANGED
+[nol-product-phantom-40th] rendered 5603 chars CHANGED
+[daejeontour-bread-festival] rendered 1260 chars CHANGED
+[visitisland-main] rendered 993 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1640 chars same
+[visitkorea-tour50-notice] rendered 616 chars CHANGED
+[mommom-place-6a7d51b7] rendered 95 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3340 chars CHANGED
+[blog-dooglami-224433357728] rendered 5030 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] rendered 34079 chars same
+[pyoungsong-monthly] rendered 634 chars same
+[pyoungsong-wp-event-api] rendered 208 chars same
+[aircanada-kr-kbcard] rendered 27300 chars CHANGED
+[aircanada-kr-moretotravel] rendered 2999 chars CHANGED
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[nol-product-ghibli-love-daejeon-2027] rendered 2910 chars CHANGED
+[nol-product-ghibli-disney-daejeon-2027] rendered 3340 chars CHANGED
+[nol-product-dorothy-oz-sejong] rendered 2292 chars CHANGED
+[miraeasset-kids-economic-class] rendered 102 chars same
+[aircanada-kr-flights-from-korea] rendered 24936 chars CHANGED
+[djac-performance-2026-12-p2] rendered 4200 chars CHANGED
+[nol-product-melon-disney-ghibli-christmas-daejeon] rendered 2833 chars CHANGED
+[usmint-product-schedule-2026] rendered 160 chars CHANGED
+[djbea-biz-pbnc] rendered 2251 chars CHANGED
+[sejong-notice-gogohak-festa-alt] rendered 1256 chars CHANGED
+[kopis-perf-kids-circus-daejeon-2027] rendered 7787 chars same
+[vol-djv1365-notice] rendered 1472 chars CHANGED
+[vol-djv1365-notice-411] rendered 677 chars CHANGED
+[sslib-sanseong-notice] rendered 1447 chars CHANGED
+[sslib-sanseong-lect-list] rendered 2101 chars CHANGED
+[foresttrip-notice-280206] rendered 8183 chars CHANGED
+[yes24-perf-61277] rendered 198 chars CHANGED
+[bac-perf-253033] rendered 1752 chars CHANGED
+[bac-perf-253035] rendered 1778 chars CHANGED
+[mnd-main] rendered 17084 chars CHANGED
+[royal-khs-events] rendered 1195 chars same
+[expo-park] rendered 734 chars CHANGED
+[nol-upcoming-notice] rendered 16082 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 16116 chars CHANGED
+[ticketlink-notice-mobile] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000", waiting until "domcontentloaded"
+  - navigating to "https://m.ticketlink.co.kr/help/notice", waiting until "domcontentloaded"
 
-[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
-[pyeongtaek-gosi] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.pyeongtaek.go.kr/pyeongtaek/saeol/gosi/list.do?mid=0401020100", waiting until "domcontentloaded"
-
-[donghae-dhdmo-program] rendered 1804 chars CHANGED
-[daejeon-okr-edu] rendered 1501 chars same
-[daejeon-okr-hanbatlib] rendered 1640 chars same
-[yangyang-cafe-balloon-15331-m] RENDER ERROR k (most recent call last):
-  File "/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py", line 182, in <module>
-    print(json.dumps(out, ensure_ascii=False), flush=True)
-UnicodeEncodeError: 'utf-8' codec can't encode character '\ud83d' in position 19323: surrogates not allowed
-
-[hanbat-gongdong-science-form] rendered 622 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 8660 chars CHANGED
-[cnu-jsh-schedule-178] rendered 3148 chars CHANGED
-[dmzforest-main] rendered 6340 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[melon-christmas-carol-212575] rendered 1848 chars CHANGED
-[woorisb-tok7-product] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://m.woorisavingsbank.com/product/deposite/view.do?prdSn=325", waiting until "domcontentloaded"
-
-[mommom-sandmagic-a] rendered 95 chars CHANGED
-[cwg-dmz-crane-notice] rendered 904 chars CHANGED
-[royalmint-lotr] rendered 5061 chars CHANGED
-[sejong-youth-prog-list] rendered 3020 chars CHANGED
-[ssg-fsale-coupon] rendered 9930 chars CHANGED
-[nol-product-26011246] rendered 1720 chars CHANGED
-[naver-booking-joyculture-daejeon] rendered 35477 chars CHANGED
-[donggu-yeyak-exprn-list] rendered 2300 chars CHANGED
-[djac-perf-5603] rendered 3222 chars CHANGED
-[djac-perf-5606] rendered 3436 chars CHANGED
-[djac-perf-5441] rendered 3415 chars CHANGED
-[oasis-fsale-coupon] rendered 6578 chars CHANGED
-[nol-product-christmas-film-carol-festa-daejeon] rendered 3539 chars CHANGED
-[nol-product-stagem-christmas-carol-daejeon] rendered 2142 chars CHANGED
-[nol-product-lab-concert-daejeon] rendered 5229 chars CHANGED
-[chungju-halftour] rendered 3490 chars CHANGED
-[djac-performance-2026-12-p3] rendered 3317 chars CHANGED
-[djac-perf-1196656259] rendered 3643 chars CHANGED
-[katc-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.katc.mil.kr/katc/guide/schedule.jsp", waiting until "domcontentloaded"
-
-[fsale-main] rendered 4508 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[science-reservation] RENDER ERROR Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://rsvn.science.go.kr/nsm/evtrsvn/evtrsvnList
-Call log:
-  - navigating to "https://rsvn.science.go.kr/nsm/evtrsvn/evtrsvnList", waiting until "domcontentloaded"
-
-[khs-notice] rendered 309 chars same
