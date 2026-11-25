@@ -2393,5 +2393,29 @@
   "note": "대덕구가족센터 프로그램 신청 목록 (JOB10) — 가족 공연 관람·체험 선착순 | 2026-11-25 JOB10 추가(가족 크리스마스 매직쇼 관람, discover로만 발견)",
   "disabled": true,
   "disabled_reason": "2026-11-25 추가 시 비활성: 같은 familynet 가족센터 목록(대전시·서구)이 수집기에서 HTTP 400 반복 — Aside 열람 대상"
+ },
+ {
+  "id": "ticketlink-facility-notice",
+  "url": "https://facility.ticketlink.co.kr/help/notice",
+  "render": true,
+  "note": "티켓링크 공지 목록(facility 도메인, JOB1·3). www·m 공지 목록 스냅샷은 status 200이지만 목록 항목 없이 메뉴·번역 문자열만 수집됨 — ChatGPT는 facility.ticketlink.co.kr/help/notice/<번호> 경로로 공지를 읽음 | 2026-11-25 JOB11 추가(〈알라딘과 요술램프〉 대전 3/13 티켓오픈 공지 66627 누락 대조), 세션 네트워크 차단으로 URL 본문 미검증"
+ },
+ {
+  "id": "ticketlink-notice-ticketopen-aside",
+  "url": "https://www.ticketlink.co.kr/help/notice",
+  "render": true,
+  "note": "티켓링크 공지 '티켓오픈' 탭 목록(JOB1·3) — Aside 열람 대상. 서버 렌더는 목록 항목 0건(메뉴만)",
+  "disabled": true,
+  "disabled_reason": "2026-11-25 JOB11 추가 시 비활성: ticketlink-notice(www)·ticketlink-notice-mobile 스냅샷이 오류 없이 메뉴만 수집되어 새 티켓오픈 공지(66627 등)를 못 잡음 — Aside가 하루 1회 목록을 읽음"
+ },
+ {
+  "id": "djstar-notice-167",
+  "url": "https://www.djstar.kr/bbs/board.php?bo_table=web_notice&wr_id=167",
+  "note": "대전시민천문대 공지 '대전시민천문대어린이합창단 신입단원 모…'(11-25 20:45) 상세 — 대상 연령·선발 방식·비용 확인용(JOB10). 세션 DNS 차단 | 2026-11-25 JOB10 추가"
+ },
+ {
+  "id": "ys-happy-culture-view-994648",
+  "url": "http://www.ys-happy.or.kr/culture/board/view?md_id=culture_notice&code=994648",
+  "note": "유성구행복누리재단 문화예술 공지 「추억 제작소 : 우리 가족의 추억을 기록하다」 참여자 모집 상세 — 게시일·회차(올해 하반기 신규 여부) 확인용(JOB10). 목록 URL(ys-happy-culture-notice) 404 반복이라 상세 URL로 보완, 세션 DNS 차단 | 2026-11-25 JOB10 추가"
  }
 ]
