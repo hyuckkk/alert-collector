@@ -1,43 +1,49 @@
-[oasis-fsale-coupon] rendered 6516 chars CHANGED
-[nol-product-christmas-film-carol-festa-daejeon] rendered 3539 chars CHANGED
-[nol-product-stagem-christmas-carol-daejeon] rendered 2142 chars CHANGED
-[nol-product-lab-concert-daejeon] rendered 5229 chars CHANGED
-[chungju-halftour] rendered 3453 chars CHANGED
-[djac-performance-2026-12-p3] rendered 3453 chars CHANGED
-[djac-perf-1196656259] rendered 3643 chars CHANGED
-[baekje-schedule] rendered 1512 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[woosongart-schedule] rendered 760 chars CHANGED
-[mommom-place-6a2b94f5] rendered 95 chars CHANGED
-[mommom-place-6a2b9455] rendered 84 chars CHANGED
-[pyoungsong-tribe-events-api] rendered 170933 chars same
-[pyoungsong-event-list] rendered 297 chars same
-[ticketlink-notice-65862] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/help/notice/65862']' timed out after 75 seconds
-[docomomokorea-main] rendered 293 chars same
-[pyoungsong-event-rudolph] rendered 442 chars same
-[pyoungsong-event-snowwhite] rendered 432 chars same
-[blog-namuac21-224427113169] rendered 4802 chars CHANGED
-[royal-khs-notice] rendered 1371 chars CHANGED
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[seocheon-halftour-apply] rendered 1385 chars CHANGED
-[komsco-shop-cate2284] rendered 245 chars CHANGED
-[mcst-culture-71983] rendered 1181 chars CHANGED
-[aircanada-korea] rendered 22835 chars CHANGED
-[ticketlink-product-65585] RENDER ERROR Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation
-[yes24-perf-60278] rendered 198 chars CHANGED
-[chuncheon-notice-announcement] rendered 3729 chars CHANGED
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[chuncheon-municipal-news] rendered 1720 chars CHANGED
-[mokwon-general-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[miraeasset-kids-economic-class] rendered 102 chars same
+[aircanada-kr-flights-from-korea] rendered 24687 chars CHANGED
+[djac-performance-2026-12-p2] rendered 4153 chars CHANGED
+[nol-product-melon-disney-ghibli-christmas-daejeon] rendered 2833 chars CHANGED
+[usmint-product-schedule-2026] rendered 160 chars CHANGED
+[djbea-biz-pbnc] rendered 2251 chars CHANGED
+[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.mokwon.ac.kr/kr/html/sub06/0601.html", waiting until "domcontentloaded"
+  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
 
-[templestay-main] rendered 2634 chars CHANGED
-[hwadong-main] rendered 9716 chars CHANGED
-[mokpo-harborfestival-main] rendered 8982 chars CHANGED
-[nol-product-26012487] rendered 1439 chars CHANGED
-[hanbat-library-media-friend] rendered 506 chars CHANGED
-[kopis-place-pyoungsong-small] rendered 10094 chars same
-[bok-press-list] rendered 720 chars CHANGED
-[nol-product-ghibli-disney-daejeon-2027] rendered 3340 chars CHANGED
-[nol-product-dorothy-oz-sejong] rendered 2292 chars CHANGED
+[djkids-musical] rendered 1642 chars CHANGED
+[pyeongtaek-main] rendered 18411 chars CHANGED
+[pyoungsong-performance] rendered 1224 chars same
+[dsecc-programs] rendered 1934 chars CHANGED
+[seogu-exprn-list] rendered 1021 chars CHANGED
+[seogu-event-list] rendered 1021 chars CHANGED
+[seogu-edu-list] rendered 1027 chars CHANGED
+[daejeon-its-board] rendered 3369 chars CHANGED
+[pyeongtaek-news-board] rendered 3211 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 4255 chars CHANGED
+[aircanada-kr-so-hub] rendered 2737 chars CHANGED
+[blog-seogu-artfest-fringe-cvovz] rendered 5364 chars CHANGED
+[blog-seogu-artfest-blu2sky7] rendered 6356 chars CHANGED
+[kwater-realtime-sumun] rendered 2294 chars CHANGED
+[cnu-jsh-schedule-178-2026-11] rendered 3148 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 4564 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1260 chars CHANGED
+[kmusic-calendar-year] rendered 6309 chars CHANGED
+[nol-product-26001112] rendered 3666 chars CHANGED
+[blog-daedeokgu-224432911721] rendered 2670 chars CHANGED
+[blog-namuac21-224424725714] rendered 4552 chars CHANGED
+[blog-youneed4613-224436099074] rendered 4607 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[chungbuk-picturebookgarden-programs] rendered 2893 chars CHANGED
+[koreanair-promo-2610prg] rendered 49224 chars CHANGED
+[koreanair-promo-list] rendered 54389 chars CHANGED
+[djac-perf-5487] rendered 3892 chars CHANGED
+[nol-product-26015783] rendered 2850 chars CHANGED
+[nol-product-26016080] rendered 2561 chars CHANGED
+[leis-cycling-cbsports-list] rendered 1011 chars CHANGED
+[epost-fsale-coupon] rendered 1306 chars CHANGED
+[sejong-notice-gogohak-festa] rendered 1256 chars CHANGED
+[sejong-notice-gogohak-festa-alt] rendered 1256 chars CHANGED
+[kopis-perf-kids-circus-daejeon-2027] rendered 7787 chars same
+[sejong-notice-yeondong-storyfest] rendered 2167 chars CHANGED
+[djkids-main] rendered 1479 chars CHANGED
+[vol-djv1365-notice] rendered 1472 chars CHANGED
+[vol-djv1365-notice-411] rendered 677 chars CHANGED
