@@ -1704,7 +1704,25 @@
  {
   "id": "jeju-workation-notice",
   "url": "https://www.jeju.go.kr/workation/board/notice.htm",
-  "note": "JOB8 제주 워케이션 바우처 공지 목록(gpt 11/2 추가모집 누락 보정)."
+  "note": "JOB7 제주 워케이션 바우처 공지 목록(gpt 11/2 추가모집 누락 보정). 2026-11-26 JOB11: 워케이션은 JOB7 범위라 JOB8→JOB7로 정정."
+ },
+ {
+  "id": "visitkorea-travelmonth-local-all",
+  "url": "https://korean.visitkorea.or.kr/travelmonth/local/all-common.do",
+  "render": true,
+  "note": "JOB7 한국관광공사 여행가는 달 지역별 혜택 전체 목록(지자체 숙박비·워케이션 추가지원 등) — 새 혜택 카드 판정 | 2026-11-26 JOB11 추가(부산 서구 워케이션 숙박비 지원 ChatGPT만 발송)"
+ },
+ {
+  "id": "visitkorea-travelmonth-benefit",
+  "url": "https://korean.visitkorea.or.kr/travelmonth/benefit.do",
+  "render": true,
+  "note": "JOB7 여행가는 달 혜택 목록(benefit.do?modal=benefit-NNN 카드) — 새 혜택 번호 판정 | 2026-11-26 JOB11 추가"
+ },
+ {
+  "id": "hueandwork-busan-seogu-workation",
+  "url": "https://hueandwork.com/introduction",
+  "render": true,
+  "note": "JOB7 부산 서구 웰니스 워케이션(휴앤워크) 안내 — 숙박비 추가지원·회차 변화 | 2026-11-26 JOB11 추가"
  },
  {
   "id": "foresttrip-notice",
