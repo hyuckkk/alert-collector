@@ -1,49 +1,50 @@
-[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[mommom-place-6a2b94f5] rendered 95 chars CHANGED
+[mommom-place-6a2b9455] rendered 95 chars CHANGED
+[nol-product-phantom-40th] rendered 5599 chars CHANGED
+[daejeontour-bread-festival] rendered 783 chars CHANGED
+[visitisland-main] rendered 993 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1643 chars same
+[visitkorea-tour50-notice] rendered 628 chars CHANGED
+[ysfesta-main] rendered 133 chars CHANGED
+[khs-main] rendered 1693 chars same
+[khs-eventinfo] rendered 1144 chars CHANGED
+[kopis-pf302030] rendered 7840 chars same
+[blog-gotaekmusicfesta-224428285877] rendered 2922 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3648 chars CHANGED
+[vol-djv1365-main] rendered 6022 chars CHANGED
+[leis-cycling-kcf] rendered 2174 chars CHANGED
+[sje-life-events] rendered 38492 chars CHANGED
+[nol-nutcracker-daejeon] rendered 5027 chars CHANGED
+[mara1080-goldrun-geumsan] rendered 4302 chars CHANGED
+[runningon-schedule-open] rendered 7991 chars CHANGED
+[leis-ski-snowon] rendered 593 chars CHANGED
+[djkids-program-notice] rendered 1214 chars CHANGED
+[kaist-orchestra-appassionato-booking] rendered 4559 chars CHANGED
+[naver-blog-kaist-chorus-39th] rendered 10778 chars CHANGED
+[dmak-main] rendered 524 chars CHANGED
+[vol-djv1365-bongsadan] rendered 877 chars CHANGED
+[yes24-mobile-notice-list] rendered 196 chars CHANGED
+[kywa-camp-reservation-list] rendered 3672 chars same
+[blog-mandoodad-224482518648] rendered 3585 chars CHANGED
+[ticketlink-product-64315] rendered 282055 chars CHANGED
+[onsejong-localo-family] rendered 2405 chars CHANGED
+[sooperang-event-board] rendered 1413 chars CHANGED
+[sslib-sanseong-notice] rendered 1447 chars CHANGED
+[sslib-sanseong-lect-list] rendered 2101 chars CHANGED
+[foresttrip-notice-280206] rendered 8181 chars CHANGED
+[yes24-perf-61277] rendered 197 chars CHANGED
+[bac-perf-253033] rendered 1752 chars CHANGED
+[bac-perf-253035] rendered 1778 chars CHANGED
+[swissmintshop-gold-coins] rendered 668 chars same
+[ticketlink-notice] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/help/notice']' timed out after 75 seconds
+[kwater-realtime-multidam] rendered 10545 chars CHANGED
+[ticketlink-kids-cat-daejeon] rendered 282055 chars CHANGED
+[gongjeon-kids] rendered 657 chars CHANGED
+[navy-visit-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
+  - navigating to "https://www.navy.mil.kr/user/boardList.do?boardId=149&id=navy_030205000000", waiting until "domcontentloaded"
 
-[blog-gotaekmusicfesta-224426168539] rendered 2682 chars CHANGED
-[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[katc-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
+  - navigating to "https://www.katc.mil.kr/katc/guide/schedule.jsp", waiting until "domcontentloaded"
 
-[djbea-biz-pbnc] rendered 2253 chars CHANGED
-[chungbuk-picturebookgarden-programs] rendered 2893 chars CHANGED
-[koreanair-promo-2610prg] rendered 49429 chars CHANGED
-[koreanair-promo-list] rendered 54594 chars CHANGED
-[djac-perf-5487] rendered 3892 chars CHANGED
-[nol-product-26015783] rendered 2851 chars CHANGED
-[nol-product-26016080] rendered 3088 chars CHANGED
-[leis-cycling-cbsports-list] rendered 1012 chars CHANGED
-[epost-fsale-coupon] rendered 1363 chars CHANGED
-[sejong-notice-gogohak-festa] rendered 1256 chars CHANGED
-[sejong-notice-gogohak-festa-alt] rendered 1256 chars CHANGED
-[kopis-perf-kids-circus-daejeon-2027] rendered 7787 chars same
-[sejong-notice-yeondong-storyfest] rendered 2167 chars CHANGED
-[djkids-main] rendered 1479 chars CHANGED
-[vol-djv1365-notice] rendered 1459 chars CHANGED
-[vol-djv1365-notice-411] rendered 681 chars CHANGED
-[swissmint-latest-news] rendered 1177 chars CHANGED
-[vol-commonz042-notice] rendered 1253 chars CHANGED
-[djkids-musical] rendered 1642 chars CHANGED
-[djkids-notice] rendered 1027 chars CHANGED
-[dctf] rendered 1499 chars same
-[nol-family] rendered 4351 chars CHANGED
-[yes24-notice] rendered 196 chars CHANGED
-[pyeongtaek-main] rendered 18748 chars CHANGED
-[kopis-daejeon-kids] rendered 30510 chars CHANGED
-[pyoungsong-performance] rendered 1224 chars same
-[dsecc-programs] rendered 2054 chars CHANGED
-[seogu-exprn-list] rendered 1021 chars CHANGED
-[seogu-event-list] rendered 1021 chars CHANGED
-[seogu-edu-list] rendered 1027 chars CHANGED
-[daejeon-its-board] rendered 3369 chars CHANGED
-[pyeongtaek-news-board] rendered 3197 chars CHANGED
-[andong-halftour] rendered 2550 chars CHANGED
-[kfe-main] rendered 3599 chars CHANGED
-[blog-tjrudska82-224434527430] rendered 4327 chars CHANGED
-[blog-dooglami-224434696671] rendered 4860 chars CHANGED
-[dsecc-programs-p2] rendered 2054 chars CHANGED
-[dsecc-programs-p3] rendered 2054 chars CHANGED
-[mommom-place-6a868bff] rendered 84 chars CHANGED
-[mommom-place-6a2b946b] rendered 84 chars CHANGED
