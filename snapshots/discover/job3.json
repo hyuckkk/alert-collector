@@ -1,8 +1,835 @@
 {
- "updated": "2026-11-26T22:07:49+09:00",
+ "updated": "2026-11-26T23:07:51+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 244,
+ "new_this_run": 115,
  "hits": [
+  {
+   "title": "송소희 단독콘서트: 푸른 바람이 춤추면 눈을 감고도 달린다 — 신한카드 판스퀘어(서울 마포구), 11/28~11/29 ??이번 주 개막 ?? 스탠딩 88,000원, 지정석 88,000원 ?? https://nol.... https://nol.yanolja.com/ticket/products/26014476 --- 공연 정보: 한국문화정보원 '한눈에보는문화정",
+   "url": "https://cafe.naver.com/zeloso21/1511?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InplbG9zbzIxIiwiYXJ0aWNsZUlkIjoxNTExLCJpc3N1ZWRBdCI6MTc5NTcwMjA4ODI5NX0.NcP_ayU8DYetadI8dyZ2OdcmGvsD0FuC0paPFeFKVXw&q=%ec%86%a1%ec%86%8c%ed%9d%ac%20%ec%b6%9c%ec%97%b0&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "송소희 출연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "김이후·홍나현 출연 넷플릭스 탄생 비하인드 담은 창작 뮤지컬 ‘플릭스!’ 뮤지컬 '이상한 변호사 우영우' 잠실 광장에 뜬다…팝업 부스 오픈 배우 정성화 \"'돈값' 하는 배우 되고 싶어요\" \" \" CJ문화재단... 예매 송소희, 독보적인 음악 세계…페스티벌→단독 콘서트 특별한 무대 선사 & <페스티벌> 원주 K-매운맛 페스티벌 18만명 흥행…문화선도산단 모델",
+   "url": "https://cafe.naver.com/theculturemakers/911?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRoZWN1bHR1cmVtYWtlcnMiLCJhcnRpY2xlSWQiOjkxMSwiaXNzdWVkQXQiOjE3OTU3MDIwODgyOTV9.E47q_joRjGruJtCq0y66Kc0ktFLBr-jeZ_ffnWqYVds&q=%ec%86%a1%ec%86%8c%ed%9d%ac%20%ec%b6%9c%ec%97%b0&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "송소희 출연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "그러다가 어떤 착한 팬분이 쿠기 소매넣기 하고 감 캬캬캬 감사합니다 이건 그 날 일정표에용 아마자라시 보기 전에 송소희 궁금해서 봤는데 클래식 국악이나 사극 느낌이 아니라 엄청 에너지 빰빰해서 놀랐다는거임... 이러고 체력 남아서 레오나까지 봤는데 목소리 완전 좋음 머박 이러고 아마자라시 다시 대기... 여기서 다리 아파서 죽는줄 알았음 아마자라시는 공연 ",
+   "url": "https://cafe.naver.com/kimbarum/2827?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtpbWJhcnVtIiwiYXJ0aWNsZUlkIjoyODI3LCJpc3N1ZWRBdCI6MTc5NTcwMjA4ODI5NX0.k3T3qoelBkEbKOVrhuhnua7HvL3q64ejKsjuEzU6enc&q=%ec%86%a1%ec%86%8c%ed%9d%ac%20%ec%b6%9c%ec%97%b0&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "송소희 출연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "한눈에 보는 오늘 : 방송/가요 - 뉴스 : [티브이데일리 김한길 기자] 가수 이적의 단독 콘서트 티켓이 오픈을 앞둬 관심이 고조되고 있다. 이적의 단독 콘서트 티켓 오픈이 28일 오후 4시부터 인터파크 티켓과 세종문화회관 홈페이지를 통해 시작된다. 이적은 오는 10월 17일부터 20일까지 4일새 창 열림",
+   "url": "https://m.news.nate.com/view/20240828n12538",
+   "engine": "naver_web",
+   "query": "이적 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "2024 이적 콘서트 <이적의 노래들>",
+   "url": "https://tickets.interpark.com/goods/P0003997",
+   "engine": "naver_web",
+   "query": "이적 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "바로 독보적인 보컬 이적과 날카로운 래핑의 김진표가 결성한 듀오 패닉 이야기예요. 저도 학창 시절에 늘 이어폰을 꽂고 들었던 기억이 생생한데요. 지난 4월 무대를 놓치고... 무려 20년 만에 열린 단독 무대였던 만큼 티켓 오픈과 동시에 전석 매진을 기록하며 엄청난 화제를 모았죠. 1집부터 4집까지 시대를 풍미했던 명곡들을 쏟아내며 팬들에게 잊지 못할...",
+   "url": "https://blog.naver.com/dnflsmsgksk1234/224439559761",
+   "engine": "naver_web",
+   "query": "이적 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "저 역시 매년 스토브리그 기간마다 새벽까지 오피셜 공지를 기다리며 10개 구단 포지션별 이동을 엑셀로 정리하곤 하는데, 막상 이적이 다 끝나고 나면 \"도대체 이 새 멤버들이... 인터파크 티켓 예매 오픈 시간 체크: LCK 컵 현장 직관 티켓은 통상 경기 시작 48시간 전(이틀 전) 오후 2시 또는 오후 5시에 인터파크 티켓에서 오픈됩니다. 인기 매치업(T",
+   "url": "https://blog.naver.com/rlacndwjd/224491139472",
+   "engine": "naver_web",
+   "query": "이적 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "이적의 단독 콘서트 티켓 오픈이 오늘(28일) 오후 4시부터 진행된다. 이적은10월 17일부터 20일까지 나흘간 서울 세종문화회관에서 202...새 창 열림",
+   "url": "https://news.jtbc.co.kr/article/NB12212375",
+   "engine": "naver_web",
+   "query": "이적 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "가수 이적의 단독 콘서트 티켓이 오픈된다.이적이 오는 10월 17일부터 20일까지 4일간 서울 세종문화회관에서 진행하는 2024 이적 콘서트 ‘이적의 노래들’의 티켓이 오늘(28일) 오후 4시부터 인터파크 티켓과 세종문화회관 홈페이지를 통해 판매된다.이번 공연은 지난새 창 열림",
+   "url": "https://www.munhwa.com/article/11450111",
+   "engine": "naver_web",
+   "query": "이적 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "가수 이적의 2024 이적 콘서트 <이적의 노래들> 티켓이 오픈과 동시에 전회, 전석 매진됐다. 지난 28일 오후 4시 인터파크 티켓과 세종문화회관 홈페이지에서 2024 이적 콘서트 <이적의 노래들>의 티켓이 오픈됐다. 예매 시작과 동시에 접속자가 폭주해 화제를 모았다. 이적은 티켓 오픈과 동시에 전회, 전석을 매진시키며 부동의 티켓 파워를 증명했다....",
+   "url": "https://lady.khan.co.kr/culture/article/202408291027011",
+   "engine": "naver_web",
+   "query": "이적 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "올키즈스트라, 제14회 정기연주회 성황…환경캠페인 송 첫 공개 - 국제뉴스",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95cTZ2b1lXUzUzeE5hd05OM0wzeHZWc1pnQ05JMmsxUF9DS2k2dXREWXNjelNOZ0VydTg4b0hvMUw5aGZBRUotaVhINGZlLVh6M2hzbm9MemxBYkwzQUdld1IzM2w5UFdaa3JaZXB3?oc=5",
+   "pub": "Thu, 26 Nov 2026 13:43:18 GMT",
+   "engine": "gnews",
+   "query": "브랜든 최 색소폰 협연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "오랫동안 콘서트 연출과 관객 소통을 강조해 온 아티스트로, 감성적인 라이브와 공연 특유의 유쾌한 분위기를 함께 보여줬습니다. 특히 2026년에는 전국 각지에서 '원맨쇼... 10월 3일과 4일 충북 충주시 탄금공원에서는 '충주 파크뮤직페스티벌 WITH GUGAK'이 열렸습니다. 김장훈은 10월 3일 출연진으로 이름을 올렸습니다. 해당 날짜에는 볼빨간사춘기,",
+   "url": "https://blog.naver.com/ceo9894/224490523045",
+   "engine": "naver_blog",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "송소희 SONG SOHEE 이때말고는 밥 먹을 타이밍이 없어서 밥 먹으면서 들었는데 내가 좋아하는 < 스즈메의 문단속 ost - 스즈메 > 리메이크한 걸 들었다!!! 난 사실 할 줄 몰랐고 유명한... 나 이제 너 콘서트 가야 해.... 나토리 여팬 많아서 무대 볼 때도 소리 장난 아니였다 다른 무대는 압도적으로 남자 목소리가 큰데 나토리 때는 여자 목소리",
+   "url": "https://blog.naver.com/min_marche/224490299106",
+   "engine": "naver_blog",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "날씨 개좋죠 뙤약볕에 타죽을뻔했어요 라이즈도 식후경 닭강정이랑 야끼소바 먹었음 왕맛있어 떵찬이 조아하는 송소희님 노래들으며 딥슬립함; 무수면 이슈로 페스티벌에서 숙면하는 여성 나야나 스탠딩에서 존버를 티기고 티겨서 드디어 라이즈 하 시야 ㅈㄴ 좋았어 개고생한거 얼굴 보자마자 저능하게 또 싹 다 잊어버리죠? 레드썬이다 이거야 축하드립니다 러브썸... 새 창 ",
+   "url": "https://blog.naver.com/5_13k/224489181851",
+   "engine": "naver_blog",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "송소희 씨는 좋아하는 스타를 멀리서 바라보는 팬심이 있었고, 표현하면 부담스러워할까 봐 말하지 못했다고 했습니다. 그동안 콘서트도 보고 ‘먹을텐데’에 나온 식당도 찾아갔다니, 짧은 칭찬 한마디에 꽤 오랜 시간이 담겨 있었죠. 저는 이 고백을 듣는데 괜히 마음이 간질간질하더라고요. 좋아하는 마음을 크게 외치지 않았을 뿐, 자기 자리에서 오래 응원해 온... ",
+   "url": "https://blog.naver.com/adaptlife/224487156992",
+   "engine": "naver_blog",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "오는 28일과 29일에는 단독 콘서트 ‘푸른 바람이 춤추면 눈을 감고도 달린다’를 개최한다. 경기민요 소리꾼으로 출발해 록과 포크, 팝으로 창작 영역을 넓혀온 송소희의 변화를 확인할 수 있는 무대다. 천부적인 소리꾼에서 장르를 넘나 드는 창작자로 [영준의 음악 읽기] 2004년 KBS ‘전국노래자랑’ 충남 홍성군 편에 일곱 살 소녀가 등장했다. 고운 한복을",
+   "url": "https://blog.naver.com/kims1717/224487035044",
+   "engine": "naver_blog",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "특히 성시경이 송소희의 콘서트에 직접 가본 경험을 언급하며, 작곡가들과의 친분을 확인하는 대목은 두 사람의 끈끈한 인연을 짐작게 했습니다. 음악이라는 공통분모가 술잔을 통해 더욱 깊어지는 순간이었습니다. 화면 속 두 사람의 시선 처리는 매우 편안했으며, 성시경은 선배로서 송소희의 새로운 시도를 격려하는 따뜻한 조언을 아끼지 않았습니다. 영상 전체에... 새",
+   "url": "https://blog.naver.com/norikoaya/224486957244",
+   "engine": "naver_blog",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "사진 · 어센틱 제공 · 스타뉴스 · 원문 보기 첫 공연은 28일 오후 6시, 둘째 날은 29일 오후 5시예요. 원더리벳에서 아홉 곡을 한자리에서 들었다면 다음 주에는 송소희의 단독 무대가 기다리고 있어요. 원더리벳 2026 공식 예매 페이지 #송소희 #원더리벳2026 #원더리벳 #송소희콘서트 #햇살바람 #난센 #일산킨텍스새 창 열림",
+   "url": "https://blog.naver.com/konamillonario/224486198518",
+   "engine": "naver_blog",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "송소희, 단독 콘서트 전석 매진 송소희가 11월 28일과 29일 서울 마포구 NOL 씨어터 합정 동양생명홀에서 여는 단독 콘서트 '푸른 바람이 춤추면 눈을 감고도 달린다'가 전석 매진됐습니다. 공연 제목은 송소희의 노래 'A Blind Runner' 가사에서 따왔습니다. 송소희는 올해 6월 'PARADE', 9월 'NANSEN', 10월 14일 싱글 '햇살",
+   "url": "https://blog.naver.com/ntomorrow79/224486145581",
+   "engine": "naver_blog",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "#송소희원더리벳 #송소희세트리스트 #송소희 #원더리벳2026 #WONDERLIVET2026 #킨텍스 #햇살바람 #NotaDream #NANSEN #푸른바람이춤추면눈을감고도달린다 #송소희콘서트 #국악소녀 #송소희원더리벳 #송소희세트리스트 #송소희 #원더리벳2026 #WONDERLIVET2026 #킨텍스 #햇살바람 #NotaDream #NANSEN #푸른바람이",
+   "url": "https://blog.naver.com/starlookzip6651/224485898030",
+   "engine": "naver_blog",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "가수 아이유 (뉴스엔 수록) 가수 아이유가 2026년 7월, 지병인 이관개방증이 악화돼 9월 콘서트와 정규 6집 일정을 미뤘어요. 귀는 무대에 서는 사람한테 제일 예민한 곳이잖아요.... 만점인 줄 알았다던 한가인 380점, 장기하 388점…수능 성적 직접 밝힌 스타 6명은? https://blog.naver.com/infospick/224483855082",
+   "url": "https://blog.naver.com/infospick/224485475741",
+   "engine": "naver_blog",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "황신혜가 첫 만남에 집에 가고 싶었던 이유 손님인 줄 알았는데 경찰서장… 김명민이 《유퀴즈》에서 꺼낸 알바 일화 《나의 유죄인간》 10회, 복싱 데이트 하던 임시완이 이별을 꺼낸 이유 #송소희 #송소희근황 #국악소녀 #송소희변신 #송소희크롭티 #원더리벳2026 #원더리벳 #송소희콘서트 #송소희패션 #싱어송라이터 #송소희PARADE #J팝페스티벌 #연예뉴스 ",
+   "url": "https://blog.naver.com/bewall2401/224485880584",
+   "engine": "naver_blog",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "국악소녀의 J팝 페스티벌 무대라니 반응이 뜨거울 만하죠 송소희는 11월 28일 오후 6시, 29일 오후 5시에 단독 콘서트 '푸른 바람이 춤추면 눈을 감고도 달린다'도 열어요. 신인 걸밴드 아이우에오는 리벳 스테이지 오프닝을 맡아 'BE MY HUG'부터 '신발끈'까지 7곡을 라이브로 연주했어요. 데뷔 한 달 만의 첫 페스티벌 무대래요. 첫날 마지막... ",
+   "url": "https://blog.naver.com/mwobolkka/224485956556",
+   "engine": "naver_blog",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "얻었다 송소희는 페스티벌 무대를 마친 뒤 단독 콘서트 ‘푸른 바람이 춤추면 눈을 감고도 달린다’를 앞두고 있다 공연은 11월 28일 오후 6시와 29일 오후 5시 서울 마포구 놀(NOL) 씨어터 합정 동양생명홀에서 열린다 단독 콘서트는 전석 매진을 기록했으며, CJ문화재단 ‘튠업’의 지원을 받아 제작된다 페스티벌에서 선보인 장르의 폭이 단독 공연으로... ",
+   "url": "https://blog.naver.com/jejeje9478/224485909472",
+   "engine": "naver_blog",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "‘국악소녀’라는 이름이 오랫동안 따라붙은 만큼, 새로운 음악을 향한 기대와 국악 무대에 대한 애정이 동시에 드러난 셈이다. 송소희는 오는 28일과 29일 서울 마포구 NOL 씨어터 합정 동양생명홀에서 단독 콘서트 ‘푸른 바람이 춤추면 눈을 감고도 달린다’를 연다. 페스티벌에서 선보인 아홉 곡이 단독 공연에서는 어떤 흐름으로 이어질지 관심을 모은다.새 창 열",
+   "url": "https://blog.naver.com/koolap/224485878774",
+   "engine": "naver_blog",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "괜찮고 송소희도 괜찮고 클랜퀸도 괜찮고 웬만하면 다 괜찮은거같아서 결국 오늘은 하루종일 놀았다 굿즈 수령시간이 11시30분이길래 그시간맞춰서 갈라그랬는데 10시에 주차장대수를... 중간중간 요아소비 콘서트 홍보영상이 나오는데 눈썹있는 아야세는 진짜 오랜만에 본거같다 근데 홍보안해도 잘되실분들이..ㅋㅋㅋㅋㅋ 아그리고 뱀파이어 애니메이션인가... 새 창 열림",
+   "url": "https://blog.naver.com/moongchi--/224485412636",
+   "engine": "naver_blog",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "등급 : 초등학생 이상 관람가능, 관람시간 : 총 86분, 혜택 : 사용가능쿠폰(0) 무이자할부 제휴카드할인, 공연시간 안내 : 2026년 3월 14일(토) 오후 6시, 배송정보 : 현장 수령만 가능새 창 열림",
+   "url": "https://ticket.yes24.com/Perf/57191",
+   "engine": "naver_web",
+   "query": "이해원 소프라노 캐스팅 스케줄",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "보여줄지, 캐스팅만 봐도 고민이 시작되는 조합이에요. 사진 출처: NOL 티켓 공식 상세페이지 / 유령 캐릭터 프로필 크리스틴 | 이해원 · 최선호 신인 배우들로 채워진 크리스틴 !! 유령이 재능을 알아본 젊은 소프라노. 두 배우가... 출연진은 캐스팅표를 봐 주세요. 사진 출처: NOL 티켓 공식 캐스팅 스케줄 (2026.11.16 확인) 2차 오픈분은 ",
+   "url": "https://blog.naver.com/zsccfb/224479765745",
+   "engine": "naver_web",
+   "query": "이해원 소프라노 캐스팅 스케줄",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "더 커진 체급…아이유 2027 월드 투어로 도쿄돔→다수 스타디움 입성 - 노컷뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hanJjNXBHeVNCSUR2Y2FLRlU1R21MZGY0czVTV2Y2THNGcTE2dFk3dnhMRU8zcUVESXZFXzh2Sks0NmNVZzVoQTZteUFqNVZwTWc?oc=5",
+   "pub": "Mon, 23 Nov 2026 06:52:04 GMT",
+   "engine": "gnews",
+   "query": "아일릿 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "라포엠, 내년 1월 신년 콘서트 개최 - bnt뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BUGdoVXJIcVc3LUZNVGREVTJVUFJxdnh2U1hfMmIzWFpoZ1A0ZEZ2aVFhR3poLUVBNjlyODZqdlRUSFdPbzB1WGo3ejUwczY4NFBaVGZmVG5sOXo2WVNTZFVpbGk?oc=5",
+   "pub": "Tue, 24 Nov 2026 23:40:44 GMT",
+   "engine": "gnews",
+   "query": "아일릿 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "쏜애플, 새해 단독 콘서트 '디오라마' 개최 - bnt뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YQWRud19ucktVckVfeWRsaC1nLWcwV3BIUFV3NnVucEpfblZEYTlfOGpxbm0wMEhHVEhTQnRQVS1CWUswbWlnM2hraVpPVFJhSHVTRXlfM29lYmh0bl9xdzYwMUE?oc=5",
+   "pub": "Mon, 23 Nov 2026 01:35:00 GMT",
+   "engine": "gnews",
+   "query": "아일릿 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "'귀멸의 칼날' 음악감독 카지우라 유키, 첫 내한 공연 성료 - bnt뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RendWdU82X09mUHkwWXIxNzI3S3Nmbm9nOE1KbnRJSGhqNjduVzh2RGM4S0NDdmZKWlBOYmlMRW1xZmVLZS1QS25CQnBTQ3FvWW9TZ0N1VGQzeTFJY3NyYVk4ZHo?oc=5",
+   "pub": "Wed, 25 Nov 2026 04:23:19 GMT",
+   "engine": "gnews",
+   "query": "아일릿 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "데이식스, '더 프레젠트' 전석 매진 기록 - bnt뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZRkRSb085M2ZLZkRWSGxlWnRab3RQNmpCWUN0QkZBRTZYS3c2ZDJ3TlRxY2ROaEZjSHNMSTlVeENwTjFETVJfZ1Jzb1pCdkRnT0pyRFM3d3o0eXlTRDc1aGlyOEQ?oc=5",
+   "pub": "Sat, 21 Nov 2026 01:25:16 GMT",
+   "engine": "gnews",
+   "query": "아일릿 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "에버글로우, 美 씨월드 콘서트 출격 - bnt뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IM2RoTmpJb1AydzZwSURJUEMzQ3VYNDlyMHhoM2pmWWxaTXBOM1hodXpydHlUNWpqdDRSSks5TjNwcVJQeUdnZTF0bjZZQTd6V1Jpd2laa1N5cm1Cc1BHR0pucVI?oc=5",
+   "pub": "Sun, 22 Nov 2026 22:56:17 GMT",
+   "engine": "gnews",
+   "query": "아일릿 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "루시, 27일 팝업 콘서트 출격 - bnt뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RQ3NNeWFxMTluVDJUcnVFT3FRMEF6WmxIbFhOVU9XV3VwRlFoU0J2MUtIZTNua21yRW0ycFA0RC14U2F0ZHA4UGpraEZ6YXhwVE92WURQMXFNZllWZVE2eVl2cEM?oc=5",
+   "pub": "Wed, 25 Nov 2026 23:36:58 GMT",
+   "engine": "gnews",
+   "query": "아일릿 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "임형주, K팝페라 페스티벌 전석 매진 - bnt뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfVEZtc3dYQWFremo5aHBQYUJ4UFktTEtuNF9PSVNvQnRua2Y1X0Z6SUJWVldJbElNTjFJUDNMUURVeXJWcmdKeFctZ3pGLU1QZEFTcl9FMUxtbC1BYlJ4QlZQOTk?oc=5",
+   "pub": "Sun, 22 Nov 2026 23:22:21 GMT",
+   "engine": "gnews",
+   "query": "아일릿 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "몬스타엑스, 오늘 월드투어 앙코르 개최 - bnt뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DTlFEb0p1RDBfVDRJVzQwVkY0dkdsSjR1OVVpcWhhNTlHUWE1bkQzeDlwNWs5NDVNUS1OMGVXMjdoWk9CNVZaVGYwX2FWU1FydjBtUm1sRDNsaHVKSGRIZGlTMk8?oc=5",
+   "pub": "Sat, 21 Nov 2026 00:04:53 GMT",
+   "engine": "gnews",
+   "query": "아일릿 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "아이우에오, '원더리벳 2026' 출격 - bnt뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCRy1tODdBRnVnZ0VnZU1ZNnFCcEVTWExhWVRrOWRxX3ZsX2dDSVE3SlJaakhLeVhIN05ZaHF2ZDYtYUczMEtHNDZ0YkJSVGZuNEZwbUpENVRacFhSNDBvencyYU0?oc=5",
+   "pub": "Sat, 21 Nov 2026 00:23:22 GMT",
+   "engine": "gnews",
+   "query": "아일릿 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "빌리, 스페인 '코리아 스포트라이트' 성료 - bnt뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sbHdwVXc2bTBMRWNCN3pVd29heEVIRFFaaUFnRVBjWXZPbGRacjNhU0dKbUdOeHBOQVBlWVNzRXRrQlREcWR1Rk0xQUZJNTI0RGN2dnZBbFhOM3dSeGEwMW8zTng?oc=5",
+   "pub": "Sun, 22 Nov 2026 23:14:48 GMT",
+   "engine": "gnews",
+   "query": "아일릿 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "투모로우바이투게더, 'Angel Bite' 퍼포먼스 공개 - bnt뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BM3prQWlwTE1Rek9SUUFPN0NxNmFTZlBBMWo0WTlXRlZaSVREVTJyQkJUXy1JTmdVOFhoXzg4c0NsSXZQbGQ4UVB3azhDME02ckxqQUdrWWhmMUhtYWVnWDRRTmM?oc=5",
+   "pub": "Thu, 19 Nov 2026 22:04:24 GMT",
+   "engine": "gnews",
+   "query": "아일릿 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "[포토] 뮤지컬 '오페라의 유령' 주역 이해원·최선호 인터뷰 - 파이낸스투데이",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PQ3QyYXB4blpkTWFSYVgzRW9HTE1ESkg4RWw3Qnpid1lrWF94c2pLcU12aWUwOEZLaGhzMEUxYjVIZ3RCZU5qakIyTWdaRnhRME9BT3ZMQnVFMEhRVk5PTFA4ZGI1RDRQekdXZQ?oc=5",
+   "pub": "Tue, 24 Nov 2026 09:22:25 GMT",
+   "engine": "gnews",
+   "query": "이해원 공연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "유재석, 최예나·투어스 도훈에 파격 파트너 제안…“대박 날 것” (놀뭐) - 스포츠동아",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZTEV5WlI3c0VzM05uaFhyelBCNnVTZUQtOXpoZlBtai1YV2xMUVAxNzJ3SFBjck9XQTM3QlRxb0xqak11RXVlZGlRZ2x5ZEpKTjN4ODZYQk91eGpXUi04UVhmOWxkT2h3SE96WG1R?oc=5",
+   "pub": "Fri, 20 Nov 2026 07:27:21 GMT",
+   "engine": "gnews",
+   "query": "최예나 공개방송",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "티켓 소식을 먼저 받아보고 싶으신가요? JK Entlive 웹사이트에서 구독을 신청하시면 공연 소식과 티켓 오픈, 프리세일 정보를 이메일로 받아보실 수 있습니다. 이적에게 전하고 싶은 한마디도 남겨주세요. 그의 노래에 담긴 여러분의 추억과 시드니 공연을 기다리는 마음을 들려주세요! Stay tuned for the latest updates on Lee J",
+   "url": "https://cafe.naver.com/ausseconhand/1558881?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImF1c3NlY29uaGFuZCIsImFydGljbGVJZCI6MTU1ODg4MSwiaXNzdWVkQXQiOjE3OTU3MDIzNDQyMDV9.gnFquvIZOORKoi5n0uAir6D5ULE-nS7HvlGosZbo19M&q=%ec%9d%b4%ec%a0%81%20%ed%8b%b0%ec%bc%93%ec%98%a4%ed%94%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "이적 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "물론 두선수가 어딜 간다는 소리가 아니고요 갈거라 생각도 안하고 썰은 무시하면서 오피셜만 기다리는 사람인데요 저는 그냥 개인적으로 만약 후에 틀어져서 간다해도 우승 퍼레이드는 아름다운 피날레로 장식될 수 있게 참가해도 괜찮을거같다는 생각이거든요 그냥 행사도 아니고 우승이니까요... 우승의 주역들이니까요 ㅜㅜ 그냥 이해는 되지만서도 팬으로서 섭섭하기도하고 싱",
+   "url": "https://cafe.naver.com/lionsball/6086577?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imxpb25zYmFsbCIsImFydGljbGVJZCI6NjA4NjU3NywiaXNzdWVkQXQiOjE3OTU3MDIzNDQyMDV9.a4rqFq9J05mRtGUtgjeC0IZK1-bHJwpDz54fxPSK7XQ&q=%ec%9d%b4%ec%a0%81%20%ed%8b%b0%ec%bc%93%ec%98%a4%ed%94%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "이적 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "뉴스1은 최예나가 이 행사에 참석해 포즈를 취했다고 사진으로 전했고, 티브이데일리도 같은 날 최예나가 레드카펫을 밟았다고 보도했어요. 티브이데일리가 적은 참석 명단은 이렇습니다. - 아이오아이(I.O.I) - AEN(에이엔) - aespa(에스파) - ATEEZ(에이티즈) - Dragon Pony(드래곤포니) - HANA - Hearts2Hearts(하츠투",
+   "url": "https://blog.naver.com/dd-house4/224477917933",
+   "engine": "naver_web",
+   "query": "최예나 행사",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "패닉 이적·김진표, 12월 콘서트 끝으로 당분간 완전체 활동 쉼표 - 머니투데이 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nUm1TUmNRazdMODY0a2Nya2VkNzBVSllpYW0zSHFweC1aSl9qWXJIcEJ5aFZNQ1BNYUljZ3RaeDdiYTdGVEw0TXBmQTg1clhxYlgtdUM5c0RMTDEzYzU2djF5ekF6QnhneGFiSHBRYk9BYlHSAXhBVV95cUxOOWIwcmJKX0QydndyeFFDOTZ0WW9OSWdURHV6WXY2ekplbG5PdTh1dGRDakhXTUJuQkE4OHlmbnhtV3dwb2IybkpvT0J1MDB1Z1kzX0RzbHlMU0twOUFvUWtPemk1ZjNSckItUUhBWklxd08zVlR4d3g?oc=5",
+   "pub": "Sun, 22 Nov 2026 23:36:18 GMT",
+   "engine": "gnews",
+   "query": "이적 공연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "패닉 이적·김진표, 12월 콘서트 끝으로 당분간 완전체 활동 쉼표 - 아이즈(ize)",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GMHBCZWQ4UGlTWVlKaHg0d0xXYjU3dElQWWY1MThuX3Q2TjRSUjdYTWRJLVk3cjBpNUk4aVVRaFpZU0gtWWQwUWVBem9MMy1DcG0yVms5ejJzNk5VajM5bzdKUUkxMVJ5UWfSAWpBVV95cUxORjBwQmVkOFBpU1lZSmh4NHdMV2I1N3RJUFlmNTE4bl90Nk40UlI3WE1kSS1ZN3IwaTVJOGlVUWhaWVNILVlkMFFlQXpvTDMtQ3BtMlZrOXoyczZOVWozOW83SlFJMTFSeVFn?oc=5",
+   "pub": "Mon, 23 Nov 2026 01:17:50 GMT",
+   "engine": "gnews",
+   "query": "이적 공연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "더보이즈, 연말 단독 콘서트 ‘ZENERATION Ⅲ’ 전석 매진 - 뉴스아이이에스",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wdzltb3FaUVl6alFzYXI4ZE9laWVXdTRFbVlhLUo2TjVRM1RzR0pRakRZRDJRbkZEWFhGVnEtU1U0aS1VSjFsR0FHdDNzZk93aTBwWjhoVlFZTXVRTThickRoQmdmbUYwZUtxemREUdIBckFVX3lxTFBsSk5VOHVVa0haYmdyY1lRMDQtaHMtM0EyTk4xMVNBazNHVl9SdC1pb096djE1RmJaX0pKOWtNaEhmbEVXZWU5NWFHOG9BX0ZwN0dueDgzLXFXZm9YbEJ3UDlPTlpEcDVIV0NBNjBpWGtyZw?oc=5",
+   "pub": "Thu, 26 Nov 2026 12:00:09 GMT",
+   "engine": "gnews",
+   "query": "이적 공연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "“넌 얘한테 곡을 줘야 돼”…어머니 말에 쓴 이적 노래, 임영웅 만나 대박 난 이유 - 세계일보",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EblNwTnJyS3JuUFc4a3V6MzhVYTJfaHZUZ0tVcmxELTB0akxMemtONjVmQ3ZTMk1vdWxOTE1VVmJiR2VaaWNOWWNrRzNGQ3Fy0gFUQVVfeXFMUFduZUZlU2puSWRCaENGanM1WjJBVm9CdUhYRlJ1ZThRZzlhUFljMXdRVkpSRzdkU1NXeU9Kc255LXJhRWozejRxenFPWVl1YkM4YlRw?oc=5",
+   "pub": "Mon, 23 Nov 2026 20:41:59 GMT",
+   "engine": "gnews",
+   "query": "이적 공연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "2026년 이적과 김진표가 함께하는 듀오 패닉이 무려 20년 만에 단독 공연으로 다시 뭉쳤다는 소식이 공식 보도를 통해 알려지며 90년대와 2000년대 음악을 기억하는 리스너들에게 큰 반가움을 안겼습니다. 각자의 영역에서 꾸준히 활동해 온 두 사람이 오랜 세월을 건너 다시 한 무대에서 호흡을 맞춘 사실만으로도 한국 대중음악계에 의미 있는... 새 창 열림",
+   "url": "https://blog.naver.com/minggo88/224490187261",
+   "engine": "naver_web",
+   "query": "이적 공연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "그렇게 유명하지 않은 팀이고, 금요일 첫 공연이라 그런지 옆펜스를 잡을 수 있을 정도로 되게 여유가 있더라고요 그리고 공연장 양 옆으로 전광판이 있었는데 현재 티켓팅이 가능한 일본 내한 공연... 自白 (자백) 그리고 송소희가 다음 무대를 기다리고 있었는데 너무 힘들고 그 다음 무대를 너무 기다리고 있었어서 가지 않고 앞자리를 차지하기 위해 기다리고 있었습",
+   "url": "https://cafe.naver.com/sangkland/2967?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNhbmdrbGFuZCIsImFydGljbGVJZCI6Mjk2NywiaXNzdWVkQXQiOjE3OTU3MDI1MjExNDJ9.l1I8GJClDtl_5FWb1r0f1f8RWv_2J4KseFBXfKceVCA&q=%ec%86%a1%ec%86%8c%ed%9d%ac%20%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c%20%eb%9d%bc%ec%9d%b8%ec%97%85%20%eb%a9%9c%eb%a1%a0%ed%8b%b0%ec%bc%93&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "원더리벳이 뭔지 모르는 분들을 위해 원더리벳은 jpop&iconic Artist 페스티벌입니다. 전체라인업은 이렇고 저는 금요일에 갔습니다. 저 안에 바글바글한게 다 사람 아직 시작도 안했는데 사람이 많더라구요. 오늘 한번씩은 들어본 나토리,레오나,호시마치 스이세이,쏜애플,아마자라시,송소희 뿐만 아니라 많은 아티스트 분들이 오셨어요. 이 티켓값에 이정도 공",
+   "url": "https://cafe.naver.com/togethersr/20675?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRvZ2V0aGVyc3IiLCJhcnRpY2xlSWQiOjIwNjc1LCJpc3N1ZWRBdCI6MTc5NTcwMjUyMTE0Mn0.9cSGX9fXWDKQvSubbPbP6UPyQY26Y8hZ82BTvSnO0A8&q=%ec%86%a1%ec%86%8c%ed%9d%ac%20%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c%20%eb%9d%bc%ec%9d%b8%ec%97%85%20%eb%a9%9c%eb%a1%a0%ed%8b%b0%ec%bc%93&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "공연기간 : 2026.11.28(토) ~ 2026.11.29(일), 공연장소 : NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) 동양생명홀, 공연시간 : 토요일(18:00) · 일요일(17:00), 관람연령 : 전체 관람가, 티켓가격 : 스탠딩 88,000원 · 지정석 88,000원, 출연진 : 송소희, 제작진 : 해당정보 없음, 주최·주관 : 마운드",
+   "url": "https://kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF304304",
+   "engine": "naver_web",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "자신의 노래를 만드는 송소희의 지금을 만날 수 있는 무대죠. 여러분은 송소희의 어떤 음악이 가장 마음에 남았나요? #송소희 #송소희신곡 #햇살바람 #송소희콘서트 #싱어송라이터 #국악소녀. https://blog.naver.com/starlight_0928_/224449556254 https://blog.naver.com/starlight_0928_/2244",
+   "url": "https://blog.naver.com/starlight_0928_/224455969814",
+   "engine": "naver_web",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "남은 좌석은 각 공연의 회차별 예매 화면에서 확인해 주세요. ( nol.yanolja.com) 겨울 공연룩이 궁금하다면 https://m.blog.naver.com/may17168/224453194488?referrerCode=1 #2026년11월콘서트 #11월서울콘서트 #서울콘서트추천 #로이킴콘서트 #다이나믹듀오콘서트 #송소희콘서트 #KSPO돔 #올림픽홀",
+   "url": "https://blog.naver.com/may17168/224467658295",
+   "engine": "naver_web",
+   "query": "송소희 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "네이버뉴스새 창 열림",
+   "url": "https://n.news.naver.com/mnews/article/001/0016460917?sid=103",
+   "engine": "naver_web",
+   "query": "이해원 소프라노",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "아일릿 콘서트 일반예매 멤버십이 없어도 일반예매에 참여할 수 있습니다. 구분 일정 일반예매 오픈 2026년 9월 17일(목) 오후 8시 구매 가능 매수 각 공연 회차당 1인 1매, 총... 따라 공연을 경험하는 방식 자체가 달라지니까요. 9. 아일릿 앙코르 콘서트 예매 핵심 정리 마지막으로 티켓팅 전 이것만은 기억해 두세요. 체크 포인트 내용 공연 ILLI",
+   "url": "https://blog.naver.com/sendoh326/224409603399",
+   "engine": "naver_all",
+   "query": "아일릿 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "✔ 국내 팬클럽 선예매 9월 14일(월) 오후 8시 ✔ 글로벌 팬클럽 선예매 9월 15일(화) 오후 8시 일반예매 9월 17일(목) 오후 8시 오픈 일반예매는 국내 페이지와 글로벌 페이지에서 진행됩니다. 아일릿 앙코르 공식 예매 바로가기 NOL 아일릿 앙코르 콘서트 공식 예매 페이지 오늘 티켓팅 예정이라면 미리 로그인하고 본인인증 상태까지 확인해두는 걸..",
+   "url": "https://blog.naver.com/minchang0905/224415080626",
+   "engine": "naver_all",
+   "query": "아일릿 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "오프라인 공연 현장 운영 시간표 티켓 등급별로 현장 부스 오픈 시간과 입장 시간이 다르므로 본인이 예매한 좌석의 일정을 반드시 확인하셔야 합니다. 10월 17일 (토요일... 안내) 마무리하며 아일릿 앙코르 콘서트를 안전하고 즐겁게 관람하기 위해 실물 신분증과 모바일 티켓, 멤버십 카드를 꼭 지참하시고 이른 시간 현장에 도착하시길 권장합니다!새 창 열림",
+   "url": "https://blog.naver.com/pdosa338/224437215340",
+   "engine": "naver_all",
+   "query": "아일릿 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "일반예매 & 휠체어석 2026 아일릿 콘서트 티켓팅 예매 가격 공연 일정 일반 티켓 오픈 2026년 9월 17일 목요일 20 : 00 ~ 매진시 종료 선예매 매수를 포함하여 회차당 1인 2매까지 예매 가능합니다. 휠체어석 티켓 오픈 2026년 9월 18일 금요일 10 : 00 ~ 매진시 종료 휠체어석은 고객센터를 통한 전화 예매만 가능하며 본인 및 동반 1",
+   "url": "https://blog.naver.com/vault9/224408957275",
+   "engine": "naver_all",
+   "query": "아일릿 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "아일릿 앙코르 콘서트 PRESS START♥ ENCORE in KOREA의 선예매와 일반예매 일정이 공개됐습니다. 국내 멤버십 선예매가 먼저 시작되는 만큼 인증 마감과 예매 순서부터... 구분 내용 공연명 ILLIT LIVE PRESS START♥ ENCORE in KOREA 아티스트 ILLIT(아일릿) 티켓 오픈 국내 선예매 9/14 20:00 · 일반예",
+   "url": "https://blog.naver.com/h_an04/224410543068",
+   "engine": "naver_all",
+   "query": "아일릿 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "국내 팬클럽 멤버십 선예매 9월 14일(월) 오후 8시 ~ 오후 11시 59분 글로벌 팬클럽 멤버십 선예매 9월 15일(화) 오후 8시 ~ 오후 11시 59분 일반예매 9월 17일(목) 오후 8시 오픈 즉, 오늘 오후 8시는 일반예매가 아니라 국내 팬클럽 선예매입니다! 일반예매를 기다리고 계신 분들은 9월 17일 목요일 오후 8시 꼭 기억해두세요. ⏰ 아일",
+   "url": "https://blog.naver.com/xoheeworld/224411249600",
+   "engine": "naver_all",
+   "query": "아일릿 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "공연정보 & 티켓 안내 아일릿 앙코르 콘서트 상세 정보 구분 상세 정보 공연명 ILLIT LIVE 'PRESS START♥' ENCORE in KOREA 공연 장소 인천 영종도 인스파이어 아레나 (인천광역시... 국내 페이지 선예매 오픈: 2026년 9월 14일(월) 8PM ~ 11:59PM 3. GLLIT MEMBERSHIP 글로벌 페이지 선예매 사전 인",
+   "url": "https://blog.naver.com/art_07/224425241883",
+   "engine": "naver_all",
+   "query": "아일릿 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "티켓 오픈은 이미 지났다는데, 지금도 구할 수 있을까? 아일릿의 첫 월드투어 'PRESS START♥'가 서울을 비롯해 일본 5개 도시와 홍콩까지 전 회차 매진으로 마무리되면서, 그 여세를 이어가는 앙코르 공연이 인천에서 확정됐습니다. 일반예매... ▼ 2026 로이킴 콘서트 예매 일정과 좌석 가격, 매진 후 취소표 확인하는 법 보기 ▼ 콘서트 취소표와 취",
+   "url": "https://blog.naver.com/dailyfeedway/224419873258",
+   "engine": "naver_all",
+   "query": "아일릿 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "선예매 단계에서 모든 좌석이 조기 매진될 경우 일반예매 오픈 시점에 예매 가능한 티켓이 없거나 취소표만 소량 나올 수 있어요. #아일릿 #아일릿콘서트 #아일릿앙코르 #ILLIT #GLLIT #글릿 #인스파이어아레나 #아일릿티켓팅 #콘서트선예매 #위버스멤버십 #NOL티켓 #사운드체크석 #밋앤그릿 #아일릿좌석 #아일릿콘서트가격 #아이돌콘서트 #케이팝공연 #20",
+   "url": "https://blog.naver.com/nevergiveup86_/224423797611",
+   "engine": "naver_all",
+   "query": "아일릿 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "Rondo - Allegro moderato Sonata for Cello and Piano No.3 in A major, Op.69 (performed on Saxophone and Piano) 1. Allegro ma non tanto 2. Scherzo: Allegro molto 3. Adagio cantabile - Allegro vivace ※ 프",
+   "url": "https://blog.naver.com/thehouseconcert/223835820639",
+   "engine": "naver_all",
+   "query": "Brandon Jinwoo Choi concert saxophone",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "원래는 클래식 악기 | 색소포니스트 브랜든 최 Brandon Choi, Saxophone | 클톡.인터뷰] 2편 [클래식 색소폰과 재즈 색소폰은 같은 악기? 다른 악기? 색소폰은 목관 악기? 금관 악기? | 색소포니스트 브랜든 최 (saxophonist Brandon Choi)] 2025 아티스트 시리즈 x 색소포니스트 브랜든 최 공연 정보 및 상세 내용 ",
+   "url": "https://blog.naver.com/thehouseconcert/223784504445",
+   "engine": "naver_all",
+   "query": "Brandon Jinwoo Choi concert saxophone",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "알린 대표곡을 같은 무대에 올렸다. 엠넷의 케이(K)팝 시상식 마마(MAMA)에 출연한 세대별 아티스트의 ‘장외 조회수 경쟁’이 화제를...그룹이 장식해 눈길을 끌었다. 베이비몬스터(525만 회), 아일릿(440만 회), 코르티스(380만 회), 리센느(366만 회) 등이 빅뱅의...",
+   "url": "http://v.daum.net/v/20261124174522664",
+   "engine": "daum_news",
+   "query": "아일릿 시상식 출연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": ">에 출연해 존재감을 뽐냈습니다. 11월 17일에는 상큼한 매력을 담은 J-POP 리메이크곡 ‘사쿠란보’ 한국어 버전을 공개했으며, 오는 12월 가오슝 ‘AAA 2026’ 무대까지 예정되어 있어 연말까지 활발한 활동을 이어갈 전망입니다. 최예나 공식 인스타그램: @yena.jigumina (https://www.instagram.com/yena.jigumi",
+   "url": "https://blog.naver.com/chohi4629/224489058192",
+   "engine": "naver_web",
+   "query": "최예나 출연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "기본정보 행사 제47회 청룡영화상 개최일 2026년 11월 25일 장소 서울 여의도 KBS홀 진행 이제훈·한지민 작품상 호프 최다 수상작 가능한 사랑·4관왕 제47회 청룡영화상 진행 장면｜출처... 김윤아, 아일릿 등의 축하 무대도 이어졌습니다 오정세는 《와일드 씽》 속 노래 《니가 좋아》로 무대에 올라 영화의 재미를 시상식으로 이어갔습니다 김원준·오정세의",
+   "url": "https://blog.naver.com/bbi3131/224493776985",
+   "engine": "naver_blog",
+   "query": "아일릿 행사",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "마크, 김원준과 오정세, 아일릿, 김윤아가 무대에 올라 각자의 음악과 영화 속 이야기를 연결하는 특별한 공연을 선보였다. 단순히 유명 가수가 등장해 노래를 부르는 축하무대가... 제47회 청룡영화상이라는 행사에 맞춰 최성곤은 김원준을 정확히 47표 차이로 제치고 1위에 올랐다. 영화 속에서 이루지 못했던 꿈을 실제 시상식 무대에서 이뤄낸 셈이다. 1위 발표",
+   "url": "https://blog.naver.com/kyoung505378/224493774390",
+   "engine": "naver_blog",
+   "query": "아일릿 행사",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "기본정보 행사 : 제47회 청룡영화상 개최일 : 2026년 11월 25일 장소 : 서울 여의도 KBS홀 출연진 : 마크·오정세·김원준·김윤아·아일릿 ️ 공동 진행 : 이제훈·한지민 출연 명단 기준 : 싱글리스트·스포츠조선 보도 1. 2026 청룡영화상 축하공연 먼저 출연 명단부터 살펴볼게요. 2026 청룡영화상 축하공연 라인업에는 마크, 오정세, 김원준, ",
+   "url": "https://blog.naver.com/starbites/224493753842",
+   "engine": "naver_blog",
+   "query": "아일릿 행사",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "2026 청룡영화상 개최 정보 행사명: 제47회 청룡영화상 개최일: 2026년 11월 25일 수요일 개최 장소: 서울 여의도 KBS홀 진행: 이제훈, 한지민 주최: 스포츠조선 청룡영화상은 한국 영화의... 축하공연과 공로상 수상 이번 시상식에서는 이제훈과 한지민이 진행을 맡았으며 마크 리, 김원준, 김윤아, 아일릿 등의 축하공연도 펼쳐졌습니다. 배우 오정세",
+   "url": "https://blog.naver.com/kims_site/224493721640",
+   "engine": "naver_blog",
+   "query": "아일릿 행사",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "0/ 사진 6 – 아일릿 2026년 1월 브랜드 행사 저작자: 티비텐(TV10) 출처: Wikimedia Commons https://commons.wikimedia.org/wiki/File:Illit_in_January_2026.png 라이선스: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ #아일릿 #",
+   "url": "https://blog.naver.com/pookie9/224493714820",
+   "engine": "naver_blog",
+   "query": "아일릿 행사",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "기간은 11월 19일부터 12월 20일까지이고, 행사 이름은 '오늘부터 홀리데이, 사전예약'입니다. 예약 대상은 크초생을 포함한 12종이에요. 시즌 신제품 9종보다 대상이 넓으니, 원하는... 크림탑 스초생(크초생)과 모델 아일릿 원희 · 사진: 투썸플레이스 보도자료 예약한 케이크는 언제 찾을 수 있나요? 사전예약한 홀케이크는 12월 18일부터 31일까지 ",
+   "url": "https://blog.naver.com/isotropic-/224493641369",
+   "engine": "naver_blog",
+   "query": "아일릿 행사",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "걸그룹 아일릿(ILLIT)이 연이어 무대에 올라 객석의 배우들과 함께 즐기는 축제의 장을 완성했습니다. 4. 레드카펫을 수놓은 별들의 드레스와 수트 스타일링 본식 전 여의도 KBS홀 앞을 밝힌 레드카펫 행사에서도 스타들의 화사한 스타일링이 큰 화제를 모았습니다. MC 한지민을 비롯해 전도연, 조여정, 신민아, 문가영 등 여배우들은 우아하고 세련된 드레스 자",
+   "url": "https://blog.naver.com/jinhong0510/224493164430",
+   "engine": "naver_blog",
+   "query": "아일릿 행사",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "특히 오정세, 김원준, 아일릿, 김윤아 등의 축하공연이 화제가 되면서 다시 보기 영상을 찾는 분들이 많습니다. 본 방송을 놓쳤거나 인상 깊었던 장면을 다시 보고 싶다면 아래 내용을 참고해 주세요. 2026 청룡영화제 다시 보기 방법부터 무료 영상, 재방송 편성표, 축하공연 영상까지 한 번에 정리해 드리겠습니다. 1. 2026 청룡영화제 방송 정보 구분 내용",
+   "url": "https://blog.naver.com/jkm6803/224493386898",
+   "engine": "naver_blog",
+   "query": "아일릿 행사",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "스초생을 주문하려 했는데 이번에 투썸 플레이스에서 신상 케이크가 나왔더라구요 요즘 TV에서도 많이 보이는 아일릿 원희가 모델인 '크림탑 스초생'이 크초생이 출시 됐어요! 또... 카카오톡 선물하기 투썸 플레이스 케이크 할인 행사기간과 사용방법 행사기간 : 2026년 11월23일~11월29일 쿠폰 사용 기한 : 11월29일 오후 11시59분까지 구매하면 선물",
+   "url": "https://blog.naver.com/zzdnflwpak/224493258069",
+   "engine": "naver_blog",
+   "query": "아일릿 행사",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "케이팝 댄스 & 과자파티에 수강생 아이들을 초대합니다 일시 12월 23일 (수) 저녁 7:00 ~ 9:00 장소 토토발레 (방배로36 이삭빌딩 3층) 대상: 7세이상~초등, 중학생 ✨ 행사 내용 인기 케이팝 2곡 안무 배워가기 저녁 7:10 ~ 8:00 A2o – Neon 저녁 8:10 ~ 9:00 아일릿(ILLIT) – 체포하겠어 아이들이 좋아하는 과자가",
+   "url": "https://blog.naver.com/totoballet/224493153562",
+   "engine": "naver_blog",
+   "query": "아일릿 행사",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "과거에 이벤트성 배송 행사가 있었지만 상시 판매는 아니랍니다. 택배 구매를 원하신다면 공식 인스타그램의 새로운 공지사항을 수시로 확인해보시는 것이 가장 확실한 방법이에요. 실패 없는 성수동 디저트 투어 요령 주말이나 오후 시간대에는 방문객이 몰려 원하는 맛이 조기 품절될 수 있어요. 조금 여유롭게 오전 시간대에 방문하시면 원하는 메뉴를 수월하게... 새 창",
+   "url": "https://blog.naver.com/health_spoon/224493099580",
+   "engine": "naver_blog",
+   "query": "아일릿 행사",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "살게 됐지만, 오랜 시간 함께했던 만큼 허전함도 느꼈다는 최예나는 \"밤에 원래 오빠가 와줘야 밥도 같이 먹고 수다 떨고 아침에 오빠...2022년에는 최예나와 함께 MBC 예능 '호적메이트'에 출연해 동거 1년 차 일상을 공개하기도 했다. 당시 최성민은 어린 시절부터...",
+   "url": "http://v.daum.net/v/20261126195050557",
+   "engine": "daum_news",
+   "query": "최예나 출연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "공간을 갖게 됐지만 빈자리에 대한 아쉬움도 내비쳤다. 최예나는 “오빠도 처음엔 조금 서운해했지만 본인도 이게 맞는 것 같다고...왔으며, 2022년 MBC 예능 프로그램 ‘호적메이트’에 함께 출연해 남다른 우애가 돋보이는 일상을 공개해 큰 사랑을 받은 바 있다...",
+   "url": "http://v.daum.net/v/20261126193802347",
+   "engine": "daum_news",
+   "query": "최예나 출연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "조용히 음악을 들으며 지내고 싶은 시간 당신을 음악 세계로 초대합니다 행복한 시간 되시길 바랍니다 삶이 그대를 속일지라도 ~ 소프하노 이해원 https://youtu.be... 김기훈 소프라노 강혜정, 국립합창단 https://youtu.be/uxyKKtHDiRs?si=rcW5e1L3vjuzVx0u 삶이 그대를 속일지라도 ~ 소프라노 김순영 https://",
+   "url": "https://blog.naver.com/lim-jung-suk/224491920694",
+   "engine": "naver_blog",
+   "query": "이해원 소프라노",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "가사가 참 이쁨 그리고 이해원님이 불르신 버전으로 들어야됨 이해원님정말좋음.. 최애소프라노… 김효근교수님 노래중에 내영혼바람되어라고 잇거든 그것도 진짜 ㅈㅉ 좋음 이거는 5월달 블로그에서 추천햇던것같은데!!! 정말로 명곡임 그래찌질한이남잘버려 이건 가사가 진짜진짜 재밌음 멜로디두 다 너무너무 좋음 1절2절 분위기가 비슷한듯 다른게.. 포인트... 새 창 열",
+   "url": "https://blog.naver.com/ss0ny0206/224483857863",
+   "engine": "naver_blog",
+   "query": "이해원 소프라노",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "이번 주는 시상식, 굵직한 행사들 때문에 꽤 바빴던 미국 음악계 같다. 동시에 2026년을 정리하기 시작한 것 같은 미국 음악계다. 언제나 그랬던 것 처럼 '2027년 그래미 어워드'는 후보 발표 전부터 난리더니, 후보 발표 후에도 난리다. 위상은 모르겠으나, 화제성은 장난 아닌 것 같다. 그럼... 새 창 열림",
+   "url": "https://blog.naver.com/mindonna/224486818624",
+   "engine": "naver_blog",
+   "query": "ILLIT festival lineup",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "This year also marks the debut of MAMA FAN FESTA, a global fan-participation festival held alongside the... year’s lineup brings together artists from different generations, ranging from BIGBANG to ne",
+   "url": "https://loveh6.tistory.com/1106",
+   "engine": "naver_blog",
+   "query": "ILLIT festival lineup",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "정확한 다음 예매 오픈 시점은 공식 예매처(NOL티켓, 예스24, 메타클럽, 클립서비스 등) 공지에서 확인하는 게 가장 정확합니다. 선예매는 1인 2매, VIP·R석 한정이었다는 점이 공식적으로 확인된... 캐스팅 유령과 크리스틴을 맡나 이번 시즌 출연진은 최재림, 전동석, 박강현, 이해원, 최선호, 송원근, 김성식 등입니다. 앤드루 로이드 웨버 첫 내한,",
+   "url": "https://cafe.naver.com/goodinfo53/2265?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imdvb2RpbmZvNTMiLCJhcnRpY2xlSWQiOjIyNjUsImlzc3VlZEF0IjoxNzk1NzAyOTgwMTg0fQ.GASK5sHaSK8i0NUFbAFuGnufgzo1Zbd1o33BkMss2Yg&q=%ec%9d%b4%ed%95%b4%ec%9b%90%20%ed%8b%b0%ec%bc%93%ec%98%a4%ed%94%88&tc=naver_search",
+   "engine": "naver_cafe",
+   "query": "이해원 티켓오픈",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "(※ MBC·SBS 연예대상 및 연기대상 일정과 MC 라인업은 12월 초 공식 발표되는 대로 빠르게 업데이트해 드리겠습니다!) 마무리하며 올 연말은 2세대 레전드 아티스트들의 귀환부터 4·5세대 대세 그룹들의 특별 무대까지 볼거리가 정말 풍성합니다. 특히 SBS 가요대전 방청 신청은 12월 2일 마감, KBS 가요대축제는 12월 1일 오픈이니 현장 직관을.",
+   "url": "https://blog.naver.com/stark0654/224493632886",
+   "engine": "naver_web",
+   "query": "가요대축제 방청 신청 라인업",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "음악을 배우던 아이들, 기후위기에 대한 생각을 노래로 만들다 - K스피릿",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOV29CbDlHdm5DdmczOThNanMyaHh1Ykd6UGN3d1ZYWWl5RHZYcTdwb0czd2p4dEREVFhGdXlKYjVYVHhCNnVJMkNpOHFKVlR0aG9wbGQ0RFJNUmtvTW9Ocm9wMTVMREhxNGE5SzJWaXBZREnSAXNBVV95cUxQTldvQmw5R3ZuQ3ZnMzk4TWpzMmh4dWJHelBjd3dWWFlpeUR2WHE3cG9HM3dqeHRERFRYRnV5SmI1WFR4QjZ1STJDaThxSlZUdGhvcGxkNERSTVJrb01vTnJvcDE1TERIcTRhOUsyVmlwWURJ?oc=5",
+   "pub": "Thu, 26 Nov 2026 08:58:26 GMT",
+   "engine": "gnews",
+   "query": "브랜든 최 협연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "너드커넥션, 송소희처럼 음악적 스타일이 서로 다른 아티스트들도 포함됐습니다. 1차와 2차 라인업은 무엇이 다를까? 1차 라인업은 국내 대표 록 밴드와 해외 아티스트를 중심으로... 멜론티켓 예매방법 히어로 락 페스티벌의 공식 티켓 예매처는 멜론티켓입니다. 예매 순서는 다음과 같습니다. 멜론티켓 홈페이지 또는 앱에 접속합니다. '2026 히어로 락 페스티벌.",
+   "url": "https://blog.naver.com/byeon1004/224470322741",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "중심 페스티벌 주최 LIVET·원더로크 원더리벳 공식 홈페이지, 멜론티켓·티켓링크 공연 안내 기준. 원더리벳 공식 홈페이지 올해 행사는 킨텍스 제2전시장... 11월 20일 금요일 전체 라인업 DAY 1 · THE ORAL CIGARETTES / natori / 호시마치 스이세이 / 송소희 첫날은 J-록과 감성적인 보컬, 한국 인디 음악이 조화를 이루는 날",
+   "url": "https://blog.naver.com/hinetpc1999/224478076857",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "겨울 추위를 녹일 연말 록 축제 ‘2026 히어로 락 페스티벌 인천’이 일자별 라인업을 공개하며 본격적인 예열에 나섰다. 앞서 얼리버드 티켓 1만 장이... ‘2026 히어로 락 페스티벌 인천’ 일반 티켓 예매는 28일 오후 2시 멜론티켓을 통해 단독 오픈된다. 티켓 가격은 1일권 7만 7000원, 2일권 11만 9000원, 3일권... 새 창 열림",
+   "url": "https://sports.khan.co.kr/article/202610281153003?pt=nv",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "네이버뉴스새 창 열림",
+   "url": "https://m.entertain.naver.com/article/144/0001146768",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "송도 락 페스티벌, 3일간 36팀 무대…라인업 공개새 창 열림",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3735276",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "부활·YB·국카스텐부터 QWER까지…'히어로 락 페스티벌' 라인업 공개새 창 열림",
+   "url": "http://www.atstar1.com/news/articleView.html?idxno=6040053",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "네이버뉴스새 창 열림",
+   "url": "https://m.entertain.naver.com/article/415/0000053198",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "스폰서로 참여 소식을 알린 만큼, 리스너들과의 접점을 확대하며 페스티벌의 대중적 영향력을 한층 확장해 나갈 것으로 기대를 모은다. ‘원더리벳 2026’ 티켓은 멜론티켓과 티켓링크, 예스24티켓, 티켓피아를 통해 오픈되며, 자세한 라인업 및 관련 사항은 공식 SNS 채널에서 만나볼 수 있다.새 창 열림",
+   "url": "https://sports.khan.co.kr/article/202609020746003?pt=nv",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "네이버뉴스새 창 열림",
+   "url": "https://m.entertain.naver.com/article/144/0001135440",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "넘나드는 송소희 등이 출연을 확정해 다채로운 일본 라인업과 더불어 더욱 풍성한 라인업을 완성했다. 올해로 3회 차를 맞이한 ‘원더리벳... 넓히고 페스티벌의 즐거움을 배가할 예정이다. ‘원더리벳 2026’의 티켓은 9월 1일 오후 8시부터 멜론티켓, 티켓링크, 예스24티켓, 티켓피아를 통해... 새 창 열림",
+   "url": "https://sports.khan.co.kr/article/202608290705003?pt=nv",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "네이버뉴스새 창 열림",
+   "url": "https://m.entertain.naver.com/article/144/0001134722",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "오랄시가렛·[Alexandros]·유즈를 비롯한 총 42팀의 전체 라인업이 공개됐고, 티켓은 멜론티켓·예스24·티켓링크에서 판매 중입니다. 페스티벌 기본 정보 ️ 일시... (natori)·nishina·ReoNa·송소희(SONG SOHEE)·쏜애플(THORNAPPLE) 2일차 (11월 21일): [Alexandros]·CHiCO with HoneyWork",
+   "url": "https://blog.naver.com/postlane/224416426907",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "제2전시장 티켓 가격 3일권: 329,000원 2일권: 229,000원 1일권: 143,000원 예매처: 멜론티켓 , 티켓링크 , 예스24... 국내 라인업: 쏜애플 , 이디오테잎 , 송소희 등 Point: 지난 7월 단독 내한 공연을 전석 매진시켰던 나토리가 금요일... #원더리벳2026 #WONDERLIVET2026 #원더리벳라인업 #원더리벳티켓 #원더",
+   "url": "https://blog.naver.com/alssulsinjab/224410250499",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "예매처: 멜론티켓 따뜻한 포장마차 분위기와 실내 공연을 함께 즐기는 연말 페스티벌이라는 점이 특징이에요. 여러 장르의 국내외 록 아티스트를 한자리에서 만날 수 있어 록 음악 팬이라면 주목할 만해요. 날짜별 라인업 총정리 ✔️12월 18일 금요일 부활, 쏜애플, 노브레인, 카디, 솔루션스, 너드커넥션, 송소희, 캔트비블루, 크랙샷, 롤링쿼츠, 더 픽스... ",
+   "url": "https://blog.naver.com/ymillall/224455722900",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "20일(금)THE ORAL CIGARETTES · natori · 호시마치 스이세이 · amazarashi · 송소희 · 아이우에오 21일(토)[Alexandros] · 삼보마스터 · indigo la... 멜론티켓, 티켓링크, 예스24 티켓, 티켓피아에서 예매할 수 있습니다. 이상으로 트렌디였습니다. 감사합니다 ~^^ #원더리벳 #원더리벳2026 #WON",
+   "url": "https://blog.naver.com/trendy8894/224469021645",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "화려한 라인업을 자랑해요 12월 18일(금): 부활, 쏜애플, 노브레인, 카디, 솔루션스, 너드커넥션, 송소희, 캔트비블루, 크랙샷... 가능 멜론티켓 링크 참고사항: 권종별 한정 수량으로 진행되어 소진 시 조기 마감될 수 있으며, 매진 시에는 취소표에 한해 구매할 수 있어요. 깃발러 이벤트 및 관람 페스티벌의 열기를 더욱 높여주는 깃발러분들을 위한 특별한",
+   "url": "https://blog.naver.com/euna0626/224456339457",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "티켓처 : 멜론,티켓링크, YSE24 티켓오픈일시 : 9.1.(화) 20.00 오픈 *일자별 1인 4매까지 예매 가능 *8세 이상 관람가 사진출처 : 원더랜드 공식계정 sns 이번 라인업은 얼마나 화려할지 너무 기대가 되요. 3일동안 펼쳐지는 2026 원더라벳 페스티벌 기본정보로 어떻게 진행되는지 살펴볼께요 원더리벳 2026 기본정보 일단 일자별로 오픈되긴",
+   "url": "https://blog.naver.com/kwoohyun761/224396979548",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "뮤직페스티벌에 가기 전에 준비하는 것들이 있는데요. 타임테이블이 공개되면서 몇 시에 누구를 볼지, 손목밴드는 언제 바꾸는지와 라인업, 날짜별 타임테이블, 킨텍스 스탠딩과 좌석 지정, 예매, 굿즈·MD... 예매: 멜론티켓, 티켓링크, 예스24 / 티켓피아(글로벌) 티켓 현장판매는 온라인 예매가 마감된 후에 잔여... 새 창 열림",
+   "url": "https://blog.naver.com/1129wonhwi/224458297028",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "날짜별 원더리벳 2026 라인업 이번 페스티벌은 3일 동안 매일 다른 아티스트가 출연합니다. 원하는 가수의 공연 날짜를 먼저 확인하고 티켓을 선택하는 것이 좋습니다. ① 11월 20일 금요일 금요일 헤드라이너는 일본 록밴드 THE... THE ORAL CIGARETTES Hoshimachi Suisei(호시마치 스이세이) natori(나토리) amazara",
+   "url": "https://blog.naver.com/boxbox45/224463925680",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "28 (WED) 2PM 티켓 판매처 : 멜론티켓 77,000원 (1일권-금/토/일) 2026 히어로 락 페스티벌 - 인천 끊이지... 락 페스티벌의 2차 라인업을 공개 합니다. ✦12/18 (금)✦ ⬦부활 (@boohwal_official) ⬦쏜애플 (@thornapple... new ⬦송소희 (@songsohee.official)⚡new ⬦캔트비블루 (@",
+   "url": "https://cafe.naver.com/nerdconnection/10592?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5lcmRjb25uZWN0aW9uIiwiYXJ0aWNsZUlkIjoxMDU5MiwiaXNzdWVkQXQiOjE3OTU3MDMxMTU0OTh9.g7kk0Ccqdw3FfMJd_anVh05w0QxkU74FjyayKv701VQ",
+   "engine": "naver_all",
+   "query": "송소희 페스티벌 라인업 멜론티켓",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "기사와 인터뷰, 음원 서비스의 아티스트 화면, 예매처 상품 페이지를 맞춰 보며 국악에서 출발한 길과 앨범, 공연 이력을 정리했습니다. 활동 이력은 2026년 10월 19일... 전국노래자랑, 4년 만에 대상까지 TV리포트가 2022년 11월 28일에 전한 MBC FM4U 〈정오의 희망곡 김신영입니다〉 출연 기사에 그 시절 이야기가 나와요. 송소희는 8살 때",
+   "url": "https://blog.naver.com/gkakgid/224446676233",
+   "engine": "naver_web",
+   "query": "송소희 출연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "2004년 전국노래자랑에 처음 출연했고 이후 다시 출연하면서 전국적으로 얼굴을 알리기 시작했습니다. 구분 내용 이름 송소희 출생 1997년 10월 20일 나이 만 28세 출신 충청남도 예산 키 164cm 혈액형 O형 학력 단국대학교 음악대학 국악과 가족 부모님·여동생 송소영 직업 경기민요 소리꾼·가수·싱어송라이터 결혼 미혼으로 알려짐 어린 시절부터 방송에 ",
+   "url": "https://blog.naver.com/homepicknote/224410152481",
+   "engine": "naver_web",
+   "query": "송소희 출연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "‘골때녀’ 출연 전부터 풋살과 동호회 축구를 즐겼고, 일정도 축구에 맞출 만큼 빠져 있었다고 합니다. │ FC 원더우먼 합류 ‘골 때리는 그녀들’에서는 FC 원더우먼 멤버로 합류했습니다. 황소윤과 함께 공격을 맡으며 빠른 발과 침투 능력으로 단숨에 주목받았습니다. │ 4골 넣고 에이스 등극 가장 강렬했던 경기는 아나콘다전이었습니다. 송소희는 혼자 4골을..",
+   "url": "https://blog.naver.com/kevv-sports/224454158206",
+   "engine": "naver_web",
+   "query": "송소희 출연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "송소희, 독보적인 음악 세계…페스티벌→단독 콘서트 특별한 무대 선사 - MBC",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IcjNMSzVuakVRRlF1N3VsWHFIX3VWZnhESUg5U240UmRwQ3lUUTJZcjZHV0hiVXpjeEhPZ25LYVFWQ0hEV2ZnY0o5cUxOOXNkUWtyVGJYblZGWXJxVWQ3ZkNNaw?oc=5",
+   "pub": "Sun, 22 Nov 2026 00:00:00 GMT",
+   "engine": "gnews",
+   "query": "송소희 공연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "올림픽공원 케이스포돔(KSPO DOME·옛 체조경기장). 국내 콘서트업계 상징적인 이곳에서 이날 먼저 시선을 붙든 건 콘크리트 돔의...스포돔은 조용필·신승훈·이문세·김동률·성시경·박효신 등 한국 대중음악사를 지탱해온 남성 솔로 가수들이 자생적 대중성을...",
+   "url": "http://v.daum.net/v/20261121081926379",
+   "engine": "daum_news",
+   "query": "박효신 콘서트",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
+  {
+   "title": "‘MAMA’ 박보검 옆 로봇…알고 보니 ‘LG 클로이드’ - 헤럴드경제",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oNjJPUE0zdzhfYzJNcnREb0V2TU5PaTFlMFAxcXBNX2dwN3dBX203QUpSU1J6WE9talhWcG9BeFg1U0ROZDEwbm9EdEpHR01ra0psdEl1RQ?oc=5",
+   "pub": "Mon, 23 Nov 2026 02:24:51 GMT",
+   "engine": "gnews",
+   "query": "아일릿 공연",
+   "first_seen": "2026-11-26T23:07:51+09:00"
+  },
   {
    "title": "\"숨 쉬는 것만으로도 감사\"…‘브랜든 최’가 전한 삶의 선율 - 뉴시스",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ySVhINjh0ZVRTN3VRdlF5eFBPRms5Znp3UUE0dVBXZm5SRTRfazMwSThHam4wTTJnM1R0anhyRDR6a0RFemhrWVR2cmJ4WmxhOUQzdTdsQkdVaEFXRll5WNIBeEFVX3lxTE1ZYXBpVEtqSVpaOVdsZkRPdTk1MlpVd25nS1UwQlMtZWtSWUJZTmFRQWRMSDNlLVdKNTAwZExxSllMZmR2OEp4am9VRS1abDJJWUhVN1BISldPZHFVMGtUUjZnTXlhc1FzWTJVSzB5OU9QV0lHdzhUYQ?oc=5",
@@ -20491,822 +21318,8 @@
    "engine": "gnews",
    "query": "이적 콘서트",
    "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "이적, 임영웅에 준 곡 대박…정재형 \"네가 부른 것보다 더 벌었냐\" - 뉴시스",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCaEZ3NmswVGluZlcxU2lOaTFlQ19HU1BCaHFGSWZ6TzZCeUNvbVJZLUxBb1V1bXpjLWxIVjlUejE2aGY4MEx6T01zQTZSWU82eHNHVFRzVXpQYkp6VzZ1WtIBeEFVX3lxTFBQZGxFN0VSTC1MU3Vod0dDWDljSlFjM0hXSnR4QkJXR0RjWE1GalV6WWFrZ21JTFNnZV9UekVpVGNjdkp0dFRPcms0dm1UQWFncXZZbmR4TFB4SFJNX1VSdUNkc2hRS3BnYXg3cGRsUXc5MG0xWVpBaQ?oc=5",
-   "pub": "Wed, 18 Nov 2026 22:39:38 GMT",
-   "engine": "gnews",
-   "query": "이적 콘서트",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "“56년만 운전면허 따”…‘라디오스타’ 정재형, 싱글의 ‘소확행’ [TV온에어] - 티브이데일리",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10emNDY2F3ZUFBOEVZTU5WNkEtbnU0QzYzdlB6TGhIZ0E1dTVIZDBOemViSlYzSUJ5MjhVY1JhSWJTU2FnUmswbGtmeUZrdzBtWGgxUDBPUGNZYzVLSl90V2Nhb2pwSmNDczlNYkNwN2phS1RF?oc=5",
-   "pub": "Wed, 18 Nov 2026 20:58:00 GMT",
-   "engine": "gnews",
-   "query": "이적 콘서트",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "임영웅에게 곡 준 이적-정재형 \"네가 부른 것보다 더 대박\" - 미디어파인",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QLWktTy1sNmhzSWFQQmdVcjFfWkNkZm5ocDJ4NU0tcnRuMG4tVmdKeFppSlVtOXMzUXlKcXY4ZzRSMnRNSmE3aG5BczItSlR4ZC15ZTNaNFgtRnNQTEhRZFBBMjl1T0hURWhSdTBn?oc=5",
-   "pub": "Wed, 18 Nov 2026 22:32:20 GMT",
-   "engine": "gnews",
-   "query": "이적 콘서트",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "●아타 페스티벌이란? 아타 페스티벌(ATA Festival)은 '아시아 탑 아티스트 페스티벌(Asia Top Artist Festival)'의 줄임말로... 최예나(YENA) 솔로 카더가든(Car, the garden) 싱어송라이터 ●셔틀버스 안내 난지한강공원은 지하철역에서 도보 거리가 다소 있어, 아타 페스티벌은 매년 유료 셔틀버스를 함께 운영해 왔습니다",
-   "url": "https://cafe.naver.com/uccplus/2396500?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVjY3BsdXMiLCJhcnRpY2xlSWQiOjIzOTY1MDAsImlzc3VlZEF0IjoxNzk1NjMxMjYwMTcxfQ.L8q2cN3rFirAzXgnuQIDP2mSmOZeoFKHj2p2Ekkh0gA",
-   "engine": "naver_all",
-   "query": "YENA festival",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "오유진 '돌팔매' vs 김소연 '해바라기꽃'♪ #TVCHOSUNMUSIC (TV CHOSUN 231221 방송) 정서주의 '물레방아 도는데' vs 오유진의 '물음표'♪ #TVCHOSUNJOY (TV CHOSUN 240222 방송) 오유진의 '얼쑤' vs 김태연의 '세월 베고 길게 누운 구름 한 조각'♪ #TVCHOSUNJOY (TV CHOSUN 251017",
-   "url": "https://cafe.naver.com/jusiktujja/7829?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1c2lrdHVqamEiLCJhcnRpY2xlSWQiOjc4MjksImlzc3VlZEF0IjoxNzk1NjMxMjYyOTYwfQ.qCXeh77BgWmWXEQTS2TPYfRl8iL8g_waqHNk_J3WyiA&q=YENA%20festival&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "YENA festival",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "구라모토와 브랜든 최, 디토 오케스트라 등이 함께하는 크리스마스 콘서트입니다. 아름다운 피아노 선율과 오케스트라 음악을 즐기며 연말을 특별하게 보내기 좋은 공연입니다. 2026년 12월 평택 공연 일정 한눈에 보기 날짜| 공연명| 관람료 12/4| 사랑과 평화 & 다섯손가락| 30,000원 12/5| 국립무용단 향연| 추후 확인 12/6| JT의 과학실험실",
-   "url": "https://blog.naver.com/jinju8803/224487362777",
-   "engine": "naver_blog",
-   "query": "브랜든 최 12월 공연",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "버블쇼와 마술, 댄스·현악 공연이 이어지고, 골프 퍼팅·캐리커처·페이스페인팅·만들기 체험이 있는 플레이존이... 클래식 색소포니스트 브랜든 최 님과 피아니스트 김재원 님이 연주하고, 이다솔 님이 진행을 맡아요. 브랜든 최 님의 책... 당첨자는 12월 4일 발표 예정이고 개별 연락한다고 해요. 무료라서 퇴근하고 들르기에도 좋아 보여요. 베베데코... 새 창",
-   "url": "https://blog.naver.com/lykgirl84/224485470707",
-   "engine": "naver_blog",
-   "query": "브랜든 최 12월 공연",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "내일 낮 12시에 백악관에서 기자회견을 하겠습니다. 또한 태국, 필리핀 등과의 무역 합의도 논의하겠습니다. 도널드 J. 트럼프 대통령 서방 관계자들은 최근 군사적 충돌이 격화됨에 따라, 미국이 이란에 대한 대규모 공격을 재개할 가능성이 높아졌다고 밝혔다. - Bloomberg 푸틴은 우크라이나가 크림반도와 연결된 다리를 공격한 후, 러시아는 어떠한 형태의 ",
-   "url": "https://blog.naver.com/wjswogh61/224485304131",
-   "engine": "naver_blog",
-   "query": "브랜든 최 12월 공연",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "이번 공연에는 지코와 최예나가 게스트로 출연한다고. 이번 공연은 5월 23일 하루만 할 예정이었다. 그러나 티켓 오픈 직후 전 좌석 매진을 기록하는 등 팬들의 성원에 힘입어 5월 24일 공연을 추가했다. 첫날 공연에는 지코가 무대에 오른다. 두 사람은 지난해 컬래버레이션 싱글 '듀엣'을 발표했다. 음악 시상식 무대도 함께했다. 이번 공연에서 두... 새 창",
-   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=831223",
-   "engine": "naver_web",
-   "query": "최예나 티켓오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "올해 4월 단독 콘서트 발라드 콘체르토는 티켓 오픈 10초 만에 전 회차가 매진됐습니다. 올해 활동 내용 2월 김범수의 마지막 사랑 리메이크 발표 4월 단독 콘서트 전 회차 매진 12월 크리스마스 콘서트 2월에는 김범수의 노래 마지막 사랑을 자기 감성으로 다시 불러 냈습니다. 이번 공연은 초기 정규 앨범 시절의 곡들을 선물처럼 풀어내는 자리로 소개됐습니다.",
-   "url": "https://blog.naver.com/popcornlab/224492348234",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "어반자카파 크리스마스 콘서트 정보를 찾고 계신가요. 12월 24일부터 26일까지 사흘간 블루스퀘어 우리WON뱅킹홀에서 열리고, R석은 15만 4천원입니다. 올해로 데뷔 17번째 겨울을... 항목 내용 예매처 NOL 티켓 예매 오픈 18일 저녁 8시 표 배송 12월 2일 ~ 4일 일괄 그런데 오늘 새벽에 NOL 상품 페이지를 열어 보니 예매대기로 표시됐습니다",
-   "url": "https://blog.naver.com/popcornlab/224492350171",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "일반 티켓은 R석 5만 원, S석 4만 원, A석 3만 원이에요. 가족이라는 공연 이름만 보고 미취학 동생도 입장할 수 있다고 판단하지 않도록 해요. 추가 오픈 공지에는 1층과 3층 일부 A석의 시야가 제한될 수 있다고 적혀... 예술의전당에는 여러 공연장이 있어 도착하면 콘서트홀이 아니라 IBK기업은행챔버홀을 찾아야 해요. 어린이와... 새 창 열림",
-   "url": "https://blog.naver.com/culturemoa/224492360150",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "이번 글에서는 인천 콘서트의 티켓 오픈 일정, 선예매 및 일반예매 방법, 티켓 가격, 좌석 정보, 그리고 해외 투어 일정 까지 상세하게 안내해 드립니다. 성공적인 티켓팅을 위해 모든 정보를 꼼꼼히 확인하세요. ▶️ 에이티즈 콘서트 공식 예매페이지 바로가기 에이티즈 인천 콘서트 기본 정보 ・공연명: 2027 ATEEZ WORLD TOUR [ZERO TO AL",
-   "url": "https://blog.naver.com/ddobot0701/224492353397",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "회차당 1인 최대 4매까지 예매 가능하며, 티켓 오픈 후 일주일간 무통장입금이 제한되니 카드 등 다른 결제 수단을 미리 준비해야 합니다. MC몽 콘서트 티켓 가격 및 좌석 정보 ・R석: 143,000원 ・S석: 121,000원 두 좌석 등급 간 가격 차이는 1매당 22,000원입니다. 30만원 예산으로 2인 관람 시 R석 2매는 286,000원, S석 2매",
-   "url": "https://blog.naver.com/ddobot0701/224492346887",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "2026년 11월 13일 기준, 2027년 현대카드 슈퍼콘서트의 공연 일정과 티켓 오픈 날짜는 공식적으로 확인되지 않았습니다. 현재 구분해야 할 내용은 다음과 같습니다. 항목 2027년 현재 상황 공연 아티스트 미발표 공연 날짜·장소 미발표 현대카드 회원 선예매 미정 the Purple 전용 선예매 미정 일반 예매 미정 공식 예매처 미정 그렇다면 예매 시기",
-   "url": "https://blog.naver.com/shinyhyonae300/224492341605",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "주요 예매 정보: ・공연명: ASIAN KUNG-FU GENERATION 30th Anniversary Extra Show in Korea ・티켓 오픈: 2026년 11월 27일 (금) 오후 8시 ・공식 예매처: 멜론티켓 ・결제 제한: 무통장입금 불가 (카드 결제 필수) 예매 절차: 1. 멜론티켓 공식 공연 페이지 접속 2. 멜론 ID 또는 카카오 계정으로",
-   "url": "https://blog.naver.com/ddobot0701/224492340767",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "안녕하세요 이번 포스팅에서는 아이브 콘서트 2027 일정인 <SHOW WHAT I AM> ENCORE 공연의 시간과 장소, 티켓팅 예매의 예매처와 가격 오픈 일정 등 공연 관람 정보를 자세하게 알아보겠습니다. 아이브 콘서트 기본정보 IVE WORLD TOUR <SHOW WHAT I AM> ENCORE ▶일정: 1/29일 금요일 7:30PM 1/30일 토요일",
-   "url": "https://blog.naver.com/hunida0913/224492144649",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "2026 강문경 연말 콘서트 티켓팅 시간 티켓 오픈 2026년 11월 26일 목요일 오후 6시 예매처 티켓링크 단독 판매 티켓링크 공식 공지 https://www.ticketlink.co.kr/help/notice/66547 오픈 시간은 예매 일정 안내 서비스 기준이며 예매 직전 공식 공지에서 다시 확인해 주세요. 오후 6시에 예매가 시작될 예정이므로 30",
-   "url": "https://blog.naver.com/eksk719/224492331960",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "스탠딩 티켓 오픈 2026년 11월 27일 오후 8시 구매 제한 회원 1인 최대 3매 예매처 멜론티켓 단독 주최 및 주관 LIVET, 원더로크 아시안 쿵푸 제너레이션은 국내에서 아지캉이라는 애칭으로도 불리는 일본의 인기 록 밴드입니다. 이번 공연은 결성 30주년 기념 투어의 해외 특별 공연으로 진행되며 오랜 기간 단독 내한공연을 기다려 온 국내 팬들에게 의",
-   "url": "https://blog.naver.com/booty1020/224492272013",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "너드커넥션 콘서트 예매 정보 11월 25일 티켓 오픈! 이번 공연의 티켓 가격은 층별로 다르게 구성되어 있습니다. 티켓 가격 1층 : 121,000원 2층 : 110,000원 ️ 예매 일정 티켓 오픈 : 11월 25일(수) 오후 8시 예매처 : YES24 티켓 특히 너드커넥션 콘서트는 오늘인 11월 25일 오후 8시에 티켓 예매가 시작될 예정인데요! 이번에",
-   "url": "https://blog.naver.com/darak_zip/224492313571",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "오픈카 4대와 오픈 탑 버스 1대가 도심을 지나갈 예정이에요 ️ 카퍼레이드 경로와 달구벌대종 앞 행사 반월당 → 중앙네거리 → 종각네거리 → 국채보상운동 기념공원... ✔️ 관중 입장 : 오후 2시 ✔️ 청백전 : 오후 4시 ✔️ 종료 예정 : 오후 8시 ✔️ 티켓링크 사전 예매 필수 청백전, 사인회, 콘서트, 불꽃놀이까지 프로그램이 정말 많은데요.... ",
-   "url": "https://blog.naver.com/helloz369/224492302401",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "티켓링크 MC몽 콘서트 예매 안내 바로가기 MC몽 콘서트 무통장입금 제한 기간 이번 콘서트는 부정 예매 및 암표 거래를 방지하기 위해 티켓 오픈 후 일주일 동안 무통장입금 결제가 제한됩니다. 구분 내용 제한 시작 2026년 11월 27일 오후 7시 제한 기간 티켓 오픈 후 일주일간 무통장입금 재개 예상일 2026년 12월 4일 입금 마감 시간 예매 당일 오",
-   "url": "https://blog.naver.com/booty1020/224492264476",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "✨ 일본을 대표하는 글로벌 팝 유닛 요아소비(YOASOBI)가 오는 2027년 4월, 세 번째 단독 내한 콘서트 'YOASOBI 11-CITY ASIA-OCEANIA TOUR 2026-2027 “초행성” in Goyang'으로 한국을 다시... 공식예매처 멜론티켓 단독판매 바로가기 ️ 선예매(위버스) 인증 기간 2026년 11월 16일(월) 오후 8시 ~ ",
-   "url": "https://blog.naver.com/u_and_i1/224491880667",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "이번 콘서트는 오후 2시와 오후 7시, 두 차례 진행되며 각 회차별로 연주곡 구성이 일부 달라 관람객의 선택을 기다립니다. 티켓 오픈 및 공연 상세 정보 ・티켓 예매 시작: 2026년 12월 1일 (화) 낮 12시 예정 ・공연 날짜: 2027년 2월 13일 (토) ・공연 시간: 오후 2시, 오후 7시 ・공연 장소: 광운대학교 동해문화예술관 대극장 ・티켓 가",
-   "url": "https://blog.naver.com/ddobot7845/224492285687",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "이번 공연은 아시아·오세아니아 11개 도시를 순회하는 '초행성' 월드투어의 마지막 공연이자 요아소비의 국내 첫 스타디움 단독 콘서트입니다. 2027 요아소비 내한공연... 2024년 내한공연 당시 티켓 오픈 1분 만에 전석 매진을 기록했던 만큼 이번 공연에도 많은 관심이 집중되고 있습니다. 2027 요아소비 내한공연 초행성 티켓팅 일정, 위버스 멤버십 사전",
-   "url": "https://blog.naver.com/booty1020/224492254940",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "뮤지컬 배우 최재림이 MBC 라디오스타 991회 내 장르에 태클을 걸지 마 특집에 출연해 음악감독 박칼린과의 한밤중 산책 에피소드와 18년 인연을 공개했습니다. 카리스마 넘치는 무대 위 모습과 달리 박칼린 앞에서는 막내 여동생 역할을 자처하며 반려견과 함께 밤 산길을 걷다 비명이 터진 아찔한 일화가 큰 화제를 모았습니다. 이번 글에서는 방송에 소개된 야간 ",
-   "url": "https://blog.naver.com/happy010shop/224492247943",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "도이칠란드 티켓! 샤프하우젠역까지는 도이칠란드 티켓으로 이동할 수 있어서 교통비를 아낄 수 있었습니다. 몇 시간... ^^ 살짝 패닉이 왔지만 2만 5천 원짜리 별다른 조리도 필요 없어 보이는 샌드위치를 먹을 바에 그나마 실패 확률이 적어... 오픈런을 하기 위해 아침 6시에 숙소를 나서 인터라켄 웨스트역에서 융프라우 VIP 패스 3일권을 구매했습니다. 미",
-   "url": "https://blog.naver.com/heomandoo_/224492256791",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "가만히 귀 기울이는 것만으로도 마음이 따뜻해지는 독보적인 음색, 'R&B 요정' 박정현이 올겨울 팬들과 아주 가깝게 마주 호흡할 수 있는 소극장 콘서트 <이음>으로 돌아왔습니다. 대형 아레나 공연장에서는 느낄 수 없는 소극장 특유의 아늑한 분위기 속에서 관객과 음악으로 마음을 깊게 '이어주는' 이번 공연은 티켓 오픈 직후부터 뜨거운 관심을 모았는데요. 이미",
-   "url": "https://blog.naver.com/core4young2/224480118754",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "안녕하데요? 엔하이픈은 곧 더씬 페렐렐월드로 컴백을 하는데 아직도 더씬 배니쉬 때의 일상을 기록중인 오드리입니다? 뭐 어떻콰겠어요.. 시간의 흐름이.. 나의 정신머리와 맞지 않는것을...... 분기별로 기록하는것이 목표였으나 두 달치 사진으로도 400장이 훌쩍 넘어버리네요 허허. 그럼 기억을...되살려..... 1월일상으로.. 가보겠읍니다. 1/8(목) 중",
-   "url": "https://blog.naver.com/middsummerr/224492245577",
-   "engine": "naver_blog",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "〈김주환 교수와 함께하는 텅 빈, 고요한 밤〉 공연 포스터. 12월 23일(수) 오후 7시 롯데콘서트홀에서 열린다. [사진제공=크레디아뮤직앤아티스트] (서울=국제뉴스) 김서중 기자 = 뇌과학과 명상 전문가인 연세대 김주환 교수와 클래식 색소포니스트 브랜든 최가 함께하는 명상음악회 〈김주환 교수와 함께하는 텅 빈, 고요한 밤〉이 오는 12월 23일(수) 오후",
-   "url": "https://www.mimint.co.kr/bbs/view/news/S1N17/5680761",
-   "engine": "naver_all",
-   "query": "브랜든 최 12월 공연",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "뇌과학과 명상 전문가인 연세대 김주환 교수와 클래식 색소포니스트 브랜든 최가 함께하는 명상음악회 〈김주환 교수와 함께하는 텅 빈, 고요한 밤〉이 오는 12월 23일(수) 오후 7시 롯데콘서트홀에서 열린다. 크레디아뮤직앤아티스트가 주최하는 이번 공연은 명상과 음악을 결합한 새로운 형태의 음악회로, 관객이 직접 명상에 참...새 창 열림",
-   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757685",
-   "engine": "naver_all",
-   "query": "브랜든 최 12월 공연",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "■ 공연 안내 · 일시 : 2026년 12월 10일(목) 오후 7시 · 장소 : 클래식고택 DITTO (서울 종로구 필운대로 35-16) · 출연 : 브랜든 최, 양석준, 이신규, 이태성 · 공연 시간 : 60분 · 티켓 : 55,000원 (전통차와 양반집 다과 포함) · 객석 : 50석 한정 ■ 티켓 예매 & & 무언가를 더 채우기보다 잠시 비워내는 시간",
-   "url": "https://cafe.naver.com/joohankimlab/14238?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb2hhbmtpbWxhYiIsImFydGljbGVJZCI6MTQyMzgsImlzc3VlZEF0IjoxNzk1NjMxMzMwNDM5fQ.Rwkptb5O7vsaNuuZprPltJ2XL-togjqtRawPYwrQLdM",
-   "engine": "naver_all",
-   "query": "브랜든 최 12월 공연",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "카페 회원 여러분께 연말 공연 소식을 전해드립니다. 오는 12월 23일 롯데콘서트홀에서 김주환 교수님과 색소포니스트 브랜든 최님이 함께하는 「텅 빈, 고요한 밤」이 열립니다.... 27 08:21 ‘김주환 교수와 함께하는 텅 빈, 고요한 밤’이 오는 12월 23일 롯데콘서트홀에서 열린다. 왼쪽부터 김주환 교수, 색소포니스트 브랜든 최, 피아니스트 조윤성, ",
-   "url": "https://cafe.naver.com/joohankimlab/13827?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb2hhbmtpbWxhYiIsImFydGljbGVJZCI6MTM4MjcsImlzc3VlZEF0IjoxNzk1NjMxMzMwNDM5fQ.e73eZyCpRFgbR58Dtd_yoVWNA7vb0ezBE7eD356tAD0",
-   "engine": "naver_all",
-   "query": "브랜든 최 12월 공연",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "▶ 12월 21일(목) 19:00 강남씨어터 공연 개최 ▶ 12월 20일(수) 까지 인터파크 티켓에서 예매 진행[홍서원 기자]강남구 산하 강남문화재단(이사장 이자연)은 2023년 목요예술무대 기획공연 ‘열 번째 파장, 박종성&브랜든최의 송년콘서트’를 연다.국내 최초로 클래식 하모니카를 전공한 하모니카 연주가 박종성은 한국인 최초로 독일 세계 하모니카...새",
-   "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=308917",
-   "engine": "naver_all",
-   "query": "브랜든 최 12월 공연",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "브랜든 최·디토 오케스트라 협연…대표곡·크리스마스 캐럴 선보여 31일까지 1층 객석 조기예매 30% 할인…초등학생 이상 관람 가능새 창 열림",
-   "url": "https://www.m-i.kr/news/articleView.html?idxno=2008316",
-   "engine": "naver_all",
-   "query": "브랜든 최 12월 공연",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "지난 4월 박효신 콘서트를 다녀왔습니다! 평소 박효신 팬은 아니지만 그래도 흔히들 말하는 대한민국 남자 4대 보컬 ‘김나박이’의 박효신이 7년만에 콘서트를 한다기에 무지성으로 티케팅을 진행했습니다! 콘서트에 맞는 옷차림(?)이라고 보긴 어렵지만 곤브레이를 받고 바로 입고 싶어서 비디알 레일로드 자켓의 이너로 입어주었습니다 박효신 - 숨 하이라이트 박효신..",
-   "url": "https://cafe.naver.com/gonzotv/8401?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvbnpvdHYiLCJhcnRpY2xlSWQiOjg0MDEsImlzc3VlZEF0IjoxNzk1NjMxMzgwMTg2fQ.44dzBAGBINZXCF3_QgqaVgbMy8-ehq4vYGLTrmLFp-M",
-   "engine": "naver_web",
-   "query": "박효신 콘서트",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "2026 박효신 연말 콘서트 상세 정보 & 예매 일정 공연명: 2026 PARK HYO SHIN WINTER LIVE <LOVERS & TREE> 공연 일정: 1일차: 2026년 12월 24일 (목) 오후 7:30 (크리스마스 이브) 2일차: 2026년 12월 25일 (금) 오후 6:00 (크리스마스) 3일차: 2026년 12월 26일 (토) 오후 6:00",
-   "url": "https://blog.naver.com/rnjsdhtjs125/224406330933",
-   "engine": "naver_web",
-   "query": "박효신 콘서트",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "공연으로는 3년만이고 콘서트로는 7년만에 보는 박효신이었습니다 음향 문제 외에도 VCR이 너무 길었던 거나, 팔찌 재질 같은 거에서 개인적으로는 아쉬움도 남았지만 그래도 졸타나 홈 때는 늘 그랬듯 가슴 벅찬 공연이기도 했습니다 남은 공연 동안에는 음향 문제가 좀 해결이 돼서 다른 분들은 더 즐거운 추억을 남겼으면 좋겠습니다새 창 열림",
-   "url": "https://cafe.naver.com/khantata/897990?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtoYW50YXRhIiwiYXJ0aWNsZUlkIjo4OTc5OTAsImlzc3VlZEF0IjoxNzk1NjMxMzgwMTg2fQ.R9bbMFGsUerGOWmBcMWjAKUAH26DnfTifG5xg5Q3WNI",
-   "engine": "naver_web",
-   "query": "박효신 콘서트",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "[사진]아일릿 '체포하겠어' - 조선일보",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM0FfUXhjbTZ4ZjBXZ0pZaFVTb29NRXFCSksyZmpNMGlmOXFBSzEwVzlOQXBVeUNCeDZ5aXpsX0hjLUJYN0JwZklQdVlaZ3VpZ0NSSmktVEZDSlF5SjBxeG9Fck5mbVprT3pCR2UwSWhLc0lOa3hHVlZoal9FYVhEVGpkUjVxU1JTYUk5UUl0RnpQU3hzRENF?oc=5",
-   "pub": "Fri, 20 Nov 2026 08:55:00 GMT",
-   "engine": "gnews",
-   "query": "아일릿 행사",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "아일릿 원희, 체포하겠어 - 뉴스1",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52NTZfMk9rRDRQWFkyLUI1dERrT0k1THd3dl9RMm1SWlpzMEVtN09CSVpNLUFaRG5uNHpHUGduMTd0UE9nTEY1My1JNA?oc=5",
-   "pub": "Fri, 20 Nov 2026 07:45:51 GMT",
-   "engine": "gnews",
-   "query": "아일릿 행사",
-   "first_seen": "2026-11-26T03:07:58+09:00"
-  },
-  {
-   "title": "아티스트 출연 규모를 자랑한다. 그만큼 다양한 일본 아티스트가 3일 동안 무대에 올랐으며, 록 밴드는 물론 애니메이션 밴드나 보컬로이드(음성 합성 소프트웨어를 이용한 가상 보컬) 음악, J팝, 버튜버 등 일반적인 페스티벌에서는 만나기 어려운 음악과 아티스트...",
-   "url": "http://v.daum.net/v/20261126004506597",
-   "engine": "daum_news",
-   "query": "송소희 출연",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "네이버뉴스새 창 열림",
-   "url": "https://m.entertain.naver.com/article/629/0000555642",
-   "engine": "naver_news",
-   "query": "송소희 출연",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "5곳, 아일릿은 숭실대·용인대·세종대 3곳 출연이 확인됐습니다 ☑ 외부인 입장 여부와 티켓 예매 일정은 @sejong_festa 공식 인스타그램에서 반드시 확인하시기 바랍니다 세종대 축제 2026 어느 날 가실 예정인가요? 댓글로 알려주세요. ▼취준생들에게 최대 만오천원 지급하는 이벤트 확인하러 가기▼ 공취사에서 함께 성장할 파트너 업체를 찾습니다... 새",
-   "url": "https://cafe.naver.com/uccplus/2384618?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InVjY3BsdXMiLCJhcnRpY2xlSWQiOjIzODQ2MTgsImlzc3VlZEF0IjoxNzk1NjI2ODE1NzI2fQ.nwuck0N4pmn3bLhpgE2Qb9-38oDJ7iK2n8Sm3viRsm8",
-   "engine": "naver_web",
-   "query": "아일릿 행사",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "게시판 이용 주의 사항 - 삭제 금지 ===================================== ■게시글 제목에 술 이름이나 제품명 표시 ■구입기의 경우 구입처나 제품명 등의 정보 표시 ■개인 거래 자랑, 언급, 문의, 유도 게시글, 댓글, 쪽지 등 금지 ■이벤트용 참여 후기의 경우, 이벤트 관련 내용(협찬 및 혜택) 표시 =============",
-   "url": "https://cafe.naver.com/whiskycognac/898036?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndoaXNreWNvZ25hYyIsImFydGljbGVJZCI6ODk4MDM2LCJpc3N1ZWRBdCI6MTc5NTYyNjgxNTcyNn0.a9FHMugi3mPc4g6XXp1NIvoHiz2H8XLN0En1xeAFQEc",
-   "engine": "naver_web",
-   "query": "아일릿 행사",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "아일릿 원희 얼굴살 빠진거 다들 보셨나요??? 물론 나이 어린 친구라 젖살이 빠진거겠지만 ㅠㅠ 저도 한 얼굴살 하거든요 ㅠㅠㅋㅋㅋㅋ 오동통 할때도 귀여웠지만 얼굴살 빠지니 성숙해보이고 더 예뻐진듯..;; 저도 볼살부터 시작해서 얼굴살 정말 많은데요 얼지흡하면 저렇게 자연스럽게 개선 가능할까요?? 우선 병원은 티티 온유 마인드 보고 있는데 자연스럽게 얼지흡.",
-   "url": "https://cafe.naver.com/feko/10700332?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZla28iLCJhcnRpY2xlSWQiOjEwNzAwMzMyLCJpc3N1ZWRBdCI6MTc5NTYyNjgxNTcyNn0.NNniflHwVPW05OzutibSBmu2kxX6tNBNkMM1W0964tM",
-   "engine": "naver_web",
-   "query": "아일릿 행사",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "많이 써주세요\"라고 애정 어린 부탁을 했다. 다양한 축하 공연도 이어졌다. 마크 리가 이재희, 위댐보이즈 등과 함께 포문을 열었고...최성곤으로 변신해 '니가 좋아' 립싱크 무대를 선보였다. 아일릿은 '체포하겠어' 무대를 선보이며 정호연, 구교환, 박지훈...",
-   "url": "http://v.daum.net/v/20261125233030623",
-   "engine": "daum_news",
-   "query": "아일릿 공연",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "그렇게 유명하지 않은 팀이고, 금요일 첫 공연이라 그런지 옆펜스를 잡을 수 있을 정도로 되게 여유가 있더라고요 그리고 공연장 양 옆으로 전광판이 있었는데 현재 티켓팅이 가능한 일본 내한 공연... 自白 (자백) 그리고 송소희가 다음 무대를 기다리고 있었는데 너무 힘들고 그 다음 무대를 너무 기다리고 있었어서 가지 않고 앞자리를 차지하기 위해 기다리고 있었습",
-   "url": "https://cafe.naver.com/sangkland/2967?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNhbmdrbGFuZCIsImFydGljbGVJZCI6Mjk2NywiaXNzdWVkQXQiOjE3OTU2MjY5Mzg1Mzd9.6fY6PXYhq0iKk6Mye-d-npYIs-pvO-tRbm3KrYZUmH0&q=%ec%86%a1%ec%86%8c%ed%9d%ac%20%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c%20%eb%9d%bc%ec%9d%b8%ec%97%85%20%eb%a9%9c%eb%a1%a0%ed%8b%b0%ec%bc%93&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "송소희 페스티벌 라인업 멜론티켓",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "원더리벳이 뭔지 모르는 분들을 위해 원더리벳은 jpop&iconic Artist 페스티벌입니다. 전체라인업은 이렇고 저는 금요일에 갔습니다. 저 안에 바글바글한게 다 사람 아직 시작도 안했는데 사람이 많더라구요. 오늘 한번씩은 들어본 나토리,레오나,호시마치 스이세이,쏜애플,아마자라시,송소희 뿐만 아니라 많은 아티스트 분들이 오셨어요. 이 티켓값에 이정도 공",
-   "url": "https://cafe.naver.com/togethersr/20675?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRvZ2V0aGVyc3IiLCJhcnRpY2xlSWQiOjIwNjc1LCJpc3N1ZWRBdCI6MTc5NTYyNjkzODUzN30.Y8En_BgYa9TIswmxLLnbTzq6Mlofp5w-uIe22FV5fgE&q=%ec%86%a1%ec%86%8c%ed%9d%ac%20%ed%8e%98%ec%8a%a4%ed%8b%b0%eb%b2%8c%20%eb%9d%bc%ec%9d%b8%ec%97%85%20%eb%a9%9c%eb%a1%a0%ed%8b%b0%ec%bc%93&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "송소희 페스티벌 라인업 멜론티켓",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "2026년 11월 21일 일본 오사카 교세라 돔에서 열린 이 행사에서는 박보검이 진행을 맡았고, 챕터 2 무대가 펼쳐졌습니다. 요약 • 수상자 → 아일릿, 코르티스 • 수상작 → 아일릿 '잇츠 미', 코르티스 '레드레드' • 개최일 → 2026년 11월 21일 • 장소 → 일본 오사카 교세라 돔 • 진행자 → 박보검 ─────────────── ■ 2026",
-   "url": "https://cafe.naver.com/redq8dkp/1038?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJlZHE4ZGtwIiwiYXJ0aWNsZUlkIjoxMDM4LCJpc3N1ZWRBdCI6MTc5NTYyNzAyNTIxMn0.WsFC6R6hnjBDo6naV0-C_h_Lbg_Rot96hZE8c3i1NGM&q=%ec%95%84%ec%9d%bc%eb%a6%bf%20%ed%96%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "아일릿 행사",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "─────────────── ■ MAMA 어워즈의 의미 2026 MAMA 어워즈는 아시아 음악 산업에서 중요한 행사입니다. 이 시상식은 아시아의 다양한 아티스트들이 모여 서로의 성과를 축하하고, 음악의 발전을 기념하는 자리로 자리매김하고 있습니다. 코르티스와 BTS는 물론, 아일릿, 화사, 르세라핌 등 다양한 아티스트들이 참여하여 각자의 노력을 인정받는 순",
-   "url": "https://cafe.naver.com/purpleyprg5/888?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InB1cnBsZXlwcmc1IiwiYXJ0aWNsZUlkIjo4ODgsImlzc3VlZEF0IjoxNzk1NjI3MDI1MjEyfQ.2isIKVa0xFRpG8kD6MUItnhnc4O7PEnkdHQb2Xy3xSI&q=%ec%95%84%ec%9d%bc%eb%a6%bf%20%ed%96%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "아일릿 행사",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "<애플뮤직> [기업 역사] <디지털 음악 사업의 시작> 2003년 iTunes Music Store 출시, 온라인 음원 다운로드 판매 시작 2004년 iTunes Music Store 1주년, 음원 판매 7천만 곡 돌파 2014년 Beats Music 및 Beats Electronics 인수 발표, 음악 스트리밍 사업 기반 확보 [Apple Music 출시",
-   "url": "https://cafe.naver.com/thezoomclass/35586?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRoZXpvb21jbGFzcyIsImFydGljbGVJZCI6MzU1ODYsImlzc3VlZEF0IjoxNzk1NjI3MDI1MjEyfQ.WOIPNW2ha5vnYPh8SOWoc7yYvhkROe5FEHyz621UOhk&q=%ec%95%84%ec%9d%bc%eb%a6%bf%20%ed%96%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "아일릿 행사",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "1일차는 CL,아일릿,코르티스,리센느 등 역주행과 신인 그룹이 메인으로 나섰습니다. 여러 베테랑 아티스트인 엔하이픈,CL이 무대에 오르기도 했던 1일차 였습니다. 아직 2일차가 남았는데 2일차 라인업도 심상치않지만 한국인들 대부분 모두가 기대하고 기다리는 BIGBANG이 Giii rip(기립) 이라는 제목으로 신곡 기습발표를 한후 2일차(오늘) 무대에 오르",
-   "url": "https://cafe.naver.com/soongsfarm/3784?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNvb25nc2Zhcm0iLCJhcnRpY2xlSWQiOjM3ODQsImlzc3VlZEF0IjoxNzk1NjI3MDI1MjEyfQ.M94loR_VL5w6atjoQAJDbl1V9o35gVKuuRefmamfLSE&q=%ec%95%84%ec%9d%bc%eb%a6%bf%20%ed%96%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "아일릿 행사",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "전 리센느 팬 아들은 아일릿 여기 나오는 아이돌 다 응원합니다. 넘 열심히 하네요",
-   "url": "https://cafe.naver.com/ghbom/49?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdoYm9tIiwiYXJ0aWNsZUlkIjo0OSwiaXNzdWVkQXQiOjE3OTU2MjcwMjUyMTJ9.84e1B0O9hnddgmGW5lMMxwFlqF0kAC1K5nIOjT-1io8&q=%ec%95%84%ec%9d%bc%eb%a6%bf%20%ed%96%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "아일릿 행사",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "엔하이픈, 아일릿이 수상의 영예를 안게 되었습니다. 특히 엔하이픈은 팬스 초이스 오브 더 이어 부문까지 거머쥐며 팬들의 강력한 지지를 다시 한번 입증하는 계기가 되었습니다. 트레저는 팬들의 성원 덕분에 받은 상이라며 계속 노력하는 가수가 되겠다고 밝혔고, 아일릿은 하이브 관계자에게 감사를 전했습니다. 시상식 일정 및 시청 안내 이번 시상식은 일본 오사카 교",
-   "url": "https://cafe.naver.com/zzangbusan/44267?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Inp6YW5nYnVzYW4iLCJhcnRpY2xlSWQiOjQ0MjY3LCJpc3N1ZWRBdCI6MTc5NTYyNzAyNTIxMn0.DjvhjnTS4o2kfGAP1z2kTaFS1ZQSYKGIP3714m5e4E4&q=%ec%95%84%ec%9d%bc%eb%a6%bf%20%ed%96%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "아일릿 행사",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "(웃음) 소짱: 앞으로 진행될 행사, 많은 기대와 관심 부탁드립니다. 올해 시소풍과 전시 모습 #04. 자기소개서에 케이팝 덕후라고 소개하시던데, 추천하는 케이팝은 무엇인가요? 교주 개인질문 문부: 제가 알기론 교주님 마음에 많은 분들이 거쳐 가셨던 걸로 알고 있는데. 교주: 그렇죠. 케이팝 제가 정말 좋아하는데, 요즘 많이 듣는 건 아일릿의 Lucky G",
-   "url": "https://cafe.naver.com/godsejong/1470?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdvZHNlam9uZyIsImFydGljbGVJZCI6MTQ3MCwiaXNzdWVkQXQiOjE3OTU2MjcwMjUyMTJ9.bGTfZAIL2ZLbGzvekuaYz_8BjGl2xUXoq0mNk_bNu18&q=%ec%95%84%ec%9d%bc%eb%a6%bf%20%ed%96%89%ec%82%ac&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "아일릿 행사",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "오늘은 바리톤 박상돈, 소프라노 이해원, 그리고 KBS 〈K-가곡 슈퍼스타〉에 출연한 폴란드 출신 바리톤 파베우 피오트르 무란티(Paweł Piotr Muranty)의 무대를 함께 감상해 보려고 합니다. 시간에 기대어 노래고성현2016.03.30. ♬ 아래 영상에서 가사와 함께 노래를 감상하실 수 있습니다. 저 언덕 넘어 어딘가 그대가 살고있을까 계절이 수",
-   "url": "https://blog.naver.com/sugartea/224488904173",
-   "engine": "naver_blog",
-   "query": "이해원 소프라노",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "MBC드림센터 ✔️ 방청 신청 필수 12월 08일 (화) 오후 6시 군위 송년 음악회 장소 : 대구광역시 군위군 군위읍 군청로 158 삼국유사문화예술회관 12월 09일 (수) 오후 4시 TJB 가요탑10쇼 녹화 주소 : 대전 동구 동대전로 171 우송 예술회관 12월 15일 (화) 오후 4시 ROTC 사회공헌단 자원봉사단 대축제 주소 : 경기 고양시 일산동",
-   "url": "https://cafe.naver.com/binimys/537758?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJpbmlteXMiLCJhcnRpY2xlSWQiOjUzNzc1OCwiaXNzdWVkQXQiOjE3OTU2MjcyNTEzNjZ9.V_WSPEq4quM7fxujWXCK7La8eZI7-Kq0y7wIVYBugck&q=%ea%b0%80%ec%9a%94%eb%8c%80%ec%b6%95%ec%a0%9c%20%eb%b0%a9%ec%b2%ad%20%ec%8b%a0%ec%b2%ad%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "가요대축제 방청 신청 라인업",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "https://zilm.io #2026SBS가요대전 #SBS가요대전 #SBS가요대전30주년 #SBS가요대전방청신청 #SBS가요대전티켓팅 #SBSplay #가요대전라인업 #가요대전일정 #12월콘서트 #크리스마스공연 #킨텍스공연 #일산킨텍스 #스트레이키즈 #아이브 #라이즈 #엔하이픈 #샤이니 #보아 #지수 #티아라 #KPOP공연 #연말공연 #가요대전 #가요대전",
-   "url": "https://cafe.naver.com/zilm/218?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InppbG0iLCJhcnRpY2xlSWQiOjIxOCwiaXNzdWVkQXQiOjE3OTU2MjcyNTEzNjZ9.FqrMTRhf-hxOgN0BAjHMao24u2d5BFghPR4IGG-UDDQ&q=%ea%b0%80%ec%9a%94%eb%8c%80%ec%b6%95%ec%a0%9c%20%eb%b0%a9%ec%b2%ad%20%ec%8b%a0%ec%b2%ad%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "가요대축제 방청 신청 라인업",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "갤럭시 라인업은 대체로 비슷한 수준을 유지하는 반면 애플 아이폰의 경우 각 통신사마다 편차를 보이고 있다. 20일 이통3사 공식... 30일까지 공식 온라인스토어에서 갤럭시 S26 또는 Z 폴드8 계열을 개통 후 혜택 신청 고객은 갤럭시 워치8·워치9의 40mm 모델을... 2026 SBS 가요대전 30주년 방청 초대권은 150명에게 나눠주며 수험생 인증 ",
-   "url": "https://cafe.naver.com/dadgaf465rqwreqer/110347?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRhZGdhZjQ2NXJxd3JlcWVyIiwiYXJ0aWNsZUlkIjoxMTAzNDcsImlzc3VlZEF0IjoxNzk1NjI3MjUxMzY2fQ.apc6FZksplRjzWVNqPYtzhvUSXozHq2aujHtHOm3Lh4&q=%ea%b0%80%ec%9a%94%eb%8c%80%ec%b6%95%ec%a0%9c%20%eb%b0%a9%ec%b2%ad%20%ec%8b%a0%ec%b2%ad%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "가요대축제 방청 신청 라인업",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "✅ 가요대축제 방청 정보 확인 KBS아레나 | 방청 신청 | PLAYVERSE 12월 18일 KBS아레나, 1차 라인업 9팀 신청 전에 나이 조건을 모르면 당첨되고도 입장하지 못할 수 있어서 눈여겨봤어요. 공식 안내를... 방청 신청 날짜, 달력에 적어두셨나요? 가장 보고 싶은 무대를 댓글로 알려주세요 #여행축제행사 #서울강서 #KBS가요대축제 #가요대축제",
-   "url": "https://cafe.naver.com/jhs29/1129?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImpoczI5IiwiYXJ0aWNsZUlkIjoxMTI5LCJpc3N1ZWRBdCI6MTc5NTYyNzI1MTM2N30.nkdyZcUBOKFftVFHskWbYzcSrotSBLcXt5Fy_9O2tMU&q=%ea%b0%80%ec%9a%94%eb%8c%80%ec%b6%95%ec%a0%9c%20%eb%b0%a9%ec%b2%ad%20%ec%8b%a0%ec%b2%ad%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "가요대축제 방청 신청 라인업",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "구분 내용 개최일 2026년 11월 20일(금)~21일(토) 장소 일본 교세라 돔 오사카 주최 CJ ENM 호스트(MC) 박보검 레드카펫 MC 이대휘, 최미나수 생중계 Mnet 채널, 엠넷플러스(Mnet Plus) ■ 2026 MAMA 라인업, 20일·21일 누가 출연하나요? 20일 라인업은 신예 그룹부터 베테랑 아티스트까지 폭이 넓다는 점이 눈에 띕니다.",
-   "url": "https://cafe.naver.com/specup/7974511?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNwZWN1cCIsImFydGljbGVJZCI6Nzk3NDUxMSwiaXNzdWVkQXQiOjE3OTU2MjcyNTEzNjd9.CDcDCMYpegXEpDtOf7OohlIF0xl8LfbgX5RosWayxCs&q=%ea%b0%80%ec%9a%94%eb%8c%80%ec%b6%95%ec%a0%9c%20%eb%b0%a9%ec%b2%ad%20%ec%8b%a0%ec%b2%ad%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "가요대축제 방청 신청 라인업",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "앱 '방청신청'에서 가요대전을 선택한 뒤 희망하는 공연 일자를 신청하면 신청 완료! ※ 본 이벤트는 SBS play 앱에서만 응모할 수 있습니다. (웹·PC에서는 신청 불가) ■ 당첨자 발표 2026년 12월... · 공연 시간, 출연진 라인업, 무대 디자인은 주최 측 사정에 따라 사전 고지 없이 변경될 수 있습니다. ■ 공식 안내 링크 https://w3",
-   "url": "https://cafe.naver.com/sbus/1335?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNidXMiLCJhcnRpY2xlSWQiOjEzMzUsImlzc3VlZEF0IjoxNzk1NjI3MjUxMzY3fQ.waa8uIuzA6VevJGb80jdG8Ma39sDLN_B9NQFmaIbwi4&q=%ea%b0%80%ec%9a%94%eb%8c%80%ec%b6%95%ec%a0%9c%20%eb%b0%a9%ec%b2%ad%20%ec%8b%a0%ec%b2%ad%20%eb%9d%bc%ec%9d%b8%ec%97%85&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "가요대축제 방청 신청 라인업",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "'쇼케이팝' 아일릿 3주 연속 1위 - www.bntnews.co.kr",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYOGhMb090Y0xGZ1lhZkFlR3c1enZzX0syQ28wSDR5bjZNTVdHOE9kRXF6QTJpdGN6azhsYV9qMlE3NzJ2ZHEyb1NEa1NjN2pLcVVhcXY5dHRCek44U09NenRYdkg?oc=5",
-   "pub": "Mon, 23 Nov 2026 20:38:15 GMT",
-   "engine": "gnews",
-   "query": "아일릿 행사",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "박하명 - ＜오라버니＞ ♬ MBC 201023 방송 박혜신 - YouTube 박혜신 - 고향으로 가는 배 [설특집 - 2026 복터지는 트롯 대잔치] | KBS 260217 방송 백에린 - YouTube 절세미녀 251026 백예린 Yerin Baek - 지켜줄게 | Flash and Core 2025 단독 콘서트 비비 BIBI - YouTube 비비 BI",
-   "url": "https://cafe.naver.com/jusiktujja/7829?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1c2lrdHVqamEiLCJhcnRpY2xlSWQiOjc4MjksImlzc3VlZEF0IjoxNzk1NjI3MzYxNDE4fQ.JI6bijn4iUTkW11tYOP5PRKVPs-4wKGx-iAC2kcJQxk&q=%ec%b5%9c%ec%98%88%eb%82%98%20%ec%bd%98%ec%84%9c%ed%8a%b8&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "최예나 콘서트",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "[최예나] YENA 콘서트 첫콘 입장 특전 포토카드 포카 [YENA] Choi Yena Concert Entrance Photocard 4. 최예나 굿모닝 플레이브 버전 사웨 포카 GOOD MORNING PLVE ver 사운드웨이브 포토카드 2종세트 5. 최예나 Good Morning 위드뮤 포카 굿모닝 포토카드 6. 최예나 굿모닝 EVERLINE 포카 G",
-   "url": "https://cafe.naver.com/bodaltruck/13985?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJvZGFsdHJ1Y2siLCJhcnRpY2xlSWQiOjEzOTg1LCJpc3N1ZWRBdCI6MTc5NTYyNzM2MTQxOH0.8CyXC8kPLaln3oNIdwIwlBWtT6QyjDBdw1eIF68gn5E&q=%ec%b5%9c%ec%98%88%eb%82%98%20%ec%bd%98%ec%84%9c%ed%8a%b8&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "최예나 콘서트",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "화려한 드레스나 공식 행사 의상 대신 편안한 사복 차림으로 눈길을 끌었습니다. 오랜 친구 이진과 헤어스타일리스트 주형선이 공개한 사진들이 큰 화제를 모았습니다. 수수한... 파티 분위기 역시 톱스타의 거창한 행사 대신 소박한 홈파티 느낌으로 채워졌습니다. 딸기와 망고가 올라간 케이크, 즉석사진, 꽃다발이 어우러져 따뜻한 인상을 남겼습니다. 수수한 사복...",
-   "url": "https://blog.naver.com/hannystock/224490355342",
-   "engine": "naver_blog",
-   "query": "최예나 행사",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "2월 28일 공연장: 블루스퀘어 우리은행홀 첫 티켓 오픈: 2026년 10월 8일 오후 2시 주요 출연진: 최재림·전동석·박강현(팬텀), 이해원·최선호(크리스틴), 송원근·김성식(라울) 티켓 가격: VIP 19만 원, R 16만 원, S 13만 원, A 9만 원 러닝타임: 약 150분, 인터미션 포함 관람 연령: 8세 이상 티켓 예매 링크 오페라의 유령 뮤",
-   "url": "https://blog.naver.com/wodn222/224436075395",
-   "engine": "naver_web",
-   "query": "이해원 티켓오픈",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "헨델과 모차르트의 대표적인 오페라 아리아가 울려퍼질 특별한 시간, 임선혜 & 이동규 <러브듀엣>의 티켓 오픈을 내일 앞두고 공연의 포스터를 공개합니다. ️ 임선혜 & 이동규 <러브듀엣> Mozart and Handel in Love (게스트:존노, 이해원) 2026년 6월 24일(수) 오후 7시 30분 예술의전당 콘서트홀 TICKET OPEN 클럽발코니 유",
-   "url": "https://cafe.naver.com/dqlee/47952?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRxbGVlIiwiYXJ0aWNsZUlkIjo0Nzk1MiwiaXNzdWVkQXQiOjE3OTU2Mjc1MDYzMDd9.tvnmp8_wCzA7CrWrJZ9z2kIiVIwXGMpLXzgWWDuxzhg",
-   "engine": "naver_web",
-   "query": "이해원 티켓오픈",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "최예나, 마마 수상에 3.6억 스트리밍 - www.bntnews.co.kr",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQSEVPSzduVDRLUExEcU1FQXFxU05acDNsRW91dWlWLVlnQWJNNmZvTFpNdll5ZkduRXZRMm0tcm1mUGxyOFlfX19UU2hUbHlkem5Qb0dkRnZ5Y2hYZ29tcHlFcXM?oc=5",
-   "pub": "Mon, 23 Nov 2026 22:04:56 GMT",
-   "engine": "gnews",
-   "query": "최예나 콘서트",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "PROFILE 브랜든 최 | Brandon Choi (Saxophone) 브랜든 최는 국내는 물론, 유럽과 미국 및 전 세계의 무대에서 클래식 색소폰의 새로운 바람을 불러일으키고 있는 연주자다.... 배성우ㅣSeong-Woo Bae (Cello · 수석) 배성우는 선화예고 수석 졸업 후 독일 에센 국립음대에서 학사, 석사 최고연주자과정을 최우수 졸업하였다.",
-   "url": "https://blog.naver.com/thehouseconcert/223728890729",
-   "engine": "naver_all",
-   "query": "Brandon Jinwoo Choi concert saxophone",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "소프라노로서 최고의 음악적 재능과 음색을 가지고 있는 인물입니다. 이번 시즌에는 이해원 최선호 배우가 캐스팅 되었어요! 오페라의 유령 크리스틴 역할은 뮤지컬 배우들이 하는 경우도 많지만 소프라노 성악가들이 하는 경우도 많은데요~ 대표적인 배우로 과거 초연의 김소현 배우를 꼽을 수 있을 것 같아요. 이해원 배우는 예원 학교부터 서울대 성악과까지... 새 창 ",
-   "url": "https://blog.naver.com/dms4476/224426671219",
-   "engine": "naver_web",
-   "query": "이해원 소프라노 캐스팅 스케줄",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "크리스틴은 이해원·최선호 여주인공 크리스틴 다에 역에는 이해원과 최선호가 캐스팅됐습니다. 두 사람 모두 이번 시즌 새롭게 합류한 얼굴입니다. 이해원은 국내외 오페라와 리사이틀, 크로스오버 무대를 오가며 활동해온 소프라노이고... 전체 캐스팅과 공연 기간입니다. 공연은 12월 22일 시작되기 때문에 향후 1차 티켓 오픈 일정, 배우별 스케줄, 좌석별 가격..",
-   "url": "https://blog.naver.com/today_news_pick/224420149752",
-   "engine": "naver_web",
-   "query": "이해원 소프라노 캐스팅 스케줄",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "첼로, 이재리 Jeri Lee, Cello 트럼펫, 이상욱 Sang Wook Lee, Trumpet 소프라노, 이해원 Haewon Lee, Soprano 바리톤, 김주택 Julian Jootaek Kim, Baritone새 창 열림",
-   "url": "https://www.seoulphil.or.kr/perf/view?perfNo=6670",
-   "engine": "naver_web",
-   "query": "이해원 소프라노 캐스팅 스케줄",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "먼저 이해원은 소프라노로 활동해온 성악가예요. 예원학교, 서울예고, 서울대학교 성악과를 졸업했고 독일 한스아이슬러... 저는 캐스팅 스케줄이 더 기다려지네요 이번 캐스팅은 생각보다 고민되네요. 전동석·최재림처럼 이미 2023년에 유령을 해본 배우를 다시 볼 것인가, 아니면 박강현의 첫 유령을 먼저 볼 것인가! 여기에 이해원·최선호 크리스틴은 둘 다... 새",
-   "url": "https://blog.naver.com/yamyamjin_/224418421090",
-   "engine": "naver_web",
-   "query": "이해원 소프라노 캐스팅 스케줄",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "주목받는 캐스팅인데요. 두 배우 모두 이번 작품이 첫 뮤지컬 무대라는 점이 눈길을 끌어요. 이해원은 국내외 오페라 무대와 리사이틀, 크로스오버 공연 등에서 활동해온 소프라노이고, 최선호는 서울대 성악과를 거쳐 독일 쾰른... 90,000원 캐스팅일정 캐스팅일정은 위의 이미지와 같아요. 배우님들 스케줄을 잘 확인한 후 티켓팅해 주세요.... 새 창 열림",
-   "url": "https://blog.naver.com/yogocode/224426642974",
-   "engine": "naver_web",
-   "query": "이해원 소프라노 캐스팅 스케줄",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "또한 성악적 기량이 완벽한 소프라노 이해원, 최선호 배우가 펼칠 크리스틴의 고음 성량과, 2001년 초연 유령이었던 윤영석 배우(앙드레 역) 및 700회 이상 무대를 지켜온 이상준... 캐스팅 스케줄 할인 혜택 & 카드사 꿀팁 티켓 예매 할인 수단: 현재 별도의 조기예매 할인은 발표되지 않았으나, NOL 티켓(야놀자) 결제 시 NOL 카드 결제 혜택 또는 ",
-   "url": "https://blog.naver.com/danakim1222/224427007463",
-   "engine": "naver_web",
-   "query": "이해원 소프라노 캐스팅 스케줄",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "특히 대표 넘버 ‘Think of Me’의 최고음은 매우 높기 때문에 크리스틴 캐스팅에서는 맑고 안정적인 소프라노 음색이 중요합니다. 배우 주요 이력 이번 시즌 관람 포인트 이해원 예원학교·서울예고·서울대 성악과 졸업, 독일 한스 아이슬러 음악대학 석사. 국내외 오페라와 리사이틀, 크로스오버 공연 활동 오페라 무대 경험과 맑고 청아한 소프라노. 이번 작품으",
-   "url": "https://blog.naver.com/jycy2525/224424257054",
-   "engine": "naver_web",
-   "query": "이해원 소프라노 캐스팅 스케줄",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "따라서 연기 뮤지컬 발성 클래식 소프라노 를 모두 소화해야 합니다. 이번 시즌에는 이해원과 최선호가 오디션을 통해 캐스팅됐고, 두 사람 모두 이번 작품으로 뮤지컬 무대에 새롭게 도전합니다. 이건 이번 시즌의 상당히 흥미로운 선택입니다. 2023 시즌을 경험한 팬텀 배우들과 새로운 크리스틴이 만나는 구조이기 때문입니다. 06. 라울｜송원근·김성식 라울... ",
-   "url": "https://blog.naver.com/director976/224420385685",
-   "engine": "naver_web",
-   "query": "이해원 소프라노 캐스팅 스케줄",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "<오페라의 유령 뮤지컬 2026 캐스팅 스케줄> 기대되는 점 (지극히 개인적입니다) 영화로 먼저 만난 오페라의 유령이라 오페라의 유령 뮤지컬을 직접 볼 생각에 기대중!!... 최재림 | 전동석 | 박강현 세 팬텀의 연기가 어떻게 다를지도 궁금하고 크리스틴 역의 이해원 | 최선호 소프라노 그리고 라울 역의 송원근 | 김성식 모두 기대된다.새 창 열림",
-   "url": "https://blog.naver.com/mimature/224426373224",
-   "engine": "naver_web",
-   "query": "이해원 소프라노 캐스팅 스케줄",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "크리스틴 역에는 소프라노 이해원과 최선호가 캐스팅됐고, 라울 역은 송원근과 김성식이 맡습니다. 세 배역 모두 더블 혹은 트리플 캐스트로 운영되는 만큼, 원하는 배우의 회차를 예매하려면 캐스팅 공지가 뜨자마자 회차별 출연진을 확인해두는 게 유리합니다. 공연 관련 커뮤니티나 후기 글을 보면 최재림·전동석의 유령을 이미 본 관객들 사이에서는 박강현이... 새 창",
-   "url": "https://blog.naver.com/story-83/224426209117",
-   "engine": "naver_web",
-   "query": "이해원 소프라노 캐스팅 스케줄",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "크리스틴은 소프라노 이해원과 최선호, 라울은 송원근과 김성식이 나눠 맡아요. 배우 명단과 별개로 날짜별 캐스팅 스케줄은 10월 8일 예매 상세 페이지에서 확인할 수 있습니다. 같은 날짜라도 낮과 저녁 공연의 배우가 다를 수 있으니 결제 직전 날짜·시간·캐스팅을 꼭 함께 확인해 주세요. 오페라의 유령 줄거리 19세기 파리 오페라 하우스에는 정체를 알 수...",
-   "url": "https://blog.naver.com/lovestalog/224434633214",
-   "engine": "naver_web",
-   "query": "이해원 소프라노 캐스팅 스케줄",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "그는 자신의 음악을 통해 성장하는 젊은 소프라노 ‘크리스틴’에게 강렬한 감정을 품게 됩니다. 하지만... 오페라의 유령 40주년 캐스팅 이번 40주년 스페셜 시즌에서 가장 눈길을 끄는 부분은 주요 배역을 맡은 배우들입니다.... 오페라의 유령: 최재림, 전동석, 박강현 크리스틴: 이해원, 최선호 라울: 송원근, 김성식 무슈 앙드레: 윤영석 무슈 피르맹: 이",
-   "url": "https://blog.naver.com/life_is_film/224425718472",
-   "engine": "naver_web",
-   "query": "이해원 소프라노 캐스팅 스케줄",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "세 명의 서로 다른 매력을 가진 팬텀이 무대를 채울 예정 크리스틴 역: 이해원, 최선호 기품 있는 매력과 감미로운 보이스로 무대를 빛낼 소프라노 이해원과 최선호 배우가 발탁됨 라울 역: 송원근, 김성식 든든하고 다정다감한 매력으로 크리스틴을 지키는 라울 역에는 송원근, 김성식 배우가 캐스팅됨 2023년, 김주택 배우의 '오페라의 유령' 관람 후기 2023년",
-   "url": "https://blog.naver.com/elitist46/224463664545",
-   "engine": "naver_web",
-   "query": "이해원 소프라노 캐스팅 스케줄",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "파리 오페라 하우스를 배경으로 전개되는 천재 음악가 유령과 소프라노 크리스틴, 그리고 청년 귀족 라울의 비극적인 사랑 이야기를 다루고 있다.. 추리와 스릴러, 미스터리와... 오페라의 유령 캐스팅 오페라의 유령 : 최재림, 전동석, 박강현 크리스틴 : 이해원, 최선호 라울 : 송원근, 김성식 ▶ 오페라의 유령 : 가면 뒤에 정체를 숨긴 채 오페라 하우스..",
-   "url": "https://blog.naver.com/goldencross_y/224418387688",
-   "engine": "naver_web",
-   "query": "이해원 소프라노 캐스팅 스케줄",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "오페라의 유령 2026 전체 캐스팅 라인업 19세기 파리 오페라 하우스 지하 세계를 지배하는 천재 음악가 유령과 소프라노 크리스틴, 그리고 라울 자작의 비극적 삼각관계를 완성할... 배역의 캐스팅은 다음과 같습니다. 유령(The Phantom): 최재림, 전동석, 박강현 크리스틴 다에(Christine Daaé): 이해원, 최선호 라울 드 샤니(Raoul ",
-   "url": "https://blog.naver.com/loversmin/224452847092",
-   "engine": "naver_web",
-   "query": "이해원 소프라노 캐스팅 스케줄",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "1910년 단행본으로 출간된 원작 소설은 파리 오페라하우스에 숨어 사는 의문의 인물과 아름다운 소프라노 가수의 이야기를 다루고 있습니다. 이 작품을 세계적인 뮤지컬로... 당시 초연 캐스팅은 지금까지도 뮤지컬 역사에서 중요한 의미를 갖습니다. 팬텀 역에는 마이클 크로퍼드(Michael Crawford), 크리스틴 역에는 사라 브라이트먼(Sarah Brigh",
-   "url": "https://blog.naver.com/alfwlqah/224452718780",
-   "engine": "naver_web",
-   "query": "이해원 소프라노 캐스팅 스케줄",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "무대를 꾸며 큰 호응을 얻었다. 가수 김원준과 김윤아, 걸그룹 아일릿도 무대에 올라 자리를 빛냈다. 박지훈 전용 포즈 (서울=연합...KBS홀에서 열린 제47회 청룡영화상 레드카펫 및 포토월 행사에 참석하고 있다. 2026.11.25 mjkang@yna.co.kr 다음은 제47회 청룡...",
-   "url": "http://v.daum.net/v/20261125235920797",
-   "engine": "daum_news",
-   "query": "아일릿 행사",
-   "first_seen": "2026-11-26T02:07:49+09:00"
-  },
-  {
-   "title": "'청룡' MR제거급 음향서 '라이브 실력' 강제 인증한 아일릿…'체포하겠어' 댄스 함께 춘 배우들 누구? - mhnse.com",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBabVlyYXBRZlM4Zm9kekpjTmgxLW9SbVo4VmxRbUdNWElMSnBTRDVab2ZwRlE3RVVILTNLYUxvQTdQUkZCdGQxQzkwcDJVUllLcU9NbWVwQk01ejJHS2RGOUxtTQ?oc=5",
-   "pub": "Wed, 25 Nov 2026 13:19:42 GMT",
-   "engine": "gnews",
-   "query": "아일릿 콘서트",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "아일릿 원희, 부상에 고열까지 겹쳤다…멤버 전원 건강 이상 - 텐아시아",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MWlFoNjBwYlc0MHBUcDlLcm9abjREUS1VeEJEM1ZvXzF6V0tNLWFRYkNRRnU0dU1ucHVsdDNwRE5XYXRrNlR0eGdHV01ac1R5WE1WRnR5Tk9FX2c?oc=5",
-   "pub": "Wed, 18 Nov 2026 22:57:00 GMT",
-   "engine": "gnews",
-   "query": "아일릿 콘서트",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "하모니시스트 박종성과 색소폰 연주자 브랜든 최의 연주회 가 오는 7월 7일(금) 오후 7시 30분, 백암아트홀에서 열린다.'HarmonicS'는 ‘하모니카와 색소폰의 만남’이라는 의미를 담고 있는 이번 콘서트에서는 각자의 분야에서 눈부신 활약을 보여주고 있는 두 아티스트가 신선하고 매력적인 하모니로 관객들을 찾는다.1...새 창 열림",
-   "url": "http://www.thepreview.co.kr/news/articleView.html?idxno=7997",
-   "engine": "naver_all",
-   "query": "브랜든 최 협연",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "해당 좌석은 12월 중순 이후 추가 오픈 여부가 결정될 예정이에요. 또 26, 27, 40, 41구역의 14~15열은 좌석 간격과 통로가 좁아서 이동이 불편할 수 있다고 하니 참고하세요~ [ 티켓 수령 안내 ] 티켓... 동행 게시판에 글 남겨주세요~ 그럼 모두 성공적인 티켓팅 하시길 바랄게요! #태연 #태연콘서트 #태연콘서트2027 #FLYinSeoul ",
-   "url": "https://cafe.naver.com/partypeop1e/30?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBhcnR5cGVvcDFlIiwiYXJ0aWNsZUlkIjozMCwiaXNzdWVkQXQiOjE3OTU2MTkzNzc0NTh9.9cusXsiK8ZXa_ckJ9f-Vc3x-0_4pKS0xk2F2nQVtFxU&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "이틀연속 올콘 가려고 예메했는데 토요일네 출근을 해야해서 못가게 돼서 양도 합니다ㅠㅠ [ VIP석 1층 B2구역01열 009번 ] 필요하신분들 ⬇️⬇️⬇️⬇️⬇️ 이쪽으로 연락주세요! 카카오톡 오픈채팅을 시작해 보세요. 링크를 선택하면 카카오톡이 실행됩니다. 26년 12월 5일 pm.6:00 비 콘서트 티켓양도 https://open.kakao.com/o/",
-   "url": "https://cafe.naver.com/officialcloud/113042?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im9mZmljaWFsY2xvdWQiLCJhcnRpY2xlSWQiOjExMzA0MiwiaXNzdWVkQXQiOjE3OTU2MTkzNzc0NTh9.1z2X_1ta7QZU023ohg8QoqQbiSr9TCLyWfc0Eu1GCoY&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "The Lemon Twigs 내한공연 일정: 2027년 1월 26일 (목) 오후 8시 장소: 롤링홀 가격: 85,000원 오픈: 11월 30일 (월) 오후 8시 예매: @k_4shared 프로필 링크 The Lemon Twigs - Live in Korea Dates: 2027. 1.... 연극정보, 콘서트정보, 전시회정보, 영화정보, 도서정보, 서평단, ",
-   "url": "https://cafe.naver.com/culturebloom/3447150?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImN1bHR1cmVibG9vbSIsImFydGljbGVJZCI6MzQ0NzE1MCwiaXNzdWVkQXQiOjE3OTU2MTkzNzc0NTh9.F1B7TNBbVOBlBVTfcylNZyEi0cavlX5uQYDkOxG3vko&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "콘서트 12월24일 25일 4연석 12월24일 R석 B구역 2열 4연석 장당 16만원 12월25일 R석 C구역 2열 4연석 장당 16만원 A석 E구역 5열 4연석 장당 13만원 모든 결제는 서로 편리함을 위하여 안전결제로만 결제 받습니다. (위금액은 티켓비 포함각겨입니다) ( 구매확정은 콘서트 끝나고 해주시면됩니다) 쿨하게 구매하실분 카톡 오픈 톡으로 문의",
-   "url": "https://cafe.naver.com/joonggonara/1138686863?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM4Njg2ODYzLCJpc3N1ZWRBdCI6MTc5NTYxOTM3NzQ1OH0.OSpC74LljbXoDXL9cfDwjThvYEwiFcn3hKDRMh2RaTk&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "장당18만원 VIP 지정석 F2구역 1열 4연석 장당18만원 12월25일 광주콘서트 VIP 스탠딩석 40번대 4연석 장당18만원 VIP 지정석 F3구역 1열 4연석 장당18만원 모든 결제는 서로 편리함을 위하여 안전결제로만 결제 받습니다. (위금액은 티켓비 포함각겨입니다) ( 구매확정은 콘서트 끝나고 해주시면됩니다) 쿨하게 구매하실분 카톡 오픈 톡으로 문의",
-   "url": "https://cafe.naver.com/joonggonara/1138686828?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM4Njg2ODI4LCJpc3N1ZWRBdCI6MTc5NTYxOTM3NzQ1OH0.fabjPf6ytx2UbSMpYzLJh2gRdECgIuj_s1MNo6uCjAk&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "허각 전국투어 콘서트 11월28일 대전콘서트 명당좌석 정가이하 11월28일 대전콘서트 VIP석 1층 6연석 장당15만원 모든 결제는 서로 편리함을 위하여 안전결제로만 결제 받습니다. (위금액은 티켓비 포함각겨입니다) ( 구매확정은 콘서트 끝나고 해주시면됩니다) 쿨하게 구매하실분 카톡 오픈 톡으로 문의주세요 https://open.kakao.com/o/s32",
-   "url": "https://cafe.naver.com/joonggonara/1138686793?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM4Njg2NzkzLCJpc3N1ZWRBdCI6MTc5NTYxOTM3NzQ1OH0.tkCUMBVFywRRvBYxoaFDArrgRxyAJk2OG9KkWSARre4&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "SCREENX·IMAX 특별관으로 보면 가격이 더 올라가는 구조고, 실제 콘서트를 봤던 관객들도 영화관에서 가까이서 표정을 볼 수 있다는 점을 장점으로 꼽았다고 하더라고요. 특별관은 음향·현장감 만족도가 높다는 후기도 많았어요. 듄: 파트3 예매 오픈, 지점별로 챙길 것... 앱에 로그인한 뒤 우측 상단 '티켓' 메뉴에서 취소할 예매 내역을 선택하면 돼요.",
-   "url": "https://cafe.naver.com/goodinfo53/2388?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imdvb2RpbmZvNTMiLCJhcnRpY2xlSWQiOjIzODgsImlzc3VlZEF0IjoxNzk1NjE5Mzc3NDU4fQ.4fXyTuy2sDA56BI6wlG9mrtnbQKpLoF2wSpOgcEvAAs&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "인기 트로트 가수 장민호의 2026-27 전국투어 콘서트 '호시절 : 호(好)캉스'로 팬들과 만납니다. 가장 먼저 열리는 서울 공연 티켓이 내일(11월 26일) 저녁 8시에 오픈되니, 예매 준비하시는 분들은 아래 일정 꼭 확인해 보세요! 2026-27 장민호 전국투어 전체 일정 사진출처 - 호엔터테인먼트 서울 공연: 2026.12.25(금) ~ 12.27(",
-   "url": "https://cafe.naver.com/jckaladdin/80?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impja2FsYWRkaW4iLCJhcnRpY2xlSWQiOjgwLCJpc3N1ZWRBdCI6MTc5NTYxOTM3NzQ1OH0.pT2_WfkwZMmVjfzhCZ8CkE83SfZlZ7NnUsvKhv-V1LE&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "✨ [공연 안내] 일시 | 12월 12일(토) 18:00 장소 | 계룡문화예술의전당 대공연장 입장료 | 1층 2만 원 / 2층 1만 원 ️ 티켓 오픈 | 11월 30일(월) 10:00 출연진 | DK · 이영현 · 중식이밴드 · 조째즈 ☎️ 공연 문의 | 042-840-3704 #계룡시 #계룡시청 #계룡문화예술의전당 #계룡공연 #계룡콘서트 #2026송년음악",
-   "url": "https://cafe.naver.com/pp04350/210720?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBwMDQzNTAiLCJhcnRpY2xlSWQiOjIxMDcyMCwiaXNzdWVkQXQiOjE3OTU2MTkzNzc0NTh9.sg7tH6K7OSKhTxlse0VkN4PuOv7_qLeMVe8uuQkyclc&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "합창석과 일반 좌석 추가 오픈 되었습니다. 많은 관심 부탁드립니다 :) 함신익과 심포니 송 마스터즈 시리즈 VIII<송년음악회 \"합창교향곡\"> 일시 : 2026년 12월 29일 (화) 오후 7시30분 장소 : 예술의전당 콘서트홀 PROGRAM Beethoven | Symphony No. 9 in... sac.or.kr/site/main/show/show_v",
-   "url": "https://cafe.naver.com/seodaemungu/6853?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNlb2RhZW11bmd1IiwiYXJ0aWNsZUlkIjo2ODUzLCJpc3N1ZWRBdCI6MTc5NTYxOTM3NzQ1OH0.48ir_wy4ZgJ-bIk3tjZawBaoGGwk3dWZsWCfVIQSVmg&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "[Web발신] ★2026 서리풀 송년음악회 티켓 오픈 하이든 교향곡 제1번부터 차이콥스키의 현을 위한 세레나데까지, 서초교향악단과 함께 한 해를 마무리하고 새해를 맞이하세요. - 예매하기... 나눔쳄버오케스트라 콘서트> 피아졸라의 ‘리베르탱고’부터 차이콥스키의 ‘호두까기 인형’까지, 발달장애 연주자들의 다채로운 무대를 만나보세요. - 예매하기 : https",
-   "url": "https://cafe.naver.com/amateurmagician/119436?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImFtYXRldXJtYWdpY2lhbiIsImFydGljbGVJZCI6MTE5NDM2LCJpc3N1ZWRBdCI6MTc5NTYxOTM3NzQ1OH0.ElV4x5kesn4VoSMvihBIbTanpLat7NmkckXcGK_JKKQ&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "2026 강문경 연말콘서트 〈위로〉티켓 오픈관련하여 좌석 운영 및 티켓 가격 변경 사항을 안내드립니다. 좌석 운영 안내 ✔️ 객석 1층(건물 2층) : 정상 운영 ✔️ 객석 2층(건물 3층) : 미운영 관람객의 안전을 고려하여 공연장 측과 협의한 결과, 객석 1층만 개방하기로 결정하였고, 객석 2층은 계단이 높아 안전사고의 우려가 있어 운영하지 않으며, 추",
-   "url": "https://cafe.naver.com/bbongshinkmk/646032?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImJib25nc2hpbmttayIsImFydGljbGVJZCI6NjQ2MDMyLCJpc3N1ZWRBdCI6MTc5NTYxOTM3NzQ1OH0.Xxdo_KQTcazaP8lWQZjOdgFtetHvs_lnEABY6bIVMvI&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "플레이브 고척돔 앙코르 콘서트 티켓팅을 준비하시는 팬분들이라면 사전에 꼭 확인하셔야 할 핵심 정보를 정리해 드립니다. 비정상적인 거래 티켓은 사전 통보 없이 무효 처리될 수 있으므로, 예매 전... 선예매는 12월 1일 오후 8시에 시작되어 회차당 1인 1매만 예매할 수 있으며, 일반 예매는 12월 4일 오후 8시에 오픈되어 선예매분을 포함해 회차당 1인 ",
-   "url": "https://cafe.naver.com/masteri/1223?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hc3RlcmkiLCJhcnRpY2xlSWQiOjEyMjMsImlzc3VlZEF0IjoxNzk1NjE5Mzc3NDU4fQ.LK2qhDmd93j3MgEgtTy1ywgbvqw1ddQ535m4IhA21nA&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "성공적인 티켓팅을 위해 꼭 알아두어야 할 핵심 일정을 정리해 드릴게요. ### 플레이브 앙코르 콘서트 일정 및 개요 이번 고척스카이돔 앙코르 공연은 2027년 1월 22일부터 1월 24일까지 총 3회에 걸쳐... 일반 예매는 2026년 12월 4일 오후 8시에 오픈되며 선예매 후 잔여 좌석을 대상으로 진행됩니다. ### 예매 시 주의사항 및 실전 팁 공식 ",
-   "url": "https://cafe.naver.com/masteri/1222?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1hc3RlcmkiLCJhcnRpY2xlSWQiOjEyMjIsImlzc3VlZEF0IjoxNzk1NjE5Mzc3NDU4fQ.yyp3S82C_zGck0FbE_glgOo8ZfbvglcCgOnsnxPZGHw&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "상품 정보 더보기 〉 상품 정보 패닉 콘서트 12월 5일 R석 정가 양도 180,000원 시세조회 결제 혜택 N KB국민카드 12개월 5.5% 특별 할부 수수료 페이코 1% 즉시할인(최대 2만원) 결제 혜택 받기 〉 상품 상태 중고, 구성품 전체 거래 방법 직거래, 택배거래 거래 희망지역 성포동 판매자 정보 규릴리아 상품 더보기 〉 채팅하기 구매하기 상품 ",
-   "url": "https://cafe.naver.com/joonggonara/1138674350?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM4Njc0MzUwLCJpc3N1ZWRBdCI6MTc5NTYxOTM3NzQ1OX0.IZHDmOPa8c1xipc0iCRyzB6Hu9zwNtQfmpI5hzG7X6o&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "12/2 수 오후 5시에 계양문화회관에서 4팀의 다양한 장르의 공연을 무료로 볼 수 있다고 해요! 티켓 예매는 엔티켓에서 가능하다고 하니 시간 되시는 분들은 즐기러 가보세요^^",
-   "url": "https://cafe.naver.com/wmarp/465115?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6IndtYXJwIiwiYXJ0aWNsZUlkIjo0NjUxMTUsImlzc3VlZEF0IjoxNzk1NjE5Mzc3NDU5fQ.hqQO79Vy-Kv680jRlrWIPvOXOrH75SOgHDHsnF1cGLs&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "17.(목) 19:00, 강릉아트센터 소공연장, 120분 주요 내용: 1부 토크콘서트 「방송인의 사명감」, 2부 창작공연 「오월의 탄생」. 출연 서경석 외 모집 및 참가 안내: 전석 무료, 1인 4매까지 예매. 초등학생 이상 관람. 예매 2026. 12. 1. ~ 12. 17. 신청 방법: 강릉아트센터 누리집 인터넷 예매, 12. 1. 오픈 유의사항 및 문",
-   "url": "https://cafe.naver.com/cozy2023/15159?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImNvenkyMDIzIiwiYXJ0aWNsZUlkIjoxNTE1OSwiaXNzdWVkQXQiOjE3OTU2MTkzNzc0NTl9.E9W2au5PKp6KKorhQrROJOr0wSfmdA3c66xOsRVljBk&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "11월 25일 오후 2시 VIP 190,000원 / R 160,000원 / S 130,000원 / A 90,000원 샤롯데씨어터, NOL티켓, 예스24에서 예매할 수 있어요 회차별 1인 4매까지 예매할 수 있어요 같이 갈 분을 찾고 있다면 파티피플 동행 게시판에 글 남겨주세요~ #뮤지컬겨울왕국 #겨울왕국뮤지컬 #뮤지컬겨울왕국티켓오픈 #뮤지컬겨울왕국1월 #샤",
-   "url": "https://cafe.naver.com/partypeop1e/29?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBhcnR5cGVvcDFlIiwiYXJ0aWNsZUlkIjoyOSwiaXNzdWVkQXQiOjE3OTU2MTkzNzc0NTl9.ynGpPS__mLwjRJ3mRQzWzWAk74n1sqGZLo-9cKtObKM&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "■ YES24 티켓 (3) [콘서트] 2027 김정민 전국투어 : 정민이형 콘서트 - 충주 / 11:00 [콘서트] 2027 박남정 전국투어 콘서트 : The Original SuperStar - 충주 / 11:00 [콘서트] [충주] 2027 권인하 N ’ SONZ 콘서트 : ‘추구미가 권인하’ / 11:00 ■ 멜론티켓 (1) [콘서트] 해리빅버튼 15",
-   "url": "https://cafe.naver.com/ofad/3578494?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im9mYWQiLCJhcnRpY2xlSWQiOjM1Nzg0OTQsImlzc3VlZEF0IjoxNzk1NjE5Mzc3NDU5fQ.FRN11ph7UhYLqE6W49UDbGS4GAE4uMDdRsjXCXVukkY&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "34:45 ''이런 나라는 57개국 중 처음이에요\" 세계여행 중 한국 도착한 러시아여성, 인천공항 도착 5분만에 기겁한 사연? 한국톡톡 2천1일 전 21:17 조지아 여자친구 몰래 깜짝 방문.. 그리고 조부모님과의 첫 만남에서 눈물이 나온 이유 기호기호 GYOGYO 43만3개월 전 18:44 하버드 최연소 입학생이 들어오는데 14살 한국소녀? 교수는 믿지 ",
-   "url": "https://cafe.naver.com/jmsong0829/77165?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imptc29uZzA4MjkiLCJhcnRpY2xlSWQiOjc3MTY1LCJpc3N1ZWRBdCI6MTc5NTYxOTM3NzQ1OX0.LuOm5pJK6CJZzSb6mCijEyiSxokC3U4e-fVr6-pB53k&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "2026 박정현 소극장 콘서트 <이음> 12월4일 5일 6일 명당좌석 4연석 12월4일 5일 중앙블럭 2열 4연석 장당 14만원 12월6일 중앙블럭 3열 4연석 장당 14만원 모든 결제는 서로 편리함을 위하여 안전결제로만 결제 받습니다. (위금액은 티켓비 포함각겨입니다) ( 구매확정은 콘서트 끝나고 해주시면됩니다) 쿨하게 구매하실분 카톡 오픈 톡으로 문의주",
-   "url": "https://cafe.naver.com/joonggonara/1138666940?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM4NjY2OTQwLCJpc3N1ZWRBdCI6MTc5NTYxOTM3NzQ1OX0.HB3-MJaXHtfUzY0KfJvMbtLyz5OumkXGQ2HzhhfkNIw&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "대구콘서트 SR석 3구역 1열 4연석 장당15만원 12월19일 인천콘서트 SR석 가구역 3열 4연석 장당15만원 12월20일 인천콘서트 SR석 나구역 1열 4연석 장당15만원 모든 결제는 서로 편리함을 위하여 안전결제로만 결제 받습니다. (위금액은 티켓비 포함각겨입니다) ( 구매확정은 콘서트 끝나고 해주시면됩니다) 쿨하게 구매하실분 카톡 오픈 톡으로 문의주",
-   "url": "https://cafe.naver.com/joonggonara/1138666936?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM4NjY2OTM2LCJpc3N1ZWRBdCI6MTc5NTYxOTM3NzQ1OX0.eXL66cfEvAyqw7eeKPKUdXZNK9s9PbWZO_sOUrq9Jqs&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "정가이하 12월5일 광주콘서트 VIP석 나구역 2열 4연석 장당 15만원 S석 3-W 구역 4열 4연석 장당 13만원 12월5일 고양콘서트 VIP석 3구역 2열 4연석 장당 15만원 모든 결제는 서로 편리함을 위하여 안전결제로만 결제 받습니다. (위금액은 티켓비 포함각겨입니다) ( 구매확정은 콘서트 끝나고 해주시면됩니다) 쿨하게 구매하실분 카톡 오픈 톡으로",
-   "url": "https://cafe.naver.com/joonggonara/1138666931?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM4NjY2OTMxLCJpc3N1ZWRBdCI6MTc5NTYxOTM3NzQ1OX0.3wkq_FliwH3v8Pf_rOn2ucIqTvfEwK-WqQja0NPP0LM&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "CONCERT [CRUSH H♥UR] 크러쉬 콘서트 12월25일~27일 6연석 12월25일 vip석 나구역 2열 6연석 장당 17만원 12월26일~27일 vip석 가구역 3열 6연석 장당 17만원 모든 결제는 서로 편리함을 위하여 안전결제로만 결제 받습니다. (위금액은 티켓비 포함각겨입니다) ( 구매확정은 콘서트 끝나고 해주시면됩니다) 쿨하게 구매하실분 카",
-   "url": "https://cafe.naver.com/joonggonara/1138666912?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM4NjY2OTEyLCJpc3N1ZWRBdCI6MTc5NTYxOTM3NzQ1OX0.t8a8NUCmj-Zwqf5tGIB97hbZO_mFeLXFBTTOUjzPMWY&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
-  },
-  {
-   "title": "11월28일 29일 대구 12월5일 6일 고양 11월28일~29일 대구 콘서트 VIP석 OP구역 2열 2연석 장당 15만원 12월5일~6일 고양 콘서트 VIP석 B구역 4열 2연석 장당 15만원 모든 결제는 서로 편리함을 위하여 안전결제로만 결제 받습니다. (위금액은 티켓비 포함각겨입니다) ( 구매확정은 콘서트 끝나고 해주시면됩니다) 쿨하게 구매하실분 카톡",
-   "url": "https://cafe.naver.com/joonggonara/1138666905?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTM4NjY2OTA1LCJpc3N1ZWRBdCI6MTc5NTYxOTM3NzQ1OX0.-0bv1rrPJjq7fIs-17KcX4TNfnWgTwD3tvUO7lArlJg&q=%ed%8c%a8%eb%8b%89%20%ec%bd%98%ec%84%9c%ed%8a%b8%20%ed%8b%b0%ec%bc%93%20%ec%98%a4%ed%94%88&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "패닉 콘서트 티켓 오픈",
-   "first_seen": "2026-11-26T00:07:49+09:00"
   }
  ],
  "errors": [],
- "skipped_for_time": 231
+ "skipped_for_time": 213
 }
