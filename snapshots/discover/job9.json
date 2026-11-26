@@ -1,8 +1,15 @@
 {
- "updated": "2026-11-26T15:07:48+09:00",
+ "updated": "2026-11-26T16:07:56+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 3,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "특보 지점좌안우안주의보장수군(운곡교)4.9852.5무주군(취수장)8.6894.0금산군(제원대교)10.427.65.0새 창 열림",
+   "url": "https://www.geumriver.go.kr/html/flood/floodPopup.jsp",
+   "engine": "naver_web",
+   "query": "대청댐 수문",
+   "first_seen": "2026-11-26T16:07:56+09:00"
+  },
   {
    "title": "— 마틴 윌리엄스 <The Nile Revealed>의 깊은 역사” 2️⃣ “사막은 한때 초원이었다 — 나일강이 기록한 기후와 인간의 3,000만 년” 3️⃣ “홍수를 길들인 문명, 사라지는 삼각주 — 나일강의 개발이 남긴 역설” 4️⃣ “나일강에는 미래가 있는가? — 기후 변화와 댐, 생존과 협력의 역사” 서론 | “A River Written in Ti",
    "url": "https://blog.naver.com/twainnnn/224490908234",
@@ -2030,5 +2037,5 @@
   }
  ],
  "errors": [],
- "skipped_for_time": 32
+ "skipped_for_time": 26
 }
