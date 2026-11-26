@@ -1,47 +1,54 @@
-[mommom-sandmagic-a] rendered 95 chars CHANGED
-[mommom-sandmagic-b] rendered 95 chars CHANGED
-[sejong-notice-imnansu-play] rendered 869 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
-[aircanada-kr-moretotravel] rendered 3131 chars CHANGED
-[nol-product-magickids-daejeon] rendered 2127 chars CHANGED
-[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
-[ticketlink-product-65585] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/65585']' timed out after 75 seconds
-[yes24-perf-60278] rendered 198 chars CHANGED
-[chuncheon-notice-announcement] rendered 3527 chars CHANGED
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[chuncheon-municipal-news] rendered 1720 chars CHANGED
-[cwg-dmz-crane-notice] rendered 904 chars CHANGED
-[daejeoni-parent-edu-list] rendered 3147 chars CHANGED
-[ktostay-special-disaster-stay] rendered 2080 chars CHANGED
-[kspo-svoucher-notice] rendered 1916 chars CHANGED
-[smart-science-exhibitions-list] RENDER ERROR rendered but too little text (55 chars)
-[sejong-citylib-main] RENDER ERROR Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://library.sejong.go.kr/
+[templestay-main] rendered 2634 chars CHANGED
+[hwadong-main] rendered 9774 chars CHANGED
+[mokpo-harborfestival-main] rendered 8982 chars CHANGED
+[nol-product-26012487] rendered 1439 chars CHANGED
+[hanbat-library-media-friend] rendered 506 chars CHANGED
+[kopis-place-pyoungsong-small] rendered 10082 chars same
+[bok-press-list] rendered 720 chars CHANGED
+[blog-seogu-artfest-fringe-cvovz] rendered 5667 chars CHANGED
+[blog-seogu-artfest-blu2sky7] rendered 6389 chars CHANGED
+[kwater-realtime-sumun] rendered 2296 chars CHANGED
+[cnu-jsh-schedule-178-2026-11] rendered 2850 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 4511 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1278 chars CHANGED
+[kmusic-calendar-year] rendered 6318 chars CHANGED
+[nol-product-26001112] rendered 3666 chars CHANGED
+[blog-daedeokgu-224432911721] rendered 2670 chars CHANGED
+[blog-namuac21-224424725714] rendered 4553 chars CHANGED
+[blog-youneed4613-224436099074] rendered 4608 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
+[pyoungsong-tribe-events-api-p2] RENDER ERROR rendered but too little text (19 chars)
+[kopis-pf297232] rendered 7859 chars same
+[royalmint-lotr] rendered 4414 chars CHANGED
+[sejong-youth-prog-list] rendered 3010 chars CHANGED
+[ssg-fsale-coupon] rendered 2351 chars CHANGED
+[nol-product-26011246] rendered 1720 chars CHANGED
+[naver-booking-joyculture-daejeon] rendered 2674 chars CHANGED
+[donggu-yeyak-exprn-list] rendered 2256 chars CHANGED
+[djac-perf-5603] rendered 3222 chars CHANGED
+[djac-perf-5606] rendered 3436 chars CHANGED
+[ticketlink-facility-notice] rendered 92729 chars CHANGED
+[leis-cbsports-notice] rendered 1051 chars CHANGED
+[djac-perf-5653] rendered 3470 chars CHANGED
+[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://library.sejong.go.kr/", waiting until "domcontentloaded"
+  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
 
-[leis-cycling-speedagency] rendered 337 chars CHANGED
-[naver-cafe-everandon-main] rendered 495 chars CHANGED
-[naver-cafe-everandon-252] rendered 2950 chars CHANGED
-[naver-cafe-everandon-251] rendered 2741 chars CHANGED
-[jeonju-board-jeollagamyeong] rendered 1905 chars CHANGED
-[onsejong-localo-main] rendered 2372 chars CHANGED
-[perthmint-upcoming-releases] rendered 8287 chars CHANGED
-[nol-product-26010436] rendered 1538 chars CHANGED
-[kfruit-main] rendered 9257 chars CHANGED
-[gcfct-schedule] rendered 371 chars CHANGED
-[dsecc-programs] rendered 2068 chars CHANGED
-[seogu-exprn-list] rendered 1020 chars CHANGED
-[seogu-event-list] rendered 1020 chars CHANGED
-[seogu-edu-list] rendered 1026 chars CHANGED
-[daejeon-its-board] rendered 3369 chars CHANGED
-[zeropay-events] rendered 572 chars CHANGED
-[chuncheon-festival-news] rendered 904 chars CHANGED
-[chuncheon-festival-news-459539] rendered 801 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[baekje-schedule] rendered 1512 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[woosongart-schedule] rendered 760 chars CHANGED
+[fsale-main] RENDER ERROR rendered but too little text (19 chars)
+[fsale-onnuri] RENDER ERROR rendered but too little text (19 chars)
+[mokwon-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
+  - navigating to "https://www.mokwon.ac.kr/kr/html/sub03/030102.html", waiting until "domcontentloaded"
 
-[pyeongtaek-news-board] rendered 3198 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 3924 chars CHANGED
-[nol-product-kongsuni-daejeon] rendered 2187 chars CHANGED
-[mokwon-general-notice] rendered 1631 chars CHANGED
+[science-reservation] rendered 1073 chars same
+[khs-notice] rendered 309 chars same
+[royal-khs-events] rendered 1194 chars same
+[expo-park] rendered 734 chars CHANGED
+[nol-upcoming-notice] rendered 6883 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 6889 chars CHANGED
+[ticketlink-notice-mobile] rendered 281869 chars CHANGED
