@@ -1,53 +1,56 @@
-[yes24-notice] rendered 196 chars CHANGED
-[pyeongtaek-main] rendered 19024 chars CHANGED
-[kopis-daejeon-kids] rendered 30379 chars same
-[pyoungsong-performance] rendered 1224 chars same
-[dsecc-programs] rendered 2068 chars CHANGED
-[seogu-exprn-list] rendered 1020 chars CHANGED
-[seogu-event-list] rendered 1020 chars CHANGED
-[seogu-edu-list] rendered 1026 chars CHANGED
-[daejeon-its-board] rendered 3369 chars CHANGED
-[pyeongtaek-news-board] rendered 3199 chars CHANGED
-[andong-halftour] rendered 2550 chars CHANGED
-[kfe-main] rendered 3599 chars CHANGED
-[blog-tjrudska82-224434527430] rendered 4664 chars CHANGED
-[blog-dooglami-224434696671] rendered 4853 chars CHANGED
-[dsecc-programs-p2] rendered 2068 chars CHANGED
-[dsecc-programs-p3] rendered 2068 chars CHANGED
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 95 chars CHANGED
-[dgdr-festival] rendered 203 chars CHANGED
-[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[mommom-place-6a2b9455] rendered 95 chars CHANGED
+[nol-product-phantom-40th] rendered 5597 chars CHANGED
+[daejeontour-bread-festival] rendered 783 chars CHANGED
+[visitisland-main] rendered 993 chars CHANGED
+[daejeon-okr-edu-8100] rendered 1643 chars same
+[visitkorea-tour50-notice] rendered 628 chars CHANGED
+[ysfesta-main] rendered 133 chars CHANGED
+[khs-main] rendered 1682 chars same
+[khs-eventinfo] rendered 1144 chars CHANGED
+[kopis-pf302030] rendered 7840 chars same
+[blog-gotaekmusicfesta-224428285877] rendered 2922 chars CHANGED
+[usmint-product-schedule-2026] rendered 160 chars CHANGED
+[djbea-biz-pbnc] rendered 2253 chars CHANGED
+[chungbuk-picturebookgarden-programs] rendered 2869 chars CHANGED
+[koreanair-promo-2610prg] rendered 49233 chars CHANGED
+[koreanair-promo-list] rendered 54398 chars CHANGED
+[djac-perf-5487] rendered 3892 chars CHANGED
+[nol-product-26015783] rendered 2851 chars CHANGED
+[nol-product-26016080] rendered 3088 chars CHANGED
+[leis-cycling-cbsports-list] rendered 1012 chars same
+[epost-fsale-coupon] rendered 1305 chars CHANGED
+[sejong-notice-gogohak-festa] rendered 1256 chars CHANGED
+[sejong-notice-gogohak-festa-alt] rendered 1256 chars CHANGED
+[kopis-perf-kids-circus-daejeon-2027] rendered 7787 chars same
+[sejong-notice-yeondong-storyfest] rendered 2167 chars CHANGED
+[djkids-main] rendered 1479 chars CHANGED
+[vol-djv1365-notice] rendered 1460 chars CHANGED
+[vol-djv1365-notice-411] rendered 681 chars CHANGED
+[chungju-halftour] rendered 3401 chars CHANGED
+[djac-performance-2026-12-p3] rendered 4046 chars CHANGED
+[djac-perf-1196656259] rendered 3643 chars CHANGED
+[swissmint-latest-news] rendered 1177 chars CHANGED
+[vol-commonz042-notice] rendered 1253 chars CHANGED
+[pyoungsong] rendered 883 chars same
+[oworld-notice] rendered 1733 chars same
+[gcfct-schedule] rendered 372 chars CHANGED
+[zeropay-events] rendered 572 chars CHANGED
+[chuncheon-festival-news] rendered 904 chars CHANGED
+[chuncheon-festival-news-459539] rendered 801 chars CHANGED
+[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
+  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
 
-[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[pyeongtaek-festival-alrimi] rendered 4043 chars CHANGED
+[hanbat-library-culture] rendered 2166 chars CHANGED
+[chuncheon-festival-news-465019] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view
 Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
-
-[blog-gotaekmusicfesta-224426168539] rendered 2682 chars CHANGED
-[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
-
-[djac-perf-5441] rendered 3415 chars CHANGED
-[nol-product-ghibli-love-daejeon-2027] rendered 2910 chars CHANGED
-[nol-product-ghibli-disney-daejeon-2027] rendered 3329 chars CHANGED
-[nol-product-dorothy-oz-sejong] rendered 2292 chars CHANGED
-[miraeasset-kids-economic-class] rendered 102 chars same
-[aircanada-kr-flights-from-korea] rendered 24703 chars CHANGED
-[oasis-fsale-coupon] rendered 5768 chars CHANGED
-[nol-product-christmas-film-carol-festa-daejeon] rendered 3539 chars CHANGED
-[nol-product-stagem-christmas-carol-daejeon] rendered 2142 chars CHANGED
-[nol-product-lab-concert-daejeon] rendered 5239 chars CHANGED
-[djac-performance-2026-12-p2] rendered 4211 chars CHANGED
-[nol-product-melon-disney-ghibli-christmas-daejeon] rendered 2833 chars CHANGED
-[ticketlink-product-64605] rendered 262075 chars CHANGED
-[seogu-yeyak] rendered 2837 chars CHANGED
-[ticketlink-notice] rendered 92694 chars CHANGED
-[kwater-realtime-multidam] rendered 10539 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 262075 chars CHANGED
-[gongjeon-kids] rendered 657 chars CHANGED
-[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
-[katc-schedule] rendered 736 chars CHANGED
-[mommom-place-6a2b94f5] rendered 95 chars CHANGED
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "
+[mommom-place-6a7d51b7] rendered 95 chars CHANGED
+[blog-first_seogu-224428074790] rendered 3339 chars CHANGED
+[blog-dooglami-224433357728] rendered 5062 chars CHANGED
+[yes24-genre-children] rendered 196 chars CHANGED
+[pyoungsong-event-feed] rendered 34079 chars same
+[pyoungsong-monthly] rendered 634 chars same
+[pyoungsong-wp-event-api] rendered 208 chars same
+[pyoungsong-tribe-events-api] rendered 170933 chars same
