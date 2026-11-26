@@ -234,8 +234,6 @@
 "#none",
 "javascript:jsGoodsDetail('100119683');",
 "javascript:jsGoodsDetail('100119683');",
-"javascript:onOrderRegister('100119683');",
-"javascript:onBasketRegister('100119683');",
 "#none",
 "javascript:jsGoodsDetail('100121486');",
 "javascript:jsGoodsDetail('100121486');",
@@ -398,5 +396,7 @@
 "javascript:onBasketRegister('100121522');",
 "#none",
 "javascript:jsGoodsDetail('100121523');",
-"javascript:jsGoodsDetail('100121523');"
+"javascript:jsGoodsDetail('100121523');",
+"javascript:onOrderRegister('100121523');",
+"javascript:onBasketRegister('100121523');"
 ]
