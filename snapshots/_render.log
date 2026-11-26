@@ -1,60 +1,53 @@
-[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 31112 chars CHANGED
-[hanbat-gongdong-science-form] rendered 622 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 9048 chars CHANGED
-[cnu-jsh-schedule-178] rendered 3001 chars CHANGED
-[dmzforest-main] rendered 6340 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
+[yes24-notice] rendered 196 chars CHANGED
+[pyeongtaek-main] rendered 19024 chars CHANGED
+[kopis-daejeon-kids] rendered 30379 chars same
+[pyoungsong-performance] rendered 1224 chars same
+[dsecc-programs] rendered 2068 chars CHANGED
+[seogu-exprn-list] rendered 1020 chars CHANGED
+[seogu-event-list] rendered 1020 chars CHANGED
+[seogu-edu-list] rendered 1026 chars CHANGED
+[daejeon-its-board] rendered 3369 chars CHANGED
+[pyeongtaek-news-board] rendered 3199 chars CHANGED
+[andong-halftour] rendered 2550 chars CHANGED
+[kfe-main] rendered 3599 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4664 chars CHANGED
+[blog-dooglami-224434696671] rendered 4853 chars CHANGED
+[dsecc-programs-p2] rendered 2068 chars CHANGED
+[dsecc-programs-p3] rendered 2068 chars CHANGED
+[mommom-place-6a868bff] rendered 95 chars CHANGED
+[mommom-place-6a2b946b] rendered 95 chars CHANGED
+[dgdr-festival] rendered 203 chars CHANGED
+[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
 
-[woorisb-tok7-product] rendered 2816 chars CHANGED
-[mommom-sandmagic-a] rendered 95 chars CHANGED
-[mommom-sandmagic-b] rendered 84 chars CHANGED
-[sejong-notice-imnansu-play] rendered 869 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
-[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
-[mokwon-general-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.mokwon.ac.kr/kr/html/sub06/0601.html", waiting until "domcontentloaded"
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
 
-[templestay-main] rendered 2634 chars CHANGED
-[hwadong-main] rendered 9774 chars CHANGED
-[mokpo-harborfestival-main] rendered 8982 chars CHANGED
-[nol-product-26012487] rendered 1439 chars CHANGED
-[hanbat-library-media-friend] rendered 506 chars CHANGED
-[kopis-place-pyoungsong-small] rendered 10082 chars same
-[bok-press-list] rendered 720 chars CHANGED
-[blog-seogu-artfest-fringe-cvovz] rendered 5760 chars CHANGED
-[blog-seogu-artfest-blu2sky7] rendered 6452 chars CHANGED
-[kwater-realtime-sumun] rendered 2308 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 3001 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 4511 chars CHANGED
-[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
-[kmusic-calendar-2026-12] rendered 1278 chars CHANGED
-[kmusic-calendar-year] rendered 6318 chars CHANGED
-[nol-product-26001112] rendered 3666 chars CHANGED
-[blog-daedeokgu-224432911721] rendered 2670 chars CHANGED
-[blog-namuac21-224424725714] rendered 4552 chars CHANGED
-[blog-youneed4613-224436099074] rendered 4611 chars CHANGED
-[nol-product-26008375] rendered 1746 chars CHANGED
-[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
-[pyoungsong-tribe-events-api-p2] rendered 132622 chars same
-[kopis-pf297232] rendered 7859 chars same
-[royalmint-lotr] rendered 4414 chars CHANGED
-[sejong-youth-prog-list] rendered 3017 chars CHANGED
-[ssg-fsale-coupon] rendered 2833 chars CHANGED
-[nol-product-26011246] rendered 1720 chars CHANGED
-[naver-booking-joyculture-daejeon] rendered 2674 chars CHANGED
-[donggu-yeyak-exprn-list] rendered 2256 chars CHANGED
-[djac-perf-5603] rendered 3222 chars CHANGED
-[djac-perf-5606] rendered 3436 chars CHANGED
-[leis-cbsports-notice] rendered 1051 chars CHANGED
-[djac-perf-5653] rendered 3470 chars CHANGED
-[djkids-musical] rendered 1642 chars CHANGED
-[djkids-notice] rendered 1027 chars CHANGED
-[dctf] rendered 1499 chars same
-[nol-family] rendered 4322 chars CHANGED
+[blog-gotaekmusicfesta-224426168539] rendered 2682 chars CHANGED
+[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
+
+[djac-perf-5441] rendered 3415 chars CHANGED
+[nol-product-ghibli-love-daejeon-2027] rendered 2910 chars CHANGED
+[nol-product-ghibli-disney-daejeon-2027] rendered 3329 chars CHANGED
+[nol-product-dorothy-oz-sejong] rendered 2292 chars CHANGED
+[miraeasset-kids-economic-class] rendered 102 chars same
+[aircanada-kr-flights-from-korea] rendered 24703 chars CHANGED
+[oasis-fsale-coupon] rendered 5768 chars CHANGED
+[nol-product-christmas-film-carol-festa-daejeon] rendered 3539 chars CHANGED
+[nol-product-stagem-christmas-carol-daejeon] rendered 2142 chars CHANGED
+[nol-product-lab-concert-daejeon] rendered 5239 chars CHANGED
+[djac-performance-2026-12-p2] rendered 4211 chars CHANGED
+[nol-product-melon-disney-ghibli-christmas-daejeon] rendered 2833 chars CHANGED
+[ticketlink-product-64605] rendered 262075 chars CHANGED
+[seogu-yeyak] rendered 2837 chars CHANGED
+[ticketlink-notice] rendered 92694 chars CHANGED
+[kwater-realtime-multidam] rendered 10539 chars CHANGED
+[ticketlink-kids-cat-daejeon] rendered 262075 chars CHANGED
+[gongjeon-kids] rendered 657 chars CHANGED
+[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
+[katc-schedule] rendered 736 chars CHANGED
+[mommom-place-6a2b94f5] rendered 95 chars CHANGED
