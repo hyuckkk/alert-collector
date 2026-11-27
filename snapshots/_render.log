@@ -1,63 +1,48 @@
-[yes24-notice] rendered 196 chars CHANGED
-[daejeon-okr-edu] rendered 1527 chars same
-[daejeon-okr-hanbatlib] rendered 1643 chars CHANGED
-[science-edu-reservation] rendered 2140 chars same
-[sejong-notice] rendered 2304 chars CHANGED
-[sejong-notice-greenfamily] rendered 1799 chars CHANGED
-[sejong-notice-birdwatch] rendered 1339 chars CHANGED
-[yangyang-cafe-balloon-15331] rendered 4906 chars CHANGED
-[komsco-shop-medal] rendered 245 chars CHANGED
-[komsco-shop-coin] rendered 244 chars CHANGED
-[komsco-shop-bar] rendered 244 chars CHANGED
-[komsco-shop-card] rendered 244 chars CHANGED
-[komsco-shop-currency-set] rendered 244 chars CHANGED
-[cnu-jsh-schedule] rendered 627 chars same
-[bok-commemorative-coin-news] rendered 634 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 6790 chars CHANGED
-[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
-[nol-notice-10111] rendered 6896 chars CHANGED
-[naver-entertain-018-0006379428] rendered 45619 chars CHANGED
-[melon-artist-songsohee] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/artist/index.htm?artistId=672059
+[sslib-sanseong-lect-list] rendered 2101 chars CHANGED
+[foresttrip-notice-280206] rendered 8181 chars CHANGED
+[yes24-perf-61277] rendered 198 chars CHANGED
+[bac-perf-253033] rendered 1752 chars CHANGED
+[bac-perf-253035] rendered 1778 chars CHANGED
+[swissmintshop-gold-coins] rendered 744 chars same
+[pyoungsong] rendered 883 chars same
+[oworld-notice] rendered 1733 chars same
+[pyeongtaek-main] rendered 18620 chars CHANGED
+[kopis-daejeon-kids] rendered 30379 chars same
+[kwater-realtime-multidam] rendered 10534 chars CHANGED
+[ticketlink-kids-cat-daejeon] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://ticket.melon.com/artist/index.htm?artistId=672059", waiting until "domcontentloaded"
+  - navigating to "https://www.ticketlink.co.kr/product/22471", waiting until "domcontentloaded"
 
-[interpark-artist-leejuck] rendered 10133 chars CHANGED
-[yctf-show] rendered 418 chars CHANGED
-[sejong-notice-science-concert] rendered 1017 chars CHANGED
-[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
-[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
-[yangyang-cafe-balloon-15331-m] rendered 30612 chars CHANGED
-[hanbat-gongdong-science-form] rendered 622 chars CHANGED
-[daejeon-cafe-dodam-2801968] rendered 11507 chars CHANGED
-[leis-runningwikii] RENDER ERROR rendered but too little text (51 chars)
-[nol-nutcracker-daejeon] rendered 5027 chars CHANGED
-[mara1080-goldrun-geumsan] rendered 4301 chars CHANGED
-[runningon-schedule-open] rendered 9297 chars CHANGED
-[leis-ski-snowon] rendered 593 chars CHANGED
-[leis-ski-snowon-notices] rendered 1022 chars CHANGED
-[leis-ski-snowon-youth] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[gongjeon-kids] rendered 657 chars CHANGED
+[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
+[katc-schedule] rendered 736 chars CHANGED
+[mnd-main] rendered 17157 chars CHANGED
+[pyoungsong-performance] rendered 1228 chars CHANGED
+[cnu-jsh-schedule-178] rendered 2850 chars CHANGED
+[dmzforest-main] rendered 6340 chars CHANGED
+[sejong-notice-dance-free] rendered 1711 chars CHANGED
+[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
+[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
 Call log:
-  - navigating to "https://www.snowon.or.kr/program/list.php?ca_id=20", waiting until "domcontentloaded"
+  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
 
-[leis-ski-muju-school] rendered 1394 chars CHANGED
-[leis-ski-skiland-lessons] rendered 599 chars CHANGED
-[leis-ski-mentor-lessons] rendered 4778 chars CHANGED
-[leis-ski-jb-sports] rendered 1228 chars CHANGED
-[leis-ski-sejong-sports] rendered 810 chars CHANGED
-[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
-[leis-spectator-archery] rendered 3992 chars CHANGED
-[visitkorea-travelmonth-local-all] rendered 1798 chars CHANGED
-[visitkorea-travelmonth-benefit] rendered 6331 chars CHANGED
-[hueandwork-busan-seogu-workation] rendered 2319 chars same
-[djkids-program-notice] rendered 1214 chars CHANGED
-[kaist-orchestra-appassionato-booking] rendered 4559 chars CHANGED
-[naver-blog-kaist-chorus-39th] rendered 10705 chars CHANGED
-[dmak-main] rendered 524 chars CHANGED
-[vol-djv1365-bongsadan] rendered 877 chars CHANGED
-[yes24-mobile-notice-list] rendered 196 chars CHANGED
-[kywa-camp-reservation-list] rendered 3672 chars same
-[blog-mandoodad-224482518648] rendered 3941 chars CHANGED
-[ticketlink-product-64315] rendered 302034 chars CHANGED
-[onsejong-localo-family] rendered 154 chars CHANGED
-[sooperang-event-board] rendered 1413 chars CHANGED
-[sslib-sanseong-notice] rendered 1447 chars CHANGED
+[woorisb-tok7-product] rendered 2816 chars CHANGED
+[ticketlink-notice-65862] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/help/notice/65862']' timed out after 75 seconds
+[docomomokorea-main] rendered 293 chars same
+[pyoungsong-event-rudolph] rendered 442 chars same
+[pyoungsong-event-snowwhite] rendered 432 chars same
+[blog-namuac21-224427113169] rendered 4803 chars CHANGED
+[royal-khs-notice] rendered 1372 chars CHANGED
+[taean-halftour-apply] rendered 3078 chars CHANGED
+[seocheon-halftour-apply] rendered 1385 chars CHANGED
+[komsco-shop-cate2284] rendered 247 chars CHANGED
+[mcst-culture-71983] rendered 1181 chars CHANGED
+[aircanada-korea] rendered 22839 chars CHANGED
+[aircanada-kr-so-hub] rendered 2743 chars CHANGED
+[aircanada-kr-kbcard] rendered 27096 chars CHANGED
+[leis-spectator-archery-current] rendered 8340 chars CHANGED
+[foresttrip-notice] rendered 141 chars same
+[foresttrip-main] rendered 7319 chars CHANGED
+[namwon-missiontour] rendered 809 chars CHANGED
+[oworld-notice-list] rendered 970 chars CHANGED
+[sslib-sanseong-lecture] rendered 1665 chars CHANGED
