@@ -1,8 +1,22 @@
 {
- "updated": "2026-11-27T13:07:48+09:00",
+ "updated": "2026-11-27T14:07:49+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "강을 따라 형성된 마을과 나루, 장시는 서로 다른 지역의 사람들이 만나고 교류하는 공간이었다. 물길을 함께 이용하고 홍수와 가뭄에 공동으로 대응하면서 협력과 연대의 문화가 형성되었다. 셋째, 상생(相生)의 정신이다. 상류와 하류는 하나의 물길로 연결되어 있다. 상류의 물 관리가 하류의 농업과 생활에 영향을 주듯, 강의 환경은 유역 전체가 함께 책 새 창 열",
+   "url": "https://blog.naver.com/gyubong7010/224494360401",
+   "engine": "naver_blog",
+   "query": "대청댐 홍수조절",
+   "first_seen": "2026-11-27T14:07:49+09:00"
+  },
+  {
+   "title": "치방,60년이상 연구임상실험), 병행해서 복용해야, 근치가 가능하다 ? ^^ 교보문고 구매하거라, ^^ https://m.blog.naver.com/6753mjhmth/224390380796 https://m.blog.naver.com/6753mjhmth/224481617099 https://m.blog.naver.com/6753mjhmth/22406948",
+   "url": "https://blog.naver.com/6753mjhmth/224494173010",
+   "engine": "naver_blog",
+   "query": "대청댐 홍수조절",
+   "first_seen": "2026-11-27T14:07:49+09:00"
+  },
   {
    "title": "국회의원 박수영 9시간전 반토막 난 코스피. 무능한 정부야, 어떻게 책임질래? 국회의원 박수영 9시간전 전국법관대표회의가 움직인다. 국회의원 박수영 9시간전 인위적 부양이 부른 검은 월요일, 나랏돈으로 주가 떠받칠 생각 마라 월요일 코스피가 4,700대로 문을 열었다. 올해 최저 수준이다. 지난주에만 8% 가까이, 이달 들어 15%가 날아갔다. 검은 월요일",
    "url": "https://cafe.naver.com/jungamironware/21756?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1bmdhbWlyb253YXJlIiwiYXJ0aWNsZUlkIjoyMTc1NiwiaXNzdWVkQXQiOjE3OTU3NDkxODg0ODh9.HHE5jjZ_o3LUDq57IDjV32Rzpq4pzfGrMFOxBHkw-Uw&q=%eb%8c%80%ec%b2%ad%eb%8c%90%20%ed%99%8d%ec%88%98%eb%b0%a9%eb%a5%98%20%ec%9e%ac%eb%82%9c%eb%ac%b8%ec%9e%90&tc=naver_search",
@@ -2266,13 +2280,6 @@
    "first_seen": "2026-11-21T13:07:54+09:00"
   }
  ],
- "errors": [
-  "gnews 'site:kwater.or.kr 대청댐 수문 개방': HTTP Error 503: Service Unavailable",
-  "gnews '대청댐 여수로 방류 예정 변경 취소': HTTP Error 503: Service Unavailable",
-  "gnews '대청댐 방류': HTTP Error 429: Too Many Requests",
-  "gnews '대청댐 수문': HTTP Error 503: Service Unavailable",
-  "gnews 'site:geumriver.go.kr 대청댐 방류 승인': HTTP Error 503: Service Unavailable",
-  "gnews '대청댐 홍수방류 재난문자': HTTP Error 503: Service Unavailable"
- ],
- "skipped_for_time": 0
+ "errors": [],
+ "skipped_for_time": 36
 }
