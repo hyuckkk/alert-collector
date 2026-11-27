@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-27T17:30:53+09:00",
+ "updated": "2026-11-27T18:07:47+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "부산 '낙낙데이' 낙화축제 시간은? - 금강일보",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wZDE1UGVaeG9ZUWp1RGdNWm1mOHZUcTdvdi00UkdSNFVsNVNzcGh2bG0yVWpoY1VTUG53bWpKSlNqYVdfNFR2UGVRR3ZiZThnVWF4MXZGYXFvRVc4RUFxVXNhOVVFWFpNOXc?oc=5",
+   "pub": "Fri, 27 Nov 2026 07:36:42 GMT",
+   "engine": "gnews",
+   "query": "세종 낙화축제",
+   "first_seen": "2026-11-27T18:07:47+09:00"
+  },
   {
    "title": "수많은 관람객과 함께 공주시의 가을 밤하늘이 화려하게 빛났습니다. 공산성(좌)ㆍ미르공원 조형물ㆍ금강철교 루미나래(우) 제72회 공주 백제문화제 개막식은 전통과 현대의 공연이... 약 10여 분간 이어진 불꽃이 공주의 밤하늘을 가득 채우며 연이어 터져 올랐습니다. 붉은색, 황금빛, 은빛 불꽃이 밤하늘을 수놓고 강물과 주변 풍경까지 아름답게 밝혀주면서 관람객들",
    "url": "https://cafe.naver.com/kfair/416?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtmYWlyIiwiYXJ0aWNsZUlkIjo0MTYsImlzc3VlZEF0IjoxNzk1NzY2OTkxOTI0fQ.-GjLDW2eZTHXAbW5XqmdYs3lm6XpfWKa6t1BeVPvX6o",
@@ -21069,36 +21077,8 @@
    "engine": "naver_cafe",
    "query": "세종 낙화놀이 예산",
    "first_seen": "2026-11-26T04:07:50+09:00"
-  },
-  {
-   "title": "영화관과 놀이공원, 항공권, 스마트폰과 의류 매장까지 수험표 한 장으로 받을 수 있는 우대 이벤트가 한꺼번에 열리기 때문입니다. 이 글을 끝까지 읽으시면 수험표 할인 기간부터 주요 사용처 종류, 인증... 산청군 세종시 함양 동두천시 창원 진천군 진천 순천시 연천군 부천시 월요일 성남시 하남시 11월 봉화군 안동시 고령군 태안군 9월 홍천군 문경시 김제 밀",
-   "url": "https://cafe.naver.com/news1hour/1116?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im5ld3MxaG91ciIsImFydGljbGVJZCI6MTExNiwiaXNzdWVkQXQiOjE3OTU2MzQ2NzgzNjd9.Fm9Sow_8IdW4lpSv8hz_BpEqVQS-Bcaq79d8SWk-t2s&q=%ec%84%b8%ec%a2%85%20%eb%82%99%ed%99%94%eb%86%80%ec%9d%b4%20%ec%98%88%ec%82%b0&tc=naver_search",
-   "engine": "naver_cafe",
-   "query": "세종 낙화놀이 예산",
-   "first_seen": "2026-11-26T04:07:50+09:00"
   }
  ],
- "errors": [
-  "gnews '오월드 불꽃쇼': HTTP Error 429: Too Many Requests",
-  "gnews 'site:g2b.go.kr 세종 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews '세종 낙화놀이 예산': HTTP Error 503: Service Unavailable",
-  "gnews '세종 불꽃 행사 용역 과업지시서': HTTP Error 503: Service Unavailable",
-  "gnews '공주 불꽃놀이': HTTP Error 503: Service Unavailable",
-  "gnews '세종 불꽃 예산 사업계획 회의록': HTTP Error 503: Service Unavailable",
-  "gnews '대전 야구 불꽃 피날레': HTTP Error 503: Service Unavailable",
-  "gnews '세종시의회 낙화 행정사무감사': HTTP Error 503: Service Unavailable",
-  "gnews '금산 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews '세종 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews '대전 오월드 불꽃 취소 우천': HTTP Error 503: Service Unavailable",
-  "gnews '대전 불꽃놀이': HTTP Error 503: Service Unavailable",
-  "gnews '제야 불꽃 대전 근교 12월 31일': HTTP Error 503: Service Unavailable",
-  "gnews '금산 옥천 불꽃 낙화': HTTP Error 503: Service Unavailable",
-  "gnews '세종 낙화축제': HTTP Error 503: Service Unavailable",
-  "gnews '유성국화축제 개막 드론쇼': HTTP Error 503: Service Unavailable",
-  "gnews '대전 불꽃쇼': HTTP Error 503: Service Unavailable",
-  "gnews '세종 낙화축제 내년 개최': HTTP Error 503: Service Unavailable",
-  "gnews '엑스포다리 불꽃': HTTP Error 503: Service Unavailable",
-  "gnews 'site:council.sejong.go.kr 불꽃': HTTP Error 503: Service Unavailable"
- ],
+ "errors": [],
  "skipped_for_time": 0
 }
