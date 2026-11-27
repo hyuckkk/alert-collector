@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-27T12:07:47+09:00",
+ "updated": "2026-11-27T13:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 48,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "은행연합회, 차기 회장에 박종복 前 SC제일은행장 내정 - 한국보험신문",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51cjUtaTl2clZuZmJwRDFkN3RNSEhSYWtfeTdqdEJWM1RpMElhYWdQME9GNE56ZFlqYms1T1ZWcUhja3JHRVU0WWQ5VWFLN0thanZXMUNQclM4WV9USHdaTC1kSUJIdFRSaVh30gFvQVVfeXFMTnRoUHBaUXNzdHBhYVd5NW9CRC1ZblZmX0tVVmF4T1FtRktjVWNVRGI3eWV4VV9aZmM1RjNSd21DRENLRzQwdGNtbnV0ZmtEczBrNFRyQ2R1TWR6ZUFjR2lRY2pXTmhFOFFpWE4wcWNV?oc=5",
+   "pub": "Mon, 23 Nov 2026 11:38:00 GMT",
+   "engine": "gnews",
+   "query": "청주 불꽃축제",
+   "first_seen": "2026-11-27T13:07:48+09:00"
+  },
   {
    "title": "네이버뉴스새 창 열림",
    "url": "https://n.news.naver.com/mnews/article/001/0016462344?sid=102",
@@ -21073,15 +21081,26 @@
    "engine": "naver_blog",
    "query": "대전 축제 개막식 불꽃놀이",
    "first_seen": "2026-11-25T23:07:51+09:00"
-  },
-  {
-   "title": "31 ✔ 장소 : 대구 이월드·83타워 ✔ 입장료 : 이월드 이용권 기준 2026년 이월드 겨울축제는 라이츠업: 윈터 원더랜드라는 이름으로 진행됩니다. 테마파크 전체를 수놓는 크리스마스 조명과 장식은 물론 다양한 공연도 마련됩니다. ✔ 크리스마스 점등식 ✔ 83타워 불꽃라이트쇼 ✔ 크리스마스 갈라쇼 ✔ 산타클로스 체험 ✔ 캐릭터 포토존 놀이기구와... 새 ",
-   "url": "https://blog.naver.com/appletree__1/224491633199",
-   "engine": "naver_blog",
-   "query": "대전 축제 개막식 불꽃놀이",
-   "first_seen": "2026-11-25T23:07:51+09:00"
   }
  ],
- "errors": [],
- "skipped_for_time": 146
+ "errors": [
+  "gnews '제야 불꽃 대전 근교 12월 31일': HTTP Error 503: Service Unavailable",
+  "gnews '대전 축제 개막식 불꽃놀이': HTTP Error 503: Service Unavailable",
+  "gnews 'site:council.sejong.go.kr 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews '대전 오월드 불꽃 취소 우천': HTTP Error 503: Service Unavailable",
+  "gnews '유성국화축제 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews '세종 낙화놀이 예산': HTTP Error 503: Service Unavailable",
+  "gnews '대전 송년 불꽃놀이': HTTP Error 503: Service Unavailable",
+  "gnews '금산 옥천 불꽃 낙화': HTTP Error 503: Service Unavailable",
+  "gnews '계룡 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews '대전 불꽃놀이': HTTP Error 503: Service Unavailable",
+  "gnews '동구동락 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews '딜라잇 엑스포 브릿지': HTTP Error 503: Service Unavailable",
+  "gnews '세종 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews '엑스포다리 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews '금산 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews '대전 야구 불꽃 피날레': HTTP Error 503: Service Unavailable",
+  "gnews '세종 불꽃 예산 사업계획 회의록': HTTP Error 503: Service Unavailable"
+ ],
+ "skipped_for_time": 0
 }

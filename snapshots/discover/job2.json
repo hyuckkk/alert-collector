@@ -1,8 +1,15 @@
 {
- "updated": "2026-11-27T12:07:47+09:00",
+ "updated": "2026-11-27T13:07:48+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 99,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "1994년 충남대 법학과에 차석으로 입학해 전액 장학금을 받았다. 하지만 스무 살 무렵에 어머니마저 암으로 세상을 떠났다. 그 슬픔이 몸으로 옮겨와 3년을 휴학하며 앓았다. “건강을 회복한 뒤에야 중앙대 연극학과 연출 전공으로 진학했어요. 가족이 원한 삶이...",
+   "url": "http://v.daum.net/v/20261127004123507",
+   "engine": "daum_news",
+   "query": "충남대 공연",
+   "first_seen": "2026-11-27T13:07:48+09:00"
+  },
   {
    "title": "박정수의 '유성국화축제' 제안… \"국화 한 송이로 방문객에게 추억을\" - 중도일보",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yRXo2ZklVb2tmUnJBNVZmeG0yUmZoUWthdTVsZlFqYTB3cTZMdUJGWlJTT0xBR2dsbE9yS0YxdUNFNkxBWFloMlFvQXVUUjFEZ0JLTEdCdzN0Y0JNbTI3VDhZdks?oc=5",
@@ -21115,15 +21122,39 @@
    "engine": "naver_all",
    "query": "한밭대 백련제",
    "first_seen": "2026-11-26T07:30:42+09:00"
-  },
-  {
-   "title": "국립한밭대학교 가을 백련제 축제 2026 10 06 화요일부터 2026 10 08 목요일까지 진행됩니다. 배치도 상세 배치도 중앙 무대 입니다. 과별 부스가 있습니다. 운동장 뒷편 테라 생맥주 420mL 4,000원에 판매 중입니다. 사진 5시 방향에 초록색 점등 되어 있는 발전기 조심하세요. N8 측 푸드트럭입니다. 날씨도 선선하고 노상까기 좋습니다. 신",
-   "url": "https://blog.naver.com/fluid35/224433333891",
-   "engine": "naver_all",
-   "query": "한밭대 백련제",
-   "first_seen": "2026-11-26T07:30:42+09:00"
   }
  ],
- "errors": [],
- "skipped_for_time": 206
+ "errors": [
+  "gnews '목원대 연주회': HTTP Error 429: Too Many Requests",
+  "gnews '충남대 백마홀 공연 11월': HTTP Error 503: Service Unavailable",
+  "gnews 'KAIST LUNATIC 정기공연': HTTP Error 503: Service Unavailable",
+  "gnews '충남대 축제 외부인': HTTP Error 503: Service Unavailable",
+  "gnews 'KAIST 루나틱': HTTP Error 503: Service Unavailable",
+  "gnews 'KAIST 태울석림제': HTTP Error 503: Service Unavailable",
+  "gnews '한밭대 HNUBS 방송제': HTTP Error 503: Service Unavailable",
+  "gnews '충남대학교 합창단 정기연주회': HTTP Error 503: Service Unavailable",
+  "gnews '대전 대학 합창단 디즈니 애니메이션 공연': HTTP Error 503: Service Unavailable",
+  "gnews 'KAIST 축제': HTTP Error 503: Service Unavailable",
+  "gnews '카이스트 공연 동아리': HTTP Error 503: Service Unavailable",
+  "gnews '목원대학교 음악대학 합창 정기연주회': HTTP Error 503: Service Unavailable",
+  "gnews '대전 대학 합창단 영화음악 뮤지컬 공연': HTTP Error 503: Service Unavailable",
+  "gnews '목원 PLAY 앵커': HTTP Error 503: Service Unavailable",
+  "gnews 'KAIST 대강당 무료 공연 선착순 입장': HTTP Error 503: Service Unavailable",
+  "gnews '대전 대학 도서관 음악회': HTTP Error 503: Service Unavailable",
+  "gnews '카이스트 합창단 정기연주회 공연': HTTP Error 503: Service Unavailable",
+  "gnews '충남대 11월 정기공연': HTTP Error 503: Service Unavailable",
+  "gnews '목원대 정기공연': HTTP Error 503: Service Unavailable",
+  "gnews '대전합창페스티벌': HTTP Error 503: Service Unavailable",
+  "gnews '대전 대학 오케스트라 정기연주회 무료': HTTP Error 503: Service Unavailable",
+  "gnews '목원대 공연': HTTP Error 503: Service Unavailable",
+  "gnews 'KAIST CHORUS 정기연주회 합창단': HTTP Error 503: Service Unavailable",
+  "gnews '목원대 오케스트라 연극 뮤지컬': HTTP Error 503: Service Unavailable",
+  "gnews '목원대 대동제 10월 28일': HTTP Error 503: Service Unavailable",
+  "gnews '한밭대 축제': HTTP Error 503: Service Unavailable",
+  "gnews '한밭대 백련제': HTTP Error 503: Service Unavailable",
+  "gnews '충남대 공연': HTTP Error 503: Service Unavailable",
+  "gnews '목원대 앵커 행사': HTTP Error 503: Service Unavailable",
+  "gnews '카이스트 합창단 제39회 정기연주회': HTTP Error 503: Service Unavailable"
+ ],
+ "skipped_for_time": 0
 }
