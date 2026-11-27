@@ -1,8 +1,15 @@
 {
- "updated": "2026-11-28T05:07:48+09:00",
+ "updated": "2026-11-28T06:07:56+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 0,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "교과서 정적분 넓이 공식 딱 하나로, 32만 톤짜리 지하 빗물터널 설계 원리부터 기상청 극한호우 재난문자 비밀까지 한 번에 뚫어 버렸어. 솔직히 한 번 고백해 보자. 미적분1 세특 시즌만 돌아오면 다들 수학 좀 잘해 보이려고 인터넷 뒤져서 대학 논문이나 괴상한 영어 용어부터 복사해 오잖아. 근데 쌤이 수년간 생기부 상담하면서 뼈저리게 느낀 게 하나... 새",
+   "url": "https://blog.naver.com/dailyagain_/224494675452",
+   "engine": "naver_blog",
+   "query": "대청댐 홍수방류 재난문자",
+   "first_seen": "2026-11-28T06:07:56+09:00"
+  },
   {
    "title": "소양강댐/호수 소양강 - YouTube 소양강호수 - YouTube (281) 소양강댐 - YouTube (281) 소양강유람선 - YouTube 한국 산업화 시대를 상징하는 대형댐, 소양강댐 소양호 지형이 완전히 미친 이유 소양강 댐... 갈까 대청댐 8년만에 수문 모두 열고 방류, 불교공뉴스 TV (282) 대청호 부소담악 - YouTube 옥천/부소담",
    "url": "https://cafe.naver.com/jusiktujja/7866?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imp1c2lrdHVqamEiLCJhcnRpY2xlSWQiOjc4NjYsImlzc3VlZEF0IjoxNzk1Nzk2NDA0NDg1fQ.cImDQD8PpQxVGIcCCrNwEaSF-9eZuZYrvERmpa689MQ&q=%eb%8c%80%ec%b2%ad%eb%8c%90%20%ec%88%98%eb%ac%b8&tc=naver_search",
@@ -2330,5 +2337,5 @@
   }
  ],
  "errors": [],
- "skipped_for_time": 29
+ "skipped_for_time": 32
 }
