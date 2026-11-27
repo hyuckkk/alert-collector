@@ -1,50 +1,55 @@
-[ticketlink-notice] rendered 18817 chars CHANGED
-[zeropay-events] rendered 572 chars CHANGED
-[chuncheon-festival-news] rendered 904 chars CHANGED
-[chuncheon-festival-news-459539] rendered 801 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[kopis-time-beyond-daejeon] rendered 8087 chars same
+[royal-khs-events] rendered 1193 chars CHANGED
+[expo-park] rendered 733 chars CHANGED
+[nol-upcoming-notice] rendered 7758 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[aircanada-kr-moretotravel] rendered 3387 chars CHANGED
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[ticketlink-product-65585] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
+  - navigating to "https://www.ticketlink.co.kr/product/65585", waiting until "domcontentloaded"
 
-[pyeongtaek-news-board] rendered 3371 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 3806 chars CHANGED
-[dmzforest-main] rendered 6340 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[melon-christmas-carol-212575] rendered 1874 chars CHANGED
-[woorisb-tok7-product] rendered 2816 chars CHANGED
-[mommom-sandmagic-a] rendered 95 chars CHANGED
-[mommom-sandmagic-b] rendered 84 chars CHANGED
-[sejong-notice-imnansu-play] rendered 869 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
-[ticketlink-notice-65862] rendered 153840 chars CHANGED
-[docomomokorea-main] rendered 293 chars same
-[pyoungsong-event-rudolph] rendered 442 chars same
-[pyoungsong-event-snowwhite] rendered 432 chars same
-[blog-namuac21-224427113169] rendered 4803 chars CHANGED
-[royal-khs-notice] rendered 1372 chars CHANGED
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[seocheon-halftour-apply] rendered 1385 chars CHANGED
-[komsco-shop-cate2284] rendered 246 chars CHANGED
-[mcst-culture-71983] rendered 1181 chars CHANGED
-[aircanada-korea] rendered 23023 chars CHANGED
-[aircanada-kr-so-hub] rendered 2994 chars CHANGED
-[aircanada-kr-kbcard] rendered 27589 chars CHANGED
-[leis-spectator-archery-current] rendered 8340 chars CHANGED
-[foresttrip-notice] rendered 141 chars same
-[foresttrip-main] rendered 7319 chars CHANGED
-[namwon-missiontour] rendered 809 chars CHANGED
-[oworld-notice-list] rendered 989 chars CHANGED
-[sslib-sanseong-lecture] rendered 1637 chars CHANGED
-[sslib-sanseong-lect-list] rendered 2101 chars CHANGED
-[baekje-schedule] rendered 1512 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[woosongart-schedule] rendered 760 chars CHANGED
-[fsale-main] rendered 4508 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[mokwon-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[yes24-perf-60278] rendered 198 chars CHANGED
+[chuncheon-notice-announcement] rendered 3622 chars CHANGED
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1720 chars CHANGED
+[mokwon-general-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.mokwon.ac.kr/kr/html/sub03/030102.html", waiting until "domcontentloaded"
+  - navigating to "https://www.mokwon.ac.kr/kr/html/sub06/0601.html", waiting until "domcontentloaded"
 
-[science-reservation] rendered 1302 chars CHANGED
-[khs-notice] rendered 309 chars same
+[cwg-dmz-crane-notice] rendered 904 chars CHANGED
+[daejeoni-parent-edu-list] rendered 3160 chars CHANGED
+[ktostay-special-disaster-stay] rendered 2080 chars CHANGED
+[kspo-svoucher-notice] rendered 1916 chars CHANGED
+[yes24-notice-18875] rendered 196 chars CHANGED
+[naver-booking-kids-circus-daejeon] rendered 2960 chars CHANGED
+[smart-science-exhibitions-list] RENDER ERROR rendered but too little text (55 chars)
+[sejong-citylib-main] RENDER ERROR Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://library.sejong.go.kr/
+Call log:
+  - navigating to "https://library.sejong.go.kr/", waiting until "domcontentloaded"
+
+[leis-cycling-speedagency] rendered 337 chars CHANGED
+[naver-cafe-everandon-main] rendered 495 chars CHANGED
+[naver-cafe-everandon-252] rendered 2908 chars CHANGED
+[naver-cafe-everandon-251] rendered 2724 chars CHANGED
+[belift-illit-schedule] rendered 8797 chars CHANGED
+[foresttrip-notice-280206] rendered 8181 chars CHANGED
+[yes24-perf-61277] rendered 198 chars CHANGED
+[bac-perf-253033] rendered 1752 chars CHANGED
+[bac-perf-253035] rendered 1778 chars CHANGED
+[swissmintshop-gold-coins] rendered 744 chars same
+[pyoungsong] rendered 883 chars same
+[yes24-notice] rendered 196 chars CHANGED
+[oworld-notice] rendered 1795 chars same
+[pyeongtaek-main] rendered 18470 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 7758 chars CHANGED
+[ticketlink-notice-mobile] rendered 322013 chars CHANGED
+[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
+[pyeongtaek-gosi] rendered 1629 chars CHANGED
+[hanbat-library-culture] rendered 2204 chars CHANGED
+[chuncheon-festival-news-465019] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[pyoungsong-event-piglets] rendered 484 chars same
