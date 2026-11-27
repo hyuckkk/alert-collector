@@ -1,58 +1,63 @@
-[pyeongtaek-gosi] rendered 1738 chars CHANGED
-[chuncheon-festival-news-465019] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[yes24-notice] rendered 196 chars CHANGED
+[daejeon-okr-edu] rendered 1527 chars same
+[daejeon-okr-hanbatlib] rendered 1643 chars CHANGED
+[science-edu-reservation] rendered 2140 chars same
+[sejong-notice] rendered 2304 chars CHANGED
+[sejong-notice-greenfamily] rendered 1799 chars CHANGED
+[sejong-notice-birdwatch] rendered 1339 chars CHANGED
+[yangyang-cafe-balloon-15331] rendered 4906 chars CHANGED
+[komsco-shop-medal] rendered 245 chars CHANGED
+[komsco-shop-coin] rendered 244 chars CHANGED
+[komsco-shop-bar] rendered 244 chars CHANGED
+[komsco-shop-card] rendered 244 chars CHANGED
+[komsco-shop-currency-set] rendered 244 chars CHANGED
+[cnu-jsh-schedule] rendered 627 chars same
+[bok-commemorative-coin-news] rendered 634 chars CHANGED
+[daejeon-cafe-100papa-40250] rendered 6790 chars CHANGED
+[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
+[nol-notice-10111] rendered 6896 chars CHANGED
+[naver-entertain-018-0006379428] rendered 45619 chars CHANGED
+[melon-artist-songsohee] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/artist/index.htm?artistId=672059
 Call log:
-  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "domcontentloaded"
+  - navigating to "https://ticket.melon.com/artist/index.htm?artistId=672059", waiting until "domcontentloaded"
 
-[pyoungsong-event-piglets] rendered 484 chars same
-[pyoungsong-event-sandmagic] rendered 498 chars same
-[pyoungsong-event-stonesoup] rendered 335 chars same
-[donghae-dhdmo-program] rendered 1804 chars CHANGED
-[blog-dooglami-224433357728] rendered 5039 chars CHANGED
-[yes24-genre-children] rendered 196 chars CHANGED
-[pyoungsong-event-feed] rendered 34079 chars same
-[pyoungsong-monthly] rendered 634 chars same
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 170933 chars CHANGED
-[pyoungsong-event-list] rendered 297 chars same
-[ysfesta-main] rendered 133 chars CHANGED
-[khs-main] rendered 1682 chars same
-[khs-eventinfo] rendered 1144 chars CHANGED
-[kopis-pf302030] rendered 7840 chars same
-[blog-gotaekmusicfesta-224428285877] rendered 2922 chars CHANGED
-[blog-gotaekmusicfesta-224426135103] rendered 3648 chars CHANGED
-[vol-djv1365-main] rendered 6019 chars CHANGED
-[leis-cycling-kcf] rendered 2174 chars CHANGED
-[sje-life-events] rendered 38244 chars CHANGED
-[usmint-product-schedule-2026] rendered 160 chars CHANGED
-[djbea-biz-pbnc] rendered 2253 chars CHANGED
-[chungbuk-picturebookgarden-programs] rendered 2869 chars CHANGED
-[koreanair-promo-2610prg] rendered 49367 chars CHANGED
-[koreanair-promo-list] rendered 54532 chars CHANGED
-[djac-perf-5487] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[interpark-artist-leejuck] rendered 10133 chars CHANGED
+[yctf-show] rendered 418 chars CHANGED
+[sejong-notice-science-concert] rendered 1017 chars CHANGED
+[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
+[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
+[yangyang-cafe-balloon-15331-m] rendered 30612 chars CHANGED
+[hanbat-gongdong-science-form] rendered 622 chars CHANGED
+[daejeon-cafe-dodam-2801968] rendered 11507 chars CHANGED
+[leis-runningwikii] RENDER ERROR rendered but too little text (51 chars)
+[nol-nutcracker-daejeon] rendered 5027 chars CHANGED
+[mara1080-goldrun-geumsan] rendered 4301 chars CHANGED
+[runningon-schedule-open] rendered 9297 chars CHANGED
+[leis-ski-snowon] rendered 593 chars CHANGED
+[leis-ski-snowon-notices] rendered 1022 chars CHANGED
+[leis-ski-snowon-youth] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.daejeon.go.kr/djac/performanceView.do?menuSeq=6709&code=5487&yyyymm=202612&type=image&listCondition=&pageIndex=1", waiting until "domcontentloaded"
+  - navigating to "https://www.snowon.or.kr/program/list.php?ca_id=20", waiting until "domcontentloaded"
 
-[nol-product-26015783] rendered 2813 chars CHANGED
-[nol-product-26016080] rendered 3050 chars CHANGED
-[leis-cycling-cbsports-list] rendered 1012 chars CHANGED
-[epost-fsale-coupon] rendered 1307 chars CHANGED
-[sejong-notice-gogohak-festa] rendered 1256 chars CHANGED
-[sejong-notice-gogohak-festa-alt] rendered 1256 chars CHANGED
-[kopis-perf-kids-circus-daejeon-2027] rendered 7787 chars same
-[sejong-notice-yeondong-storyfest] rendered 2167 chars CHANGED
-[djkids-main] rendered 1479 chars CHANGED
-[vol-djv1365-notice] rendered 1460 chars CHANGED
-[vol-djv1365-notice-411] rendered 681 chars CHANGED
-[chungju-halftour] rendered 3401 chars CHANGED
-[djac-performance-2026-12-p3] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.daejeon.go.kr/djac/performanceList.do?listCondition=&menuSeq=6709&pageIndex=3&type=image&yyyymm=202612", waiting until "domcontentloaded"
-
-[djac-perf-1196656259] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.daejeon.go.kr/djac/performanceView.do?menuSeq=6709&code=1196656259", waiting until "domcontentloaded"
-
-[swissmint-latest-news] rendered 1177 chars CHANGED
-[vol-commonz042-notice] rendered 1254 chars CHANGED
-[seogu-yeyak] rendered 2837 chars CHANGED
-[ticketlink-notice] rendered 63304 chars CHANGED
+[leis-ski-muju-school] rendered 1394 chars CHANGED
+[leis-ski-skiland-lessons] rendered 599 chars CHANGED
+[leis-ski-mentor-lessons] rendered 4778 chars CHANGED
+[leis-ski-jb-sports] rendered 1228 chars CHANGED
+[leis-ski-sejong-sports] rendered 810 chars CHANGED
+[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
+[leis-spectator-archery] rendered 3992 chars CHANGED
+[visitkorea-travelmonth-local-all] rendered 1798 chars CHANGED
+[visitkorea-travelmonth-benefit] rendered 6331 chars CHANGED
+[hueandwork-busan-seogu-workation] rendered 2319 chars same
+[djkids-program-notice] rendered 1214 chars CHANGED
+[kaist-orchestra-appassionato-booking] rendered 4559 chars CHANGED
+[naver-blog-kaist-chorus-39th] rendered 10705 chars CHANGED
+[dmak-main] rendered 524 chars CHANGED
+[vol-djv1365-bongsadan] rendered 877 chars CHANGED
+[yes24-mobile-notice-list] rendered 196 chars CHANGED
+[kywa-camp-reservation-list] rendered 3672 chars same
+[blog-mandoodad-224482518648] rendered 3941 chars CHANGED
+[ticketlink-product-64315] rendered 302034 chars CHANGED
+[onsejong-localo-family] rendered 154 chars CHANGED
+[sooperang-event-board] rendered 1413 chars CHANGED
+[sslib-sanseong-notice] rendered 1447 chars CHANGED
