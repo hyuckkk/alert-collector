@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-27T17:07:48+09:00",
+ "updated": "2026-11-27T17:30:53+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 70,
+ "new_this_run": 0,
  "hits": [
   {
    "title": "수많은 관람객과 함께 공주시의 가을 밤하늘이 화려하게 빛났습니다. 공산성(좌)ㆍ미르공원 조형물ㆍ금강철교 루미나래(우) 제72회 공주 백제문화제 개막식은 전통과 현대의 공연이... 약 10여 분간 이어진 불꽃이 공주의 밤하늘을 가득 채우며 연이어 터져 올랐습니다. 붉은색, 황금빛, 은빛 불꽃이 밤하늘을 수놓고 강물과 주변 풍경까지 아름답게 밝혀주면서 관람객들",
@@ -21079,7 +21079,7 @@
   }
  ],
  "errors": [
-  "naver_web '대전 송년 불꽃놀이': HTTP Error 403: Forbidden",
+  "gnews '오월드 불꽃쇼': HTTP Error 429: Too Many Requests",
   "gnews 'site:g2b.go.kr 세종 불꽃': HTTP Error 503: Service Unavailable",
   "gnews '세종 낙화놀이 예산': HTTP Error 503: Service Unavailable",
   "gnews '세종 불꽃 행사 용역 과업지시서': HTTP Error 503: Service Unavailable",
@@ -21094,7 +21094,11 @@
   "gnews '제야 불꽃 대전 근교 12월 31일': HTTP Error 503: Service Unavailable",
   "gnews '금산 옥천 불꽃 낙화': HTTP Error 503: Service Unavailable",
   "gnews '세종 낙화축제': HTTP Error 503: Service Unavailable",
-  "gnews '유성국화축제 개막 드론쇼': HTTP Error 503: Service Unavailable"
+  "gnews '유성국화축제 개막 드론쇼': HTTP Error 503: Service Unavailable",
+  "gnews '대전 불꽃쇼': HTTP Error 503: Service Unavailable",
+  "gnews '세종 낙화축제 내년 개최': HTTP Error 503: Service Unavailable",
+  "gnews '엑스포다리 불꽃': HTTP Error 503: Service Unavailable",
+  "gnews 'site:council.sejong.go.kr 불꽃': HTTP Error 503: Service Unavailable"
  ],
- "skipped_for_time": 31
+ "skipped_for_time": 0
 }
