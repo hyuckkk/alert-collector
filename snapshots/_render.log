@@ -1,59 +1,51 @@
-[yuseong-round-event] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[baekje-schedule] rendered 1512 chars CHANGED
+[geumriver-dam] rendered 4513 chars CHANGED
+[woosongart-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.yuseong.go.kr/prog/rndevent/kor/sub03_22_01/list.do", waiting until "domcontentloaded"
+  - navigating to "https://woosongart.wsu.ac.kr/proc/artcalendar.jsp", waiting until "domcontentloaded"
 
-[djkids-musical] rendered 1642 chars CHANGED
-[zeropay-events] rendered 572 chars CHANGED
-[chuncheon-festival-news] rendered 904 chars CHANGED
-[chuncheon-festival-news-459539] rendered 801 chars CHANGED
-[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[fsale-main] rendered 4508 chars CHANGED
+[fsale-onnuri] rendered 361 chars same
+[mokwon-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
+  - navigating to "https://www.mokwon.ac.kr/kr/html/sub03/030102.html", waiting until "domcontentloaded"
 
-[pyeongtaek-news-board] rendered 3382 chars CHANGED
-[pyeongtaek-festival-alrimi] rendered 3919 chars CHANGED
-[dmzforest-main] rendered 6340 chars CHANGED
-[sejong-notice-dance-free] rendered 1711 chars CHANGED
-[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
-[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
+[science-reservation] rendered 1302 chars CHANGED
+[khs-notice] rendered 309 chars same
+[royal-khs-events] rendered 1194 chars same
+[expo-park] rendered 734 chars CHANGED
+[nol-upcoming-notice] rendered 7778 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[aircanada-kr-moretotravel] rendered 3259 chars CHANGED
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[ticketlink-product-65585] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
+  - navigating to "https://www.ticketlink.co.kr/product/65585", waiting until "domcontentloaded"
 
-[woorisb-tok7-product] rendered 2816 chars CHANGED
-[mommom-sandmagic-a] rendered 95 chars CHANGED
-[mommom-sandmagic-b] rendered 84 chars CHANGED
-[sejong-notice-imnansu-play] rendered 869 chars CHANGED
-[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
-[ticketlink-notice-65862] rendered 244351 chars CHANGED
-[docomomokorea-main] rendered 293 chars same
-[pyoungsong-event-rudolph] rendered 442 chars same
-[pyoungsong-event-snowwhite] rendered 432 chars same
-[blog-namuac21-224427113169] rendered 4803 chars CHANGED
-[royal-khs-notice] rendered 1372 chars CHANGED
-[taean-halftour-apply] rendered 3078 chars CHANGED
-[seocheon-halftour-apply] rendered 1385 chars CHANGED
-[komsco-shop-cate2284] rendered 244 chars CHANGED
-[mcst-culture-71983] rendered 1181 chars CHANGED
-[aircanada-korea] rendered 22930 chars CHANGED
-[aircanada-kr-so-hub] rendered 2870 chars CHANGED
-[aircanada-kr-kbcard] rendered 27321 chars CHANGED
-[leis-spectator-archery-current] rendered 8340 chars CHANGED
-[foresttrip-notice] rendered 141 chars same
-[foresttrip-main] rendered 7319 chars CHANGED
-[namwon-missiontour] rendered 809 chars CHANGED
-[oworld-notice-list] rendered 989 chars CHANGED
-[sslib-sanseong-lecture] rendered 1662 chars CHANGED
-[sslib-sanseong-lect-list] rendered 2101 chars CHANGED
-[foresttrip-notice-280206] rendered 8181 chars CHANGED
-[yes24-perf-61277] rendered 198 chars CHANGED
-[bac-perf-253033] rendered 1752 chars CHANGED
-[bac-perf-253035] rendered 1778 chars CHANGED
-[swissmintshop-gold-coins] rendered 744 chars same
-[seogu-yeyak] rendered 2837 chars CHANGED
-[djkids-notice] rendered 1027 chars CHANGED
-[dctf] rendered 1478 chars same
-[nol-family] rendered 4310 chars CHANGED
-[ticketlink-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[yes24-perf-60278] rendered 198 chars CHANGED
+[chuncheon-notice-announcement] rendered 3604 chars CHANGED
+[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
+[chuncheon-municipal-news] rendered 1720 chars CHANGED
+[mokwon-general-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.ticketlink.co.kr/help/notice", waiting until "domcontentloaded"
+  - navigating to "https://www.mokwon.ac.kr/kr/html/sub06/0601.html", waiting until "domcontentloaded"
 
+[cwg-dmz-crane-notice] rendered 904 chars CHANGED
+[daejeoni-parent-edu-list] rendered 3160 chars CHANGED
+[ktostay-special-disaster-stay] rendered 2080 chars CHANGED
+[kspo-svoucher-notice] rendered 1916 chars CHANGED
+[yes24-notice-18875] rendered 196 chars CHANGED
+[naver-booking-kids-circus-daejeon] rendered 2960 chars CHANGED
+[smart-science-exhibitions-list] RENDER ERROR rendered but too little text (55 chars)
+[sejong-citylib-main] RENDER ERROR Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://library.sejong.go.kr/
+Call log:
+  - navigating to "https://library.sejong.go.kr/", waiting until "domcontentloaded"
+
+[leis-cycling-speedagency] rendered 337 chars CHANGED
+[naver-cafe-everandon-main] rendered 495 chars CHANGED
+[naver-cafe-everandon-252] rendered 2953 chars CHANGED
+[naver-cafe-everandon-251] rendered 2741 chars CHANGED
+[belift-illit-schedule] rendered 8797 chars CHANGED
+[thekpop-illit-schedule] rendered 21482 chars CHANGED
+[thekpop-yena-schedule] rendered 21191 chars CHANGED
