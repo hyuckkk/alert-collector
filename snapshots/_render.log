@@ -1,58 +1,54 @@
-[kopis-daejeon-kids] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[gongjeon-kids] rendered 657 chars CHANGED
+[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
+[katc-schedule] rendered 736 chars CHANGED
+[mnd-main] rendered 17017 chars CHANGED
+[gcfct-schedule] rendered 372 chars CHANGED
+[pyoungsong-performance] rendered 1224 chars same
+[dsecc-programs] rendered 2068 chars CHANGED
+[seogu-exprn-list] rendered 1020 chars CHANGED
+[seogu-event-list] rendered 1020 chars CHANGED
+[seogu-edu-list] rendered 1026 chars CHANGED
+[daejeon-its-board] rendered 3369 chars CHANGED
+[naver-entertain-018-0006379428] rendered 45643 chars CHANGED
+[melon-artist-songsohee] rendered 2182 chars CHANGED
+[interpark-artist-leejuck] rendered 10133 chars CHANGED
+[yctf-show] rendered 417 chars CHANGED
+[sejong-notice-science-concert] rendered 1017 chars CHANGED
+[sejong-notice-science-jiphyeonjeon] rendered 1172 chars CHANGED
+[sejong-notice-hangeul-firefly] rendered 1494 chars CHANGED
+[yangyang-cafe-balloon-15331-m] rendered 31100 chars CHANGED
+[hanbat-gongdong-science-form] rendered 622 chars CHANGED
+[daejeon-cafe-dodam-2801968] rendered 8708 chars CHANGED
+[cnu-jsh-schedule-178] rendered 2850 chars CHANGED
+[leis-runningwikii] rendered 8212 chars CHANGED
+[nol-nutcracker-daejeon] rendered 5027 chars CHANGED
+[mara1080-goldrun-geumsan] rendered 4302 chars CHANGED
+[runningon-schedule-open] rendered 9292 chars CHANGED
+[leis-ski-snowon] rendered 593 chars CHANGED
+[leis-ski-snowon-notices] rendered 1022 chars CHANGED
+[leis-ski-snowon-youth] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.kopis.or.kr/por/db/pblprfr/pblprfr.do?menuId=MNU_00020", waiting until "domcontentloaded"
+  - navigating to "https://www.snowon.or.kr/program/list.php?ca_id=20", waiting until "domcontentloaded"
 
-[kwater-realtime-multidam] rendered 10545 chars CHANGED
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 170933 chars same
-[pyoungsong-event-list] rendered 297 chars same
-[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
-
-[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
-
-[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
-
-[ysfesta-main] rendered 133 chars CHANGED
-[khs-main] rendered 1682 chars CHANGED
-[khs-eventinfo] rendered 1144 chars CHANGED
-[kopis-pf302030] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF302030&mt10Id=undefined&search=plc&", waiting until "domcontentloaded"
-
-[blog-gotaekmusicfesta-224428285877] rendered 2922 chars CHANGED
-[blog-gotaekmusicfesta-224426135103] rendered 3648 chars CHANGED
-[vol-djv1365-main] rendered 5269 chars CHANGED
-[leis-cycling-kcf] rendered 2199 chars CHANGED
-[sje-life-events] rendered 37669 chars CHANGED
-[usmint-product-schedule-2026] rendered 160 chars CHANGED
-[djbea-biz-pbnc] rendered 2253 chars CHANGED
-[chungbuk-picturebookgarden-programs] rendered 2870 chars CHANGED
-[koreanair-promo-2610prg] rendered 49950 chars CHANGED
-[koreanair-promo-list] rendered 55115 chars CHANGED
-[djac-perf-5487] rendered 3892 chars CHANGED
-[nol-product-26015783] rendered 2851 chars CHANGED
-[nol-product-26016080] rendered 3088 chars CHANGED
-[leis-cycling-cbsports-list] rendered 1012 chars CHANGED
-[epost-fsale-coupon] rendered 1307 chars CHANGED
-[sejong-notice-gogohak-festa] rendered 1256 chars CHANGED
-[sejong-notice-gogohak-festa-alt] rendered 1256 chars CHANGED
-[kopis-perf-kids-circus-daejeon-2027] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF306843&mt10Id=undefined&search=plc&", waiting until "domcontentloaded"
-
-[sejong-notice-yeondong-storyfest] rendered 2167 chars CHANGED
-[djkids-main] rendered 1468 chars CHANGED
-[vol-djv1365-notice] rendered 1460 chars CHANGED
-[vol-djv1365-notice-411] rendered 681 chars CHANGED
-[chungju-halftour] rendered 3401 chars CHANGED
-[djac-performance-2026-12-p3] rendered 4046 chars CHANGED
-[djac-perf-1196656259] rendered 3643 chars CHANGED
-[swissmint-latest-news] rendered 1177 chars CHANGED
-[vol-commonz042-notice] rendered 1254 chars CHANGED
-[ticketlink-kids-cat-daejeon] rendered 262076 chars CHANGED
+[leis-ski-muju-school] rendered 1394 chars CHANGED
+[leis-ski-skiland-lessons] rendered 599 chars CHANGED
+[leis-ski-mentor-lessons] rendered 4778 chars CHANGED
+[leis-ski-jb-sports] rendered 1234 chars CHANGED
+[leis-ski-sejong-sports] rendered 810 chars CHANGED
+[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
+[leis-spectator-archery] rendered 3992 chars CHANGED
+[visitkorea-travelmonth-local-all] rendered 1798 chars CHANGED
+[visitkorea-travelmonth-benefit] rendered 6331 chars CHANGED
+[hueandwork-busan-seogu-workation] rendered 2319 chars same
+[djkids-program-notice] rendered 1214 chars CHANGED
+[kaist-orchestra-appassionato-booking] rendered 4559 chars CHANGED
+[naver-blog-kaist-chorus-39th] rendered 10762 chars CHANGED
+[dmak-main] rendered 524 chars CHANGED
+[vol-djv1365-bongsadan] rendered 877 chars CHANGED
+[yes24-mobile-notice-list] rendered 196 chars CHANGED
+[kywa-camp-reservation-list] rendered 3672 chars same
+[blog-mandoodad-224482518648] rendered 3950 chars CHANGED
+[ticketlink-product-64315] rendered 282055 chars CHANGED
+[onsejong-localo-family] rendered 154 chars CHANGED
+[sooperang-event-board] rendered 1413 chars CHANGED
+[sslib-sanseong-notice] rendered 1447 chars CHANGED
