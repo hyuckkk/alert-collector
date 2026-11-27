@@ -1,54 +1,59 @@
-[foresttrip-notice-280206] rendered 8181 chars CHANGED
-[yes24-perf-61277] rendered 198 chars CHANGED
-[bac-perf-253033] rendered 1752 chars CHANGED
-[bac-perf-253035] rendered 1778 chars CHANGED
-[swissmintshop-gold-coins] rendered 744 chars same
-[baekje-schedule] rendered 1512 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[woosongart-schedule] rendered 760 chars CHANGED
-[fsale-main] rendered 4508 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[mokwon-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[thekpop-illit-schedule] rendered 21482 chars CHANGED
+[thekpop-yena-schedule] rendered 21191 chars CHANGED
+[nol-notice-kotgumeong-daejeon] rendered 7744 chars CHANGED
+[ticketlink-notice-mobile] rendered 282086 chars CHANGED
+[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
+[pyeongtaek-gosi] rendered 1650 chars CHANGED
+[hanbat-library-culture] rendered 2151 chars CHANGED
+[chuncheon-festival-news-465019] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view
 Call log:
-  - navigating to "https://www.mokwon.ac.kr/kr/html/sub03/030102.html", waiting until "domcontentloaded"
-
-[science-reservation] RENDER ERROR Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://rsvn.science.go.kr/nsm/evtrsvn/evtrsvnList
-Call log:
-  - navigating to "https://rsvn.science.go.kr/nsm/evtrsvn/evtrsvnList", waiting until "domcontentloaded"
-
-[khs-notice] rendered 309 chars same
-[royal-khs-events] rendered 1194 chars same
-[expo-park] rendered 736 chars CHANGED
-[nol-upcoming-notice] rendered 7750 chars CHANGED
-[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
-[aircanada-kr-moretotravel] rendered 3385 chars CHANGED
-[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
-[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
-[ticketlink-product-65585] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.ticketlink.co.kr/product/65585", waiting until "domcontentloaded"
-
-[yes24-perf-60278] rendered 198 chars CHANGED
-[chuncheon-notice-announcement] rendered 3616 chars CHANGED
-[chuncheon-notice-announcement-76219] rendered 2136 chars CHANGED
-[chuncheon-municipal-news] rendered 1720 chars CHANGED
-[mokwon-general-notice] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
-Call log:
-  - navigating to "https://www.mokwon.ac.kr/kr/html/sub06/0601.html", waiting until "domcontentloaded"
-
-[cwg-dmz-crane-notice] rendered 904 chars CHANGED
-[daejeoni-parent-edu-list] rendered 3160 chars CHANGED
-[ktostay-special-disaster-stay] rendered 2080 chars CHANGED
-[kspo-svoucher-notice] rendered 1916 chars CHANGED
-[yes24-notice-18875] rendered 196 chars CHANGED
-[naver-booking-kids-circus-daejeon] rendered 2960 chars CHANGED
-[smart-science-exhibitions-list] RENDER ERROR rendered but too little text (55 chars)
-[sejong-citylib-main] RENDER ERROR Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://library.sejong.go.kr/
-Call log:
-  - navigating to "https://library.sejong.go.kr/", waiting until "domcontentloaded"
-
-[leis-cycling-speedagency] rendered 337 chars CHANGED
-[naver-cafe-everandon-main] rendered 495 chars CHANGED
-[naver-cafe-everandon-252] rendered 2925 chars CHANGED
-[naver-cafe-everandon-251] rendered 2741 chars CHANGED
-[belift-illit-schedule] rendered 8797 chars CHANGED
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[pyoungsong-event-piglets] rendered 484 chars same
+[pyoungsong-event-sandmagic] rendered 498 chars same
+[pyoungsong-event-stonesoup] rendered 335 chars same
+[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[andong-halftour] rendered 2550 chars CHANGED
+[kfe-main] rendered 3599 chars CHANGED
+[blog-tjrudska82-224434527430] rendered 4665 chars CHANGED
+[blog-dooglami-224434696671] rendered 4876 chars CHANGED
+[templestay-main] rendered 2634 chars CHANGED
+[hwadong-main] rendered 9826 chars CHANGED
+[mokpo-harborfestival-main] rendered 8982 chars CHANGED
+[nol-product-26012487] rendered 1439 chars CHANGED
+[hanbat-library-media-friend] rendered 506 chars CHANGED
+[kopis-place-pyoungsong-small] rendered 10076 chars same
+[bok-press-list] rendered 720 chars CHANGED
+[blog-seogu-artfest-fringe-cvovz] rendered 5728 chars CHANGED
+[blog-seogu-artfest-blu2sky7] rendered 6025 chars CHANGED
+[kwater-realtime-sumun] rendered 2293 chars CHANGED
+[cnu-jsh-schedule-178-2026-11] rendered 2850 chars CHANGED
+[cnu-jsh-schedule-178-2026-12] rendered 4511 chars CHANGED
+[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
+[kmusic-calendar-2026-12] rendered 1278 chars CHANGED
+[kmusic-calendar-year] rendered 6318 chars CHANGED
+[nol-product-26001112] rendered 3666 chars CHANGED
+[blog-daedeokgu-224432911721] rendered 2672 chars CHANGED
+[blog-namuac21-224424725714] rendered 4553 chars CHANGED
+[blog-youneed4613-224436099074] rendered 4629 chars CHANGED
+[nol-product-26008375] rendered 1746 chars CHANGED
+[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
+[pyoungsong-tribe-events-api-p2] rendered 132622 chars same
+[kopis-pf297232] rendered 7859 chars same
+[royalmint-lotr] rendered 4414 chars CHANGED
+[sejong-youth-prog-list] rendered 3018 chars CHANGED
+[ssg-fsale-coupon] rendered 2351 chars CHANGED
+[nol-product-26011246] rendered 1720 chars CHANGED
+[naver-booking-joyculture-daejeon] rendered 2674 chars CHANGED
+[donggu-yeyak-exprn-list] rendered 2256 chars CHANGED
+[daumcafe-yena-schedule] rendered 1044 chars same
+[dcinside-illit-schedule] rendered 3319 chars CHANGED
+[jbto-swiper2] rendered 7742 chars CHANGED
+[swissmint-25-franc-gold-coin] rendered 2722 chars CHANGED
+[swissmintshop-25-franc-proof] rendered 706 chars same
+[ulibrary-event-list] rendered 1515 chars CHANGED
+[leis-run-runten-justrun10-sejong-2027] rendered 928 chars CHANGED
+[pyoungsong] rendered 883 chars same
+[yes24-notice] rendered 196 chars CHANGED
+[oworld-notice] rendered 1795 chars same
+[pyeongtaek-main] rendered 18481 chars CHANGED
