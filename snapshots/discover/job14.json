@@ -1,8 +1,16 @@
 {
- "updated": "2026-11-28T14:07:47+09:00",
+ "updated": "2026-11-28T15:07:49+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 56,
+ "new_this_run": 1,
  "hits": [
+  {
+   "title": "파라타항공 윤철민, 미주 진출 앞두고 'FSC급 서비스' 승부수 - 신아일보",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKX2RhUGVHcXJ1VG80VHdUMzctY2tkN3I4YnBQcUpScldOUnVXSnBkWEhxRG5iY3ZvbWtEdkx0ZkMyNEh5cFdtaFZSWXRTU1FVbG5vcllqVFJ2WHpnTGc4UEhCQmNSa216YnFjZ0ZaLW0?oc=5",
+   "pub": "Thu, 26 Nov 2026 22:20:00 GMT",
+   "engine": "gnews",
+   "query": "파라타항공 미주 프로모션",
+   "first_seen": "2026-11-28T15:07:49+09:00"
+  },
   {
    "title": "co/4ldE8kS 캐나다구스 전체 https://bit.ly/4dYL5lv 몽클 패딩 집업 가디건 93.7만원 https://fave.co/3SsLNjv 몽클 보디네... ly/4AVwj7Y ️ FWRD (15% 할인코드 FWRDINSIDER15 / 100불 이상 한국 무료배송) 에센셜 백로고 후디 블랙 13.6만원 https... ly/49lmTa7 아",
    "url": "https://cafe.naver.com/infotong/39904?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImluZm90b25nIiwiYXJ0aWNsZUlkIjozOTkwNCwiaXNzdWVkQXQiOjE3OTU4NDI0NzI5NjR9.QkLmJz36m9Yf4733Lpg_XNmMUoB7Ou-6F6l2dKRQrTI&q=%ec%97%90%ec%96%b4%ec%ba%90%eb%82%98%eb%8b%a4%20%ed%95%9c%ea%b5%ad%20%eb%b8%94%eb%9e%99%ed%94%84%eb%9d%bc%ec%9d%b4%eb%8d%b0%ec%9d%b4%20%ed%83%91%ec%8a%b9%ea%b8%b0%ea%b0%84%20%ec%a0%9c%ec%99%b8%ec%9d%bc&tc=naver_search",
@@ -21022,31 +21030,12 @@
    "engine": "naver_blog",
    "query": "에어캐나다 특가",
    "first_seen": "2026-11-27T09:09:06+09:00"
-  },
-  {
-   "title": "25달러: 에어팟 5, 애플 펜슬 프로, 아이패드용 매직 키보드 50달러: 애플워치 시리즈 12, 에어팟 프로 3, 아이폰 17e 75달러... 한국은 애플 블프 대상국 제외 아쉽게도 이번 행사 국가는 미국, 캐나다, 호주, 영국, 독일, 이탈리아, 태국 등이고... 다만 특가 상품 중에는 한국으로 바로 배송되지 않는 상품이 많아요. 결제 전에 상품 페이지",
-   "url": "https://blog.naver.com/theonlyseeu/224493934863",
-   "engine": "naver_blog",
-   "query": "에어캐나다 특가",
-   "first_seen": "2026-11-27T09:09:06+09:00"
   }
  ],
  "errors": [
-  "naver_web '에어캐나다 한국 블랙프라이데이 탑승기간 제외일': HTTP Error 403: Forbidden",
-  "gnews '일본항공 미주 특가 인천': HTTP Error 503: Service Unavailable",
-  "gnews '에어캐나다 KB국민카드 연말연시 행사 미국행 편도': HTTP Error 503: Service Unavailable",
-  "gnews '유나이티드항공 한국 출발 프로모션': HTTP Error 503: Service Unavailable",
-  "gnews '에어프레미아 프로모션 LA': HTTP Error 503: Service Unavailable",
-  "gnews '아시아나 미주 특가': HTTP Error 503: Service Unavailable",
-  "gnews '파라타항공 미주 프로모션': HTTP Error 503: Service Unavailable",
-  "gnews '인천 덴버 항공권 특가': HTTP Error 503: Service Unavailable",
-  "gnews 'Air Canada sale Korea': HTTP Error 503: Service Unavailable",
-  "gnews '델타항공 인천 출발 특가': HTTP Error 503: Service Unavailable",
-  "gnews '에어캐나다 한국 블랙프라이데이 탑승기간 제외일': HTTP Error 503: Service Unavailable",
-  "gnews '에어캐나다 밴쿠버 경유 덴버': HTTP Error 503: Service Unavailable",
-  "gnews '에어캐나다 프로모션 코드': HTTP Error 503: Service Unavailable",
-  "gnews '델타항공 프로모션 코드 한국': HTTP Error 503: Service Unavailable",
-  "gnews 'site:aircanada.com ICN DEN June 2027 sale': HTTP Error 503: Service Unavailable"
+  "gnews '파라타항공 LA 특가 탑승기간': HTTP Error 503: Service Unavailable",
+  "gnews 'ANA 미주 특가 한국 출발': HTTP Error 503: Service Unavailable",
+  "gnews '에어캐나다 KB국민카드 연말연시 행사 미국행 편도': HTTP Error 503: Service Unavailable"
  ],
- "skipped_for_time": 47
+ "skipped_for_time": 0
 }

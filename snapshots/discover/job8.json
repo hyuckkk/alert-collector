@@ -1,8 +1,24 @@
 {
- "updated": "2026-11-28T14:07:47+09:00",
+ "updated": "2026-11-28T15:07:49+09:00",
  "note": "hits = 최근 7일 검색 결과(first_seen 내림차순). 각 JOB은 first_seen이 자기 직전 실행(state/runs/<job>.json의 last_run) 이후인 것만 판정한다. 이 파일은 수정하지 않는다.",
- "new_this_run": 64,
+ "new_this_run": 2,
  "hits": [
+  {
+   "title": "[사설] ‘대구로페이 꼴찌’ 골목상권 위기 방관할 셈인가 - 영남일보",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vNFlnZEFEZlhxTUZXV09Ua2U2cTRlT1pFZFFKWlhZby04MEl6QmlhOEhOV0VhaC01ZTBQR3B5WjhFZkdWTHFEYndIMzloVnRMdFJ6dzAwbUU3MS1WU1U5ci1BMlFYaEhXSTNJ?oc=5",
+   "pub": "Thu, 26 Nov 2026 21:00:00 GMT",
+   "engine": "gnews",
+   "query": "전통시장 가을 온누리상품권 환급행사",
+   "first_seen": "2026-11-28T15:07:49+09:00"
+  },
+  {
+   "title": "민주당 대구시당, 대구로페이 2조 요구....대구시 \"재정 여력 없다\" - 뉴스핌",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pREtOZWIyYXpQclhybVBLWTJ5YU1sSWpicXViSk1pZUZtanRkOW5BUkRaVFFsd2t1UU5aaldIN1lKVHo2TTlVbllMQmtUN2k1Q3FIb2tMeGc2bDRz?oc=5",
+   "pub": "Fri, 27 Nov 2026 00:16:00 GMT",
+   "engine": "gnews",
+   "query": "온누리상품권 환급 행사",
+   "first_seen": "2026-11-28T15:07:49+09:00"
+  },
   {
    "title": "농림축산식품부의 농축산물 할인지원 품목을 확인하세요.새 창 열림",
    "url": "https://sale.foodnuri.go.kr/",
@@ -21082,34 +21098,12 @@
    "engine": "naver_blog",
    "query": "수산대전",
    "first_seen": "2026-11-27T15:07:54+09:00"
-  },
-  {
-   "title": "계룡석재 #대전석재 #서산석재 #서천석재 #스톤코리아석재 #스톤석재 #기석석재 #안좌석재 #도초석재 #비금석재 #팔금석재 #암태석재 #자은석재 #해제석재 #일로석재 #지도석재... 청주석재 #대전석재 #논산석재 #세종석재 #군산석재 #김제석재 #태인석재 #신태인석재 #순창석재 #형제석재 #남창석재 #송지석재 #황산석재 #마산석재 #송정석재 #남평석재 #관산",
-   "url": "https://blog.naver.com/garramme/224494644512",
-   "engine": "naver_blog",
-   "query": "수산대전",
-   "first_seen": "2026-11-27T15:07:54+09:00"
-  },
-  {
-   "title": "과일, 고기, 수산물 같은 신선식품은 받는 날 냉장고나 냉동실에 넣을 자리가 있어야 하고, 집을 비우는 기간과 겹치지 않는지도 살펴보셔야 합니다. 쌀이나 잡곡처럼 상온 보관이... 세트가 7억 7천만원, 경기 안성 햅쌀이 5억 7천만원, 광주 남구 한돈 삼겹살이 4억 8천만원, 대전 중구 성심당 상품권이 4억 5천만원이었습니다. 이 숫자는 2025년 판매 ",
-   "url": "https://blog.naver.com/break_time__/224494454940",
-   "engine": "naver_blog",
-   "query": "수산대전",
-   "first_seen": "2026-11-27T15:07:54+09:00"
   }
  ],
  "errors": [
-  "gnews '수산대전 참여 쇼핑몰 기획전 시작': HTTP Error 503: Service Unavailable",
-  "gnews '모바일 농할상품권 20% 할인 판매': HTTP Error 503: Service Unavailable",
-  "gnews '김장철 수산물 온누리상품권 환급 전통시장': HTTP Error 503: Service Unavailable",
-  "gnews '수산대전 고등어 마른김 특별전': HTTP Error 503: Service Unavailable",
-  "gnews '온누리상품권 페이백 재가동 군': HTTP Error 503: Service Unavailable",
-  "gnews '전통시장 가을 온누리상품권 환급행사': HTTP Error 503: Service Unavailable",
+  "gnews '수산대전 참여 온라인몰 할인쿠폰 주차': HTTP Error 429: Too Many Requests",
   "gnews '수산물 소비촉진 이벤트 응모': HTTP Error 503: Service Unavailable",
-  "gnews '온누리상품권 환급 행사': HTTP Error 503: Service Unavailable",
-  "gnews '수산대전 참여 온라인몰 할인쿠폰 주차': HTTP Error 503: Service Unavailable",
-  "gnews 'site:fsale.kr 환급 참여시장': HTTP Error 503: Service Unavailable",
   "gnews '대전 세종 충남 전통시장 수산물 환급 일정': HTTP Error 503: Service Unavailable"
  ],
- "skipped_for_time": 47
+ "skipped_for_time": 0
 }
