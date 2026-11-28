@@ -1,54 +1,57 @@
-[leis-ski-snowon] rendered 593 chars CHANGED
-[leis-ski-snowon-notices] rendered 1022 chars CHANGED
-[leis-ski-snowon-youth] rendered 766 chars CHANGED
-[leis-ski-muju-school] rendered 1394 chars CHANGED
-[leis-ski-skiland-lessons] rendered 599 chars CHANGED
-[leis-ski-mentor-lessons] rendered 4778 chars CHANGED
-[leis-ski-jb-sports] rendered 1234 chars CHANGED
-[leis-ski-sejong-sports] rendered 810 chars CHANGED
-[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
-[leis-spectator-archery] rendered 3992 chars CHANGED
-[visitkorea-travelmonth-local-all] rendered 1798 chars CHANGED
-[visitkorea-travelmonth-benefit] rendered 6331 chars CHANGED
-[hueandwork-busan-seogu-workation] rendered 2319 chars same
-[djkids-program-notice] rendered 1214 chars CHANGED
-[kaist-orchestra-appassionato-booking] rendered 4559 chars CHANGED
-[naver-blog-kaist-chorus-39th] rendered 10607 chars CHANGED
-[dmak-main] rendered 524 chars CHANGED
-[vol-djv1365-notice-411] rendered 681 chars CHANGED
-[vol-djv1365-bongsadan] rendered 877 chars CHANGED
-[yes24-mobile-notice-list] rendered 196 chars CHANGED
-[kywa-camp-reservation-list] rendered 3672 chars same
-[blog-mandoodad-224482518648] rendered 3556 chars CHANGED
-[ticketlink-product-64315] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[kopis-time-beyond-daejeon] rendered 8087 chars same
+[zeropay-events] rendered 572 chars CHANGED
+[chuncheon-festival-news] rendered 904 chars CHANGED
+[chuncheon-festival-news-459539] rendered 801 chars CHANGED
+[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.ticketlink.co.kr/product/64315", waiting until "domcontentloaded"
+  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
 
-[onsejong-localo-family] rendered 154 chars CHANGED
-[sooperang-event-board] rendered 1413 chars CHANGED
-[leis-cbsports-notice] rendered 1051 chars CHANGED
-[djac-perf-5653] rendered 3470 chars CHANGED
-[leis-ski-kssa-notices] RENDER ERROR rendered but too little text (76 chars)
-[leis-ski-kssa-season-class-580] RENDER ERROR rendered but too little text (76 chars)
-[leis-runningon-justrun10-sejong-2027] rendered 3163 chars CHANGED
-[leis-run-runten-main] rendered 6268 chars CHANGED
-[leis-cbsports-notice-view-12315] rendered 1019 chars CHANGED
-[taean-halftour-notice] rendered 620 chars CHANGED
-[oworld-notice] rendered 1815 chars same
-[baekje-schedule] rendered 1512 chars CHANGED
-[geumriver-dam] rendered 4513 chars CHANGED
-[woosongart-schedule] rendered 760 chars CHANGED
-[pyeongtaek-main] rendered 19028 chars CHANGED
-[fsale-main] rendered 8973 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[mokwon-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[pyeongtaek-news-board] rendered 3213 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 3808 chars CHANGED
+[dmzforest-main] rendered 6340 chars CHANGED
+[sejong-notice-dance-free] rendered 1711 chars CHANGED
+[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
+[melon-christmas-carol-212575] RENDER ERROR Error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://ticket.melon.com/performance/index.htm?prodId=212575
 Call log:
-  - navigating to "https://www.mokwon.ac.kr/kr/html/sub03/030102.html", waiting until "domcontentloaded"
+  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
 
-[science-reservation] rendered 1302 chars same
-[khs-notice] rendered 309 chars same
-[royal-khs-events] rendered 1193 chars same
-[expo-park] rendered 734 chars CHANGED
-[nol-upcoming-notice] rendered 7791 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 7760 chars CHANGED
-[ticketlink-notice-mobile] rendered 261828 chars CHANGED
+[woorisb-tok7-product] rendered 2816 chars CHANGED
+[mommom-sandmagic-a] rendered 95 chars CHANGED
+[mommom-sandmagic-b] rendered 84 chars CHANGED
+[sejong-notice-imnansu-play] rendered 869 chars CHANGED
+[icheon-ricefestival-schedule] rendered 2530 chars CHANGED
+[ticketlink-notice-65862] RENDER ERROR rendered but too little text (0 chars)
+[docomomokorea-main] RENDER ERROR rendered but too little text (23 chars)
+[pyoungsong-event-rudolph] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-snowwhite] RENDER ERROR rendered but too little text (19 chars)
+[blog-namuac21-224427113169] rendered 4802 chars CHANGED
+[royal-khs-notice] rendered 1372 chars CHANGED
+[taean-halftour-apply] rendered 3078 chars CHANGED
+[seocheon-halftour-apply] rendered 1385 chars CHANGED
+[bac-perf-253034] rendered 1770 chars CHANGED
+[ticketlink-notice] rendered 32969 chars CHANGED
+[kopis-daejeon-kids] rendered 30686 chars same
+[kwater-realtime-multidam] rendered 10552 chars CHANGED
+[chuncheon-festival-news-464131] rendered 1061 chars CHANGED
+[pyeongtaek-gosi] rendered 1639 chars CHANGED
+[hanbat-library-culture] rendered 2204 chars CHANGED
+[chuncheon-festival-news-465019] RENDER ERROR Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "
+[pyoungsong-event-nunkkot] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-piglets] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-sandmagic] RENDER ERROR rendered but too little text (19 chars)
+[pyoungsong-event-stonesoup] RENDER ERROR rendered but too little text (19 chars)
+[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[komsco-shop-cate2284] rendered 245 chars CHANGED
+[mcst-culture-71983] rendered 1181 chars CHANGED
+[aircanada-korea] rendered 23021 chars CHANGED
+[aircanada-kr-so-hub] rendered 2995 chars CHANGED
+[aircanada-kr-kbcard] rendered 27552 chars CHANGED
+[aircanada-kr-moretotravel] rendered 3388 chars CHANGED
+[nol-product-magickids-daejeon] rendered 2165 chars CHANGED
+[nol-product-bubblemagic-daejeon] rendered 1673 chars CHANGED
+[ticketlink-product-65585] rendered 282055 chars CHANGED
+[sslib-sanseong-notice] rendered 1447 chars CHANGED
+[chungju-halftour] rendered 3401 chars CHANGED
