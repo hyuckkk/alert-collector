@@ -2195,7 +2195,9 @@
  {
   "id": "mintnewsblog-feed",
   "url": "https://mintnewsblog.com/feed/",
-  "note": "Mint News Blog RSS — US Mint 주간 출시·판매 시작 일정 보도(usmint.gov 403 대체 근거) (JOB13) | 2026-11-22 JOB11 제안, 세션 네트워크 차단으로 URL 미검증"
+  "note": "Mint News Blog RSS — US Mint 주간 출시·판매 시작 일정 보도(usmint.gov 403 대체 근거) (JOB13) | 2026-11-22 JOB11 제안, 세션 네트워크 차단으로 URL 미검증",
+  "disabled": true,
+  "disabled_reason": "2026-11-28 JOB11 비활성: HTTP 404 140회 연속, 성공 기록 없음 → gnews-usmint-releases-en 로 대체"
  },
  {
   "id": "naver-cafe-everandon-main",
@@ -2529,5 +2531,33 @@
   "url": "https://www.bac.or.kr/product/performance/253034",
   "render": true,
   "note": "부천아트센터 소공연장 공연 상세(브랜든 최 진행·테너 데이비드 이, These days Classic Ⅰ) — 공연일자·예매 오픈 확인용, 세션 WebFetch 차단 (JOB3) | 2026-11-28 추가"
+ },
+ {
+  "id": "cheongju-ticket-exprn-key62",
+  "url": "https://ticket.cheongju.go.kr/www/selectExprnWebList.do?key=62&pageIndex=1&pageUnit=8&searchCnd=all&viewMode=list",
+  "render": true,
+  "note": "청주시 통합예약 체험·관람 목록(key=62, 청주랜드 천체투영관 등) — 새 체험·접수 개시 확인 (JOB7). 세션 프록시 403으로 직접 미열람, 외부 조사 기록상 목록 열림 | 2026-11-28 JOB11 추가"
+ },
+ {
+  "id": "cheongju-ticket-exprn-key10-svc02",
+  "url": "https://ticket.cheongju.go.kr/www/selectExprnWebList.do?key=10&searchSvcTyCd=EXPSVC02",
+  "render": true,
+  "note": "청주시 통합예약 체험 목록(key=10, 청주랜드 가족체험) — 새 체험·접수 개시 확인 (JOB7). 세션 프록시 403으로 직접 미열람, 외부 조사 기록상 목록 열림 | 2026-11-28 JOB11 추가"
+ },
+ {
+  "id": "cheongju-ticket-exprn-key9-svc01",
+  "url": "https://ticket.cheongju.go.kr/www/selectExprnWebList.do?key=9&searchSvcTyCd=EXPSVC01",
+  "render": true,
+  "note": "청주시 통합예약 교육·체험 목록(key=9) — 새 체험·접수 개시 확인 (JOB7). 세션 프록시 403으로 직접 미열람, 외부 조사 기록상 목록 열림 | 2026-11-28 JOB11 추가"
+ },
+ {
+  "id": "chungbuk-picturebook-view-99",
+  "url": "https://picturebookgarden1937.chungbuk.go.kr/home/sub.php?menukey=3729&mod=view&no=99&listCnt=20",
+  "note": "그림책정원1937 프로그램 상세(no=99, 목록 스냅샷 링크) — 가족뮤지컬 시각·장소 확인용 (JOB7) | 2026-11-28 JOB11 추가"
+ },
+ {
+  "id": "gnews-usmint-releases-en",
+  "url": "https://news.google.com/rss/search?q=%22United+States+Mint%22+available+OR+release+when:14d&hl=en-US&gl=US&ceid=US:en",
+  "note": "미국 조폐국 신상품 판매 시작 보도 영문 구글뉴스 RSS(코믹 아트 등 직판 시리즈) — usmint.gov Cloudflare 차단·mintnewsblog-feed 404 대체 (JOB13) | 2026-11-28 JOB11 추가"
  }
 ]
