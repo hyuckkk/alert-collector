@@ -2,7 +2,7 @@ name: deploy-worker
 on:
   push:
     branches: [main]
-    paths: ["worker/worker.js", ".github/workflows/deploy-worker.yml"]
+    paths: ["worker/worker.js", "worker/test/**", ".github/workflows/deploy-worker.yml"]
   workflow_dispatch:
 permissions:
   contents: read
@@ -12,6 +12,8 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
+      - name: 재발송 판정 시험
+        run: node worker/test/decide.mjs
       - name: Upload worker/worker.js to Cloudflare (keeps existing secrets/vars)
         env:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}

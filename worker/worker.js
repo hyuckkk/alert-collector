@@ -170,12 +170,30 @@ function rebuildRow(nid, itemNo, newState, multi) {
   return [mk("ack"), mk("mute")];
 }
 
-function decide(ev, item, textHash) {
+// 이미 한 번 알린 행사를 다시 알리는 것은 받는 사람의 결정이 바뀌는 변화뿐(2026-11-28 중복 점검: 3주 19건이 2~3번,
+// 그중 11건이 'LOGISTICS'·'UPDATED'로 다시 나감 — 확인을 안 누른 행사는 어떤 변경 표시든 다시 나가던 구조).
+// LOGISTICS(셔틀·운영 정보)는 행사 3일 안일 때만, ADDITIONAL 은 7일에 한 번. UPDATED 등 나머지는 다시 알리지 않는다.
+const RESEND_OK = new Set(["BOOKING_OPEN", "APPLICATION_OPEN", "ADDITIONAL", "REOPENED", "RESCHEDULED", "CANCELLED", "AMOUNT_CHANGED", "EXTENDED", "DISCHARGE_CHANGED"]);
+function daysUntil(d) {
+  const m = String(d || "").match(/(20\d\d)[-.\/](\d{1,2})[-.\/](\d{1,2})/);
+  if (!m) return null;
+  const t = Date.UTC(+m[1], +m[2] - 1, +m[3]) - 9 * 3600000; // KST 자정
+  return (t - Date.now()) / 86400000;
+}
+export function decide(ev, item, textHash) {
   const change = item.change_type || "NEW";
   if (!ev) return [true, "new event"];
   if (ev.user_state === "MUTED") return [false, "event is MUTED"];
   if (ev.last_content_hash === textHash) return [false, "identical content already notified"];
   if (change === "NEW" && ev.last_notified) return [false, "already notified as NEW earlier"];
+  if (ev.last_notified && change !== "NEW") {
+    if (change === "LOGISTICS") {
+      const du = daysUntil(item.date || ev.date);
+      if (du === null || du > 3 || du < -1) return [false, "LOGISTICS only re-sent within 3 days of the event"];
+    } else if (!RESEND_OK.has(change)) return [false, `'${change}' is not a decision change`];
+    if (change === "ADDITIONAL" && (ev.history || []).some((h) => h.sent && h.change_type === "ADDITIONAL" && Date.now() - Date.parse(h.at) < 7 * 86400000))
+      return [false, "ADDITIONAL already sent within 7 days"];
+  }
   const sent = (ev.history || []).filter((h) => h.sent).map((h) => h.change_type);
   if (ONCE_PER_EVENT.has(change) && sent.includes(change)) return [false, `'${change}' already sent for this event`];
   if (!URGENT_CHANGES.has(change) && ev.last_notified) {
@@ -339,6 +357,7 @@ async function run(env) {
 
   const sentIds = new Set(notifs.map((n) => n.outbox_id));
   const plan = [];
+  const plannedEvents = new Set();
   let skips = null;
   let suppressedLog = null;
   for (const f of (paused ? [] : outbox.slice(0, 4))) {
@@ -362,6 +381,8 @@ async function run(env) {
     const kept = [], dropped = [];
     items.forEach((it, i) => {
       if (!it.event_id) { dropped.push([i + 1, "missing event_id"]); return; }
+      // 같은 실행 안에 같은 행사 파일이 둘이면 하나만(11-10 대전박물관·11-13 오월드 같은 시각 2통)
+      if (plannedEvents.has(it.event_id)) { dropped.push([i + 1, "same event already planned in this run"]); return; }
       const [ok, why] = decide(events[it.event_id], it, textHash);
       (ok ? kept : dropped).push([i + 1, why]);
     });
@@ -387,6 +408,7 @@ async function run(env) {
     const nid = `n${String(counter.seq).padStart(5, "0")}`;
     sending[oid] = { at: nowIso(), nid, done: false };
     plan.push({ oid, nid, data, category, text, items, textHash, kept: kept.map((k) => k[0]), dropped: dropped.map((d) => d[0]) });
+    for (const k of kept) plannedEvents.add(items[k[0] - 1].event_id);
   }
   files["state/events.json"] = dumpJson(events);
   files["state/notifications.json"] = dumpJson(notifs);
