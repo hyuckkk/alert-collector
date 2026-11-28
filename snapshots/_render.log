@@ -1,53 +1,57 @@
-[woosongart-schedule] rendered 760 chars CHANGED
-[pyeongtaek-main] rendered 19028 chars CHANGED
-[fsale-main] rendered 4508 chars CHANGED
-[fsale-onnuri] rendered 361 chars same
-[mokwon-events] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[kwater-realtime-multidam] rendered 10528 chars CHANGED
+[zeropay-events] rendered 568 chars CHANGED
+[chuncheon-festival-news] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.mokwon.ac.kr/kr/html/sub03/030102.html", waiting until "domcontentloaded"
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295", waiting until "domcontentloaded"
 
-[science-reservation] rendered 1302 chars same
-[khs-notice] rendered 309 chars same
-[royal-khs-events] rendered 1193 chars same
-[expo-park] rendered 736 chars CHANGED
-[nol-upcoming-notice] rendered 7782 chars CHANGED
-[nol-notice-kotgumeong-daejeon] rendered 7800 chars CHANGED
-[ticketlink-notice-mobile] rendered 282055 chars CHANGED
-[leis-ski-snowon] rendered 593 chars CHANGED
-[leis-ski-snowon-notices] rendered 1022 chars CHANGED
-[leis-ski-snowon-youth] rendered 766 chars CHANGED
-[leis-ski-muju-school] rendered 1394 chars CHANGED
-[leis-ski-skiland-lessons] rendered 599 chars CHANGED
-[leis-ski-mentor-lessons] rendered 4778 chars CHANGED
-[leis-ski-jb-sports] rendered 1234 chars CHANGED
-[leis-ski-sejong-sports] rendered 810 chars CHANGED
-[leis-ski-snowon-lifestyle] rendered 906 chars CHANGED
-[leis-spectator-archery] rendered 3992 chars CHANGED
-[visitkorea-travelmonth-local-all] rendered 1798 chars CHANGED
-[visitkorea-travelmonth-benefit] rendered 6331 chars CHANGED
-[hueandwork-busan-seogu-workation] rendered 2319 chars same
-[djkids-program-notice] rendered 1214 chars CHANGED
-[kaist-orchestra-appassionato-booking] rendered 4559 chars CHANGED
-[naver-blog-kaist-chorus-39th] rendered 10722 chars CHANGED
-[dmak-main] rendered 524 chars CHANGED
-[vol-djv1365-notice-411] rendered 681 chars CHANGED
-[vol-djv1365-bongsadan] rendered 877 chars CHANGED
-[yes24-mobile-notice-list] rendered 196 chars CHANGED
-[kywa-camp-reservation-list] rendered 3672 chars same
-[blog-mandoodad-224482518648] rendered 3982 chars CHANGED
-[ticketlink-product-64315] RENDER ERROR TimeoutExpired: Command '['/opt/hostedtoolcache/Python/3.12.16/x64/bin/python', '/home/runner/work/alert-collector/alert-collector/scripts/render_pages.py', '--one', 'https://www.ticketlink.co.kr/product/64315']' timed out after 75 seconds
-[onsejong-localo-family] rendered 154 chars CHANGED
-[sooperang-event-board] rendered 1413 chars CHANGED
-[leis-cbsports-notice] rendered 1051 chars CHANGED
-[djac-perf-5653] rendered 3470 chars CHANGED
-[leis-ski-kssa-notices] RENDER ERROR rendered but too little text (76 chars)
-[leis-ski-kssa-season-class-580] RENDER ERROR rendered but too little text (76 chars)
-[leis-runningon-justrun10-sejong-2027] rendered 3067 chars CHANGED
-[leis-run-runten-main] rendered 6268 chars CHANGED
-[leis-cbsports-notice-view-12315] rendered 1019 chars CHANGED
-[taean-halftour-notice] rendered 620 chars CHANGED
-[ticketlink-notice] rendered 32969 chars CHANGED
-[kopis-daejeon-kids] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+[chuncheon-festival-news-459539] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
 Call log:
-  - navigating to "https://www.kopis.or.kr/por/db/pblprfr/pblprfr.do?menuId=MNU_00020", waiting until "domcontentloaded"
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=459539&flag=view", waiting until "domcontentloaded"
 
+[galleria-timeworld-culture] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://dept.galleria.co.kr/g-culture/culture-center/branch/timeworld/open-lecture", waiting until "domcontentloaded"
+
+[chuncheon-festival-news-464131] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=464131&flag=view", waiting until "domcontentloaded"
+
+[pyeongtaek-news-board] rendered 3213 chars CHANGED
+[pyeongtaek-festival-alrimi] rendered 3808 chars CHANGED
+[pyeongtaek-gosi] rendered 1639 chars CHANGED
+[hanbat-library-culture] rendered 2204 chars CHANGED
+[chuncheon-festival-news-465019] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.chuncheon.go.kr/happiness/festival-news/?bbsId=BBSMSTR_000000000295&nttId=465019&flag=view", waiting until "domcontentloaded"
+
+[pyoungsong-event-nunkkot] rendered 454 chars same
+[pyoungsong-event-piglets] rendered 484 chars same
+[pyoungsong-event-sandmagic] rendered 498 chars same
+[pyoungsong-event-stonesoup] rendered 335 chars same
+[donghae-dhdmo-program] rendered 1804 chars CHANGED
+[dmzforest-main] rendered 6340 chars CHANGED
+[sejong-notice-dance-free] rendered 1711 chars CHANGED
+[sejong-notice-family-magic-play] rendered 1916 chars CHANGED
+[melon-christmas-carol-212575] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://ticket.melon.com/performance/index.htm?prodId=212575", waiting until "domcontentloaded"
+
+[woorisb-tok7-product] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://m.woorisavingsbank.com/product/deposite/view.do?prdSn=325", waiting until "domcontentloaded"
+
+[mommom-sandmagic-a] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://mom-mom.net/travel/places/6a6fff6990947ad2c40e40da", waiting until "domcontentloaded"
+
+[mommom-sandmagic-b] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://mom-mom.net/travel/places/6a583bb00c06be407d755ad0", waiting until "domcontentloaded"
+
+[sejong-notice-imnansu-play] rendered 869 chars CHANGED
+[icheon-ricefestival-schedule] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.ricefestival.or.kr/program/program.php?sp=schedule", waiting until "domcontentloaded"
+
+[nol-product-kongsuni-daejeon] rendered 2225 chars CHANGED
+[ticketlink-notice-65862] rendered 11388 chars CHANGED
