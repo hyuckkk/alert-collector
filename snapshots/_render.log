@@ -1,52 +1,65 @@
-[kopis-time-beyond-daejeon] rendered 8087 chars same
-[blog-seogu-artfest-blu2sky7] rendered 6222 chars CHANGED
-[leis-spectator-archery-current] rendered 8340 chars CHANGED
-[foresttrip-notice] rendered 141 chars same
-[foresttrip-main] rendered 7318 chars CHANGED
-[cwg-dmz-crane-notice] rendered 904 chars CHANGED
-[namwon-missiontour] rendered 809 chars CHANGED
-[oworld-notice-list] rendered 992 chars CHANGED
-[sslib-sanseong-lecture] rendered 1632 chars CHANGED
-[djac-performance-2026-12-p3] rendered 4046 chars CHANGED
-[djac-perf-1196656259] rendered 3643 chars CHANGED
-[djkids-notice] rendered 1027 chars CHANGED
-[dctf] rendered 1478 chars same
-[nol-family] rendered 4077 chars CHANGED
-[mnd-main] rendered 17019 chars CHANGED
-[daejeon-cafe-100papa-40250] rendered 5630 chars CHANGED
-[sejong-notice-hangeulday-book] rendered 1170 chars CHANGED
-[nol-notice-10111] rendered 7759 chars CHANGED
-[dsecc-programs-p2] rendered 2068 chars CHANGED
-[dsecc-programs-p3] rendered 2068 chars CHANGED
-[mommom-place-6a868bff] rendered 95 chars CHANGED
-[mommom-place-6a2b946b] rendered 95 chars CHANGED
-[mommom-place-6a2b94f5] rendered 95 chars CHANGED
-[mommom-place-6a2b9455] rendered 84 chars CHANGED
-[nol-product-phantom-40th] rendered 5597 chars CHANGED
-[daejeontour-bread-festival] rendered 783 chars CHANGED
-[visitisland-main] rendered 993 chars CHANGED
-[daejeon-okr-edu-8100] rendered 1643 chars same
-[visitkorea-tour50-notice] rendered 628 chars CHANGED
-[mommom-place-6a7d51b7] rendered 95 chars CHANGED
-[blog-first_seogu-224428074790] rendered 3339 chars CHANGED
-[blog-dooglami-224433357728] rendered 4720 chars CHANGED
-[yes24-genre-children] rendered 196 chars CHANGED
-[pyoungsong-event-feed] rendered 34079 chars same
-[pyoungsong-monthly] rendered 634 chars same
-[pyoungsong-wp-event-api] rendered 208 chars same
-[pyoungsong-tribe-events-api] rendered 170933 chars same
-[pyoungsong-event-list] rendered 297 chars same
-[kwater-realtime-sumun] rendered 2280 chars CHANGED
-[cnu-jsh-schedule-178-2026-11] rendered 2538 chars CHANGED
-[cnu-jsh-schedule-178-2026-12] rendered 4511 chars CHANGED
-[kmusic-calendar-2026-11] rendered 1571 chars CHANGED
-[kmusic-calendar-2026-12] rendered 1278 chars CHANGED
-[kmusic-calendar-year] rendered 6318 chars CHANGED
-[nol-product-26001112] rendered 3666 chars CHANGED
-[blog-daedeokgu-224432911721] rendered 2670 chars CHANGED
-[blog-namuac21-224424725714] rendered 4552 chars CHANGED
-[blog-youneed4613-224436099074] rendered 4287 chars CHANGED
-[daejeoni-parent-edu-list] rendered 3163 chars CHANGED
-[ktostay-special-disaster-stay] rendered 2080 chars CHANGED
-[kspo-svoucher-notice] rendered 1916 chars CHANGED
-[yes24-notice-18875] rendered 196 chars CHANGED
+[leis-runningwikii] RENDER ERROR rendered but too little text (51 chars)
+[naver-booking-kids-circus-daejeon] rendered 2960 chars CHANGED
+[smart-science-exhibitions-list] RENDER ERROR rendered but too little text (55 chars)
+[sejong-citylib-main] RENDER ERROR Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://library.sejong.go.kr/
+Call log:
+  - navigating to "https://library.sejong.go.kr/", waiting until "domcontentloaded"
+
+[leis-cycling-speedagency] rendered 337 chars CHANGED
+[naver-cafe-everandon-main] rendered 495 chars CHANGED
+[naver-cafe-everandon-252] rendered 2930 chars CHANGED
+[naver-cafe-everandon-251] rendered 2741 chars CHANGED
+[sslib-sanseong-lect-list] rendered 2101 chars CHANGED
+[belift-illit-schedule] rendered 8797 chars CHANGED
+[foresttrip-notice-280206] rendered 8182 chars CHANGED
+[yes24-perf-61277] rendered 198 chars CHANGED
+[bac-perf-253033] rendered 1752 chars CHANGED
+[bac-perf-253035] rendered 1778 chars CHANGED
+[swissmintshop-gold-coins] rendered 744 chars same
+[swissmint-latest-news] rendered 1177 chars CHANGED
+[vol-commonz042-notice] rendered 1254 chars CHANGED
+[pyoungsong] rendered 883 chars same
+[yes24-notice] rendered 196 chars CHANGED
+[gongjeon-kids] rendered 548 chars CHANGED
+[navy-visit-notice] RENDER ERROR rendered but too little text (34 chars)
+[katc-schedule] rendered 736 chars CHANGED
+[gcfct-schedule] rendered 372 chars CHANGED
+[pyoungsong-performance] rendered 1224 chars same
+[nol-product-26008375] rendered 1746 chars CHANGED
+[englishegg-eggshow] RENDER ERROR rendered but too little text (13 chars)
+[pyoungsong-tribe-events-api-p2] rendered 132622 chars same
+[kopis-pf297232] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF297232", waiting until "domcontentloaded"
+
+[dgdr-festival] rendered 203 chars CHANGED
+[yuseong-lib-lecture-12604] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureDetail.do?lectureIdx=12604", waiting until "domcontentloaded"
+
+[yuseong-lib-lecture-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://lib.yuseong.go.kr/web/program/lectureList.do", waiting until "domcontentloaded"
+
+[blog-gotaekmusicfesta-224426168539] rendered 2682 chars CHANGED
+[yuseong-cultprfr-list] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.yuseong.go.kr/prog/cultprfr/tour/sub04_04/list.do", waiting until "domcontentloaded"
+
+[ysfesta-main] rendered 133 chars CHANGED
+[khs-main] rendered 1682 chars same
+[khs-eventinfo] rendered 1144 chars CHANGED
+[kopis-pf302030] RENDER ERROR TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://kopis.or.kr/por/db/pblprfr/pblprfrView.do?mt20Id=PF302030&mt10Id=undefined&search=plc&", waiting until "domcontentloaded"
+
+[blog-gotaekmusicfesta-224428285877] rendered 2922 chars CHANGED
+[blog-gotaekmusicfesta-224426135103] rendered 3648 chars CHANGED
+[vol-djv1365-main] rendered 4867 chars CHANGED
+[leis-cycling-kcf] rendered 2199 chars CHANGED
+[sje-life-events] rendered 36511 chars CHANGED
+[royalmint-lotr] rendered 4414 chars CHANGED
+[sejong-youth-prog-list] rendered 3010 chars CHANGED
+[ssg-fsale-coupon] rendered 2145 chars CHANGED
+[nol-product-26011246] rendered 1720 chars CHANGED
+[naver-booking-joyculture-daejeon] rendered 2674 chars CHANGED
